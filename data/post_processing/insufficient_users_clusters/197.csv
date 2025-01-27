@@ -1,0 +1,81 @@
+id,user,lat,long,tags,title,date_taken_minute,date_taken_hour,date_taken_day,date_taken_month,date_taken_year,lat_rad,long_rad,cluster dbscan,cluster_DBSCAN,cluster_kmeans
+48984217966,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,27,23,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982952048,9423727@N02,45.770626,4.811325,"catubodua,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",catubodua au rockneat lyon,4,21,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982940568,9423727@N02,45.770626,4.811325,"catubodua,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",catubodua au rockneat lyon,4,21,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982927223,9423727@N02,45.770626,4.811325,"catubodua,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",catubodua au rockneat lyon,5,21,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48983670432,9423727@N02,45.770626,4.811325,"catubodua,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",catubodua au rockneat lyon,5,21,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982915523,9423727@N02,45.770626,4.811325,"catubodua,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",catubodua au rockneat lyon,6,21,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48983465966,9423727@N02,45.770626,4.811325,"catubodua,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",catubodua au rockneat lyon,6,21,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48983457081,9423727@N02,45.770626,4.811325,"catubodua,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",catubodua au rockneat lyon,8,21,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982885293,9423727@N02,45.770626,4.811325,"catubodua,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",catubodua au rockneat lyon,9,21,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48983627382,9423727@N02,45.770626,4.811325,"catubodua,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",catubodua au rockneat lyon,9,21,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982866518,9423727@N02,45.770626,4.811325,"catubodua,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",catubodua au rockneat lyon,10,21,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48983603662,9423727@N02,45.770626,4.811325,"catubodua,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",catubodua au rockneat lyon,12,21,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982843713,9423727@N02,45.770626,4.811325,"catubodua,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",catubodua au rockneat lyon,15,21,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48983585877,9423727@N02,45.770626,4.811325,"catubodua,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",catubodua au rockneat lyon,27,21,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982826988,9423727@N02,45.770626,4.811325,"catubodua,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",catubodua au rockneat lyon,30,21,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48983374496,9423727@N02,45.770626,4.811325,"cnbardd,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",cn bardd au rockneat lyon,55,21,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48983559447,9423727@N02,45.770626,4.811325,"cnbardd,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",cn bardd au rockneat lyon,55,21,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982798443,9423727@N02,45.770626,4.811325,"cnbardd,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",cn bardd au rockneat lyon,55,21,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48983348336,9423727@N02,45.770626,4.811325,"cnbardd,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",cn bardd au rockneat lyon,56,21,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48983530942,9423727@N02,45.770626,4.811325,"cnbardd,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",cn bardd au rockneat lyon,57,21,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48983521647,9423727@N02,45.770626,4.811325,"cnbardd,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",cn bardd au rockneat lyon,58,21,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982757248,9423727@N02,45.770626,4.811325,"cnbardd,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",cn bardd au rockneat lyon,58,21,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48983311261,9423727@N02,45.770626,4.811325,"cnbardd,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",cn bardd au rockneat lyon,58,21,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48983299291,9423727@N02,45.770626,4.811325,"cnbardd,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",cn bardd au rockneat lyon,2,22,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48983483992,9423727@N02,45.770626,4.811325,"cnbardd,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",cn bardd au rockneat lyon,3,22,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982720673,9423727@N02,45.770626,4.811325,"cnbardd,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",cn bardd au rockneat lyon,3,22,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982711003,9423727@N02,45.770626,4.811325,"cnbardd,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",cn bardd au rockneat lyon,4,22,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48983250801,9423727@N02,45.770626,4.811325,"cnbardd,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",cn bardd au rockneat lyon,5,22,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48983427197,9423727@N02,45.770626,4.811325,"cnbardd,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",cn bardd au rockneat lyon,5,22,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48983392462,9423727@N02,45.770626,4.811325,"cnbardd,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",cn bardd au rockneat lyon,8,22,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982603868,9423727@N02,45.770626,4.811325,"cnbardd,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",cn bardd au rockneat lyon,14,22,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982660968,9423727@N02,45.770626,4.811325,"cnbardd,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",cn bardd au rockneat lyon,5,22,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48983400222,9423727@N02,45.770626,4.811325,"cnbardd,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",cn bardd au rockneat lyon,7,22,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48983380702,9423727@N02,45.770626,4.811325,"cnbardd,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",cn bardd au rockneat lyon,8,22,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48983178001,9423727@N02,45.770626,4.811325,"cnbardd,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",cn bardd au rockneat lyon,9,22,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48983151086,9423727@N02,45.770626,4.811325,"cnbardd,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",cn bardd au rockneat lyon,14,22,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982568738,9423727@N02,45.770626,4.811325,"cnbardd,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",cn bardd au rockneat lyon,27,22,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48983307462,9423727@N02,45.770626,4.811325,"cnbardd,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",cn bardd au rockneat lyon,28,22,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48983288427,9423727@N02,45.770626,4.811325,"cnbardd,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",cn bardd au rockneat lyon,32,22,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982496838,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,10,23,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48983045496,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,12,23,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48983018046,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,13,23,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48981980183,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,4,0,28,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48981775813,9423727@N02,45.770626,4.811325,"catubodua,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",catubodua au rockneat lyon,33,21,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982516713,9423727@N02,45.770626,4.811325,"cnbardd,france,lyon,rockneat,blackmetal,concert,live,metal,pagan",cn bardd au rockneat lyon,40,22,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48983051196,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,12,23,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48983029316,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,12,23,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48983193077,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,14,23,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982431368,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,14,23,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982980046,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,14,23,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982407963,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,15,23,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982383638,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,18,23,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982371823,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,18,23,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982354143,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,20,23,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48983091637,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,21,23,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982893451,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,24,23,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982880166,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,26,23,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982288948,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,28,23,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982273373,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,33,23,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982815546,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,33,23,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982241598,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,37,23,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982979302,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,43,23,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982958642,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,45,23,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982190608,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,45,23,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982923662,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,51,23,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982903352,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,4,0,28,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982883697,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,57,23,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982677436,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,57,23,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982851657,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,58,23,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982651556,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,58,23,27,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982080433,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,1,0,28,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982627351,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,1,0,28,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982804467,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,1,0,28,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982790912,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,2,0,28,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982757967,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,4,0,28,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982697087,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,5,0,28,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982671067,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,5,0,28,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48981897243,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,6,0,28,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982409061,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,7,0,28,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
+48982383176,9423727@N02,45.770626,4.811325,"france,lyon,rockneat,saor,blackmetal,concert,live,metal,pagan",saor au rockneat lyon,9,0,28,10,2019,0.7988481243989222,0.08397346263351618,710,197,0
