@@ -1,203 +1,81 @@
-id,user,lat,long,tags,title,date_taken_minute,date_taken_hour,date_taken_day,date_taken_month,date_taken_year,lat_rad,long_rad,cluster dbscan,cluster_DBSCAN,cluster_kmeans
-4438757718,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",emt vnissieux,0,16,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437980357,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",emt vnissieux,0,16,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438755950,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",emt vnissieux  backyard,59,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437979115,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",emt vnissieux  backyard,58,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438754552,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,y2459,emtvnissieux,stefho74",y 2459,58,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437977723,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,y2450,emtvnissieux,stefho74",y 2450,58,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438753288,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",emt vnissieux,57,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437976461,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,y2450,emtvnissieux,stefho74",y 2450,57,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437975853,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,y2450,emtvnissieux,stefho74",y 2450,57,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437975137,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,y2450,emtvnissieux,stefho74",y 2450,57,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437974527,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",pont tournant  turntable,56,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438749892,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",pont tournant  turntable,56,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438749086,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",station de sable,55,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438748254,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",bb 63697,55,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438747536,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",bb 63697,55,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438746872,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",commande daiguillage,55,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438746246,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",emt vnissieux,54,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438745570,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",bb 67427,54,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437968879,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,bb664024,emtvnissieux,stefho74",bb 463994,54,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438744110,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,bb664024,emtvnissieux,stefho74",bb 664024,54,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438743392,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,bb664024,emtvnissieux,stefho74",bb 664024  bb 463994,54,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438742872,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",bb 464715 and its truck,53,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438742212,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",bb 464715 and its truck,53,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437965401,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",bb 66703 well weithered,53,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438740878,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",bb 66703 well weithered,53,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438740186,22056213@N04,45.709685,4.873509,"bb,railways,sncf,rotonde,venissieux,frenchrailways,427125,emtvnissieux,stefho74",emt vnissieux,53,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438739578,22056213@N04,45.709685,4.873509,"bb,railways,sncf,rotonde,venissieux,frenchrailways,427125,emtvnissieux,stefho74",emt vnissieux,53,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438738894,22056213@N04,45.709685,4.873509,"bb,railways,sncf,rotonde,venissieux,frenchrailways,427125,emtvnissieux,stefho74",emt vnissieux,53,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438738182,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,bb427125,emtvnissieux,stefho74",bb 427125,52,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438737424,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,bb427125,emtvnissieux,stefho74",bb 427125,52,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437960645,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,bb427125,emtvnissieux,stefho74",bb 427125,52,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437959991,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,bb427125,emtvnissieux,stefho74",bb 427125,52,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438735400,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,truck464815,emtvnissieux,stefho74",truck 464815,52,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437958539,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",bb 66703 marque par le temps,52,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438734054,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,bb567389bb67373,emtvnissieux,stefho74",bb 567389,51,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437957319,22056213@N04,45.709685,4.873509,"bb,railways,sncf,rotonde,venissieux,frenchrailways,bb67373,567389,emtvnissieux,stefho74",bb 67373,51,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438732842,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,bb67373,bb567389,emtvnissieux,stefho74",bb 567389  bb 67373,51,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437955971,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,cc72084,emtvnissieux,stefho74",cc 72084,51,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438731530,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,cc72084,emtvnissieux,stefho74",cc 72084,51,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438730912,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,cc72084,emtvnissieux,stefho74",cc 72084,51,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438730216,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,cc72084,emtvnissieux,stefho74",cc 72084,51,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438729436,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,cc72084,emtvnissieux,stefho74",cc 72084,51,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437952767,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,cc72084,bb26138,emtvnissieux,stefho74",cc 72084  bb 26138,51,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437952105,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,cc72084,emtvnissieux,stefho74",cc 72084,51,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438727558,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,cc72084,emtvnissieux,stefho74",cc 72084,51,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437950791,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,cc72084,emtvnissieux,stefho74",cc 72084,50,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437950081,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,cc72084,emtvnissieux,stefho74",cc 72084,50,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437949411,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,cc72084,emtvnissieux,stefho74",cc 72084,50,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438724884,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",wagon de secours,50,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438724280,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",wagon de secours,49,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437947275,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",wagon de secours,49,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437946533,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",wagon de secours,49,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438721898,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,cc72084,emtvnissieux,stefho74",emt vnissieux,48,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438721202,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,bb26138,emtvnissieux,stefho74",bb 26138,48,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438720540,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,bb525258,emtvnissieux,stefho74",bb 525258,48,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438719856,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,bb525258,emtvnissieux,stefho74",bb 525258,47,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437943111,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,bb525258,emtvnissieux,stefho74",bb 525258,47,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438718496,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,bb525258,emtvnissieux,stefho74",bb 525258,47,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437941795,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,bb525258,emtvnissieux,stefho74",bb 525258,47,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438717028,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,bb525258,emtvnissieux,stefho74",bb 525258,47,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438716362,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",wagon de secours,46,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437939513,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",emt vnissieux,46,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438715044,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,venissieus,emtvnissieux,stefho74",emt vnissieux,46,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438714444,22056213@N04,45.709685,4.873509,"cc,railways,sncf,rotonde,venissieux,frenchrailways,72084,emtvnissieux,stefho74",cc 72084,46,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438713850,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,bb67373,bb567389,emtvnissieux,stefho74",bb 567389  bb 67373,46,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438713256,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,bb67373,bb567389,emtvnissieux,stefho74",bb 67373,45,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437936181,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,cc72084,bb67373,bb567389,emtvnissieux,stefho74",bb 567389  bb 67373,45,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437935537,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",time is passing,43,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438711126,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",bb 66703 well weithered,43,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437934153,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,cc72084,emtvnissieux,stefho74",cc 72084 leaving the roundhouse,43,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437933421,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",emt vnissieux,43,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438708904,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",emt vnissieux,43,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438708292,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",wagon de secours,42,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438707666,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",wagon de secours,42,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437930791,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",bb 464715,42,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438706324,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",bb 464715,41,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437929529,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",emt vnissieux,40,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437928987,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",emt vnissieux,39,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437928417,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",emt vnissieux,39,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437927909,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",emt vnissieux,39,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4438703338,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",emt vnissieux,39,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4437926519,22056213@N04,45.709685,4.873509,"railways,sncf,rotonde,venissieux,frenchrailways,emtvnissieux,stefho74",emt vnissieux,38,15,15,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484246387,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",sncf,28,10,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484897144,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",p3304651,28,10,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484245277,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",emt vnissieux  y 2450,28,10,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484895830,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",emt vnissieux,27,10,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484244027,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 422227,27,10,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484894468,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",y 8000,27,10,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484242685,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",latelier,9,10,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484241991,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 25236  latelier,8,10,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484241309,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",latelier,8,10,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484240593,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",latelier,8,10,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484891264,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",latelier,7,10,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484890620,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",latelier,7,10,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484238571,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 22273,3,10,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484237881,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 22273,1,10,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484237169,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",inside the roundhouse,1,10,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484236449,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 22273,59,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484886808,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 22273 leaving the turntable,59,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484234553,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 22273 leaving the turntable,59,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484233785,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 22273 leaving the turntable,59,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484232997,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 25654,58,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484883656,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 525550          bb 525554,58,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484231505,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 25654  bb 525550  bb 522554,58,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484882128,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 525193,58,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484229981,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 63663,58,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484880616,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",emt vnissieux,58,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484879812,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 22273 on the turtable,57,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484227855,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 22273 on the turntable,57,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484878466,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 22273 on the turntable,57,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484877746,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 22273 coming on the turntable,57,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484225541,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",p3304623,57,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484876386,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 63755,57,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484875670,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 22273,57,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484874946,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 22273,57,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484874276,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 525250,54,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484873700,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 525250,54,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484872978,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 525250,53,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484221009,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 525250,53,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484220303,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 525250,53,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484219637,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 525250,53,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484870256,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 525250,53,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484869458,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 525250,52,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484217461,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 525250,52,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484216845,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 525250,52,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484867530,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 525250,52,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484866826,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 525250,52,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484214925,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 525250,52,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484214267,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 525250,52,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484864816,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 525250,52,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484864140,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 525250,52,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484212287,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 525250,52,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484862868,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 525250,52,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484861774,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 525250,52,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484860766,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 525250,51,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484860068,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 425250 on the turntable,51,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484859514,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 425250 sur le pont tournant,50,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484207345,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 425250 on the turntable,50,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484206533,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 425250 sur le pont tournant,50,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484205821,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 425250 on the turntable,50,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484204393,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 425250 on the turntable,50,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484855202,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 425250 sur le pont tournant,49,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484203013,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 425250 on the turntable,49,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484853850,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 425250 sur le pont tournant,49,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484201567,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 425250 on the turntable,49,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484852394,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 425250 entre sur le pont tournant,49,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484851620,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 425250 coming on the turntable,49,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484850920,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 425250,49,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484850148,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",emt vnissieux,49,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484849428,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",emt vnissieux,48,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484848820,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",emt vnissieux,48,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484196189,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",emt vnissieux  the turntable,48,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484195479,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",locotracteur,48,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484194765,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",emt vnissieux  truck 464815,47,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484194067,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 425250 leaving the roundhouse,46,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484845170,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 464715 inside the roundhouse,46,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484844468,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 425250 leaving the roundhouse,45,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484191899,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 425250 leaving the roundhouse,45,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484191101,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 464715,45,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484190329,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 464715,45,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484841424,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",inside the rounhouse,43,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484188999,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 25251,42,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484188387,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",emt vnissieux,41,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484839364,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",emt vnissieux,41,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484186847,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 25250,40,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484186207,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 25251,40,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484185147,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 25251,39,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484836124,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 25251,42,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484183745,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 25251,40,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484183063,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 25251,40,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484833956,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 63985,39,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484833376,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 63985,39,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484181079,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 63985,39,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484832060,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 63985,38,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484831314,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 63985,38,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484178841,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",logo rhne alpes,37,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484829898,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",agc,37,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484177585,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",agc rhne alpes,35,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484827334,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",agc rhne alpes,35,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484174963,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",emt vnissieux,34,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484826046,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",essieux  axles,34,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484173669,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",essieux  axles,34,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484824096,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",blason 9635,31,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484823362,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",blason 9635,30,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484828706,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 63000,35,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484827970,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 63000,35,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484824728,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 63000,32,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484822784,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",blason 9635,30,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484822184,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",agc 27684,29,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484169927,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",emt vnissieux,29,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484169317,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",emt vnissieux,29,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484820262,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",emt vnissieux,29,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484819348,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",emt vnissieux,8,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484167105,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",emt vnissieux,8,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484166331,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 22387,6,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484165607,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 22387,5,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484816438,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 67382,5,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484164189,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 67382,5,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484163417,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",emt vnissieux,4,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484814334,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",emt vnissieux,4,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484161785,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 467501,4,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
-4484160713,22056213@N04,45.709685,4.873509,"turntable,railways,sncf,roundhouse,rotonde,ponttournant,frenchrailways,emtvnissieux,rotondevnissieux,stefho74",bb 467501,4,9,30,3,2010,0.7977845032994643,0.08505877817557633,101,41,2
+id,user,lat,long,tags,title,date_taken_minute,date_taken_hour,date_taken_day,date_taken_month,date_taken_year,temps_diff,lat_std,long_std,cluster_DBSCAN
+4470040969,26173098@N00,45.748996,4.802526,,,36,20,28,3,2010,-1.5522668445556287,-0.7469587479688727,-1.889740039387717,41
+4470817344,26173098@N00,45.748996,4.802526,,,34,11,28,3,2010,-1.5526365570885978,-0.7469587479688727,-1.889740039387717,41
+4470813746,26173098@N00,45.748996,4.802526,,,34,20,28,3,2010,-1.5522682088085178,-0.7469587479688727,-1.889740039387717,41
+4470721906,26173098@N00,45.749003,4.802593,,,3,20,28,3,2010,-1.5522893547283,-0.7467086106563503,-1.885960510964354,41
+4469931093,26173098@N00,45.749003,4.802593,,,59,19,28,3,2010,-1.5522920832340785,-0.7467086106563503,-1.885960510964354,41
+4470705180,26173098@N00,45.749003,4.802593,,,57,19,28,3,2010,-1.5522934474869678,-0.7467086106563503,-1.885960510964354,41
+4470699298,26173098@N00,45.749003,4.802593,,,55,19,28,3,2010,-1.552294811739857,-0.7467086106563503,-1.885960510964354,41
+4458233708,26173098@N00,45.748927,4.802562,,,2,21,23,3,2010,-1.557160419669135,-0.7494243871908935,-1.8877092479960638,41
+4457451111,26173098@N00,45.748934,4.80262,,,0,21,23,3,2010,-1.5571617839220244,-0.749174249878625,-1.884437417420589,41
+4458225460,26173098@N00,45.748934,4.80262,,,58,20,23,3,2010,-1.5571631481749135,-0.749174249878625,-1.884437417420589,41
+4457443577,26173098@N00,45.748934,4.80262,,,57,20,23,3,2010,-1.5571638303013582,-0.749174249878625,-1.884437417420589,41
+4451505164,26173098@N00,45.748949,4.802575,,,1,19,21,3,2010,-1.5592074811293573,-0.7486382413519,-1.8869759066601806,41
+4451501614,26173098@N00,45.748949,4.802575,,,0,19,21,3,2010,-1.5592081632558017,-0.7486382413519,-1.8869759066601806,41
+4450717679,26173098@N00,45.748949,4.802575,,,56,18,21,3,2010,-1.5592108917615801,-0.7486382413519,-1.8869759066601806,41
+4440720769,26173098@N00,45.748981,4.802464,,,51,19,17,3,2010,-1.5631024231279802,-0.7474947564953438,-1.893237513451187,41
+4440716365,26173098@N00,45.748981,4.802464,,,49,19,17,3,2010,-1.5631037873808695,-0.7474947564953438,-1.893237513451187,41
+4432179735,26173098@N00,45.748915,4.802415,,,37,19,14,3,2010,-1.5660587591388442,-0.7498531940123243,-1.8960016461787235,41
+4431854110,26173098@N00,45.748963,4.802464,,,44,11,14,3,2010,-1.5663814049471363,-0.7481379667271091,-1.893237513451187,41
+4431082137,26173098@N00,45.748963,4.802464,,,43,11,14,3,2010,-1.566382087073581,-0.7481379667271091,-1.893237513451187,41
+4414275261,26173098@N00,45.748976,4.802509,,,4,22,7,3,2010,-1.5728343211129812,-0.7476734260042521,-1.890699024211595,41
+4414268735,26173098@N00,45.748976,4.802509,,dj accroc  la tv,2,22,7,3,2010,-1.5728356853658705,-0.7476734260042521,-1.890699024211595,41
+4414261013,26173098@N00,45.748976,4.802509,,,0,22,7,3,2010,-1.5728370496187596,-0.7476734260042521,-1.890699024211595,41
+4413650742,26173098@N00,45.748939,4.802568,,,15,13,7,3,2010,-1.5731951660021708,-0.7489955803697167,-1.8873707827641215,41
+4413648448,26173098@N00,45.748939,4.802568,,,14,4,7,3,2010,-1.5735641964086953,-0.7489955803697167,-1.8873707827641215,41
+4406503995,26173098@N00,45.748933,4.802564,,,32,21,4,3,2010,-1.5758029353998477,-0.7492099837803051,-1.8875964262520664,41
+4401072947,26173098@N00,45.748915,4.802483,,,11,18,2,3,2010,-1.5779045669756373,-0.7498531940123243,-1.8921657068833615,41
+4563944254,26173098@N00,45.748937,4.802595,,,22,21,29,4,2010,-1.5208030801723555,-0.7490670481733308,-1.8858476892203564,41
+4563796650,26173098@N00,45.748927,4.802596,,,12,20,29,4,2010,-1.520850829023477,-0.7494243871908935,-1.8857912783483577,41
+4563792318,26173098@N00,45.748927,4.802596,,,10,20,29,4,2010,-1.5208521932763663,-0.7494243871908935,-1.8857912783483577,41
+4560590415,26173098@N00,45.748934,4.802602,,,7,20,28,4,2010,-1.5218365017359132,-0.749174249878625,-1.8854528131164157,41
+4560586799,26173098@N00,45.748934,4.802602,,,5,20,28,4,2010,-1.5218378659888026,-0.749174249878625,-1.8854528131164157,41
+4551934646,26173098@N00,45.74895,4.802607,,,37,20,25,4,2010,-1.524762824183215,-0.74860250745022,-1.885170758756472,41
+4551927768,26173098@N00,45.74895,4.802607,,,35,20,25,4,2010,-1.5247641884361043,-0.74860250745022,-1.885170758756472,41
+4551279197,26173098@N00,45.74895,4.802607,,,32,20,25,4,2010,-1.524766234815438,-0.74860250745022,-1.885170758756472,41
+4531794514,26173098@N00,45.748973,4.802593,,,59,18,18,4,2010,-1.5317055071362773,-0.7477806277095463,-1.885960510964354,41
+4531156285,26173098@N00,45.748973,4.802593,,,58,18,18,4,2010,-1.531706189262722,-0.7477806277095463,-1.885960510964354,41
+4527292699,26173098@N00,45.749027,4.802524,,premier repas pure de carottes,27,2,17,4,2010,-1.5333644386495262,-0.7458509970139966,-1.8898528611317145,41
+4527921878,26173098@N00,45.749027,4.802524,,premires carottes,25,11,17,4,2010,-1.5329974546223355,-0.7458509970139966,-1.8898528611317145,41
+4526292677,26173098@N00,45.748997,4.802593,,,57,23,16,4,2010,-1.533466757616215,-0.7469230140669387,-1.885960510964354,41
+4526918096,26173098@N00,45.748997,4.802593,,,55,23,16,4,2010,-1.5334681218691044,-0.7469230140669387,-1.885960510964354,41
+4524690531,26173098@N00,45.748967,4.802568,,,6,8,16,4,2010,-1.5341154598650226,-0.7479950311201348,-1.8873707827641215,41
+4523292313,26173098@N00,45.748987,4.802566,,"varicelle,  premiers jours",46,19,15,4,2010,-1.534620233434021,-0.7472803530847554,-1.887483604508119,41
+4523922726,26173098@N00,45.748987,4.802566,,varicelle s,44,19,15,4,2010,-1.5346215976869102,-0.7472803530847554,-1.887483604508119,41
+4515438462,26173098@N00,45.74901,4.802554,,,42,19,12,4,2010,-1.537569748180439,-0.7464584733440818,-1.8881605349720034,41
+4515435498,26173098@N00,45.74901,4.802554,,,41,19,12,4,2010,-1.5375704303068836,-0.7464584733440818,-1.8881605349720034,41
+4515432420,26173098@N00,45.74901,4.802554,,,40,19,12,4,2010,-1.5375711124333282,-0.7464584733440818,-1.8881605349720034,41
+4514789611,26173098@N00,45.74901,4.802554,,,38,19,12,4,2010,-1.5375724766862173,-0.7464584733440818,-1.8881605349720034,41
+4514785415,26173098@N00,45.74901,4.802554,,,36,19,12,4,2010,-1.5375738409391064,-0.7464584733440818,-1.8881605349720034,41
+4514779601,26173098@N00,45.74901,4.802554,,,34,19,12,4,2010,-1.5375752051919958,-0.7464584733440818,-1.8881605349720034,41
+4515412384,26173098@N00,45.74901,4.802554,,,33,19,12,4,2010,-1.5375758873184402,-0.7464584733440818,-1.8881605349720034,41
+4514771843,26173098@N00,45.74901,4.802554,,,32,19,12,4,2010,-1.5375765694448849,-0.7464584733440818,-1.8881605349720034,41
+4515404974,26173098@N00,45.74901,4.802554,,,30,19,12,4,2010,-1.537577933697774,-0.7464584733440818,-1.8881605349720034,41
+4489102771,26173098@N00,45.748989,4.802596,,,21,15,4,4,2010,-1.545605879824183,-0.7472088852811413,-1.8857912783483577,41
+4489100187,26173098@N00,45.748989,4.802596,,,20,15,4,4,2010,-1.5456065619506276,-0.7472088852811413,-1.8857912783483577,41
+4489742378,26173098@N00,45.748989,4.802596,,,19,15,4,4,2010,-1.5456072440770723,-0.7472088852811413,-1.8857912783483577,41
+4489739492,26173098@N00,45.748989,4.802596,,,18,15,4,4,2010,-1.5456079262035167,-0.7472088852811413,-1.8857912783483577,41
+4489088725,26173098@N00,45.748989,4.802596,,,15,15,4,4,2010,-1.5456099725828505,-0.7472088852811413,-1.8857912783483577,41
+4489085733,26173098@N00,45.748989,4.802596,,,14,15,4,4,2010,-1.5456106547092952,-0.7472088852811413,-1.8857912783483577,41
+4655866991,26173098@N00,45.748931,4.802576,,,11,17,31,5,2010,-1.4895419073431266,-0.7492814515839192,-1.8869194957881819,41
+4656480282,26173098@N00,45.748931,4.802576,,,9,17,31,5,2010,-1.4895432715960157,-0.7492814515839192,-1.8869194957881819,41
+4656467780,26173098@N00,45.748931,4.802576,,,5,17,31,5,2010,-1.4895460001017942,-0.7492814515839192,-1.8869194957881819,41
+4656461892,26173098@N00,45.748931,4.802576,,,3,17,31,5,2010,-1.4895473643546833,-0.7492814515839192,-1.8869194957881819,41
+4655837329,26173098@N00,45.748931,4.802576,,,2,17,31,5,2010,-1.489548046481128,-0.7492814515839192,-1.8869194957881819,41
+4612180712,26173098@N00,45.748926,4.802602,,,50,17,16,5,2010,-1.5042492356149852,-0.7494601210928276,-1.8854528131164157,41
+4612171376,26173098@N00,45.748926,4.802602,,,47,17,16,5,2010,-1.504251281994319,-0.7494601210928276,-1.8854528131164157,41
+4611554773,26173098@N00,45.748926,4.802602,,,45,17,16,5,2010,-1.5042526462472081,-0.7494601210928276,-1.8854528131164157,41
+4612161888,26173098@N00,45.748926,4.802602,,,44,17,16,5,2010,-1.5042533283736528,-0.7494601210928276,-1.8854528131164157,41
+4612157508,26173098@N00,45.748926,4.802602,,,42,17,16,5,2010,-1.5042546926265419,-0.7494601210928276,-1.8854528131164157,41
+4596257988,26173098@N00,45.748936,4.802594,,,14,20,10,5,2010,-1.5100445818882429,-0.7491027820750109,-1.8859041000923553,41
+4595637509,26173098@N00,45.748936,4.802594,,,13,20,10,5,2010,-1.5100452640146875,-0.7491027820750109,-1.8859041000923553,41
+4571220505,26173098@N00,45.748916,4.802589,,cest parti pour une semaine a setif,34,19,2,5,2010,-1.5179299635877321,-0.7498174601103903,-1.8861861544522986,41
+4571846152,26173098@N00,45.748916,4.802589,,,31,19,2,5,2010,-1.517932009967066,-0.7498174601103903,-1.8861861544522986,41
+4567818442,26173098@N00,45.748953,4.802598,,,14,12,1,5,2010,-1.519212361303566,-0.7484953057449257,-1.8856784566044105,41
+4567184785,26173098@N00,45.748953,4.802598,,,13,12,1,5,2010,-1.5192130434300106,-0.7484953057449257,-1.8856784566044105,41
+4725165656,26173098@N00,45.748956,4.802584,,,6,20,22,6,2010,-1.4678127694506329,-0.7483881040396315,-1.8864682088122422,41
+4724509903,26173098@N00,45.748956,4.802584,,,5,20,22,6,2010,-1.4678134515770775,-0.7483881040396315,-1.8864682088122422,41
+4725156402,26173098@N00,45.748956,4.802584,,,3,20,22,6,2010,-1.4678148158299669,-0.7483881040396315,-1.8864682088122422,41
+4709724900,26173098@N00,45.748929,4.802553,,,38,19,17,6,2010,-1.4727431793921475,-0.7493529193875333,-1.8882169458440021,41
+4706313381,26173098@N00,45.748956,4.802584,,,54,19,16,6,2010,-1.4737145274492471,-0.7483881040396315,-1.8864682088122422,41
+4706307283,26173098@N00,45.748956,4.802584,,,53,19,16,6,2010,-1.4737152095756918,-0.7483881040396315,-1.8864682088122422,41
