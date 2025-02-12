@@ -21,10 +21,13 @@ def options_cluster(cluster_id):
 def generate_description(tfidf_words, associated_words):
     """Génère une description avec GPT4All."""
     prompt = f"""
-    Voici des mots-clés décrivants un cluster de données représentant un endroit à Lyon.
+    Voici des mots-clés décrivant un endroit à Lyon.
     - Mots-clés avec score TF-IDF élevé : {', '.join(tfidf_words)}
     - Mots issus de règles d'associations : {', '.join(associated_words)}
-    Réponds en une phrase aux éléments suivants : Où se situe ce cluster dans Lyon ? Pourquoi est-il intéressant ? Que pouvons-nous y faire ?
+    Il faut parvenir à décrire cet endroit. Donne donc un seul titre et une seule mini-description de cet endroit à partir des mots à ta disposition.
+    Rédige ta réponse sous la forme suivante : 
+    - Titre : ...
+    - Mini-description : Cette endroit pourrait correspondre à ...
     """
 
     response = model.generate(prompt, max_tokens=150)
