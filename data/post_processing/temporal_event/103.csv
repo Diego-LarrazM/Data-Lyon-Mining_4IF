@@ -1,0 +1,237 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4872035207,45.768031,4.827874,103,passerelle saintvincent france water river outdoors europe lyon cloudy waterway watercourse saone,2010,7,26,16,12,-1.4345754763114196,undef
+4963862682,45.768121,4.827954,103,lyon fresque lyonnais france rhne village tourisme villes filoer,2010,6,3,14,14,-1.48671585748318,undef
+4963262747,45.768061,4.827997,103,lyon fresque lyonnais france rhne village tourisme villes filoer,2010,6,3,14,14,-1.48671585748318,undef
+4963859936,45.768076,4.827976,103,lyon fresque lyonnais france rhne village tourisme villes filoer,2010,6,3,14,12,-1.4867172217360691,undef
+5128888559,45.768151,4.827954,103,fresque lyonnais art wall painting nikon mural lyon optical illusion fresco opticalillusion visualart trompeloeil lyon rhone sane lyonnais lafresquedeslyonnais citedelacreation,2010,8,13,10,39,-1.4171219069736316,undef
+5129333800,45.768151,4.827954,103,fresque lyonnais wall painting nikon mural lyon optical illusion fresco opticalillusion trompeloeil lyon rhone sane lyonnais lafresquedeslyonnais citedelacreation,2010,8,13,10,39,-1.4171219069736316,undef
+5128720741,45.768151,4.827954,103,fresque lyonnais nikon,2010,8,13,10,39,-1.4171219069736316,undef
+5127086930,45.768151,4.827954,103,fresque lyonnais camera france art wall painting french nikon mural lyon pentax illusion beaujolais opticalillusion trompeloeil francais lyon rhone sane lyonnais lafresquedeslyonnais citedelacreation,2010,8,13,10,41,-1.4171205427207425,undef
+5127071952,45.768151,4.827954,103,look france wall painting nikon mural lyon optical relief illusion fresco opticalillusion trompeloeil lyon rhone sane bernardpivot lafresquedeslyonnais citedelacreation,2010,8,13,10,40,-1.417121224847187,undef
+5127057392,45.768151,4.827954,103,bernard pivot nikon,2010,8,13,10,40,-1.417121224847187,undef
+5127051362,45.768151,4.827954,103,bernard pivot nikon,2010,8,13,10,40,-1.417121224847187,undef
+5126441819,45.768151,4.827954,103,fresque lyonnais wall painting nikon mural lyon optical illusion fresco opticalillusion trompeloeil lyon rhone sane lyonnais lafresquedeslyonnais citedelacreation,2010,8,13,10,40,-1.417121224847187,undef
+5126494197,45.768151,4.827954,103,fresque lyonnais camera girl wall painting photo nikon mural photographer lyon pentax balcony optical snap photograph beaujolais fresco opticalillusion trompeloeil lyon fresque lyonais lafresquedeslyonnais thecitedelacreation illusionfrance,2010,8,13,10,41,-1.4171205427207425,undef
+5122864602,45.768271,4.828233,103,facade france facade lyon,2010,10,16,15,10,-1.3540722775735037,undef
+5154892930,45.768151,4.827954,103,fresque lyonnaise fresco people lyon nikon,2010,8,13,10,38,-1.4171225891000765,undef
+5154882422,45.768151,4.827954,103,juliette rcamier wall painting nikon mural lyon optical illusion juliette fresco opticalillusion trompeloeil lyon rhone sane rcamier lyonnais lafresquedeslyonnais citedelacreation juliettercamier,2010,8,13,10,42,-1.4171198605942978,undef
+5154270495,45.768151,4.827954,103,fresque lyonnais fresco people lyon wall painting nikon mural lyon optical illusion fresco opticalillusion trompeloeil lyon rhone sane lyonnais lafresquedeslyonnais citedelacreation,2010,8,13,10,39,-1.4171219069736316,undef
+5154264219,45.768151,4.827954,103,paul bocuse frederic dard wall painting nikon mural lyon optical illusion fresco opticalillusion trompeloeil lyon rhone paulbocuse sane lyonnais lafresquedeslyonnais citedelacreation fredericdard,2010,8,13,10,42,-1.4171198605942978,undef
+5154252793,45.768151,4.827954,103,louise labe andrmarie ampre wall painting nikon mural lyon optical illusion fresco opticalillusion trompeloeil lyon rhone sane lyonnais lafresquedeslyonnais citedelacreation,2010,8,13,10,37,-1.4171232712265207,undef
+5154226327,45.768151,4.827954,103,major general martin jeanbaptiste say wall painting nikon mural lyon optical illusion fresco opticalillusion trompeloeil lyon rhone sane lyonnais lafresquedeslyonnais citedelacreation jeanbaptistesay majorgeneralmartin,2010,8,13,10,37,-1.4171232712265207,undef
+5154809992,45.768151,4.827954,103,tony garnier lyon wall painting nikon mural lyon optical illusion fresco opticalillusion trompeloeil lyon rhone sane lyonnais lafresquedeslyonnais citedelacreation,2010,8,13,10,40,-1.417121224847187,undef
+5149063667,45.768151,4.827954,103,auguste louis lumiere camera cinema film wall painting movie louis nikon mural lyon first optical cine illusion lumiere premiere fresco opticalillusion auguste trompeloeil lyon rhone sane lyonnais lafresquedeslyonnais citedelacreation lyonconfluence,2010,8,13,10,41,-1.4171205427207425,undef
+5136476357,45.768151,4.827954,103,fresque lyonnais france bernard wall painting french football nikon mural lyon pierre soccer optical illusion fresco opticalillusion trompeloeil francais lyon rhone lacombe sane abb lyonnais lafresquedeslyonnais abbpierre labbpierre citedelacreation bernardlacombe,2010,8,13,10,40,-1.417121224847187,undef
+5137068980,45.768151,4.827954,103,fresque lyonnais france wall painting french football nikon mural lyon soccer optical illusion fresco opticalillusion trompeloeil francais lyon rhone sane lyonnais lafresquedeslyonnais abbpierre labbpierre citedelacreation bernardlacombe,2010,8,13,10,40,-1.417121224847187,undef
+5394944403,45.767979,4.827938,103,jca fte lumires lyon fete lumieres,2010,12,7,20,25,-1.3027797795723717,undef
+5246738810,45.768151,4.828104,103,fte lumires light lyon illumination fte lumires,2010,12,8,19,46,-1.3018241204234977,undef
+5588648630,45.76825,4.828222,103, france europe lyon unesco worldheritage,2011,3,15,12,2,-1.20686120531311,undef
+5588646366,45.768166,4.828194,103, france europe lyon unesco worldheritage,2011,3,15,12,2,-1.20686120531311,undef
+5588609938,45.768111,4.828166,103, france europe lyon unesco worldheritage,2011,3,14,17,46,-1.2076088158963834,undef
+5588014035,45.768111,4.828166,103, france europe lyon unesco worldheritage,2011,3,14,17,46,-1.2076088158963834,undef
+5588011489,45.768111,4.828166,103, france europe lyon unesco worldheritage,2011,3,14,17,45,-1.207609498022828,undef
+5588008987,45.768111,4.828194,103, france europe lyon unesco worldheritage,2011,3,14,17,45,-1.207609498022828,undef
+6018719059,45.768046,4.828062,103,fresque lyonnais nikon lyon painter fresque lyonnais,2010,10,10,16,25,-1.359914690571438,undef
+6019223156,45.768046,4.828062,103,passerelle st vincent nikon lyon passerelle,2011,2,5,17,9,-1.243977751542721,undef
+6205424280,45.768174,4.828137,103,fresque lyonnais france lyon nikon mm lafresquedeslyonnais nikond,2011,9,8,12,43,-1.032972849931149,undef
+6803137961,45.768129,4.828029,103,fresque lyonnais lyon fresque lyonnais fresquedeslyonnais,2011,10,17,15,3,-0.994569131100592,undef
+6803136865,45.768129,4.828029,103,fresque lyonnais lyon fresque lyonnais fresquedeslyonnais,2011,10,17,15,0,-0.9945711774799258,undef
+6803136027,45.768129,4.828029,103,fresque lyonnais lyon fresque lyonnais fresquedeslyonnais,2011,10,17,14,58,-0.9945725417328152,undef
+6803135309,45.768129,4.828029,103,fresque lyonnais lyon antoinedesaintexupry petitprince fresque lyonnais fresquedeslyonnais,2011,10,17,14,57,-0.9945732238592596,undef
+6952271721,45.768114,4.828051,103,painted facade city canon lyon ville eos dmkii ef mmf usmii,2012,3,3,17,59,-0.858896909776925,undef
+8198979343,45.768106,4.828019,103,revoir square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue e f baf,2012,11,19,21,44,-0.602373028391252,undef
+8281840731,45.768091,4.828019,103,lione friend walk rousse croix ruisseauxetrivires francefrancialionelyonsaonefiumefiumiriversfleuvefleuvespontipontnoifuoridelpiemonterus melancholyfollow,2012,12,8,12,24,-0.5840920396761733,undef
+8904965792,45.768136,4.827933,103,lyon bemaltes haus cite creation ,2013,5,31,12,11,-0.4131873053628597,undef
+8904965614,45.768106,4.828062,103,lyon bemaltes haus cite creation ,2013,5,31,12,11,-0.4131873053628597,undef
+8877034261,45.76815,4.828133,103,fresque lyonnais ,2013,4,24,9,50,-0.4496271821594349,undef
+8877033071,45.76815,4.828133,103,fresque lyonnais ,2013,4,24,9,50,-0.4496271821594349,undef
+8877031791,45.76815,4.828133,103,fresque lyonnais ,2013,4,24,9,53,-0.4496251357801011,undef
+9013940515,45.768046,4.828099,103,fresque lyonnais streetart mural lyon fresco trompeloeil fresquedeslyonnais citdelacration,2011,10,30,17,23,-0.9817042263555776,undef
+8938533499,45.768051,4.827956,103, square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bb ee b f,2013,6,4,1,53,-0.4096798111847652,undef
+9547763510,45.768333,4.828,103,lyon ,2013,8,16,9,47,-0.3376513513944663,undef
+9532742288,45.768333,4.828,103,lyon ,2013,8,16,9,46,-0.3376520335209109,undef
+9422276090,45.768174,4.82804,103,large fresco lyon mural lyon fresco wallpainting stmay,2013,5,1,9,19,-0.4427724935177251,undef
+9422264218,45.768174,4.82804,103,large fresco lyon mural lyon fresco wallpainting stmay,2013,5,1,9,20,-0.4427718113912804,undef
+9422248606,45.768174,4.82804,103,building large fresco lyon mural lyon fresco wallpainting stmay,2013,5,1,9,22,-0.4427704471383913,undef
+9419472147,45.768174,4.82804,103,building large fresco lyon mural lyon fresco wallpainting stmay,2013,5,1,10,25,-0.442727473172382,undef
+9422220938,45.768174,4.82804,103,building large fresco lyon mural lyon fresco wallpainting stmay,2013,5,1,10,25,-0.442727473172382,undef
+9419452435,45.768174,4.82804,103,large fresco lyon mural lyon fresco wallpainting stmay,2013,5,1,10,25,-0.442727473172382,undef
+9419443751,45.768174,4.82804,103,large fresco detail lyon mural lyon fresco wallpainting stmay,2013,5,1,10,27,-0.4427261089194927,undef
+10382952414,45.768189,4.828029,103, lyon murs vieux peints,2013,10,19,16,7,-0.2745273702118777,undef
+10382950624,45.768189,4.828029,103, lyon murs vieux peints,2013,10,19,16,7,-0.2745273702118777,undef
+10382991876,45.768189,4.828029,103, lyon murs vieux peints,2013,10,19,16,6,-0.2745280523383222,undef
+10382990326,45.768189,4.828029,103, lyon murs vieux peints,2013,10,19,16,4,-0.2745294165912114,undef
+11859854533,45.768009,4.828019,103,lyon bridge winter france tree architecture river europe lyon quay promenade pont,2014,1,2,14,26,-0.200926608966793,undef
+11860383346,45.768009,4.828019,103,lyon bridge winter france architecture river europe lyon quay promenade pont frencharchitecture,2014,1,2,14,26,-0.200926608966793,undef
+11860372556,45.768009,4.828019,103,lyon winter france tower architecture europe lyon hill tvtower embankment fourvire frencharchitecture tourmtallique,2014,1,2,14,28,-0.2009252447139038,undef
+11691110834,45.768333,4.828166,103, ,2013,12,7,21,45,-0.2261659695431596,undef
+14094921685,45.768233,4.827972,103, ,2014,5,3,11,44,-0.0821834017450223,undef
+14776461031,45.768102,4.828099,103,lyon lyon,2014,3,22,17,3,-0.1232208107781508,undef
+14756613346,45.768073,4.827938,103,lyon lyon,2014,3,22,17,6,-0.123218764398817,undef
+14551639879,45.768041,4.828072,103, ,2014,6,8,20,50,-0.0464495258186003,undef
+14738273865,45.768238,4.8281,103, ,2014,6,8,20,44,-0.0464536185772679,undef
+14551599260,45.768213,4.828158,103, ,2014,6,8,20,44,-0.0464536185772679,undef
+14551816317,45.76823,4.828144,103, ,2014,6,8,20,42,-0.0464549828301571,undef
+14758126863,45.768186,4.827972,103, ,2014,6,8,20,41,-0.0464556649566017,undef
+14701388565,45.767952,4.827927,103, ,2014,7,19,21,53,-0.0061338065638506,undef
+14997511846,45.768155,4.828169,103,occultation lyon scotch panneau lightroom ftedeslumires aat geolocation geocity fresquedeslyonnais cameramakecanon exifmakecanon exiffocallength mm geocountry cameramodelcanoneos geostate exiflensef mmf exifmodelcanoneos exifaperture exifisospeed geolon geolat,2013,12,7,0,4,-0.2270534160475744,undef
+14666820547,45.768095,4.827922,103,trompelil painter lyon france france lyon painter fresco fresque peintre trompelil fresquedeslyonnais citcration janbuchholtz,2014,5,29,8,52,-0.0567619134079495,undef
+15474981520,45.768166,4.828062,103,lyon fresque lyonnais lyon fresquedeslyonnais france nikkor aipro,2014,10,14,18,2,0.079165423205995,undef
+15657871701,45.768129,4.827847,103,lyon fresque lyonnais ct lyon fresquedeslyonnais france nikkor aipro,2014,10,14,18,7,0.079168833838218,undef
+15474584807,45.768166,4.828062,103,lyon fresque lyonnais lyon fresquedeslyonnais france nikkor aipro,2014,10,14,18,4,0.0791667874588842,undef
+15907315741,45.768077,4.828063,103,lyon mural europe lyon pentax place,2014,9,12,20,49,0.0478469517554202,undef
+11370205015,45.768189,4.828029,103, festival light lyon fte festivaloflights lumires ftedeslumires,2013,12,7,18,20,-0.226305805464301,undef
+11370345163,45.768189,4.828029,103, festival light lyon fte festivaloflights lumires ftedeslumires,2013,12,7,18,19,-0.2263064875907456,undef
+11370266754,45.768189,4.828029,103, festival light lyon fte festivaloflights lumires ftedeslumires,2013,12,7,18,18,-0.2263071697171902,undef
+11370231416,45.768189,4.828029,103, festival light lyon fte festivaloflights lumires ftedeslumires,2013,12,7,18,12,-0.2263112624758578,undef
+11370261634,45.768189,4.828029,103, festival light lyon fte festivaloflights lumires ftedeslumires,2013,12,7,18,11,-0.2263119446023024,undef
+11370334253,45.768189,4.828029,103, festival light lyon fte festivaloflights lumires ftedeslumires,2013,12,7,18,10,-0.226312626728747,undef
+11297752563,45.767997,4.828019,103,fte lumires ,2013,12,8,20,19,-0.2252423703371814,undef
+11163827716,45.768,4.828166,103, ,2012,10,24,13,23,-0.6282535878255354,undef
+16909594025,45.768136,4.827911,103,dtail fresque lyonnais lyon,2015,3,22,10,47,0.2350483689564928,undef
+16908588731,45.768136,4.827911,103,dtail fresque lyonnais lyon,2015,3,22,10,47,0.2350483689564928,undef
+16635598177,45.768166,4.828126,103,fte lumires lyon lumires ftedeslumires,2013,12,8,18,4,-0.2253344574072013,undef
+16656772609,45.768166,4.828126,103,fte lumires lyon lumires ftedeslumires,2013,12,8,18,5,-0.2253337752807567,undef
+16656772339,45.768166,4.828126,103,fte lumires lyon lumires ftedeslumires,2013,12,8,18,4,-0.2253344574072013,undef
+16644120890,45.768166,4.828126,103,fte lumires lyon lumires ftedeslumires,2013,12,8,18,3,-0.2253351395336459,undef
+16830423211,45.768166,4.828126,103,fte lumires lyon lumires ftedeslumires,2013,12,8,18,1,-0.2253365037865351,undef
+16624176097,45.768166,4.828126,103,fte lumires lyon lumires ftedeslumires,2013,12,8,18,2,-0.2253358216600905,undef
+16830422821,45.768166,4.828126,103,fte lumires lyon lumires ftedeslumires,2013,12,8,18,0,-0.2253371859129797,undef
+16197906264,45.768166,4.828126,103,fte lumires lyon lumires ftedeslumires,2013,12,8,18,0,-0.2253371859129797,undef
+16612948817,45.768166,4.828126,103,fte lumires lyon lumires ftedeslumires,2013,12,8,18,0,-0.2253371859129797,undef
+16632857540,45.768166,4.828126,103,fte lumires lyon lumires ftedeslumires,2013,12,8,17,59,-0.2253378680394243,undef
+16082191123,45.768223,4.828028,103,lyon trompe oeil lyonnais miroir factieux street city urban blackandwhite bw white black france monochrome town blackwhite europe lyon noiretblanc streetphotography rhne nb rue ville rhone urbanlife croixrousse rhonealpes photoderue rhnealpes scenederue blackwhitephotos photosderue scenesderue urbanlifecandid,2015,2,28,17,3,0.2136950827349696,undef
+16843776787,45.767936,4.828094,103,passerelle saint vincent lyon saintvincent,2015,4,6,8,38,0.2496943058483381,undef
+16428752274,45.767936,4.828094,103,passerelle saint vincent lyon saintvincent,2015,4,6,8,38,0.2496943058483381,undef
+16431037493,45.767936,4.828094,103,passerelle saint vincent lyon saintvincent,2015,4,6,8,38,0.2496943058483381,undef
+18961054665,45.768096,4.828008,103,mural people lyon fresque lyonnais france art painting mural lyon urbanart fresco opticalillusion trompeloeil wallmural citedelacreation deceivetheeye,2015,5,28,0,51,0.3004533809697987,undef
+18553486650,45.768293,4.828062,103,ipare soleil ,2015,6,11,13,37,0.314727558949341,undef
+19801888784,45.768127,4.828063,103,p rw ,2015,7,7,11,4,0.3401620076888611,undef
+20237891549,45.768127,4.828063,103,p rw ,2015,7,7,11,3,0.3401613255624165,undef
+20315633882,45.768213,4.828008,103,lyonnais france lyon rhnealpes leslyonnais,2015,5,24,18,27,0.2972446581744357,undef
+21094093926,45.768148,4.828062,103,lyon fresque lyonnais france lyon rhnealpes fresquedeslyonnais,2015,8,9,16,22,0.3727935725452764,undef
+21100681181,45.768145,4.828092,103,berhmte lyoner persnlichkeiten france frankreich lyon trompelil fresken dierkschaefer berhmtelyonerpersnlichkeiten dpartementmtropoledelyon,2015,7,6,13,33,0.3392813824488922,undef
+20906164389,45.768145,4.828092,103,berhmte lyoner persnlichkeiten france frankreich lyon trompelil fresken dierkschaefer berhmtelyonerpersnlichkeiten dpartementmtropoledelyon,2015,9,2,14,39,0.3962976034465997,undef
+21100656731,45.768145,4.828092,103,berhmte lyoner persnlichkeiten france frankreich lyon trompelil fresken dierkschaefer berhmtelyonerpersnlichkeiten dpartementmtropoledelyon,2015,7,6,13,34,0.3392820645753368,undef
+20905043778,45.768145,4.828092,103,berhmte lyoner persnlichkeiten france frankreich lyon trompelil fresken dierkschaefer berhmtelyonerpersnlichkeiten dpartementmtropoledelyon,2015,7,6,13,34,0.3392820645753368,undef
+20471846793,45.768145,4.828092,103,berhmte lyoner persnlichkeiten france frankreich lyon trompelil fresken dierkschaefer berhmtelyonerpersnlichkeiten dpartementmtropoledelyon,2015,9,2,14,44,0.3963010140788227,undef
+21066695476,45.768145,4.828092,103,berhmte lyoner persnlichkeiten france frankreich lyon trompelil fresken dierkschaefer berhmtelyonerpersnlichkeiten dpartementmtropoledelyon,2015,9,2,14,48,0.396303742584601,undef
+20471797103,45.768145,4.828092,103,berhmte lyoner persnlichkeiten france frankreich lyon trompelil fresken dierkschaefer berhmtelyonerpersnlichkeiten dpartementmtropoledelyon,2015,7,6,13,35,0.3392827467017814,undef
+20471780093,45.768145,4.828092,103,berhmte lyoner persnlichkeiten france frankreich lyon trompelil fresken dierkschaefer berhmtelyonerpersnlichkeiten dpartementmtropoledelyon,2015,7,6,13,35,0.3392827467017814,undef
+21100530111,45.768145,4.828092,103,berhmte lyoner persnlichkeiten france frankreich lyon trompelil fresken dierkschaefer berhmtelyonerpersnlichkeiten dpartementmtropoledelyon,2015,7,6,13,35,0.3392827467017814,undef
+21066624756,45.768145,4.828092,103,berhmte lyoner persnlichkeiten auguste marie louis nicolas lumire france frankreich lyon trompelil fresken dierkschaefer lesfrreslumire berhmtelyonerpersnlichkeiten dpartementmtropoledelyon,2015,9,2,14,54,0.3963078353432686,undef
+20904901868,45.768145,4.828092,103,berhmte lyoner persnlichkeiten france frankreich lyon trompelil fresken dierkschaefer berhmtelyonerpersnlichkeiten dpartementmtropoledelyon,2015,7,6,13,37,0.3392841109546706,undef
+21082722622,45.768145,4.828092,103,berhmte lyoner persnlichkeiten france frankreich lyon trompelil fresken dierkschaefer berhmtelyonerpersnlichkeiten dpartementmtropoledelyon,2015,7,6,13,37,0.3392841109546706,undef
+21100459441,45.768145,4.828092,103,berhmte lyoner persnlichkeiten antoine saintexupry petit prince france frankreich lyon antoinedesaintexupry lepetitprince trompelil fresken dierkschaefer berhmtelyonerpersnlichkeiten dpartementmtropoledelyon,2015,7,6,13,37,0.3392841109546706,undef
+20905945139,45.768145,4.828092,103,berhmte lyoner persnlichkeiten france frankreich lyon trompelil fresken dierkschaefer berhmtelyonerpersnlichkeiten dpartementmtropoledelyon,2015,7,6,13,38,0.3392847930811151,undef
+21092733835,45.768145,4.828092,103,berhmte lyoner persnlichkeiten guignol france frankreich lyon guignol trompelil fresken dierkschaefer berhmtelyonerpersnlichkeiten dpartementmtropoledelyon,2015,9,2,15,1,0.3963126102283807,undef
+21110154572,45.768148,4.828062,103,lyon fresque lyonnais france lyon rhnealpes fresquedeslyonnais,2015,8,9,16,22,0.3727935725452764,undef
+20905005858,45.768145,4.828092,103,berhmte lyoner persnlichkeiten france frankreich lyon trompelil fresken dierkschaefer berhmtelyonerpersnlichkeiten dpartementmtropoledelyon,2015,9,2,14,46,0.3963023783317118,undef
+22512718421,45.768127,4.828075,103, france lyon,2015,10,21,16,59,0.4445239430792884,undef
+22921802265,45.768248,4.828083,103,mural house france building art wall mural lyon konst wallpainting hus frankrike muralpainting vgg byggnad vggmlning citecreation muralmlning citdelacration citcration,2015,7,10,13,52,0.3432233911721922,undef
+22299066704,45.768248,4.828083,103,mural house france building art wall mural lyon konst wallpainting hus frankrike muralpainting vgg byggnad vggmlning citecreation muralmlning citdelacration citcration,2015,7,10,13,53,0.3432240732986368,undef
+22895809526,45.768241,4.828086,103,mural house france building art wall mural lyon konst wallpainting hus frankrike muralpainting vgg byggnad vggmlning citecreation muralmlning citdelacration citcration,2015,7,10,13,53,0.3432240732986368,undef
+22503424647,45.768061,4.828126,103,mural house france building art wall mural lyon konst wallpainting hus frankrike muralpainting vgg byggnad vggmlning citecreation muralmlning citdelacration citcration,2015,7,10,13,52,0.3432233911721922,undef
+22300630503,45.768248,4.828083,103,mural house france building art wall mural lyon konst wallpainting hus frankrike muralpainting vgg byggnad vggmlning citecreation muralmlning citdelacration citcration,2015,7,10,13,52,0.3432233911721922,undef
+24643125095,45.768136,4.828029,103,tourist lyon old lyon walk tourist discover,2015,12,6,14,6,0.4895899908941802,undef
+27882715955,45.767975,4.828036,103, ,2014,6,6,14,17,-0.0486821256717515,undef
+27789424396,45.768122,4.828069,103,img jpg france night lyon murales trompelil fresquedeslyonnais,2016,4,24,22,11,0.6274375134496527,undef
+27823901425,45.768122,4.828069,103,img jpg people france night lyon murales trompelil fresquedeslyonnais,2016,4,24,22,8,0.6274354670703189,undef
+27823893115,45.768122,4.828069,103,img jpg france architecture night lyon murales trompelil fresquedeslyonnais,2016,4,24,22,3,0.627432056438096,undef
+27747935311,45.768122,4.828069,103,img jpg france architecture night lyon murales trompelil fresquedeslyonnais,2016,4,24,22,2,0.6274313743116513,undef
+27545734360,45.768122,4.828069,103,img jpg france architecture night lyon murales trompelil fresquedeslyonnais,2016,4,24,22,2,0.6274313743116513,undef
+27823844755,45.768122,4.828069,103,img jpg france architecture night lyon murales trompelil fresquedeslyonnais,2016,4,24,22,2,0.6274313743116513,undef
+27823835935,45.768122,4.828069,103,img jpg france architecture night lyon murales trompelil fresquedeslyonnais,2016,4,24,22,2,0.6274313743116513,undef
+28597035206,45.76814,4.82801,103,see instagramapp square squareformat iphoneography uploadedbyinstagram,2016,7,29,6,55,0.7211098453268712,undef
+30092959360,45.768136,4.828008,103,lyon lyon france,2016,10,5,13,16,0.7881635569567571,undef
+29742898763,45.768247,4.828155,103,fresque lyonnais detail lyon france fr rhnealpes,2014,10,11,15,42,0.0761231392631125,undef
+30162244024,45.76814,4.82801,103,igerslyon lyon onlylyon murpeint croixrousse pentes goldenhour automne monlyon oldcar paintedwall instadaily instamood instalike igers igersfrance fresque lyonnais instagramapp square squareformat iphoneography uploadedbyinstagram,2016,11,5,16,30,0.8187460139736166,undef
+30737108525,45.76813,4.828086,103,tkpuh lyon ranska,2016,9,25,13,30,0.7783504859248496,undef
+30104664224,45.768291,4.828069,103,tkpuh lyon ranska,2016,9,25,13,30,0.7783504859248496,undef
+30722159815,45.76814,4.82801,103,intervencin urbana lyon instagramapp square squareformat iphoneography uploadedbyinstagram hefe,2016,11,1,17,4,0.81484015795188,undef
+23746007872,45.768119,4.828077,103,lyon france france lyon,2014,5,29,15,31,-0.0564897449565571,undef
+23854385915,45.768119,4.828077,103,lyon france france lyon,2014,5,29,15,31,-0.0564897449565571,undef
+23227556603,45.768119,4.828077,103,lyon france france lyon,2014,5,29,15,31,-0.0564897449565571,undef
+23770420871,45.768266,4.828138,103,trompe loeil bldg lyon france france lyon trompedeloeilbldg,2014,5,29,15,25,-0.0564938377152247,undef
+23826801516,45.768297,4.828075,103,trompe loeil bldg lyon france france lyon trompedeloeilbldg,2014,5,29,15,26,-0.0564931555887801,undef
+23557177670,45.768205,4.827941,103,trompe loeil bldg lyon france france lyon trompedeloeilbldg,2014,5,29,15,28,-0.0564917913358909,undef
+23744528592,45.768208,4.827938,103,trompe loeil bldg lyon france france lyon trompedeloeilbldg,2014,5,29,15,28,-0.0564917913358909,undef
+23852906065,45.768202,4.8279,103,trompe loeil bldg lyon france france lyon trompedeloeilbldg,2014,5,29,15,28,-0.0564917913358909,undef
+23852892395,45.768225,4.82805,103,trompe loeil bldg lyon france france lyon trompedeloeilbldg,2014,5,29,15,31,-0.0564897449565571,undef
+23826481926,45.768172,4.828166,103,trompe loeil bldg lyon france france lyon trompedeloeilbldg,2014,5,29,15,25,-0.0564938377152247,undef
+23770081331,45.768219,4.82818,103,trompe loeil bldg lyon france france lyon trompedeloeilbldg,2014,5,29,15,25,-0.0564938377152247,undef
+23484610059,45.768147,4.827983,103,trompe loeil bldg lyon france france lyon trompedeloeilbldg,2014,5,29,15,25,-0.0564938377152247,undef
+23826410706,45.768166,4.828038,103,trompe loeil bldg lyon france france lyon trompedeloeilbldg,2014,5,29,15,25,-0.0564938377152247,undef
+23770003001,45.768141,4.828058,103,trompe loeil bldg lyon france france lyon trompedeloeilbldg,2014,5,29,15,25,-0.0564938377152247,undef
+23826358836,45.768138,4.828022,103,trompe loeil bldg lyon france france lyon trompedeloeilbldg,2014,5,29,15,26,-0.0564931555887801,undef
+23826353556,45.76815,4.828213,103,trompe loeil bldg lyon france france lyon trompedeloeilbldg,2014,5,29,15,27,-0.0564924734623355,undef
+23769968121,45.76815,4.828213,103,trompe loeil bldg lyon france france lyon trompedeloeilbldg,2014,5,29,15,27,-0.0564924734623355,undef
+23224317684,45.768161,4.828138,103,trompe loeil bldg lyon france france lyon trompedeloeilbldg,2014,5,29,15,27,-0.0564924734623355,undef
+23769960731,45.768191,4.828091,103,trompe loeil bldg lyon france france lyon trompedeloeilbldg,2014,5,29,15,27,-0.0564924734623355,undef
+23852457155,45.768141,4.828058,103,trompe loeil bldg lyon france france lyon trompedeloeilbldg,2014,5,29,15,25,-0.0564938377152247,undef
+22917888873,45.767972,4.828008,103,eglise stpaul fourvire france church night paul lyon stpaul nuit quai eglise basilique rhone fourvire fkgphoto,2014,3,27,23,49,-0.1180325570405804,undef
+31943862800,45.768086,4.828208,103, ,2016,12,25,12,31,0.867696089764018,undef
+33739018970,45.768325,4.828027,103,fresco lyonnais ,2017,3,3,11,41,0.9344558048962844,undef
+33860079821,45.768077,4.827919,103,fresque lyonnais lyon auvergnerhnealpes france fr,2016,10,31,12,11,0.8136580328234012,undef
+33050373303,45.768248,4.828212,103,lyon fresque lyonnais clbres ,2017,3,26,20,50,0.957422320159269,undef
+36195258676,45.767972,4.827922,103,platanus hispanica gewoneplataan platanecommun ahornblttrigeplatane planetree sycamore tree boom arbre baum city ville stad stadt bw bn zw nb monochrome monochroom monotone quaisaintvincent lyon france frankrijk frankreich frana francia platanushispanica rhnealpes rbol albero,2017,7,21,10,45,1.0719342970452326,undef
+36069762592,45.768151,4.828051,103,fresque lyonnais petit prince pre spirituel lepetitprince dekleineprins thelittleprince derkleineprinz ilpiccoloprincipe elprincipito trompeloeil trampantojo lyon france frankrijk frankreich frana francia mur muur mauer wall mural muurschildering antoinedesaintexupry spiritualfather geestelijkevader prespirituel writer schrijver auteur littrature literatuur literature urbanart streetart city stad stadt ville window fentre fenster raam venster balcony balkon balcon rhnealpes,2017,7,21,10,41,1.071931568539454,undef
+35641816943,45.768151,4.827933,103,fresque lyonnais female photographer quaistvincent ruedelamartinire lyon mural graffiti grafitti art kunst public outside photographe photographer fotograaf window fentre fenster raam venster fototoestel appareilphoto photocamera pentax france frankrijk frankreich frana francia fresco fresque europa europe mur muur mauer wall rhnealpes,2017,7,21,10,43,1.0719329327923433,undef
+35985715130,45.768151,4.827933,103,fresque lyonnais frres lumire europa europe france frankrijk frankreich frana francia lyon mur mauer muur wall fresco fresque mural portrait portret ritratto retrato men mannen hommes mnner uomini hombre cinema projector projection projecteur balcon balkon window fentres ramen vensters fenster trompeloeil bekend famous clbre lyonnais ruedelamartinire quaisaintvincent frans franais franzosisch french rhnealpes portrt mand,2017,7,21,10,40,1.0719308864130097,undef
+36149097772,45.768151,4.827879,103,fresque lyonnais bertrand tavernier man male homme hombre uomo cinaste cineast filmdirector famous bekend clbre lyonnais bertrandtavernier trompeloeil mural murpeint filmcamera camera french franais frans franzsisch wall muur mur mauer fresco fresque filmemacher ville city stad stadt ruedelamartinire quaistvincent rhnealpes mand,2017,7,21,10,43,1.0719329327923433,undef
+37507791246,45.768189,4.827936,103,trompe loeil motorbike exifaperture cameramodelxt geocountry geocity geostate exiflensxf mmf rlmoiswr exifisospeed geolon exifmodelxt geolocation exiffocallength mm exifmakefujifilm cameramakefujifilm geolat,2017,8,11,10,31,1.092552250959485,undef
+37507788606,45.768153,4.828168,103,trompe loeil fresque geolat cameramakefujifilm cameramodelxt exifisospeed geocity exiffocallength mm exiflensxf mmf rlmoiswr geocountry exifmodelxt geolocation exifmakefujifilm geostate geolon exifaperture,2017,8,11,10,32,1.0925529330859296,undef
+37560184374,45.768172,4.82815,103,pot beaujolais fra auvergnerhnealpes europa europe france francia frankreich lafresquedeslyonnais lyon nikond dsplyys hapephotographix wandmalerei wallart mural fr lyn,2017,7,27,17,3,1.0780857133225674,undef
+24314125848,45.768122,4.827916,103,huserzeile saneufer fra auvergnerhnealpes dsplyyshapephotographixfrbasilique notredame fourvire europa europe france francia frankreich lyon nikon nikond dsplyys hapephotographix fr basilique lyn,2017,7,27,16,15,1.078052971253227,undef
+26051723798,45.768151,4.827879,103,fresque lyonnais laurent mourguet fresco fresque mur mauer muur wall portret portrait ritratto retrato window fenster fentre raam trompelil lyon rhnealpes france frankrijk frankreich francia frana europa europe art kunst public publiek outside urbanart mural portrt,2017,7,21,10,40,1.0719308864130097,undef
+39446789831,45.768333,4.828055,103,lyon fresque hommage tony tollet ,2018,1,1,12,0,1.2330764376835384,undef
+27669437269,45.768333,4.828055,103,lyon fresque hommage tony tollet ,2018,1,1,12,1,1.233077119809983,undef
+41080791484,45.768151,4.827933,103,fresque lyonnais paul bocuse fresco fresque mural paulbocuse streetart urbanart mannen men mnner hommes hombre uomini wine vin wijn trompeloeil lyon rhnealpes france frankrijk frankreich francia frana chef kok cook graffiti famous bekend clbre art kunst public publiek outside europa europe mand,2017,7,21,10,42,1.0719322506658988,undef
+40382252765,45.768169,4.827999,103, ,2018,3,26,14,36,1.3156928641468018,undef
+40382250895,45.768094,4.828144,103, ,2018,3,26,14,33,1.315690817767468,undef
+27406121758,45.768111,4.827919,103, ,2018,3,26,14,34,1.3156914998939129,undef
+26406852847,45.76815,4.828016,103, ,2018,3,26,14,37,1.3156935462732464,undef
+42434569591,45.768136,4.82804,103,another mural lyon lione,2018,5,8,11,13,1.3577916619277162,undef
+41981034271,45.768084,4.828008,103,touch lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,14,12,1.355949238400872,undef
+41981041471,45.768084,4.828008,103,writer lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,14,4,1.3559437813893152,undef
+41981040241,45.768084,4.828008,103,beaujolais lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,14,6,1.3559451456422045,undef
+41981039391,45.768084,4.828008,103,mekale lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,14,7,1.355945827768649,undef
+27111851497,45.768084,4.828008,103,fresco lyonnais lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,14,9,1.3559471920215382,undef
+41981035571,45.768084,4.828008,103,men old lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,14,10,1.355947874147983,undef
+27111726087,45.768084,4.828008,103,mural lyonnais lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,13,59,1.3559403707570925,undef
+41081005215,45.768084,4.828008,103,famous figure lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,13,59,1.3559403707570925,undef
+41262221884,45.768084,4.828008,103,balcony lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,14,0,1.355941052883537,undef
+28109432548,45.768084,4.828008,103,famous face lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,14,0,1.355941052883537,undef
+28109431628,45.768084,4.828008,103,lumiere brother lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,14,0,1.355941052883537,undef
+28109430758,45.768084,4.828008,103,fresque lyonnais lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,14,1,1.3559417350099814,undef
+27111717777,45.768084,4.828008,103,famous local lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,14,1,1.3559417350099814,undef
+41262219574,45.768084,4.828008,103,local hero lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,14,1,1.3559417350099814,undef
+28109428158,45.768084,4.828008,103,doorway lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,14,2,1.355942417136426,undef
+28109427428,45.768084,4.828008,103,madame lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,14,3,1.3559430992628707,undef
+29031171478,45.768121,4.82804,103,pot beaujolais lyon lione,2018,6,19,18,47,1.3993563547025147,undef
+42811375071,45.768144,4.828186,103,lyon france lyon rhonecruise,2018,5,21,15,27,1.370734329087414,undef
+27901724457,45.768183,4.828088,103,mural lyon france lyon mural rhonecruise,2018,5,21,10,22,1.3705262805218137,undef
+41870223685,45.768136,4.827913,103,mural lyon france lyon mural rhonecruise,2018,5,21,10,21,1.3705255983953688,undef
+42090550400,45.768241,4.828051,103,fresque lyonnais rue martinire lyon auvergnerhnealpes france claudelina france auvergnerhnealpes lyon ville town city,2018,7,31,18,7,1.4405840770136846,undef
+42873215475,45.768241,4.828051,103,fresque lyonnais angle quai saintvincent rue martinire lyon auvergnerhnealpes france claudelina france auvergnerhnealpes lyon fresque immeuble dessin fresquedeslyonnais,2018,7,25,13,2,1.4344824559668048,undef
+43610192960,45.768226,4.828126,103,lyon fresquedeslyonnais ,2018,9,17,19,1,1.4877694916919253,undef
+45375871422,45.768226,4.828126,103,lyon fresquedeslyonnais ,2018,9,17,19,1,1.4877694916919253,undef
+31552110218,45.768226,4.828126,103,lyon fresquedeslyonnais ,2018,9,17,19,1,1.4877694916919253,undef
+44512503115,45.768226,4.828126,103,lyon fresquedeslyonnais ,2018,9,17,19,0,1.4877688095654806,undef
+31552109168,45.768226,4.828126,103,lyon fresquedeslyonnais ,2018,9,17,18,59,1.487768127439036,undef
+44512502425,45.768226,4.828126,103,lyon fresquedeslyonnais ,2018,9,17,18,59,1.487768127439036,undef
+45375870212,45.768226,4.828126,103,lyon fresquedeslyonnais ,2018,9,17,18,58,1.4877674453125915,undef
+44512501605,45.768226,4.828126,103,lyon fresquedeslyonnais ,2018,9,17,18,58,1.4877674453125915,undef
+45375869542,45.768226,4.828126,103,lyon fresquedeslyonnais ,2018,9,17,18,58,1.4877674453125915,undef
+31552106198,45.768226,4.828126,103,lyon fresquedeslyonnais ,2018,9,17,18,58,1.4877674453125915,undef
+44512500365,45.768226,4.828126,103,lyon fresquedeslyonnais ,2018,9,17,18,58,1.4877674453125915,undef
+31552104828,45.768226,4.828126,103,lyon fresquedeslyonnais ,2018,9,17,18,57,1.4877667631861469,undef
+31552052148,45.768226,4.828126,103,lyon fresquedeslyonnais ,2018,9,17,18,59,1.487768127439036,undef
+44351773035,45.768166,4.828072,103,fresque lyonnais mural lyon france mur painting streetart art house facade history frankreich wandgemlde mural,2018,10,5,12,4,1.5051657624083674,undef
+43212959380,45.768149,4.827868,103,passant devant fresque ,2017,8,20,12,44,1.1014833324985345,undef
+38868226011,45.768105,4.828094,103,lyoncroixrousse france lyon,2017,10,16,18,30,1.1577082868205146,undef
+47685074351,45.768083,4.827869,103, france lyon monument mural,2019,4,13,19,23,1.6920950111580475,undef
+48386891307,45.768292,4.828188,103,fresque lyonnais lyon francja france mural graffiti streetart kamienica dom budynek architektura house building architecture,2019,5,29,17,41,1.7372094899505053,undef
+48879845423,45.768286,4.828111,103,mural ,2019,9,20,5,17,1.8486798650200311,undef
+48833409063,45.768114,4.827868,103,space invader lyon france streetart france europe lyon wall mosaic space spaceinvader installation invader mur mosaique restored reactivation reactivated restaur ractiv,2019,9,11,0,0,1.8396232722151769,undef
+49011320558,45.768277,4.827969,103,francelyonsights ,2018,6,20,11,45,1.40005075942311,undef

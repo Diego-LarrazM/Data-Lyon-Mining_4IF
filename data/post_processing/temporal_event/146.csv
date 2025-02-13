@@ -1,0 +1,59 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+5330725753,45.761494,4.853703,146,miniplanet lyon partdieu lyon partdieu miniplanet sylvainmestre,2010,12,26,17,20,188846400.0,undef,2010-12-26 17:20:00
+5542286067,45.761535,4.85365,146,tour partdieu tour lyon arrondissement eme partdieu,2011,3,20,12,51,196087860.0,undef,2011-03-20 12:51:00
+5582078424,45.761567,4.853553,146, lyon noiretblanc hdr urbain lecrayon lapartdieu,2010,1,18,17,14,159297240.0,undef,2010-01-18 17:14:00
+5581491335,45.761567,4.853553,146, lyon noiretblanc hdr urbain lecrayon lapartdieu,2010,1,18,17,11,159297060.0,undef,2010-01-18 17:11:00
+5581491135,45.761567,4.853553,146, lyon reflet immeuble urbain lapartdieu,2010,1,18,16,57,159296220.0,undef,2010-01-18 16:57:00
+5582077576,45.761567,4.853553,146, lyon noiretblanc reflet immeuble urbain lapartdieu,2010,1,18,16,55,159296100.0,undef,2010-01-18 16:55:00
+5582077230,45.761567,4.853553,146, lyon reflet toit immeuble urbain lapartdieu,2010,1,18,17,58,159299880.0,undef,2010-01-18 17:58:00
+5582076916,45.761567,4.853553,146, lyon reflet immeuble urbain lapartdieu,2010,1,18,17,32,159298320.0,undef,2010-01-18 17:32:00
+6060112404,45.76155,4.853596,146,vue bar larc ciel ieme tage panorama skyline lyon,2011,8,15,19,24,208898640.0,undef,2011-08-15 19:24:00
+6060109566,45.76155,4.853596,146,vue bar larc ciel ieme tage lyon panorama skyline,2011,8,15,19,24,208898640.0,undef,2011-08-15 19:24:00
+6059557271,45.76155,4.853596,146,vue bar larc ciel ieme tage panorama skyline lyon,2011,8,15,19,22,208898520.0,undef,2011-08-15 19:22:00
+6059517561,45.76155,4.853596,146,bar larc ciel lyon hdr,2011,8,19,21,28,209251680.0,undef,2011-08-19 21:28:00
+6059516533,45.76155,4.853596,146,bar larc ciel lyon hdr,2011,8,19,21,28,209251680.0,undef,2011-08-19 21:28:00
+6059512477,45.76155,4.853596,146,bar arc ciel bar lyon cocktail arcenciel,2011,8,15,19,34,208899240.0,undef,2011-08-15 19:34:00
+6060047364,45.76155,4.853596,146,tour partdieu lyon partdieu,2011,8,15,19,56,208900560.0,undef,2011-08-15 19:56:00
+6059496237,45.76155,4.853596,146,bar larc ciel tour partdieu bar lyon arcenciel partdieu,2011,8,15,19,36,208899360.0,undef,2011-08-15 19:36:00
+6060044318,45.76155,4.853596,146,bar larc ciel tour partdieu bar lyon arcenciel partdieu,2011,8,15,19,36,208899360.0,undef,2011-08-15 19:36:00
+6060042786,45.76155,4.853596,146,bar larc ciel tour partdieu bar lyon arcenciel partdieu,2011,8,15,19,35,208899300.0,undef,2011-08-15 19:35:00
+6022909860,45.76139,4.853635,146,lyon france lyon lamande,2011,6,8,17,44,203017440.0,undef,2011-06-08 17:44:00
+6180439311,45.761382,4.853596,146,crayon architecture lyon,2011,7,24,15,2,206982120.0,undef,2011-07-24 15:02:00
+9403018640,45.76149,4.853639,146,crayon tour lyon partdieu nikoncoolpixp,2013,7,30,18,44,270672240.0,undef,2013-07-30 18:44:00
+9403018078,45.76149,4.853639,146,crayon tour lyon partdieu nikoncoolpixp,2013,7,30,18,44,270672240.0,undef,2013-07-30 18:44:00
+13786457094,45.76146,4.853618,146,auditorium national orchestra lyon architecture lyon ilfordhp hasselbladswcm loa,2013,6,14,15,0,266684400.0,undef,2013-06-14 15:00:00
+13786114155,45.76146,4.853618,146,auditorium national orchestra lyon architecture lyon ilfordhp hasselbladswcm loa,2013,6,14,15,0,266684400.0,undef,2013-06-14 15:00:00
+16537540853,45.76149,4.853639,146,lyon crayon part dieu white black architecture noir tour lyon crayon blanc partdieu nikoncoolpixp,2015,4,14,17,57,324496620.0,undef,2015-04-14 17:57:00
+21234107453,45.76152,4.853661,146,going home jacquesmeynierdemalviala,2015,9,23,19,53,338500380.0,undef,2015-09-23 19:53:00
+33314938820,45.76149,4.853639,146,lyon crayon fujifilmxt lyon tour crayon partdieu architecture minimalisme building minimalism,2017,3,26,14,49,386002140.0,undef,2017-03-26 14:49:00
+33077687651,45.76149,4.853639,146,lauditorium crayon nikoncoolpixp lyon blackandwhite noiretblanc bnw bw monochrome monochromatic nb auditorium crayon tour tower,2013,7,30,11,16,270645360.0,undef,2013-07-30 11:16:00
+33974779480,45.76149,4.853639,146,panorama lyon soleil couchant fujifilmxt lyon panorama view tour tower nuit night sunset coucherdesoleil,2017,4,29,20,29,388960140.0,undef,2017-04-29 20:29:00
+34228384771,45.76149,4.853639,146,crayon entre flches lglise saint nizier fujifilmxt lyon crayon partdieu saintnizier glise church flche,2017,4,29,20,4,388958640.0,undef,2017-04-29 20:04:00
+34526018241,45.761508,4.85368,146,part dieu auditorium amphithtre centrecommercial btiment immeuble noiretblanc blackandwhite lyon partdieu,2017,4,25,14,17,388592220.0,undef,2017-04-25 14:17:00
+34061838720,45.76149,4.853639,146,lyon crayon fujifilmxt lyon tour tower crayon partdieu architecture building,2017,5,3,17,3,389293380.0,undef,2017-05-03 17:03:00
+35857925535,45.76149,4.853639,146, fujifilmxt lyon,2017,7,10,21,26,395184360.0,undef,2017-07-10 21:26:00
+36697939121,45.76149,4.853639,146,crayon fujifilmxt lyon sunrise crayon leverdujour leverdusoleil,2017,8,27,7,12,399280320.0,undef,2017-08-27 07:12:00
+37000277351,45.76149,4.853639,146,crayon fujifilmxt lyon,2017,9,10,8,54,400496040.0,undef,2017-09-10 08:54:00
+36998391793,45.76149,4.853639,146,vue mont blanc depuis terrasse restaurant ttedoie fujifilmxt lyon crayon partdieu montblanc alpes alp,2017,10,12,18,41,403296060.0,undef,2017-10-12 18:41:00
+37599677042,45.76149,4.853639,146, fujifilmxt lyon leverdujour leverdusoleil sunrise crayon partdieu,2017,10,11,7,42,403170120.0,undef,2017-10-11 07:42:00
+27855444109,45.76149,4.853639,146, fujifilmxt crayon lyon tour building partdieu architecture,2017,3,26,14,49,386002140.0,undef,2017-03-26 14:49:00
+39486614522,45.76149,4.853639,146, fujifilmxt lyon crayon tour immeuble architecture parking noiretblanc nb blackandwhite bnw bw monochrome monochromatic ngatif partdieu,2017,12,31,14,11,410191860.0,undef,2017-12-31 14:11:00
+25538797638,45.76149,4.853639,146,crayon fujifilmxt lyon crayon tour building architecture reflet reflection,2017,12,31,14,24,410192640.0,undef,2017-12-31 14:24:00
+27632945279,45.76149,4.853639,146, fujifilmxt lyon crayon tour partdieu architecture,2017,12,31,13,33,410189580.0,undef,2017-12-31 13:33:00
+40756340794,45.76149,4.853639,146, fujifilmxt lyon sunrise leverdujour leverdusoleil crayon tour,2018,4,15,13,45,419262300.0,undef,2018-04-15 13:45:00
+40738018594,45.76149,4.853639,146, fujifilmxt lyon crayon tour tower building partdieu,2017,6,28,18,40,394137600.0,undef,2017-06-28 18:40:00
+41141289282,45.76149,4.853639,146,crayon fujifilmxt lyon crayon partdieu,2018,4,1,15,57,418060620.0,undef,2018-04-01 15:57:00
+39374992240,45.76149,4.853639,146, fujifilmxt lyon partdieu crayon auditorium,2018,4,2,16,58,418150680.0,undef,2018-04-02 16:58:00
+41167998591,45.76149,4.853639,146, fujifilmxt lyon tour crayon partdieu auditorium noiretblanc nb blackandwhite bnw bw monochrome monochromatic,2018,4,1,16,35,418062900.0,undef,2018-04-01 16:35:00
+27293569908,45.76149,4.853639,146, fujifilmxt lyon crayon partdieu auditorium,2018,4,1,16,35,418062900.0,undef,2018-04-01 16:35:00
+29994741827,45.76149,4.853639,146, fujifilmxt lyon crayon partdieu sunrise leverdusoleil leverdujour tour building,2018,9,26,8,0,433411200.0,undef,2018-09-26 08:00:00
+45131325801,45.76149,4.853639,146,lyon fujifilmxt lyon sunrise leverdusoleil leverdujour soleil sun pyramide pyramid crayon partdieu,2018,9,26,8,0,433411200.0,undef,2018-09-26 08:00:00
+32164704217,45.76149,4.853639,146, fujifilmxt lyon crayon tour partdieu building noiretblanc nb blackandwhite bnw bw monochrome monochromatic,2019,2,14,17,32,445627920.0,undef,2019-02-14 17:32:00
+32154712727,45.76149,4.853639,146,trou serrure fujifilmxt lyon crayon building tour noiretblanc nb blackandwhite bnw bw monochrome monochromatic,2019,2,14,17,34,445628040.0,undef,2019-02-14 17:34:00
+46182162435,45.76149,4.853639,146,cigare fujifilmxt lyon crayon building tour noiretblanc nb bw bnw blackandwhite monochrome monochromatic,2019,2,14,17,31,445627860.0,undef,2019-02-14 17:31:00
+33621904478,45.76149,4.853639,146,lauditorium fourvire fujifilmxt lyon nuit night auditorium basilique fourvire,2019,3,29,22,26,449360760.0,undef,2019-03-29 22:26:00
+47445738442,45.76149,4.853639,146,lauditorium fourvire fujifilmxt lyon auditorium basilique fourvire nuit night,2019,3,29,22,23,449360580.0,undef,2019-03-29 22:23:00
+47616640891,45.76149,4.853639,146,lauditorium fujifilmxt lyon auditorium incity nuit night,2019,3,29,19,48,449351280.0,undef,2019-03-29 19:48:00
+47965306346,45.76149,4.853639,146, fujifilmxt lyon crayon partdieu building tour tower nuit night,2019,3,29,20,23,449353380.0,undef,2019-03-29 20:23:00
+48813142348,45.76149,4.853639,146, fujifilmxt lyon crayon sunrise leverdusoleil,2019,9,29,6,48,465202080.0,undef,2019-09-29 06:48:00
+48813314162,45.76149,4.853639,146, fujifilmxt lyon leverdusoleil sunrise crayon soleil sun,2019,9,29,6,49,465202140.0,undef,2019-09-29 06:49:00

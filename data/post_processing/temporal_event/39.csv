@@ -1,0 +1,135 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4181851486,45.764744,4.833185,39,lyon illumination city light festival lyon illumination fte ville fiatlux mywinners lyonilluminations,2009,12,5,19,2,-1.6633265795055097,undef
+4181851180,45.764744,4.833185,39,lyon illumination city light festival lyon illumination fte ville lyonilluminations,2009,12,5,19,1,-1.663327261631954,undef
+4181086347,45.764744,4.833185,39,lyon illumination city light festival lyon illumination fte ville fiatlux lyonilluminations,2009,12,5,18,59,-1.6633286258848434,undef
+4181850234,45.764744,4.833185,39,lyon illumination city light festival lyon illumination fte ville lyonilluminations,2009,12,5,18,55,-1.663331354390622,undef
+4181849820,45.764744,4.833185,39,lyon illumination city light festival lyon illumination fte ville lyonilluminations,2009,12,5,18,51,-1.6633340828964,undef
+4176676919,45.764727,4.833222,39,saintnizier light e france festival light europe lyon rhne fte festivaloflights lumires december th ftedeslumires dcembre grandlyon rhnealpes december dec december deuxime thdecember mearrondissement earrondissement deuximearrondissement ftedeslumires,2009,12,8,23,51,-1.660182658722383,undef
+4176676231,45.764727,4.833222,39,saintnizier light e france festival light europe lyon rhne fte festivaloflights lumires december th ftedeslumires dcembre grandlyon rhnealpes december dec december deuxime thdecember mearrondissement earrondissement deuximearrondissement ftedeslumires,2009,12,8,23,51,-1.660182658722383,undef
+4177434014,45.764727,4.833222,39,saintnizier light e france festival light europe lyon rhne fte festivaloflights lumires december th ftedeslumires dcembre grandlyon rhnealpes december dec december deuxime thdecember mearrondissement earrondissement deuximearrondissement ftedeslumires,2009,12,8,23,51,-1.660182658722383,undef
+4177433140,45.764727,4.833222,39,saintnizier light e france festival light europe lyon rhne fte festivaloflights lumires december th ftedeslumires dcembre grandlyon rhnealpes december dec december deuxime thdecember mearrondissement earrondissement deuximearrondissement ftedeslumires,2009,12,8,23,50,-1.6601833408488271,undef
+4176673861,45.764727,4.833222,39,saintnizier light e france festival light europe lyon rhne fte festivaloflights lumires december th ftedeslumires dcembre grandlyon rhnealpes december dec december deuxime thdecember mearrondissement earrondissement deuximearrondissement ftedeslumires,2009,12,8,23,50,-1.6601833408488271,undef
+4177431654,45.764727,4.833222,39,saintnizier light e france festival light europe lyon rhne fte festivaloflights lumires december th ftedeslumires dcembre grandlyon rhnealpes december dec december deuxime thdecember mearrondissement earrondissement deuximearrondissement ftedeslumires,2009,12,8,23,49,-1.660184022975272,undef
+4176672123,45.764727,4.833222,39,saintnizier light e france festival light europe lyon rhne fte festivaloflights lumires december th ftedeslumires dcembre grandlyon rhnealpes december dec december deuxime thdecember mearrondissement earrondissement deuximearrondissement ftedeslumires,2009,12,8,23,48,-1.660184705101717,undef
+4176671341,45.764727,4.833222,39,saintnizier light e france festival light europe lyon rhne fte festivaloflights lumires december th ftedeslumires dcembre grandlyon rhnealpes december dec december deuxime thdecember mearrondissement earrondissement deuximearrondissement ftedeslumires,2009,12,8,23,47,-1.6601853872281611,undef
+4177429148,45.764727,4.833222,39,saintnizier light e france festival light europe lyon rhne fte festivaloflights lumires december th ftedeslumires dcembre grandlyon rhnealpes december dec december deuxime thdecember mearrondissement earrondissement deuximearrondissement ftedeslumires,2009,12,8,23,46,-1.6601860693546058,undef
+4177428384,45.764727,4.833222,39,saintnizier light e france festival light europe lyon rhne fte festivaloflights lumires december th ftedeslumires dcembre grandlyon rhnealpes december dec december deuxime thdecember mearrondissement earrondissement deuximearrondissement ftedeslumires,2009,12,8,23,46,-1.6601860693546058,undef
+4177427640,45.764727,4.833222,39,saintnizier light e france festival light europe lyon rhne fte festivaloflights lumires december th ftedeslumires dcembre grandlyon rhnealpes december dec december deuxime thdecember mearrondissement earrondissement deuximearrondissement ftedeslumires,2009,12,8,23,45,-1.6601867514810504,undef
+4176986568,45.764727,4.833222,39,saintnizier light e france festival light europe lyon rhne fte festivaloflights lumires december th ftedeslumires dcembre grandlyon rhnealpes december dec december deuxime thdecember mearrondissement earrondissement deuximearrondissement ftedeslumires,2009,12,7,19,9,-1.661357280459971,undef
+4651502166,45.764682,4.833362,39,dark angel ,2010,5,21,23,55,-1.499088949061643,undef
+4651500554,45.764682,4.833362,39,stairway heaven ,2010,5,21,23,49,-1.4990930418203106,undef
+4650879421,45.764682,4.833362,39,saint abducting child ,2010,5,21,23,46,-1.4990950881996443,undef
+4651496194,45.764682,4.833362,39,architectural error ,2010,5,21,23,38,-1.4991005452112012,undef
+4651494414,45.764682,4.833362,39,entrance leglise saintenizier lyon ,2010,5,21,23,24,-1.4991100949814251,undef
+4650872733,45.764682,4.833362,39,interior blackandwhite ,2010,5,21,0,28,-1.5000487009691847,undef
+4651479542,45.764678,4.833372,39,sunrise church ,2010,5,20,22,37,-1.5001244170045345,undef
+4884786535,45.764753,4.833163,39,glise soleil lyon glise ville,2010,7,30,11,10,-1.4308524301768335,undef
+4876922680,45.764731,4.833254,39,fte lumires lyon saint lyon fte lumires dcembre nizier,2009,2,25,15,59,-1.9414315773452,undef
+4168284977,45.764757,4.833147,39,eglise saint nizier lyon rhne ftedeslumires rhnealpes eglisesaintnizier ftedeslumires,2009,12,5,23,32,-1.6631424053654695,undef
+4167571302,45.764727,4.833126,39,glise saintnizier lyon ville,2009,12,5,11,48,-1.6636226223824628,undef
+5294945177,45.764663,4.833152,39,lyon fte lumires lyon fete lumieres,2010,12,11,19,30,-1.2988882482059714,undef
+5271058591,45.764544,4.83326,39, ftedeslumires,2010,12,11,18,45,-1.298918943895978,undef
+5271666918,45.76454,4.83326,39, ftedeslumires,2010,12,11,18,41,-1.2989216724017565,undef
+5253891482,45.764712,4.833126,39,eglise saintnizier church eglise ftedeslumires eglisesaintnizier,2010,12,11,21,4,-1.2988241283201798,undef
+5253281561,45.764712,4.833126,39,eglise saintnizier church eglise ftedeslumires eglisesaintnizier,2010,12,11,21,3,-1.2988248104466245,undef
+5253889200,45.764712,4.833126,39,eglise saintnizier green church vert eglise ftedeslumires eglisesaintnizier,2010,12,11,21,4,-1.2988241283201798,undef
+5247913460,45.764761,4.833265,39, france church light cathedral lyon religion fete eglise lumieres cathedrale fetedeslumieres,2010,12,9,23,17,-1.3006979296634753,undef
+5247310257,45.764761,4.833265,39, france church light cathedral lyon religion fete eglise lumieres cathedrale fetedeslumieres,2010,12,9,23,17,-1.3006979296634753,undef
+5247911300,45.764761,4.833265,39, france church light cathedral lyon religion fete eglise lumieres cathedrale fetedeslumieres,2010,12,9,23,16,-1.30069861178992,undef
+5247307943,45.764761,4.833265,39, france church light cathedral lyon religion fete eglise lumieres cathedrale fetedeslumieres,2010,12,9,23,16,-1.30069861178992,undef
+5247306771,45.764761,4.833265,39, france church light cathedral lyon religion fete eglise lumieres cathedrale fetedeslumieres,2010,12,9,23,15,-1.3006992939163644,undef
+5247305377,45.764761,4.833265,39, france church light cathedral lyon religion fete eglise lumieres cathedrale fetedeslumieres,2010,12,9,23,15,-1.3006992939163644,undef
+5247905910,45.764761,4.833265,39, france church light cathedral lyon religion fete eglise lumieres cathedrale fetedeslumieres,2010,12,9,23,15,-1.3006992939163644,undef
+5247904600,45.764761,4.833265,39, france church light cathedral lyon religion fete eglise lumieres cathedrale fetedeslumieres,2010,12,9,23,15,-1.3006992939163644,undef
+5247301273,45.764761,4.833265,39, france church light cathedral lyon religion fete eglise lumieres cathedrale fetedeslumieres,2010,12,9,23,15,-1.3006992939163644,undef
+5247901874,45.764761,4.833265,39, france church light cathedral lyon religion fete eglise lumieres cathedrale fetedeslumieres,2010,12,9,23,14,-1.300699976042809,undef
+5247298681,45.764761,4.833265,39, france church light cathedral lyon religion fete eglise lumieres cathedrale fetedeslumieres,2010,12,9,23,14,-1.300699976042809,undef
+5247297519,45.764761,4.833265,39, france church light cathedral lyon religion fete eglise lumieres cathedrale fetedeslumieres,2010,12,9,23,14,-1.300699976042809,undef
+5247898226,45.764761,4.833265,39, france church light cathedral lyon religion fete eglise lumieres cathedrale fetedeslumieres,2010,12,9,23,14,-1.300699976042809,undef
+5246994017,45.764753,4.833158,39,saintnizier saint lyon fte lumires dcembre nizier,2010,12,8,22,26,-1.3017149801923626,undef
+5246993711,45.764753,4.833158,39,saintnizier saint lyon fte lumires dcembre nizier,2010,12,8,22,24,-1.301716344445252,undef
+5595803091,45.764708,4.83319,39,fte lumires lyon h lyon lumires ftedeslumires,2009,12,6,19,56,-1.6623074825972883,undef
+5596385798,45.764708,4.83319,39,fte lumires lyon h lyon lumires ftedeslumires,2009,12,6,19,56,-1.6623074825972883,undef
+5596385654,45.764708,4.83319,39,fte lumires lyon h lyon lumires ftedeslumires,2009,12,6,19,56,-1.6623074825972883,undef
+5766607471,45.764746,4.833136,39,glise saintnizier e church architecture place lyon gothic arrondissement glise gothique presqule saintnizier,2010,7,20,11,31,-1.440660726323629,undef
+6012240380,45.764761,4.833265,39, france church cathedral lyon religion eglise cathedrale,2011,8,5,18,51,-1.0661187381267871,undef
+6180371529,45.764722,4.833297,39, architecture lyon,2011,7,21,18,44,-1.0808574442150969,undef
+6404381247,45.764648,4.833244,39,lyon lglise saint nizier church saint catholic lyon glise catholique nizier,2011,11,23,17,8,-0.9581401683271304,undef
+6737889011,45.764764,4.833168,39, light night lyon lumire nuit,2010,12,11,22,38,-1.298760008434388,undef
+6529545341,45.764764,4.833168,39,lyon fte lumires light night lyon lumire nuit,2009,12,5,22,15,-1.6631949291017032,undef
+8392595131,45.764716,4.833362,39,church saintnizier roof panorama france church architecture view lyon gothic spire renaissance presqule saintnizier,2012,12,11,8,30,-0.5813048710235684,undef
+8272381613,45.764716,4.833244,39,lfl france lyon,2012,12,9,0,6,-0.5836131869120693,undef
+9282159057,45.764786,4.833122,39,dcorations france lyon dcoration rhnealpes,2013,6,15,18,20,-0.3982016695016074,undef
+9284918324,45.764791,4.833138,39,dcorations france lyon decoration rhnealpes,2013,6,15,18,20,-0.3982016695016074,undef
+9448357963,45.764723,4.833254,39,south spire eglise st nizier lyon lyon stnizier eglisestnizier ndmay,2013,5,2,7,49,-0.4418516228175252,undef
+9451095972,45.764723,4.833254,39,south spire eglise st nizier lyon lyon stnizier eglisestnizier ndmay,2013,5,2,8,54,-0.4418072845986266,undef
+9444503852,45.764723,4.833254,39,eglise st nizier lyon evening light lyon stmay stnizier eglisestnizier,2013,5,1,19,42,-0.4423475287427439,undef
+10475220315,45.764634,4.833168,39,st nizier lyon stnizier,2013,10,24,17,53,-0.2695437544076849,undef
+8254809836,45.764777,4.833291,39, france lyon reflet fte nuit lumires paroisse catholique rhnealpes,2012,12,6,22,30,-0.5856431952111766,undef
+8254808674,45.764777,4.833291,39, france lyon reflet nuit bougie paroisse ftedeslumires catholique rhnealpes bnitier,2012,12,6,22,31,-0.585642513084732,undef
+15474562917,45.764723,4.833254,39,lyon eglise saintnizier lyon eglise saintnizier stnizier france nikkor aipro,2014,10,14,17,17,0.0791347275159883,undef
+15441639832,45.764716,4.833244,39,bal france lyon,2014,9,27,18,17,0.0624771997390398,undef
+15441993385,45.764716,4.833244,39,bal france lyon,2014,9,27,18,17,0.0624771997390398,undef
+11330623963,45.764716,4.833244,39,lph france lyon,2013,12,7,11,11,-0.2265984377090312,undef
+20890645766,45.764738,4.833308,39,altar piece saintnizier lyon altarpiece saintnizierdelyon,2015,8,12,11,50,0.3755548203929868,undef
+20295891763,45.764738,4.833308,39,envoyant tincelles candle lyon lueur,2015,8,12,11,52,0.375556184645876,undef
+20728948198,45.764738,4.833308,39,coysevox madonna child saintnizier lyon madonnaandchild coysevox eglisesaintnizierlyon frenchclassicalsculpture,2015,8,12,11,55,0.3755582310252098,undef
+20295871713,45.764738,4.833308,39,saintniziers vault lyon voutain eglisesaintnizierdelyon,2015,8,12,11,59,0.3755609595309881,undef
+20728846920,45.764738,4.833308,39,eastern elevation saintnizier church lyon chevet eglisedesaintnizierdelyon,2015,8,12,12,0,0.3755616416574327,undef
+20728815108,45.764738,4.833308,39,saintnizier church lyon flamboyantgothicarchitecture eglisesaintnizierlyon,2015,8,12,16,39,0.375751954935474,undef
+22034090286,45.764761,4.833319,39,pipe organ france church europa europe raw lyon iglesia kirche frana f igreja glise pipeorgan ue orgo p panasonicdmcgf amricoaperta saintnizierschurch leglisesaintnizier igrejadesaintnizier,2015,5,29,14,18,0.301986119090798,undef
+22989564060,45.764731,4.833308,39,lyon people blackandwhite france church girl canon lyon gsamie guillaumesamie,2015,10,31,2,1,0.4537340143341762,undef
+22701502927,45.764671,4.833265,39, leica france church saint mm nikon frankreich lyon kirche summicron f paroisse leitz catholique rhnealpes nizier summicronr summicronr mmf leitax,2015,6,28,16,47,0.3315556183374377,undef
+22498704803,45.764671,4.833265,39, leica france church saint mm nikon frankreich lyon kirche summicron f paroisse leitz catholique rhnealpes nizier summicronr summicronr mmf leitax,2015,6,28,16,41,0.3315515255787701,undef
+23105980452,45.764671,4.833265,39, leica france church saint mm nikon frankreich lyon kirche summicron f paroisse leitz catholique rhnealpes nizier summicronr summicronr mmf leitax,2015,6,28,16,46,0.3315549362109931,undef
+23105883571,45.764671,4.833265,39, leica france church saint mm nikon frankreich lyon kirche summicron f paroisse leitz catholique rhnealpes nizier summicronr summicronr mmf leitax,2015,6,28,16,48,0.3315563004638823,undef
+22702345869,45.764671,4.833265,39, leica france church saint mm nikon frankreich lyon kirche summicron f paroisse leitz catholique rhnealpes nizier summicronr summicronr mmf leitax,2015,6,28,16,41,0.3315515255787701,undef
+23080946802,45.764671,4.833265,39, leica france church saint mm nikon frankreich lyon kirche summicron f paroisse leitz catholique rhnealpes nizier summicronr summicronr mmf leitax,2015,6,28,16,44,0.3315535719581039,undef
+22676165508,45.764671,4.833265,39, leica france church saint mm nikon frankreich lyon kirche summicron f paroisse leitz catholique rhnealpes nizier summicronr summicronr mmf leitax,2015,6,28,16,39,0.331550161325881,undef
+23068483866,45.764671,4.833265,39, leica france church saint mm nikon frankreich lyon kirche summicron f paroisse leitz catholique rhnealpes nizier summicronr summicronr mmf leitax,2015,6,28,16,43,0.3315528898316593,undef
+22676124058,45.764671,4.833265,39, leica france church saint mm nikon frankreich lyon kirche summicron f paroisse leitz catholique rhnealpes nizier summicronr summicronr mmf leitax,2015,6,28,16,46,0.3315549362109931,undef
+22676098238,45.764671,4.833265,39, leica france church saint mm nikon frankreich lyon kirche summicron f paroisse leitz catholique rhnealpes nizier summicronr summicronr mmf leitax,2015,6,28,16,45,0.3315542540845485,undef
+22702194419,45.764671,4.833265,39, leica france church saint mm nikon frankreich lyon kirche summicron f paroisse leitz catholique rhnealpes nizier summicronr summicronr mmf leitax,2015,6,28,16,43,0.3315528898316593,undef
+23094472415,45.764671,4.833265,39, leica france church saint mm nikon frankreich lyon kirche summicron f paroisse leitz catholique rhnealpes nizier summicronr summicronr mmf leitax,2015,6,28,16,51,0.331558346843216,undef
+22650740107,45.764671,4.833265,39, leica france church saint mm nikon frankreich lyon kirche summicron f paroisse leitz catholique rhnealpes nizier summicronr summicronr mmf leitax,2015,6,28,16,30,0.3315440221878796,undef
+23043041756,45.764671,4.833265,39, leica france church saint mm nikon frankreich lyon kirche summicron f paroisse leitz catholique rhnealpes nizier summicronr summicronr mmf leitax,2015,6,28,16,34,0.331546750693658,undef
+22650656998,45.764671,4.833265,39, leica france church saint mm nikon frankreich lyon kirche summicron f paroisse leitz catholique rhnealpes nizier summicronr summicronr mmf leitax,2015,6,28,16,35,0.3315474328201026,undef
+23069034495,45.764671,4.833265,39, leica france church saint mm nikon frankreich lyon kirche summicron f paroisse leitz catholique rhnealpes nizier summicronr summicronr mmf leitax,2015,6,28,16,35,0.3315474328201026,undef
+22446189994,45.764671,4.833265,39, leica france church saint mm nikon frankreich lyon kirche summicron f paroisse leitz catholique rhnealpes nizier summicronr summicronr mmf leitax,2015,6,28,16,37,0.3315487970729918,undef
+22446160454,45.764671,4.833265,39, leica france church saint mm nikon frankreich lyon kirche summicron f paroisse leitz catholique rhnealpes nizier summicronr summicronr mmf leitax,2015,6,28,16,33,0.3315460685672134,undef
+23068915065,45.764671,4.833265,39, leica france church saint mm nikon frankreich lyon kirche summicron f paroisse leitz catholique rhnealpes nizier summicronr summicronr mmf leitax,2015,6,28,16,36,0.3315481149465472,undef
+22650528487,45.764671,4.833265,39, leica france church saint mm nikon frankreich lyon kirche summicron f paroisse leitz catholique rhnealpes nizier summicronr summicronr mmf leitax,2015,6,28,16,38,0.3315494791994364,undef
+23020522671,45.764671,4.833265,39, leica france church saint mm nikon frankreich lyon kirche summicron f paroisse leitz catholique rhnealpes nizier summicronr summicronr mmf leitax,2015,6,28,16,30,0.3315440221878796,undef
+22617175529,45.764671,4.833265,39, leica france church saint mm nikon frankreich lyon kirche summicron f paroisse leitz catholique rhnealpes nizier summicronr summicronr mmf leitax,2015,6,28,16,31,0.3315447043143242,undef
+23009384755,45.764671,4.833265,39, frankreich france lyon nikon rhnealpes leitax leica summicronr mmf summicronr summicron leitz mm f kirche church paroisse catholique saint nizier,2015,6,28,16,32,0.3315453864407688,undef
+22489472180,45.764558,4.833319,39,lyon france lyon,2015,9,18,18,32,0.4121727321916006,undef
+25589669382,45.764666,4.833333,39,francia lione fete lumieres st nizier lione chiesa francia citta citt feste facciata star festedelleluci,2009,12,5,18,52,-1.6633334007699556,undef
+25589668712,45.764666,4.833333,39,francia lione fete lumieres st nizier lione chiesa francia citta citt feste facciata star festedelleluci,2009,12,5,18,48,-1.6633361292757338,undef
+25080271174,45.764666,4.833333,39,francia lione fete lumieres st nizier lione chiesa francia citta citt feste facciata star festedelleluci,2009,12,5,18,41,-1.663340904160846,undef
+25710691565,45.764666,4.833333,39,francia lione fete lumieres st nizier lione chiesa francia citta citt feste facciata star festedelleluci,2009,12,5,18,39,-1.6633422684137351,undef
+25084079703,45.764666,4.833333,39,francia lione fete lumieres st nizier lione chiesa francia citta citt feste facciata star festedelleluci,2009,12,5,18,37,-1.6633436326666244,undef
+25684577636,45.764666,4.833333,39,francia lione fete lumieres st nizier lione chiesa organo francia citta citt feste navata star festedelleluci,2009,12,5,17,42,-1.663381149621077,undef
+25409881690,45.764666,4.833333,39,francia lione fete lumieres st nizier lione chiesa organo francia citta citt feste navata star festedelleluci,2009,12,5,17,42,-1.663381149621077,undef
+25589594962,45.764666,4.833333,39,francia lione fete lumieres st nizier lione chiesa francia citta citt feste star festedelleluci,2009,12,5,17,41,-1.6633818317475215,undef
+25084009263,45.764666,4.833333,39,francia lione fete lumieres st nizier pulpito lione chiesa francia citta citt feste pulpito star festedelleluci,2009,12,5,17,40,-1.6633825138739662,undef
+25409872140,45.764666,4.833333,39,francia lione fete lumieres st nizier lione chiesa francia citta citt feste star festedelleluci,2009,12,5,17,39,-1.6633831960004108,undef
+25080193334,45.764666,4.833333,39,francia lione fete lumieres st nizier lione chiesa francia citta citt feste star festedelleluci,2009,12,5,17,40,-1.6633825138739662,undef
+25589584572,45.764666,4.833333,39,francia lione fete lumieres st nizier lione chiesa francia citta citt feste star festedelleluci,2009,12,5,17,39,-1.6633831960004108,undef
+25615561591,45.764666,4.833333,39,francia lione fete lumieres st nizier lione chiesa francia citta citt feste navata star festedelleluci,2009,12,5,17,39,-1.6633831960004108,undef
+25907259244,45.764813,4.833276,39,stained glass window church saintvizier france art religious nikon lyon religion saintvizierchurch thechurchofsaintvizier,2015,8,20,12,12,0.3834279238164733,undef
+28383006595,45.764716,4.833244,39,lyj france lyon,2016,7,10,16,4,0.702821353220902,undef
+30766426270,45.764688,4.833147,39,dsc dxo ,2015,4,19,15,27,0.2627427026069477,undef
+22446225434,45.764671,4.833265,39, leica france church saint mm nikon frankreich lyon kirche summicron f paroisse leitz catholique rhnealpes nizier summicronr summicronr mmf leitax,2015,6,28,16,34,0.331546750693658,undef
+30838401394,45.764753,4.833158,39,img jpg ftedeslumitres lyon ftedeslumires dcembre illumination illumination spectacle rue couleurs,2016,12,9,21,56,0.8523652979218018,undef
+31564307831,45.764753,4.833158,39,img jpg ftedeslumitres lyon ftedeslumires dcembre illumination illumination spectacle rue couleurs,2016,12,9,21,54,0.8523639336689127,undef
+35509618525,45.764738,4.833286,39,quai romainrolland vieux lyon paroisse catholique saint nizier lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw quairomainrolland riversane lesane placesaintnizier paroissecatholiquesaintnizier saintnizierchurch historicgothiccatholicchurch presquile nicetiusoflyon ruepaulchenavard ruedelafromagerie column column,2017,6,3,10,36,1.0247795780569986,undef
+35443125545,45.764738,4.833286,39,place saintnizier lyon paroisse catholique saint nizier lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite coach placesaintnizier paroissecatholiquesaintnizier saintnizierchurch historicgothiccatholicchurch presquile nicetiusoflyon ruepaulchenavard ruedelafromagerie column column,2017,6,3,10,1,1.024755703631438,undef
+34601601164,45.764738,4.833286,39,place saintnizier lyon paroisse catholique saint nizier lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite coach placesaintnizier paroissecatholiquesaintnizier saintnizierchurch historicgothiccatholicchurch presquile nicetiusoflyon ruepaulchenavard ruedelafromagerie column column,2017,6,3,10,1,1.024755703631438,undef
+35403525056,45.764738,4.833286,39,place saintnizier lyon paroisse catholique saint nizier lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite coach placesaintnizier paroissecatholiquesaintnizier saintnizierchurch historicgothiccatholicchurch presquile nicetiusoflyon ruepaulchenavard ruedelafromagerie column column,2017,6,3,10,1,1.024755703631438,undef
+35056305630,45.764738,4.833286,39,place saintnizier lyon paroisse catholique saint nizier lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite coach placesaintnizier shop paroissecatholiquesaintnizier saintnizierchurch historicgothiccatholicchurch presquile nicetiusoflyon ruepaulchenavard ruedelafromagerie column column,2017,6,3,10,1,1.024755703631438,undef
+24497999578,45.764738,4.833361,39,lyon th november ,2017,11,10,15,31,1.182142738192262,undef
+25556046288,45.764627,4.833188,39,fte lumires lyon lumire lumires spectacle canon canon dmarkiv canonef f lyon earrondissement auvergnerhnealpes france fr,2017,12,10,22,14,1.2118854975558282,undef
+44652039091,45.764836,4.833291,39, ,2014,7,8,13,7,-0.0172974879560513,undef
+48536573957,45.76465,4.833377,39,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,25,16,0,1.7931295337517528,undef
+48461062576,45.76465,4.833377,39,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl franrijk jossaris jossarisfoto lr lyon rhne frankrijk,2019,7,25,16,0,1.7931295337517528,undef
+48856957523,45.764722,4.833333,39,lyon ,2019,10,6,11,57,1.864668908881279,undef

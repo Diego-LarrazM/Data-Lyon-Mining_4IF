@@ -1,0 +1,56 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4781228302,45.757916,4.833233,100, lyon onlylyoncom lyonfrancefourvierebelelcour,2010,7,10,14,40,-1.450354425227733,undef
+4996665458,45.757804,4.833168,100,leon eating fourvire france lyon lione francia fourvire rhnealpes rodanoalpi,2010,8,12,10,40,-1.4181034869274003,undef
+4978711597,45.757804,4.833168,100,onlylyon france lyon lione francia rhnealpes unescu rodanoalpi,2010,8,12,10,38,-1.4181048511802894,undef
+5210731010,45.757777,4.833158,100, ,2010,11,24,4,49,-1.3161876569672817,undef
+5339809850,45.75783,4.833205,100,big wheel rain rain lyon bigwheel flickroid,2011,1,9,17,28,-1.2704858673060295,undef
+5274459131,45.757882,4.833219,100,colorchecker passport bellecour france lyon rhnealpes colorcheckerpassport,2010,12,19,14,46,-1.2912238754745302,undef
+5275350560,45.757882,4.833219,100,reflet grande roue place bellecour france europe lyon place reflet spiegelung granderoue bellecour rhnealpes,2010,12,19,14,51,-1.2912204648423071,undef
+5275067502,45.757882,4.833219,100,grande roue place bellecour france lyon rhnealpes,2010,12,19,14,50,-1.291221146968752,undef
+5274459893,45.757882,4.833219,100,place bellecour france europe lyon place placebellecour rhnealpes,2010,12,19,14,48,-1.2912225112216411,undef
+5558497576,45.75773,4.833216,100,lyon striker protest french pension reform france europe lyon protest strike citycenter fr citycentre centreville fra manifestation grve retraite placebellecour rhnealps civilconflict pensionreform coeurdelaville frcentreville frcoeurdelaville frgrve frmanifestation frretraite frrformeretraite rformeretraite,2010,10,19,14,6,-1.351169147425318,undef
+5990902744,45.757833,4.833166,100, ,2011,7,29,19,15,-1.0729782016536091,undef
+5936282965,45.75774,4.833222,100,lyon lyon onlylyon,2011,7,8,14,33,-1.0937980649954608,undef
+6071057999,45.757838,4.833219,100,lyon world trip travel france tourism photo nikon europe tour lyon map tourist gps traveler,2010,9,19,16,35,-1.3805353729914691,undef
+5225220786,45.757695,4.833168,100,petit tour grande nikon roue bellecour photomatix hdr raw,2010,12,1,22,40,-1.3085812649836306,undef
+8450866491,45.75774,4.833249,100,grande roue place bellecour france lyon nuit lumires roue rhnealpes,2012,12,4,21,20,-0.5876554682227244,undef
+8800001348,45.757717,4.83319,100,place bellecour city urban france frankreich place lyon platz centre centro rhne frankrijk piazza francia citycentre ville innenstadt urbanlandscape bellecour placebellecour rhnealpes francja presqule lyonpresqule,2013,5,23,11,56,-0.421055633901234,undef
+11603589564,45.757833,4.833166,100, uploadedbyflickrmobile flickriosappfilternofilter,2011,7,9,18,15,-1.0926643708445485,undef
+11603586824,45.757833,4.833166,100, uploadedbyflickrmobile flickriosappfilternofilter,2011,7,9,18,14,-1.092665052970993,undef
+11603238445,45.757833,4.833166,100, uploadedbyflickrmobile flickriosappfilternofilter,2011,7,9,18,15,-1.0926643708445485,undef
+18130708682,45.757843,4.833248,100,tournoi bouliste pentecte france europe lyon place bellecour placebellecour ptanque,2015,5,24,17,9,0.2971914523117575,undef
+17511309184,45.757818,4.833183,100,tournoi bouliste pentecte france europe lyon place bellecour placebellecour ptanque,2015,5,24,17,22,0.2972003199555372,undef
+18087830901,45.757876,4.833214,100,arche saone lyon pentecote sane pont supermimil,2015,5,23,13,35,0.2960632151724015,undef
+27850381816,45.757713,4.833194,100,wp projpg lyon auvergnerhnealpes france fr,2016,6,16,21,41,0.6794769399076134,undef
+27272890413,45.757713,4.833194,100,wp projpg lyon auvergnerhnealpes france fr,2016,6,16,21,41,0.6794769399076134,undef
+31197417685,45.757876,4.833214,100,history salute novembre past history france histoire military firstworldwar premireguerremondiale color salute poilu,2016,11,11,11,31,0.8244356306479625,undef
+31094963366,45.757876,4.833214,100,grande roue ,2016,11,19,21,24,0.8326982282713113,undef
+31092139786,45.757876,4.833214,100,grand roue place bellecour ,2016,11,19,21,12,0.8326900427539762,undef
+23224403014,45.757733,4.833208,100,lyon france france lyon,2014,5,29,17,32,-0.0564072076567614,undef
+32965016901,45.757876,4.833214,100,bellecour ,2017,2,11,11,41,0.9148105632920208,undef
+32254755541,45.757876,4.833214,100,rhne supermimil,2016,12,10,17,6,0.8531497433330832,undef
+32133454251,45.757876,4.833214,100,lyon ,2017,1,11,20,18,0.8847130981772667,undef
+32021072392,45.757876,4.833214,100,dont believe eye ,2016,8,25,13,11,0.7478874010357938,undef
+31273830364,45.757876,4.833214,100,grande roue place belkecour illumine lors fte lumires lyon divertissementloisir evenement ftedeslumires lyon mange night nuit place placebellecour roue rue theme auvergnerhnealpes france,2016,12,8,20,27,0.85132232658802,undef
+31265711274,45.757876,4.833214,100,bellecour fourvire ,2016,12,28,19,16,0.8709191372147175,undef
+31607785110,45.757876,4.833214,100,university lyon ,2016,12,28,22,0,0.8710310059516306,undef
+35636131355,45.757888,4.833122,100, ,2017,6,30,18,25,1.0516205715252682,undef
+35249604600,45.757763,4.833208,100, ,2017,6,30,19,21,1.0516587706061655,undef
+35531520216,45.757876,4.833214,100,well lyon parking clestins lyon architecture perspective,2017,6,24,11,21,1.045437777431482,undef
+36798394431,45.757876,4.833214,100, lyon france fourvire basilique cathedral bellecour church downtown city place blanckandwhite,2017,8,29,14,20,1.110389175359134,undef
+36680658284,45.757766,4.83323,100, ,2017,9,29,11,47,1.1407349344997195,undef
+36719566393,45.757766,4.83323,100, ,2017,9,29,11,47,1.1407349344997195,undef
+40455013592,45.757876,4.833214,100,apr pluie eaudanslaville fujifilmx lyon expoeaudanslaville,2015,3,3,13,6,0.2164802050082407,undef
+39601630835,45.757876,4.833214,100,apr pluie eaudanslaville aimprimer fujifilmx expoeaudanslaville,2016,3,3,12,20,0.5759567485498132,undef
+40455006352,45.757876,4.833214,100,apr pluie eaudanslaville fujifilmx lyon expoeaudanslaville,2015,3,2,11,29,0.2154317766629021,undef
+26626383288,45.757876,4.833214,100,apr pluie eaudanslaville fujifilmx expoeaudanslaville,2016,3,3,13,59,0.5760242790678278,undef
+39787339164,45.757876,4.833214,100,apr pluie eaudanslaville expoeaudanslaville,2015,2,27,18,10,0.2127585231265442,undef
+40497373481,45.757876,4.833214,100,apr pluie eaudanslaville aimprimer fujifilmx lyon expoeaudanslaville,2015,5,20,15,58,0.2932139730133387,undef
+39601617825,45.757876,4.833214,100,apr pluie eaudanslaville aimprimer fujifilmx expoeaudanslaville,2015,3,25,19,30,0.2383519073276542,undef
+40454982062,45.757876,4.833214,100,apr pluie eaudanslaville aimprimer fujifilmx expoeaudanslaville,2015,3,25,19,37,0.2383566822127664,undef
+28293224959,45.757876,4.833214,100,grande roue place bellecour lyon lyon placebellecour,2018,2,3,18,35,1.2657605262761873,undef
+39591606582,45.75783,4.8331,100,hotel royal bellecour europe france hotelroyal lyon placebellecour place,2017,12,28,17,18,1.229364305572066,undef
+38073196345,45.757876,4.833214,100,fleurs place bellecour fleurs fleur illumination lyon ftedeslumires extrieur nuit,2017,12,8,23,25,1.2099694043729678,undef
+38922698582,45.757876,4.833214,100,papillon place bellecour ftedeslumires lyon papillon illumination extrieur night nuit,2017,12,8,23,28,1.2099714507523016,undef
+41410981344,45.757866,4.833163,100, ,2018,5,15,18,30,1.3649655857454954,undef
+37947898475,45.757813,4.833133,100, ,2017,12,4,18,7,1.2058234398427348,undef

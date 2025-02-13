@@ -1,0 +1,854 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4356357907,45.760427,4.833383,15,place jacobin france lyon rhne francia hdr bellecour placedesjacobins thebestofday gnneniyisi sonyalpha plazadelosjacobinos,2010,1,23,9,4,-1.61560364918893,undef
+4181111103,45.7603,4.833565,15, france frankreich europe lyon nightshots dnuc,2009,11,16,21,30,-1.6818886043157604,undef
+4181108447,45.7603,4.833565,15, france frankreich europe lyon nightshots dnuc,2009,11,16,21,30,-1.6818886043157604,undef
+4181084371,45.760523,4.833303,15,lyon illumination city light festival lyon illumination fte ville lyonilluminations,2009,12,5,18,38,-1.6633429505401798,undef
+4181848514,45.760523,4.833303,15,lyon illumination city light festival lyon illumination fte ville fiatlux lyonilluminations,2009,12,5,18,36,-1.663344314793069,undef
+4181083685,45.760523,4.833303,15,lyon illumination city light festival lyon illumination fte ville lyonilluminations,2009,12,5,18,35,-1.6633449969195135,undef
+4181847690,45.760523,4.833303,15,lyon illumination city light festival lyon illumination fte ville lyonilluminations,2009,12,5,18,31,-1.663347725425292,undef
+4181082905,45.760523,4.833303,15,lyon illumination city light festival lyon illumination fte ville lyonilluminations,2009,12,5,18,30,-1.6633484075517366,undef
+4176666123,45.760453,4.833533,15,fine light e france festival light europe lyon rhne fte festivaloflights lumires december th ftedeslumires dcembre grandlyon rhnealpes december dec december deuxime thdecember mearrondissement earrondissement deuximearrondissement ftedeslumires,2009,12,8,23,35,-1.6601935727454964,undef
+4176665477,45.760453,4.833533,15,deux fontaines light e france festival light europe lyon rhne fte festivaloflights lumires december th ftedeslumires dcembre grandlyon rhnealpes december dec december deuxime thdecember mearrondissement earrondissement deuximearrondissement ftedeslumires,2009,12,8,23,35,-1.6601935727454964,undef
+4176664821,45.760453,4.833533,15,sylvia light e france festival light europe lyon rhne fte festivaloflights lumires december th ftedeslumires dcembre grandlyon rhnealpes december dec december deuxime thdecember mearrondissement earrondissement deuximearrondissement ftedeslumires,2009,12,8,23,34,-1.6601942548719408,undef
+4176664197,45.760453,4.833533,15,jacobin light e france festival light europe lyon rhne fte festivaloflights lumires december th ftedeslumires dcembre grandlyon rhnealpes december dec december deuxime thdecember mearrondissement earrondissement deuximearrondissement ftedeslumires,2009,12,8,23,34,-1.6601942548719408,undef
+4177421962,45.760453,4.833533,15,jacobin light e france festival light europe lyon rhne fte festivaloflights lumires december th ftedeslumires dcembre grandlyon rhnealpes december dec december deuxime thdecember mearrondissement earrondissement deuximearrondissement ftedeslumires,2009,12,8,23,34,-1.6601942548719408,undef
+4177421198,45.760453,4.833533,15,jacobin light e france festival light europe lyon rhne fte festivaloflights lumires december th ftedeslumires dcembre grandlyon rhnealpes december dec december deuxime thdecember mearrondissement earrondissement deuximearrondissement ftedeslumires,2009,12,8,23,34,-1.6601942548719408,undef
+4176661895,45.760453,4.833533,15,dolce vita light e france festival light europe lyon rhne fte festivaloflights lumires december th ftedeslumires dcembre grandlyon rhnealpes december dec december deuxime thdecember mearrondissement earrondissement deuximearrondissement ftedeslumires,2009,12,8,23,33,-1.6601949369983855,undef
+4177419752,45.760435,4.833415,15,dolce vita light e france festival light europe lyon rhne fte festivaloflights lumires december th ftedeslumires dcembre grandlyon rhnealpes december dec december deuxime thdecember mearrondissement earrondissement deuximearrondissement ftedeslumires,2009,12,8,23,33,-1.6601949369983855,undef
+4177418374,45.760453,4.833533,15,bibip light e france festival light europe lyon rhne fte festivaloflights lumires december th ftedeslumires dcembre grandlyon rhnealpes december dec december deuxime thdecember mearrondissement earrondissement deuximearrondissement ftedeslumires,2009,12,8,23,31,-1.6601963012512746,undef
+4176659135,45.760453,4.833533,15,dolce vita light e france festival light europe lyon rhne fte festivaloflights lumires december th ftedeslumires dcembre grandlyon rhnealpes december dec december deuxime thdecember mearrondissement earrondissement deuximearrondissement ftedeslumires,2009,12,8,23,30,-1.6601969833777193,undef
+4177417000,45.760453,4.833533,15,mottled light e france festival light europe lyon rhne fte festivaloflights lumires december th ftedeslumires dcembre grandlyon rhnealpes december dec december deuxime thdecember mearrondissement earrondissement deuximearrondissement ftedeslumires,2009,12,8,23,27,-1.660199029757053,undef
+4177416174,45.760453,4.833533,15,sylvia light e france festival light europe lyon rhne fte festivaloflights lumires december th ftedeslumires dcembre grandlyon rhnealpes december dec december deuxime thdecember mearrondissement earrondissement deuximearrondissement ftedeslumires,2009,12,8,23,25,-1.6602003940099423,undef
+4176656913,45.760453,4.833533,15,fontaine light e france festival light europe lyon rhne fte festivaloflights lumires december th ftedeslumires dcembre grandlyon rhnealpes december dec december deuxime thdecember mearrondissement earrondissement deuximearrondissement ftedeslumires,2009,12,8,23,25,-1.6602003940099423,undef
+4176200811,45.760453,4.833533,15,place jacobin light e france festival light europe lyon rhne fte festivaloflights lumires december th ftedeslumires dcembre grandlyon rhnealpes december dec december deuxime thdecember mearrondissement earrondissement deuximearrondissement ftedeslumires,2009,12,7,0,17,-1.6621294475952495,undef
+4449416335,45.760479,4.833737,15,place jacobin lyon watercolor lyon aquarelle exhibition peinture exposition painter artiste peintre lyonnais aquarelliste portfoliopochoncdric peindreenpleinair peindrerhonealpe,2010,3,21,0,36,-1.559961230850632,undef
+4405199926,45.760472,4.833362,15, lyon,2010,2,28,14,29,-1.580020523206763,undef
+4404430013,45.760472,4.833362,15, lyon,2010,2,28,14,28,-1.5800212053332077,undef
+4397419143,45.760667,4.833426,15, vespa lyon scooter vendre poladroid,2010,3,1,12,16,-1.5791289839436806,undef
+4510119128,45.760416,4.833582,15,aquarelle lyon place jacobin ,2010,4,10,22,35,-1.5394162644659508,undef
+5039555505,45.760532,4.833383,15, ,2010,7,4,12,17,-1.4563455417905886,undef
+4963229699,45.760337,4.833565,15,lyon place jacobin france rhne village tourisme villes filoer,2010,5,14,16,7,-1.5062840187992046,undef
+4963228305,45.760457,4.833694,15,lyon place jacobin france rhne village tourisme villes filoer,2010,5,14,16,7,-1.5062840187992046,undef
+4963825234,45.760487,4.833437,15,lyon place jacobin france rhne village tourisme villes filoer,2010,5,14,16,7,-1.5062840187992046,undef
+4963225227,45.760412,4.833565,15,lyon place jacobin france rhne village tourisme villes filoer,2010,5,14,16,5,-1.5062853830520937,undef
+4963223875,45.760382,4.833716,15,lyon place jacobin france rhne village tourisme villes filoer,2010,5,14,16,5,-1.5062853830520937,undef
+5067661325,45.76042,4.833683,15,mermaid ,2010,9,12,15,39,-1.3874494066338583,undef
+5068109360,45.76045,4.833748,15,mermaid ,2010,9,12,15,39,-1.3874494066338583,undef
+5179678939,45.760472,4.833254,15, france,2010,11,14,9,27,-1.3258206466178166,undef
+5180277342,45.760472,4.833254,15, france,2010,11,14,9,26,-1.325821328744261,undef
+5179677023,45.760472,4.833254,15, france,2010,11,14,9,26,-1.325821328744261,undef
+5179676361,45.760472,4.833254,15, france,2010,11,14,9,24,-1.3258226929971504,undef
+5180276018,45.760472,4.833254,15, france,2010,11,14,9,23,-1.325823375123595,undef
+5174316421,45.760549,4.833564,15,place jacobin monument architecture lyon canonef mmf lisusm,2010,11,13,0,19,-1.3271767139896664,undef
+5174742362,45.760549,4.833564,15,brassard lyon police worker incendie travailleur canonef mmf lisusm,2010,11,13,0,25,-1.3271726212309989,undef
+5174741850,45.760549,4.833564,15,intervention lyon police worker incendie pompiers travailleur canonef mmf lisusm,2010,11,13,0,24,-1.3271733033574435,undef
+5174136179,45.760549,4.833564,15,plan dvacuation lyon police worker incendie pompiers travailleur canonef mmf lisusm,2010,11,13,0,23,-1.327173985483888,undef
+5174135623,45.760549,4.833564,15,watching lyon incendie canonef mmf lisusm,2010,11,13,0,22,-1.3271746676103326,undef
+5174134911,45.760549,4.833564,15,dripping lyon incendie canonef mmf lisusm,2010,11,13,0,21,-1.3271753497367773,undef
+5174739106,45.760549,4.833564,15,smoking lyon incendie canonef mmf lisusm,2010,11,13,0,19,-1.3271767139896664,undef
+5462809067,45.760517,4.833297,15, ,2010,12,9,0,3,-1.3016488139272373,undef
+5394944901,45.760517,4.833238,15,jca fte lumires lyon fete lumieres,2010,12,7,19,55,-1.302800243365709,undef
+5352369257,45.760549,4.833564,15,bton ,2010,11,27,17,6,-1.3127381435369774,undef
+5281334552,45.76061,4.833689,15,dsc ,2010,12,8,19,34,-1.3018323059408323,undef
+5280730353,45.76061,4.833689,15,dsc ,2010,12,8,19,34,-1.3018323059408323,undef
+5280728151,45.76061,4.833689,15,dsc ,2010,12,8,19,31,-1.3018343523201663,undef
+5280407990,45.760566,4.833464,15,place celestins lyon eastward blue light sunset sky night dawn warm lyon olympus nightfall mm,2010,12,18,18,37,-1.2920485663460426,undef
+5277624228,45.760566,4.833464,15,place celestins lyon blue light sunset sky night dawn warm lyon olympus nightfall mm,2010,12,18,18,36,-1.2920492484724873,undef
+5266883846,45.760494,4.833254,15,dent mer lyon pentax fte lumires k pentaxart,2010,12,9,20,2,-1.3008309443201709,undef
+5266275939,45.760494,4.833254,15,ca mord lyon pentax fte lumires k pentaxart,2010,12,9,20,2,-1.3008309443201709,undef
+5264387940,45.760549,4.833564,15,phare lyon ftedeslumires,2010,12,11,20,58,-1.298828221078847,undef
+5263776867,45.760549,4.833564,15,monde aquatique lyon ftedeslumires,2010,12,11,20,57,-1.298828903205292,undef
+5261168903,45.760412,4.833362,15,fountain place jacobin france fountain night light nikon purple lyon fetedeslumieres,2010,12,11,18,38,-1.2989237187810905,undef
+5257553759,45.760412,4.833324,15,fontaine jacobin dcembre light lyon ftedeslumires dcembre lightsday,2010,12,8,21,5,-1.3017702324343747,undef
+5257553253,45.760412,4.833324,15,canard dcembre lyon ftedeslumires dcembre lightsday,2010,12,8,21,3,-1.3017715966872638,undef
+5257553001,45.760412,4.833324,15,poisson dcembre lyon ftedeslumires dcembre lightsday,2010,12,8,21,3,-1.3017715966872638,undef
+5258163134,45.760412,4.833324,15,fontaine jacobin dcembre lyon ftedeslumires dcembre lightsday,2010,12,8,21,3,-1.3017715966872638,undef
+5257552447,45.760412,4.833324,15,fontaine jacobin dcembre lyon ftedeslumires dcembre lightsday,2010,12,8,21,2,-1.3017722788137085,undef
+5253875451,45.76049,4.833593,15, france lyon rhone kanapoutz,2009,3,20,14,39,-1.918894119615864,undef
+5253429247,45.760524,4.833624,15,aquarium france art lyon culture ftedeslumires fetedeslumieres vnement,2010,12,11,22,35,-1.2987620548137218,undef
+5254036182,45.760524,4.833624,15,aquarium france art lyon culture ftedeslumires fetedeslumieres vnement,2010,12,11,22,34,-1.2987627369401664,undef
+5253425231,45.760524,4.833624,15,source lumire france art lyon culture ftedeslumires fetedeslumieres vnement,2010,12,11,22,33,-1.298763419066611,undef
+5254031710,45.760524,4.833624,15,source lumire france art lyon culture ftedeslumires fetedeslumieres vnement,2010,12,11,22,32,-1.2987641011930555,undef
+5252913876,45.7605,4.833666,15,lyon hipstamatic jimmylens inas film,2010,12,11,18,22,-1.2989346328042035,undef
+5249959869,45.760629,4.833683,15, france light lyon fete lumieres fetedeslumieres,2010,12,10,21,28,-1.2997900193657228,undef
+5250560992,45.760629,4.833683,15, france light lyon fete lumieres fetedeslumieres,2010,12,10,21,28,-1.2997900193657228,undef
+5249956245,45.760629,4.833683,15, france light lyon fete lumieres fetedeslumieres,2010,12,10,21,27,-1.2997907014921672,undef
+5250557342,45.760629,4.833683,15, france light lyon fete lumieres fetedeslumieres,2010,12,10,21,27,-1.2997907014921672,undef
+5250555670,45.760629,4.833683,15, france light lyon fete lumieres fetedeslumieres,2010,12,10,21,27,-1.2997907014921672,undef
+5250554060,45.760629,4.833683,15, france light lyon fete lumieres fetedeslumieres,2010,12,10,21,26,-1.299791383618612,undef
+5250552268,45.760629,4.833683,15, france light lyon fete lumieres fetedeslumieres,2010,12,10,21,26,-1.299791383618612,undef
+5249947705,45.760629,4.833683,15, france light lyon fete lumieres fetedeslumieres,2010,12,10,21,26,-1.299791383618612,undef
+5249946263,45.760629,4.833683,15, france light lyon fete lumieres fetedeslumieres,2010,12,10,21,26,-1.299791383618612,undef
+5250547282,45.760629,4.833683,15, france light lyon fete lumieres fetedeslumieres,2010,12,10,21,22,-1.2997941121243903,undef
+5249224396,45.760569,4.833469,15,fte lumires light lyon illumination fte lumires,2010,12,10,7,2,-1.3003807408667398,undef
+5247775276,45.760333,4.8335,15,etienne raw,2010,12,9,0,29,-1.301631078639678,undef
+5247172837,45.7605,4.833667,15,water jacobin raw,2010,12,9,0,31,-1.3016297143867888,undef
+5246877124,45.760472,4.833265,15,jacobin light festival lyon lumire illumination fete lumiere fontaine source morel lumires sibylle bellecour jacobin siby,2009,12,9,0,16,-1.660165605561268,undef
+5246874772,45.760472,4.833265,15,jacobin light festival lyon illumination fete lumiere fontaine source morel lumires sibylle bellecour jacobin siby,2009,12,9,0,15,-1.6601662876877126,undef
+5246270287,45.760472,4.833265,15,jacobin light festival lyon illumination fete lumiere fontaine source morel lumires sibylle bellecour jacobin siby,2009,12,9,0,14,-1.6601669698141572,undef
+5246738314,45.760569,4.833469,15,fte lumires light lyon illumination fte lumires,2010,12,8,19,56,-1.3018172991590515,undef
+5246738178,45.760569,4.833469,15,fte lumires light lyon illumination fte lumires,2010,12,8,18,54,-1.3018595909986164,undef
+5246019413,45.760569,4.833469,15,fte lumires light lyon illumination fte lumires,2010,12,8,18,57,-1.3018575446192826,undef
+5245812921,45.760453,4.833297,15,fete lumires place jacobin light lyon fetedeslumieres decembre,2010,12,9,12,32,-1.3011379012202375,undef
+5245812851,45.760453,4.833297,15,fete lumires place jacobin light lyon fetedeslumieres decembre,2010,12,9,12,32,-1.3011379012202375,undef
+5244802301,45.760406,4.833345,15,fontaine jacobin city france fountain night canon eos light lyon fte fontaine lumires mm frenchiboo znowx,2010,12,8,23,11,-1.301684284502356,undef
+5575642730,45.760423,4.833689,15,place jacobin hdr raw photoengine oloneo,2011,3,26,18,25,-1.1957950680024862,undef
+5564650794,45.760498,4.833281,15,place jacobin lightroom photomatix hdrbw raw,2011,3,26,18,23,-1.1957964322553754,undef
+5645063001,45.7605,4.8335,15,lyon juin originaliphoto,2010,6,26,13,39,-1.4641477040638375,undef
+5624745737,45.760375,4.833383,15,sketchcrawl sketchcrawl,2011,4,16,12,2,-1.1754288187462882,undef
+5592340265,45.760554,4.833469,15,audi r v horse white france car switzerland photo hp nikon power suisse ferrari german r porsche af gt nikkor audi blanche lamborghini bianco blanc eight f supercar v ch mm quattro r mm mm afd hypercar worldcars hp bhp ch,2011,4,2,12,34,-1.189158659823046,undef
+5589518664,45.760637,4.833447,15,audi r v horse white france switzerland photo hp nikon power suisse ferrari porsche af gt nikkor audi blanche lamborghini bianco blanc f v v ch mm r mm mm afd worldcars hp bhp ch,2011,4,2,12,36,-1.1891572955701566,undef
+5588454517,45.760472,4.833749,15, france europe lyon unesco worldheritage,2011,3,15,16,13,-1.2066899915755174,undef
+5586065299,45.76067,4.833426,15,audi r v horse white france car photo hp nikon power ferrari ibis german porsche af gt nikkor blanche lamborghini bianco blanc f supercar v v ch deutsch mm mm mm afd hypercar worldcars,2011,4,2,12,36,-1.1891572955701566,undef
+5584938817,45.7605,4.8335,15,lyon juin originaliphoto,2011,4,3,17,17,-1.187983355959013,undef
+5581110281,45.760453,4.833394,15,lyon place jacobin place lyon peinture jacobin,2011,4,2,0,54,-1.1896361483342606,undef
+5780286408,45.760509,4.833211,15,clooney car france lyon canoneos,2011,3,6,16,15,-1.2155289860445468,undef
+5773871276,45.760483,4.833663,15, france lyon,2011,5,27,19,30,-1.1348504808103703,undef
+5768126905,45.760614,4.833211,15, france caf girl restaurant lyon adolescente teenager fille sooc,2010,7,21,6,37,-1.4398790094181262,undef
+5912700890,45.7605,4.8335,15,lyon historic,2010,7,23,18,48,-1.4374158508267023,undef
+5912140535,45.7605,4.8335,15,lyon historic,2010,7,23,18,48,-1.4374158508267023,undef
+6278601537,45.7605,4.8335,15,igp editjpg wedding bw france dress storefront gown rhnealpes earrondissementlyon,2011,10,14,12,46,-0.9976093686641408,undef
+6241342732,45.760726,4.8337,15, sky cloud light lyon iphone,2011,10,13,19,26,-0.998318780166517,undef
+6506721769,45.760509,4.833437,15,lyon clestins bw building architecture lyon fotolog rhne nb,2010,10,6,14,34,-1.3639194549276408,undef
+6737904197,45.760569,4.833651,15,lyon fte lumires light night lyon lumire nuit flickraward,2010,12,11,23,23,-1.2987293127443815,undef
+6930945612,45.7605,4.8335,15, ,2012,4,14,16,0,-0.817723075454878,undef
+7623699064,45.760412,4.833598,15,rnovation ,2012,7,22,19,5,-0.7203529361215236,undef
+8140956412,45.760552,4.833437,15, festival light lyon nuit ftedeslumires,2009,12,5,23,5,-1.6631608227794736,undef
+8140924573,45.760552,4.833437,15, festival light lyon nuit ftedeslumires,2009,12,5,23,5,-1.6631608227794736,undef
+8140923705,45.760552,4.833437,15, festival light lyon nuit ftedeslumires,2009,12,5,23,5,-1.6631608227794736,undef
+8140922957,45.760552,4.833437,15, festival light lyon nuit ftedeslumires,2009,12,5,23,4,-1.6631615049059183,undef
+8140953006,45.760552,4.833437,15, festival light lyon nuit ftedeslumires,2009,12,5,23,4,-1.6631615049059183,undef
+8140920951,45.760552,4.833437,15, festival light lyon nuit ftedeslumires,2009,12,5,23,3,-1.6631621870323627,undef
+8140951274,45.760552,4.833437,15, festival light lyon nuit ftedeslumires,2009,12,5,23,0,-1.6631642334116965,undef
+8140950186,45.760552,4.833437,15, festival light lyon nuit ftedeslumires nepomukres ab b cb ec,2009,12,5,23,0,-1.6631642334116965,undef
+8140918001,45.760552,4.833437,15, festival light lyon nuit ftedeslumires,2009,12,5,22,57,-1.6631662797910305,undef
+8132511748,45.760507,4.83348,15, festival light lyon nuit ftedeslumires,2009,12,5,23,5,-1.6631608227794736,undef
+8132509032,45.760507,4.83348,15, festival light lyon mariage nuit ftedeslumires,2009,12,5,23,5,-1.6631608227794736,undef
+8132479069,45.760507,4.83348,15, festival light lyon nuit ftedeslumires fleurissimo,2009,12,5,23,5,-1.6631608227794736,undef
+8132502340,45.760507,4.83348,15, festival light lyon mariage nuit ftedeslumires,2009,12,5,23,4,-1.6631615049059183,undef
+8132498418,45.760507,4.83348,15, festival light lyon mariage nuit ftedeslumires,2009,12,5,23,4,-1.6631615049059183,undef
+8132466843,45.760507,4.83348,15, festival light lyon transport mariage nuit ftedeslumires,2009,12,5,23,3,-1.6631621870323627,undef
+8132490656,45.760507,4.83348,15, festival light lyon nuit ftedeslumires,2009,12,5,23,0,-1.6631642334116965,undef
+8132461187,45.760507,4.83348,15, festival light lyon nuit ftedeslumires fleurissimo nepomukres ab b cb ec,2009,12,5,23,0,-1.6631642334116965,undef
+8132484662,45.760507,4.83348,15, festival light lyon nuit ftedeslumires,2009,12,5,22,57,-1.6631662797910305,undef
+6442759141,45.760446,4.833335,15,fontaine jacobin lyon fontaine jacobin,2011,12,1,17,59,-0.9502472832367508,undef
+8373969945,45.760517,4.833608,15,fte lumires flower france night lyon festivaloflights ftedeslumires,2012,12,9,20,33,-0.5827762177645543,undef
+8274671844,45.760487,4.833694,15,bte lyon placedelarpublique ftesdeslumires,2012,12,9,21,9,-0.5827516612125491,undef
+8273606359,45.760397,4.833689,15,place rpublique lyon placedelarpublique ftesdeslumires,2012,12,9,21,6,-0.5827537075918828,undef
+8544054755,45.760555,4.833333,15,fontaine jacobin lyon blackandwhite noiretblanc,2013,3,10,9,14,-0.4938535323210333,undef
+9105213915,45.760555,4.833333,15,fontaine jacobin lyon night cloudy jacobin,2013,6,21,21,44,-0.3921689432256315,undef
+9107441176,45.760555,4.833333,15,fontaine jacobin lyon jacobin,2013,6,21,21,43,-0.3921696253520761,undef
+9336915098,45.760494,4.833571,15,upload square squareformat amaro iphoneography instagramapp uploadedbyinstagram foursquarevenue b baf f f ae,2013,7,21,18,56,-0.3628156780619276,undef
+9218887131,45.760555,4.833333,15,dtails fontaine jacobin lyon jacobin,2013,7,5,20,4,-0.3784854867471062,undef
+9508944341,45.760562,4.833748,15,place jacobin frankreich france lyon tourisme vacances lapresqule fontaine place rhne rhnealpes,2013,8,7,22,5,-0.3459883008002756,undef
+9482268808,45.760682,4.833469,15, ,2013,7,25,21,21,-0.358787721406609,undef
+9451536908,45.760562,4.833705,15,place jacobin france lyon july,2013,7,29,11,32,-0.3552604455616213,undef
+9448743981,45.760562,4.833705,15,passing traffic lunch place jacobin france lyon july,2013,7,29,11,32,-0.3552604455616213,undef
+9451520516,45.760562,4.833705,15,ornate doorway place jacobin france lyon july,2013,7,29,11,39,-0.3552556706765091,undef
+9451512712,45.760562,4.833705,15,nespresso place jacobin france lyon july,2013,7,29,11,39,-0.3552556706765091,undef
+9451158616,45.760569,4.833512,15,fountain place jacobin lyon sculpture fountain lyon placedesjacobins ndmay gaspardandr,2013,5,2,7,44,-0.4418550334497482,undef
+9451150900,45.760569,4.833512,15,fountain place jacobin lyon sculpture fountain lyon placedesjacobins ndmay gaspardandr,2013,5,2,8,49,-0.4418106952308496,undef
+9446716774,45.760562,4.833705,15, france lyon july,2013,7,25,18,18,-0.3589125505459695,undef
+9428099013,45.760509,4.833608,15, ,2013,8,3,17,16,-0.3501144836636156,undef
+9430865032,45.760509,4.833608,15, ,2013,8,3,17,19,-0.3501124372842818,undef
+9861333364,45.760522,4.833688,15,ressources france lyon fontaine berges rhone jacobin,2013,9,21,17,29,-0.3019747740893901,undef
+9861358956,45.76065,4.833627,15,blabla jacobin france lyon berges rhone jacobin,2013,9,21,17,27,-0.3019761383422792,undef
+9787514282,45.76039,4.833769,15,lyon ,2013,8,6,20,21,-0.3470415040307264,undef
+10557340656,45.760539,4.83378,15,lyon place jacobin france fountain frankreich fontaine fontanna francja,2013,7,19,12,31,-0.3650428209035221,undef
+10501814033,45.760494,4.833571,15,place jacobin lyon flickrandroidappfilternone,2013,10,26,16,6,-0.26765221777683,undef
+10420974676,45.760494,4.833571,15,place jacobin city lyon foutain placedesjacobins flickrandroidappfiltermammoth,2013,6,28,17,43,-0.385457501137286,undef
+10307630354,45.760461,4.833516,15,gnie want vine gnie veut vin gnie lyon nicolas wine greyhound france valencia square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue ee b f,2013,10,16,3,26,-0.2779932546768521,undef
+10307495176,45.760494,4.833571,15,gnie lookout gnie monte garde gnie dog greyhound cute lyon france square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue b baf f f ae,2013,10,16,3,7,-0.2780062150792993,undef
+10307612833,45.760494,4.833571,15,walking around gnie balade gnie lyon morning fall art square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue b baf f f ae,2013,10,16,3,6,-0.2780068972057439,undef
+11072258303,45.760516,4.833294,15,dsc jpg france lyon nuit rhnealpes villevillagearchitecture statuesculptureoeuvre,2012,12,9,20,5,-0.582795317305003,undef
+10976203683,45.760569,4.833469,15, white black noir place lyon nuit blanc jacobin nikoncoolpixp,2013,11,18,19,12,-0.2449333144132326,undef
+10976202713,45.760569,4.833469,15, place lyon nuit jacobin nikoncoolpixp,2013,11,18,19,7,-0.2449367250454556,undef
+10960767353,45.760569,4.833469,15, lyon nuit jacobin nikoncoolpixp,2013,11,18,19,9,-0.2449353607925664,undef
+10936437985,45.76039,4.83334,15,place jacobin city summer vacation urban france monument architecture night lyon placedesjacobins onlylyon,2013,9,26,15,22,-0.2971500937467874,undef
+10774284945,45.760614,4.833415,15, lyon er,2013,11,9,15,21,-0.2539312443438521,undef
+10774555793,45.760614,4.833415,15, lyon er,2013,11,9,15,21,-0.2539312443438521,undef
+10774209375,45.760555,4.833333,15,dtail jacobin blackandwhite noiretblanc,2013,11,9,9,27,-0.2541727171052378,undef
+12559860894,45.760366,4.833361,15,fontaine jacobin france monochrome architecture canon lyon noiretblanc paysage fontaine nuit rhone placedesjacobins rhonealpes presqule paysageurbain ef mmf lisusm canoneos formatpaysage,2014,2,1,0,22,-0.1720344612796337,undef
+12193200586,45.760494,4.833571,15,jacobin nuit lyon magnifique square lofi squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue b baf f f ae,2014,1,28,19,17,-0.1751892960858739,undef
+12010687114,45.760592,4.833469,15,cube suspendus night light lyon ftedeslumires,2013,12,7,20,1,-0.2262369106933972,undef
+11703706834,45.760494,4.833571,15,upload square squareformat sutro iphoneography instagramapp uploadedbyinstagram foursquarevenue b baf f f ae,2014,1,1,23,31,-0.2015371121347033,undef
+11623342804,45.760616,4.833777,15,lyon france fall lyon,2013,12,26,9,32,-0.2080029887029955,undef
+11600558145,45.760494,4.833571,15,upload square squareformat hudson iphoneography instagramapp uploadedbyinstagram foursquarevenue b baf f f ae,2013,12,28,2,31,-0.2063256397757425,undef
+11601027436,45.760494,4.833571,15,upload square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue b baf f f ae,2013,12,28,2,1,-0.2063461035690803,undef
+11475332294,45.760555,4.833611,15, ,2013,12,6,20,56,-0.2271816558191578,undef
+11475319055,45.760555,4.833611,15, ,2013,12,6,20,55,-0.2271823379456024,undef
+11475449043,45.760555,4.833611,15, ,2013,12,6,20,54,-0.227183020072047,undef
+11475331184,45.760555,4.833611,15, ,2013,12,6,20,53,-0.2271837021984916,undef
+11475448283,45.760555,4.833611,15, ,2013,12,6,20,52,-0.2271843843249361,undef
+11475330484,45.760555,4.833611,15, ,2013,12,6,20,52,-0.2271843843249361,undef
+11475317585,45.760555,4.833611,15, ,2013,12,6,20,52,-0.2271843843249361,undef
+11475410406,45.760555,4.833611,15, ,2013,12,6,20,52,-0.2271843843249361,undef
+11475409696,45.760555,4.833611,15, ,2013,12,6,20,52,-0.2271843843249361,undef
+11475446763,45.760555,4.833611,15, ,2013,12,6,20,52,-0.2271843843249361,undef
+11475446593,45.760555,4.833611,15, ,2013,12,6,20,51,-0.2271850664513807,undef
+11475316475,45.760555,4.833611,15, ,2013,12,6,20,51,-0.2271850664513807,undef
+11475408696,45.760555,4.833611,15, ,2013,12,6,20,50,-0.2271857485778253,undef
+11475445623,45.760555,4.833611,15, ,2013,12,6,20,50,-0.2271857485778253,undef
+11475445323,45.760555,4.833611,15, ,2013,12,6,20,50,-0.2271857485778253,undef
+11475444913,45.760555,4.833611,15, ,2013,12,6,20,49,-0.2271864307042699,undef
+11475398116,45.760555,4.833611,15, ,2013,12,6,20,52,-0.2271843843249361,undef
+13584463223,45.760564,4.83349,15,fontaine jacobin lyon fountain lyon fontaine placedesjacobins jacobin,2014,3,13,12,34,-0.1322446615136648,undef
+13584739724,45.760564,4.83349,15,fontaine jacobin lyon fountain lyon fontaine placedesjacobins jacobin,2014,3,13,12,35,-0.1322439793872202,undef
+13584714664,45.760564,4.83349,15,fontaine jacobin lyon fountain lyon fontaine placedesjacobins jacobin grardaudran,2014,3,13,12,34,-0.1322446615136648,undef
+14290684966,45.760555,4.833333,15,place jacobin lyon lyon noiretblanc jacobin,2014,5,31,16,40,-0.0544781540714539,undef
+13896084140,45.760661,4.833771,15,upload square squareformat hudson iphoneography instagramapp uploadedbyinstagram,2014,5,1,10,33,-0.0841963568830147,undef
+14285014788,45.760532,4.833501,15,fontaine blackandwhite bw eau water noiretblanc,2014,6,21,10,5,-0.0341200903325911,undef
+14242526657,45.760614,4.833415,15, close lyon proche,2014,5,4,17,38,-0.0809596669034234,undef
+14771898633,45.760419,4.833402,15,could sleep went walk narrivais dormir donc alls balader square squareformat iphoneography instagramapp xproii uploadedbyinstagram,2014,7,26,14,41,0.0004473493735776,undef
+14738792491,45.760419,4.833402,15,upload square squareformat iphoneography instagramapp uploadedbyinstagram,2014,7,25,7,45,-0.000818677307586,undef
+14711192405,45.760569,4.833329,15,merci lyon square squareformat brannan iphoneography instagramapp uploadedbyinstagram,2014,7,21,12,55,-0.004536266430615,undef
+14507087028,45.760427,4.833598,15,fountain place jacobin france lyon placedesjacobins,2014,5,26,9,39,-0.0596766397056932,undef
+14659712545,45.760419,4.833402,15,lavender lavande square squareformat hudson iphoneography instagramapp uploadedbyinstagram,2014,7,15,1,42,-0.0108889100091049,undef
+14439483207,45.760419,4.833402,15, square squareformat iphoneography instagramapp uploadedbyinstagram,2014,7,11,0,29,-0.0148677535604128,undef
+14409839659,45.760419,4.833402,15,chill bynight jacobin lyon france thanks square squareformat mayfair iphoneography instagramapp uploadedbyinstagram,2014,7,7,16,17,-0.0181501460117919,undef
+14909985290,45.760615,4.833593,15,jacobin night ,2014,8,20,21,17,0.0252740234509657,undef
+15096621405,45.76057,4.833696,15,building night lyon ,2014,8,20,21,19,0.0252753877038549,undef
+14775993197,45.760375,4.833463,15,lyon france frankrijk francia,2014,8,13,13,6,0.0180632648051785,undef
+14752465030,45.760601,4.833565,15,p ,2014,8,15,14,38,0.0200905445985074,undef
+14938772952,45.760601,4.833565,15,p ,2014,8,15,14,33,0.0200871339662844,undef
+14752521208,45.760601,4.833565,15,p ,2014,8,15,14,28,0.0200837233340615,undef
+14752520348,45.760601,4.833565,15,p ,2014,8,15,14,27,0.0200830412076169,undef
+14841552624,45.760663,4.833567,15,late lunch djeuner tardif art photography cafdesjacobins pork filetmignon carotts gratindecourgettes saxotaz summer france picoftheday instagood followme happy nodiscrimination square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bc fbad f,2014,8,6,6,33,0.0109193545509614,undef
+14656376837,45.760663,4.833567,15,good morning everyone bonjour loulous art photography cafdesjacobins sacred coffee instagood pictureoftheday followme happy moment square squareformat unknown iphoneography instagramapp uploadedbyinstagram foursquarevenue bc fbad f,2014,8,6,2,53,0.0107692867331511,undef
+15011488829,45.760436,4.833543,15,lyon place jacobin street people candid july sidewalk juillet,2014,7,30,17,28,0.0044903128106772,undef
+15011487999,45.760436,4.833543,15,lyon fontaine jacobin july juillet,2014,7,30,17,29,0.0044909949371218,undef
+14955911647,45.760261,4.833661,15, ,2014,9,4,15,46,0.0397821708010033,undef
+15136531101,45.760325,4.8335,15, ,2014,9,4,15,47,0.0397828529274478,undef
+15474176377,45.760495,4.833571,15,hotel mercure beau art lyon,2014,10,12,22,46,0.0773946229558329,undef
+15660968852,45.760495,4.833571,15,lyon france fountain lyon,2014,10,12,22,43,0.0773925765764991,undef
+15632004601,45.760494,4.833741,15,place jacobin france lyon lione francia placedesjacobins jacobin giacobino piazzadeigiacobini,2014,10,4,9,28,0.0689921894113427,undef
+15635431182,45.760447,4.833577,15,place jacobin france lyon lione francia placedesjacobins piazzadeigiacobini,2014,10,4,9,22,0.0689880966526751,undef
+15429910945,45.760658,4.833711,15,lyon france sept france lyon,2014,9,17,14,31,0.0525004183604301,undef
+15243364997,45.760611,4.833705,15,lyon france sept france lyon,2014,9,17,14,31,0.0525004183604301,undef
+15254263106,45.760554,4.833619,15,fountain mermaid fountain fontaine fontijn sirne meermin lyon france frankrijk rhnealpes,2014,9,15,10,32,0.0503728659797462,undef
+15276848542,45.760554,4.833619,15,place jacobin fountain france frankrijk placedesjacobins fontaine fontijn lyon building cloud rhnealpes,2014,9,15,10,34,0.0503742302326354,undef
+15398038136,45.760523,4.833326,15, lyon fontein jacobin,2014,9,24,11,2,0.0592336884950026,undef
+15897995585,45.760763,4.833463,15,place jacobin france lyon fontaine placedesjacobins rhnealpes lyondenuit sortieclubphoto,2014,11,27,23,10,0.1225950496803094,undef
+15699270455,45.760607,4.833576,15,lyon fontaine jacobin lyon nuit jacobin place fontaine noctnikkor france,2014,10,11,22,32,0.0764028111053954,undef
+15513404219,45.760607,4.833576,15,lyon fontaine jacobin lyon nuit jacobin fontaine place noctnikkor france,2014,10,11,22,30,0.0764014468525063,undef
+11373417544,45.760627,4.833625,15,lyon lumires light lyon lumire,2013,12,6,21,46,-0.2271475494969282,undef
+11373365355,45.760613,4.833611,15,lyon lumires light lyon lumire,2013,12,6,21,44,-0.2271489137498173,undef
+11373364725,45.760638,4.833588,15,lyon lumires light lyon lumire,2013,12,6,21,43,-0.2271495958762619,undef
+11373414724,45.760638,4.833588,15,lyon lumires light lyon lumire,2013,12,6,21,43,-0.2271495958762619,undef
+11373381196,45.760638,4.833597,15,lyon lumires light lyon lumire,2013,12,6,21,42,-0.2271502780027065,undef
+11354383125,45.760438,4.83358,15,wp pro ,2013,12,8,0,29,-0.2260541008062464,undef
+11354381745,45.760438,4.83358,15,wp pro ,2013,12,8,0,29,-0.2260541008062464,undef
+11354479654,45.760438,4.83358,15,wp pro ,2013,12,8,0,30,-0.2260534186798018,undef
+11354478884,45.760438,4.83358,15,wp pro ,2013,12,8,0,30,-0.2260534186798018,undef
+11354477894,45.760438,4.83358,15,wp pro ,2013,12,8,0,33,-0.226051372300468,undef
+11354436876,45.760438,4.83358,15,wp pro ,2013,12,8,0,33,-0.226051372300468,undef
+11310009084,45.760438,4.83356,15,urban delusion urban abstract art digital delusion fetedeslumieres,2013,12,7,21,54,-0.2261598304051582,undef
+11295133326,45.760726,4.833651,15,place jacobin show case lyon rhne jacobin,2013,12,9,1,2,-0.2250493285533617,undef
+11276871226,45.760435,4.83378,15,fte lumires lyon lyon ftedeslumires lightfestival lichterfest architecturallighting citylighting ftedeslumires lyon,2013,12,6,18,54,-0.2272648752453981,undef
+11274678956,45.760555,4.833333,15,fte lumires lyon ftedeslumireslyon,2013,12,8,18,17,-0.2253255897634216,undef
+11271804874,45.76048,4.833533,15,dsc jpg france lyon nuit rhnealpes villevillagearchitecture statuesculptureoeuvre fontainebassin,2013,12,7,21,16,-0.2261857512100528,undef
+11267103405,45.760494,4.833571,15,fete lumires fete fetedeslumieres lyon igerslyon onlylyon lumiere light lightfest decembre rhone rhonealpes fest square lyon squareformat mayfair fetedeslumieres onlylyon iphoneography instagramapp,2013,12,8,11,31,-0.2256025330999262,undef
+11267143824,45.760494,4.833571,15,fete lumires fete fetedeslumieres lyon igerslyon onlylyon lumiere light lightfest decembre rhone rhonealpes fest square lyon lumiere squareformat lumieres decembre fetedeslumieres iphoneography instagramapp,2013,12,8,11,30,-0.2256032152263708,undef
+11267050686,45.760494,4.833571,15,fete lumires fete fetedeslumieres lyon igerslyon onlylyon lumiere light lightfest decembre rhone rhonealpes fest square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue b baf f f ae,2013,12,8,11,24,-0.2256073079850383,undef
+11266889104,45.760494,4.833571,15,fete lumires fete fetedeslumieres lyon igerslyon onlylyon lumiere light lightfest decembre rhone rhonealpes fest square squareformat hudson iphoneography instagramapp uploadedbyinstagram foursquarevenue b baf f f ae,2013,12,8,11,8,-0.2256182220081518,undef
+11266856224,45.760494,4.833571,15,fete lumires fete fetedeslumieres lyon igerslyon onlylyon lumiere light lightfest decembre rhone rhonealpes fest valencia square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue b baf f f ae,2013,12,8,11,5,-0.2256202683874856,undef
+11266831174,45.760494,4.833571,15,fete lumires fete fetedeslumieres lyon igerslyon onlylyon lumiere light lightfest decembre rhone rhonealpes fest square squareformat hudson iphoneography instagramapp uploadedbyinstagram foursquarevenue b baf f f ae,2013,12,8,11,2,-0.2256223147668194,undef
+11247668654,45.760555,4.833333,15,fte lumires lyon ftedeslumireslyon,2013,12,6,21,14,-0.2271693775431551,undef
+16645407182,45.760597,4.833388,15,vacation part ,2015,2,16,15,13,0.2018329038635063,undef
+16456506509,45.760625,4.833397,15,vacation part ,2015,2,16,15,13,0.2018329038635063,undef
+16640030702,45.760563,4.833458,15,vacation part ,2015,2,16,15,14,0.2018335859899509,undef
+16637824101,45.760586,4.83348,15,vacation part ,2015,2,16,15,14,0.2018335859899509,undef
+15933880603,45.760566,4.833369,15,fountain france water fountain lyon,2015,2,8,15,44,0.1939959531415832,undef
+16403597236,45.760486,4.833577,15,dsc jpg france lyon rhnealpes villevillagearchitecture statuesculptureoeuvre fontainebassin,2013,10,18,11,57,-0.2756801639032389,undef
+16141006477,45.760584,4.833651,15,sirne fontaine place jacobin ,2014,11,6,9,20,0.1014013810468209,undef
+16223453975,45.760577,4.833586,15,festival light fte lumires show france art festival marie night french light lyon artistic mary experience fte nuit festivaloflights lumires december th artistique ftedeslumires stockphotography dcembre vierge lightsfestival viergemarie mercimarie wwwmyplanetexperiencecom myplanetexperience,2014,12,7,21,19,0.1323419544470914,undef
+16193805115,45.760571,4.833587,15,lyon place jacobin france architecture frankreich lyon lione frana rhne frankrijk fontain francia fontaine francie frankrig lyon historicalbuilding frankrike eclecticism rhnealpes francja december,2014,12,21,15,48,0.1458678397169158,undef
+15570847284,45.760562,4.833512,15, ,2014,12,7,20,38,0.1323139872628631,undef
+16173657375,45.760637,4.833641,15,fetelumieres france lyon ftedeslumires dcembre jacobin lightfestival,2014,12,8,19,27,0.1332478183655102,undef
+15985915427,45.760637,4.833641,15,fetelumieres france lyon ftedeslumires dcembre jacobin lightfestival,2014,12,8,19,26,0.1332471362390657,undef
+16143523386,45.760637,4.833641,15,fetelumieres france lyon ftedeslumires dcembre jacobin lightfestival,2014,12,8,19,25,0.1332464541126211,undef
+16166407505,45.760637,4.833641,15,fetelumieres france lyon ftedeslumires dcembre jacobin lightfestival,2014,12,8,19,24,0.1332457719861765,undef
+15535027734,45.760555,4.833333,15,place jacobin lyon place lyon jacobin,2014,12,31,16,9,0.1557047851743841,undef
+15976372298,45.760637,4.833641,15,fetelumieres france lyon ftedeslumires dcembre jacobin lightfestival,2014,12,8,19,23,0.1332450898597319,undef
+15539685424,45.760637,4.833641,15,fetelumieres france lyon ftedeslumires dcembre jacobin lightfestival,2014,12,8,19,23,0.1332450898597319,undef
+15815220528,45.760749,4.833716,15,lyon ftes lumires lyon ftesdeslumire lumires,2014,12,7,22,32,0.1323917496775467,undef
+15815219408,45.760749,4.833716,15,lyon ftes lumires lyon ftesdeslumire lumires,2014,12,7,22,33,0.1323924318039913,undef
+16349837323,45.760794,4.833641,15,lyon place jacobin statue place lyon faade immeuble rhone jacobin,2015,3,23,17,22,0.23630007098232,undef
+16731769589,45.760495,4.833571,15,foreground v background city winter sky france monument fountain color night building square photography light lyon basilica sony streetphotography basilique ftedeslumires jacobin travelphotography,2014,11,30,19,54,0.1254081391378088,undef
+16730537670,45.760495,4.833571,15,nighty night city window winter sky bw france reflection lamp night building photography light lyon balcony sony crowd streetphotography bubble ftedeslumires travelphotography balco,2014,12,5,18,28,0.1302607866646397,undef
+16840098932,45.760427,4.833769,15,lyon place jacobin france lyon placedesjacobins rhnealpes presqule jalousie lambrequin faadeslyonnaises,2015,3,14,18,0,0.2274856330652959,undef
+16624270067,45.760562,4.833405,15,lyon fontaine place jacobin ,2015,3,10,17,44,0.2235456707213297,undef
+16823775972,45.760427,4.833769,15,lyon rue prsident edouard herriot france lyon placedesjacobins rhnealpes presqule jalousie lambrequin faadeslyonnaises,2015,3,14,17,59,0.2274849509388513,undef
+16617576907,45.760427,4.833769,15,lyon rue prsident edouard herriot france lyon placedesjacobins rhnealpes presqule jalousie lambrequin faadeslyonnaises,2015,3,14,17,59,0.2274849509388513,undef
+16637322088,45.760427,4.833769,15,lyon rue prsident edouard herriot france lyon placedesjacobins rhnealpes presqule jalousie lambrequin faadeslyonnaises,2015,3,14,18,0,0.2274856330652959,undef
+18317678055,45.760427,4.833769,15,lyon er festival mondial rose ,2015,5,29,19,17,0.3021900748977312,undef
+18291239626,45.760427,4.833769,15,lyon er festival mondial rose fontaine fontaineornemente lyon,2015,5,29,19,18,0.3021907570241758,undef
+18313755462,45.760427,4.833769,15,lyon er festival mondial rose ,2015,5,29,19,18,0.3021907570241758,undef
+17697031843,45.760427,4.833769,15,lyon er festival mondial rose ,2015,5,29,19,19,0.3021914391506204,undef
+18319111751,45.760427,4.833769,15,lyon er festival mondial rose ,2015,5,29,19,21,0.3021928034035095,undef
+18287012415,45.760569,4.833619,15,fontaine jacobin fleurie milliers rose rose lyon fontaine jacobin,2015,5,30,19,6,0.3031648335870539,undef
+17660206114,45.760711,4.833501,15,th world convention rose society world rose france rose lyon convention th society louisdespres,2015,5,30,16,12,0.3030461435856947,undef
+17653615204,45.760494,4.833571,15,festival mondial rose flower rose fleurs lyon,2015,5,30,21,12,0.3032507815190725,undef
+18269055492,45.760569,4.833469,15,sirne muse lyon,2015,5,30,16,37,0.3030631967468096,undef
+18244235246,45.760704,4.83348,15,festival mondial rose rose lyon jacobin festivalmondialdesroses,2015,5,29,18,59,0.3021777966217285,undef
+23507627516,45.760532,4.833576,15,place jacobin france lyon cameramakenikon exifmakenikon exiffocallength mm exifaperture cameramodelcoolpixs exifmodelcoolpixs exifisospeed,2015,5,30,1,53,0.3024601969697898,undef
+17631617544,45.760555,4.833333,15,place jacobin rose lyon jacobin,2015,5,29,21,54,0.3022971687495322,undef
+18056152259,45.760457,4.833405,15,vie rose ,2015,5,29,15,32,0.3020365964476978,undef
+18013468789,45.760555,4.833333,15,place jacobin lyon rose lyon jacobin,2015,5,28,15,24,0.301048877355928,undef
+18052976200,45.760554,4.83349,15,lyon world festival rose rose statue festival place lyon fontaine jacobin nikoncoolpixp worldfestivalofroses festivalmondialdesroses,2015,5,29,9,12,0.3017773883987527,undef
+18231157395,45.760554,4.83349,15,lyon world festival rose rose statue festival place lyon fontaine jacobin nikoncoolpixp worldfestivalofroses festivalmondialdesroses,2015,5,29,9,21,0.3017835275367541,undef
+18232129091,45.760554,4.83349,15,lyon world festival rose rose statue festival place lyon fontaine jacobin nikoncoolpixp worldfestivalofroses festivalmondialdesroses,2015,5,29,9,17,0.3017807990309757,undef
+18195057896,45.760652,4.833523,15,mignonne allons voir si rose ,2015,5,28,15,21,0.3010468309765942,undef
+18173185206,45.760555,4.833333,15,place jacobin lyon rose lyon jacobin,2015,5,28,15,22,0.3010475131030388,undef
+18137000826,45.760555,4.833333,15,place jacobin lyon rose lyon jacobin festivalmondialdesroses,2015,5,27,15,14,0.3000597940112688,undef
+17981876151,45.76072,4.833734,15,lyon square squareformat iphoneography instagramapp uploadedbyinstagram,2015,5,22,23,42,0.2954950038440559,undef
+17959382332,45.76072,4.833734,15,lyon square squareformat reyes iphoneography instagramapp uploadedbyinstagram,2015,5,22,11,48,0.2950079655626169,undef
+17593793980,45.760719,4.833651,15,place jacobin lyon blackandwhite cloud place lyon noiretblanc nuages jacobin,2015,5,23,9,35,0.2958995048256993,undef
+17763352026,45.760674,4.833276,15,place jacobin blackandwhite france lyon noiretblanc streetphotography rhne placedesjacobins rhnealpes brumpicts frdricbrumby,2015,3,7,17,54,0.2206057057451361,undef
+16773037443,45.7604,4.833386,15,hanzalikdanielle studentambassadors bearsabroad,2014,9,5,16,28,0.0407930821918893,undef
+18472921224,45.760559,4.833586,15,p jpg lyon placedesjacobins festivalmondialdesroses rosesencascade,2015,5,30,16,20,0.3030516005972515,undef
+19095406545,45.760559,4.833586,15,p jpg lyon placedesjacobins festivalmondialdesroses rosesencascade,2015,5,30,16,20,0.3030516005972515,undef
+18474788003,45.760559,4.833586,15,p jpg lyon placedesjacobins festivalmondialdesroses rosesencascade,2015,5,30,16,23,0.3030536469765852,undef
+18474738993,45.760559,4.833586,15,p jpg lyon placedesjacobins festivalmondialdesroses rosesencascade,2015,5,30,16,20,0.3030516005972515,undef
+19089709872,45.760559,4.833586,15,p jpg lyon placedesjacobins festivalmondialdesroses rosesencascade,2015,5,30,16,16,0.3030488720914731,undef
+19098629401,45.760559,4.833586,15,p jpg lyon placedesjacobins festivalmondialdesroses rosesencascade,2015,5,30,16,13,0.3030468257121393,undef
+18306520204,45.760537,4.833587,15,lyon fountain place jacobin rose france monument statue festival square lyon decoration worldheritagesite convention placedesjacobins festivalmondialdesroses,2015,5,28,5,15,0.3006334623511711,undef
+18709763951,45.760594,4.833558,15,lyon france france fountain lyon,2015,3,24,17,25,0.237284379441867,undef
+18519698210,45.760536,4.833625,15,lyon france france lyon,2015,3,24,17,24,0.2372836973154224,undef
+18700688525,45.760505,4.833402,15,place jacobin rose france night place lyon fontaine nuit ville jacobin,2015,6,1,21,14,0.305216669932388,undef
+18566708421,45.760502,4.833727,15,miss rose street france canon eos spring day shot lyon candid mm fr printemps rhnealpes festivaldesroses,2015,5,29,17,17,0.3021082197243801,undef
+18556240992,45.76072,4.833734,15,place jacobin square located nd arrondissement lyon created fountain added square belongs zone classified world heritage site unesco lyon france europe travel vaca valencia square squareformat iphoneography instagramapp uploadedbyinstagram,2015,6,7,20,57,0.311098646264109,undef
+17907385353,45.760614,4.833415,15, rose festival lyon,2015,5,31,17,11,0.3040686511261389,undef
+18340329080,45.760614,4.833415,15, rose festival lyon,2015,5,31,17,9,0.3040672868732497,undef
+18528031445,45.760614,4.833415,15, rose festival lyon,2015,5,31,17,9,0.3040672868732497,undef
+18528029125,45.760614,4.833415,15, rose festival lyon,2015,5,31,17,10,0.3040679689996943,undef
+17907279513,45.760614,4.833415,15, rose festival lyon,2015,5,31,17,8,0.3040666047468051,undef
+18340257380,45.760614,4.833415,15, rose festival lyon,2015,5,31,17,8,0.3040666047468051,undef
+18341778569,45.760614,4.833415,15, rose festival lyon,2015,5,31,17,9,0.3040672868732497,undef
+18523545202,45.760614,4.833415,15, rose festival lyon,2015,5,31,17,10,0.3040679689996943,undef
+17905258744,45.760614,4.833415,15, rose festival lyon,2015,5,31,17,11,0.3040686511261389,undef
+18521392222,45.76072,4.833734,15,tient bien finalement comme quoi ogm bon square squareformat rise iphoneography instagramapp uploadedbyinstagram,2015,6,6,16,42,0.3099424419405248,undef
+18299300479,45.76072,4.833734,15,last photo maybe rose placedesjacobins lyon france fountain festivalofroses festivalmondialdesroses onlylyon igerslyon monlyon villedelyon igersfrance topfrancephoto square squareformat hudson iphoneography instagramapp uploadedbyinstagram,2015,6,5,12,50,0.3088019265251662,undef
+18468157605,45.76072,4.833734,15,beautiful pinksky tonight placedesjacobins rose festivalofroses festivalmondialdesroses lyon fountain fontaine france onlylyon igerslyon monlyon pink square squareformat amaro iphoneography instagramapp uploadedbyinstagram,2015,6,4,23,49,0.3082691857719394,undef
+17842591764,45.76072,4.833734,15,back see end placedesjacobins rose festivalofroses lyon france fountain fontaine festival square squareformat iphoneography instagramapp uploadedbyinstagram,2015,6,4,21,56,0.3081921054837004,undef
+18413858391,45.76072,4.833734,15,rose festivalofroses festivalmondialdesroses placedesjacobins fountain fontaine rose lyon france igersfrance igerslyon monlyon onlylyon picoftheday summer square squareformat amaro iphoneography instagramapp uploadedbyinstagram,2015,6,3,9,28,0.3066996128229321,undef
+18392340852,45.76072,4.833734,15,went back see beautiful rose placedesjacobins festivalmondialdesroses lyon france onlylyon igerslyon monlyon square squareformat mayfair iphoneography instagramapp uploadedbyinstagram,2015,6,2,22,53,0.3062664625306159,undef
+18358892931,45.760506,4.833488,15,lyon festival mondial rose voyage city trip travel pink flower blue red sky cloud france flower colour art water fountain fleur rose statue festival architecture cloud fleurs rouge photo nikon eau day lyon sigma pic bleu ciel nuage nuages extrieur fontaine hdr ville lightroom photomatix,2015,5,31,20,38,0.3042098513001695,undef
+17733488494,45.760598,4.833574,15,place jacobin ,2015,5,29,16,57,0.3020945771954882,undef
+18169918699,45.76056,4.833616,15,place jacobin rose lyon placedesjacobins festivalmondial,2015,5,30,12,21,0.3028885723769939,undef
+17733399534,45.760562,4.83349,15, fleurs,2015,5,31,11,52,0.3038510527903139,undef
+18163011200,45.760571,4.833544,15,place jacobin rose lyon placedesjacobins worldconventionofrosesocieties,2015,6,1,18,14,0.3050938871723614,undef
+18340755162,45.760479,4.833587,15,soeurs ,2015,5,31,15,48,0.3040120346312377,undef
+18325834495,45.760569,4.833619,15,fontaine jacobin lyon rose urban architecture fleurs cityscape nightscape lumire fontaine nocturne ville clairage,2015,5,31,22,1,0.3042664677950707,undef
+23425544832,45.760532,4.833576,15, france lyon geolocation placedesjacobins exifmakeapple cameramakeapple exifaperture exifisospeed cameramodeliphone exifmodeliphone exiffocallength mm exiflensiphone backcamera mmf,2015,5,31,17,15,0.3040713796319172,undef
+23534038405,45.760532,4.833576,15, france lyon geolocation placedesjacobins exifmakeapple cameramakeapple exifaperture exifisospeed cameramodeliphone exifmodeliphone exiffocallength mm exiflensiphone backcamera mmf,2015,5,31,17,13,0.3040700153790281,undef
+19933900976,45.760427,4.833769,15,lyon bellecour france lyon rhne bellecour fourvire placebellecour rhnealpes,2015,7,14,11,58,0.3470746770783613,undef
+19641034169,45.760572,4.833302,15,test lyon fr rhnealpes,2015,7,8,16,41,0.3413741463809019,undef
+20798465010,45.760555,4.833333,15,place jacobin lyon lyon jacobin,2015,8,29,15,57,0.3924217609884252,undef
+21002526115,45.760277,4.833651,15,watching lyon france facade frankreich lyon faade fassade,2015,8,29,17,54,0.3925015697824425,undef
+20814453580,45.760569,4.833523,15,panoramic jacobin panorama france frankreich lyon pano placedesjacobins,2015,8,29,17,57,0.3925036161617763,undef
+20924280681,45.760599,4.833512,15,figure fontaine jacobin lyon placedesjacobinslyon fontainedesjacobinslyon,2015,8,12,11,41,0.3755486812549855,undef
+20924104961,45.760599,4.833512,15,place jacobin lyon lyon frenchclassicalarchitecture placedesjacobinslyon fontainedesjacobinslyon,2015,8,16,15,53,0.3796496254398755,undef
+20264879165,45.760427,4.833313,15,place jacobin lyon france lyon placedesjacobins rhnealpes,2015,5,24,14,58,0.2971020937475158,undef
+21383570975,45.76063,4.833319,15,img hdr ,2015,8,6,18,19,0.3699265950986542,undef
+21278306806,45.760702,4.833366,15, ,2015,9,10,16,17,0.4042225484798752,undef
+21116674828,45.760427,4.833683,15, ,2015,9,10,16,18,0.4042232306063198,undef
+20933683510,45.760277,4.833651,15,place jacobin panorama france architecture frankreich lyon placedesjacobins,2015,8,29,17,54,0.3925015697824425,undef
+21062981356,45.76077,4.833661,15,street moment street bw france monochrome canon town lyon nb rue personne ville,2015,8,20,9,12,0.3833051410564466,undef
+21888771394,45.76063,4.833788,15, france lyon,2015,10,21,11,32,0.4443008877319067,undef
+21949887609,45.760569,4.833523,15,place jacobin lyon fountain statue square lyon placedesjacobins mmsummicron paulborel,2015,10,8,11,57,0.4315485338502502,undef
+22060537555,45.760532,4.83363,15,fontaine jacobin flower rose france flores water fountain gua europa europe raw lyon frana f rosa fonte ue placedesjacobins panasonicdmcgf lafontainedesjacobins amricoaperta p jacobinsfountain fontedosjacobinos,2015,5,29,14,57,0.3020127220221371,undef
+21882784742,45.760509,4.833608,15,sirene ,2011,5,12,10,15,-1.149962992190317,undef
+22271325703,45.760577,4.833598,15,place jacobin ,2015,11,8,13,2,0.4620429965557572,undef
+22830853091,45.760367,4.833469,15,lyon jacobin france lyon rhne fontaine lesjacobins rhnealpes lyonpresqule fontainedesjacobins,2015,10,31,17,18,0.4543595242838675,undef
+22401310728,45.760367,4.833469,15,lyon jacobin france lyon rhne fontaine lesjacobins rhnealpes lyonpresqule fontainedesjacobins,2015,10,31,18,41,0.4544161407787687,undef
+15809265118,45.760534,4.833669,15,veilleuse jacobin illumination paysage nuit ville decor,2014,12,7,21,54,0.1323658288726522,undef
+15374177874,45.760534,4.833669,15,veilleuse jacobin illumination paysage nuit ville decor,2014,12,7,21,58,0.1323685573784305,undef
+15809011248,45.760534,4.833669,15,veilleuse jacobin illumination paysage nuit ville decor,2014,12,7,21,56,0.1323671931255413,undef
+15810361149,45.760534,4.833669,15,veilleuse jacobin illumination paysage nuit ville decor,2014,12,7,21,51,0.1323637824933184,undef
+15991805275,45.760547,4.833555,15,jacobin lyon fetedeslumieres,2014,12,7,21,24,0.1323453650793144,undef
+15804352880,45.760524,4.833726,15, ,2014,12,6,23,15,0.131438819034451,undef
+15799418580,45.760425,4.833775,15,place jacobin ,2014,12,5,23,50,0.1304804313797985,undef
+15986506185,45.760559,4.833586,15,mg jpg lyon ftedeslumires nuit,2014,12,6,0,11,0.130494756035135,undef
+15364251784,45.760559,4.833586,15,mg jpg lyon ftedeslumires nuit,2014,12,6,0,9,0.1304933917822458,undef
+15364249034,45.760559,4.833586,15,mg jpg lyon ftedeslumires nuit,2014,12,6,0,5,0.1304906632764674,undef
+15798020007,45.760591,4.833277,15,lyon fte lumires france lyon rhne ftedeslumires lightfestival rhnealpes festivaldelleluci placedesjacobons,2014,12,5,21,8,0.1303699268957746,undef
+15983743125,45.760591,4.833277,15,lyon fte lumires france lyon rhne ftedeslumires lightfestival rhnealpes festivaldelleluci placedesjacobons,2014,12,5,21,5,0.1303678805164408,undef
+15983219715,45.760711,4.833501,15,dsc x france lyon louisdespres sonya ftesdeslumirescitylightfestival fetelumiereslyon,2014,12,8,19,50,0.1332635072737359,undef
+15982554222,45.760711,4.833501,15,dsc x france lyon louisdespres sonya ftesdeslumirescitylightfestival fetelumiereslyon,2014,12,8,19,50,0.1332635072737359,undef
+15978240091,45.760562,4.833576,15,fte lumires lyon festivaloflights ftedeslumires,2014,12,6,21,6,0.1313508247230985,undef
+15792793329,45.760419,4.833402,15,thofdecember square squareformat iphoneography instagramapp uploadedbyinstagram,2014,12,8,22,55,0.1333897006659855,undef
+15951323136,45.760569,4.833469,15,p ,2014,12,7,18,15,0.1322164431812864,undef
+15977071285,45.760569,4.833469,15,p ,2014,12,7,18,16,0.132217125307731,undef
+15789795050,45.760569,4.833469,15,p ,2014,12,7,18,16,0.132217125307731,undef
+15357457013,45.760569,4.833469,15,p ,2014,12,7,18,17,0.1322178074341756,undef
+15975093231,45.760569,4.833469,15,p ,2014,12,7,18,17,0.1322178074341756,undef
+15791347147,45.760569,4.833469,15,p ,2014,12,7,18,18,0.1322184895606202,undef
+15974702301,45.760532,4.833598,15,berceuse pentaxk pentaxart lumires,2014,12,7,23,14,0.1324203989882195,undef
+15976669605,45.760457,4.833587,15,jacobin jacobin pentaxk pentaxart lumires,2014,12,7,21,36,0.1323535505966495,undef
+15969240201,45.760352,4.833638,15,lyon fte lumires canon lyon fte lumires rhnealpes patman eos ftedeslumires,2014,12,7,20,32,0.1323098945041956,undef
+15884916088,45.760652,4.833683,15,veilleuse jacobin france architecture canon lyon paysage nuit rhone ftedeslumires placedesjacobins rhonealpes presqule paysageurbain ef mmf lisusm canoneos formatpaysage,2014,12,7,23,41,0.1324388164022236,undef
+15346229124,45.760569,4.833598,15,veilleuse jacobin place jacobin fte lumires lyon ,2014,12,6,18,33,0.1312464593770759,undef
+15348869403,45.760569,4.833598,15,veilleuse jacobin place jacobin fte lumires lyon ,2014,12,6,18,37,0.1312491878828543,undef
+15782779577,45.760569,4.833598,15,veilleuse jacobin place jacobin fte lumires lyon ,2014,12,6,18,37,0.1312491878828543,undef
+16019337965,45.760652,4.833319,15,fte lumires lyon fra francefrancefrankreich,2014,12,7,18,23,0.1322219001928432,undef
+15780554238,45.760569,4.833469,15,lyon illumination light festival lampe lyon illumination fte lumires jacobin nikoncoolpixp,2014,12,5,20,33,0.1303460524702138,undef
+15941685676,45.760294,4.833691,15,hipstaprint hipstamatic objectiflowy filmsequoia,2014,12,7,16,9,0.1321304952492678,undef
+15771998339,45.760509,4.833469,15,fete lumieres place jacobin canon lyon ftesdeslumires,2014,12,5,21,20,0.1303781124131097,undef
+15335701304,45.760532,4.833598,15, lyon festivaloflights ftedeslumires,2014,12,5,22,44,0.1304354110344554,undef
+15772141507,45.760555,4.833333,15,fte lumires lyon lyon jacobin ftedeslumires,2014,12,5,22,3,0.1304074438502271,undef
+15770462268,45.760555,4.833333,15,fte lumires lyon lyon jacobin ftedeslumires,2014,12,5,22,4,0.1304081259766717,undef
+15771837649,45.760555,4.833333,15,fte lumires lyon lyon jacobin ftedeslumires,2014,12,5,21,38,0.1303903906891123,undef
+24492555759,45.760801,4.83349,15,apartment building lyon france plant plant france building architecture apartment apartment lyon unescoworldheritagesite unesco worldheritagesite greenery placedesjacobins jacobin presquile,2015,12,9,12,12,0.4924590147201362,undef
+24732917692,45.760556,4.833522,15,dsc jpg lyon,2016,1,29,16,59,0.5427501511006064,undef
+24650797472,45.760412,4.833479,15,lyon france street city trip travel light sunset urban france canon eos town europa europe cityscape traffic lyon rhne carlights ville rhone placedesjacobins jacobin efs mmf usm canoneos,2016,1,29,19,7,0.5428374632855142,undef
+24336775509,45.760622,4.833211,15,lyon france street city trip travel sunset france night canon pose eos noche town europa europe nightshot lyon nacht dusk wideangle stadt crpuscule citycenter oldtown nuit notte ville canonefs mmf usm heurebleue efs mmf usm poselente canoneos longrxposure,2016,1,29,19,19,0.5428456488028494,undef
+24668498326,45.760824,4.833555,15,lyon france street city trip travel sunset france night canon eos noche town europa europe lyon nacht dusk rhne crpuscule notte ville rhone placedesjacobins canonefs mmf usm efs mmf usm canoneos,2016,1,29,19,27,0.5428511058144061,undef
+23550978784,45.760584,4.83334,15,lyon lyon,2015,12,29,10,24,0.5120305866683837,undef
+23552371313,45.760584,4.83334,15,lyon lyon,2015,12,29,10,25,0.5120312687948284,undef
+23550939224,45.760584,4.83334,15,lyon lyon,2015,12,29,10,25,0.5120312687948284,undef
+23915304762,45.760592,4.833567,15,place jacobin longexposure france night nightlights place lyon noiretblanc rhne nuit jacobin poselongue pentaxk ii,2015,12,19,23,28,0.5027427529988125,undef
+23941559835,45.760577,4.833598,15,place jacobin lyon sunrise lyon jacobin rhnealpes,2015,12,24,8,25,0.5070381032204114,undef
+26068156991,45.760569,4.833469,15, lyon fontaine jacobin nikoncoolpixp,2013,8,18,12,49,-0.335562680221124,undef
+26635936832,45.760555,4.833533,15,fontaine jacobin lyon fontaine jacobin monlyon,2016,3,26,16,23,0.5987145331207523,undef
+26384000790,45.760586,4.833669,15,hip place text france fr rhnealpes lyon earrondissement,2015,7,10,17,45,0.3433823266337822,undef
+26657245535,45.760586,4.833669,15,mannequin pride france lyon fr rhnealpes lyon earrondissement,2015,7,10,17,43,0.343380962380893,undef
+26657243055,45.760586,4.833669,15,mannequin pride france lyon fr rhnealpes lyon earrondissement,2015,7,10,17,43,0.343380962380893,undef
+26563693402,45.760586,4.833669,15,place jacobin france lyon fr rhnealpes lyon earrondissement,2015,7,10,17,33,0.3433741411164471,undef
+26550916182,45.760547,4.833447,15,lyon lumires lyon ftedeslumires,2010,12,8,20,15,-1.3018043387566045,undef
+26040606483,45.760622,4.833469,15,lumires lyon ftedeslumires,2010,12,8,20,28,-1.3017954711128246,undef
+26244027516,45.760592,4.833512,15,place jacobin street travel france street travelling fountain travel europe lyon exploring traveller travelling wanderlust explore traveling fountain streetscape traveler travelblog rhone placedesjacobins travelphotography travelphotographer travelblogs travelblogger traveling travelbloggers travelphotographers travelblogging weekendwayfarers,2016,4,3,8,35,0.6062533945863884,undef
+26192664186,45.760633,4.833444,15, ,2016,2,18,10,20,0.5621232242534776,undef
+25613824424,45.760633,4.833491,15, ,2016,2,18,10,20,0.5621232242534776,undef
+26824822221,45.760801,4.83349,15,lyon horizon france roof france building skyline architecture skyscraper building hotel lyon crane radisson horizon crane crayon lecrayon skyscraperineurope radissonblu,2015,12,6,12,58,0.4895436062959479,undef
+26792441086,45.760352,4.833394,15,lyon place jacobin france architecture lyon faades rhne fontaine btiment placedesjacobins fontainedesjacobins fontainedesartistes rhnealpesauvergne,2016,5,4,12,48,0.6368760970634789,undef
+26554105320,45.760277,4.833641,15,lyon place jacobin france architecture lyon faades rhne fontaine btiment placedesjacobins fontainedesjacobins fontainedesartistes rhnealpesauvergne,2016,5,4,12,49,0.6368767791899235,undef
+26759314791,45.760277,4.833641,15,lyon place jacobin france architecture lyon faades rhne btiment placedesjacobins rhnealpesauvergne,2016,5,4,12,51,0.6368781434428127,undef
+26726687752,45.7603,4.833662,15,lyon fontaine artiste france architecture lyon faades rhne fontaine btiment placedesjacobins fontainedesjacobins fontainedesartistes rhnealpesauvergne,2016,5,4,13,3,0.6368863289601477,undef
+26683699471,45.760498,4.833545,15,fte lumires lyon lumires ftedeslumires,2015,1,4,17,32,0.1596904499901379,undef
+26477840420,45.760498,4.833545,15,fte lumires lyon lumires ftedeslumires,2015,1,4,17,30,0.1596890857372488,undef
+26146815043,45.760498,4.833545,15,fte lumires lyon lumires ftedeslumires,2015,1,4,17,29,0.1596884036108042,undef
+27806394481,45.760491,4.833613,15, ,2014,6,6,13,40,-0.0487073643502014,undef
+27116625813,45.760571,4.833587,15,lyon place jacobin france architecture frankreich lyon lione frana rhne frankrijk fontain francia fontaine andr francie frankrig lyon historicalbuilding frankrike degeorge eclecticism rhnealpes francja eclectisme charlesdegeorge november gaspardandr,2015,11,15,12,49,0.4689099634734698,undef
+27388277051,45.760397,4.833538,15,img jpg sculpture france fountain statue architecture night lyon fontainedesjacobins,2016,4,23,21,36,0.6264313769438787,undef
+28279528950,45.760614,4.833512,15,fontaine jacobin fontainedesjacobins architecture lyon france french franais sonyalpha mkii variotessartfe mmf zaoss variotessartfe raw,2016,7,20,9,25,0.7123718055716415,undef
+28304234181,45.760539,4.833415,15,lyj france lyon,2016,7,10,16,13,0.7028274923589034,undef
+28075357055,45.760538,4.8335,15, ,2016,6,25,6,52,0.6877108882202893,undef
+27461817524,45.760516,4.833711,15, ,2016,6,25,6,53,0.6877115703467339,undef
+27461817434,45.760538,4.833644,15, ,2016,6,25,6,53,0.6877115703467339,undef
+28623009730,45.760491,4.833811,15,girl foutain ,2016,8,10,16,38,0.7332946700066267,undef
+28290530594,45.760491,4.833811,15,girl fountain nb ,2016,8,10,16,38,0.7332946700066267,undef
+28876421946,45.760361,4.83363,15,little boy ,2016,8,10,16,39,0.7332953521330713,undef
+28131634604,45.760592,4.83349,15,lyon place jacobin lyon placedesjacobins rgionauvergnerhnealpes rhnealpes statue samyang samyang mm uga,2016,7,30,19,26,0.7226043843669733,undef
+28722365945,45.760601,4.833716,15,lyon place jacobin lyon placedesjacobins fontaine france,2016,6,30,16,3,0.6929980502923256,undef
+28644744011,45.760601,4.833716,15,lyon place jacobin lyon placedesjacobins fontaine france,2016,6,30,16,3,0.6929980502923256,undef
+28106764883,45.760601,4.833716,15,lyon place jacobin lyon placedesjacobins fontaine france,2016,6,30,16,2,0.6929973681658811,undef
+29397827024,45.760554,4.833437,15,fte rose place jacobin lyon,2015,5,30,15,37,0.303022269160134,undef
+29609598682,45.76045,4.833411,15,place jacobin lyon auvergnerhnealpes france fr,2016,9,12,17,12,0.7657325109527778,undef
+28928426653,45.760277,4.833611,15,centre ville bellecour ,2016,9,3,12,39,0.7567059317114855,undef
+29419098642,45.760619,4.833416,15,lyon place jacobin arrondissementdelyon fra france geolat geolon geotagged rhnealpes patrimoineunesco fontaine placedesjacobins lyon e rhne francela,2015,4,10,15,44,0.2539139400345872,undef
+28903000084,45.760619,4.833416,15,lyon place jacobin arrondissementdelyon fra france geolat geolon geotagged rhnealpes patrimoineunesco fontaine placedesjacobins lyon e rhne francela,2015,4,10,15,46,0.2539153042874764,undef
+30502452866,45.760622,4.833619,15,place jacobin lyon gaspard andr fontaine fuente font fountaine source lyon france francia frana place jacobin square plaza praa presqule europa europe unescoworldheritage unesco patrimoniodelahumanidad patrimniomundial patrimonionacional water agua white marmol,2016,9,26,14,54,0.7793900466264085,undef
+29898487654,45.760352,4.833394,15,lyon fontaine jacobin ,2016,10,22,15,43,0.8049622849077362,undef
+30210248252,45.760552,4.833422,15, ,2016,10,10,16,19,0.7931996964971835,undef
+30029493280,45.760475,4.833436,15, ,2016,10,12,10,35,0.7949295691606699,undef
+30063397756,45.760502,4.833551,15,upload instagramapp square squareformat iphoneography uploadedbyinstagram ashby,2016,10,3,14,28,0.7862481459003414,undef
+30014606971,45.760502,4.833551,15,upload instagramapp square squareformat iphoneography uploadedbyinstagram brannan,2016,10,3,14,25,0.7862460995210077,undef
+31146250155,45.760686,4.833636,15,photo ,2016,10,28,9,12,0.8105891459491796,undef
+23562116980,45.760477,4.833658,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,27,-0.0557557769021756,undef
+23831696796,45.760477,4.83363,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,27,-0.0557557769021756,undef
+23831669256,45.760477,4.83363,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,27,-0.0557557769021756,undef
+23775263521,45.760477,4.83363,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,27,-0.0557557769021756,undef
+23831639806,45.76043,4.83365,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,27,-0.0557557769021756,undef
+23857741895,45.76043,4.83365,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,27,-0.0557557769021756,undef
+23857663805,45.760422,4.833655,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,28,-0.055755094775731,undef
+23775103531,45.760433,4.833666,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,28,-0.055755094775731,undef
+23489643109,45.760402,4.833727,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,28,-0.055755094775731,undef
+23775058431,45.760422,4.833636,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,28,-0.055755094775731,undef
+23561817140,45.76043,4.833652,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,29,-0.0557544126492864,undef
+23230734433,45.76043,4.833652,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,29,-0.0557544126492864,undef
+23561808800,45.760411,4.833683,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,29,-0.0557544126492864,undef
+23561805290,45.760369,4.833625,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,29,-0.0557544126492864,undef
+23857545555,45.760291,4.833602,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,29,-0.0557544126492864,undef
+23857543255,45.760291,4.833602,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,29,-0.0557544126492864,undef
+23857524935,45.760447,4.833774,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,30,-0.0557537305228418,undef
+23857440445,45.760447,4.833774,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,30,-0.0557537305228418,undef
+23489503079,45.760691,4.833588,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,23,-0.055758505407954,undef
+23749040942,45.760477,4.83363,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,27,-0.0557557769021756,undef
+23749967262,45.760544,4.833797,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,24,-0.0557578232815094,undef
+23231399143,45.7604,4.833713,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,25,-0.0557571411550648,undef
+23231263413,45.760436,4.833663,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,25,-0.0557571411550648,undef
+23775520931,45.760436,4.833663,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,25,-0.0557571411550648,undef
+23229846964,45.760447,4.833688,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,25,-0.0557571411550648,undef
+23749617332,45.760444,4.833686,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,26,-0.0557564590286202,undef
+23231159623,45.760447,4.833677,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,26,-0.0557564590286202,undef
+23831846666,45.760447,4.833677,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,26,-0.0557564590286202,undef
+23831830766,45.760477,4.833658,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,27,-0.0557557769021756,undef
+23615957975,45.760584,4.833576,15,dcembre lyon lyon dcembre ftedeslumires,2015,12,8,18,10,0.4917209539070871,undef
+23507274762,45.760584,4.833576,15,dcembre lyon lyon dcembre ftedeslumires,2015,12,8,18,8,0.4917195896541979,undef
+23318870310,45.760577,4.833555,15,fte lumires lyon ftedeslumires novembre hommageauxvictime dcembre,2015,12,8,18,40,0.4917414177004249,undef
+23520538996,45.760369,4.833505,15,place jacobin lyon france france lyon fr placedesjacobins rhnealpes sigma sonya,2015,10,11,11,29,0.4344762205504411,undef
+23246097640,45.760675,4.833641,15,place jacobin lyon lyondenuit fontainedesjacobins,2015,12,4,22,21,0.4879631193238271,undef
+23199123000,45.760673,4.833679,15,lyon france night photo paysage nuit place today square squareformat clarendon iphoneography instagramapp uploadedbyinstagram,2015,12,3,15,32,0.4867018675277756,undef
+23775326391,45.760477,4.833658,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,27,-0.0557557769021756,undef
+23230980383,45.760477,4.83363,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,27,-0.0557557769021756,undef
+23749343312,45.76043,4.83365,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,27,-0.0557557769021756,undef
+23857701485,45.76043,4.83365,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,27,-0.0557557769021756,undef
+23775167871,45.76043,4.83365,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,28,-0.055755094775731,undef
+23230811153,45.760425,4.833658,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,28,-0.055755094775731,undef
+23230774753,45.760441,4.833672,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,28,-0.055755094775731,undef
+23229397914,45.760425,4.833622,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,28,-0.055755094775731,undef
+23489609009,45.760291,4.833602,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,29,-0.0557544126492864,undef
+23489606959,45.760291,4.833602,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,29,-0.0557544126492864,undef
+23489602279,45.760291,4.833602,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,29,-0.0557544126492864,undef
+23489599069,45.760291,4.833602,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,29,-0.0557544126492864,undef
+23489573519,45.760447,4.833774,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,30,-0.0557537305228418,undef
+23230656753,45.760447,4.833774,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,30,-0.0557537305228418,undef
+23749074512,45.760447,4.833774,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,30,-0.0557537305228418,undef
+23230215384,45.760455,4.833672,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,23,-0.055758505407954,undef
+23562623130,45.760691,4.833588,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,23,-0.055758505407954,undef
+23230036364,45.760333,4.833608,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,25,-0.0557571411550648,undef
+23490247519,45.760333,4.833608,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,25,-0.0557571411550648,undef
+23490222729,45.760375,4.833688,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,25,-0.0557571411550648,undef
+23775618471,45.760375,4.833688,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,25,-0.0557571411550648,undef
+23831988566,45.760375,4.833688,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,25,-0.0557571411550648,undef
+23775559961,45.760436,4.833663,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,25,-0.0557571411550648,undef
+23831929766,45.760436,4.833663,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,25,-0.0557571411550648,undef
+23775415051,45.760477,4.833658,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,27,-0.0557557769021756,undef
+23831781396,45.760477,4.833658,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,27,-0.0557557769021756,undef
+23749501352,45.760477,4.833658,15,place jacobin lyon france france lyon placedejacobins,2014,5,30,9,27,-0.0557557769021756,undef
+33094687345,45.760557,4.833573,15,veilleuse jacobin place jacobin fetedeslumieres lyon,2014,12,7,22,32,0.1323917496775467,undef
+33094685915,45.760557,4.833573,15,veilleuse jacobin place jacobin fetedeslumieres lyon,2014,12,7,22,28,0.1323890211717683,undef
+32730495136,45.760562,4.833555,15,place jacobin lyon jacobin lyon rhnealpes noiretblanc monochrome blackandwhite,2017,2,7,18,33,0.9111625510663404,undef
+32414599911,45.760551,4.833595,15, hbarrison harveybarrison france lyon,2016,8,22,13,3,0.7449351577835975,undef
+32537419785,45.760551,4.833595,15, hbarrison harveybarrison france lyon,2016,8,22,13,3,0.7449351577835975,undef
+32537418395,45.760551,4.833595,15, hbarrison harveybarrison france lyon,2016,8,22,13,4,0.7449358399100421,undef
+31725309963,45.760551,4.833595,15, hbarrison harveybarrison france lyon,2016,8,22,13,4,0.7449358399100421,undef
+31976925780,45.760622,4.833501,15,p fdl lyon supermimil,2016,12,9,21,30,0.8523475626342425,undef
+32353708935,45.760622,4.833501,15,p fdl lyon supermimil,2016,12,9,21,31,0.852348244760687,undef
+31511287544,45.760622,4.833501,15,p fdl lyon supermimil,2016,12,9,21,31,0.852348244760687,undef
+31976775720,45.760622,4.833501,15,p fdl lyon supermimil,2016,12,9,21,31,0.852348244760687,undef
+32203456552,45.760622,4.833501,15,p fdl lyon supermimil,2016,12,9,21,32,0.8523489268871316,undef
+32203395672,45.760622,4.833501,15,p fdl lyon supermimil,2016,12,9,21,32,0.8523489268871316,undef
+32314471156,45.760622,4.833501,15,p fdl lyon supermimil,2016,12,9,21,32,0.8523489268871316,undef
+32353456285,45.760622,4.833501,15,p fdl lyon supermimil,2016,12,9,21,32,0.8523489268871316,undef
+32314370896,45.760622,4.833501,15,p fdl lyon supermimil,2016,12,9,21,33,0.8523496090135763,undef
+32314347126,45.760622,4.833501,15,p fdl lyon supermimil,2016,12,9,21,33,0.8523496090135763,undef
+32233349791,45.760622,4.833501,15,p fdl lyon supermimil,2016,12,9,21,33,0.8523496090135763,undef
+31511002124,45.760622,4.833501,15,p fdl lyon supermimil,2016,12,9,21,34,0.8523502911400208,undef
+32314250686,45.760622,4.833501,15,p fdl lyon supermimil,2016,12,9,21,34,0.8523502911400208,undef
+31976386260,45.760622,4.833501,15,p fdl lyon supermimil,2016,12,9,21,35,0.8523509732664654,undef
+32353160095,45.760622,4.833501,15,blue shadow fdl lyon supermimil,2016,12,9,21,35,0.8523509732664654,undef
+31510880134,45.760622,4.833501,15,p fdl lyon supermimil,2016,12,9,21,36,0.85235165539291,undef
+32202956602,45.760622,4.833501,15,fontaine fdl lyon supermimil,2016,12,9,21,36,0.85235165539291,undef
+31315252413,45.760599,4.83349,15,phm v decembre audran coustou decembre delorme fete fetedeslumieres flandrin fontaine jacobin lumiere lumieres lyon place france,2016,12,9,23,28,0.8524280535547044,undef
+31976626822,45.760599,4.83349,15,phm v decembre audran coustou decembre delorme fete fetedeslumieres flandrin fontaine jacobin lumiere lumieres lyon place france,2016,12,9,23,31,0.8524300999340382,undef
+32006769311,45.760599,4.83349,15,phm v decembre audran coustou decembre delorme fete fetedeslumieres flandrin fontaine jacobin lumiere lumieres lyon place france,2016,12,9,23,30,0.8524294178075935,undef
+31284052794,45.760599,4.83349,15,phm v decembre audran coustou decembre delorme fete fetedeslumieres flandrin fontaine jacobin lumiere lumieres lyon place france,2016,12,9,23,35,0.8524328284398165,undef
+31284052744,45.760599,4.83349,15,phm v decembre audran coustou decembre delorme fete fetedeslumieres flandrin fontaine jacobin lumiere lumieres lyon place france,2016,12,9,23,32,0.8524307820604827,undef
+32006769001,45.760599,4.83349,15,phm v decembre audran coustou decembre delorme fete fetedeslumieres flandrin fontaine jacobin lumiere lumieres lyon place france,2016,12,9,23,31,0.8524300999340382,undef
+31976626252,45.760599,4.83349,15,phm v decembre audran coustou decembre delorme fete fetedeslumieres flandrin fontaine jacobin lumiere lumieres lyon place france,2016,12,9,23,35,0.8524328284398165,undef
+32006768641,45.760599,4.83349,15,phm v decembre audran coustou decembre delorme fete fetedeslumieres flandrin fontaine jacobin lumiere lumieres lyon place france,2016,12,9,23,36,0.8524335105662612,undef
+32125195545,45.760599,4.83349,15,phm v decembre audran coustou decembre delorme fete fetedeslumieres flandrin fontaine jacobin lumiere lumieres lyon place france,2016,12,9,23,35,0.8524328284398165,undef
+32086238936,45.760599,4.83349,15,phm v decembre audran coustou decembre delorme fete fetedeslumieres flandrin fontaine jacobin lumiere lumieres lyon place france,2016,12,9,23,36,0.8524335105662612,undef
+31976600012,45.760599,4.83349,15,phm v decembre audran coustou decembre delorme fete fetedeslumieres flandrin fontaine jacobin lumiere lumieres lyon place france,2016,12,9,23,39,0.8524355569455949,undef
+33338609076,45.760497,4.833419,15,dtail fontaine lyon auvergnerhnealpes france fr placedesjacobins,2016,10,31,11,24,0.8136259728805054,undef
+33675905820,45.760719,4.833759,15,place jacobin ,2017,4,13,19,43,0.9750573351313184,undef
+33863760645,45.760592,4.833297,15,lyon place jacobin ,2017,3,25,15,41,0.9562292810076768,undef
+34784116422,45.760554,4.833673,15,fountainfontaine place jacobains lyon france lyon france europe jacobains fountain travel vacation placedesjacobains fontaine architecture history,2017,5,9,9,27,1.000175959326992,undef
+34888070935,45.760614,4.833469,15,joe ,2017,5,25,12,19,1.016009478358873,undef
+35395657851,45.760355,4.83333,15,lyon night,2017,6,17,23,43,1.0390680806918773,undef
+34633301033,45.760607,4.833468,15,place jacobin lyon lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite coach placedesjacobins fountain sculpture jeanpelletier placeconfort placedelafraternit placedelaprfecture placedelimpratrice preachersoftheorderofstdominic louisdanton desjardins,2017,6,3,10,4,1.0247577500107716,undef
+34633290243,45.760607,4.833468,15,place jacobin lyon fountain lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite coach placedesjacobins fountain sculpture jeanpelletier placeconfort placedelafraternit placedelaprfecture placedelimpratrice preachersoftheorderofstdominic louisdanton desjardins,2017,6,3,10,4,1.0247577500107716,undef
+35276411832,45.760607,4.833468,15,place jacobin lyon fountain lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite coach placedesjacobins fountain sculpture jeanpelletier placeconfort placedelafraternit placedelaprfecture placedelimpratrice preachersoftheorderofstdominic louisdanton desjardins,2017,6,3,10,4,1.0247577500107716,undef
+35442905145,45.760607,4.833468,15,place jacobin lyon fountain lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite coach placedesjacobins fountain sculpture jeanpelletier placeconfort placedelafraternit placedelaprfecture placedelimpratrice preachersoftheorderofstdominic louisdanton desjardins,2017,6,3,10,5,1.024758432137216,undef
+35056212390,45.760607,4.833468,15,place jacobin lyon fountain hd video clip lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite coach placedesjacobins fountain sculpture jeanpelletier placeconfort placedelafraternit placedelaprfecture placedelimpratrice preachersoftheorderofstdominic louisdanton desjardins video videoclip hdvideo hdvideoclip,2017,6,3,10,5,1.024758432137216,undef
+35026105760,45.76046,4.833721,15,fiert lesbian gay pride europe fontaine france gay jacobin lgbt lesbian lyon place pride,2017,6,17,16,22,1.038767262929812,undef
+34571237034,45.760508,4.833645,15,fiert lesbian gay pride europe fontaine france gay girl girl jacobin lgbt lesbian lyon place pride lesbianism ete summer fountain woman,2017,6,17,16,21,1.0387665808033677,undef
+35246618372,45.760508,4.833645,15,fiert lesbian gay pride europe fontaine france gay girl jacobin lgbt lesbian lyon mdchen place pride,2017,6,17,16,21,1.0387665808033677,undef
+35026048920,45.760416,4.833578,15,fiert lesbian gay pride europe fontaine france gay girl jacobin lgbt lesbian lyon place pride,2017,6,17,16,20,1.0387658986769228,undef
+35373735506,45.760626,4.833561,15,fiert lesbian gay pride europe fontaine france gay jacobin lgbt lesbian lyon place pride,2017,6,17,16,19,1.0387652165504784,undef
+35288873061,45.760524,4.833544,15,lyon peu fracheur ,2017,6,10,15,13,1.031844361643643,undef
+35252175542,45.760367,4.833469,15,lyon peu fracheur ,2017,6,10,15,13,1.031844361643643,undef
+34603538203,45.76049,4.833331,15,fiert lesbian gay pride europe fontaine france gay jacobin lgbt lesbian lyon place pride,2017,6,17,16,24,1.0387686271827012,undef
+35026115760,45.760496,4.833336,15,fiert lesbian gay pride europe fontaine france gay jacobin lgbt lesbian lyon place pride,2017,6,17,16,23,1.0387679450562566,undef
+35373844496,45.760533,4.833568,15,fiert lesbian gay pride europe fontaine france gay girl girl jacobin lgbt lesbi lesbian lesbierin lyon place pride,2017,6,17,16,22,1.038767262929812,undef
+35246646572,45.760521,4.833596,15,fiert lesbian gay pride europe fontaine france gay jacobin lgbt lesbian lyon place pride,2017,6,17,16,22,1.038767262929812,undef
+34603518253,45.760521,4.833596,15,fiert lesbian gay pride europe fontaine france gay jacobin lgbt lesbian lyon place pride,2017,6,17,16,22,1.038767262929812,undef
+35246634052,45.76046,4.833721,15,fiert lesbian gay pride europe fontaine france gay jacobin lgbt lesbian lyon place pride,2017,6,17,16,22,1.038767262929812,undef
+35246623702,45.760508,4.833645,15,fiert lesbian gay pride europe fontaine france gay girl girl jacobin lgbt lesbian lyon place pride,2017,6,17,16,21,1.0387665808033677,undef
+35413149185,45.760513,4.833625,15,fiert lesbian gay pride europe fontaine france gay girl jacobin lgbt lesbian lyon place pride,2017,6,17,16,21,1.0387665808033677,undef
+35373805596,45.760513,4.833625,15,fiert lesbian gay pride europe fontaine france gay girl jacobin lgbt lesbian lyon place pride,2017,6,17,16,21,1.0387665808033677,undef
+35373803186,45.760416,4.833578,15,fiert lesbian gay pride europe fontaine france gay jacobin lgbt lesbian lyon place pride,2017,6,17,16,20,1.0387658986769228,undef
+35246600652,45.760416,4.833578,15,fiert lesbian gay pride europe fontaine france gay jacobin lgbt lesbian lyon place pride,2017,6,17,16,20,1.0387658986769228,undef
+34603475763,45.760416,4.833578,15,fiert lesbian gay pride europe fontaine france gay jacobin lgbt lesbian lyon place pride,2017,6,17,16,20,1.0387658986769228,undef
+35283420151,45.760476,4.833635,15,fiert lesbian gay pride europe fontaine france gay girl jacobin lgbt lesbian lyon place pride,2017,6,17,16,19,1.0387652165504784,undef
+35246569192,45.760626,4.833561,15,fiert lesbian gay pride europe fontaine france gay jacobin lgbt lesbian lyon place pride,2017,6,17,16,19,1.0387652165504784,undef
+35373728026,45.760626,4.833561,15,fiert lesbian gay pride europe france gay girl jacobin lgbt lesbian lyon place police pride,2017,6,17,16,19,1.0387652165504784,undef
+34603423353,45.76068,4.833445,15,fiert lesbian gay pride camion europe france gay jacobin lgbt lesbian lyon place pride truck,2017,6,17,16,14,1.0387618059182553,undef
+35210948222,45.760592,4.833587,15,gay pride lyon gay pride gaypridelyon jacobin lyon,2017,6,17,16,26,1.0387699914355903,undef
+35325755876,45.760577,4.833565,15,gay pride lyon gaypridelyon gay pride lyon,2017,6,17,16,26,1.0387699914355903,undef
+35325747626,45.760577,4.833565,15,gay pride lyon gaypridelyon gay pride lyon,2017,6,17,16,31,1.0387734020678134,undef
+34522398334,45.760577,4.833565,15,gay pride lyon gaypridelyon gay pride lyon,2017,6,17,16,26,1.0387699914355903,undef
+34978354560,45.760577,4.833565,15,gay pride lyon gaypridelyon gay pride lyon,2017,6,17,16,25,1.038769309309146,undef
+34978351480,45.760577,4.833565,15,gay pride lyon gaypridelyon gay pride lyon,2017,6,17,16,23,1.0387679450562566,undef
+34978343240,45.760577,4.833565,15,gay pride lyon gaypridelyon gay pride lyon,2017,6,17,16,23,1.0387679450562566,undef
+35325728436,45.760577,4.833565,15,gay pride lyon gaypridelyon gay pride lyon,2017,6,17,16,18,1.0387645344240335,undef
+35198868252,45.760577,4.833565,15,gay pride lyon gaypridelyon gay pride lyon,2017,6,17,16,17,1.038763852297589,undef
+34522361464,45.760577,4.833565,15,gay pride lyon gaypridelyon gay pride lyon,2017,6,17,16,9,1.0387583952860324,undef
+35280856616,45.760277,4.833333,15,lyon lyon,2017,4,1,15,42,0.9631057976956136,undef
+35154096712,45.760277,4.833333,15,lyon lyon,2017,4,1,15,42,0.9631057976956136,undef
+34423386224,45.760536,4.833597,15, ,2015,11,13,15,13,0.4670436655210648,undef
+34903152102,45.760752,4.833386,15,france stitch ,2017,5,8,10,26,0.99923394270701,undef
+35461804273,45.760447,4.83333,15,img jpg lyon auvergnerhnealpes frankreich fr,2017,7,25,13,35,1.075979306861666,undef
+35461800123,45.76048,4.833561,15,img jpg lyon auvergnerhnealpes frankreich fr,2017,7,25,13,27,1.0759738498501092,undef
+36089469862,45.760629,4.833544,15,lyon placedesjacobins ,2017,7,29,12,13,1.079852420814062,undef
+36089469562,45.760629,4.833544,15,lyon placedesjacobins ,2017,7,29,12,13,1.079852420814062,undef
+36089469482,45.760629,4.833544,15,lyon placedesjacobins ,2017,7,29,12,12,1.0798517386876174,undef
+36089469652,45.760629,4.833544,15,lyon placedesjacobins ,2017,7,29,12,13,1.079852420814062,undef
+36089469252,45.760629,4.833544,15,lyon placedesjacobins ,2017,7,29,12,12,1.0798517386876174,undef
+36089469072,45.760629,4.833544,15,lyon placedesjacobins ,2017,7,29,12,12,1.0798517386876174,undef
+36089469042,45.760629,4.833544,15,lyon placedesjacobins ,2017,7,29,12,12,1.0798517386876174,undef
+36089468762,45.760629,4.833544,15,lyon placedesjacobins ,2017,7,29,12,11,1.079851056561173,undef
+36089468742,45.760629,4.833544,15,lyon placedesjacobins ,2017,7,29,12,11,1.079851056561173,undef
+36089468432,45.760629,4.833544,15,lyon placedesjacobins ,2017,7,29,12,11,1.079851056561173,undef
+36089468082,45.760629,4.833544,15,lyon placedesjacobins ,2017,7,29,12,10,1.0798503744347283,undef
+36089468292,45.760629,4.833544,15,lyon placedesjacobins ,2017,7,29,12,10,1.0798503744347283,undef
+36089468222,45.760629,4.833544,15,lyon placedesjacobins ,2017,7,29,12,11,1.079851056561173,undef
+36089467812,45.760629,4.833544,15,lyon placedesjacobins ,2017,7,29,12,9,1.0798496923082836,undef
+36089467792,45.760629,4.833544,15,lyon placedesjacobins ,2017,7,29,12,10,1.0798503744347283,undef
+35863079370,45.760629,4.833544,15,lyon placedesjacobins ,2017,7,29,12,10,1.0798503744347283,undef
+35863079250,45.760629,4.833544,15,lyon placedesjacobins ,2017,7,29,12,10,1.0798503744347283,undef
+36089467242,45.760629,4.833544,15,lyon placedesjacobins ,2017,7,29,12,9,1.0798496923082836,undef
+35863079140,45.760629,4.833544,15,lyon placedesjacobins ,2017,7,29,12,9,1.0798496923082836,undef
+36089467032,45.760629,4.833544,15,lyon placedesjacobins ,2017,7,29,12,9,1.0798496923082836,undef
+35863078690,45.760629,4.833544,15,lyon placedesjacobins ,2017,7,29,12,8,1.079849010181839,undef
+36089466882,45.760629,4.833544,15,lyon placedesjacobins ,2017,7,29,12,9,1.0798496923082836,undef
+36256944195,45.760629,4.833544,15,lyon placedesjacobins ,2017,7,29,12,8,1.079849010181839,undef
+35863078500,45.760629,4.833544,15,lyon placedesjacobins ,2017,7,29,12,8,1.079849010181839,undef
+36163168556,45.760614,4.833469,15,plouf ,2017,7,26,22,48,1.0773387848657388,undef
+36134606275,45.760554,4.833694,15,lyon pace jacobin f rhone lyon,2017,6,19,13,2,1.04059536180132,undef
+35325748523,45.760554,4.833694,15,lyon pace jacobin f rhone lyon,2017,6,19,13,4,1.040596726054209,undef
+36134605535,45.760652,4.833265,15,salade fraiche f rhone lyon,2017,6,19,13,25,1.0406110507095456,undef
+35325745363,45.760554,4.833694,15,lyon pace jacobin f rhone lyon,2017,6,19,13,1,1.0405946796748753,undef
+35932676295,45.760607,4.833576,15,jacobin matin blackandwhite noiretblanc jacobin lyon,2017,7,15,9,19,1.0659820616897184,undef
+34871664694,45.760625,4.83353,15, ,2017,7,4,11,20,1.055259716107169,undef
+35610424396,45.760494,4.833571,15,loneliness coursdesvoraces lyon streetlevelphotography streetvivianmaier photo rue,2017,6,25,15,57,1.0466083064104026,undef
+36080232394,45.760552,4.833594,15, orage,2017,8,5,18,29,1.0869847349187212,undef
+36902046055,45.760581,4.833683,15,place jacobin europe fontaine france lyon placedesjacobins place,2017,8,21,15,1,1.1025590459016568,undef
+37240364656,45.760584,4.83348,15,resourceful lyon rhone fountain heat hot band street music,2017,7,29,9,50,1.0797548767324854,undef
+37111623106,45.760569,4.833469,15,fontaine jacobin fujifilmxt lyon fontaine fountain jacobin fontainedesjacobins sirne mermaid,2017,9,17,19,27,1.1292615677016742,undef
+36169108604,45.760405,4.833488,15,place jacobin hapephotographix x vrpanorama ricohthetas equirectangular europa europe france francia frankreich auvergnerhnealpes lyon placedesjacobins springbrunnen fountain,2017,7,26,18,12,1.077150517967031,undef
+38011887362,45.760741,4.83349,15, lyon auvergnerhnealpes frankreich fr france rhnealpes nikon v nikkor mmf vr nikkor,2017,4,15,12,23,0.9767217236561242,undef
+24190744968,45.760711,4.833641,15, lyon auvergnerhnealpes frankreich fr france rhnealpes nikon v nikkor mmf vr nikkor,2017,4,15,12,24,0.9767224057825687,undef
+24190740848,45.760711,4.833641,15, lyon auvergnerhnealpes frankreich fr france rhnealpes nikon v nikkor mmf vr nikkor,2017,4,15,12,25,0.9767230879090132,undef
+37223730864,45.760532,4.833555,15,place jacobin ,2017,10,21,15,15,1.162486582564885,undef
+37223729684,45.760532,4.833555,15,place jacobin fountain ,2017,10,21,16,1,1.1625179603813365,undef
+36867251243,45.760473,4.83343,15,corner building place jacobin cameramakefujifilm cameramodelxt geocountry geocity exiffocallength mm exiflensxf mmf rlmoiswr geostate geolocation exifmodelxt exifisospeed exifmakefujifilm geolon geolat exifaperture,2017,8,11,16,4,1.0927793990655343,undef
+37453236106,45.760667,4.833757,15,fantmes rvolution franaise reflection exifaperture cameramodelxt geocountry exiffocallength mm geostate exiflensxf mmf rlmoiswr exifisospeed geolat exifmodelxt geolocation exifmakefujifilm geocity geolon cameramakefujifilm,2017,8,11,16,11,1.0927841739506463,undef
+38568426181,45.760577,4.833576,15,place jacobin lheure rose lyon placedesjacobins ciel rose,2017,11,21,17,16,1.1930192443512893,undef
+38568699861,45.760494,4.833641,15,fontaine jacobin fontaine nuit night light,2017,11,21,19,23,1.1931058744097525,undef
+37572086395,45.760614,4.833726,15,bella ,2017,8,26,12,19,1.107359851818699,undef
+26593342959,45.760811,4.833488,15,lyon th november ,2017,11,10,15,41,1.182149559456708,undef
+26592932329,45.760627,4.833347,15,lyon th november ,2017,11,10,15,41,1.182149559456708,undef
+38093587051,45.760622,4.833512,15,jacobin life bw urbain lyon street fisheye samyang sony rue place france,2017,10,26,15,7,1.167392435954394,undef
+30825934533,45.760726,4.833651,15,fontaine dtoiles place jacobin ,2016,12,14,8,40,0.8567336356729721,undef
+31453913832,45.760569,4.833469,15,festival light lyon nikoncoolpixp fetedeslumieres lyon ftedeslumires fte lumire festival light night nuit illumination jacobin fontaine,2016,12,9,18,33,0.8522268262535496,undef
+31572398055,45.760393,4.833449,15,rhabills jacobin ftedeslumires lyon dcembre,2016,12,10,21,5,0.8533127715533408,undef
+30753103553,45.760277,4.833333,15, ,2016,12,10,21,54,0.8533461957491258,undef
+31524746266,45.760277,4.833333,15, ,2016,12,10,21,53,0.8533455136226813,undef
+31524745936,45.760277,4.833333,15, ,2016,12,10,21,55,0.8533468778755704,undef
+30753102753,45.760277,4.833333,15, ,2016,12,10,21,57,0.8533482421284596,undef
+31524745646,45.760277,4.833333,15, ,2016,12,10,21,58,0.8533489242549043,undef
+30753102203,45.760277,4.833333,15, ,2016,12,10,21,58,0.8533489242549043,undef
+31524745346,45.760277,4.833333,15, ,2016,12,10,21,59,0.8533496063813488,undef
+31524745086,45.760277,4.833333,15, ,2016,12,10,22,0,0.8533502885077934,undef
+30753100833,45.760277,4.833333,15, ,2016,12,10,22,0,0.8533502885077934,undef
+31524744856,45.760277,4.833333,15, ,2016,12,10,22,0,0.8533502885077934,undef
+30753100163,45.760277,4.833333,15, ,2016,12,10,22,1,0.853350970634238,undef
+30753099643,45.760555,4.833333,15, ,2016,12,10,22,2,0.8533516527606826,undef
+31524744656,45.760555,4.833333,15, ,2016,12,10,22,1,0.853350970634238,undef
+31524744066,45.760277,4.833333,15, ,2016,12,10,22,4,0.8533530170135718,undef
+31384461962,45.760569,4.833576,15,fte lumires lyon ftedeslumireslyon lyon lumires rhnealpes,2016,12,8,22,42,0.8514144136580399,undef
+31531260485,45.760569,4.833576,15,fte lumires lyon ftedeslumireslyon lyon lumires rhnealpes,2016,12,8,22,45,0.8514164600373737,undef
+30722045223,45.760569,4.833576,15,fte lumires lyon ftedeslumireslyon lyon lumires rhnealpes,2016,12,8,22,46,0.8514171421638183,undef
+31531247515,45.760569,4.833576,15,fte lumires lyon ftedeslumireslyon lyon lumires rhnealpes,2016,12,8,22,43,0.8514150957844845,undef
+31493143176,45.760569,4.833576,15,fte lumires lyon ftedeslumireslyon lyon lumires rhnealpes,2016,12,8,19,54,0.8512998164153484,undef
+30694542893,45.760569,4.833469,15,festival light lyon nikoncoolpixp fetedeslumieres fte lumires illumination lyon fontainedesjacobins france light festival colorful nuit night,2016,12,7,22,57,0.8504423834744956,undef
+30694541463,45.760569,4.833469,15,festival light lyon nikoncoolpixp fetedeslumieres fte lumires illumination lyon fontainedesjacobins france light festival colorful nuit night,2016,12,7,22,54,0.8504403370951619,undef
+30694541133,45.760569,4.833469,15,festival light lyon nikoncoolpixp fetedeslumieres fte lumires illumination lyon fontainedesjacobins france light festival colorful nuit night,2016,12,7,22,53,0.8504396549687173,undef
+30694540433,45.760569,4.833469,15,festival light lyon nikoncoolpixp fetedeslumieres fte lumires illumination lyon fontainedesjacobins france light festival colorful nuit night fontaine fountain,2016,12,7,22,53,0.8504396549687173,undef
+30694539823,45.760569,4.833469,15,festival light lyon nikoncoolpixp fetedeslumieres fte lumires illumination lyon fontainedesjacobins france light festival colorful nuit night,2016,12,7,22,52,0.8504389728422727,undef
+31465968826,45.760569,4.833469,15,festival light lyon nikoncoolpixp fetedeslumieres fte lumires illumination lyon fontainedesjacobins france light festival nuit night nb bnw bw monochrome noiretblanc,2016,12,7,22,51,0.8504382907158281,undef
+31455076526,45.760722,4.83353,15, ,2016,12,7,20,16,0.8503325611169162,undef
+31344980901,45.760569,4.833469,15, nikoncoolpixp lyon ftedeslumires illumination france nuit night fontaine fountain jacobin fetedeslumieres,2016,12,5,18,58,0.8483148310938117,undef
+31344966291,45.760569,4.833469,15, nikoncoolpixp lyon ftedeslumires illumination france nuit night fontaine fountain jacobin fetedeslumieres,2016,12,5,18,59,0.8483155132202562,undef
+30753102103,45.760277,4.833333,15, ,2016,12,10,22,0,0.8533502885077934,undef
+31524744356,45.760555,4.833333,15, ,2016,12,10,22,3,0.8533523348871271,undef
+30753099093,45.760277,4.833333,15, ,2016,12,10,22,3,0.8533523348871271,undef
+30753098453,45.760277,4.833333,15, ,2016,12,10,21,58,0.8533489242549043,undef
+31524743796,45.760277,4.833333,15, ,2016,12,10,22,4,0.8533530170135718,undef
+38710037010,45.760569,4.833469,15,fontaine jacobin glace fujifilmxt lyon fontainedesjacobins fountain fontaine jacobin glace ice,2018,2,27,18,19,1.2893239021781902,undef
+25671972507,45.760569,4.833469,15, fujifilmxt fontainedesjacobins fontaine fountain jacobin lyon eau water glace ice oiseau bird pigeon,2018,2,27,18,27,1.2893293591897468,undef
+40497368982,45.760444,4.833427,15,jacobin sou glace fontaine jacobin lyon hiver glace,2018,2,28,8,3,1.2898859743685342,undef
+25654162877,45.760569,4.833469,15,fontaine jacobin glace fujifilmxt lyon fontaine fontainedesjacobins fountain glace ice statue,2018,2,27,18,22,1.289325948557524,undef
+40524128811,45.760569,4.833469,15,fontaine jacobin glace fujifilmxt fontaine fontainedesjacobins fountain jacobin glace ice nuit night lyon,2018,2,27,21,37,1.2894589632142195,undef
+38714010630,45.760569,4.833469,15,fontaine jacobin glace fujifilmxt fontaine fontainedesjacobins fountain jacobin glace ice nuit night lyon,2018,2,27,21,35,1.2894575989613302,undef
+40523925861,45.760569,4.833469,15,fontaine jacobin glace fujifilmxt lyon fontaine fontainedesjacobins fountain glace ice jacobin nuit night,2018,2,27,21,57,1.2894726057431112,undef
+39628744925,45.760569,4.833469,15,fontaine jacobin glace fujifilmxt lyon fontaine fontainedesjacobins fountain glace ice jacobin nuit night,2018,2,27,21,43,1.289463055972887,undef
+40505300201,45.760667,4.833538,15,place jacobin ,2015,9,24,6,40,0.4175806306443299,undef
+38670447440,45.760506,4.833459,15, lyon france,2017,10,12,12,40,1.1535404942440546,undef
+40437533472,45.760506,4.833459,15, lyon france,2017,10,12,12,38,1.1535391299911653,undef
+39584846185,45.760506,4.833459,15, lyon france,2017,10,12,12,39,1.15353981211761,undef
+40463664991,45.760575,4.833561,15,gourmand cafe jacobin cafedesjacobins france lyon thegourmand,2018,2,24,16,30,1.28630276415509,undef
+26588259768,45.760569,4.833594,15,helson skindiver helson skindiver,2018,2,24,15,29,1.2862611544419698,undef
+25535309227,45.760601,4.833565,15,photo shooting place jacobin nyannuro beautybox broncolor cosplay europe fontaine france godox jacobin lyon placedesjacobins place yokochancosplay,2018,2,18,15,10,1.2803546215582435,undef
+26536224968,45.76055,4.8336,15,photo shooting place jacobin nyannuro beautybox broncolor cosplay europe fontaine france godox jacobin lyon placedesjacobins place yokochancosplay,2018,2,18,15,10,1.2803546215582435,undef
+25535321657,45.760425,4.833583,15,photo shooting place jacobin nyannuro beautybox broncolor cosplay europe fontaine france godox jacobin lyon placedesjacobins place yokochancosplay,2018,2,18,15,11,1.2803553036846882,undef
+26536245178,45.760425,4.833583,15,photo shooting place jacobin nyannuro beautybox broncolor cosplay europe fontaine france godox jacobin lyon placedesjacobins place yokochancosplay,2018,2,18,15,11,1.2803553036846882,undef
+25535313277,45.760625,4.833436,15,photo shooting place jacobin nyannuro beautybox broncolor cosplay europe fontaine france godox jacobin lyon placedesjacobins place yokochancosplay,2018,2,18,15,11,1.2803553036846882,undef
+25535304347,45.76055,4.8336,15,photo shooting place jacobin nyannuro beautybox broncolor cosplay europe fontaine france godox jacobin lyon placedesjacobins place yokochancosplay,2018,2,18,15,10,1.2803546215582435,undef
+40362461112,45.76055,4.8336,15,photo shooting place jacobin nyannuro beautybox broncolor cosplay europe fontaine france godox jacobin lyon placedesjacobins place yokochancosplay,2018,2,18,15,10,1.2803546215582435,undef
+39498440085,45.7606,4.833493,15,photo shooting place jacobin nyannuro broncolor cosplay europe fontaine france godox jacobin lyon placedesjacobins place yokochancosplay,2018,2,18,15,8,1.2803532573053544,undef
+39684596824,45.760586,4.833453,15,photo shooting place jacobin nyannuro beautybox broncolor cosplay europe fontaine france godox jacobin lyon placedesjacobins place yokochancosplay,2018,2,18,15,10,1.2803546215582435,undef
+39488558564,45.760488,4.833635,15,next dimension placedelarpublique lyon reflet puddle night onlylyon samyang mmf,2018,2,2,23,8,1.2649644847153478,undef
+25187018057,45.760547,4.833565,15,lyon place jacobin water france lyon lighting fountain night thebluehour,2015,11,29,12,13,0.482637076044449,undef
+38889286794,45.760573,4.833523,15,place jacobin lyon lyon fuji,2018,1,7,17,9,1.2391807872361964,undef
+38627813815,45.760555,4.833611,15,lyon fontaine jacobin lyon earrondissement auvergnerhnealpes france paysageurbain pierrearnoldi photographequbcois phototexture phototlphone photonb photooriginale photoderue photodevoyage photoraw,2017,10,22,11,26,1.1633126376892864,undef
+38797961864,45.760461,4.833426,15,fountain place jacobin ii lyon france january lyon france presqule place jacobin unesco philibert delorme statue fountain gaspard andr marbre marble,2018,1,2,11,11,1.2340252755679664,undef
+38574816185,45.760394,4.83348,15,jacques rival golden hour auvergnerhnealpes france fr ftedeslumires,2017,12,10,16,23,1.2116460711737762,undef
+24560162327,45.760461,4.833324,15,fte lumires lyon lumire lumires spectacle canon canon dmarkiv canonef f auvergnerhnealpes france fr,2017,12,10,21,5,1.2118384308311514,undef
+24560157817,45.760313,4.83373,15,fte lumires lyon lumire lumires spectacle canon canon dmarkiv canonef f auvergnerhnealpes france fr,2017,12,10,21,6,1.2118391129575958,undef
+39396114802,45.760313,4.83373,15,fte lumires lyon lumire lumires spectacle canon canon dmarkiv canonef f auvergnerhnealpes france fr,2017,12,10,21,7,1.2118397950840405,undef
+25556248088,45.76035,4.833749,15,fte lumires lyon lumire lumires spectacle canon canon dmarkiv canonef f auvergnerhnealpes france fr,2017,12,10,21,7,1.2118397950840405,undef
+38514628315,45.760672,4.833308,15,boucle ,2017,12,9,21,18,1.2108650363947178,undef
+38669517844,45.760711,4.833488,15,golden hour lyon ftedeslumires,2017,12,9,21,10,1.2108595793831611,undef
+39377481031,45.760491,4.833561,15,golden hour lyon ftedeslumires,2017,12,9,21,13,1.210861625762495,undef
+38456782625,45.760277,4.833611,15,lyon place jacobin lyon rhne placedesjacobins fontainefontaine jacobinsby night,2017,12,27,17,16,1.2283806792389638,undef
+39290614852,45.760547,4.833576,15,place jacobin lyon ,2016,11,13,6,48,0.8262071130245692,undef
+25216993258,45.760566,4.833585,15,place jacobin france lyon fete lumieres fetedeslumieres placedesjacobins place jacobin,2017,12,8,22,26,1.209929158912737,undef
+24175609557,45.760539,4.833415,15, france lyon,2017,12,9,22,40,1.2109209707631745,undef
+27222657419,45.760403,4.833503,15,golden hour brunnen europe fontaine france ftedeslumires lyon nacht night nuit placedesjacobins place,2017,12,8,23,34,1.2099755435109691,undef
+38274618214,45.760532,4.833598,15,fte lumires golden hour place jacobin lumires goldenhours placedesjacobins lyon fontaine pentaxart ftesdeslumires exhibition,2017,12,10,21,6,1.2118391129575958,undef
+24122765757,45.760569,4.833469,15,fte lumires place jacobin fujifilmxt ftedeslumires fetedeslumieres festivaloflights lumire light lyon nuit night illumination,2017,12,6,21,57,1.207944853085417,undef
+38082463565,45.760559,4.833586,15,p panoramajpg ,2017,12,9,11,56,1.210481681332857,undef
+38965789191,45.760614,4.833415,15, ftedeslumires fte lumires lyon,2017,12,7,22,21,1.2089434862003008,undef
+38079594975,45.760614,4.833415,15, ftedeslumires fte lumires lyon,2017,12,7,22,21,1.2089434862003008,undef
+38942129991,45.760614,4.83376,15,lyon fte deslumires place jacobin lyon rhone fetedeslumieres placedesjacobins fontaine cloche horloge heure goldenhours jacquesrival leica q,2017,12,6,20,4,1.2078677727971785,undef
+41047648042,45.760599,4.83349,15, decembre decembre fete fetedeslumieres jcobains lumiere lumieres lyon france,2017,12,8,22,9,1.2099175627631789,undef
+40381520104,45.760599,4.83349,15, decembre decembre fete fetedeslumieres jcobains lumiere lumieres lyon,2018,3,29,11,32,1.3185141391216364,undef
+26830586587,45.760569,4.833598,15,reflets matinaux place jacobin reflets rflexion jacobin placedesjacobins lyon,2018,4,25,6,15,1.3448189812044564,undef
+40681520964,45.760599,4.833608,15,jacobin avant lorage placedesjacobins lyon blackandwhite noiretblanc monochrome orage nuages cloud,2018,4,10,16,49,1.3305175181671305,undef
+27942854657,45.760719,4.833752,15,place jacobin lyon france lyon rhonecruise,2018,5,21,14,22,1.3706899908685155,undef
+40884885470,45.760316,4.833416,15,lyon place jacobin lyon auvergnerhnealpes frankreich fra,2018,6,5,10,53,1.3852813576447935,undef
+40884884630,45.760316,4.833416,15,lyon place jacobin lyon auvergnerhnealpes frankreich fra,2018,6,5,10,54,1.385282039771238,undef
+40884884220,45.760316,4.833416,15,lyon place jacobin lyon auvergnerhnealpes frankreich fra,2018,6,5,10,55,1.3852827218976826,undef
+40730627340,45.760355,4.833647,15,srnit europe france lyon rhnealpes world blue bluehour building city cityscape dusk fountain hotel longexposure night nightscape placedesjacobins sculpture statue town twilight water rhonealpes,2013,7,4,22,25,-0.3793715689986319,undef
+41636656425,45.760425,4.833458,15,univers parallle europe france lyon rhnealpes world blue bluehour building city cityscape dusk fountain hotel longexposure night nightscape placedesjacobins reflection sculpture statue town twilight water rhonealpes fr,2013,7,4,22,32,-0.3793667941135197,undef
+40730603750,45.760405,4.833538,15,revers mdaille europe france lyon rhnealpes world blue bluehour building city cityscape dusk fountain hotel longexposure night nightscape placedesjacobins reflection sculpture statue town twilight water rhonealpes,2013,7,4,22,26,-0.3793708868721873,undef
+42448841722,45.760674,4.833662,15,bird holga hlc lyon soleil sun bird oiseau,2018,6,1,19,1,1.3816851870289018,undef
+43356787381,45.760661,4.833541,15,lyon fountain streetscenes france lyon iphone iphonex font fuente fontainedesjacobins fontaine,2018,7,11,17,25,1.420910186098748,undef
+29406101068,45.760574,4.833598,15,smile please lyon,2018,7,7,22,29,1.4171885042170516,undef
+43226932212,45.760617,4.833555,15,rendez jacobin lyon,2018,7,7,22,27,1.4171871399641625,undef
+28323323337,45.760532,4.833576,15,place jacobin fontaine,2018,7,3,22,23,1.4132553631375313,undef
+29979664688,45.760566,4.83349,15, ,2015,5,31,18,18,0.3041143535979266,undef
+44910763231,45.76056,4.83354,15,lyon place jacobin lyon jacobin,2018,8,22,15,44,1.4620962986967978,undef
+44549207331,45.760629,4.833769,15, lyon luminar lugdunum ville ciudad city town stadt citt france arturbain art artcontemporain artmoderne vieuxlyon saintjean pascalrey nikon pascalreyphotographies photo photographiecontemporaine photographie photography photograffik photographiedigitale photographienumrique photographieurbaine photographielyonnaise,2018,9,4,11,22,1.474686988611086,undef
+45187938661,45.760436,4.83358,15, ,2018,9,29,16,2,1.4994345360209014,undef
+45967610512,45.760533,4.83345,15,fetedeslumieres ,2016,12,9,23,44,0.8524389675778179,undef
+45967606082,45.760722,4.833505,15,fetedeslumieres ,2016,12,9,23,44,0.8524389675778179,undef
+45967602932,45.760738,4.83353,15,fetedeslumieres ,2016,12,9,23,46,0.852440331830707,undef
+32146246918,45.760841,4.833519,15,fetedeslumieres ,2016,12,9,23,46,0.852440331830707,undef
+32146243118,45.760844,4.833525,15,fetedeslumieres ,2016,12,9,23,46,0.852440331830707,undef
+45105611595,45.76083,4.833522,15,fetedeslumieres ,2016,12,9,23,46,0.852440331830707,undef
+45105608575,45.760813,4.833516,15,fetedeslumieres ,2016,12,9,23,47,0.8524410139571517,undef
+45105606055,45.760808,4.833516,15,fetedeslumieres ,2016,12,9,23,47,0.8524410139571517,undef
+45967584852,45.760483,4.833238,15,fetedeslumieres ,2016,12,9,23,48,0.8524416960835962,undef
+32146227318,45.760569,4.833319,15,fetedeslumieres ,2016,12,9,23,49,0.8524423782100408,undef
+45967574082,45.76065,4.833536,15,fetedeslumieres ,2016,12,9,23,49,0.8524423782100408,undef
+45967572162,45.76063,4.833558,15,fetedeslumieres ,2016,12,9,23,49,0.8524423782100408,undef
+44198250090,45.760533,4.83345,15,fetedeslumieres ,2016,12,9,23,44,0.8524389675778179,undef
+44198247360,45.760722,4.833505,15,fetedeslumieres ,2016,12,9,23,44,0.8524389675778179,undef
+44198244290,45.760738,4.83353,15,fetedeslumieres ,2016,12,9,23,46,0.852440331830707,undef
+46013858791,45.760841,4.833519,15,fetedeslumieres ,2016,12,9,23,46,0.852440331830707,undef
+46013857031,45.760844,4.833525,15,fetedeslumieres ,2016,12,9,23,46,0.852440331830707,undef
+46013855101,45.76083,4.833522,15,fetedeslumieres ,2016,12,9,23,46,0.852440331830707,undef
+46013852781,45.760813,4.833516,15,fetedeslumieres ,2016,12,9,23,47,0.8524410139571517,undef
+32142976228,45.760808,4.833516,15,fetedeslumieres ,2016,12,9,23,47,0.8524410139571517,undef
+32142970408,45.760483,4.833238,15,fetedeslumieres ,2016,12,9,23,48,0.8524416960835962,undef
+32142964898,45.760569,4.833319,15,fetedeslumieres ,2016,12,9,23,49,0.8524423782100408,undef
+45289674344,45.76065,4.833536,15,fetedeslumieres ,2016,12,9,23,49,0.8524423782100408,undef
+45289668504,45.76063,4.833558,15,fetedeslumieres ,2016,12,9,23,49,0.8524423782100408,undef
+44824516105,45.760611,4.83353,15,lyon france france auvergnerhnealpes auvergnerhonealpes rhnealpes rhonealpes rhne rhone lyon geotagged,2018,10,21,17,52,1.5211193356944963,undef
+38942129451,45.760614,4.83376,15,lyon fte lumires place jacobin lyon rhone fetedeslumires placedesjacobins fontaine horloge cloche goldenhours jacquesrival sculpture sirene olympus omdem,2017,12,6,20,59,1.207905289751631,undef
+24066924767,45.760562,4.833501,15,place jacobin ftedeslumires lightfestival lyon fte lumires placedejacobins vitrine,2017,12,7,23,14,1.208979638901864,undef
+38045109855,45.760562,4.833501,15,place jacobin ftedeslumires lightfestival lyon fte lumires placedejacobins,2017,12,7,23,13,1.2089789567754197,undef
+38886417492,45.760554,4.833587,15,fte lumires lyon ftedeslumires lyon,2017,12,7,20,10,1.2088541276360592,undef
+25047701658,45.760592,4.833567,15,fte lumires architecture fontaine france ftedeslumires hiver k ii lesjacobins lyon pentax pentaxk ii place placedesjacobins rhne city cloche fil ftedeslumires horloge illumination longexposure night nightlights nightshot nuit pont poselongue urban urbanlandscape ville,2017,12,5,18,46,1.206832304854287,undef
+38918061241,45.760592,4.833567,15,fte lumires architecture fontaine france ftedeslumires hiver k ii lesjacobins lyon pentax pentaxk ii place placedesjacobins rhne city cloche fil ftedeslumires horloge illumination longexposure night nightlights nightshot nuit pont poselongue urban urbanlandscape ville,2017,12,5,18,39,1.2068275299691749,undef
+38200377084,45.76033,4.833351,15,place jacobin autumn lyon lione lyon liyon leyden lugdunum france francia frankreich frana placedesjacobins placedesjacobinsdelyon placedesjacobinslyon rhne auvergnerhnealpes rhnealpes automne autumn herbst otoo fall hojasdeotoo autumnleaves fallleaves branch rama herbstlaub feuillesdautomne feuilles rbolesdeotoo falltrees autumntrees arbresdautomne bumeimherbst,2016,10,29,7,42,0.8115100166493795,undef
+24022535417,45.760655,4.833563,15,ftes lumires fetedeslumieres fetedeslumieres lyon nicolassavignat auvergnerhnealpes france fr,2017,12,5,21,40,1.206950994855646,undef
+24999205198,45.760569,4.833469,15,rptitions fte lumires place jacobin fujifilmxt lyon ftedeslumires festivaloflights nuit night fetedeslumieres illumination lumire light place jacobin fontainedesjacobins horloge pendule noiretblanc nb blackandwhite bw bnw monochrome monochromatic,2017,12,5,22,23,1.2069803262927636,undef
+24999204008,45.760569,4.833469,15,rptitions fte lumires place jacobin fujifilmxt lyon ftedeslumires festivaloflights nuit night fetedeslumieres illumination lumire light place jacobin fontainedesjacobins horloge pendule,2017,12,5,21,6,1.20692780255653,undef
+37963547805,45.760444,4.833605,15, ,2017,12,5,13,27,1.206614706518462,undef
+23968930507,45.760761,4.83345,15, ,2017,12,4,17,48,1.2058104794402875,undef
+39741640503,45.760566,4.833585,15,night france lyon rhone fete lumieres place jacobin night,2018,12,6,22,35,1.5664964331681224,undef
+46653882942,45.760566,4.833585,15,night france lyon rhone fete lumieres place jacobin night,2018,12,6,22,36,1.566497115294567,undef
+39741638903,45.760566,4.833585,15,night france lyon rhone fete lumieres place jacobin night,2018,12,6,22,37,1.5664977974210117,undef
+31373666947,45.760726,4.833405,15,lyon place jacobin lyon jacobin faade fontaine people street streetphotography,2017,1,29,13,56,0.9021332433192696,undef
+46227878952,45.760569,4.833469,15,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination nuit night place fontaine fountain fontainedesjacobins jacobin,2018,12,4,21,14,1.564476656765684,undef
+46214539402,45.760539,4.833415,15, lyon onlylyon france,2018,12,8,22,13,1.5684459505467676,undef
+46214539202,45.760539,4.833415,15, lyon onlylyon france,2018,12,8,22,13,1.5684459505467676,undef
+46214539132,45.760539,4.833415,15, lyon onlylyon france,2018,12,8,22,10,1.5684439041674338,undef
+46214538992,45.760539,4.833415,15, lyon onlylyon france,2018,12,8,22,10,1.5684439041674338,undef
+46214538802,45.760539,4.833415,15, lyon onlylyon france,2018,12,8,22,4,1.5684398114087663,undef
+46214538902,45.760539,4.833415,15, lyon onlylyon france,2018,12,8,22,5,1.568440493535211,undef
+46264361181,45.760555,4.833333,15,fte lumires ftedeslumires,2018,12,5,21,59,1.565489614535904,undef
+44446037670,45.760569,4.833469,15,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination place jacobin fontainedesjacobins,2018,12,9,20,24,1.5693538608445203,undef
+31323840147,45.760674,4.833662,15,place jacobin ftedeslumires lyon festivaloflights placedesjacobins youandthenight,2018,12,7,21,0,1.5674138932360993,undef
+45348990735,45.760759,4.833392,15,evening place republique france lyon evening alsanin,2018,12,1,21,54,1.5615571555828285,undef
+31322690007,45.760542,4.833607,15,lyon place republique france lyon night alsanin,2018,11,30,16,56,1.5603716198221265,undef
+32375086258,45.760441,4.833436,15,fontaine jacobin lyon fetedeslumieres jacobin,2018,12,8,21,50,1.5684302616385422,undef
+46220385351,45.760577,4.833662,15,lyony ,2018,12,5,21,55,1.5654868860301254,undef
+31279046007,45.760569,4.833469,15,fte lumires place jacobin fontainedesjacobins fontaine fountain fujifilmxt lyon ftedeslumires festivaloflights illumination nuit night light,2018,12,4,21,22,1.564482113777241,undef
+45300512865,45.760683,4.833541,15, ,2018,12,6,22,25,1.5664896119036764,undef
+44396306860,45.760705,4.83353,15, ,2018,12,6,22,25,1.5664896119036764,undef
+45300512695,45.760702,4.833525,15, ,2018,12,6,22,26,1.566490294030121,undef
+44364395460,45.760569,4.833469,15,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination jacobin fontaine fountain nuit night,2018,12,4,21,23,1.564482795903685,undef
+40541650423,45.760569,4.833469,15, fujifilmxt lyon jacobin fontaine reflet reflection fountain,2019,3,31,7,47,1.6788508441098398,undef
+47362226852,45.760569,4.833469,15, fujifilmxt lyon jacobin place,2019,3,18,18,13,1.6665084482213834,undef
+47668183992,45.760569,4.833619,15,jacobin france lyon pay,2018,1,17,18,59,1.2490784419472334,undef
+46798884545,45.760614,4.83376,15,lyon fontaine place jacobin lors fte lumires lyon rhone fetedeslumieresilluminations placedesjacobins fontaine,2010,12,8,23,33,-1.301669277720575,undef
+47662146442,45.760614,4.83376,15,lyon fontaine place jacobin lors fte lumires ,2017,12,6,20,4,1.2078677727971785,undef
+40627177633,45.760508,4.833555,15,lyon statue grard audran fra france geolon placegabrielrambaud geotagged lyon rhnealpesrhne geolat,2013,8,15,13,58,-0.3384623997370867,undef
+47593170741,45.760527,4.833533,15,lyon statue guillaume coustou fra france geolat geotagged lyon placedesjacobins rhnealpesrhne geolon,2013,8,15,13,58,-0.3384623997370867,undef
+32650704327,45.760497,4.833527,15,lyon statue philibert delorme fra france geolat geolon geotagged lyon placedesjacobins rhnealpesrhne,2013,8,15,13,57,-0.3384630818635313,undef
+32650704037,45.760513,4.833508,15,lyon statue hippolyte flandrin fra france geolat geotagged lyon placedesjacobins rhnealpesrhne geolon,2013,8,15,13,59,-0.3384617176106421,undef
+47514387821,45.760515,4.833357,15,place jacobin lyon france night plaza fountain,2018,12,11,13,35,1.5710393952891084,undef
+47819188751,45.760419,4.833652,15,p jpg extrieur fontaine placedesjacobins lyon rhne france,2019,5,2,13,20,1.710510378782711,undef
+48401680497,45.760307,4.833673,15,france lyon jacobin square lyon france franciaorszag square ter szokokut fountain xlmtclamag ycabj unesco cf,2019,1,1,0,0,1.591110965921242,undef
+48355575801,45.760277,4.833611,15,lyon fontaine jacobin ,2019,7,20,13,29,1.7881152222575534,undef
+48355575186,45.760277,4.833611,15,lyon fontaine jacobin ,2019,7,20,13,28,1.7881145401311087,undef
+48287808191,45.76073,4.833774,15,mvimg ,2019,7,14,22,58,1.7826097797232474,undef
+48245449136,45.76048,4.8334,15,mvimg ,2019,7,4,9,0,1.7722155369605472,undef
+48245448756,45.760488,4.833402,15,mvimg ,2019,7,4,9,0,1.7722155369605472,undef
+48553058211,45.760552,4.833344,15,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso nik dxopl frankrijk franrijk jossaris jossarisfoto lr lyon nik rhne,2019,7,27,11,28,1.79490851951925,undef
+48536513671,45.760513,4.833536,15,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,11,26,1.794907155266361,undef
+48536661132,45.760397,4.833772,15,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,11,25,1.7949064731399162,undef
+48536513606,45.760588,4.833377,15,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,11,26,1.794907155266361,undef
+48536660817,45.760552,4.833344,15,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,11,28,1.79490851951925,undef
+48472725251,45.760397,4.833772,15,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,11,25,1.7949064731399162,undef
+48472725011,45.760513,4.833536,15,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,11,26,1.794907155266361,undef
+48472869992,45.760588,4.833377,15,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,11,26,1.794907155266361,undef
+48472869777,45.760552,4.833344,15,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,11,28,1.79490851951925,undef
+48428610357,45.760483,4.833486,15,place jacobin lyon josantonioabad lyon color noche europa pblica fuente escultura paisajeurbano arquitectura francia architecture building calles edificios europe farbe fotografaurbana fountain liyon night urbanphotography cityscape colour couleur nocturna sculpture streetphotography street urbanlanscape rdano,2019,7,16,22,5,1.7845381511821103,undef
+48428609657,45.760575,4.8336,15,place jacobin lyon josantonioabad lyon color noche europa pblica fuente escultura paisajeurbano arquitectura francia architecture building calles edificios europe farbe fotografaurbana fountain liyon night urbanphotography cityscape colour couleur nocturna sculpture streetphotography street urbanlanscape rdano,2019,7,16,22,3,1.7845367869292212,undef
+48718690866,45.760524,4.833555,15,place jacobin ,2019,9,11,13,37,1.8401805695204088,undef
+48710238521,45.760573,4.833523,15,jacobin square bw lyon place jacobin noir blanc black white canon eos,2019,8,28,18,50,1.8266424059745816,undef
+48710238291,45.760573,4.833523,15,jacobin square lyon cordeliers place jacobin passage largue piton rue street,2019,8,28,18,50,1.8266424059745816,undef
+48690290371,45.760741,4.833644,15,lyon burgundy trip ,2019,9,5,15,7,1.834348388419143,undef
+48690457207,45.76028,4.833722,15,lyon burgundy trip ,2019,9,5,15,9,1.834349752672032,undef
+48690287036,45.76028,4.833727,15,lyon burgundy trip ,2019,9,5,15,8,1.834349070545588,undef
+48690286336,45.760697,4.833794,15,lyon burgundy trip ,2019,9,5,15,8,1.834349070545588,undef
+48968819456,45.760672,4.833744,15,lyon auvergnerhnealpes flickrsyncpermpublic france lyon unescoworldheritagesite lyon earrondissement rhnealpes,2015,9,20,8,39,0.4137327553703836,undef
+48935620761,45.760558,4.833674,15,lyon france ,2019,9,28,8,36,1.8566737048242103,undef

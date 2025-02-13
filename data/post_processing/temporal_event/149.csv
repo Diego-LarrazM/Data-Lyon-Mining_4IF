@@ -1,0 +1,206 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+5518326837,45.745118,4.87073,149,muse lumire museum lyon lumire ftedeslumires lumirebrothers frigno muselumire chteaulumire villalumire,2010,12,10,15,56,-1.3000164853453275,undef
+5518917364,45.745118,4.87073,149,muse lumire wood museum lyon lumire rooster ftedeslumires frigno muselumire chteaulumire villalumire,2010,12,10,15,53,-1.3000185317246613,undef
+5518917108,45.745118,4.87073,149,muse lumire museum lyon lumire ftedeslumires cinematograph frigno muselumire chteaulumire villalumire,2010,12,10,15,48,-1.3000219423568842,undef
+5518326243,45.745118,4.87073,149,muse lumire museum lyon lumire ftedeslumires cinematograph frigno muselumire chteaulumire villalumire,2010,12,10,15,48,-1.3000219423568842,undef
+5518916854,45.745118,4.87073,149,muse lumire museum lyon lumire ftedeslumires cinematograph frigno muselumire chteaulumire villalumire,2010,12,10,15,47,-1.3000226244833288,undef
+5518916662,45.745118,4.87073,149,muse lumire museum lyon lumire ftedeslumires cinematograph frigno muselumire chteaulumire villalumire,2010,12,10,15,47,-1.3000226244833288,undef
+5518916464,45.745118,4.87073,149,muse lumire museum lyon lumire ftedeslumires cinematograph frigno muselumire chteaulumire villalumire,2010,12,10,15,46,-1.3000233066097733,undef
+5518916398,45.745118,4.87073,149,muse lumire museum lyon lumire ftedeslumires cinematograph frigno muselumire chteaulumire villalumire,2010,12,10,15,45,-1.300023988736218,undef
+5518325519,45.745118,4.87073,149,muse lumire museum lyon lumire ftedeslumires frigno muselumire chteaulumire villalumire,2010,12,10,15,39,-1.3000280814948857,undef
+5518325331,45.745118,4.87073,149,muse lumire museum bed bedroom lyon lumire ftedeslumires cinematograph frigno muselumire chteaulumire villalumire,2010,12,10,15,35,-1.300030810000664,undef
+5518325203,45.745118,4.87073,149,muse lumire museum lyon lumire ftedeslumires cinematograph frigno muselumire chteaulumire villalumire,2010,12,10,15,27,-1.3000362670122203,undef
+5518915728,45.745118,4.87073,149,muse lumire museum lyon lumire van ftedeslumires frigno muselumire chteaulumire villalumire,2010,12,10,15,15,-1.3000444525295558,undef
+5518324815,45.745118,4.87073,149,muse lumire museum lyon lumire ftedeslumires cinematograph frigno muselumire chteaulumire villalumire,2010,12,10,15,12,-1.3000464989088896,undef
+5518915292,45.745118,4.87073,149,muse lumire museum lyon lumire ftedeslumires cinematograph frigno muselumire chteaulumire villalumire,2010,12,10,15,11,-1.300047181035334,undef
+5518915168,45.745118,4.87073,149,muse lumire museum lyon lumire photograph ftedeslumires frigno autochromes muselumire chteaulumire villalumire,2010,12,10,15,6,-1.300050591667557,undef
+5518324377,45.745118,4.87073,149,muse lumire museum lyon lumire photograph ftedeslumires frigno muselumire chteaulumire villalumire,2010,12,10,15,1,-1.30005400229978,undef
+5518914946,45.745118,4.87073,149,muse lumire museum lyon lumire photograph ftedeslumires photorama cinematograph frigno muselumire chteaulumire villalumire,2010,12,10,14,57,-1.3000567308055584,undef
+5518914772,45.745118,4.87073,149,muse lumire museum poster lyon lumire ftedeslumires fareastern photorama cinematograph frigno muselumire chteaulumire villalumire,2010,12,10,14,57,-1.3000567308055584,undef
+5518914572,45.745118,4.87073,149,muse lumire museum lyon lumire photograph ftedeslumires photorama cinematograph frigno muselumire chteaulumire villalumire,2010,12,10,14,56,-1.300057412932003,undef
+5518914338,45.745118,4.87073,149,muse lumire museum lyon lumire ftedeslumires photorama cinematograph frigno muselumire chteaulumire villalumire,2010,12,10,14,54,-1.3000587771848922,undef
+5518323593,45.745118,4.87073,149,muse lumire museum lyon lumire ftedeslumires cinematograph frigno muselumire chteaulumire villalumire,2010,12,10,14,52,-1.3000601414377813,undef
+5518323493,45.745118,4.87073,149,muse lumire museum lyon lumire patent ftedeslumires cinematograph frigno muselumire chteaulumire villalumire,2010,12,10,14,52,-1.3000601414377813,undef
+5518323371,45.745118,4.87073,149,muse lumire museum lyon lumire ftedeslumires cinematograph frigno muselumire chteaulumire villalumire,2010,12,10,14,49,-1.300062187817115,undef
+5518913878,45.745118,4.87073,149,muse lumire museum lyon lumire ftedeslumires cinematograph frigno muselumire chteaulumire villalumire,2010,12,10,14,44,-1.300065598449338,undef
+5518323101,45.745118,4.87073,149,muse lumire museum lyon lumire ftedeslumires cinematograph frigno muselumire chteaulumire villalumire,2010,12,10,14,38,-1.3000696912080056,undef
+5647924816,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,15,9,-1.184141619823068,undef
+5647924008,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,15,2,-1.1841463947081805,undef
+5647923708,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,14,48,-1.1841559444784049,undef
+5647922550,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,14,46,-1.1841573087312938,undef
+5647358027,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,14,44,-1.1841586729841829,undef
+5647921994,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,14,43,-1.1841593551106275,undef
+5647921720,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,14,43,-1.1841593551106275,undef
+5647356995,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,14,41,-1.1841607193635166,undef
+5647356735,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,14,40,-1.1841614014899613,undef
+5647356483,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,14,39,-1.184162083616406,undef
+5647356181,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,14,34,-1.1841654942486288,undef
+5647355957,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,14,33,-1.1841661763750737,undef
+5647919924,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,14,30,-1.1841682227544073,undef
+5647355525,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,14,29,-1.184168904880852,undef
+5647355221,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,14,28,-1.1841695870072964,undef
+5647918258,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,14,28,-1.1841695870072964,undef
+5647353601,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,14,25,-1.18417163338663,undef
+5647352557,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,14,21,-1.1841743618924083,undef
+5647916364,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,14,21,-1.1841743618924083,undef
+5647351921,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,14,21,-1.1841743618924083,undef
+5647351609,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,14,20,-1.1841750440188532,undef
+5647351247,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,14,20,-1.1841750440188532,undef
+5647915198,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,14,20,-1.1841750440188532,undef
+5647914814,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,14,20,-1.1841750440188532,undef
+5647914588,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,14,19,-1.1841757261452976,undef
+5647914210,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,14,19,-1.1841757261452976,undef
+5647349383,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,14,19,-1.1841757261452976,undef
+5647348709,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,14,19,-1.1841757261452976,undef
+5647912586,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,14,19,-1.1841757261452976,undef
+5647347999,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,14,18,-1.1841764082717423,undef
+5647347413,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,14,18,-1.1841764082717423,undef
+5647347023,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,58,-1.1841900508006342,undef
+5647346527,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,55,-1.184192097179968,undef
+5647345739,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,43,-1.184200282697303,undef
+5647345293,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,43,-1.184200282697303,undef
+5647344999,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,42,-1.1842009648237477,undef
+5647908562,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,42,-1.1842009648237477,undef
+5647343935,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,42,-1.1842009648237477,undef
+5647343485,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,41,-1.1842016469501924,undef
+5647343197,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,41,-1.1842016469501924,undef
+5647342773,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,41,-1.1842016469501924,undef
+5647342345,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,41,-1.1842016469501924,undef
+5647341253,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,41,-1.1842016469501924,undef
+5647904666,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,41,-1.1842016469501924,undef
+5647340333,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,41,-1.1842016469501924,undef
+5647904090,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,41,-1.1842016469501924,undef
+5647903778,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,41,-1.1842016469501924,undef
+5647339423,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,40,-1.1842023290766368,undef
+5647903206,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,40,-1.1842023290766368,undef
+5647338867,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,40,-1.1842023290766368,undef
+5647902522,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,38,-1.184203693329526,undef
+5647338085,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,38,-1.184203693329526,undef
+5647901486,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,38,-1.184203693329526,undef
+5647901020,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,38,-1.184203693329526,undef
+5647900474,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,31,-1.184208468214638,undef
+5647900136,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,31,-1.184208468214638,undef
+5647335483,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,30,-1.1842091503410828,undef
+5647334715,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,30,-1.1842091503410828,undef
+5647898508,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,27,-1.1842111967204163,undef
+5647898266,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,27,-1.1842111967204163,undef
+5647897980,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,25,-1.1842125609733056,undef
+5647333557,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,25,-1.1842125609733056,undef
+5647333233,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,23,-1.184213925226195,undef
+5647332925,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,22,-1.1842146073526396,undef
+5647896792,45.745024,4.870805,149,p lyon lumire institutlumire lumiremuse,2011,4,7,13,21,-1.184215289479084,undef
+6785141670,45.745017,4.870736,149, square squareformat earlybird iphoneography instagramapp uploadedbyinstagram foursquarevenue b f e,2012,2,26,13,38,-0.8649685172602427,undef
+6931255425,45.745017,4.870736,149, square nashville squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue b f e,2012,2,26,13,36,-0.8649698815131319,undef
+7578093458,45.745058,4.8707,149,lyon city travel france tree window museum spring europe lyon interior decoration stainedglass artdeco institutlumire,2012,3,27,16,21,-0.8353894682433788,undef
+7765120082,45.745017,4.870736,149,cinmatographe square sierra squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue b f e,2012,8,12,7,52,-0.7001845035342577,undef
+8060928758,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,19,2,-1.0445014689712069,undef
+8060928602,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,19,2,-1.0445014689712069,undef
+8060926249,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,19,1,-1.044502151097651,undef
+8060926101,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,19,1,-1.044502151097651,undef
+8060925937,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,19,0,-1.0445028332240958,undef
+8060925767,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,19,0,-1.0445028332240958,undef
+8060927772,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,59,-1.0445035153505404,undef
+8060925425,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,59,-1.0445035153505404,undef
+8060925237,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,58,-1.0445041974769849,undef
+8060927238,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,58,-1.0445041974769849,undef
+8060927076,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,58,-1.0445041974769849,undef
+8060926946,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,57,-1.0445048796034295,undef
+8060924511,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,57,-1.0445048796034295,undef
+8060926654,45.74511,4.870719,149,muse lumire voyage trip travel tree france museum europa europe museu lyon lumire frana muse arbres viagem rvores muselumire institutlumire,2011,8,27,18,57,-1.0445048796034295,undef
+8060924155,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,54,-1.0445069259827633,undef
+8060926330,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,53,-1.044507608109208,undef
+8060923905,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,49,-1.0445103366149864,undef
+8060923775,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,48,-1.0445110187414308,undef
+8060925890,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,48,-1.0445110187414308,undef
+8060925778,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,48,-1.0445110187414308,undef
+8060925660,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,48,-1.0445110187414308,undef
+8060925486,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,46,-1.04451238299432,undef
+8060925334,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,45,-1.0445130651207646,undef
+8060925236,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,44,-1.0445137472472092,undef
+8060922771,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,44,-1.0445137472472092,undef
+8060922655,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,43,-1.044514429373654,undef
+8060924816,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,43,-1.044514429373654,undef
+8060922387,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,42,-1.0445151115000983,undef
+8060922189,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,41,-1.044515793626543,undef
+8060922037,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,40,-1.0445164757529877,undef
+8060924138,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,39,-1.0445171578794323,undef
+8060921783,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,38,-1.0445178400058768,undef
+8060923848,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,37,-1.0445185221323214,undef
+8060923712,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,37,-1.0445185221323214,undef
+8060921435,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,37,-1.0445185221323214,undef
+8060921271,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,37,-1.0445185221323214,undef
+8060923270,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,29,-1.044523979143878,undef
+8060920993,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,29,-1.044523979143878,undef
+8060920875,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,28,-1.0445246612703227,undef
+8060920727,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,28,-1.0445246612703227,undef
+8060920597,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,28,-1.0445246612703227,undef
+8060920457,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,28,-1.0445246612703227,undef
+8060922442,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,26,-1.0445260255232118,undef
+8060922326,45.74511,4.870719,149,muse lumire lyon travel trip voyage viagem europa europe france frana muselumire institutlumire lumire muse museu museum,2011,8,27,18,24,-1.0445273897761012,undef
+8060920087,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,23,-1.0445280719025456,undef
+8060922032,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,23,-1.0445280719025456,undef
+8060919843,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,23,-1.0445280719025456,undef
+8060921788,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,22,-1.0445287540289905,undef
+8060919633,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,22,-1.0445287540289905,undef
+8060921562,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,21,-1.044529436155435,undef
+8060921466,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,21,-1.044529436155435,undef
+8060921328,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,21,-1.044529436155435,undef
+8060919159,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,19,-1.044530800408324,undef
+8060921090,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,19,-1.044530800408324,undef
+8060920948,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,19,-1.044530800408324,undef
+8060920812,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,18,-1.044531482534769,undef
+8060920696,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,17,-1.0445321646612131,undef
+8060918485,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,15,-1.0445335289141024,undef
+8060920456,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,15,-1.0445335289141024,undef
+8060920342,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,15,-1.0445335289141024,undef
+8060920212,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,13,-1.0445348931669916,undef
+8060917937,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,13,-1.0445348931669916,undef
+8060917843,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,13,-1.0445348931669916,undef
+8060919810,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,12,-1.0445355752934362,undef
+8060919684,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,10,-1.044536939546325,undef
+8060917435,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,10,-1.044536939546325,undef
+8060917331,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,9,-1.04453762167277,undef
+8060917205,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,7,-1.044538985925659,undef
+8060917055,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,6,-1.0445396680521035,undef
+8060918986,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,4,-1.044541032304993,undef
+8060916775,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,4,-1.044541032304993,undef
+8060916605,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,3,-1.0445417144314375,undef
+8060916445,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,18,2,-1.0445423965578822,undef
+8060916293,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,17,57,-1.044545807190105,undef
+8060918260,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,17,57,-1.044545807190105,undef
+8060918100,45.74511,4.870719,149,muse lumire voyage trip travel france museum europa europe museu lyon lumire frana muse viagem muselumire institutlumire,2011,8,27,17,57,-1.044545807190105,undef
+8685446974,45.745215,4.870634,149,lyon villa lumire france architecture lyon rhne artnouveau rhnealpes muselumire institutlumire villalumire,2013,4,21,15,34,-0.4523393169031346,undef
+8683453980,45.745096,4.870719,149,lyon villa lumire ,2013,4,21,15,9,-0.4523563700642495,undef
+8681782711,45.744916,4.870719,149,lyon villa lumire france architecture lyon rhne artnouveau rhnealpes muselumire institutlumire villalumire,2013,4,21,14,44,-0.4523734232253643,undef
+8681782379,45.745155,4.870805,149,lyon villa lumire france architecture lyon parquet rhne artnouveau carrelage rhnealpes muselumire institutlumire villalumire,2013,4,21,14,51,-0.4523686483402521,undef
+9257693210,45.745075,4.870736,149,lumiere house detail roof house france architecture building lyon ornament lumiere mmf lusm canoneos michaelflocco,2013,6,23,16,18,-0.3904267922861423,undef
+9249093449,45.74505,4.870719,149,lumiere brother house house france architecture building lyon lumiere canoneos mmf stmpancake michaelflocco,2013,6,23,16,15,-0.390428838665476,undef
+9521301223,45.745017,4.870736,149,upload square squareformat earlybird iphoneography instagramapp uploadedbyinstagram foursquarevenue b f e,2013,8,16,5,40,-0.3378198366262806,undef
+11738923574,45.745017,4.870736,149,thanks guy pilgrimage lyon institutlumiere square squareformat amaro iphoneography instagramapp uploadedbyinstagram foursquarevenue b f e,2014,1,4,8,40,-0.1991981005561957,undef
+13920983894,45.745017,4.870736,149,get rich buy magic lantern precinema museu museum musee france museum museu lyon lumire frana muse squareformat magiclantern lanternamgica lanternemagique precinema iphoneography instagramapp uploadedbyinstagram foursquarevenue b f e,2014,4,18,5,41,-0.097164944847607,undef
+15290975599,45.745017,4.870736,149,upload square squareformat earlybird iphoneography instagramapp uploadedbyinstagram foursquarevenue b f e,2014,10,8,6,6,0.0727834481903877,undef
+15477466442,45.745017,4.870736,149,upload square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue b f e,2014,10,8,6,1,0.0727800375581648,undef
+17176806846,45.745073,4.87073,149,muse lumire jardin dhiver france canon lyon artnouveau monbaillu muselumire institutlumire eos antoinelumire villalumire,2015,4,1,12,53,0.2449569376906432,undef
+17176795466,45.745073,4.87073,149,muse lumire jardin dhiver france canon lyon artnouveau monbaillu muselumire institutlumire eos villalumire,2015,4,1,12,54,0.2449576198170878,undef
+16580282414,45.745073,4.87073,149,photo sans lumire france canon lyon monbaillu muselumire institutlumire eos villalumire,2015,4,1,13,54,0.2449985474037634,undef
+20672157913,45.74526,4.870672,149,muse lumire lyonfr square squareformat iphoneography instagramapp uploadedbyinstagram,2015,9,10,3,36,0.4037034502555403,undef
+26261541816,45.745113,4.87073,149, ,2016,3,28,12,54,0.6005364928542588,undef
+26014612350,45.745113,4.87073,149, ,2016,3,28,12,54,0.6005364928542588,undef
+26014593380,45.745108,4.870733,149, ,2016,3,28,12,59,0.6005399034864818,undef
+26195021142,45.745113,4.87073,149, ,2016,3,28,12,59,0.6005399034864818,undef
+26221140991,45.745113,4.87073,149, ,2016,3,28,13,50,0.600574691935156,undef
+30334292401,45.745108,4.870705,149, ,2016,6,18,11,37,0.6810294596955059,undef
+30406310693,45.745122,4.870786,149,mtro tube ,2016,11,19,15,59,0.8324765371768188,undef
+35488258926,45.745022,4.870788,149,villa lumire lyon ,2017,6,20,11,58,1.0415339677890791,undef
+35270668486,45.745186,4.870766,149,institut lumiere programcefam disciplinebusinessentrepreneurship typestudyabroad termsummeri regionwesterneurope countryfrance,2017,6,1,18,11,1.0231254214288616,undef
+36287738744,45.745088,4.870816,149, lumire monplaisir passerdutempsentrecopines lyon maisondaugusteetlouislumire,2017,8,19,17,48,1.100708436857477,undef
+37635144971,45.745194,4.870688,149, ,2017,10,11,12,55,1.1525684640605105,undef
+37635141191,45.745194,4.870688,149, ,2017,10,11,12,55,1.1525684640605105,undef
+38669195075,45.745006,4.870666,149,villa lumire institut lumire lyon dalbera lyon france institutlumire montplaisir villalumire,2017,12,31,14,52,1.2322115013517951,undef
+38669109075,45.745006,4.870666,149,villa lumire institut lumire lyon dalbera artnouveau lyon france institutlumire montplaisir villalumire,2017,12,31,13,6,1.2321391959486685,undef
+39564230161,45.745006,4.870666,149,villa lumire institut lumire lyon dalbera artnouveau lyon france institutlumire montplaisir villalumire,2017,12,31,13,11,1.2321426065808911,undef
+38855482774,45.745006,4.870666,149,villa lumire institut lumire lyon dalbera lyon france institutlumire montplaisir villalumire,2017,12,31,11,25,1.2320703011777645,undef
+41278782961,45.7452,4.87078,149,muse lumire muselumire lyon france,2018,3,21,14,20,1.3107706397226224,undef
+48245569407,45.745144,4.870825,149,mvimg ,2019,7,5,16,53,1.7735204448490527,undef
+48967685417,45.745,4.870833,149, ,2017,10,16,18,22,1.1577028298089578,undef
+48967504201,45.745,4.870833,149, ,2017,10,16,18,21,1.1577021476825131,undef

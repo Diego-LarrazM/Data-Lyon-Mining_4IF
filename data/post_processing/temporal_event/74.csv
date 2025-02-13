@@ -1,0 +1,194 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4276706991,45.763414,4.835786,74,walking anonymous crowd people lyon safarifnac,2009,10,17,16,52,-1.7115460978737524,undef
+4568125036,45.763505,4.835907,74,soutien guilherme sitting lyon manifestation angola sanspapiers rvolte angolais cordelliers guilhermehaukaazanga,2010,4,8,19,42,-1.5414987965012916,undef
+4872159099,45.763488,4.835749,74,rue rpublique auto street city people france car outdoors automobile europe downtown traffic lyon pavement crowd sidewalk walkway transportation vehicle motorcar,2010,7,26,16,50,-1.434549555506525,undef
+5043525228,45.763404,4.835775,74,palais bourse france rhonealpes e olympuse miltonmic mmf palaisdelaboursedelyon,2009,7,16,22,14,-1.8026768266184192,undef
+5192803248,45.763578,4.83577,74,monoprix lyon cordeliers lyon monoprix cordeliers,2009,12,13,1,39,-1.6561799407455142,undef
+5436680425,45.763496,4.835979,74,palais commerce city urban france building window glass town photo frankreich europa europe flickr lyon fenster edificio ciudad rhne stadt bourse francia fentre dreamland btiment gebude ville verre citt urbain monoprix grandlyon rhnealpes cordeliers francja palaisducommerce presqule nouveaugrandbazar rotdenken julesrigobert,2011,1,29,12,48,-1.2510316211062518,undef
+5253720939,45.763543,4.835785,74,reflet france lyon spiegelung ftedeslumires rhnealpes,2010,12,12,1,54,-1.298626311651248,undef
+5544872666,45.763387,4.835845,74, street city blue red france girl rouge lyon bleu rue fille ville passant cordelier,2010,4,20,18,56,-1.5297430293551848,undef
+5593015333,45.763417,4.835969,74,grand bazar lyon avril france architecture lyon reflet paysageurbain,2011,4,2,9,55,-1.189267117927736,undef
+5731080666,45.763511,4.835894,74, lyon,2011,5,11,9,53,-1.1509602610523113,undef
+5996045373,45.763428,4.83584,74,cordeliers light france underground subway movement lyon lumire mtro mouvement cordeliers sooc,2010,7,23,7,59,-1.4378585508892432,undef
+6125334822,45.763281,4.835883,74,ping etienne square squareformat brannan iphoneography instagramapp uploadedbyinstagram foursquarevenue bb ffc ec,2011,9,7,23,52,-1.0334987694199298,undef
+6107425691,45.763425,4.835872,74,mtro lyon city urban france public station underground subway lyon metro transport transit ville urbain cordeliers collectif commun,2010,7,23,10,18,-1.4377637353134447,undef
+6279119624,45.7635,4.835833,74,past present sky france building architecture reflection historic government renaissance rhnealpes earrondissementlyon,2011,10,14,9,22,-0.9977485224588376,undef
+6544261821,45.763422,4.835972,74,palais bourse urban france architecture europe lyon masonry city ciudades urbano citycenter citycentre oldbuilding centreville fra villes urbain rhnealps palaisdelabourse maonnerie placedescordeliers presqule coeurdelaville frcentreville frcoeurdelaville esurbano frurbain esciudades frvilles frarchitecture francienimmeuble frmaonnerie ancienimmeuble chambreducommerceetdelindustriedelyon,2009,9,2,19,31,-1.7556394333786554,undef
+6956842479,45.763421,4.835743,74,guerlain ,2012,3,5,21,32,-0.8567870926838005,undef
+6917652038,45.763503,4.835733,74,shopping cube lyon urban france architecture pen lyon olympus,2012,4,7,11,10,-0.824796726685302,undef
+6889495956,45.763488,4.835861,74,trolleybus cable france canon lyon sigma cable trolleybus sigma mmf exdg eos dmkii,2012,3,25,14,25,-0.8374331190713779,undef
+8140961498,45.763508,4.835786,74, festival light lyon nuit ftedeslumires cordelliers mestiquettes,2009,12,5,23,22,-1.6631492266299155,undef
+8132502333,45.763508,4.835786,74, festival light lyon nuit ftedeslumires cordelliers mestiquettes,2009,12,5,23,22,-1.6631492266299155,undef
+8559790543,45.76343,4.8359,74,ultimate reflection shot building lyon square squareformat hefe iphoneography instagramapp uploadedbyinstagram foursquarevenue bc b cf,2013,3,15,17,29,-0.4886045693298941,undef
+8549105874,45.763331,4.835872,74,grand bazar lyon reflets rflexion,2013,3,11,11,53,-0.49276281213613,undef
+8791475545,45.763361,4.835958,74,monoprix cordeliers longexposure france architecture night building lyon wideangle cordeliers canoneos mmf fisheye michaelflocco,2013,5,1,21,26,-0.4422765875925063,undef
+8741489997,45.763503,4.835733,74,shopping cube mkii lyon window urban france architecture night lyon omd glodjibfrontpage,2013,5,10,21,52,-0.4334184935830283,undef
+9125640406,45.763613,4.835794,74,lyon mirroring chambre commerce dindustrie lyon,2010,7,31,14,56,-1.4297160075201427,undef
+9288530978,45.763473,4.835861,74,fontaine bartholdi lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2013,7,14,17,46,-0.3697392614745414,undef
+9288521404,45.763473,4.835861,74,bartholdi france silver photography gold photographie lyon award lombard pierrealain masterpal,2013,7,14,17,46,-0.3697392614745414,undef
+9288393426,45.763473,4.835861,74,dance lyon lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2013,7,14,17,44,-0.3697406257274306,undef
+9288360718,45.763473,4.835861,74,croixrousse france silver photography gold photographie lyon award lombard pierrealain masterpal,2013,7,14,18,0,-0.3697297117043171,undef
+9288337566,45.763473,4.835861,74,place jacobin lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2013,7,14,16,45,-0.3697808711876615,undef
+9288327112,45.763473,4.835861,74,place jacobin lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2013,7,14,16,45,-0.3697808711876615,undef
+9280614142,45.763473,4.835861,74,colonnes street france lyon rue mary vieux colonnes,2013,3,31,22,10,-0.4726966985155528,undef
+9280598084,45.763473,4.835861,74,blackuarelle white black france night noir lyon blanc vieux,2012,3,19,0,13,-0.8439078632834497,undef
+9280593880,45.763473,4.835861,74,cabaretier street bridge white black france st river cafe noir jean lyon rhne rue blanc george bouchon cabaretier,2011,8,15,2,42,-1.0569570978494651,undef
+9280572334,45.763473,4.835861,74,traboule lyonnaise lyon france bridge white black france st river noir jean lyon rhne blanc george passerelle,2011,5,21,9,59,-1.141133547491512,undef
+9280566506,45.763473,4.835861,74,basilique fourvire lyon france white black france st river noir jean lyon rhne blanc george basilique fourviere basilic,2010,5,24,0,1,-1.497120332142549,undef
+9280564550,45.763473,4.835861,74,monte garillan bridge white black france st river noir jean lyon rhne blanc george montee garillan,2012,4,22,18,27,-0.8097647062258174,undef
+9277770001,45.763473,4.835861,74,passage bridge white black france st river noir jean lyon noiretblanc rhne rue blanc george boeuf passerelle,2011,8,15,2,34,-1.0569625548610222,undef
+9280551154,45.763473,4.835861,74,passerelle st george lyon france bridge white black france st river noir jean lyon rhne blanc george passerelle,2009,8,20,20,20,-1.7683754162256415,undef
+9277708947,45.763473,4.835861,74,rue buf lyon france street old city white black france saint st digital canon eos noir place jean lyon roman pavement unesco age middle rue altstadt blanc ville vieille bouchon rhone pavs boeuf neuve,2012,1,12,19,18,-0.9089383878786744,undef
+9277759231,45.763473,4.835861,74,piscine rhne lyon france white black france river noir lyon rhne blanc piscine,2009,4,18,10,41,-1.890570865383495,undef
+9280539634,45.763473,4.835861,74,place baleine old city white black france noir lyon roman age middle blanc ville vieille,2013,3,31,22,14,-0.4726939700097744,undef
+9277737925,45.763473,4.835861,74,place trinit lyon france old city white black france noir lyon roman age middle blanc ville vieille,2013,3,31,21,48,-0.4727117052973338,undef
+9277721805,45.763473,4.835861,74,place trinit old city white black france noir lyon roman age middle blanc ville vieux vieille pavs guignol trinite,2013,3,31,21,49,-0.4727110231708892,undef
+9277691511,45.763473,4.835861,74,pharmacie vieux lyon st jean lyon france old city white black france noir lyon roman age middle blanc ville vieille,2012,1,12,19,51,-0.9089158777060028,undef
+9255906891,45.763473,4.835861,74,basilique fourvire lyon france lyon illumination fete lumieres,2009,12,8,22,47,-1.6602263148148368,undef
+9258680834,45.763473,4.835861,74,piscine rhne lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2009,4,18,10,41,-1.890570865383495,undef
+9255878613,45.763473,4.835861,74,fontaine bartholdi lyon illumination fete lumieres,2012,2,11,19,9,-0.8794766646102803,undef
+9255832193,45.763473,4.835861,74,port rambaud france silver photography gold photographie lyon award lombard pierrealain masterpal,2010,4,26,22,24,-1.5237075745734303,undef
+9235401088,45.763473,4.835861,74,cathdrale st jean lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2013,5,4,22,30,-0.4392861452594128,undef
+9232607339,45.763473,4.835861,74,lyon france rue tramassac street street old city france stone architecture port lyon stone typical middle age confluence pavs typique guignol tramassac,2013,5,4,21,5,-0.4393441260072032,undef
+9231922257,45.763473,4.835861,74,velov lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2012,11,25,11,56,-0.5968805462593932,undef
+9231918837,45.763473,4.835861,74,bourse chamber commerce lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2012,3,11,21,12,-0.8509071627314132,undef
+9231897453,45.763473,4.835861,74,coca zero french touch new bw noir cola coke shock coca zero blanc shok bouteille cannette shoc shockofthenew,2010,5,24,1,34,-1.497056894383202,undef
+9234619376,45.763473,4.835861,74,love attachment france silver photography gold photographie lyon award lombard pierrealain masterpal,2012,8,4,11,32,-0.7078925323581526,undef
+9234581852,45.763473,4.835861,74,horloger branciard lyon france travel adventure,2013,5,3,22,18,-0.4402765928569611,undef
+9231769663,45.763473,4.835861,74,place antonin poncet lyon france city white black france cloud noir place lyon blanc ville,2009,4,18,11,36,-1.8905333484290423,undef
+9231751849,45.763473,4.835861,74,pharmacie st jean lyon france old city france saint digital canon silver photography eos gold photographie jean lyon award unesco altstadt ville pharmacie lombard masterpiece vieux vieille mtropole funiculaire pierrealain masterpal,2012,1,12,19,49,-0.908917241958892,undef
+9634314895,45.763524,4.835907,74,lyon ,2013,8,31,11,28,-0.3228485254203647,undef
+9816345595,45.76343,4.8359,74,waiting cathy friend attends cathy amie square squareformat hudson iphoneography instagramapp uploadedbyinstagram foursquarevenue bc b cf,2013,9,19,3,48,-0.3044993240608268,undef
+9720928930,45.763451,4.835872,74,lyon place cordeliers street city sky urban blackandwhite bw cloud white black france reflection building monochrome architecture cloud canon town blackwhite arquitectura europe lyon noiretblanc streetphotography rhne nb reflet ciel architektur nuage nuages rue reflexion reflexion sreet reflets ville architectura rhone urbanlife rhonealpes photoderue rhnealpes blackwhitephotos photosderue urbanlifecandid,2013,5,20,15,8,-0.4238714518645118,undef
+10216747953,45.76343,4.8359,74,said cold jai dit quil fait froid square squareformat hudson iphoneography instagramapp uploadedbyinstagram foursquarevenue bc b cf,2013,10,11,17,28,-0.2823302146115711,undef
+8373132835,45.763355,4.835836,74,sou ciel lumineux france canon lyon rhone ftedeslumires rhonealpes presqule canoneos formatpaysage efs mmf isusm,2012,12,9,21,51,-0.5827230119018761,undef
+12629099455,45.763399,4.835797,74,tt dimanche matin earlysundaymorning jacquesmeynierdemalviala ttundimanchematin,2014,2,16,9,1,-0.1569465064516925,undef
+11856692673,45.76343,4.8359,74,upload square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue bc b cf,2014,1,9,8,53,-0.1942779225113501,undef
+11741718334,45.763473,4.835861,74,place baleine lyon france world street old city urban france heritage night facade alpes frankreich europe place lyon nacht pavement rhne unesco age quarter middle rue francia fontaine nuit ville flair fond bassin urbain cran pavs pav moyen ge geottagged dcran,2014,1,2,19,43,-0.2007103748838572,undef
+11741856923,45.763473,4.835861,74,rue gadagne lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,1,2,19,40,-0.200712421263191,undef
+11741587025,45.763473,4.835861,74,htel ville lyon dcembre france silver photography gold photographie lyon award lombard pierrealain masterpal,2013,12,30,21,2,-0.2036032731353739,undef
+11741827264,45.763473,4.835861,74,lion biennale lyon france old france statue silver photography gold photographie lyon lion award unesco lion biennale altstadt lombard chine vieux macao patrimoine pierrealain masterpal,2013,12,30,19,53,-0.2036503398600508,undef
+11741606763,45.763473,4.835861,74,passerelle palais justice lyon france statue justice lyon pont palais passerelle,2014,1,2,18,43,-0.2007513024705327,undef
+11742096186,45.763473,4.835861,74,place baleine lyon france old city france art trois night work silver photography gold restaurant photographie place lyon pavement pierre award unesco rue mary altstadt extrieur nuit lombard masterpiece bouchon pavs baleine boeuf pierrealain pitonne masterpal,2014,1,2,19,41,-0.2007117391367464,undef
+11742052146,45.763473,4.835861,74,place bourse lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2013,12,30,21,23,-0.2035889484800375,undef
+11741496453,45.763473,4.835861,74,place bourse lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2013,12,30,21,17,-0.203593041238705,undef
+11741470493,45.763473,4.835861,74,place change lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,1,2,19,29,-0.2007199246540815,undef
+11741172525,45.763473,4.835861,74,place rpublique lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2013,12,30,21,36,-0.2035800808362578,undef
+11741901336,45.763473,4.835861,74,quais sane crue lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,1,2,20,7,-0.200694003849187,undef
+11741863076,45.763473,4.835861,74,quai sane france silver photography gold photographie lyon award lombard pierrealain masterpal,2013,12,30,20,27,-0.2036271475609347,undef
+13042758644,45.763466,4.835765,74,img h opera place jean lyon vieux rousse croix nouvel basilique fourviere rhone croixrousse bellecour traboules traboule saone terreaux,2014,3,3,12,2,-0.1420891103620236,undef
+14029737893,45.763511,4.835894,74,upload square squareformat iphoneography instagramapp xproii uploadedbyinstagram,2014,4,25,11,18,-0.0900592336742871,undef
+13876814764,45.763511,4.835894,74,spring flower floraison printanire art photography flower colorfull saxotaz spring france instagood pictureoftheday followme happy square squareformat hudson iphoneography instagramapp uploadedbyinstagram,2014,4,15,10,46,-0.0999036825226459,undef
+14131423084,45.763453,4.835832,74,upload square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue bc b cf,2014,5,7,9,12,-0.0783580366437476,undef
+14114963083,45.763473,4.835861,74,place rpublique lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,5,1,20,40,-0.0837823061311471,undef
+14094931395,45.763473,4.835861,74,place rpublique lyon france white black france noir place lyon rpublique fontaine blanc,2014,5,1,20,40,-0.0837823061311471,undef
+13908330898,45.763473,4.835861,74,maison gadagne lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,5,1,19,35,-0.0838266443500456,undef
+14091803092,45.763473,4.835861,74,monte garillan lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,5,1,19,53,-0.0838143660740429,undef
+14095346994,45.763473,4.835861,74,villa florentine lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,5,1,19,58,-0.0838109554418199,undef
+14114914133,45.763473,4.835861,74,place st paul lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,5,1,19,41,-0.083822551591378,undef
+14114888983,45.763473,4.835861,74,passerelle st george lyon france world street door wood old city travel urban france heritage saint night facade alpes frankreich europe place lyon nacht roman pavement rhne unesco adventure age quarter middle rue francia fontaine nuit george hdr ville flair fond bassin urbain cran pavs aventure pav passerelle moyen ge geottagged dcran,2014,5,1,19,3,-0.0838484723962725,undef
+14638053446,45.763473,4.835861,74,rue trois mary lyon france world street old city urban france heritage night facade alpes frankreich europe place lyon nacht pavement rhne unesco age quarter middle rue francia fontaine nuit rue ville flair fond vieux dcran bassin urbain rhone cran pavs pav moyen ge geottaged geottagged dcran bestcapturesaoi elitegalleryaoi,2014,7,13,23,18,-0.0119693982973394,undef
+14658754654,45.763473,4.835861,74,kiosque fleurs lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,7,13,23,43,-0.0119523451362245,undef
+14476714680,45.763473,4.835861,74,rflexion france night lyon nuit,2014,7,13,22,14,-0.0120130543897933,undef
+14657854511,45.763473,4.835861,74,dominant gene france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,7,13,22,10,-0.0120157828955716,undef
+14660703112,45.763473,4.835861,74,glise st bonaventure lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,7,13,22,11,-0.0120151007691271,undef
+14474387530,45.763473,4.835861,74,bourse chambre commerce lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,7,13,22,20,-0.0120089616311257,undef
+14638086836,45.763473,4.835861,74,place rpublique lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,7,13,22,28,-0.012003504619569,undef
+14658794524,45.763473,4.835861,74,palais justice lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,7,13,23,6,-0.0119775838146745,undef
+14660677812,45.763473,4.835861,74,palais justice lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,7,13,23,13,-0.0119728089295623,undef
+14474417868,45.763473,4.835861,74,palais justice lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,7,13,23,14,-0.0119721268031177,undef
+14638059246,45.763473,4.835861,74,rue trois mary lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,7,13,23,17,-0.0119700804237839,undef
+14474354030,45.763473,4.835861,74,rue trois mary lyon france world street door wood old city travel urban france heritage night facade alpes frankreich europe place lyon nacht roman pavement stone rhne unesco adventure age quarter middle rue francia fontaine nuit ville flair fond bassin urbain cran pavs pav moyen ge geottagged dcran,2014,7,13,23,18,-0.0119693982973394,undef
+14474388919,45.763473,4.835861,74,restaurant vieux lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,7,13,23,20,-0.0119680340444502,undef
+14658774104,45.763473,4.835861,74,cathdrale st jean lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,7,13,23,25,-0.0119646234122272,undef
+14474573627,45.763473,4.835861,74,cathdrale st jean lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,7,13,23,28,-0.0119625770328934,undef
+14660646062,45.763473,4.835861,74,cathdrale st jean lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,7,13,23,30,-0.0119612127800042,undef
+14474370229,45.763473,4.835861,74,kiosque lyon place bellecour lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,7,13,23,42,-0.0119530272626691,undef
+14657785591,45.763473,4.835861,74,kiosque fleurs lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,7,13,23,44,-0.01195166300978,undef
+14660622602,45.763473,4.835861,74,place antonin poncet lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,7,13,23,51,-0.0119468881246678,undef
+14658717194,45.763473,4.835861,74,place antonin poncet lyon france france lyon antonin poncet,2014,7,14,0,0,-0.0119407489866665,undef
+15035821952,45.763473,4.835861,74,lyon microcity france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,8,25,23,25,0.0302726460369394,undef
+14738276338,45.763578,4.835754,74,byzance lyon france lyon ftedeslumires byzance rhnealpes ftedeslumires,2013,12,7,23,41,-0.2260868428755869,undef
+15248322486,45.763473,4.835861,74,euronews headquarter lyon france camera city france digital canon river eos lyon vert rivire cube hdr ville confluence sane euronews sane,2014,9,16,19,16,0.0517125623169258,undef
+15084612780,45.763473,4.835861,74,horizon confluence lyon france france lyon,2014,9,16,19,24,0.0517180193284826,undef
+15248314186,45.763473,4.835861,74,radio espace truck ii france lyon,2014,9,16,18,55,0.0516982376615894,undef
+15248312906,45.763473,4.835861,74,green glance france lyon,2014,9,16,19,11,0.0517091516847029,undef
+15084603810,45.763473,4.835861,74,euronews iii lyon france france lyon vert cube confluence euronews,2014,9,16,19,19,0.0517146086962596,undef
+15248306146,45.763473,4.835861,74,euronews ii lyon france france lyon,2014,9,16,19,18,0.051713926569815,undef
+15271305595,45.763473,4.835861,74,suspension confluence lyon france france lyon,2014,9,16,19,21,0.0517159729491488,undef
+15079666849,45.763473,4.835861,74,radio espace truck lyon france france truck radio lyon camion espace,2014,9,16,18,56,0.051698919788034,undef
+15206622586,45.763473,4.835861,74,confluence lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,9,12,22,6,0.0478994754916538,undef
+15037457377,45.763473,4.835861,74,blue night confluence lyon france blue sky orange night canon pose eos lyon rhne unesco bleu cube nuit quai confluence sane longue saone sucrire bestcapturesaoi elitegalleryaoi troits,2014,9,12,20,34,0.0478367198587513,undef
+15233861695,45.763473,4.835861,74,tube lyon france lyon confluence,2014,9,12,22,8,0.047900839744543,undef
+15230775941,45.763473,4.835861,74,el narrador confluence lyon france lyon confluence,2014,9,12,21,43,0.0478837865834282,undef
+15047286268,45.763473,4.835861,74,frog confluence lyon france lyon confluence,2014,9,12,21,47,0.0478865150892066,undef
+15229825005,45.763473,4.835861,74,confluence iii lyon france france lyon riviere rhne fleuve passerelle,2014,9,12,22,10,0.0479022039974322,undef
+15043136660,45.763473,4.835861,74,passerelle raymond barre iv lyon france france lyon riviere rhne fleuve passerelle,2014,9,12,21,13,0.0478633227900904,undef
+15229298072,45.763473,4.835861,74,cube iii france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,9,12,21,51,0.0478892435949849,undef
+15043080718,45.763473,4.835861,74,cube ii lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,9,12,21,51,0.0478892435949849,undef
+15043083887,45.763473,4.835861,74,pont raymond barre lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,9,12,21,12,0.0478626406636458,undef
+15043075888,45.763473,4.835861,74,pont raymond barre lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,9,12,21,13,0.0478633227900904,undef
+15226557411,45.763473,4.835861,74,cube lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,9,12,21,49,0.0478878793420958,undef
+15042956170,45.763473,4.835861,74,passerelle raymond barre lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,9,12,20,57,0.0478524087669769,undef
+15201526616,45.763473,4.835861,74,gauchedroite sucrerie lyon france france lyon rhne quai confluence sucrerie,2014,9,12,21,39,0.0478810580776498,undef
+15201156336,45.763473,4.835861,74,blue night ii confluence lyon france blue france night silver river photography gold photographie lyon award roulant rhne rivire quay unesco bleu pont pniche nuit quai lombard confluence masterpiece bleue fleuve tlm sane pierrealain progrs transbordeur masterpal,2014,9,12,20,35,0.0478374019851959,undef
+15150967162,45.763473,4.835861,74,autobot france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,8,28,14,56,0.0328722299172814,undef
+15151375265,45.763473,4.835861,74,hellbound train france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,8,28,14,57,0.032872912043726,undef
+14964659069,45.763473,4.835861,74,greenery concrete france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,8,28,14,56,0.0328722299172814,undef
+15118673796,45.763473,4.835861,74,capharnam france station place lyon gare perrache,2014,8,28,15,0,0.0328749584230597,undef
+14945118107,45.763473,4.835861,74,serenity city france tourism station river lyon rhne rivire adventure concept quai ville fond piscine tourisme dcran fleuve rhone cran geottagged masterpal,2014,8,28,14,21,0.0328483554917206,undef
+14944971599,45.763473,4.835861,74,station pool france station lyon gare concept perrache masterpal,2014,8,28,15,20,0.0328886009519516,undef
+15128648901,45.763473,4.835861,74,quai bondy france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,8,28,16,41,0.0329438531939636,undef
+14944976410,45.763473,4.835861,74,place st paul france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,8,28,17,3,0.0329588599757446,undef
+14935549920,45.763473,4.835861,74,bourse white black france mirror commerce lyon chamber bourse miroir chambre reflexion,2014,8,28,17,31,0.0329779595161932,undef
+14935511567,45.763473,4.835861,74,charlemagne france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,8,28,14,44,0.0328640443999463,undef
+14935509247,45.763473,4.835861,74,archive france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,8,28,15,0,0.0328749584230597,undef
+14923689700,45.763473,4.835861,74,line france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,8,28,16,26,0.0329336212972947,undef
+15285942748,45.763473,4.835861,74,st jean lyon france world street old city urban france heritage night facade alpes frankreich europe place lyon nacht pavement rhne unesco age quarter middle rue francia fontaine nuit ville flair fond bassin urbain cran pavs pav moyen ge geottagged dcran,2014,9,6,23,28,0.0420618373788313,undef
+11225437944,45.76343,4.8359,74,lyon night weekend relaxing light festival ftedeslumires preview ilovelyon proud tobe alyonnais saxotaz fall france picoftheday instagood followme square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue bc b cf,2013,12,5,11,16,-0.2285595512372346,undef
+17113059441,45.763316,4.8359,74,lyon placedescordeliers fujifimco square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue ec b bcb,2015,4,11,14,54,0.2548620957925708,undef
+16899194408,45.763473,4.835765,74,lyon ,2015,4,7,15,55,0.2509746571848382,undef
+16870739069,45.763511,4.835894,74,cordeliers streetphotoclub mafiastreetlove streetperfection igstreet jjstreetphotography dreamimage streetseries nikonphotographers stph igstreet streetphotoclub igersitalia uploadedbyflickstagram rsastreetview jjstreetphotography urbanromantix mafiastreetlove beststreetview streetperfection beststreets streetdreamsmag icthestreet streetlifeaward instagramphoto instagramvenuenamecordeliers instagramvenue pxl,2014,12,2,17,7,0.1272587481819882,undef
+23014065986,45.763451,4.835743,74,rue rpublique france lyon streetphotography rhne urbanphotography monoprix ruedelarpublique rhnealpes cordeliers brumpicts frdricbrumby,2015,11,7,20,49,0.4613792875251687,undef
+22977893872,45.763556,4.835786,74,arriving france night subway nikon lyon metro mtro trainstation nikond nikon mmf cordeliersmetro cordeliersmtro cordeliersstation,2015,11,6,19,36,0.4603472302145003,undef
+22996021961,45.763481,4.835915,74, leica france mm nikon frankreich lyon summicron f leitz rhnealpes summicronr summicronr mmf leitax,2015,6,28,0,4,0.3308714455135114,undef
+22277400284,45.763481,4.835915,74, leica france church saint mm nikon frankreich lyon kirche summicron f bonaventure sanctuaire leitz rhnealpes summicronr summicronr mmf leitax,2015,6,27,18,42,0.3306518007983526,undef
+15364434114,45.763423,4.835802,74,rue republique ,2014,12,5,23,56,0.1304845241384661,undef
+15984705811,45.763423,4.835802,74,rue republique ,2014,12,6,0,2,0.1304886168971336,undef
+15800685379,45.763423,4.835802,74,rue republique ,2014,12,6,0,2,0.1304886168971336,undef
+15800683939,45.763423,4.835802,74,rue republique ,2014,12,5,23,55,0.1304838420120215,undef
+15975321201,45.763413,4.835901,74,vlov hometown bicycle sharing system began operating first largescale system europe success inspired european city launch system oddly enough fan bikesharing took square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue ec b bcb,2014,12,8,13,10,0.1329906566958989,undef
+23492526129,45.763408,4.835886,74,lyon france france lyon,2014,5,30,9,37,-0.0557489556377297,undef
+25016288963,45.763608,4.83584,74,mtro cordeliers lyon eye circle lyon mtro bulle cercle hublot cordeliers,2016,3,10,8,3,0.5826572766150452,undef
+25611081053,45.763451,4.835743,74,rue grenette blackandwhite france lyon noiretblanc streetphotography rhne cordeliers photographiederue ruegrenette brumpicts frdricbrumby auvergnerhnealpes lyonurb,2012,6,9,14,52,-0.7627627835611722,undef
+27061358551,45.763503,4.835733,74,cordeliers old new structure street city urban france church saint lyon samsung rhne rue eglise ville bonaventure sanctuaire rhonealpes cordeliers,2016,5,16,13,32,0.6486932555895991,undef
+29945483983,45.763547,4.835922,74,hello lyon lyon france rhone streetart street art hunter sky sunset twilight alone dark obey tiki bridge panorama marianne view streetviews heart vsco vscocam vscofrance vscogram vscodaily vscolyon ville lion,2016,10,22,14,56,0.8049302249648405,undef
+22946914867,45.763333,4.835833,74, ,2016,10,29,18,1,0.8119322529185823,undef
+23745074582,45.763466,4.83593,74,lyon france france lyon,2014,5,29,16,43,-0.0564406318525465,undef
+23675490666,45.763541,4.835754,74,cordeliers lyon lyon cordeliers,2015,12,12,9,51,0.4953096211320882,undef
+23770923521,45.763488,4.835952,74,lyon france france lyon,2014,5,29,16,43,-0.0564406318525465,undef
+33004833131,45.763451,4.835743,74,rue republique photographiederue streetphotography photographieurbaine urbanphotography ruedelarepublique cordeliers lyon rhne auvergnerhnealpes france lyonurb brumpicts frdricbrumby,2016,7,2,18,6,0.6950464760054369,undef
+32785663266,45.763508,4.835805,74,lyon cordeliers lyon rhnealpes france francia urban street cordeliers,2017,2,3,11,8,0.906929956477644,undef
+33542263846,45.763291,4.835883,74, ,2017,3,21,20,43,0.9525062348730908,undef
+33172229426,45.763523,4.835841,74,incity twilight lyon sunset twilight tour incity reflet france,2017,2,18,17,49,0.9219374203851232,undef
+33791200742,45.763595,4.835761,74,monoprix cordeliers jacquesmeynierdemalviala monoprix cordeliers lyon,2017,4,9,18,1,0.9710587099131174,undef
+33542261736,45.763291,4.835883,74, ,2017,3,21,20,43,0.9525062348730908,undef
+35162188931,45.763518,4.835753,74,public transport lyon trolleybus place cordeliers lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes bus trolleybus placedescordeliers ruedelarepublique ruegrenette,2017,6,2,19,14,1.0241506574750845,undef
+35481428152,45.763405,4.835972,74, ,2017,7,1,14,59,1.0524623155578954,undef
+35519524161,45.763633,4.835861,74, ,2017,7,1,15,2,1.0524643619372291,undef
+36334340364,45.76348,4.835797,74,beklimming van ventoux ,2017,9,10,19,27,1.122385733140182,undef
+37170892615,45.763519,4.835838,74,beklimming van ventoux ,2017,9,10,19,26,1.1223850510137372,undef
+36999311242,45.763519,4.835838,74,beklimming van ventoux ,2017,9,10,19,26,1.1223850510137372,undef
+24101388008,45.763392,4.83585,74,saintbonaventure lyon presqule,2017,9,19,16,29,1.131104673354963,undef
+37921770522,45.763392,4.83585,74,saintbonaventure lyon presqule,2017,9,19,16,25,1.1311019448491846,undef
+24101358378,45.763392,4.83585,74,presqule lyon presqule,2017,9,4,10,40,1.1161326800226026,undef
+30606010493,45.763481,4.835915,74,lyon paris novembre jour lyon paris novembre jour,2016,11,25,11,8,0.8381716108627214,undef
+31377185346,45.763481,4.835915,74,lyon paris novembre jour lyon paris novembre jour,2016,11,25,11,10,0.8381729751156106,undef
+42757863661,45.763386,4.835966,74,reflets cordeliers blackandwhite noiretblanc reflets rflexion cordeliers lyon,2018,6,11,13,34,1.3912847524836518,undef
+30762199198,45.763391,4.835883,74,lyon rue rpublique people candid street,2018,8,18,19,13,1.458309814802865,undef
+30762193128,45.763391,4.835883,74,lyon place cordeliers people candid street,2018,8,18,19,14,1.4583104969293097,undef
+28786356197,45.76355,4.835838,74,gieda lyon francja france paac palac budynek architektura palace building architecture,2018,6,6,10,2,1.3862288312763325,undef
+48553061386,45.763341,4.835872,74,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso nik dxopl frankrijk franrijk jossaris jossarisfoto lr lyon nik rhne,2019,7,25,17,33,1.7931929715111,undef
+48536421951,45.763341,4.835872,74,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,25,17,33,1.7931929715111,undef
+48461224542,45.763341,4.835872,74,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl franrijk jossaris jossarisfoto lr lyon rhne frankrijk,2019,7,25,17,33,1.7931929715111,undef
+48782677137,45.763473,4.835765,74,lyon ,2019,9,23,17,42,1.852134835461892,undef

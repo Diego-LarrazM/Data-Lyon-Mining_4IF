@@ -1,0 +1,196 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4447495416,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,22,36,-1.5620076101844094,undef
+4446719373,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,22,36,-1.5620076101844094,undef
+4446718659,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,22,34,-1.5620089744372985,undef
+4447493522,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,22,34,-1.5620089744372985,undef
+4446717781,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,22,33,-1.5620096565637431,undef
+4446716937,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,22,33,-1.5620096565637431,undef
+4446716315,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,22,31,-1.5620110208166322,undef
+4447490882,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,22,30,-1.562011702943077,undef
+4446715081,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,22,29,-1.5620123850695216,undef
+4446714399,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,22,28,-1.562013067195966,undef
+4446713723,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,22,27,-1.5620137493224109,undef
+4447488358,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,22,27,-1.5620137493224109,undef
+4446712703,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,22,27,-1.5620137493224109,undef
+4447487458,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,22,23,-1.562016477828189,undef
+4446711783,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,22,22,-1.5620171599546335,undef
+4447486374,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,22,22,-1.5620171599546335,undef
+4446710547,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,22,21,-1.5620178420810782,undef
+4447485074,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,22,21,-1.5620178420810782,undef
+4447484570,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,22,18,-1.562019888460412,undef
+4447484042,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,22,17,-1.5620205705868566,undef
+4446707925,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,22,16,-1.5620212527133013,undef
+4446707359,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,22,16,-1.5620212527133013,undef
+4446706787,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,22,14,-1.5620226169661904,undef
+4446706301,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,22,13,-1.562023299092635,undef
+4447480792,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,22,13,-1.562023299092635,undef
+4446704897,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,22,9,-1.5620260275984132,undef
+4447479808,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,22,9,-1.5620260275984132,undef
+4447479284,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,22,4,-1.5620294382306363,undef
+4447478690,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,21,57,-1.5620342131157483,undef
+4447477944,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,21,56,-1.562034895242193,undef
+4447477204,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,21,45,-1.5620423986330836,undef
+4446701255,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,21,44,-1.5620430807595282,undef
+4446700783,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,21,39,-1.5620464913917511,undef
+4446699995,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,21,39,-1.5620464913917511,undef
+4447474638,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,21,32,-1.5620512662768633,undef
+4447473870,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,21,31,-1.5620519484033075,undef
+4447473180,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,21,27,-1.5620546769090862,undef
+4447472596,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,21,26,-1.5620553590355308,undef
+4447472068,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,21,26,-1.5620553590355308,undef
+4446696267,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,21,26,-1.5620553590355308,undef
+4447471030,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,21,24,-1.56205672328842,undef
+4447470734,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,21,21,-1.5620587696677537,undef
+4447470158,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,21,20,-1.5620594517941984,undef
+4447469766,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,21,19,-1.562060133920643,undef
+4446693935,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,21,16,-1.5620621802999768,undef
+4447468582,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,21,16,-1.5620621802999768,undef
+4447468254,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,21,15,-1.5620628624264212,undef
+4447467672,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,21,15,-1.5620628624264212,undef
+4446691625,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,21,14,-1.562063544552866,undef
+4446691011,45.729865,4.824939,53,p hotel tokyo concert agathe,2010,3,18,20,32,-1.5620921938635388,undef
+8654183589,45.730111,4.825011,53,dancer france concert dancer lyon,2012,2,4,23,48,-0.8861621858937313,undef
+8654183293,45.730111,4.825011,53,elsa laughini closeup concert singer elsalunghini,2012,2,6,22,5,-0.8842679207570979,undef
+12660256594,45.730111,4.825011,53,alize danse star tour lyon show dance bollywood alize dal danseaveclesstars grgoirelyonnet,2014,2,1,17,31,-0.171332553168148,undef
+11751887884,45.730111,4.825011,53,alize enfoirs france closeup singing lyon stewardess fr flightattendant chanteuse alize halfshot frenchsinger rhnealpes jacotey lesenfoirs songmedleyavion,2012,2,4,21,46,-0.8862454053199715,undef
+11751470635,45.730111,4.825011,53,patrick fiori france closeup lyon solo singer fr rhnealpes halfbody patrickfiori songwithoutyou,2012,2,4,23,0,-0.8861949279630718,undef
+11751869234,45.730111,4.825011,53,sexy ballerina alize music france musician ballerina lyon dancer singer fr vie veux graver alize fullbody nom rhnealpes songmedleyje,2012,2,4,21,13,-0.886267915492643,undef
+11751457575,45.730111,4.825011,53,ballerina bikers france ballerina dancer lyon rocknroll fr vie lorie veux graver alize nom rhnealpes songmedleyje,2012,2,4,21,11,-0.8862692797455323,undef
+11751700003,45.730111,4.825011,53,patrick fiori france closeup lyon fr rhnealpes halfbody patrickfiori,2012,2,4,20,25,-0.8863006575619835,undef
+11751861884,45.730111,4.825011,53,chimne badi lm france boat lyon vehicle transportation vehicle raincoat fr rhnealpes lm chimnebadi songmedleypench,2012,2,1,23,25,-0.8891246610425965,undef
+11751861034,45.730111,4.825011,53,chimne badi board france boat lyon vehicle transportation singer vehicle fr rainjacket fullbody rhnealpes chimnebadi songmedleypench,2012,2,1,23,23,-0.8891260252954856,undef
+11751688533,45.730111,4.825011,53,chimne badi france closeup lyon singer fr rhnealpes chimnebadi songmedleypench,2012,2,4,23,14,-0.8861853781928474,undef
+11752229796,45.730111,4.825011,53,gangster music france musician gangster lyon singer fr amelbent rhnealpes renanluce nolwennleroy shym songimjustagigolo,2012,2,6,22,30,-0.8842508675959831,undef
+11752228556,45.730111,4.825011,53,audience enfoirs music france concert audience lyon crowd fr concerthall rhnealpes songtoietmoi,2012,2,6,22,18,-0.8842590531133182,undef
+11751474235,45.730111,4.825011,53,nolwenn leroy france lyon singer stewardess fr flightattendant rhnealpes halfbody nolwennleroy elsalunghini songmedleyavion,2012,2,6,22,5,-0.8842679207570979,undef
+11751473935,45.730111,4.825011,53,nolwenn leroy christophe france lyon captain singer stewardess fr flightattendant rhnealpes nolwennleroy christophema songmedleyavion,2012,2,6,22,2,-0.8842699671364317,undef
+11751883694,45.730111,4.825011,53,pretty alize france closeup lyon singer fr mixte alize rhnealpes halfbody songmedleymariage,2012,2,6,21,0,-0.8843122589759964,undef
+11751472305,45.730111,4.825011,53,jeanjacques goldman france lyon guitar singer fr fullbody rhnealpes jeanjacquesgoldman songhlne,2012,2,6,20,44,-0.8843231729991099,undef
+11751718923,45.730111,4.825011,53,patrick bruel france lyon guitar singer fr rhnealpes patrickbruel halfbody,2012,2,4,23,30,-0.8861744641697339,undef
+11751471225,45.730111,4.825011,53,elsa lunghini yannich noah paris france europe place lyon country eiffeltower place eiffel country fr iledefrance fullbody yannicknoah rhnealpes renanluce elsalunghini songmedleypench,2012,2,4,23,9,-0.8861887888250704,undef
+11751717353,45.730111,4.825011,53,jenifer grgoire music closeup musician singer singer jenifer halfbody grgoire songlejouetextraordinaire,2012,2,4,22,52,-0.8862003849746285,undef
+11751716113,45.730111,4.825011,53,jeanlouis aubert france closeup lyon guitar solo singer fr rhnealpes halfbody jeanlouisaubert,2012,2,4,22,40,-0.8862085704919636,undef
+11751468585,45.730111,4.825011,53,jeanlouis aubert france lyon guitar singer fr fullbody rhnealpes jeanlouisaubert,2012,2,4,22,39,-0.8862092526184081,undef
+11751467835,45.730111,4.825011,53,sailing audience music france concert audience lyon crowd fr concerthall rhnealpes songtoietmoi,2012,2,4,22,0,-0.8862358555497473,undef
+11751877714,45.730111,4.825011,53,alize fun closeup laugh singer stewardess flightattendant halfbody songmedleyavion alize,2012,2,4,21,46,-0.8862454053199715,undef
+11751713143,45.730111,4.825011,53,pokora alize france closeup lyon stewardess fr flightattendant alize rhnealpes halfbody mpokora songmedleyavion,2012,2,4,21,45,-0.8862460874464162,undef
+11751465185,45.730111,4.825011,53,another pair air music france concert audience lyon crowd swing singer behind fr concerthall alize fullbody rhnealpes songjetepromets,2012,2,4,21,23,-0.8862610942281972,undef
+11751459655,45.730111,4.825011,53,swinging audience france lyon crowd swing behind fr concerthall fullbody rhnealpes adience songjetepromets,2012,2,4,21,21,-0.8862624584810863,undef
+11751867174,45.730111,4.825011,53,garou hlne sgara music france closeup musician lyon duet singer singer fr rhnealpes garou halfbody hlnesgara songentrenous,2012,2,4,21,0,-0.8862767831364228,undef
+11751455715,45.730111,4.825011,53,renan garou maxime music france musician lyon group singer singer fr mixte rhnealpes garou renanluce songmedleymariage,2012,2,4,20,45,-0.8862870150330917,undef
+11751454695,45.730111,4.825011,53,jjg co france lyon guitar group singer fr fullbody rhnealpes jeanjacquesgoldman elsalunghini songhlne,2012,2,4,20,34,-0.8862945184239822,undef
+11751453295,45.730111,4.825011,53,jeanjacques goldman france lyon guitar singer fr rhnealpes jeanjacquesgoldman songhlne,2012,2,4,20,32,-0.8862958826768714,undef
+11751860204,45.730111,4.825011,53,blond jenifer music france musician lyon singer singer fr jenifer minidress fullbody rhnealpes songlejouetextraordinaire,2012,2,1,22,56,-0.8891444427094897,undef
+11751859204,45.730111,4.825011,53,toy lorie france lyon fr lorie bnabar rhnealpes songlejouetextraordinaire,2012,2,1,22,52,-0.889147171215268,undef
+11751857894,45.730111,4.825011,53,bnabar zaz france bench sitting lyon fr zaz bnabar rhnealpes halfbody catherinelara songgttingen,2012,2,1,22,30,-0.889162177997049,undef
+11751693693,45.730111,4.825011,53,mc solaar alize snow france closeup lyon singer fr mcsolaar alize rhnealpes halfbody songlachansondesrestos,2012,2,7,0,40,-0.8841621911581861,undef
+11751692763,45.730111,4.825011,53,sailing audience music france concert audience lyon crowd fr concerthall rhnealpes songtoietmoi,2012,2,1,22,9,-0.8891765026523855,undef
+11751444855,45.730111,4.825011,53,flight crew france airplane lyon captain fr alize rhnealpes christophema songmedleyavion,2012,2,1,21,56,-0.8891853702961652,undef
+11751443805,45.730111,4.825011,53,ballerina rocker france ballerina dancer lyon rocknroll fr vie lorie veux graver alize nom rhnealpes shym clairekeim jeniferbartoli songmedleyje,2012,2,1,21,16,-0.8892126553539489,undef
+11751853524,45.730111,4.825011,53,corsican mafia music france musician gangster gun lyon singer fr alize amelbent rhnealpes songimjustagigolo,2012,2,6,22,30,-0.8842508675959831,undef
+11751442155,45.730111,4.825011,53,shym lorie alize jenifer claire france ballerina dancer lyon fr vie lorie veux graver alize nom rhnealpes shym clairekeim jeniferbartoli songmedleyje,2012,2,1,21,14,-0.8892140196068381,undef
+11751681603,45.730111,4.825011,53,sexy ballerina music smile closeup musician ballerina dancer singer vie veux graver fullbody nom songmedleyje alize,2012,2,4,21,13,-0.886267915492643,undef
+11751687743,45.730111,4.825011,53,jjg co jjg jeanjacquesgoldman songhlne,2012,2,1,20,39,-0.8892378940323988,undef
+11752193156,45.730111,4.825011,53,jeanlouis aubert france closeup lyon singer fr rhnealpes halfbody jeanlouisaubert songgttingen,2012,2,4,22,16,-0.8862249415266338,undef
+11752192186,45.730111,4.825011,53,captain kad merad france lyon captain fr fullbody rhnealpes,2012,2,4,21,50,-0.8862426768141932,undef
+11751848274,45.730111,4.825011,53,enfoirs group france lyon stage fr jjg rhnealpes jeanjacquesgoldman mimiemathy manyartists songhlne,2012,2,1,20,37,-0.8892392582852879,undef
+11751683403,45.730111,4.825011,53,peek shoulder music france musician ballerina dancer singer fr alize rhnealpes halfbody,2012,2,4,21,15,-0.886266551239754,undef
+11751682393,45.730111,4.825011,53,wedding enfoirs france bride lyon bride wedding fr alize rhnealpes mpokora songellemedit,2012,2,1,20,25,-0.8892474438026231,undef
+11751433845,45.730111,4.825011,53,alize singing france sweater lyon singer fr alize fullbody rhnealpes songlepouvoirdesfleurs,2012,2,1,23,50,-0.8891076078814816,undef
+11751679553,45.730111,4.825011,53,jjg mimie alize france lyon fr jument alize rhnealpes jeanjacquesgoldman mimiemathy michao songmedleyla,2012,2,1,22,45,-0.8891519461003802,undef
+11752185806,45.730111,4.825011,53,zaz portrait france smile lyon fr zaz bnabar rhnealpes halfbody songgttingen,2012,2,1,22,30,-0.889162177997049,undef
+11751841854,45.730111,4.825011,53,flight attendant alize france smile lyon stewardess fr flightattendant alize rhnealpes songmedleyavion,2012,2,1,21,56,-0.8891853702961652,undef
+11751840624,45.730111,4.825011,53,enfoirs group snow france lyon group fr alize rhnealpes nolwennleroy songlachansondesrestos,2012,2,2,0,7,-0.8890960117319235,undef
+11751428895,45.730111,4.825011,53,jeanjacques goldman singer halfbody jeanjacquesgoldman,2012,2,1,21,24,-0.8892071983423921,undef
+12911491775,45.730111,4.825011,53,host vincent cerutti show lyon host dal danseaveclesstars vincentcerutti,2014,2,1,16,7,-0.1713898517894938,undef
+12911921684,45.730111,4.825011,53,alize grgoire lyonnet black swan show dancer lyon dancer blackswan alize dal chrismarques danseaveclesstars grgoirelyonnet,2014,2,1,16,27,-0.1713762092606019,undef
+12911920604,45.730111,4.825011,53,judge dancing show dancer lyon dancer judge dal chrismarques danseaveclesstars jeanmarcgnreux jaclinspencer,2014,2,1,16,31,-0.1713734807548236,undef
+12911586883,45.730111,4.825011,53,vincent cerutti lorie christian millette show dancer lyon dancer lorie dal danseaveclesstars christianmillette vincentcerutti,2014,2,1,17,15,-0.1713434671912615,undef
+12911554643,45.730111,4.825011,53,grard vivs silvia notargiacomo sandrine qutier show lyon dal sandrinequtier silvianotargiacomo danseaveclesstars grardvivs,2014,2,1,17,22,-0.1713386923061494,undef
+12911554043,45.730111,4.825011,53,strorm trooper show starwars lyon stormtrooper dal danseaveclesstars,2014,2,1,17,24,-0.1713373280532602,undef
+12911553103,45.730111,4.825011,53,danse star lyon show lyon stormtrooper judge dal chrismarques sandrinequtier silvianotargiacomo danseaveclesstars jeanmarcgnreux grardvivs jaclinspencer,2014,2,1,17,27,-0.1713352816739264,undef
+12911882224,45.730111,4.825011,53,judge jeanmarc gnreux jaclin spencer chris marque show lyon judge dal chrismarques danseaveclesstars jeanmarcgnreux jaclinspencer,2014,2,1,17,27,-0.1713352816739264,undef
+12911814944,45.730111,4.825011,53,grgoire lyonnet alize show dancer lyon dancer alize fullbody dal danseaveclesstars grgoirelyonnet,2014,2,1,17,31,-0.171332553168148,undef
+12911300695,45.730111,4.825011,53,laury thilleman show light lyon dancer missfrance fullbody dal laurythilleman danseaveclesstars,2014,2,1,16,59,-0.171354381214375,undef
+12911400273,45.730111,4.825011,53,katrina patchett show lyon dancer halfbody dal katrinapatchett danseaveclesstars,2014,2,1,17,39,-0.1713270961565913,undef
+12911298555,45.730111,4.825011,53,katrina patchett show lyon dancer halfbody dal katrinapatchett danseaveclesstars,2014,2,1,17,39,-0.1713270961565913,undef
+12911305703,45.730111,4.825011,53,laury thilleman show light lyon dancer missfrance halfbody dal laurythilleman danseaveclesstars,2014,2,1,16,59,-0.171354381214375,undef
+13711378243,45.730011,4.824988,53,star uploadedbyflickrmobile flickriosappfilternofilter,2013,12,17,20,14,-0.2164054222474857,undef
+16718981049,45.729888,4.824944,53,collectif mtiss lyon rdv star ,2015,3,21,18,0,0.2343614676267882,undef
+16717723510,45.729888,4.824944,53,collectif mtiss lyon rdv star ,2015,3,21,18,0,0.2343614676267882,undef
+16879256906,45.729888,4.824944,53,collectif mtiss lyon rdv star ,2015,3,21,18,0,0.2343614676267882,undef
+16879256746,45.729888,4.824944,53,collectif mtiss lyon rdv star ,2015,3,21,18,0,0.2343614676267882,undef
+16717722900,45.729888,4.824944,53,collectif mtiss lyon rdv star ,2015,3,21,18,0,0.2343614676267882,undef
+16718979849,45.729888,4.824944,53,collectif mtiss lyon rdv star ,2015,3,21,18,0,0.2343614676267882,undef
+16718979619,45.729888,4.824944,53,collectif mtiss lyon rdv star ,2015,3,21,18,0,0.2343614676267882,undef
+16718979419,45.729888,4.824944,53,collectif mtiss lyon rdv star ,2015,3,21,18,0,0.2343614676267882,undef
+16879255796,45.729888,4.824944,53,collectif mtiss lyon rdv star ,2015,3,21,18,0,0.2343614676267882,undef
+16718978999,45.729888,4.824944,53,collectif mtiss lyon rdv star ,2015,3,21,18,0,0.2343614676267882,undef
+16717479718,45.729888,4.824944,53,collectif mtiss lyon rdv star ,2015,3,21,18,0,0.2343614676267882,undef
+16282765834,45.729888,4.824944,53,collectif mtiss lyon rdv star ,2015,3,21,18,0,0.2343614676267882,undef
+16879254886,45.729888,4.824944,53,collectif mtiss lyon rdv star ,2015,3,21,18,0,0.2343614676267882,undef
+16905133935,45.729888,4.824944,53,collectif mtiss lyon rdv star ,2015,3,21,18,0,0.2343614676267882,undef
+16285131433,45.729888,4.824944,53,collectif mtiss lyon rdv star ,2015,3,21,18,0,0.2343614676267882,undef
+16879254106,45.729888,4.824944,53,collectif mtiss lyon rdv star ,2015,3,21,18,0,0.2343614676267882,undef
+16717478108,45.729888,4.824944,53,collectif mtiss lyon rdv star ,2015,3,21,18,0,0.2343614676267882,undef
+16905133025,45.729888,4.824944,53,collectif mtiss lyon rdv star ,2015,3,21,18,0,0.2343614676267882,undef
+16699384688,45.729888,4.824944,53,collectif mtiss live halle tony garnier lyon tourne rendezvous star rendezvousausoleil square nashville squareformat iphoneography instagramapp uploadedbyinstagram,2015,3,21,23,57,0.2346049867675077,undef
+22616374056,45.729888,4.824944,53,miam vin square squareformat iphoneography instagramapp uploadedbyinstagram,2015,10,31,17,43,0.4543765774449823,undef
+22091911148,45.73,4.825,53, ,2015,10,18,14,52,0.4414905267801857,undef
+27979679106,45.729888,4.824944,53,si lascenseur social panne descend lescalier social ladder broken go stair wwwmonsieurbidulenet art artist artwork artcontemporain contemporaryart artmiami miamiart artbasel artbaselmiami monaco mba monac square squareformat iphoneography instagramapp uploadedbyinstagram,2016,7,1,1,29,0.693384133859965,undef
+23348171979,45.729888,4.824944,53, square squareformat iphoneography instagramapp uploadedbyinstagram,2015,12,13,0,28,0.4959078460239958,undef
+33507436731,45.72984,4.82493,53,lindsey france lyon concert music bien violon instagramapp square squareformat iphoneography uploadedbyinstagram clarendon,2017,3,25,9,5,0.955959158935618,undef
+32744132354,45.72984,4.82493,53,without im nothing httpwwwmonsieurbidulenet art artwork artbasel artcontemporain villeurbanne contemporaryart berlin newyork igerslyon doua tonkin monaco monacoart artmonaco miami miamiart artmiami placebo bidule lyon instagramapp square squareformat iphoneography uploadedbyinstagram,2017,3,22,5,29,0.9528650333829466,undef
+33382685933,45.72984,4.82493,53,concert groupe placebo halle tony garnier lyon mardi avril clbrer an carrire wow concert excellent dur deux bonnes heures beaucoup chansons pensais jamais entendre live jour jai ador instagramapp square squareformat iphoneography uploadedbyinstagram,2017,4,22,11,50,0.9835750480449448,undef
+36654853025,45.729911,4.825063,53, ,2017,1,28,22,34,0.9015043227373554,undef
+37073419002,45.729933,4.824974,53,metallica lyon heavymetal rock lyon live livepic arnaudbouvard hardrock concertlive metalshow k showmetal arnalphotography pic rockshow lieux gig arnallephotography showrock concert thrashmetal show thrash music pentax metal auvergnerhnealpes france fr,2017,9,12,21,30,1.1244341588532931,undef
+36407802444,45.729933,4.824974,53,metallica lyon heavymetal rock lyon live livepic arnaudbouvard hardrock concertlive metalshow k showmetal arnalphotography pic rockshow lieux gig arnallephotography showrock concert thrashmetal show thrash music pentax metal auvergnerhnealpes france fr,2017,9,12,21,30,1.1244341588532931,undef
+36430985873,45.729933,4.824974,53,metallica lyon heavymetal rock lyon live livepic arnaudbouvard hardrock concertlive metalshow k showmetal arnalphotography pic rockshow lieux gig arnallephotography showrock concert thrashmetal show thrash music pentax metal auvergnerhnealpes france fr,2017,9,12,21,30,1.1244341588532931,undef
+36430978683,45.729933,4.824974,53,metallica lyon heavymetal rock lyon live livepic arnaudbouvard hardrock concertlive show metalshow k showmetal arnalphotography pic rockshow lieux gig arnallephotography showrock concert thrashmetal larsulrich thrash music pentax metal auvergnerhnealpes france fr,2017,9,12,21,27,1.1244321124739594,undef
+36847190490,45.729933,4.824974,53,metallica lyon heavymetal rock lyon live livepic arnaudbouvard hardrock concertlive show metalshow k showmetal arnalphotography pic rockshow lieux gig arnallephotography showrock concert thrashmetal larsulrich thrash music pentax metal auvergnerhnealpes france fr,2017,9,12,21,27,1.1244321124739594,undef
+36430945073,45.729933,4.824974,53,metallica lyon heavymetal rock lyon live livepic arnaudbouvard hardrock concertlive metalshow k showmetal arnalphotography pic rockshow lieux gig arnallephotography showrock concert thrashmetal show thrash music pentax metal auvergnerhnealpes france fr,2017,9,12,21,24,1.1244300660946256,undef
+37073291292,45.729933,4.824974,53,metallica lyon heavymetal rock lyon live livepic arnaudbouvard hardrock concertlive metalshow k showmetal arnalphotography pic rockshow lieux gig arnallephotography showrock concert thrashmetal show thrash music pentax metal auvergnerhnealpes france fr,2017,9,12,21,23,1.124429383968181,undef
+37245243485,45.729933,4.824974,53,metallica lyon heavymetal rock lyon live livepic arnaudbouvard hardrock concertlive metalshow k showmetal arnalphotography pic rockshow lieux gig arnallephotography showrock concert thrashmetal show thrash music pentax metal auvergnerhnealpes france fr,2017,9,12,21,21,1.1244280197152918,undef
+36847140000,45.729933,4.824974,53,metallica lyon heavymetal rock lyon live livepic arnaudbouvard hardrock concertlive metalshow k showmetal arnalphotography pic rockshow lieux gig arnallephotography showrock concert thrashmetal show thrash music pentax metal auvergnerhnealpes france fr,2017,9,12,21,17,1.1244252912095134,undef
+36391695683,45.729925,4.825004,53, metallica,2017,9,12,23,27,1.1245139676473104,undef
+36808104770,45.729925,4.825004,53, metallica,2017,9,12,23,27,1.1245139676473104,undef
+36391685783,45.729925,4.825004,53, metallica,2017,9,12,23,27,1.1245139676473104,undef
+36391680623,45.729925,4.825004,53, metallica,2017,9,12,23,27,1.1245139676473104,undef
+37015548316,45.729925,4.825004,53, metallica,2017,9,12,23,27,1.1245139676473104,undef
+37063671261,45.729925,4.825004,53, metallica,2017,9,12,23,28,1.124514649773755,undef
+36391674513,45.729925,4.825004,53, metallica,2017,9,12,23,28,1.124514649773755,undef
+37063666811,45.729925,4.825004,53, metallica,2017,9,12,23,28,1.124514649773755,undef
+37063664741,45.729925,4.825004,53, metallica,2017,9,12,23,28,1.124514649773755,undef
+37033808532,45.729925,4.825004,53, metallica,2017,9,12,23,31,1.1245166961530888,undef
+36391663853,45.729925,4.825004,53, metallica,2017,9,12,23,31,1.1245166961530888,undef
+37063657501,45.729925,4.825004,53, metallica,2017,9,12,23,31,1.1245166961530888,undef
+36391660843,45.729925,4.825004,53, metallica,2017,9,12,23,31,1.1245166961530888,undef
+37063654721,45.729925,4.825004,53, metallica,2017,9,12,23,32,1.1245173782795337,undef
+36369045384,45.729925,4.825004,53, metallica,2017,9,12,22,32,1.124476450692858,undef
+36391780653,45.729925,4.825004,53, metallica,2017,9,12,21,36,1.1244382516119606,undef
+37015613246,45.729925,4.825004,53, metallica,2017,9,12,21,55,1.124451212014408,undef
+36391778673,45.729925,4.825004,53, metallica,2017,9,12,21,55,1.124451212014408,undef
+36391777003,45.729925,4.825004,53, metallica,2017,9,12,22,23,1.1244703115548564,undef
+36391774493,45.729925,4.825004,53, metallica,2017,9,12,22,32,1.124476450692858,undef
+37063726571,45.729925,4.825004,53, metallica,2017,9,12,22,32,1.124476450692858,undef
+36391764483,45.729925,4.825004,53, metallica,2017,9,12,22,32,1.124476450692858,undef
+37063720361,45.729925,4.825004,53, metallica,2017,9,12,22,37,1.1244798613250808,undef
+36391760253,45.729925,4.825004,53, metallica,2017,9,12,22,44,1.124484636210193,undef
+36391756753,45.729925,4.825004,53, metallica,2017,9,12,22,44,1.124484636210193,undef
+37033858192,45.729925,4.825004,53, metallica,2017,9,12,22,44,1.124484636210193,undef
+36391753263,45.729925,4.825004,53, metallica,2017,9,12,22,46,1.124486000463082,undef
+36808159010,45.729925,4.825004,53, metallica,2017,9,12,22,46,1.124486000463082,undef
+36391744353,45.729925,4.825004,53, metallica,2017,9,12,22,46,1.124486000463082,undef
+36808152770,45.729925,4.825004,53, metallica,2017,9,12,22,46,1.124486000463082,undef
+36808149500,45.729925,4.825004,53, metallica,2017,9,12,22,57,1.1244935038539727,undef
+37033838632,45.729925,4.825004,53, metallica,2017,9,12,22,57,1.1244935038539727,undef
+36808132580,45.729925,4.825004,53, metallica,2017,9,12,22,58,1.1244941859804172,undef
+36391716683,45.729925,4.825004,53, metallica,2017,9,12,23,0,1.1244955502333065,undef
+36391712593,45.729925,4.825004,53, metallica,2017,9,12,23,9,1.1245016893713078,undef
+37015561296,45.729925,4.825004,53, metallica,2017,9,12,23,10,1.1245023714977525,undef
+37015557096,45.729925,4.825004,53, metallica,2017,9,12,23,26,1.124513285520866,undef
+36391769913,45.729925,4.825004,53, metallica,2017,9,12,22,32,1.124476450692858,undef
+36391705993,45.729925,4.825004,53, metallica,2017,9,12,23,25,1.1245126033944213,undef
+44974576801,45.729933,4.824961,53,lyon game show p lyongameshow lgs septembre cosplay convention lyon halletonygarnier,2018,9,22,15,31,1.4925375555396267,undef
+44926170592,45.72983,4.82498,53,lyon game show p lyongameshow lgs septembre cosplay convention lyon halletonygarnier,2018,9,22,15,52,1.492551880194963,undef
+46966370005,45.729911,4.825063,53, ,2017,1,28,22,34,0.9015043227373554,undef

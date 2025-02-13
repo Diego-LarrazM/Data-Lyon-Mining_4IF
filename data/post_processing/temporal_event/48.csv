@@ -1,0 +1,171 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+4177056884,45.770022,4.832965,48,passage thiaffait light france festival light europe lyon rhne fte premier festivaloflights lumires er december th ftedeslumires dcembre grandlyon rhnealpes december dec december erarrondissement thdecember premierarrondissement ftedeslumires,2009,12,7,21,11,155682660.0,undef,2009-12-07 21:11:00
+4467876414,45.770213,4.832943,48,graff nelio lyon france streetart france europe lyon graff croixrousse nelio,2010,3,8,17,31,163531860.0,undef,2010-03-08 17:31:00
+4669110241,45.770176,4.83304,48,stencil lyon france blue streetart france stencil europe lyon shellfish croixrousse coquillage thiaffait,2010,5,31,17,42,170790120.0,undef,2010-05-31 17:42:00
+5395541470,45.770153,4.832981,48,jca fte lumires lyon fete lumieres,2010,12,29,19,14,189112440.0,undef,2010-12-29 19:14:00
+5293661760,45.770202,4.832949,48,lyon france streetart france wall europe heart lyon coeur passage mur croixrousse thiaffait,2010,12,15,15,35,187889700.0,undef,2010-12-15 15:35:00
+5253392727,45.770082,4.832938,48,lustre flottant france art lyon culture ftedeslumires fetedeslumieres vnement,2010,12,11,18,48,187555680.0,undef,2010-12-11 18:48:00
+5253387939,45.770082,4.832938,48,lustre flottant france art lyon culture ftedeslumires fetedeslumieres vnement,2010,12,11,18,47,187555620.0,undef,2010-12-11 18:47:00
+5247923296,45.770086,4.832975,48, france light lyon fete lumieres fetedeslumieres,2010,12,9,23,40,187400400.0,undef,2010-12-09 23:40:00
+5247319885,45.770086,4.832975,48, france light lyon fete lumieres fetedeslumieres,2010,12,9,23,39,187400340.0,undef,2010-12-09 23:39:00
+5247318687,45.770086,4.832975,48, france light lyon fete lumieres fetedeslumieres,2010,12,9,23,39,187400340.0,undef,2010-12-09 23:39:00
+5247317357,45.770086,4.832975,48, france light lyon fete lumieres fetedeslumieres,2010,12,9,23,38,187400280.0,undef,2010-12-09 23:38:00
+5247316143,45.770086,4.832975,48, france light lyon fete lumieres fetedeslumieres,2010,12,9,23,38,187400280.0,undef,2010-12-09 23:38:00
+5666479913,45.770215,4.833047,48,p ,2011,4,26,15,56,199295760.0,undef,2011-04-26 15:56:00
+5666479063,45.770214,4.833047,48,p ,2011,4,26,15,55,199295700.0,undef,2011-04-26 15:55:00
+5666478289,45.770214,4.833047,48,p ,2011,4,26,15,55,199295700.0,undef,2011-04-26 15:55:00
+5666477405,45.770214,4.833047,48,p ,2011,4,26,15,54,199295640.0,undef,2011-04-26 15:54:00
+5666476191,45.770214,4.833047,48,p ,2011,4,26,15,53,199295580.0,undef,2011-04-26 15:53:00
+6018234089,45.770235,4.832895,48,thtf ,2011,5,28,6,25,202026300.0,undef,2011-05-28 06:25:00
+6018781222,45.770235,4.832895,48,thtf ,2011,5,28,6,25,202026300.0,undef,2011-05-28 06:25:00
+6018779432,45.770235,4.832895,48,thtf ,2011,5,28,6,24,202026240.0,undef,2011-05-28 06:24:00
+6018228455,45.770235,4.832895,48,thtf ,2011,5,28,6,24,202026240.0,undef,2011-05-28 06:24:00
+6018227327,45.770235,4.832895,48,thtf ,2011,5,28,6,24,202026240.0,undef,2011-05-28 06:24:00
+6018224077,45.770235,4.832895,48,thtf ,2011,5,28,6,23,202026180.0,undef,2011-05-28 06:23:00
+6728064513,45.770224,4.832916,48,streetart lyon france streetart france painting monkey europe lyon singe croixrousse,2012,1,4,15,30,221153400.0,undef,2012-01-04 15:30:00
+6512997105,45.770243,4.83297,48,pasted paper lyon france streetart france pasteup collage paper europe lyon wheatpaste pasted croixrousse wheatpaper,2011,12,7,15,5,218732700.0,undef,2011-12-07 15:05:00
+7586567474,45.770127,4.832965,48,pasted paper alley cat lyon france streetart france pasteup collage cat paper alley europe lyon wheatpaste pasted alleycat croixrousse wheatpaper,2012,7,13,15,27,237655620.0,undef,2012-07-13 15:27:00
+8126151344,45.770082,4.832986,48,pasted paper lyon france streetart france pasteup collage paper europe lyon wheatpaste pasted croixrousse wheatpaper,2012,10,13,18,29,245615340.0,undef,2012-10-13 18:29:00
+8052773029,45.770104,4.832943,48,calme passage dbut soire ,2012,10,3,20,16,244757760.0,undef,2012-10-03 20:16:00
+8052772849,45.770104,4.832943,48,rentre parking lumineuse ,2012,10,3,20,14,244757640.0,undef,2012-10-03 20:14:00
+8052771117,45.770104,4.832943,48,passage multiple rveries rflexions ,2012,10,3,19,6,244753560.0,undef,2012-10-03 19:06:00
+8052770845,45.770104,4.832943,48,pose improvise ,2012,10,3,19,4,244753440.0,undef,2012-10-03 19:04:00
+8229961911,45.770187,4.832965,48,beth ditto pasted paper big ben lyon france streetart france pasteup collage paper big europe lyon ben beth wheatpaste pasted passage ditto croixrousse wheatpaper thiaffait,2012,11,23,16,6,249149160.0,undef,2012-11-23 16:06:00
+8414413829,45.770172,4.83305,48,installation black messenger lyon france streetart black france wall europe lyon installation messenger mur,2013,1,22,15,43,254331780.0,undef,2013-01-22 15:43:00
+8414413793,45.770187,4.832922,48,pasted paper lyon france streetart france bird pasteup collage wall paper europe lyon wheatpaste pasted mur oiseau wheatpaper,2013,1,22,15,42,254331720.0,undef,2013-01-22 15:42:00
+8583287595,45.770202,4.832965,48,pasted paper mateo lyon france streetart france pasteup collage paper europe lyon pasted mateo croixrousse wheatpaster wheatpaper,2013,3,18,16,20,259086000.0,undef,2013-03-18 16:20:00
+8576169602,45.770187,4.832965,48,street installation lyon france wood streetart france europe lyon fil installation laine croixrousse,2013,2,18,17,2,256669320.0,undef,2013-02-18 17:02:00
+8540622892,45.770232,4.832965,48,pasted paper lyon france streetart france pasteup collage paper europe lyon wheatpaste pasted z oneletter croixrousse wheatpaper,2013,2,18,17,1,256669260.0,undef,2013-02-18 17:01:00
+8659335194,45.770217,4.833008,48,streetart wtr lyon france streetart france wall europe lyon installation mur croixrousse wtr,2013,4,5,15,12,260637120.0,undef,2013-04-05 15:12:00
+8948163464,45.770254,4.832932,48,usk france lyon france lyon neocolor croquis urbansketchers,2013,6,4,12,48,265812480.0,undef,2013-06-04 12:48:00
+8948161010,45.770254,4.832932,48,usk france lyon france lyon neocolor croquis urbansketchers,2013,6,4,14,29,265818540.0,undef,2013-06-04 14:29:00
+10234572115,45.770226,4.832942,48, lyon usk,2013,6,2,0,0,265593600.0,undef,2013-06-02 00:00:00
+10234571555,45.770226,4.832942,48, lyon usk,2013,6,2,0,3,265593780.0,undef,2013-06-02 00:03:00
+9576974759,45.770127,4.832981,48,pasted paper agrume lyon france streetart france pasteup collage paper europe lyon wheatpaste pasted leche croixrousse agrume wheatpaper,2013,7,12,15,33,269105580.0,undef,2013-07-12 15:33:00
+9576974683,45.770202,4.833088,48,pasted paper mateo lyon france streetart france pasteup animal collage paper europe lyon wheatpaste pasted mateo croixrousse wheatpaper,2013,7,12,15,32,269105520.0,undef,2013-07-12 15:32:00
+9758958813,45.770128,4.83305,48,amour pola caf square squareformat brannan iphoneography instagramapp uploadedbyinstagram foursquarevenue e cbd,2013,9,15,15,4,274719840.0,undef,2013-09-15 15:04:00
+10533822523,45.770127,4.83304,48,eye contact architecture art autumn beach black blackandwhite blue bw city cloud color day europe fall fashion flower flower france friend fun garden geotagged girl green holiday house lake landscape light live love macro model nature new newyork newyorkcity night nikon nyc ocean old park people photo photography photo portrait raw red river rock sea show sky snow spring square squareformat street summer sun sunset travel tree trip urban vacation vintage water white winter woman yellow,2013,6,8,15,41,266168460.0,undef,2013-06-08 15:41:00
+12547045243,45.770202,4.8329,48,pasted paper black messenger lyon france streetart black france pasteup collage wall paper europe lyon wheatpaste pasted messenger passage mur croixrousse wheatpaper thiaffait blackmessenger,2014,1,28,16,50,286390200.0,undef,2014-01-28 16:50:00
+12547045203,45.770127,4.832986,48,pasted paper esem lyon france streetart france pasteup collage paper europe lyon wheatpaste pasted croixrousse esem wheatpaper,2014,1,28,16,50,286390200.0,undef,2014-01-28 16:50:00
+12275985074,45.770232,4.833109,48,stencil pavement lyon france streetart france stencil europe lyon pavement trottoir pochoir croixrousse,2014,1,17,16,32,285438720.0,undef,2014-01-17 16:32:00
+11806602884,45.770187,4.832949,48,pasted paper thtf lyon france streetart france pasteup collage paper europe lyon wheatpaste pasted croixrousse thtf wheatpaper,2013,12,10,16,15,282154500.0,undef,2013-12-10 16:15:00
+11475331625,45.770277,4.833055,48, ,2013,12,8,19,19,281992740.0,undef,2013-12-08 19:19:00
+11475460713,45.770277,4.833055,48, ,2013,12,8,19,18,281992680.0,undef,2013-12-08 19:18:00
+11475343964,45.770277,4.833055,48, ,2013,12,8,19,17,281992620.0,undef,2013-12-08 19:17:00
+13412731574,45.770107,4.832981,48, ,2014,3,25,22,7,291247620.0,undef,2014-03-25 22:07:00
+13928404983,45.770217,4.832981,48,pasted paper idys lyon france streetart france pasteup collage paper europe lyon wheatpaste pasted croixrousse wheatpaper idys,2014,3,28,16,59,291488340.0,undef,2014-03-28 16:59:00
+14763888009,45.770218,4.832922,48,passage thiaffait france lyon croixrousse,2014,7,16,17,53,300995580.0,undef,2014-07-16 17:53:00
+11248605364,45.770052,4.832965,48,passage thiaffait lyon rhne fte lumires,2013,12,7,2,31,281845860.0,undef,2013-12-07 02:31:00
+16430522655,45.770217,4.832981,48,pasted paper big ben lyon france streetart france pasteup collage paper big europe lyon ben wheatpaste bigben pasted croixrousse wheatpaper,2015,2,2,17,6,318359160.0,undef,2015-02-02 17:06:00
+17570917615,45.770217,4.832981,48,pasted paper moutrans lyon france streetart france pasteup collage paper europe lyon wheatpaste pasted croixrousse wheatpaper moutrans,2015,4,27,16,32,325614720.0,undef,2015-04-27 16:32:00
+17570916485,45.770217,4.832981,48,wall installation isaac cordal lyon france streetart france wall europe lyon isaac installation figurine mur beton croixrousse cordal,2015,4,27,16,31,325614660.0,undef,2015-04-27 16:31:00
+23129593515,45.770217,4.832981,48, streetart france wall graffiti europe lyon painted graff mur croixrousse,2015,11,12,17,24,342811440.0,undef,2015-11-12 17:24:00
+22680992918,45.770217,4.832981,48,pasted paper methyln lyon france streetart france pasteup collage paper europe lyon wheatpaste pasted croixrousse wheatpaper methyln,2015,11,8,16,13,342461580.0,undef,2015-11-08 16:13:00
+22374058437,45.770217,4.832981,48,stencil ephemere lyon france streetart france kid stencil europe lyon charlot chaplin pochoir croixrousse ephemere,2015,11,4,15,22,342112920.0,undef,2015-11-04 15:22:00
+22374058417,45.770217,4.832981,48,stencil ephemere lyon france streetart france stencil europe lyon pochoir croixrousse ephemere,2015,11,4,15,22,342112920.0,undef,2015-11-04 15:22:00
+15795934830,45.770015,4.832986,48,dsc x france lyon louisdespres sonya ftesdeslumirescitylightfestival fetelumiereslyon,2014,12,8,21,11,313535460.0,undef,2014-12-08 21:11:00
+25286854193,45.770217,4.832981,48,pasted paper bust drip lyon france streetart france pasteup collage paper europe lyon wheatpaste drip bust pasted croixrousse wheatpaper bustthedrip,2016,3,14,17,55,353440500.0,undef,2016-03-14 17:55:00
+25286854173,45.770217,4.832981,48,pasted paper june lyon france streetart france pasteup june collage paper europe lyon wheatpaste pasted croixrousse wheatpaper,2016,3,14,17,54,353440440.0,undef,2016-03-14 17:54:00
+25869225905,45.770217,4.832981,48,pasted paper hopare lyon france woman streetart france pasteup collage wall paper europe lyon wheatpaste pasted croixrousse wheatpaper hopare,2016,3,14,17,54,353440440.0,undef,2016-03-14 17:54:00
+26333371255,45.770217,4.832981,48,pasted paper lyon france streetart france pasteup collage paper europe lyon wheatpaste pasted croixrousse wheatpaper,2016,4,3,13,49,355153740.0,undef,2016-04-03 13:49:00
+26186275622,45.770217,4.832981,48,wall installation znl lyon france streetart france wall star europe lyon installation war mur croixrousse znl,2016,4,1,17,24,354993840.0,undef,2016-04-01 17:24:00
+26173601654,45.770261,4.832941,48,lyon graff dalexandre hopare monteiro portrait streetart art collage graffiti lyon rue mur artiste rhone papierpeint alexandrehoparemonteiro,2016,5,2,22,6,357689160.0,undef,2016-05-02 22:06:00
+27907976631,45.770217,4.832981,48,mosaic installation woup lyon france streetart france wall europe lyon mosaic installation mosaique croixrousse woup inthewoup,2016,6,20,17,7,361904820.0,undef,2016-06-20 17:07:00
+27907976771,45.770217,4.832981,48,pasted paper lyon france streetart france pasteup collage paper europe lyon wheatpaste pasted croixrousse wheatpaper,2016,6,29,17,24,362683440.0,undef,2016-06-29 17:24:00
+27372464561,45.770217,4.832981,48,sticker ghostsurfer lyon france streetart france sticker europe lyon croixrousse,2016,5,26,16,27,359742420.0,undef,2016-05-26 16:27:00
+27372464581,45.770217,4.832981,48,pasted paper lyon france streetart france pasteup collage paper europe lyon wheatpaste pasted croixrousse wheatpaper,2016,5,26,16,35,359742900.0,undef,2016-05-26 16:35:00
+27372464551,45.770217,4.832981,48,pasted paper lyon france streetart france pasteup collage paper europe lyon wheatpaste pasted croixrousse wheatpaper,2016,5,26,16,26,359742360.0,undef,2016-05-26 16:26:00
+29988797735,45.770089,4.833083,48,flirting croix rousse bleu,2016,9,27,19,51,370468260.0,undef,2016-09-27 19:51:00
+29716230693,45.770241,4.833097,48,trompeloeil fr fra,2014,10,11,15,14,308502840.0,undef,2014-10-11 15:14:00
+32844945715,45.770217,4.832981,48,sticker capie lyon france europe france lyon croixrousse streetart sticker capie,2017,2,10,15,28,382202880.0,undef,2017-02-10 15:28:00
+32595226896,45.770217,4.832981,48,pasted paper lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup,2017,1,29,17,24,381173040.0,undef,2017-01-29 17:24:00
+31617387973,45.770217,4.832981,48,wall installation lyon france europe france lyon croixrousse streetart wall installation,2017,1,18,15,40,380216400.0,undef,2017-01-18 15:40:00
+31617387923,45.770217,4.832981,48,wall installation intra larue lyon france europe france lyon croixrousse streetart wall installation intra larue intralarue,2017,1,18,0,0,380160000.0,undef,2017-01-18 00:00:00
+32804228764,45.770261,4.832941,48,lyon escaliers pentes croixrousse lyon rhone escaliers pentes croixrousse passage thiaffait personne leica q monochrome monter fatigue,2017,3,22,17,37,385666620.0,undef,2017-03-22 17:37:00
+34166119923,45.770217,4.832981,48,pasted paper adelsa lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup adelsa,2017,5,22,14,7,390924420.0,undef,2017-05-22 14:07:00
+34582925525,45.770217,4.832981,48,pasted paper adelsa lyon france europe france lyon streetart pasted paper pasteup collage wheatpaste wheatpaper adelsa,2017,5,10,16,24,389895840.0,undef,2017-05-10 16:24:00
+35452841586,45.770217,4.832981,48,pasted paper lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup spirographe,2017,6,21,19,39,393536340.0,undef,2017-06-21 19:39:00
+34395340233,45.770217,4.832981,48,stencil dav lyon france europe france lyon croixrousse streetart stencil pochoir dav trump,2017,6,9,17,37,392492220.0,undef,2017-06-09 17:37:00
+34736820890,45.770217,4.832981,48,pasted paper lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup,2017,6,5,18,33,392149980.0,undef,2017-06-05 18:33:00
+34736820860,45.770217,4.832981,48,pasted paper adelsa lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup adelsa,2017,6,5,18,32,392149920.0,undef,2017-06-05 18:32:00
+35926647825,45.770217,4.832981,48,word wall lyon france europe france lyon croixrousse streetart word mur wall baudelaire,2017,6,19,18,4,393357840.0,undef,2017-06-19 18:04:00
+34900532293,45.770187,4.833029,48, lyon er,2017,4,17,17,15,387911700.0,undef,2017-04-17 17:15:00
+35569159231,45.770217,4.832981,48,pasted paper adelsa lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup adelsa noireaude,2017,7,3,18,37,394569420.0,undef,2017-07-03 18:37:00
+36694710046,45.770217,4.832981,48,pasted paper abd lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup abd,2017,8,7,18,7,397591620.0,undef,2017-08-07 18:07:00
+36694709976,45.770217,4.832981,48,pasted paper lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup,2017,8,7,18,6,397591560.0,undef,2017-08-07 18:06:00
+36497658781,45.770217,4.832981,48,pasted paper abd lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup abd,2017,8,7,18,22,397592520.0,undef,2017-08-07 18:22:00
+23488325958,45.770217,4.832981,48,pasted paper adelsa lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup adelsa,2017,9,24,17,13,401735580.0,undef,2017-09-24 17:13:00
+23488325828,45.770217,4.832981,48,pasted paper adelsa lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup adelsa,2017,9,24,17,4,401735040.0,undef,2017-09-24 17:04:00
+23488325918,45.770217,4.832981,48,pasted paper adelsa lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup adelsa,2017,9,24,17,4,401735040.0,undef,2017-09-24 17:04:00
+36646712613,45.770217,4.832981,48,pasted paper malo chico lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup malo chico malochico,2017,9,24,17,11,401735460.0,undef,2017-09-24 17:11:00
+36150986184,45.770217,4.832981,48,wall adelsa lyon france europe france lyon croixrousse streetart adelsa,2017,9,1,18,29,399752940.0,undef,2017-09-01 18:29:00
+36150986174,45.770217,4.832981,48,stencil adelsa lyon france europe france lyon croixrousse streetart adelsa stencil pochoir,2017,9,1,18,28,399752880.0,undef,2017-09-01 18:28:00
+38677006562,45.770217,4.832981,48,stencil adelsa lyon france europe france lyon croixrousse streetart stencil pochoir adelsa,2017,11,15,17,17,406228620.0,undef,2017-11-15 17:17:00
+38521781841,45.770089,4.83305,48, lyon nuit night bw nb,2017,11,18,21,35,406503300.0,undef,2017-11-18 21:35:00
+38296239161,45.770217,4.832981,48,stencil adelsa lyon france europe france lyon croixrousse streetart stencil pochoir adelsa,2017,11,1,16,57,405017820.0,undef,2017-11-01 16:57:00
+37486085004,45.770217,4.832981,48,stencil adelsa lyon france europe france lyon croixrousse streetart stencil pochoir adelsa,2017,11,1,16,56,405017760.0,undef,2017-11-01 16:56:00
+38139102842,45.770217,4.832981,48,stencil adelsa lyon france europe france lyon croixrousse streetart stencil adelsa pochoir,2017,11,1,16,48,405017280.0,undef,2017-11-01 16:48:00
+38139102872,45.770217,4.832981,48,pasted paper cap phi omalley lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup cap phi capphi omalley,2017,11,1,16,55,405017700.0,undef,2017-11-01 16:55:00
+38051761902,45.770149,4.833029,48,fuck earth trump analog film mm ilford olympus street,2017,10,27,8,39,404555940.0,undef,2017-10-27 08:39:00
+27861643149,45.770217,4.832981,48,pasted paper abd lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup abd,2017,12,29,14,20,410019600.0,undef,2017-12-29 14:20:00
+27861643019,45.770217,4.832981,48,pasted paper abd lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup abd,2017,12,29,14,18,410019480.0,undef,2017-12-29 14:18:00
+27861643069,45.770217,4.832981,48,pasted paper abd lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup abd,2017,12,29,14,19,410019540.0,undef,2017-12-29 14:19:00
+38707789925,45.770217,4.832981,48,stencil adelsa lyon france europe france lyon croixrousse streetart stencil pochoir adelsa dura,2017,12,18,16,39,409077540.0,undef,2017-12-18 16:39:00
+38707789975,45.770217,4.832981,48,pasted paper abd lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup abd,2017,12,29,14,18,410019480.0,undef,2017-12-29 14:18:00
+39555082892,45.770217,4.832981,48,pasted paper abd lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup abd,2017,12,29,14,21,410019660.0,undef,2017-12-29 14:21:00
+24697892087,45.770217,4.832981,48,stencil adelsa lyon france europe france lyon croixrousse streetart stencil pochoir adelsa,2017,12,18,16,39,409077540.0,undef,2017-12-18 16:39:00
+39070753891,45.770187,4.8329,48,dsc drv herzenfrsigrid heart herz coeur cuore sigrid photographiecontemporaine photo photographie photography photograffik photographieurbaine photographiedigitale photographienumrique nikon aurora aurorahdr digikam digikamusers pascalreyphotographies streetart urbanart arturbain tag graffiti graffs graffiti graffik wall wallpaintings walldrawings peinturesmurales peinturesurbaines murs murales muros,2017,12,4,12,9,407851740.0,undef,2017-12-04 12:09:00
+39040726072,45.770187,4.8329,48,passage thiaffait dsc drv lyon lugdunum aurora aurorahdr nikon digikam digikamusers photographiecontemporaine photo photographie photography photograffik photographieurbaine photographiedigitale photographienumrique streetart streetphotography street inthestreets strasse via rue calle murs wall wallpaintings walldrawings peinturesmurales peinturesurbaines tag graffiti graffs graffiti graffik,2017,12,4,12,11,407851860.0,undef,2017-12-04 12:11:00
+27188744628,45.770217,4.832981,48,stencil adelsa lyon france europe france lyon croixrousse streetart stencil pochoir adelsa,2018,3,17,17,17,416769420.0,undef,2018-03-17 17:17:00
+40866043085,45.770217,4.832981,48,pasted paper tho lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup tho,2018,4,9,16,28,418753680.0,undef,2018-04-09 16:28:00
+41592507212,45.770217,4.832981,48,pasted paper lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup,2018,3,21,0,0,417052800.0,undef,2018-03-21 00:00:00
+41629107944,45.770217,4.832981,48,pasted paper ghappix lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup ghappix,2018,5,6,19,14,421096440.0,undef,2018-05-06 19:14:00
+41586002154,45.770217,4.832981,48,pasted paper adelsa lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup adelsa,2018,5,6,19,13,421096380.0,undef,2018-05-06 19:13:00
+43095091971,45.770217,4.832981,48,pasted paper lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup,2018,6,18,17,43,424806180.0,undef,2018-06-18 17:43:00
+41980795654,45.770217,4.832981,48,drawing wall prolo lyon france europe france lyon croixrousse streetart drawing wall prolo,2018,6,3,18,57,423514620.0,undef,2018-06-03 18:57:00
+41980795694,45.770217,4.832981,48,adelsa lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup adelsa,2018,6,3,18,58,423514680.0,undef,2018-06-03 18:58:00
+42577150572,45.770217,4.832981,48,stencil chicky lyon france europe france lyon croixrousse streetart stencil pochoir chicky,2018,5,25,16,55,422729700.0,undef,2018-05-25 16:55:00
+42577150502,45.770217,4.832981,48,pasted paper adelsa lyon france europe france lyon croixrousse streetart adelsa madame pasted paper pastedup collage wheatpaste wheatpaper,2018,5,25,16,53,422729580.0,undef,2018-05-25 16:53:00
+27673360597,45.770217,4.832981,48,pasted paper syer lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup syer suyer,2018,5,13,18,48,421699680.0,undef,2018-05-13 18:48:00
+29582060647,45.770217,4.832981,48,wall installation prolo lyon france europe france lyon croixrousse streetart wall mur installation ada lovelace prolo,2018,8,19,19,39,430169940.0,undef,2018-08-19 19:39:00
+43716526024,45.770217,4.832981,48,pasted paper big mask lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup,2018,8,18,18,21,430078860.0,undef,2018-08-18 18:21:00
+30615455677,45.770239,4.832965,48,pasted paper lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup,2018,10,22,16,53,435689580.0,undef,2018-10-22 16:53:00
+44815615534,45.770239,4.832965,48,wall tinou lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup tinou,2018,10,22,16,53,435689580.0,undef,2018-10-22 16:53:00
+44815615494,45.770239,4.832965,48,pasted paper casa lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup decasa casa,2018,10,22,16,48,435689280.0,undef,2018-10-22 16:48:00
+44815615554,45.770239,4.832965,48,word wall ak lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup word ak,2018,10,22,16,54,435689640.0,undef,2018-10-22 16:54:00
+30146837637,45.770239,4.832965,48,pasted paper chimerdes lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup chimerdes,2018,9,28,18,2,433620120.0,undef,2018-09-28 18:02:00
+32134208038,45.770239,4.832965,48,pasted paper casa lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup casa,2018,11,10,14,21,437322060.0,undef,2018-11-10 14:21:00
+46212075175,45.770209,4.832986,48,lyon passage thiaffait mur peint mural fresque murale trompeloeil lyon,2018,10,10,15,14,434646840.0,undef,2018-10-10 15:14:00
+33250749028,45.770209,4.832986,48,lyon passage thiaffait mur peint mural fresque murale trompeloeil lyon,2018,10,10,15,15,434646900.0,undef,2018-10-10 15:15:00
+39827934953,45.770239,4.832965,48,pasted paper opaf lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup opaf,2019,1,13,16,36,442859760.0,undef,2019-01-13 16:36:00
+39827934933,45.770239,4.832965,48,wall installation spirale art x zorm lyon france europe france lyon croixrousse streetart wall mur installation spirale art zorm,2019,1,13,16,35,442859700.0,undef,2019-01-13 16:35:00
+46532108151,45.770048,4.833035,48,lyon mannequin vitrine lyon rhone vitrine magasin mannequin,2018,12,30,16,51,441651060.0,undef,2018-12-30 16:51:00
+45649353194,45.770239,4.832965,48,pasted paper cap phi lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup cap phi capphi,2018,12,16,16,14,440439240.0,undef,2018-12-16 16:14:00
+46317381761,45.770239,4.832965,48,pasted paper webix lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup webix,2018,12,9,15,35,439832100.0,undef,2018-12-09 15:35:00
+46317381741,45.770239,4.832965,48,stencil adelsa mado lyon france europe france lyon croixrousse streetart stencil pochoir mado adelsa,2018,12,9,15,35,439832100.0,undef,2018-12-09 15:35:00
+32349171518,45.770239,4.832965,48,pasted paper adelsa lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup adelsa,2018,11,19,16,3,438105780.0,undef,2018-11-19 16:03:00
+46721120964,45.770239,4.832965,48,pasted paper heho x casa lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup heho helloo honey decase casa,2019,2,17,16,25,445883100.0,undef,2019-02-17 16:25:00
+46721120994,45.770239,4.832965,48,pasted paper color life lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup color life,2019,2,17,16,27,445883220.0,undef,2019-02-17 16:27:00
+32783274147,45.770239,4.832965,48,pasted paper chimerdes lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup chimerdes,2019,3,30,16,21,449425260.0,undef,2019-03-30 16:21:00
+46928033875,45.770239,4.832965,48,pasted paper adelsa lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup adelsa,2019,4,28,17,27,451934820.0,undef,2019-04-28 17:27:00
+32892071047,45.770239,4.832965,48,adelsa lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup adelsa jean rochefort,2019,4,28,17,23,451934580.0,undef,2019-04-28 17:23:00
+33936488368,45.770239,4.832965,48,pasted paper nigoull lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup nigoull,2019,4,12,16,3,450547380.0,undef,2019-04-12 16:03:00
+48110268868,45.770239,4.832965,48,pasted paper barclay lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup barclay,2019,6,16,19,4,456174240.0,undef,2019-06-16 19:04:00
+48110222731,45.770239,4.832965,48,pasted paper toto lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup toto charlie,2019,6,16,19,3,456174180.0,undef,2019-06-16 19:03:00
+48110222656,45.770239,4.832965,48,pasted paper barclay lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup barclay,2019,6,16,19,2,456174120.0,undef,2019-06-16 19:02:00
+48587180216,45.770239,4.832965,48,pasted paper nite owl lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup nite owl,2019,7,10,17,51,458243460.0,undef,2019-07-10 17:51:00
+48587319392,45.770239,4.832965,48,pasted paper heho lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup heho,2019,6,30,19,18,457384680.0,undef,2019-06-30 19:18:00
+48579249126,45.770239,4.832965,48,pasted paper seint lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup seint,2019,7,10,17,49,458243340.0,undef,2019-07-10 17:49:00
+48579395002,45.770239,4.832965,48,wall installation adelsa lyon france europe france lyon croixrousse streetart wall mur installation adelsa,2019,7,10,17,47,458243220.0,undef,2019-07-10 17:47:00
+48810317068,45.770239,4.832965,48,pasted paper krap lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup krapcrap krap,2019,8,18,19,2,461617320.0,undef,2019-08-18 19:02:00
+48800384281,45.770239,4.832965,48,pasted paper marquise lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup marquise,2019,8,11,19,19,461013540.0,undef,2019-08-11 19:19:00
+48784202321,45.770239,4.832965,48,pasted paper polka lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup polka,2019,8,11,19,33,461014380.0,undef,2019-08-11 19:33:00
+48784202286,45.770239,4.832965,48,pasted paper line street x rang dhonneur lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup line street lerangdhonneur rang dhonneur,2019,8,11,19,0,461012400.0,undef,2019-08-11 19:00:00
+48976996898,45.770239,4.832965,48,pasted paper spider barclay lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup spider barclay,2019,9,15,18,42,464035320.0,undef,2019-09-15 18:42:00
+48977553426,45.770239,4.832965,48,pasted paper lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup,2019,9,15,18,41,464035260.0,undef,2019-09-15 18:41:00
+48893651647,45.770239,4.832965,48,pasted paper maudite marde lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup maudite marde,2019,9,6,16,40,463250400.0,undef,2019-09-06 16:40:00
+48892936198,45.770239,4.832965,48,pasted paper lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup,2019,9,6,16,59,463251540.0,undef,2019-09-06 16:59:00
+48882202118,45.770239,4.832965,48,pasted paper toto lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup toto,2019,9,4,18,26,463083960.0,undef,2019-09-04 18:26:00
+48848664208,45.770239,4.832965,48,pasted paper marquise line street lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup marquise line street,2019,8,19,18,48,461702880.0,undef,2019-08-19 18:48:00
+48829012046,45.770239,4.832965,48,pasted paper marquise lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup marquise,2019,8,18,19,33,461619180.0,undef,2019-08-18 19:33:00
+48829012101,45.770239,4.832965,48,pasted paper line street lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup line street,2019,8,18,19,33,461619180.0,undef,2019-08-18 19:33:00

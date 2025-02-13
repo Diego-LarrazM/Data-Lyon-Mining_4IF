@@ -1,0 +1,62 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+16212186956,45.732875,4.818577,289,lift ,2015,1,4,13,18,315839880.0,undef,2015-01-04 13:18:00
+15968724240,45.733036,4.818677,289,matt ,2014,12,30,15,50,315417000.0,undef,2014-12-30 15:50:00
+16156035505,45.73305,4.818602,289,stair st bw wopo ,2014,12,30,15,38,315416280.0,undef,2014-12-30 15:38:00
+22374365271,45.732987,4.818631,289, back future delorean vers futur retour,2015,10,21,13,19,340895940.0,undef,2015-10-21 13:19:00
+22374355761,45.732987,4.818631,289, back future delorean vers futur hoverboard retour,2015,10,21,13,23,340896180.0,undef,2015-10-21 13:23:00
+22176796099,45.732987,4.818631,289, back future delorean vers futur hoverboard retour,2015,10,21,13,24,340896240.0,undef,2015-10-21 13:24:00
+22175645280,45.732987,4.818631,289, back future delorean vers futur retour,2015,10,21,13,20,340896000.0,undef,2015-10-21 13:20:00
+21742566763,45.732987,4.818631,289, back future delorean vers futur retour,2015,10,21,13,20,340896000.0,undef,2015-10-21 13:20:00
+22175931188,45.732987,4.818631,289, back future delorean vers futur retour,2015,10,21,13,19,340895940.0,undef,2015-10-21 13:19:00
+22350585692,45.732987,4.818631,289, back future delorean vers futur retour,2015,10,21,13,19,340895940.0,undef,2015-10-21 13:19:00
+22175925298,45.732987,4.818631,289, back future delorean vers futur retour,2015,10,21,13,22,340896120.0,undef,2015-10-21 13:22:00
+22175634620,45.732987,4.818631,289, back future delorean vers futur retour,2015,10,21,13,22,340896120.0,undef,2015-10-21 13:22:00
+22363666995,45.732987,4.818631,289, back future delorean vers futur hoverboard retour,2015,10,21,13,23,340896180.0,undef,2015-10-21 13:23:00
+22337633376,45.732987,4.818631,289, back future delorean vers futur hoverboard retour,2015,10,21,13,23,340896180.0,undef,2015-10-21 13:23:00
+21742549023,45.732987,4.818631,289, back future delorean vers futur retour,2015,10,21,13,25,340896300.0,undef,2015-10-21 13:25:00
+22337626156,45.732987,4.818631,289, back future delorean vers futur retour,2015,10,21,13,26,340896360.0,undef,2015-10-21 13:26:00
+22374349541,45.732987,4.818631,289, back future delorean vers futur retour,2015,10,21,13,29,340896540.0,undef,2015-10-21 13:29:00
+27116147344,45.733047,4.818599,289,rflexion architecture cloud nuages reflets confluence rflexion musedesconfluences,2016,6,17,11,37,361625820.0,undef,2016-06-17 11:37:00
+27118182733,45.733047,4.818599,289,rflexion architecture cloud nuages reflets confluence rflexion musedesconfluences,2016,6,17,11,24,361625040.0,undef,2016-06-17 11:24:00
+28926107924,45.733055,4.818611,289,muse confluence ,2016,9,4,17,6,368471160.0,undef,2016-09-04 17:06:00
+35720403025,45.732869,4.818663,289, ,2017,7,4,20,22,394662120.0,undef,2017-07-04 20:22:00
+37665792212,45.732994,4.818652,289, lyon auvergnerhnealpes france fr,2017,10,7,13,12,402844320.0,undef,2017-10-07 13:12:00
+37665789802,45.73298,4.818569,289, lyon auvergnerhnealpes france fr,2017,10,7,13,15,402844500.0,undef,2017-10-07 13:15:00
+27853445719,45.732972,4.818597,289, ,2017,12,28,14,37,409934220.0,undef,2017-12-28 14:37:00
+38734473235,45.732963,4.818572,289, ,2017,12,28,14,37,409934220.0,undef,2017-12-28 14:37:00
+39621651281,45.733002,4.818616,289, ,2017,12,28,12,46,409927560.0,undef,2017-12-28 12:46:00
+42573779134,45.732875,4.818577,289,muse confluence presqule confluence lyon auvergnerhnealpes france france auvergnerhnealpes claudelina lyon ville city town architecture muse museum musedesconfluences coophimmelbl,2018,5,24,14,31,422634660.0,undef,2018-05-24 14:31:00
+43822384571,45.733055,4.818611,289,lyon muse confluence ,2018,8,2,21,40,428708400.0,undef,2018-08-02 21:40:00
+28873346477,45.733055,4.818611,289,lyon pont raymond barre lyon musedesconfluences,2018,8,2,21,38,428708280.0,undef,2018-08-02 21:38:00
+31109957557,45.732897,4.818577,289,confluence rencontres lyon muse musum musedesconfluences architecture architecturecontemporaine anthropologie science connaissance noiretblanc confluence rhne sane cloud silhouette,2018,10,16,8,50,435142200.0,undef,2018-10-16 08:50:00
+47015790514,45.732987,4.818631,289, lyon confluence muse,2019,4,14,15,54,450719640.0,undef,2019-04-14 15:54:00
+47015790584,45.732987,4.818631,289, lyon confluence muse,2019,4,14,15,53,450719580.0,undef,2019-04-14 15:53:00
+32861498007,45.732987,4.818631,289, lyon confluence muse,2019,4,14,15,55,450719700.0,undef,2019-04-14 15:55:00
+48553202067,45.732908,4.818622,289,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso nik dxopl frankrijk franrijk jossaris jossarisfoto lr lyon nik rhne,2019,7,27,14,42,459700920.0,undef,2019-07-27 14:42:00
+48553201717,45.732977,4.81865,289,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso nik dxopl frankrijk franrijk jossaris jossarisfoto lr lyon nik rhne,2019,7,27,15,41,459704460.0,undef,2019-07-27 15:41:00
+48536500986,45.732938,4.818658,289,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,14,37,459700620.0,undef,2019-07-27 14:37:00
+48536500911,45.732913,4.818613,289,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,14,38,459700680.0,undef,2019-07-27 14:38:00
+48536648077,45.732908,4.818622,289,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,14,42,459700920.0,undef,2019-07-27 14:42:00
+48536500496,45.732891,4.81858,289,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,14,43,459700980.0,undef,2019-07-27 14:43:00
+48536647867,45.732891,4.81858,289,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,14,43,459700980.0,undef,2019-07-27 14:43:00
+48536647692,45.732894,4.818572,289,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,14,44,459701040.0,undef,2019-07-27 14:44:00
+48536647577,45.732908,4.818613,289,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,14,44,459701040.0,undef,2019-07-27 14:44:00
+48536499511,45.732911,4.818661,289,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,14,49,459701340.0,undef,2019-07-27 14:49:00
+48536499576,45.732902,4.8186,289,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,14,47,459701220.0,undef,2019-07-27 14:47:00
+48536645262,45.732977,4.81865,289,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,15,41,459704460.0,undef,2019-07-27 15:41:00
+48536497551,45.732813,4.818616,289,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,15,42,459704520.0,undef,2019-07-27 15:42:00
+48536645002,45.732822,4.818602,289,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,15,42,459704520.0,undef,2019-07-27 15:42:00
+48536644062,45.732808,4.818575,289,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,15,48,459704880.0,undef,2019-07-27 15:48:00
+48472848452,45.732938,4.818658,289,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,14,37,459700620.0,undef,2019-07-27 14:37:00
+48472702966,45.732913,4.818613,289,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,14,38,459700680.0,undef,2019-07-27 14:38:00
+48472702266,45.732908,4.818622,289,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,14,42,459700920.0,undef,2019-07-27 14:42:00
+48472702061,45.732891,4.81858,289,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,14,43,459700980.0,undef,2019-07-27 14:43:00
+48472701856,45.732891,4.81858,289,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,14,43,459700980.0,undef,2019-07-27 14:43:00
+48472701381,45.732894,4.818572,289,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,14,44,459701040.0,undef,2019-07-27 14:44:00
+48472846632,45.732908,4.818613,289,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,14,44,459701040.0,undef,2019-07-27 14:44:00
+48472700146,45.732902,4.8186,289,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,14,47,459701220.0,undef,2019-07-27 14:47:00
+48472699976,45.732911,4.818661,289,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,14,49,459701340.0,undef,2019-07-27 14:49:00
+48472842602,45.732977,4.81865,289,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,15,41,459704460.0,undef,2019-07-27 15:41:00
+48472842407,45.732813,4.818616,289,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,15,42,459704520.0,undef,2019-07-27 15:42:00
+48472696696,45.732822,4.818602,289,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,15,42,459704520.0,undef,2019-07-27 15:42:00
+48472841097,45.732808,4.818575,289,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,15,48,459704880.0,undef,2019-07-27 15:48:00

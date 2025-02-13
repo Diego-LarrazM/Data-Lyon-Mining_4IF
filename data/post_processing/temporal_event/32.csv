@@ -1,0 +1,117 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4227221405,45.768226,4.836666,32,fte lumires lyon blue light night fance illumination panasonic bleu nuit staires cembre,2009,12,6,23,48,-1.662149229262143,undef
+4215250050,45.768301,4.836752,32,place louis pradel blue color night place lyon illumination pluie bleu fte couleur raine lumires pradel,2009,12,6,23,44,-1.6621519577679214,undef
+4181857500,45.768267,4.836666,32, france frankreich europe lyon nightshots dnuc,2009,11,17,22,32,-1.6808640503959824,undef
+4174453813,45.768286,4.836773,32, ,2009,12,7,22,0,-1.6612406368379458,undef
+4175207968,45.768286,4.836773,32, ,2009,12,7,21,59,-1.6612413189643904,undef
+4174448223,45.768286,4.836773,32, ,2009,12,7,21,58,-1.6612420010908349,undef
+4174446329,45.768286,4.836773,32, ,2009,12,7,21,58,-1.6612420010908349,undef
+4171841741,45.768211,4.836795,32,louis pradel fleuri lyon fete lumiere eclairage decembre fetelumiere evenement lugdunum sanggi fetelumieres,2009,12,7,22,5,-1.661237226205723,undef
+4663487290,45.768233,4.836752,32,place luis pradel bw france architecture lyon lione city francia architettura biancoenero urbanlandscapes paesaggiurbani,2010,5,15,17,40,-1.5052383189596443,undef
+4755266261,45.768301,4.836752,32,fte lumires flower light lyon celebration lumieres ftedeslumires terreaux louispradel,2009,12,5,19,33,-1.6633054335857271,undef
+4751199161,45.768312,4.836693,32,lyon ,2010,6,26,18,24,-1.4639532980271286,undef
+4751191903,45.768331,4.836693,32,bridal shower enterrement vie jeune fille cute,2010,6,26,18,41,-1.4639417018775709,undef
+5067626275,45.768252,4.83672,32,flower lyon nuit fetedeslumieres,2009,12,6,18,7,-1.662381834379749,undef
+4162536782,45.768136,4.836741,32,fleurs lyon fetedeslumires,2009,12,5,0,30,-1.6640851041118965,undef
+4161774873,45.768099,4.836763,32,fleurs lyon fetedeslumires,2009,12,5,0,25,-1.6640885147441191,undef
+5458923992,45.768316,4.836795,32,dsc jpg france europe lyon lieux rhne,2011,2,13,13,7,-1.236284729500607,undef
+5248054170,45.768301,4.83672,32,rouge light festival hotel opera lyon illumination fete lumiere ville morel lumires sibylle siby,2009,12,10,0,26,-1.6591765222166088,undef
+5248052086,45.768301,4.83672,32,yellow light festival lyon illumination fete lumiere morel lumires sibylle siby,2009,12,10,0,23,-1.6591785685959426,undef
+5518321093,45.768368,4.836827,32,lumignon odyssey light night purple lyon ground ftedeslumires lumignon frigno placelouispradel,2010,12,9,19,40,-1.300845951101952,undef
+5503201683,45.768204,4.836795,32,watching waiting france skateboarding lyon,2011,2,4,16,28,-1.2449879808071624,undef
+5772580754,45.768293,4.836752,32,place louispradel lyon france city urban sculpture france fountain architecture modern place lyon moderne fontaine ville urbain presqule louispradel,2010,7,21,13,38,-1.4395918341849527,undef
+5684509213,45.768353,4.836645,32,frozen ,2011,4,15,2,14,-1.176812171175922,undef
+5685070992,45.768353,4.836645,32,relaxing ,2011,4,15,2,12,-1.176813535428811,undef
+7422422916,45.768166,4.836833,32,lyon france lyon rhonealpes,2012,6,22,13,56,-0.7500315755992981,undef
+7561915788,45.768263,4.836795,32,another nice mix sculpture old architecture square squareformat hefe iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2012,7,13,15,59,-0.7293201703621365,undef
+7550820578,45.768263,4.836795,32,amazing sculpture patineur sculptor csar square squareformat hudson iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2012,7,11,19,25,-0.7311441764749768,undef
+6481655541,45.768218,4.836773,32,fte lumires lyon france lyon fte lumires,2011,12,8,17,31,-0.943390548215707,undef
+8472324485,45.768263,4.836795,32,upload square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,2,14,2,44,-0.5176938515595407,undef
+9220442367,45.768264,4.836795,32, placelouispradel uploadedbyflickrmobile flickriosappfilterpanda pandafilter,2013,7,6,13,59,-0.3777522008191693,undef
+9641003084,45.768263,4.836795,32,gnie ready go gnie prt partir square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,8,31,14,59,-0.3227045967405557,undef
+9640969068,45.768263,4.836795,32,rest time temp repos square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,8,31,14,53,-0.3227086894992232,undef
+9637719399,45.768263,4.836795,32,upload square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,8,31,14,51,-0.3227100537521125,undef
+9444676494,45.768391,4.83673,32,angela statue louise lab sculpture statue lyon angela stmay ipoustguy placelouispradel louiselab jeanrobertipoustguy,2013,5,1,11,41,-0.4426756315625929,undef
+9444666180,45.768391,4.83673,32,statue louise lab sculpture statue lyon stmay ipoustguy placelouispradel louiselab jeanrobertipoustguy,2013,5,1,11,41,-0.4426756315625929,undef
+10022670746,45.768263,4.836795,32,nice sunset joli coucher soleil square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,9,30,9,51,-0.2934468292790948,undef
+9914501693,45.768263,4.836795,32,gorgeous day superbe journe square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,9,24,4,52,-0.2995443575673071,undef
+9897958075,45.768263,4.836795,32,upload valencia square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,9,23,7,53,-0.300403154761049,undef
+9728173386,45.768263,4.836795,32,upload square squareformat inkwell iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,9,11,14,43,-0.3119106278813242,undef
+9726824388,45.768263,4.836795,32,gnie gnie square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,9,11,10,44,-0.3120736561015818,undef
+9643878176,45.768263,4.836795,32,gnie running gnie forme valencia square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,9,1,0,42,-0.3223069170233583,undef
+9643818294,45.768263,4.836795,32,upload square squareformat walden iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,9,1,0,30,-0.3223151025406934,undef
+10446690195,45.768263,4.836795,32,good evening friend bonsoir amis lyon night gnie fall france saxotaz square squareformat hudson iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,10,23,13,52,-0.2706904089610449,undef
+10357677306,45.768263,4.836795,32,good morning friend bonjour amis lyon morning fall france valencia square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,10,19,0,38,-0.2751610656789041,undef
+10314422353,45.768263,4.836795,32,program programme lyon night film lumire festival valencia square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,10,16,10,52,-0.2776890262825638,undef
+10314228105,45.768263,4.836795,32,theyre showing first movie montrent premier film lyon night film lumire valencia square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,10,16,10,50,-0.277690390535453,undef
+10300503093,45.768263,4.836795,32,raining pluie encore lyon night fall rain square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,10,15,16,27,-0.2784427760038385,undef
+10264734783,45.768263,4.836795,32,nice superbe lyon morning fall square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,10,14,0,37,-0.2800730582064145,undef
+10257438065,45.768263,4.836795,32,lyon night square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,10,13,16,15,-0.2804154856816,undef
+10185893613,45.768263,4.836795,32,upload square squareformat hudson iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,10,10,3,28,-0.2838854629052419,undef
+10095661454,45.768263,4.836795,32,upload square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,10,5,0,14,-0.2889291058365588,undef
+10077640055,45.768263,4.836795,32,upload square squareformat brannan iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,10,3,18,15,-0.2901562513103807,undef
+10073615886,45.768263,4.836795,32,upload square sierra squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,10,3,12,2,-0.2904106844742137,undef
+11110492056,45.768263,4.836795,32,upload square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,11,28,18,49,-0.2351263825193265,undef
+11105704813,45.768263,4.836795,32,upload square squareformat hudson iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,11,28,11,34,-0.2354231075227242,undef
+11069467116,45.768263,4.836795,32,lyon evening art architecture historic sky beauty place louis pradel saxotaz fall france picoftheday followme square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,11,26,8,13,-0.2375247390985136,undef
+12795752785,45.768263,4.836795,32,upload square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2014,2,26,8,34,-0.1471423030635647,undef
+12769252945,45.768263,4.836795,32,upload square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2014,2,25,4,47,-0.1482794078467004,undef
+12696692853,45.768263,4.836795,32,upload square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2014,2,22,6,32,-0.1511545708106577,undef
+12636789794,45.768263,4.836795,32,nature beauty beaut nature valencia square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2014,2,19,7,32,-0.1540604294646217,undef
+12420015545,45.768263,4.836795,32,upload square lofi squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2014,2,9,14,44,-0.1635883716426895,undef
+12089646984,45.768301,4.83673,32,zzlyon lyon kodak halfframe argentique lla demiformat chaka laurentlopez,2014,1,19,14,27,-0.1842274714767244,undef
+11876274645,45.768263,4.836795,32,upload square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue f b e fa fc ac,2014,1,10,12,55,-0.1931305858315455,undef
+11711229706,45.768263,4.836795,32,stunning superbe square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue f b e fa fc ac,2014,1,2,7,59,-0.2011905919008503,undef
+13888189821,45.768166,4.836767,32,gnie enjoying grass gnie donne fond lherbe square squareformat rise iphoneography instagramapp uploadedbyinstagram,2014,4,17,7,8,-0.0980878619271407,undef
+15146181477,45.768256,4.836623,32,playing light travel photomatixpro rawhdr simplysuperb cityandarchitecture prodigitalstarfilter,2011,9,29,20,28,-1.0120281574499368,undef
+15317399929,45.768218,4.836634,32,transfer skateboarding lyon transfer,2014,10,3,15,31,0.0682575392305166,undef
+11454309735,45.768263,4.836795,32,upload square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,12,19,11,19,-0.2148058357349163,undef
+11386924493,45.768263,4.836795,32,upload square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,12,15,9,17,-0.2188181034820093,undef
+11355855673,45.768263,4.836795,32,brrr cold dieu quil fait froid lyon night weekend relaxing place louispradel light instaweather android freezing saxotaz fall humor france picoftheday instagood followme square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,12,13,9,55,-0.2207567068375412,undef
+11353864513,45.768263,4.836795,32,upload square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,12,13,7,8,-0.2208706219537881,undef
+11346894174,45.768263,4.836795,32,upload square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,12,12,18,34,-0.2213849452930108,undef
+11330545696,45.768297,4.836666,32,lph sunset france lyon,2013,12,7,16,53,-0.2263651504649806,undef
+11330631503,45.768297,4.836666,32,lph sunset france lyon,2013,12,7,16,54,-0.226364468338536,undef
+11330631413,45.768297,4.836666,32,lph people france lyon,2013,12,7,16,50,-0.2263671968443144,undef
+11330545016,45.768297,4.836666,32,lph people france lyon,2013,12,7,16,50,-0.2263671968443144,undef
+11264843243,45.768263,4.836795,32,upload square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,12,7,22,44,-0.2261257240829286,undef
+11237920643,45.768188,4.836794,32,fte lumires ,2013,12,5,21,33,-0.228138679220921,undef
+11224640556,45.768263,4.836795,32,light festival preview rptition gnrale fte lumires lyon night relaxing gnie place louispradel light festival ftedeslumires preview ilovelyon proud tobe alyonnais saxotaz fall france picofthe square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,12,5,10,11,-0.2286038894561331,undef
+11218028543,45.768263,4.836795,32,goood morning friend follower bonjour amis likers lyon morning art architecture historic opra national instaweather saxotaz fall france picoftheday instagood followme square squareformat hudson iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e fa fc ac,2013,12,4,23,50,-0.229027489978225,undef
+16233010124,45.768301,4.83673,32, france night europa europe lyon sigma olympus rhne nuit lla stphotographia olympusep laurentlopez,2014,12,6,22,47,0.1314197194940024,undef
+16654496600,45.768301,4.83673,32, france night europa europe lyon sigma olympus rhne nuit lla micro olympusep laurentlopez,2014,12,6,22,47,0.1314197194940024,undef
+16805112066,45.768301,4.83673,32,p france night lumix europa europe lyon rhne panasonic pancake nuit lla micro laurentlopez,2014,12,6,21,52,0.1313822025395498,undef
+16795400176,45.768301,4.83673,32,p france night lumix europa europe lyon rhne panasonic pancake nuit lla stphotographia laurentlopez,2014,12,6,21,52,0.1313822025395498,undef
+17830012423,45.768244,4.836713,32,lione ,2015,6,2,22,17,0.3062419059786105,undef
+19881345526,45.768297,4.836666,32,lyj france lyon,2015,7,12,11,50,0.3451046959063782,undef
+19900043682,45.768297,4.836666,32,lyj sculpture france lyon,2015,7,12,11,50,0.3451046959063782,undef
+19881344546,45.768297,4.836666,32,lyj france lyon,2015,7,12,11,49,0.3451040137799336,undef
+19284935404,45.768297,4.836666,32,lyj france lyon,2015,7,12,11,50,0.3451046959063782,undef
+18773138123,45.768327,4.836691,32,mosaico lione lyon lione motivi,2015,6,1,13,0,0.3048796994687593,undef
+15976399942,45.768233,4.836688,32,p ,2014,12,7,21,54,0.1323658288726522,undef
+15791332977,45.768233,4.836688,32,p ,2014,12,7,21,55,0.1323665109990968,undef
+15975076211,45.768233,4.836688,32,p ,2014,12,7,21,55,0.1323665109990968,undef
+15976395152,45.768233,4.836688,32,p ,2014,12,7,21,56,0.1323671931255413,undef
+15789768120,45.768233,4.836688,32,p ,2014,12,7,21,56,0.1323671931255413,undef
+15789766690,45.768233,4.836688,32,p ,2014,12,7,21,57,0.1323678752519859,undef
+15975068331,45.768233,4.836688,32,p ,2014,12,7,21,58,0.1323685573784305,undef
+15357428153,45.768233,4.836688,32,p ,2014,12,7,21,58,0.1323685573784305,undef
+15789669998,45.768233,4.836688,32,p ,2014,12,7,21,58,0.1323685573784305,undef
+15791319207,45.768233,4.836688,32,p ,2014,12,7,21,58,0.1323685573784305,undef
+15975062241,45.768233,4.836688,32,p ,2014,12,7,21,58,0.1323685573784305,undef
+15976382042,45.768233,4.836688,32,p ,2014,12,7,21,59,0.1323692395048751,undef
+15975059101,45.768233,4.836688,32,p ,2014,12,7,21,59,0.1323692395048751,undef
+15791032459,45.768233,4.836688,32,p ,2014,12,7,22,0,0.1323699216313197,undef
+16018667562,45.768298,4.836741,32,fte lumires lyon fra francefrancefrankreich,2014,12,7,23,7,0.1324156241031074,undef
+15399728613,45.768331,4.836788,32,fte lumires lyon fra francefrancefrankreich,2014,12,7,23,3,0.132412895597329,undef
+29437295293,45.768177,4.836678,32,caverne lyon,2016,10,1,18,40,0.7844555176039524,undef
+23777269051,45.768172,4.836638,32,lyon france france lyon,2014,5,30,9,57,-0.0557353131088378,undef
+23857452145,45.768172,4.836638,32,lyon france france lyon,2014,5,30,9,57,-0.0557353131088378,undef
+23491839529,45.768172,4.836638,32,lyon france france lyon,2014,5,30,9,57,-0.0557353131088378,undef
+23859753655,45.768172,4.836638,32,lyon france france lyon,2014,5,30,9,57,-0.0557353131088378,undef
+23751361252,45.768172,4.836638,32,lyon france france lyon,2014,5,30,9,57,-0.0557353131088378,undef
+27865708549,45.768088,4.836796,32,vie loeuvre art biennale europe france hanswaltermller kunst laviedeloeuvre lyon placelouispradel place,2018,1,6,15,15,1.2381207627412998,undef
+24175621547,45.768297,4.836666,32, france lyon,2017,12,9,23,48,1.2109673553614066,undef
+38856504672,45.768202,4.836786,32, ,2017,12,6,19,9,1.207830255842726,undef
+32836357358,45.7682,4.836752,32, lyon rhne france,2018,12,8,23,22,1.5684930172714446,undef
+32780531077,45.768263,4.836666,32, kodak tmax film hdv hotel ville lyon france skateboard culture bronica x film,2019,4,28,19,5,1.706816664085243,undef

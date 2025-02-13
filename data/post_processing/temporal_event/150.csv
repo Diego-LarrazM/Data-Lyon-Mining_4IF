@@ -1,0 +1,103 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4755266107,45.767762,4.835754,150,fte lumires light lyon celebration laser lumieres hteldeville ftedeslumires terreaux,2009,12,5,19,23,-1.663312254850173,undef
+4755904996,45.767762,4.835754,150,fte lumires light lyon celebration laser lumieres hteldeville ftedeslumires terreaux,2009,12,5,19,19,-1.6633149833559515,undef
+5271672640,45.767642,4.835684,150, ftedeslumires,2010,12,11,20,32,-1.2988459563664068,undef
+5258430696,45.767582,4.835636,150,showgirl autumn red fall night automne rouge lyon night nuit nocturne ftedeslumires,2010,12,10,23,24,-1.29971089269815,undef
+5253379675,45.767751,4.835588,150,lhtel ville france art lyon culture ftedeslumires fetedeslumieres vnement,2010,12,11,18,28,-1.2989305400455362,undef
+5247469361,45.767725,4.835786,150,hotel ville light festival hotel lyon fete lumiere ville morel mairie lumires sibylle siby,2009,12,10,1,18,-1.6591410516414902,undef
+5248072184,45.767725,4.835786,150,hotel ville light statue festival hotel lyon fete lumiere fontaine ville morel mairie lumires sibylle siby,2009,12,10,1,13,-1.659144462273713,undef
+5518911072,45.767747,4.835679,150,htel ville lyon courtyard red fountain night light lyon hoteldeville traboule ftedeslumires frigno,2010,12,9,19,27,-1.3008548187457316,undef
+5500938282,45.767672,4.835615,150,time festival light lyon fete lumieres,2010,12,8,22,56,-1.301694516399025,undef
+5588174409,45.767747,4.835561,150,langoisse lustre lyonhteldevilledelyonquaisdupolar,2013,3,1,0,0,-0.5030717890932562,undef
+6868817337,45.767754,4.835679,150, ,2012,2,12,3,38,-0.8791294622499828,undef
+6868815339,45.767754,4.835679,150, ,2012,2,12,3,28,-0.8791362835144286,undef
+6868813473,45.767754,4.835679,150, ,2012,2,12,3,27,-0.8791369656408733,undef
+6868811771,45.767754,4.835679,150, ,2012,2,12,3,27,-0.8791369656408733,undef
+6868810319,45.767754,4.835679,150, ,2012,2,12,3,27,-0.8791369656408733,undef
+6868808781,45.767754,4.835679,150, ,2012,2,12,3,23,-0.8791396941466516,undef
+6868807193,45.767754,4.835679,150, ,2012,2,12,3,25,-0.8791383298937624,undef
+6868805377,45.767754,4.835679,150, ,2012,2,12,3,25,-0.8791383298937624,undef
+6868803583,45.767754,4.835679,150, ,2012,2,12,3,22,-0.8791403762730963,undef
+6868802079,45.767754,4.835679,150, ,2012,2,12,3,22,-0.8791403762730963,undef
+6868800887,45.767754,4.835679,150, ,2012,2,12,3,14,-0.879145833284653,undef
+6868798937,45.767754,4.835679,150, ,2012,2,12,3,15,-0.8791451511582083,undef
+6868797497,45.767754,4.835679,150, ,2012,2,12,3,9,-0.8791492439168759,undef
+6868795807,45.767754,4.835679,150, ,2012,2,12,3,7,-0.8791506081697651,undef
+6868794175,45.767754,4.835679,150, ,2012,2,12,3,7,-0.8791506081697651,undef
+6868791971,45.767754,4.835679,150, ,2012,2,12,3,7,-0.8791506081697651,undef
+6868790177,45.767754,4.835679,150, ,2012,2,12,3,7,-0.8791506081697651,undef
+6868788277,45.767754,4.835679,150, ,2012,2,12,3,7,-0.8791506081697651,undef
+6863812825,45.767754,4.835679,150, ,2012,2,12,3,4,-0.8791526545490989,undef
+6863808895,45.767754,4.835679,150, ,2012,2,12,3,4,-0.8791526545490989,undef
+6863804787,45.767754,4.835679,150, ,2012,2,12,3,3,-0.8791533366755435,undef
+6863801167,45.767754,4.835679,150, ,2012,2,12,3,3,-0.8791533366755435,undef
+6863794305,45.767754,4.835679,150, ,2012,2,12,3,2,-0.8791540188019881,undef
+6863521861,45.767754,4.835679,150, ,2012,2,12,3,0,-0.8791553830548773,undef
+6863521947,45.767754,4.835679,150, ,2012,2,12,3,2,-0.8791540188019881,undef
+6863521841,45.767754,4.835679,150, ,2012,2,12,3,0,-0.8791553830548773,undef
+6863521871,45.767754,4.835679,150, ,2012,2,12,3,2,-0.8791540188019881,undef
+6863521897,45.767754,4.835679,150, ,2012,2,12,3,2,-0.8791540188019881,undef
+6863521793,45.767754,4.835679,150, ,2012,2,12,2,59,-0.8791560651813218,undef
+6863421671,45.767754,4.835679,150, ,2012,2,12,2,58,-0.8791567473077665,undef
+6863418009,45.767754,4.835679,150, ,2012,2,12,2,56,-0.8791581115606556,undef
+6863411919,45.767754,4.835679,150, ,2012,2,12,2,55,-0.8791587936871003,undef
+6863408727,45.767754,4.835679,150, ,2012,2,12,2,55,-0.8791587936871003,undef
+6863404221,45.767754,4.835679,150, ,2012,2,12,2,52,-0.879160840066434,undef
+6863399669,45.767754,4.835679,150, ,2012,2,12,2,51,-0.8791615221928786,undef
+6863396361,45.767754,4.835679,150, ,2012,2,12,2,51,-0.8791615221928786,undef
+6863391709,45.767754,4.835679,150, ,2012,2,12,2,51,-0.8791615221928786,undef
+6863279611,45.767754,4.835679,150, ,2012,2,12,2,50,-0.8791622043193231,undef
+6863274187,45.767754,4.835679,150, ,2012,2,12,2,50,-0.8791622043193231,undef
+6863104269,45.767754,4.835679,150, ,2012,2,12,2,48,-0.8791635685722123,undef
+8294004379,45.767702,4.835615,150,fte lumires illumination lumires ftedeslumires dcembre ftedeslumireslyon illuminationslyon lumireslyon,2011,12,11,16,0,-0.9405058354815254,undef
+6988838013,45.767666,4.835666,150, ,2009,7,12,10,52,-1.807071085174484,undef
+7058778097,45.767904,4.8357,150,knar street day laffiche nikon lyon hoteldeville nikkor knar streetday,2012,4,8,15,1,-0.823656893396388,undef
+7058775753,45.767754,4.835593,150,knar street day nikon lyon nikkor knar streetday,2012,4,8,15,0,-0.8236575755228326,undef
+7058773365,45.767754,4.835593,150,knar street day nikon lyon nikkor knar streetday,2012,4,8,14,59,-0.8236582576492772,undef
+7177053982,45.76768,4.835615,150,courbes lhtel ville sun streetart canon lyon hoteldeville fisheye flare mm lightroom knar courbes samyang,2012,4,8,14,51,-0.823663714660834,undef
+8064736048,45.767747,4.835647,150,lyon muse beauxarts clic clac octobre pose photo photographie arcade fille photographier jeu,2012,10,6,15,26,-0.6458504037166878,undef
+8046896506,45.767807,4.835625,150,opra nouvel road street sky people france building car architecture cloud walking square outdoors opera europe arch crossing lyon cloudy september sidewalk pedestrian column operahouse pedestriancrossing jeannouvel placedelacomedie rhonealpesregion rhonealples operanouvel nouveloperahouse operanatinaldelyon,2012,9,17,15,47,-0.6644990585854017,undef
+6482467225,45.767638,4.835636,150,vue lopra depuis cour lhtel ville elephant festival light hotel opera lyon fete ville lumires bougie terreaux luminion,2011,12,8,23,55,-0.9431286116609836,undef
+8443567521,45.767672,4.835593,150,american france ,2010,9,18,4,47,-1.3820005805944535,undef
+8288304331,45.767732,4.835582,150,poupe soie sculpture japan light doll lyon illumination silk kokeshi soie japon lumires poupe,2012,12,9,20,7,-0.5827939530521138,undef
+8289362704,45.767702,4.835561,150,poupe soie sculpture japan light doll lyon illumination silk kokeshi soie japon lumires poupe,2012,12,9,19,34,-0.5828164632247853,undef
+8260885415,45.767672,4.83569,150,fte lumires htel ville lyon fte fontaine ville lumires htel,2012,12,7,19,8,-0.5847987226727711,undef
+8805300008,45.767764,4.835743,150,img hdr france architecture lyon hoteldeville hdr,2013,4,26,8,25,-0.4477206387467989,undef
+8804812264,45.767764,4.835743,150,img hdr france architecture lyon hoteldeville hdr,2013,4,26,8,21,-0.4477233672525773,undef
+8804741656,45.767764,4.835743,150, france architecture lyon hoteldeville hdr,2013,4,26,8,16,-0.4477267778848003,undef
+8700390219,45.767652,4.83568,150,inside hotel ville louis pradel france lyon antique ceiling lightfixture rhonealpes lyoncityhall falllyon hoteldevillelouispradel,2012,10,29,18,20,-0.6231396858704256,undef
+9390437749,45.767647,4.835738,150, united tourdefrance avondetappe,2013,7,13,16,16,-0.3707829149347679,undef
+9413395022,45.76762,4.835617,150, france building tourism architecture lyon vieuxlyon oldlyon,2012,8,10,17,16,-0.7017643083799338,undef
+9413384406,45.767673,4.83571,150, france building tourism architecture lyon vieuxlyon oldlyon,2012,8,10,17,15,-0.7017649905063784,undef
+9413380594,45.767642,4.835717,150, france building tourism architecture lyon vieuxlyon oldlyon,2012,8,10,17,14,-0.701765672632823,undef
+14157271417,45.767912,4.835658,150,irisbus cristalis tcl lyon ,2009,8,20,14,57,-1.768595743067245,undef
+15137019719,45.76775,4.835736,150,batoukailleurs music france samba europe lyon place tambour musique btk,2014,9,21,15,52,0.0564847189232949,undef
+15300727856,45.76775,4.835736,150,batoukailleurs music france samba europe lyon place tambour musique btk,2014,9,21,15,52,0.0564847189232949,undef
+16159489026,45.767814,4.835679,150,lyon htel ville france architecture frankreich lyon cityhall lione frana rhne frankrijk francia francie mairie frankrig lyon historicalbuilding frankrike rhnealpes francja december,2014,12,20,16,31,0.1449149090738201,undef
+15804144938,45.76774,4.835742,150,festival light fte lumires show france art festival marie night french light lyon artistic mary experience fte nuit festivaloflights lumires december th artistique ftedeslumires stockphotography dcembre vierge lightsfestival viergemarie mercimarie wwwmyplanetexperiencecom myplanetexperience,2014,12,5,20,16,0.1303344563206557,undef
+15374586674,45.767734,4.835754,150,plume nuages cloud lyon feather nuages lumires plume,2014,12,7,21,51,0.1323637824933184,undef
+16821071607,45.76774,4.835679,150,lyon opra france lumix lyon rhne panasonic opra jeannouvel rhnealpes lyonpresqule panasoniclumixdmcfz,2015,3,29,12,57,0.2420128799557821,undef
+16840950420,45.76774,4.835679,150,lyon cour lhtel ville france lumix lyon rhne panasonic hteldeville rhnealpes lyonpresqule panasoniclumixdmcfz,2015,3,29,12,59,0.2420142442086713,undef
+16821068307,45.76774,4.835679,150,lyon cour lhtel ville france lumix lyon rhne panasonic hteldeville rhnealpes lyonpresqule panasoniclumixdmcfz,2015,3,29,13,1,0.2420156084615604,undef
+16408329493,45.76774,4.835679,150,lyon cour lhtel ville france lumix lyon rhne panasonic opra hteldeville rhnealpes opradelyon lyonpresqule panasoniclumixdmcfz,2015,3,29,13,1,0.2420156084615604,undef
+17737661253,45.76774,4.835679,150,lyon er festival mondial rose ,2015,5,29,19,42,0.302207128058846,undef
+24019543555,45.767754,4.835765,150,lyon htel ville night france france building clock night lyon hoteldeville cityhall unescoworldheritagesite unesco worldheritagesite nighttime nightime townhall hteldeville placedesterreaux terreaux presqule monumenthistorique lyoncityhall simonmaupin lyontownhall,2015,12,7,19,0,0.4907727981491036,undef
+29707540066,45.767754,4.835722,150,view opra lyon vase statue opra,2016,9,17,16,17,0.7706063043993912,undef
+35275082462,45.767717,4.835571,150,place comdie lyon esprit htel ville lyon trolleybus lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite coach placedelacomdie ruejosephserlin hteldevilledelyon cityhallofthecityoflyon hteldeville lyoncityhall lyontownhall placedesterreaux monumenthistorique presqule simonmaupin juleshardouinmansart robertdecotte ruepuitsgaillot ruedelarpublique esprit shop bus trolleybus,2017,6,3,9,53,1.024750246619881,undef
+35275066152,45.767717,4.835571,150,place comdie lyon esprit htel ville lyon lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite coach placedelacomdie ruejosephserlin hteldevilledelyon cityhallofthecityoflyon hteldeville lyoncityhall lyontownhall placedesterreaux monumenthistorique presqule simonmaupin juleshardouinmansart robertdecotte ruepuitsgaillot ruedelarpublique esprit shop,2017,6,3,9,53,1.024750246619881,undef
+34590498414,45.767717,4.835571,150,htel ville lyon place comdie lyon lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes placedelacomdie hteldevilledelyon cityhallofthecityoflyon hteldeville lyoncityhall lyontownhall placedesterreaux monumenthistorique presqule simonmaupin juleshardouinmansart robertdecotte lyonmetro metrosystemoflyon lyonunderground lyonsubwaysystem mtrodelyon lyonmetrolinea lyonmetrolinec hteldevillelouispradel placelouispradel tree tree ruejosephserlin ruepuitsgaillot,2017,6,4,11,6,1.0257823039305496,undef
+34622651003,45.767717,4.835571,150,htel ville lyon place comdie lyon lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes placedelacomdie hteldevilledelyon cityhallofthecityoflyon hteldeville lyoncityhall lyontownhall placedesterreaux monumenthistorique presqule simonmaupin juleshardouinmansart robertdecotte ruejosephserlin ruepuitsgaillot,2017,6,4,11,7,1.025782986056994,undef
+34622620693,45.767717,4.835571,150,htel ville lyon place comdie lyon lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes placedelacomdie hteldevilledelyon cityhallofthecityoflyon hteldeville lyoncityhall lyontownhall placedesterreaux monumenthistorique presqule simonmaupin juleshardouinmansart robertdecotte ruejosephserlin ruepuitsgaillot,2017,6,4,11,8,1.0257836681834387,undef
+34622597233,45.767717,4.835571,150,htel ville lyon place comdie lyon flag lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes placedelacomdie hteldevilledelyon cityhallofthecityoflyon hteldeville lyoncityhall lyontownhall placedesterreaux monumenthistorique presqule simonmaupin juleshardouinmansart robertdecotte flag flag frenchflag franceflag euflag flagoflyon ruejosephserlin ruepuitsgaillot,2017,6,4,11,8,1.0257836681834387,undef
+34622562113,45.767717,4.835571,150,htel ville lyon place comdie lyon lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes placedelacomdie hteldevilledelyon cityhallofthecityoflyon hteldeville lyoncityhall lyontownhall placedesterreaux monumenthistorique presqule simonmaupin juleshardouinmansart robertdecotte ruejosephserlin ruepuitsgaillot ruedelarpublique,2017,6,4,11,10,1.0257850324363278,undef
+36198813551,45.767605,4.835744,150,hotel ville lyon lyon auvergnerhnealpes france fr mairie batiment hoteldeville basilique fourvire ange opra rhne soleil reflets ciel bleu,2017,7,29,20,3,1.0801730202430204,undef
+28118316679,45.767758,4.835615,150,lyf france lyon onlylyon,2017,12,25,12,32,1.226222431168273,undef
+27805967749,45.767835,4.835576,150,dance front lyon opera house dance danse europe france godox hiphop lyon oper opera opra place tanz,2018,1,2,17,18,1.2342756159731318,undef
+38686631075,45.767711,4.835668,150,dance front lyon opera house dance danse europe france hiphop lyon oper opera opra place tanz,2018,1,2,16,53,1.234258562812017,undef
+27805906479,45.767721,4.83562,150,dance front lyon opera house dance danse europe france hiphop lyon oper opera opra place tanz,2018,1,2,16,43,1.2342517415475711,undef
+24175624517,45.767758,4.835615,150, france lyon,2017,12,9,23,42,1.2109632626027391,undef
+24175624237,45.767758,4.835615,150, france lyon,2017,12,9,23,42,1.2109632626027391,undef
+24175623677,45.767758,4.835615,150, france lyon,2017,12,9,23,43,1.2109639447291838,undef
+24175623007,45.767758,4.835615,150, france lyon,2017,12,9,23,45,1.2109653089820729,undef
+24175622467,45.767758,4.835615,150, france lyon,2017,12,9,23,45,1.2109653089820729,undef
+24175621917,45.767758,4.835615,150, france lyon,2017,12,9,23,43,1.2109639447291838,undef

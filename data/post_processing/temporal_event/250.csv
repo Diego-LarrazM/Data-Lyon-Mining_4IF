@@ -1,0 +1,74 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+9353169606,45.732815,4.820315,250,construction dune pile futur pont raymond barre lyon lyon rhne pont raymondbarre batardeau nikoncoolpixp,2013,7,23,18,53,-0.360853200280835,undef
+9672437535,45.732815,4.820315,250,pose pont raymond barre h pose lyon rhne pont raymondbarre nikoncoolpixp,2013,9,4,22,12,-0.3184801876691944,undef
+9672412375,45.732815,4.820315,250,pose pont raymond barre h pose lyon rhne pont raymondbarre nikoncoolpixp,2013,9,4,22,8,-0.3184829161749728,undef
+9675613204,45.732815,4.820315,250,pose pont raymond barre h pose lyon rhne pont confluence raymondbarre nikoncoolpixp,2013,9,4,22,4,-0.3184856446807512,undef
+10572220506,45.732815,4.820315,250,pont raymond barre lyon pont soir gerland raymondbarre nikoncoolpixp,2013,10,30,12,19,-0.2638780121588998,undef
+10080633456,45.732815,4.820315,250, lyon pont travaux raymondbarre nikoncoolpixp,2013,10,4,8,47,-0.289561437050696,undef
+10080564816,45.732815,4.820315,250, lyon pont travaux raymondbarre nikoncoolpixp,2013,10,4,8,38,-0.2895675761886974,undef
+10976070356,45.732815,4.820315,250, lyon pont nuit raymondbarre nikoncoolpixp,2013,11,18,18,21,-0.2449681028619068,undef
+10960614036,45.732815,4.820315,250, lyon pont nuit tincelle raymondbarre nikoncoolpixp,2013,11,18,18,11,-0.2449749241263528,undef
+12598992595,45.732777,4.820277,250,hdr ,2013,9,13,17,46,-0.3098212745815374,undef
+12599096203,45.732777,4.820277,250,hdr ,2013,9,13,17,47,-0.3098205924550928,undef
+12599413844,45.732777,4.820277,250,hdr ,2013,9,13,17,47,-0.3098205924550928,undef
+11912126386,45.732815,4.820315,250,rencontre ponts white black noir lyon pont blanc pasteur raymondbarre nikoncoolpixp,2014,1,9,13,22,-0.1940944304977547,undef
+11852565583,45.732815,4.820315,250, nikoncoolpixp pont raymondbarre lyon noiretblanc blackandwhite nb bnw bw monochrome monochromatic bridge,2014,1,8,17,44,-0.1948979754494846,undef
+11853079246,45.732815,4.820315,250,pont raymond barre lyon pont raymondbarre nikoncoolpixp,2014,1,8,17,44,-0.1948979754494846,undef
+12988049883,45.732815,4.820315,250,lyon pont raymond barre rouge lyon pont banc raymondbarre nikoncoolpixp,2014,3,5,12,48,-0.140093208385146,undef
+13923441052,45.732815,4.820315,250, nikoncoolpixp lyon confluence pont raymondbarre noiretblanc blackandwhite nb bnw bw monochrome monochromatic bridge fourvire,2014,4,16,19,53,-0.0985482972772406,undef
+13946548675,45.732815,4.820315,250, lyon pont confluence raymondbarre nikoncoolpixp,2014,4,16,19,53,-0.0985482972772406,undef
+13887287082,45.732815,4.820315,250, lyon pont raymondbarre nikoncoolpixp,2014,4,16,19,10,-0.0985776287143581,undef
+13887281591,45.732815,4.820315,250,pont raymond barre nikoncoolpixp pont raymondbarre lyon noiretblanc blackandwhite nb bnw bw monochrome monochromatic bridge,2014,4,16,19,11,-0.0985769465879135,undef
+13886790126,45.732815,4.820315,250, white black noir lyon pont blanc banc raymondbarre nikoncoolpixp,2014,4,16,18,36,-0.0986008210134742,undef
+13909659804,45.732815,4.820315,250, nikoncoolpixp nuit lyon confluence pont raymondbarre parcdegerland,2014,4,16,20,14,-0.0985339726219042,undef
+14335418550,45.732815,4.820315,250, white black noir lyon pont blanc raymondbarre fujifilmx,2014,6,24,12,45,-0.0310641638608168,undef
+14520640244,45.732815,4.820315,250, fujifilmx pont raymondbarre lyon bw nb noiretblanc blackandwhite bnw monochrome monochromatic bridge,2014,6,24,12,42,-0.0310662102401506,undef
+14518633641,45.732815,4.820315,250, white black noir pont blanc banc raymondbarre fujifilmx,2014,6,24,12,44,-0.0310648459872614,undef
+14803406516,45.732747,4.820258,250,end street bridge summer france night canon eos mm shot lyon f confluence rhnealpes pontraymondbarre,2014,7,17,22,34,-0.0080703635400487,undef
+15470195748,45.732805,4.820261,250,lyon confluence lyon pont confluence,2014,5,8,11,6,-0.0772980121488509,undef
+16670627900,45.732755,4.82039,250,muse confluence sunset france french nikon europe lyon rhne fisheye ag bluehour nikkor mm franais hdr anto xiii rhnealpes musedesconfluences antoxiii agphotographe pontraymondbarre,2014,12,25,18,19,0.149899889130902,undef
+28363185670,45.7328,4.82038,250,pont raymond barre ,2016,7,29,21,41,0.7217142093567801,undef
+31014229632,45.732815,4.820315,250,pont raymond barre nikoncoolpixp lyon architecture pont raymondbarre bridge,2016,11,19,13,1,0.8323551186696813,undef
+30243459104,45.732815,4.820315,250,pont raymond barre nikoncoolpixp confluence lyon nuit night light lumire pont bridge raymondbarre,2016,11,8,17,46,0.8217446418240452,undef
+31848168140,45.73274,4.82038,250,lyr lyon france,2017,1,7,14,30,0.8805466698536958,undef
+32105096701,45.73274,4.82038,250,lyr lyon france,2017,1,7,14,32,0.880548034106585,undef
+31160871064,45.732725,4.820423,250,img jpg bodsi,2016,12,23,21,24,0.8660951389985594,undef
+34788310451,45.73278,4.820208,250,muse confluence dmarkiv bluehour canonfrance cityscape lyon night nisi nisifilters nisifiltersfrance nisinaturalnight auvergnerhnealpes france fr,2017,5,26,20,54,1.0173430355580513,undef
+34245476440,45.732815,4.820315,250,soleil couchant pont raymond barre fujifilmxt lyon coucherdesoleil pont bridge raymondbarre sunset,2017,5,11,20,47,1.002604329469741,undef
+33788308824,45.732815,4.820315,250,soleil couchant pont raymond barre fujifilmxt lyon coucherdesoleil pont bridge raymondbarre sunset,2017,5,11,20,59,1.0026125149870766,undef
+34608436715,45.732815,4.820315,250,coucher soleil apr pluie pont raymond barre fujifilmxt lyon,2017,5,11,20,59,1.0026125149870766,undef
+35858214506,45.732815,4.820315,250,pont raymond barre fujifilmxt lyon pont raymondbarre bridge musedesconfluences noiretblanc nb bnw bw blackandwhite monochrome monochromatic virage tramway,2017,7,13,13,1,1.0641689695999916,undef
+35690406035,45.732815,4.820315,250,depuis toit muse confluence fujifilmxt lyon muse confluence musedesconfluences pont bridge raymondbarre rhne fleuve river nuage cloud toit roof museum pasteur,2017,6,29,13,4,1.050419346856341,undef
+36905722224,45.732815,4.820315,250, fujifilmxt lyon parcdegerland pont bridge raymondbarre puddle reflet reflection,2017,10,10,13,18,1.1516018908885226,undef
+38560800946,45.732815,4.820315,250,pont raymond barre fujifilmxt lyon pont raymondbarre bridge nuit night,2017,11,21,19,18,1.1931024637775294,undef
+38560806396,45.732815,4.820315,250,pont raymond barre fujifilmxt lyon pont raymondbarre bridge nuit night noiretblanc nb blackandwhite bnw bw monochrome monochromatic,2017,11,21,19,46,1.193121563317978,undef
+37897434344,45.732815,4.820315,250,pont raymond barre fujifilmxt nuit night pont raymondbarre bridge noiretblanc nb blackandwhite bnw bw monochrome monochromatic architecture lyon,2017,11,21,19,14,1.1930997352717512,undef
+38614780021,45.732815,4.820315,250,pont raymond barre fujifilmxt nuit night pont raymondbarre bridge architecture lyon,2017,11,21,19,14,1.1930997352717512,undef
+30790275190,45.732815,4.820315,250,lyon pont raymond barre nikoncoolpixp lyon architecture pont raymondbarre bridge noiretblanc nb bw bnw monochrome,2016,11,19,13,1,0.8323551186696813,undef
+40224343522,45.732815,4.820315,250,dscf b fujifilmxt lyon pont bridge raymondbarre noiretblanc nb blackandwhite bnw bw monochrome monochromatic,2018,2,14,19,11,1.2765899657105375,undef
+39310015011,45.732853,4.820283,250,toile ,2016,11,12,13,59,0.8255188474419753,undef
+38384098765,45.732853,4.820283,250,sourire aquatique rhne quartier confluence lyon ,2016,11,12,13,54,0.8255154368097525,undef
+38450826554,45.732853,4.820283,250,pont raymond barre traverse rhne quartier confluence lyon ,2016,11,12,12,41,0.8254656415792971,undef
+39135869721,45.732815,4.820315,250, fujifilmxt lyon musedesconfluences muse museum pont bridge raymondbarre noiretblanc nb blackandwhite bnw bw monochrome monochromatic neige snow,2017,12,18,14,4,1.2194093522396834,undef
+38340744604,45.732815,4.820315,250,pont raymond barre fujifilmxt lyon pont bridge rhne fleuve river sunrise leverdusoleil leverdujour ciel sky raymondbarre,2017,12,14,10,27,1.215332282480354,undef
+26103943997,45.732815,4.820315,250,muse confluence fujifilmxt lyon muse museum musedesconfluences pont bridge pasteur raymondbarre nuit night reflet reflection,2018,3,13,22,52,1.3032617918205485,undef
+25987129287,45.732815,4.820315,250, fujifilmxt muse museum musedesconfluences pont bridge raymondbarre nuit night rhne fleuve river,2018,3,13,22,31,1.303247467165212,undef
+25077503667,45.732815,4.820315,250,pont raymond barre fujifilmxt lyon pont bridge raymondbarre nuit night onlylyon,2018,1,28,0,0,1.2591063828091875,undef
+26977382328,45.732815,4.820315,250, ,2018,3,13,22,27,1.3032447386594337,undef
+25974994097,45.732815,4.820315,250,muse confluence fujifilmxt lyon muse museum musedesconfluences pont bridge raymondbarre nuit night,2018,3,13,22,27,1.3032447386594337,undef
+40787059252,45.732815,4.820315,250, fujifilmxt lyon nuit night pont bridge pasteur raymondbarre reflet reflection,2018,3,13,21,4,1.3031881221645325,undef
+40771835412,45.732815,4.820315,250, fujifilmxt nuit night araigne spider,2018,3,13,22,13,1.3032351888892093,undef
+40086295744,45.732815,4.820315,250, fujifilmxt lyon nuit night pont bridge raymondbarre noiretblanc nb blackandwhite bnw bw monochrome monochromatic,2018,3,13,21,48,1.3032181357280943,undef
+40086294794,45.732815,4.820315,250, fujifilmxt lyon nuit night pont bridge raymondbarre,2018,3,13,21,48,1.3032181357280943,undef
+41391554672,45.732815,4.820315,250, fujifilmxt lyon nuit night pont bridge raymondbarre noiretblanc nb blackandwhite bw bnw monochrome monochromatic,2018,4,12,22,27,1.332712601065829,undef
+30293139847,45.732815,4.820315,250, fujifilmxt lyon confluence pont bridge raymondbarre hron oiseau bird hroncendr greyheron heron grayheron,2018,10,9,18,10,1.509344469007941,undef
+45961301892,45.732815,4.820315,250, fujifilmxt lyon nuit night pont raymondbarre reflet reflection,2018,11,22,19,9,1.5526042459975518,undef
+46471408034,45.732815,4.820315,250, fujifilmxt lyon pont raymondbarre noiretblanc nb blackandwhite bnw bw monochrome monochromatic,2019,2,7,18,15,1.6282015913459589,undef
+46305400194,45.732815,4.820315,250, fujifilmxt lyon tram tramway pont bridge raymondbarre sunset coucherdesoleil,2019,2,6,17,34,1.627191362081517,undef
+46111271735,45.732815,4.820315,250,pont raymond barre fujifilmxt lyon pont bridge raymondbarre heurebleue bluehour,2019,2,7,18,15,1.6282015913459589,undef
+46874153071,45.732815,4.820315,250, fujifilmxt lyon sunset coucherdesoleil rhne river fleuve pont bridge raymondbarre muse museum musedesconfluences,2019,1,16,18,50,1.6066157000068295,undef
+47959979352,45.732815,4.820315,250,pont raymond barre fujifilmxt lyon pont bridge raymondbarre noiretblanc nb blackandwhite bnw bw monochrome monochromatic,2019,5,22,17,59,1.7303459336650158,undef
+48611204782,45.732815,4.820315,250,pont raymond barre lyon fujifilmxt lyon pont bridge raymondbarre,2019,8,1,20,35,1.800192953085508,undef
+48446898236,45.732815,4.820315,250, fujifilmxt lyon pont raymondbarre bridge nisi filtrepolarisantcplpro,2019,8,1,20,25,1.800186131821062,undef
+48437718872,45.732815,4.820315,250, fujifilmxt lyon pont raymondbarre nb noiretblanc blackandwhite bnw bw monochrome monochromatic nisi filtrepolarisantcplpro,2019,8,1,20,25,1.800186131821062,undef
+49025827176,45.732737,4.82038,250,lyon ,2019,11,6,21,43,1.8955187594644187,undef

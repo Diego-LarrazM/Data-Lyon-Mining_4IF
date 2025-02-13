@@ -1,0 +1,28 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken,year_month
+38629741522,45.766203,4.82716,336,rue lanternes lyon,2017,11,26,17,28,407179680.0,Événement Temporaire,2017-11-26 17:28:00,2017-11
+27218198358,45.76616,4.827075,336, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,9,408316140.0,Événement Temporaire,2017-12-09 21:09:00,2017-12
+39282045920,45.76616,4.827075,336, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,9,408316140.0,Événement Temporaire,2017-12-09 21:09:00,2017-12
+40196669345,45.76616,4.827075,336, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,3,408315780.0,Événement Temporaire,2017-12-09 21:03:00,2017-12
+27218198408,45.76616,4.827075,336, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul,2017,12,9,21,9,408316140.0,Événement Temporaire,2017-12-09 21:09:00,2017-12
+41047646262,45.76616,4.827075,336, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,8,408316080.0,Événement Temporaire,2017-12-09 21:08:00,2017-12
+27218198298,45.76616,4.827075,336, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul,2017,12,9,21,12,408316320.0,Événement Temporaire,2017-12-09 21:12:00,2017-12
+41047646082,45.76616,4.827075,336, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul,2017,12,9,21,11,408316260.0,Événement Temporaire,2017-12-09 21:11:00,2017-12
+39282045650,45.76616,4.827075,336, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,12,408316320.0,Événement Temporaire,2017-12-09 21:12:00,2017-12
+27218198138,45.76616,4.827075,336, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,14,408316440.0,Événement Temporaire,2017-12-09 21:14:00,2017-12
+27218198208,45.76616,4.827075,336, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,13,408316380.0,Événement Temporaire,2017-12-09 21:13:00,2017-12
+41047645912,45.76616,4.827075,336, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,14,408316440.0,Événement Temporaire,2017-12-09 21:14:00,2017-12
+27218198058,45.76616,4.827075,336, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,15,408316500.0,Événement Temporaire,2017-12-09 21:15:00,2017-12
+39282045010,45.76616,4.827075,336, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul,2017,12,9,21,16,408316560.0,Événement Temporaire,2017-12-09 21:16:00,2017-12
+27218197778,45.76616,4.827075,336, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,17,408316620.0,Événement Temporaire,2017-12-09 21:17:00,2017-12
+27218190848,45.76616,4.827075,336, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul,2017,12,9,21,9,408316140.0,Événement Temporaire,2017-12-09 21:09:00,2017-12
+27218190708,45.76616,4.827075,336, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,13,408316380.0,Événement Temporaire,2017-12-09 21:13:00,2017-12
+40381518794,45.76616,4.827075,336, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,14,408316440.0,Événement Temporaire,2017-12-09 21:14:00,2017-12
+40381519074,45.76616,4.827075,336, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,8,408316080.0,Événement Temporaire,2017-12-09 21:08:00,2017-12
+40381518574,45.76616,4.827075,336, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,15,408316500.0,Événement Temporaire,2017-12-09 21:15:00,2017-12
+27218190598,45.76616,4.827075,336, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,15,408316500.0,Événement Temporaire,2017-12-09 21:15:00,2017-12
+27218190518,45.76616,4.827075,336, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,16,408316560.0,Événement Temporaire,2017-12-09 21:16:00,2017-12
+40381518384,45.76616,4.827075,336, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul,2017,12,9,21,16,408316560.0,Événement Temporaire,2017-12-09 21:16:00,2017-12
+27218190458,45.76616,4.827075,336, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,17,408316620.0,Événement Temporaire,2017-12-09 21:17:00,2017-12
+40381518184,45.76616,4.827075,336, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul,2017,12,9,21,18,408316680.0,Événement Temporaire,2017-12-09 21:18:00,2017-12
+39282045430,45.76616,4.827075,336, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,14,408316440.0,Événement Temporaire,2017-12-09 21:14:00,2017-12
+27218197898,45.76616,4.827075,336, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,16,408316560.0,Événement Temporaire,2017-12-09 21:16:00,2017-12

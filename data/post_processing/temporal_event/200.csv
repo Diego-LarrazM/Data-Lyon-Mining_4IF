@@ -1,0 +1,74 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+6967282557,45.777041,4.854669,200,flamant rose zoo kx parcdelattedor flamantrose,2011,7,15,17,11,206212260.0,undef,2011-07-15 17:11:00
+7663706472,45.776922,4.854701,200,p lyon parcdelattedor plicans,2012,7,28,15,16,238950960.0,undef,2012-07-28 15:16:00
+7663475660,45.777161,4.854766,200,p lyon parcdelattedor,2012,7,28,14,27,238948020.0,undef,2012-07-28 14:27:00
+12155947874,45.777212,4.854776,200,parc tte dor lyon lyon parcdelattedor,2014,1,26,10,28,286194480.0,undef,2014-01-26 10:28:00
+14463590287,45.777039,4.854646,200,lyon parc tte dor plican miroir city urban blackandwhite bw white black france bird monochrome animal animal zoo town blackwhite europe lyon noiretblanc pelican rhne nb reflet animaux reflexion reflexion reflets oiseau ville zoo rhone croixrousse parcdelatetedor rhonealpes plican rhnealpes parcdelattedor blackwhitephotos itsazooutthere dientum,2012,10,13,13,43,245598180.0,undef,2012-10-13 13:43:00
+14618760536,45.777039,4.854646,200,lyon parc tte dor plican city urban blackandwhite bw white black france bird monochrome animal animal zoo town blackwhite europe lyon noiretblanc pelican rhne nb reflet animaux reflexion reflexion reflets oiseau ville zoo rhone croixrousse parcdelatetedor rhonealpes plican rhnealpes parcdelattedor blackwhitephotos itsazooutthere dientum,2012,10,13,12,38,245594280.0,undef,2012-10-13 12:38:00
+14575594166,45.776997,4.854648,200,lyon parc tte dor france lyon lac aves rhne ardea ardeacinerea mm oiseaux hron ardeidae pelecaniformes rhnealpes parcdelattedor hroncendr canoneos,2014,6,29,10,47,299501220.0,undef,2014-06-29 10:47:00
+14412044499,45.776997,4.854648,200,lyon parc tte dor france lyon lac aves rhne ardea ardeacinerea mm oiseaux hron ardeidae pelecaniformes rhnealpes parcdelattedor hroncendr canoneos,2014,6,29,10,47,299501220.0,undef,2014-06-29 10:47:00
+14575582576,45.776997,4.854648,200,lyon parc tte dor france duck lyon aves rhne mm canard anatidae whitefacedwhistlingduck dendrocygnaviduata anseriformes rhnealpes dendrocygna parcdelattedor dendrocygneveuf oiedegypte canoneos,2014,6,29,10,50,299501400.0,undef,2014-06-29 10:50:00
+14595325181,45.776997,4.854648,200,lyon parc tte dor france duck lyon aves rhne mm canard anatidae whitefacedwhistlingduck dendrocygnaviduata anseriformes rhnealpes dendrocygna parcdelattedor dendrocygneveuf oiedegypte canoneos,2014,6,29,10,50,299501400.0,undef,2014-06-29 10:50:00
+14412190597,45.776997,4.854648,200,lyon parc tte dor france duck lyon aves rhne mm canard anatidae whitefacedwhistlingduck dendrocygnaviduata anseriformes rhnealpes dendrocygna parcdelattedor dendrocygneveuf oiedegypte canoneos,2014,6,29,10,50,299501400.0,undef,2014-06-29 10:50:00
+19800005972,45.777195,4.854776,200,haunted pigeonnier pigeonloft pardelattedor parkofthegoldenhead,2015,7,12,16,51,332182260.0,undef,2015-07-12 16:51:00
+32739112122,45.776969,4.854683,200,flamingo flamandrose lyon auvergnerhnealpes france fr flamingo,2017,2,12,14,21,382371660.0,undef,2017-02-12 14:21:00
+32494587001,45.777109,4.854669,200,siesta verde siesta nap sieste lyon france francia frana parc parque tete dor flamingo flamenco europa europe,2016,9,30,12,28,370700880.0,undef,2016-09-30 12:28:00
+31511501864,45.777071,4.854712,200,far east lyon fdl ptdo supermimil,2016,12,10,15,14,376845240.0,undef,2016-12-10 15:14:00
+31542789683,45.777071,4.854712,200,lyon mini train parc loco lyon fdl ptdo supermimil,2016,12,10,15,13,376845180.0,undef,2016-12-10 15:13:00
+32314711926,45.777071,4.854712,200,mini train lyon parc lyon fdl ptdo supermimil,2016,12,10,15,13,376845180.0,undef,2016-12-10 15:13:00
+31976876750,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,24,376845840.0,undef,2016-12-10 15:24:00
+32314634176,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,23,376845780.0,undef,2016-12-10 15:23:00
+31511243384,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,27,376846020.0,undef,2016-12-10 15:27:00
+31976748080,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,28,376846080.0,undef,2016-12-10 15:28:00
+32203382792,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,35,376846500.0,undef,2016-12-10 15:35:00
+32353485435,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,35,376846500.0,undef,2016-12-10 15:35:00
+32203262312,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,36,376846560.0,undef,2016-12-10 15:36:00
+32353359815,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,36,376846560.0,undef,2016-12-10 15:36:00
+32203171092,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,37,376846620.0,undef,2016-12-10 15:37:00
+32203120202,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,40,376846800.0,undef,2016-12-10 15:40:00
+31976389140,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,43,376846980.0,undef,2016-12-10 15:43:00
+32314178786,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,49,376847340.0,undef,2016-12-10 15:49:00
+32202984352,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,49,376847340.0,undef,2016-12-10 15:49:00
+31510813834,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,49,376847340.0,undef,2016-12-10 15:49:00
+31976205370,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,49,376847340.0,undef,2016-12-10 15:49:00
+32313940386,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,51,376847460.0,undef,2016-12-10 15:51:00
+31976123710,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,51,376847460.0,undef,2016-12-10 15:51:00
+31541845893,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,52,376847520.0,undef,2016-12-10 15:52:00
+31541778993,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,53,376847580.0,undef,2016-12-10 15:53:00
+32232869191,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,53,376847580.0,undef,2016-12-10 15:53:00
+31510514434,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,53,376847580.0,undef,2016-12-10 15:53:00
+32313687166,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,53,376847580.0,undef,2016-12-10 15:53:00
+32352587355,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,53,376847580.0,undef,2016-12-10 15:53:00
+32313586406,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,54,376847640.0,undef,2016-12-10 15:54:00
+31975725090,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,55,376847700.0,undef,2016-12-10 15:55:00
+32232569091,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,55,376847700.0,undef,2016-12-10 15:55:00
+32232472581,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,56,376847760.0,undef,2016-12-10 15:56:00
+32352332495,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,56,376847760.0,undef,2016-12-10 15:56:00
+32202194152,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,56,376847760.0,undef,2016-12-10 15:56:00
+31975489570,45.777071,4.854712,200,p lyon fdl ptdo pelican animal supermimil,2016,12,10,15,56,376847760.0,undef,2016-12-10 15:56:00
+32232280141,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,56,376847760.0,undef,2016-12-10 15:56:00
+31510019244,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,57,376847820.0,undef,2016-12-10 15:57:00
+31541146783,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,57,376847820.0,undef,2016-12-10 15:57:00
+32232136691,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,58,376847880.0,undef,2016-12-10 15:58:00
+32352041785,45.777071,4.854712,200,silence dor lyon fdl ptdo supermimil,2016,12,10,15,59,376847940.0,undef,2016-12-10 15:59:00
+31975217550,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,59,376847940.0,undef,2016-12-10 15:59:00
+32312914856,45.777071,4.854712,200,want move lyon fdl ptdo supermimil,2016,12,10,16,1,376848060.0,undef,2016-12-10 16:01:00
+32231980631,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,16,4,376848240.0,undef,2016-12-10 16:04:00
+32231936111,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,16,4,376848240.0,undef,2016-12-10 16:04:00
+31975010310,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,16,7,376848420.0,undef,2016-12-10 16:07:00
+32231843201,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,16,18,376849080.0,undef,2016-12-10 16:18:00
+32201631222,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,16,5,376848300.0,undef,2016-12-10 16:05:00
+32312655396,45.777071,4.854712,200,onlylyon lyon fdl ptdo supermimil,2016,12,10,16,3,376848180.0,undef,2016-12-10 16:03:00
+31509493994,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,59,376847940.0,undef,2016-12-10 15:59:00
+32201573062,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,57,376847820.0,undef,2016-12-10 15:57:00
+31540628353,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,55,376847700.0,undef,2016-12-10 15:55:00
+32351546445,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,52,376847520.0,undef,2016-12-10 15:52:00
+32312543466,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,51,376847460.0,undef,2016-12-10 15:51:00
+31974802630,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,44,376847040.0,undef,2016-12-10 15:44:00
+31540531163,45.777071,4.854712,200,sauvage lyon lion wildstyle lyon fdl ptdo supermimil,2016,12,10,15,37,376846620.0,undef,2016-12-10 15:37:00
+32231590271,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,27,376846020.0,undef,2016-12-10 15:27:00
+32201433982,45.777071,4.854712,200,p lyon fdl ptdo supermimil,2016,12,10,15,13,376845180.0,undef,2016-12-10 15:13:00
+32201403972,45.777071,4.854712,200,chrysomallos nella busco velodrome lyon lyon fdl ptdo supermimil,2016,12,10,15,12,376845120.0,undef,2016-12-10 15:12:00
+48526154266,45.777122,4.854755,200,plican pelican zoo lyon bird plican plicans pelikan pelicano jardinzoologiquedelyon france parcdelattedor zoodelyon,2019,4,17,13,44,450971040.0,undef,2019-04-17 13:44:00
+48526153596,45.777122,4.854755,200,plicans pelican zoo lyon bird plicans pelikan plican pelicano jardinzoologiquedelyon france parcdelattedor zoodelyon,2019,4,17,13,44,450971040.0,undef,2019-04-17 13:44:00
+48526164587,45.777122,4.854755,200,plican pelican bird plican pelcano pelikan zoo lyon france parcdelattedor jardinzoologiquedelyon telephoto zooduparcdelattedor zoodelyon,2019,4,17,13,44,450971040.0,undef,2019-04-17 13:44:00

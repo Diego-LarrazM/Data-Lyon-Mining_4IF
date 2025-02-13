@@ -1,0 +1,49 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+5645063325,45.7635,4.8365,297,lyon juin version originaliphoto,2010,6,26,13,39,173021940.0,undef,2010-06-26 13:39:00
+5977484774,45.763537,4.836403,297,palais bourse lyon france bw architecture lyon nb bourse ricoh grdiii,2010,7,21,11,3,175172580.0,undef,2010-07-21 11:03:00
+7056284461,45.763458,4.836494,297,smiley france canon lyon sigma cable trolleybus sigma f exdg eos dmkii,2012,3,25,15,3,228150180.0,undef,2012-03-25 15:03:00
+7645832046,45.763494,4.836462,297, window france church window glass stain french religious cathedral lyon religion creative common christian stained cc creativecommons christianity lyon cordeliers,2012,6,21,8,22,235729320.0,undef,2012-06-21 08:22:00
+7645829622,45.763494,4.836462,297,circular window france church window glass stain circle french religious cathedral lyon religion creative common christian stained cc creativecommons christianity circular lyon cordeliers,2012,6,21,8,22,235729320.0,undef,2012-06-21 08:22:00
+7645828652,45.763494,4.836462,297,rose window window france church window glass stain circle french religious cathedral lyon religion creative common christian stained cc creativecommons christianity circular lyon cordeliers,2012,6,21,8,23,235729380.0,undef,2012-06-21 08:23:00
+7645825806,45.763494,4.836462,297,light truth door window light france church window glass stain french religious cathedral lyon religion creative common christian stained cc creativecommons christianity lyon cordeliers,2012,6,21,8,29,235729740.0,undef,2012-06-21 08:29:00
+7645822520,45.763494,4.836462,297,messenger window france church window glass stain angel french religious cathedral lyon religion creative common christian stained cc angel creativecommons christianity lyon cordeliers,2012,6,21,8,30,235729800.0,undef,2012-06-21 08:30:00
+7645819402,45.763494,4.836462,297,inscription old blackandwhite france church stone writing word french religious word cathedral lyon religion creative common christian cc creativecommons written inscription lyon inscribed,2012,6,21,8,32,235729920.0,undef,2012-06-21 08:32:00
+7645813406,45.763494,4.836462,297,lyon reflected new old window france reflection building window glass architecture modern building french reflecting mirror commerce cathedral lyon creative common cc reflected reflect creativecommons chamber mirrored chambre lyon curch mirroring monoprix cordeliers,2012,6,21,8,34,235730040.0,undef,2012-06-21 08:34:00
+7645809130,45.763494,4.836462,297,fourvire street city france building church architecture building french cathedral lyon basilica creative common cc creativecommons dame lyon fourviere,2012,6,21,8,36,235730160.0,undef,2012-06-21 08:36:00
+7645804734,45.763494,4.836462,297,cathedral window roof blackandwhite france church window glass stain french religious arch cathedral lyon religion creative common ceiling christian stained cc creativecommons vault christianity vaulted lyon vault arched cordeliers,2012,6,21,8,23,235729380.0,undef,2012-06-21 08:23:00
+7645801406,45.763494,4.836462,297,stained glass window france church window glass stain french religious cathedral lyon religion creative common christian stained cc creativecommons christianity lyon cordeliers,2012,6,21,8,24,235729440.0,undef,2012-06-21 08:24:00
+7645797552,45.763494,4.836462,297,healing sick window france church window glass stain french religious cathedral lyon religion creative common christian stained cc creativecommons christianity lyon cordeliers,2012,6,21,8,25,235729500.0,undef,2012-06-21 08:25:00
+7645794592,45.763494,4.836462,297,altar window blackandwhite france church window glass stain stone french religious carved cathedral lyon religion creative common carving christian stained altar cc creativecommons christianity lyon cordeliers,2012,6,21,8,26,235729560.0,undef,2012-06-21 08:26:00
+7645791212,45.763494,4.836462,297,colored glass window france church window glass stain french religious cathedral lyon religion creative common christian stained cc creativecommons christianity lyon cordeliers,2012,6,21,8,26,235729560.0,undef,2012-06-21 08:26:00
+7645787258,45.763494,4.836462,297,worship window blackandwhite france church window glass stain french religious carved cathedral lyon religion creative common carving christian stained altar cc creativecommons christianity lyon cordeliers,2012,6,21,8,28,235729680.0,undef,2012-06-21 08:28:00
+7644610252,45.763494,4.836462,297,lyon chamber commerce building reflected window monoprix new old city window france reflection building window glass modern building french reflecting mirror commerce lyon creative common cc reflect creativecommons chamber mirrored chambre lyon monoprix,2012,6,21,8,15,235728900.0,undef,2012-06-21 08:15:00
+7644606278,45.763494,4.836462,297,rhne sane city blackandwhite france statue french lyon creative common cc creativecommons lyon rhone saone,2012,6,21,8,16,235728960.0,undef,2012-06-21 08:16:00
+7644602864,45.763494,4.836462,297,old new reflection past city window france reflection church window glass french reflecting mirror cathedral lyon creative common cc reflected creativecommons mirrored lyon monoprix cordeliers,2012,6,21,8,18,235729080.0,undef,2012-06-21 08:18:00
+7644598994,45.763494,4.836462,297,cordeliers city blackandwhite france church facade french cathedral lyon creative entrance common front cc creativecommons lyon cordeliers,2012,6,21,8,19,235729140.0,undef,2012-06-21 08:19:00
+7644595418,45.763494,4.836462,297,stone saint city blackandwhite france church face saint statue stone french cathedral lyon creative common cc creativecommons lyon cordeliers,2012,6,21,8,19,235729140.0,undef,2012-06-21 08:19:00
+7644591744,45.763494,4.836462,297,mother city baby france church statue french cathedral lyon mary jesus creative common virgin cc creativecommons lyon cordeliers,2012,6,21,8,20,235729200.0,undef,2012-06-21 08:20:00
+7993369074,45.763537,4.836403,297,vlov street bicycle lyon streetphotography ricoh velov grd cordelier grdiii,2012,9,16,22,39,243297540.0,undef,2012-09-16 22:39:00
+7938278690,45.763537,4.836403,297,doux rveur street lyon streetphotography rue rpublique ricoh grd cordelier grdiii,2012,9,2,14,29,242058540.0,undef,2012-09-02 14:29:00
+8297017522,45.763653,4.83643,297,pl cordeliers ,2012,12,22,4,12,251611920.0,undef,2012-12-22 04:12:00
+9388322996,45.763494,4.836462,297,cordeliers france church architecture french cathedral lyon creative common architectural cc creativecommons eglise lyonnais cordeliers,2012,7,9,13,7,237301620.0,undef,2012-07-09 13:07:00
+15461056184,45.763558,4.836433,297, bw architecture lyon,2014,12,22,11,34,314710440.0,undef,2014-12-22 11:34:00
+23834269876,45.763436,4.836475,297,lyon france france lyon,2014,5,30,9,39,296905140.0,undef,2014-05-30 09:39:00
+23834197296,45.763588,4.836438,297,lyon france france lyon,2014,5,30,9,40,296905200.0,undef,2014-05-30 09:40:00
+23860302075,45.763588,4.836438,297,lyon france france lyon,2014,5,30,9,40,296905200.0,undef,2014-05-30 09:40:00
+23834173526,45.763588,4.836438,297,lyon france france lyon,2014,5,30,9,40,296905200.0,undef,2014-05-30 09:40:00
+23751903532,45.763533,4.836463,297,lyon france france lyon,2014,5,30,9,40,296905200.0,undef,2014-05-30 09:40:00
+23751892102,45.763533,4.836463,297,lyon france france lyon,2014,5,30,9,40,296905200.0,undef,2014-05-30 09:40:00
+23477714368,45.763591,4.8365,297, ,2017,9,26,10,33,401884380.0,undef,2017-09-26 10:33:00
+36659694173,45.763591,4.8365,297, ,2017,9,26,10,33,401884380.0,undef,2017-09-26 10:33:00
+36579891503,45.763577,4.836441,297, ,2017,9,22,16,13,401559180.0,undef,2017-09-22 16:13:00
+37072515290,45.763591,4.8365,297, ,2017,9,26,10,33,401884380.0,undef,2017-09-26 10:33:00
+23477045098,45.763591,4.8365,297, ,2017,9,26,10,33,401884380.0,undef,2017-09-26 10:33:00
+37328526471,45.763591,4.8365,297, ,2017,9,26,10,33,401884380.0,undef,2017-09-26 10:33:00
+37249322561,45.763577,4.836441,297, ,2017,9,22,16,13,401559180.0,undef,2017-09-22 16:13:00
+37217938742,45.763577,4.836441,297, ,2017,9,22,16,13,401559180.0,undef,2017-09-22 16:13:00
+36576725233,45.763577,4.836441,297, ,2017,9,22,16,13,401559180.0,undef,2017-09-22 16:13:00
+37216902472,45.763577,4.836441,297, ,2017,9,22,16,13,401559180.0,undef,2017-09-22 16:13:00
+37199233976,45.763577,4.836441,297, ,2017,9,22,16,13,401559180.0,undef,2017-09-22 16:13:00
+41548223055,45.763511,4.836386,297,huawei p pro lyon auvergnerhnealpes france fr huaweip prozoom x,2018,5,20,19,31,422307060.0,undef,2018-05-20 19:31:00
+48536422761,45.763555,4.836447,297,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,25,17,20,459537600.0,undef,2019-07-25 17:20:00
+48451545327,45.763524,4.836503,297,iveco urbanway lyon francja france iveco tcl autobus pojazd transport komunikacja ulica bus vehicle transit street,2019,5,30,15,12,454691520.0,undef,2019-05-30 15:12:00

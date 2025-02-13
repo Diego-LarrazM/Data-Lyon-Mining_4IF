@@ -1,0 +1,62 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+4252200862,45.76472,4.83305,85,eglise saintnizier faade panorama lyon hdr highdynamicrange faade gothicarchitecture hugin presquile tonemapping eglisesaintnizier saintnizierchurch,2010,1,6,21,12,158274720.0,undef,2010-01-06 21:12:00
+4835237182,45.764682,4.833018,85,corner city window sky urban france architecture corner building design lyon,2010,7,7,11,1,173962860.0,undef,2010-07-07 11:01:00
+5404610397,45.76475,4.832975,85, france statue alpes canon eos lyon rhne homme regard clement,2011,1,31,19,2,191962920.0,undef,2011-01-31 19:02:00
+5292965554,45.764708,4.833072,85,eglise saintnizier autumn france automne photo frankreich europa europe flickr december foto lyon lumire sony rhne histoiredefrance dezember francia lyo lumires dcembre ftedeslumires stcentury rhnealpes francja xxiesicle regionrhnealpes alpha historyoffrance sonya lumires geschichtefrankreichs rotdenken julesrigobert,2010,12,10,21,56,187480560.0,undef,2010-12-10 21:56:00
+5292364781,45.764708,4.833072,85,eglise saintnizier autumn france automne photo frankreich europa europe flickr december foto lyon lumire sony rhne histoiredefrance dezember francia lyo lumires dcembre ftedeslumires stcentury rhnealpes francja xxiesicle regionrhnealpes alpha historyoffrance sonya lumires geschichtefrankreichs rotdenken julesrigobert,2010,12,10,21,54,187480440.0,undef,2010-12-10 21:54:00
+5252675728,45.764675,4.832954,85,eglise saintnizier lyon glise ftedeslumires saintnizier,2010,12,10,23,39,187486740.0,undef,2010-12-10 23:39:00
+5252672070,45.764686,4.833008,85,eglise saintnizier lyon glise ftedeslumires saintnizier,2010,12,10,23,39,187486740.0,undef,2010-12-10 23:39:00
+5518321847,45.764776,4.83305,85,saintnizier church light church night lyon ftedeslumires saintnizier frigno,2010,12,9,20,13,187387980.0,undef,2010-12-09 20:13:00
+5518912320,45.764776,4.83305,85,saintnizier church light church night lyon ftedeslumires saintnizier frigno,2010,12,9,20,11,187387860.0,undef,2010-12-09 20:11:00
+5518321421,45.764776,4.83305,85,saintnizier church light church night lyon ftedeslumires saintnizier frigno,2010,12,9,20,11,187387860.0,undef,2010-12-09 20:11:00
+5518911938,45.764776,4.83305,85,saintnizier church light church night lyon ftedeslumires saintnizier frigno,2010,12,9,20,9,187387740.0,undef,2010-12-09 20:09:00
+5900996664,45.764663,4.832975,85,glise saintnizier france church canon lyon september glise eos glisesaintnizier,2010,9,10,12,26,179583960.0,undef,2010-09-10 12:26:00
+6217963969,45.764716,4.832975,85,glise saintnizier lyon france church europe catholic lyon lyon rhnealpes saintnizier osmway,2011,2,6,16,56,192473760.0,undef,2011-02-06 16:56:00
+6528409925,45.764671,4.833013,85, streetart france pasteup statue collage paper europe lyon wheatpaste pasted bra croixrousse tombent wheatpaper,2011,12,7,15,15,218733300.0,undef,2011-12-07 15:15:00
+7628380122,45.764672,4.833016,85,fte lumires france lyon cathdrale fr nuit lumires rhnealpes canoneos dmarkiii,2010,12,11,20,29,187561740.0,undef,2010-12-11 20:29:00
+8064773574,45.764656,4.832975,85,lyon run lyon encouragement octobre lyon papa slogan balcon ville faade fentres allez encouragement,2012,10,7,15,37,245086620.0,undef,2012-10-07 15:37:00
+6485952737,45.764716,4.832943,85,fte lumires lglise saintnizier ,2011,12,10,11,6,218977560.0,undef,2011-12-10 11:06:00
+6479144047,45.764732,4.832997,85,fte lumires light festival lyon lumire fte ftedeslumires,2010,12,8,23,29,187313340.0,undef,2010-12-08 23:29:00
+8799992654,45.764708,4.833072,85,place saintnizier city urban france frankreich lyon centre centro rhne frankrijk francia citycentre ville innenstadt urbanlandscape rhnealpes francja presqule lyonpresqule,2013,5,23,11,55,264772500.0,undef,2013-05-23 11:55:00
+8971326794,45.764647,4.832933,85,lyon lumires france festival lyon lumires preview rhone,2010,12,9,19,33,187385580.0,undef,2010-12-09 19:33:00
+11929726264,45.764731,4.832932,85,lyon fte lumires ,2013,12,9,19,4,282078240.0,undef,2013-12-09 19:04:00
+11777628374,45.764658,4.832938,85,lyon church structure structuresarchitecture lyon rhonealpes france,2013,7,14,14,47,269275620.0,undef,2013-07-14 14:47:00
+11701357686,45.764723,4.83305,85, france lyon fetelumieres,2013,12,8,18,37,281990220.0,undef,2013-12-08 18:37:00
+11690853155,45.764663,4.832986,85, lyon er,2013,12,29,16,22,283796520.0,undef,2013-12-29 16:22:00
+11690319314,45.764723,4.83305,85, france lyon fetelumieres,2013,12,8,18,42,281990520.0,undef,2013-12-08 18:42:00
+15796705852,45.764719,4.83305,85,saint nizier france lyon lione francia saintnizier,2014,10,5,11,51,307972260.0,undef,2014-10-05 11:51:00
+11276395764,45.764686,4.832922,85,fte lumires lyon lyon ftedeslumires lightfestival lichterfest architecturallighting citylighting ftedeslumires lyon,2013,12,6,23,19,281834340.0,undef,2013-12-06 23:19:00
+11271889833,45.764677,4.833019,85,dsc jpg france lyon nuit rhnealpes villevillagearchitecture statuesculptureoeuvre,2013,12,7,21,38,281914680.0,undef,2013-12-07 21:38:00
+15364131633,45.764744,4.833013,85,lyon fte lumires france lyon rhne ftedeslumires lightfestival rhnealpes festivaldelleluci placesaintnizier,2014,12,5,21,19,313276740.0,undef,2014-12-05 21:19:00
+16018671592,45.764793,4.833073,85,fte lumires lyon fra francefrancefrankreich,2014,12,8,19,35,313529700.0,undef,2014-12-08 19:35:00
+15977019405,45.764663,4.832943,85,p ,2014,12,7,23,1,313455660.0,undef,2014-12-07 23:01:00
+15791301637,45.764663,4.832943,85,p ,2014,12,7,23,2,313455720.0,undef,2014-12-07 23:02:00
+15977016595,45.764663,4.832943,85,p ,2014,12,7,23,3,313455780.0,undef,2014-12-07 23:03:00
+15791018329,45.764663,4.832943,85,p ,2014,12,7,23,3,313455780.0,undef,2014-12-07 23:03:00
+29261460570,45.764722,4.833055,85,christianisme eglise saintnizier ,2016,9,3,12,46,368369160.0,undef,2016-09-03 12:46:00
+28926065134,45.764722,4.833055,85,christianisme eglise saintnizier ,2016,9,3,12,47,368369220.0,undef,2016-09-03 12:47:00
+29441949542,45.764722,4.833055,85,christianisme eglise saintnizier ,2016,9,3,12,48,368369280.0,undef,2016-09-03 12:48:00
+29441939882,45.764722,4.833055,85,christianisme eglise saintnizier ,2016,9,3,12,49,368369340.0,undef,2016-09-03 12:49:00
+28928415633,45.764722,4.833055,85,christianisme eglise saintnizier ,2016,9,3,12,51,368369460.0,undef,2016-09-03 12:51:00
+28926044434,45.764722,4.833055,85,christianisme eglise saintnizier ,2016,9,3,12,51,368369460.0,undef,2016-09-03 12:51:00
+31976608732,45.764686,4.832965,85, decembre cocktail decembre fete fetedeslumieres lumiere lumieres lyon nizier place saint saintnizier,2016,12,10,23,55,376876500.0,undef,2016-12-10 23:55:00
+37921770302,45.76471,4.832997,85,glise saintnizier lyon presqule,2017,9,19,16,20,401300400.0,undef,2017-09-19 16:20:00
+37243081864,45.76471,4.832997,85,glise saintnizier lyon presqule,2017,9,12,12,47,400682820.0,undef,2017-09-12 12:47:00
+37952367791,45.76471,4.832997,85,glise saintnizier lyon presqule,2017,9,12,12,47,400682820.0,undef,2017-09-12 12:47:00
+24101356668,45.76471,4.832997,85,rue brest lyon presqule,2017,9,3,14,57,399913020.0,undef,2017-09-03 14:57:00
+37109967983,45.764677,4.83298,85,eglise saint nizier hapephotographix x vrpanorama ricohthetas equirectangular europa europe france francia frankreich lyon eglisesaintnizier saintnizierchurch kirche iglesia auvergnerhnealpes,2017,7,27,17,18,396638280.0,undef,2017-07-27 17:18:00
+37404812516,45.764775,4.833011,85, travelingtheworld france lyon,2016,11,13,10,31,374495460.0,undef,2016-11-13 10:31:00
+40270251380,45.764589,4.83304,85,fentre deux ,2018,5,13,13,8,421679280.0,undef,2018-05-13 13:08:00
+43767282321,45.764805,4.832986,85,lyon street art grafitis mural murales pintadas streetart iphone iphonex france lyon,2018,7,11,19,35,426800100.0,undef,2018-07-11 19:35:00
+32146287488,45.764622,4.832991,85,fetedeslumieres ,2016,12,9,23,34,376788840.0,undef,2016-12-09 23:34:00
+45967639052,45.764655,4.832977,85,fetedeslumieres ,2016,12,9,23,34,376788840.0,undef,2016-12-09 23:34:00
+45967636312,45.764655,4.832997,85,fetedeslumieres ,2016,12,9,23,34,376788840.0,undef,2016-12-09 23:34:00
+45967634052,45.764652,4.833008,85,fetedeslumieres ,2016,12,9,23,34,376788840.0,undef,2016-12-09 23:34:00
+32143037188,45.764622,4.832991,85,fetedeslumieres ,2016,12,9,23,34,376788840.0,undef,2016-12-09 23:34:00
+45289727844,45.764655,4.832977,85,fetedeslumieres ,2016,12,9,23,34,376788840.0,undef,2016-12-09 23:34:00
+45102363015,45.764655,4.832997,85,fetedeslumieres ,2016,12,9,23,34,376788840.0,undef,2016-12-09 23:34:00
+45289723914,45.764652,4.833008,85,fetedeslumieres ,2016,12,9,23,34,376788840.0,undef,2016-12-09 23:34:00
+48825123752,45.764708,4.832986,85,lyon france francia frankreich frankrijk fhrainc lyon lione,2019,9,3,20,47,463006020.0,undef,2019-09-03 20:47:00
+48824993392,45.764708,4.832986,85,lyon france francia frankreich frankrijk fhrainc lyon lione,2019,9,3,20,50,463006200.0,undef,2019-09-03 20:50:00
+48823177231,45.764708,4.832986,85,lyon france francia frankreich frankrijk fhrainc lyon lione,2019,9,3,20,49,463006140.0,undef,2019-09-03 20:49:00
+48823099442,45.764708,4.832986,85,lyon france francia frankreich frankrijk fhrainc lyon lione,2019,9,3,20,50,463006200.0,undef,2019-09-03 20:50:00

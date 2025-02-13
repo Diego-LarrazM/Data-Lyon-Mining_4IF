@@ -1,0 +1,50 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken,year_month
+4176692639,45.762194,4.826141,124,monte chazeaux light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,9,0,18,155780280.0,Site d'Intérêt,2009-12-09 00:18:00,2009-12
+4177450476,45.762194,4.826141,124,monte chazeaux light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,9,0,18,155780280.0,Site d'Intérêt,2009-12-09 00:18:00,2009-12
+4168887615,45.762096,4.826163,124,marche lombre light blackandwhite bw man black nikon noir noiretblanc nb ombresetlumire nikon f littlepois cyrilbreton zinzins,2009,12,5,21,9,155509740.0,Site d'Intérêt,2009-12-05 21:09:00,2009-12
+4109647263,45.762197,4.826238,124,world piece fragment,2009,11,16,18,51,153859860.0,Site d'Intérêt,2009-11-16 18:51:00,2009-11
+4110411258,45.762197,4.826238,124,world piece fragment,2009,11,16,18,47,153859620.0,Site d'Intérêt,2009-11-16 18:47:00,2009-11
+4110410906,45.762197,4.826238,124,world piece lyon miroir fragment,2009,11,16,18,37,153859020.0,Site d'Intérêt,2009-11-16 18:37:00,2009-11
+4109646239,45.762197,4.826238,124,world piece fragment,2009,11,16,18,38,153859080.0,Site d'Intérêt,2009-11-16 18:38:00,2009-11
+4109645935,45.762197,4.826238,124,world piece fragment,2009,11,16,19,0,153860400.0,Site d'Intérêt,2009-11-16 19:00:00,2009-11
+4110409978,45.762197,4.826238,124,world piece autoportrait fragment,2009,11,16,19,3,153860580.0,Site d'Intérêt,2009-11-16 19:03:00,2009-11
+4110409620,45.762197,4.826238,124,world piece fragment,2009,11,16,18,45,153859500.0,Site d'Intérêt,2009-11-16 18:45:00,2009-11
+6273497017,45.762238,4.826318,124,better walking ,2011,10,23,22,31,214871460.0,Site d'Intérêt,2011-10-23 22:31:00,2011-10
+6229637095,45.762169,4.826108,124, france lyon,2011,8,15,19,5,208897500.0,Site d'Intérêt,2011-08-15 19:05:00,2011-08
+6230153654,45.762227,4.826311,124, france lyon,2011,8,15,19,5,208897500.0,Site d'Intérêt,2011-08-15 19:05:00,2011-08
+6777930086,45.762223,4.826286,124,ghost city longexposure people blackandwhite bw france building architecture blackwhite nw lyon noiretblanc fineart ghost bn fantom immeuble fantome lyon noirblanc vieuxlyon poselongue thibaultroland,2009,4,24,21,56,136072560.0,Site d'Intérêt,2009-04-24 21:56:00,2009-04
+6537416843,45.762156,4.826227,124,lyon quartier saintjean ,2011,12,19,13,59,219765540.0,Site d'Intérêt,2011-12-19 13:59:00,2011-12
+7422517770,45.762166,4.826166,124,lyon france lyon rhnealpes,2012,6,22,16,38,235845480.0,Site d'Intérêt,2012-06-22 16:38:00,2012-06
+7422480428,45.762166,4.826166,124,lyon france lyon rhnealpes,2012,6,22,15,15,235840500.0,Site d'Intérêt,2012-06-22 15:15:00,2012-06
+7668360560,45.762358,4.826141,124,p lyon lion vieuxlyon,2012,7,28,17,49,238960140.0,Site d'Intérêt,2012-07-28 17:49:00,2012-07
+7985023375,45.762299,4.826194,124,urban hike lyon square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue ef e f,2012,9,14,2,47,243053220.0,Site d'Intérêt,2012-09-14 02:47:00,2012-09
+8947681473,45.762156,4.826109,124,usk france lyon france lyon neocolor croquis urbansketchers,2013,6,4,12,50,265812600.0,Site d'Intérêt,2013-06-04 12:50:00,2013-06
+9238493790,45.762166,4.826166,124, ,2013,6,19,10,58,267101880.0,Site d'Intérêt,2013-06-19 10:58:00,2013-06
+9235344631,45.762166,4.826166,124, ,2013,6,19,10,58,267101880.0,Site d'Intérêt,2013-06-19 10:58:00,2013-06
+12350303564,45.762134,4.826227,124,lyon winter france rain architecture nikon lyon oldtown oldhouses vieuxlyon rhnealpes,2014,1,5,17,12,284404320.0,Site d'Intérêt,2014-01-05 17:12:00,2014-01
+12349837335,45.762134,4.826227,124,lyon winter france rain architecture nikon lyon oldtown oldhouses vieuxlyon rhnealpes,2014,1,5,17,12,284404320.0,Site d'Intérêt,2014-01-05 17:12:00,2014-01
+12349833375,45.762134,4.826227,124,lyon winter france rain architecture nikon lyon oldtown oldhouses vieuxlyon rhnealpes,2014,1,5,17,14,284404440.0,Site d'Intérêt,2014-01-05 17:14:00,2014-01
+12954583763,45.762119,4.826238,124,st jean lyon blackandwhite lyon noiretblanc saintjean,2014,3,5,16,24,289499040.0,Site d'Intérêt,2014-03-05 16:24:00,2014-03
+15685782852,45.762253,4.826259,124,lyon france street france night lyon roman ruedubouef,2014,9,16,2,51,306298260.0,Site d'Intérêt,2014-09-16 02:51:00,2014-09
+17165679792,45.762208,4.826109,124,jimi streetart graffiti,2014,7,31,17,30,302290200.0,Site d'Intérêt,2014-07-31 17:30:00,2014-07
+17567216375,45.762134,4.826163,124,vieuxlyon ,2015,5,9,17,8,326653680.0,Site d'Intérêt,2015-05-09 17:08:00,2015-05
+24313398350,45.762419,4.826291,124,lyon ,2015,4,12,15,54,324316440.0,Site d'Intérêt,2015-04-12 15:54:00,2015-04
+24241165099,45.762358,4.826305,124,lyon ,2015,4,12,15,54,324316440.0,Site d'Intérêt,2015-04-12 15:54:00,2015-04
+24582763806,45.762325,4.826255,124,lyon ,2015,4,12,15,54,324316440.0,Site d'Intérêt,2015-04-12 15:54:00,2015-04
+24500568372,45.762244,4.826127,124,lyon ,2015,4,12,15,54,324316440.0,Site d'Intérêt,2015-04-12 15:54:00,2015-04
+24608887895,45.762222,4.8262,124,lyon ,2015,4,12,15,54,324316440.0,Site d'Intérêt,2015-04-12 15:54:00,2015-04
+24500553932,45.762233,4.826213,124,lyon ,2015,4,12,15,54,324316440.0,Site d'Intérêt,2015-04-12 15:54:00,2015-04
+16189114664,45.762096,4.826184,124,vieux lyon city france night lyon,2014,3,6,20,38,289600680.0,Site d'Intérêt,2014-03-06 20:38:00,2014-03
+31375267644,45.762116,4.826233,124,caminemos ,2016,7,19,16,35,364408500.0,Site d'Intérêt,2016-07-19 16:35:00,2016-07
+35759470725,45.762093,4.826259,124,traboule langle monte chazeaux rue boeuf auvergnerhnealpes lyon lugdunum ville france rhnealpes valledurhne rhne photographiecontemporaine nikon histoire history monument traboule luminar vieuxlyon patrimoinedelhumanit citinternationale pascalreyphotographies,2017,7,5,9,24,394709040.0,Site d'Intérêt,2017-07-05 09:24:00,2017-07
+35627502321,45.762093,4.826259,124,traboule langle monte chazeaux rue boeuf auvergnerhnealpes lyon lugdunum ville france rhnealpes valledurhne rhne photographiecontemporaine nikon histoire history monument traboule luminar vieuxlyon patrimoinedelhumanit citinternationale pascalreyphotographies,2017,7,5,9,28,394709280.0,Site d'Intérêt,2017-07-05 09:28:00,2017-07
+35351124780,45.762093,4.826259,124,traboule langle monte chazeaux rue boeuf lyon lyon lugdunum quartierstjean vieuxlyon vieillespierres traboule photographiecontemporaine nikon luminar pascalreyphotographies,2017,7,5,9,27,394709220.0,Site d'Intérêt,2017-07-05 09:27:00,2017-07
+35837378413,45.762134,4.826216,124,lyon rue boeuf fujifilmxt lyon noiretblanc nb blackandwhite bnw bw monochrome monochromatic rue street nuit night,2017,8,17,22,32,398471520.0,Site d'Intérêt,2017-08-17 22:32:00,2017-08
+43756207971,45.762223,4.826098,124,ba monte chazeaux vieux lyon lyon auvergnerhnealpes france claudelina france auvergnerhnealpes lyon escaliers stair montedeschazeaux,2018,5,25,12,57,422715420.0,Site d'Intérêt,2018-05-25 12:57:00,2018-05
+44684787020,45.76218,4.826163,124,lyon ,2018,12,28,14,41,441470460.0,Site d'Intérêt,2018-12-28 14:41:00,2018-12
+46768860025,45.762275,4.826188,124,piece sky jewel box ,2019,3,13,10,39,447935940.0,Site d'Intérêt,2019-03-13 10:39:00,2019-03
+48022831563,45.762108,4.826211,124,lyon ,2019,6,4,17,13,455130780.0,Site d'Intérêt,2019-06-04 17:13:00,2019-06
+48424637456,45.762238,4.826173,124,retrouvailles restaurant window ramen vensters fenster fentres green vert groen grn verde france frankrijk frankreich francia frana lyon auvergnerhnealpes lione europa europe,2019,6,13,17,21,455908860.0,Site d'Intérêt,2019-06-13 17:21:00,2019-06
+48617756601,45.762096,4.826119,124,monte chazeaux stair step march escalier trap treden lyon auvergnerhnealpes lione france frankrijk frankreich francia frana europa europe patrimoine mondial werelderfgoed worldheritagesite unescowelterbe,2019,6,13,17,21,455908860.0,Site d'Intérêt,2019-06-13 17:21:00,2019-06
+48812975498,45.762134,4.826216,124, fujifilmxt lyon vieuxlyon saintjean noiretblanc nb blackandwhite bnw bw monochrome monochromatic,2019,9,29,7,38,465205080.0,Site d'Intérêt,2019-09-29 07:38:00,2019-09
+49011322118,45.762172,4.826272,124,francelyonsightssecret passageway ,2018,6,20,11,3,424954980.0,Site d'Intérêt,2018-06-20 11:03:00,2018-06

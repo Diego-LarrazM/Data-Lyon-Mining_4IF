@@ -1,0 +1,102 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4754898168,45.759495,4.82553,94, monochrome sepia nikon lyon vieuxlyon,2010,6,28,12,36,-1.4622261538694206,undef
+5126592847,45.759536,4.825401,94,corner street sun france statue corner lyon,2010,10,16,13,58,-1.3541213906775142,undef
+5122864456,45.759536,4.825401,94,theatre france sign lyon theatre,2010,10,16,13,59,-1.3541207085510696,undef
+5586414767,45.759473,4.82554,94,place trinit sculpture france square restaurant place lyon terrasse renaissance trinit guignol vierge vieuxlyon,2010,4,17,11,55,-1.5329769908289976,undef
+5691830994,45.759454,4.825508,94,tabac ,2011,5,5,14,54,-1.156648513473768,undef
+6759978767,45.759433,4.825515,94, light lightpainting vertical painting eau lyon illumination bleu fete lumiere contraste bateau nuit eglise couleur flou peniche quais saone batiments,2011,12,10,23,57,-0.941162723247668,undef
+6674544363,45.759619,4.825508,94,street vieux lyon travel france lyon,2011,11,13,15,27,-0.968031683900166,undef
+6674542975,45.759619,4.825508,94,maison avocats lyon travel france lyon,2011,11,13,15,7,-0.9680453264290578,undef
+6674542211,45.759619,4.825508,94,street vieux lyon travel france lyon,2011,11,13,15,3,-0.9680480549348364,undef
+6674541389,45.759619,4.825508,94,street vieux lyon travel france lyon,2011,11,13,15,1,-0.9680494191877254,undef
+6674540667,45.759619,4.825508,94,street vieux lyon travel france lyon,2011,11,13,14,59,-0.9680507834406146,undef
+6660422687,45.759433,4.825515,94, lyon hiver lumiere pont paysage nuit glise reflets couleur berges fleuve fourviere rhone vieuxlyon saone grandlyon fetedeslumieres horizontale basiliquedefourviere glisesaintgeorges,2011,1,1,0,0,-1.2790588324616678,undef
+6658576797,45.75936,4.825508,94,st george stgeorges lyonnight,2012,1,7,23,18,-0.913685987933038,undef
+6973304767,45.759563,4.825488,94,lyon france night angle minolta lyon sony grand uga alpha,2012,2,29,22,15,-0.8616690716477489,undef
+6918772332,45.759491,4.82553,94,wide angle narrow street canon lyon wideangle fisheye immeuble pav vieuxlyon samyang,2012,4,7,17,53,-0.8245218297281313,undef
+7286555798,45.759433,4.825515,94, ,2009,11,14,18,10,-1.6839895537651053,undef
+7163499835,45.759581,4.825487,94,caf soleil france caf lyon saintgeorges vieuxlyon placedelatrinit paysageurbain,2012,6,2,9,34,-0.7698555343320449,undef
+7569701108,45.759498,4.825515,94, ,2012,6,1,0,0,-0.7712293369914541,undef
+8162027086,45.759449,4.825558,94,please dont leave lione summer blackandwhite bw x film mediumformat blackwhite estate lyon lione august bn agosto squareformat analogue filmcamera yashica bianconero biancoenero analogica analogico medioformato rodanoalpi,2012,11,6,21,1,-0.6151717668711407,undef
+8408244188,45.759449,4.825558,94,place trinit quartier saintgeorges ,2013,1,22,16,30,-0.5397224429612104,undef
+8594165613,45.759458,4.825508,94,petite rue vieuxlyon lyon igerslyon igersfrance igers city square squareformat lordkelvin iphoneography instagramapp uploadedbyinstagram foursquarevenue eb b b,2013,3,27,13,28,-0.4769818168404828,undef
+8655729032,45.759454,4.825508,94,lyon france europe lyon,2012,9,15,20,12,-0.666282819238011,undef
+8655728696,45.759484,4.82553,94,lyon france europe lyon,2012,9,15,20,11,-0.6662835013644557,undef
+8654623905,45.759469,4.825508,94,lyon france europe lyon,2012,9,15,20,11,-0.6662835013644557,undef
+8655728262,45.759484,4.825508,94,lyon france europe lyon,2012,9,15,20,11,-0.6662835013644557,undef
+8654623377,45.759454,4.825519,94,lyon france europe lyon,2012,9,15,20,11,-0.6662835013644557,undef
+9234664584,45.759491,4.825422,94,thtre guignol vieux lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2011,8,14,21,53,-1.0571542323919527,undef
+9521683968,45.7595,4.8255,94, ,2013,7,11,14,45,-0.3728095126016522,undef
+9518895305,45.759333,4.8255,94, ,2013,7,11,14,44,-0.3728101947280968,undef
+12455857663,45.759447,4.825422,94,lyon winter sky france nikon europe lyon bluesky oldtown oldhouses sunnyday againstthesky,2014,1,5,16,48,-0.1978829607710213,undef
+12452011585,45.759506,4.825476,94,tt dimanche matin earlysundaymorning jacquesmeynierdemalviala ttundimanchematin,2014,2,9,9,55,-0.1637855061851768,undef
+12452505564,45.759447,4.825433,94,tt dimanche matin earlysundaymorning jacquesmeynierdemalviala,2014,2,9,9,56,-0.1637848240587322,undef
+12437517795,45.759447,4.825422,94,lyon street winter france architecture nikon europe lyon bluesky oldtown oldhouses sunnyday vieuxlyon,2014,1,5,16,48,-0.1978829607710213,undef
+12437645013,45.759447,4.825422,94,lyon street winter france architecture nikon europe lyon bluesky oldtown oldhouses sunnyday vieuxlyon,2014,1,5,16,48,-0.1978829607710213,undef
+12350041283,45.759447,4.825422,94,lyon winter france architecture nikon lyon oldtown oldhouses vieuxlyon rhnealpes,2014,1,5,16,48,-0.1978829607710213,undef
+13902669455,45.759471,4.825477,94,img jpg ,2014,4,6,16,5,-0.1085264429087395,undef
+13903080774,45.759471,4.825477,94,img jpg ,2014,4,6,16,2,-0.1085284892880733,undef
+13902654755,45.759471,4.825477,94,img jpg ,2014,4,6,16,0,-0.1085298535409624,undef
+13902648925,45.759471,4.825477,94,windog ,2014,4,6,15,59,-0.108530535667407,undef
+14139400465,45.759449,4.825558,94,place trinit lyon ,2014,5,8,11,48,-0.077269362838178,undef
+14511058976,45.759449,4.825558,94,lyon place trinit mural lyon mur peint trompeloeil fresque murale,2014,6,28,20,24,-0.0268220195018961,undef
+14613777398,45.759522,4.825516,94,street old town lyon france lyon fr,2014,7,30,16,24,0.0044466567182233,undef
+15694422984,45.759604,4.825497,94,rollon reflection sunnyside lyon paved theunknownbiker dugigot linstantguibolle,2015,1,17,12,50,0.1722674973755342,undef
+16763390090,45.759589,4.825497,94,vieux lyon place trinit saint jean saint place jean lyon monte trinit vieux cathedrale rhone saone gourguillon,2015,3,23,15,38,0.2362291298320824,undef
+16762814700,45.759529,4.825444,94,vieux lyon place trinit saint jean saint place jean lyon trinit vieux rhone saone montee gourguillon,2015,3,23,15,36,0.2362277655791932,undef
+16949321461,45.759589,4.825497,94,vieux lyon place trinit saint place jean lyon monte vieux rhone saone trinite gourguillon,2015,3,23,15,36,0.2362277655791932,undef
+17274686449,45.759498,4.825515,94, ,2015,5,9,20,29,0.2825939463974782,undef
+17269390749,45.759424,4.82554,94,laine tricote monte gourguillon laine,2015,5,8,9,38,0.2811676200018353,undef
+17267094798,45.759424,4.82554,94,laine tricote monte gourguillon laine,2015,5,8,9,38,0.2811676200018353,undef
+17428843986,45.759424,4.82554,94,laine tricote monte gourguillon laine,2015,5,8,9,39,0.28116830212828,undef
+22417962375,45.759491,4.825597,94,lyon ,2015,10,21,15,56,0.4444809691132791,undef
+22231156699,45.759322,4.825522,94,lyon ,2015,10,21,15,55,0.4444802869868345,undef
+21927922908,45.759559,4.825497,94,place trinit lyon statue niche vieuxlyon mmsummicron,2015,10,7,10,43,0.4305157944131371,undef
+15736058780,45.759394,4.825556,94,restaurant caf vieuxlyon onlylyon lyon france frana square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue b f e,2014,12,1,7,34,0.1258856276490235,undef
+23588470933,45.759466,4.825497,94,lyon night street travel france night zeiss french cafe nikon lyon scene tourist unesco worldheritagesite cobblestone mm fourvire milvus dusoleil montedugourguillon jackheald caferestaurantdusoleil ruestgeorges,2016,1,6,14,16,0.5200469366452347,undef
+28992033433,45.759506,4.825476,94,stencil lyon france europe france lyon streetart stencil pochoir,2016,8,19,14,42,0.7420559020609726,undef
+28967488943,45.759506,4.825476,94,stencil lyon france europe france lyon stgeorges stencil pochoir,2016,8,19,14,42,0.7420559020609726,undef
+30295149025,45.759537,4.825477,94,monte gourguillon architecture france lyon montedugourguillon paysage pentax pentaxk ii rhne rhnealpes city landscape longexposure night nightlights nuit poselongue quartier sigma f urban urbanlandscape ville,2016,10,12,19,25,0.795291096176304,undef
+29881807420,45.759484,4.82554,94,star window julia lyon,2016,10,1,20,1,0.7845107698459644,undef
+30286494664,45.759444,4.825555,94, ,2016,11,4,22,32,0.8180106816663459,undef
+23214569243,45.759432,4.825465,94,quenelle brochet caf soleil lyon lyon quenelle,2015,12,18,20,58,0.5016581719519104,undef
+23214566163,45.759432,4.825465,94,chiroubles beaujolais maison cetg paris lyon beaujolais chiroubles,2015,12,18,20,37,0.501643847296574,undef
+32955626752,45.759551,4.825444,94,rue saintgeorges place trinit ruesaintgeorges trinit lyon,2017,2,18,11,51,0.9216932191179592,undef
+31991726254,45.759363,4.825577,94,vieux lyon lyon rhnealpes france francia oldtown oldquarter vieuxlyon,2017,2,5,16,11,0.909101164950782,undef
+32467345152,45.7595,4.8255,94, ,2014,7,8,15,56,-0.0171822085869151,undef
+32469784371,45.759551,4.825465,94,rue tramassac lyon france ruetramassac lyon cobblestone cobbled street facade old rhone alpes france vieuxlyon,2017,1,29,14,5,0.902139382457271,undef
+32212666151,45.759506,4.825476,94,wall installation lyon france europe france lyon streetart wall installation,2017,1,13,16,46,0.8865330115314395,undef
+31040895063,45.759544,4.825454,94,place trinit france lyon vieuxlyon architecture nightphotography lyon earrondissement auvergnerhnealpes fr olympus,2015,9,29,22,39,0.4231461003057599,undef
+33909324374,45.759466,4.825497,94,lyon dusk cafedusoleil lyon fourvire fourvirehill montedugourguillon vieuxlyon worldheritagesite unesco unescoworldheritagesite travel tourist nikon zeiss mm cobblestone street night nightscape heald jack light,2017,5,18,15,33,1.0092659763276317,undef
+35487246586,45.759466,4.825511,94,lyon corner,2017,6,17,10,35,1.0385305650535384,undef
+35139564760,45.759394,4.825538,94,lyon corner,2017,6,17,10,34,1.038529882927094,undef
+35139561040,45.759363,4.825583,94,lyon corner,2017,6,17,10,32,1.0385285186742046,undef
+34923185772,45.759531,4.825487,94,st george lyon stgeorges,2017,6,3,21,21,1.0252195496137606,undef
+34956627601,45.759531,4.825487,94,meeting lyon,2017,6,3,21,22,1.0252202317402053,undef
+36045239773,45.759506,4.825476,94,mosaic installation woup lyon france europe france lyon stgeorges streetart mosaic mosaique wall mur installation woup inthewoup,2017,8,26,0,0,1.1068557603761449,undef
+36031235493,45.759484,4.825508,94,vieux lyon ch lyon france oldcity,2017,8,6,8,40,1.0875652245230694,undef
+37833454431,45.759641,4.825508,94,open door ,2017,10,21,15,20,1.162489993197108,undef
+31377224266,45.759439,4.825476,94,vieux lyon ,2014,7,15,10,58,-0.0105096477059114,undef
+26382477697,45.759499,4.825465,94,mario street art street art mario lyon mur,2018,4,1,14,46,1.321593257892527,undef
+42393270044,45.759521,4.825433,94, lyon nb bw vieuxlyon,2018,6,29,22,3,1.409312672287787,undef
+42778094921,45.759511,4.825461,94,guignol lyon france guignol lyon rhonecruise,2018,5,21,15,58,1.3707554750071964,undef
+43501691811,45.759521,4.825562,94,place trinit monte gourguillon lyon auvergnerhnealpes france claudelina france auvergnerhnealpes lyon ville town city architecture vieuxlyon guignol gnafron montedugourguillon placedelatrinit,2018,5,25,10,55,1.3744778390153376,undef
+43547604692,45.75956,4.825463,94,kamienica lyon francja france kamienica dom budynek architektura house building architecture,2018,6,3,17,48,1.383599915958873,undef
+43933335394,45.7595,4.8255,94, ,2014,7,8,15,56,-0.0171822085869151,undef
+44890975514,45.759484,4.825487,94,lyon place trinit lyon maison place aquarelle watercolor btiment rue,2018,10,18,16,20,1.5181097938209545,undef
+33034904918,45.759551,4.825454,94,saintjean lyon blue hour rain light old city,2019,1,27,18,11,1.6173939799578352,undef
+39722658793,45.759469,4.825519,94,dsc edit ludwigvanbeethoven streetart streetphotography street inthestreets rue ruelles artderue danslesrues urbanart urbanphotography urbaines urbaine urbex arturbain arteurbano pastedpaper papiercoll graffik pascalrey nikon aurorahdr luminar skylum city lyon lugdunum vieuxlyon saintgeorges citinternationale citt town stadt photographiecontemporaine pascalreyphotographies photo photographie photography photograffik photographienumrique photographiedigitale photographieurbaine murs murales muros artmural fresquesmurales,2019,1,9,17,22,1.599679838318213,undef
+32803752938,45.759432,4.825412,94,caf soleil droite monte gourguillon gauche rue saintgeorges lyon vieuxlyon lugdunum city citinternationale antique ciudad streetphotography urbanphotography urbaines rue danslesrues lecafdusoleil aurorahdr nikon pascalrey photographiecontemporaine photo photographie photography photograffik photographienumrique photographiedigitale photographieurbaine,2019,1,9,17,32,1.5996866595826589,undef
+33685234958,45.759505,4.82544,94,cafe france lyon building cafe,2018,12,12,6,44,1.571741303400594,undef
+48466146986,45.759525,4.825444,94,traboules traboules france rivercruise rhoneriver emeraldcruiselines secrettunnels,2019,7,18,11,8,1.7860545182684395,undef
+48466299727,45.759525,4.825444,94,traboules traboules france rivercruise rhoneriver emeraldcruiselines secrettunnels,2019,7,18,17,19,1.7863075871793834,undef
+48466146656,45.759525,4.825444,94,traboules traboules france rivercruise rhoneriver emeraldcruiselines secrettunnels,2019,7,18,17,27,1.78631304419094,undef
+48466146381,45.759525,4.825444,94,traboules traboules france rivercruise rhoneriver emeraldcruiselines secrettunnels,2019,7,18,17,29,1.7863144084438292,undef
+48466146106,45.759525,4.825444,94,traboules traboules france rivercruise rhoneriver emeraldcruiselines secrettunnels,2019,7,18,17,13,1.7863034944207157,undef
+48466145651,45.759525,4.825444,94,traboules traboules france rivercruise rhoneriver emeraldcruiselines secrettunnels,2019,7,18,11,9,1.7860552003948842,undef
+48466145596,45.759525,4.825444,94,traboules traboules france rivercruise rhoneriver emeraldcruiselines secrettunnels,2019,7,18,17,18,1.7863069050529388,undef
+48466298002,45.759525,4.825444,94,traboules traboules france rivercruise rhoneriver emeraldcruiselines secrettunnels,2019,7,18,11,19,1.78606202165933,undef
+48708546497,45.759357,4.825551,94,pasted paper jae ray mie lyon france streetart france europe lyon pasteup collage paper wheatpaste pasted wheatpaper ray jae mie,2019,7,16,16,43,1.7843185064669516,undef
+48659262878,45.759444,4.825555,94,vieuxlyon france lyon vieuxlyon saintjean,2019,9,1,11,55,1.8302883718209284,undef
+48866649902,45.759454,4.825508,94,croque lyon thtre guignol ,2019,10,8,11,29,1.8666143335012568,undef
+49070944597,45.759498,4.825515,94,soleil ,2019,10,25,22,21,1.883757535306755,undef

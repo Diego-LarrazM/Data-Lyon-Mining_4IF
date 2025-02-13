@@ -1,0 +1,132 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+6089484349,45.775395,4.85637,169,serre parc tte dor france europe lyon place rhne parc palmier serre parcdelattedor,2011,8,28,16,32,-1.0436215258576822,undef
+6089482339,45.775395,4.85637,169,serre parc tte dor france europe lyon place rhne parc serre parcdelattedor,2011,8,28,16,27,-1.0436249364899053,undef
+6204739196,45.775575,4.856327,169,parc tte dor ,2011,9,25,11,33,-1.0163221434186465,undef
+6795948182,45.775507,4.856321,169,carnivorous plant france geotagged lyon frana carnivorousplant plantacarnvora parcdelattedor christianbaudet,2012,2,18,16,14,-0.8727202021765917,undef
+6942057535,45.775507,4.856321,169,carnivorous plant france geotagged lyon frana carnivorousplant plantacarnvora parcdelattedor christianbaudet,2012,2,18,16,12,-0.872721566429481,undef
+6942051343,45.775507,4.856321,169,carnivorous plant france geotagged lyon frana carnivorousplant plantacarnvora parcdelattedor christianbaudet,2012,2,18,16,12,-0.872721566429481,undef
+6942048475,45.775507,4.856321,169,carnivorous plant france geotagged lyon frana carnivorousplant plantacarnvora parcdelattedor christianbaudet,2012,2,18,16,12,-0.872721566429481,undef
+6942045797,45.775507,4.856321,169,carnivorous plant france geotagged lyon frana carnivorousplant plantacarnvora parcdelattedor christianbaudet,2012,2,18,16,12,-0.872721566429481,undef
+7262469488,45.775335,4.856413,169, red flower nature water yellow open raindrop flowersadminfave,2012,5,24,14,49,-0.7784810232239169,undef
+7568156832,45.775544,4.856291,169,chloe sitting amphitheatre lyon france public zoe kristifox,2012,5,8,7,18,-0.794504855533839,undef
+8008682033,45.77547,4.856418,169,pepper margot park white france green foot sunglass smiling sign pepper outdoors europe heart lyon head gray september wife reg parcdelatetedor rhonealpes tharrondissement meggiev parkofthegoldenhead centrallyon,2012,9,16,12,41,-0.6656081961843091,undef
+8008681903,45.77538,4.856396,169,red flower park flower tree shadow red plant france green garden garden outdoors bush europe lyon path ground september blossums parcdelatetedor rhonealpes tharrondissement parkofthegoldenhead centrallyon,2012,9,16,12,50,-0.6656020570463078,undef
+8554129309,45.77538,4.856364,169,acer griseum arboretum plantes acergriseum fleursvgtaux jardinbotaniquedelyon,2013,1,16,15,6,-0.5456733140638353,undef
+8635012098,45.775455,4.856375,169,parc tte dor life park city winter urban brown street tree green nature color monochrome animal garden photography photo nikon squirrel photographie close natural lyon photo bokeh couleurs streetphotography jardin vert rhne dor rue marron arbre parc ville tte cureuil photography wildlfe tdallest dallest,2013,3,29,12,47,-0.4750452598642847,undef
+8635011972,45.775455,4.856375,169,parc tte dor life park city winter urban brown street tree green nature color animal garden photography photo nikon squirrel photographie close natural lyon photo bokeh couleurs streetphotography jardin vert rhne dor rue marron arbre parc ville tte cureuil photography wildlfe tdallest dallest,2013,3,29,12,50,-0.475043213484951,undef
+8633905037,45.775455,4.856375,169,parc tte dor life park city tree winter portrait urban brown street tree green nature color animal portrait garden photography photo eye nikon squirrel photographie close natural lyon photo bokeh couleurs streetphotography jardin vert rhne oeil yeux dor rue marron arbre parc ville tte cureuil photography wildlfe tdallest dallest,2013,3,29,12,51,-0.4750425313585064,undef
+8635011676,45.775455,4.856375,169,parc tte dor life park city winter urban brown street tree green nature color animal garden photography photo nikon squirrel photographie close natural lyon photo bokeh couleurs streetphotography jardin vert rhne hidden dor rue marron arbre parc ville tte cureuil photography wildlfe tdallest dallest,2013,3,29,12,52,-0.4750418492320618,undef
+8633904743,45.775455,4.856375,169,parc tte dor life park city tree winter portrait urban brown street tree green nature color monochrome animal portrait garden photography photo eye nikon squirrel photographie close natural lyon photo bokeh couleurs streetphotography jardin vert rhne oeil yeux dor rue marron arbre parc ville tte cureuil photography wildlfe tdallest dallest,2013,3,29,12,54,-0.4750404849791726,undef
+8633904573,45.775455,4.856375,169,parc tte dor city tree winter sky people urban woman white man street tree men color rain photography grey gris photo nikon woman photographie lyon photo bokeh couleurs homeless streetphotography pluie rhne arbres walker runner rue hobo arbre blanc ville gen clochard promeneur photography tdallest dallest,2013,3,29,12,59,-0.4750370743469496,undef
+8633904439,45.775455,4.856375,169,parc tte dor city tree winter light sky people urban blackandwhite bw woman white man street tree men monochrome rain contrast photography grey gris light photo blackwhite nikon woman photographie lyon noiretblanc photo bokeh lumire homeless streetphotography pluie rhne nb arbres walker runner rue hobo arbre blanc ville lumires gen clochard blackwhitephoto promeneur photography tdallest dallest,2013,3,29,13,0,-0.475036392220505,undef
+8728228335,45.77561,4.856386,169,parc tte dor lyon lyon dor parc tte parcdelattedor,2013,5,11,12,43,-0.4328107189208964,undef
+9170046526,45.775433,4.856289,169,orange shirt park lyon parc ttedor,2013,6,29,15,34,-0.3845632333684253,undef
+9167824651,45.775418,4.856396,169,travers gouttes park lyon parc ttedor,2013,6,29,15,35,-0.3845625512419807,undef
+9247582096,45.77547,4.856493,169,nympha libellule france lyon libellule nymphea nympha parcdelattedor,2013,7,8,13,22,-0.3758129153371929,undef
+9247574572,45.77547,4.856493,169,nymphea capensis france lyon greenhouse serre nymphea capensis nympha parcdelattedor serrevictoria,2013,7,8,13,17,-0.3758163259694158,undef
+9247568498,45.77547,4.856493,169,nymphea capensis france lyon greenhouse serre nymphea capensis nympha parcdelattedor serrevictoria,2013,7,8,13,17,-0.3758163259694158,undef
+9244780367,45.77547,4.856493,169,serre victoria france green lyon vert greenhouse serre nymphea capensis nympha parcdelattedor victoriacruziana serrevictoria,2013,7,8,13,17,-0.3758163259694158,undef
+9755427734,45.7754,4.856297,169,parc tte dor lyon lyon parcdelattedor,2013,9,14,10,53,-0.309120730722941,undef
+9755192213,45.775367,4.856336,169,parc tte dor lyon lyon parcdelattedor,2013,9,14,11,0,-0.3091159558378288,undef
+9643471231,45.77553,4.856364,169,parc tte dor lyon lyon thunbergia parcdelattedor battiscombei,2013,8,31,12,10,-0.3228198761096919,undef
+11903501553,45.775475,4.856397,169,parc tte dor lyon lyon jardinbotanique parcdelattedor serrehollandaise,2014,1,11,11,50,-0.1921926619702308,undef
+11903060003,45.77547,4.856321,169, cactus plante lyon,2014,1,11,16,17,-0.1920105342095246,undef
+11903652456,45.77547,4.856321,169, plante lyon carnivore,2014,1,11,16,13,-0.192013262715303,undef
+11902775585,45.77547,4.856321,169, plante lyon carnivore,2014,1,11,16,12,-0.1920139448417476,undef
+11903206574,45.77547,4.856321,169, plante lyon carnivore,2014,1,11,16,12,-0.1920139448417476,undef
+11903646616,45.77547,4.856321,169, plante lyon carnivore,2014,1,11,16,11,-0.1920146269681922,undef
+11902770335,45.77547,4.856321,169, plante lyon carnivore,2014,1,11,16,11,-0.1920146269681922,undef
+11903643576,45.77547,4.856321,169, cactus plante lyon,2014,1,11,16,10,-0.1920153090946368,undef
+14267016524,45.775478,4.856482,169,parc tte dor lyon lyon parcdelattedor,2014,5,25,12,37,-0.0605374832787689,undef
+14673644746,45.775469,4.856405,169,parc tte dor lyon lyon lotus jardinbotanique parcdelattedor,2014,7,19,11,51,-0.0065444466834953,undef
+14563967191,45.775455,4.856353,169, macro fleur parcdelattedor nikoncoolpixp,2014,7,1,16,35,-0.0240314402170683,undef
+14763500849,45.77553,4.856472,169,bain fleur macro fleur violet mauve nnuphar,2014,8,17,16,40,0.022138288185174,undef
+14947062781,45.77553,4.856472,169,petite fleur deviendra grande macro fleur violet mauve blanc petite cur hortensia,2014,8,17,16,43,0.0221403345645078,undef
+15673766480,45.775402,4.85638,169,parc tte dor lyon ,2014,11,23,10,6,0.1181312142268962,undef
+16288390537,45.775452,4.856277,169,parc tte dor lyon lyon passiflore parcdelattedor passifloramollissima,2015,2,8,10,42,0.1937899509553163,undef
+16346367384,45.775452,4.856277,169,parc tte dor lyon ,2015,3,29,9,2,0.2418525802413028,undef
+16781253900,45.775452,4.856277,169,parc tte dor lyon ,2015,3,29,9,7,0.2418559908735258,undef
+17089210469,45.775561,4.856427,169, flower plant france bike bicycle garden lyon vtt canoneos mmf stmpancake michaelflocco cubeaimdisc,2015,4,26,9,32,0.2693763822806096,undef
+17249440216,45.775305,4.856405,169, plant france bike bicycle lyon greenhouse vtt mmf lusm canoneos michaelflocco cubeaimdisc,2015,4,26,9,36,0.269379110786388,undef
+17555406840,45.775455,4.856353,169, waterlily nnuphar serre parcdelattedor nikoncoolpixp,2015,5,11,11,11,0.284177844001822,undef
+17555399370,45.775455,4.856353,169, waterlily nnuphar serre parcdelattedor nikoncoolpixp,2015,5,11,11,9,0.2841764797489328,undef
+19663800966,45.775377,4.856502,169,parc tte dor lyon lyon libellule parcdelattedor,2015,7,8,12,17,0.3411940649995295,undef
+22249693860,45.775277,4.856388,169,parc tte dor lyon fleur lyon parcdelattedor dalechampiadioscoreifolia,2015,10,24,9,3,0.4471460371323019,undef
+22141575159,45.77547,4.856493,169,victoria cruziana flower fleur lyon victoria serre nymphea parcdelattedor serrevictoria,2014,5,1,14,13,-0.0840462890652044,undef
+22141474569,45.775365,4.856278,169,drosera regia lyon drosera serre parcdelattedor plantescarnivores droseraregia,2014,5,1,14,21,-0.0840408320536476,undef
+22140195600,45.775365,4.856278,169,serre plantes carnivore lyon nepenthes drosera serre parcdelattedor plantescarnivores sarraceniaces,2014,5,1,14,22,-0.084040149927203,undef
+21707053103,45.775365,4.856278,169,nepenthes copelandii lyon nepenthes serre parcdelattedor plantescarnivores nepenthescopelandii,2014,5,1,14,30,-0.0840346929156463,undef
+22302038526,45.775365,4.856278,169,sarracenia oreophila lyon serre sarraceniaoreophila parcdelattedor plantescarnivores sarraceniaces,2014,5,1,14,18,-0.0840428784329814,undef
+21705267384,45.775365,4.856278,169,sarraceniaces lyon serre sarraceniaoreophila parcdelattedor plantescarnivores sarraceniaces,2014,5,1,14,19,-0.0840421963065368,undef
+22327946335,45.775365,4.856278,169,sarraceniaces lyon serre sarraceniaoreophila parcdelattedor plantescarnivores sarraceniaces,2014,5,1,14,19,-0.0840421963065368,undef
+22301810916,45.775365,4.856278,169,sarraceniaces lyon serre sarraceniaoreophila parcdelattedor plantescarnivores sarraceniaces,2014,5,1,14,24,-0.0840387856743138,undef
+22140899759,45.77547,4.856493,169,victoria cruziana flower fleur lyon victoria serre nymphea parcdelattedor serrevictoria,2014,5,1,14,14,-0.0840456069387598,undef
+22140819419,45.77547,4.856493,169,victoria cruziana flower fleur lyon victoria serre nymphea parcdelattedor serrevictoria,2014,5,1,14,16,-0.0840442426858706,undef
+22140747019,45.77547,4.856493,169,victoria cruziana flower fleur lyon victoria serre nymphea parcdelattedor serrevictoria,2014,5,1,14,17,-0.084043560559426,undef
+22139788628,45.77547,4.856493,169,victoria cruziana flower fleur lyon victoria serre nymphea parcdelattedor serrevictoria,2014,5,1,14,18,-0.0840428784329814,undef
+21983110982,45.77553,4.856439,169,rayures amincit non lyon dor animaux parc tete,2015,10,2,17,11,0.4258691490725731,undef
+22673445903,45.775418,4.85645,169,orange flower flower orange plant green nature dof deepoffield,2015,11,22,14,42,0.475862878323201,undef
+23621814674,45.775344,4.85645,169,parc tte dor tree france nature horizontal landscape outdoors scenic wideangle arbres paysage hdr fra hdri traveldestinations rhnealpes grandangle beautyinnature highdynamicrangeimaging beautdelanature prisedevueenextrieur imageriegrandegammedynamique imagegrandegammedynamique destinationdevoyage parkmanmadespace parcpublicamnagementdelespace,2016,1,6,15,10,0.5200837714732427,undef
+25011479954,45.775455,4.856353,169, macro plante droplet smartphone carnivore gouttes samsunggalaxys,2016,3,9,11,54,0.5818325857435328,undef
+28144934046,45.775427,4.856475,169,parc tte dor lyon lyon grenouille parcdelattedor serrevictoria,2016,7,7,17,30,0.6999332298544975,undef
+28828668315,45.775427,4.85643,169,parc tte dor lyon serre victoria parcdelattedor lyon grenouille nnuphar,2016,8,7,9,42,0.7300641191650368,undef
+23725410125,45.775375,4.856472,169,parc tte dor lyon fleur lyon parcdelattedor dalechampiadioscoreifolia,2015,12,12,11,8,0.4953621448683218,undef
+34483228105,45.775455,4.856353,169, fujifilmxt nnuphar waterlily frog grenouille,2017,5,5,13,32,0.9964140319850646,undef
+35558979886,45.775528,4.856353,169,bernard jussieu bernarddejussieu memorial monument statue lyon lyon,2014,5,1,9,40,-0.0842325095845781,undef
+34836364333,45.775365,4.856278,169,echium wildprettii lyon parcdelattedor serre ttedor ttedorpark france greenhouse echiumwildprettii,2014,5,1,14,27,-0.0840367392949801,undef
+35605711866,45.775365,4.856278,169,echium wildprettii lyon parcdelattedor serre ttedor ttedorpark france greenhouse echiumwildprettii,2014,5,1,14,27,-0.0840367392949801,undef
+36954159002,45.77547,4.856321,169, lyon,2017,9,3,16,40,1.1153959834624427,undef
+36954158512,45.77547,4.856321,169, fleur lyon,2017,9,3,16,41,1.1153966655888874,undef
+36936112836,45.77547,4.856321,169, fleur lyon,2017,9,3,16,41,1.1153966655888874,undef
+36954157632,45.77547,4.856321,169, fleur lyon,2017,9,3,16,42,1.1153973477153318,undef
+36954157222,45.77547,4.856321,169, lyon,2017,9,3,16,45,1.1153993940946656,undef
+27497557617,45.775425,4.856513,169,parc tte dor lyon lyon auvergnerhnealpes france hibiscusschizopetalus serrevictoria serre parcdelattedor,2018,5,26,12,6,1.3755085320731169,undef
+41211715655,45.775455,4.856353,169, fujifilmxt parcdelattedor lyon nnuphar waterlily lotusbleu,2018,5,6,23,25,1.3563264543247315,undef
+41907653042,45.775455,4.856353,169, fujifilmxt libellule dragonfly,2018,5,6,23,36,1.3563339577156222,undef
+40128138240,45.775455,4.856353,169, fujifilmxt plantecarnivore plante plant vgtal proxi,2018,5,4,22,54,1.354340784244523,undef
+41206143384,45.775455,4.856353,169, fujifilmxt parcdelattedor lyon parc ttedor proxi fleur flower vgtal,2018,5,4,21,56,1.3543012209107366,undef
+41879669272,45.775455,4.856353,169, fujifilmxt parcdelattedor lyon parc ttedor proxi fleur flower vgtal,2018,5,4,21,51,1.3542978102785137,undef
+28053033038,45.775455,4.856353,169, fujifilmxt parcdelattedor lyon parc ttedor proxi fleur flower vgtal,2018,5,4,21,31,1.3542841677496218,undef
+40105922810,45.775455,4.856353,169, fujifilmxt plant plante fleur flower vgtal,2018,5,4,22,1,1.3543046315429594,undef
+43346304665,45.77547,4.856321,169, parc tte dor lyon nature,2018,7,29,13,53,1.4384462927363315,undef
+43534748804,45.77547,4.856321,169, parc tte dor lyon nature,2018,7,29,13,54,1.4384469748627764,undef
+43534748864,45.77547,4.856321,169, parc tte dor lyon nature,2018,7,29,13,50,1.438444246356998,undef
+43534748264,45.77547,4.856321,169, parc tte dor lyon nature,2018,7,29,13,59,1.4384503854949993,undef
+43346304305,45.77547,4.856321,169, parc tte dor lyon nature,2018,7,29,13,56,1.4384483391156655,undef
+44770241472,45.77528,4.856325,169,lyon france lyon france francia europe europa city ciudad,2018,9,15,10,8,1.485441394136531,undef
+44715610872,45.775555,4.856388,169, ,2018,9,12,10,43,1.4825184823214523,undef
+29827955987,45.775555,4.856388,169, ,2018,9,12,10,42,1.4825178001950077,undef
+43901583234,45.775425,4.856505,169,parc tte dor lyon nnuphar serrevictoria lyon parcdelattedor,2018,9,9,10,4,1.4795450931494736,undef
+45597419861,45.775328,4.856461,169,parc tte dor serres ,2018,10,28,12,58,1.5277946250812786,undef
+47974123213,45.775455,4.856353,169, fujifilmxt vgtal plante plant nnuphar waterlily,2019,5,31,11,21,1.7389148060619866,undef
+47974118591,45.775455,4.856353,169, fujifilmxt vgtal plante plant nnuphar waterlily,2019,5,31,11,21,1.7389148060619866,undef
+47973564232,45.775455,4.856353,169, fujifilmxt plantecarnivore carnivorousplant plante plant,2019,5,31,11,29,1.7389202630735434,undef
+47973413572,45.775455,4.856353,169, fujifilmxt plantecarnivore carnivorousplant plante plant,2019,5,31,11,27,1.738918898820654,undef
+47973329242,45.775455,4.856353,169, fujifilmxt libellule demoiselle dragonfly damselfly macro insecte insect,2019,5,31,11,10,1.7389073026710962,undef
+47973210013,45.775455,4.856353,169, fujifilmxt macro libellule dragonfly demoiselle damselfly zygoptre insecte insect,2019,5,31,11,12,1.7389086669239853,undef
+40838664133,45.77547,4.856321,169, lyon parc tte dor animaux,2019,2,23,16,48,1.64385843962869,undef
+48245617922,45.7756,4.85638,169,mvimg ,2019,7,9,15,33,1.777394923054338,undef
+48245617547,45.7756,4.85638,169,mvimg ,2019,7,9,15,32,1.777394240927893,undef
+48523034021,45.775416,4.856391,169, parcdelattedor lyon france duck pato canard lyonbotanicgarden jardinbotanique april,2019,4,17,13,20,1.6957764475795132,undef
+48523033441,45.775416,4.856391,169,peony flower lyonbotanicgarden lyon france jardinbotanique parcdelattedor peony fleur avril april spring printemps botanischergarten jardimbotnico primavera abril park parque,2019,4,17,13,21,1.6957771297059578,undef
+48521961647,45.775416,4.856391,169, flower botany lyon france jardinbotaniquedelyon parcdelattedor lyonbotanicgarden,2019,4,17,13,16,1.6957737190737348,undef
+48521793346,45.775416,4.856391,169, duck waterfowl lyonbotanicgarden jardinbotaniquedelyon parcdelattedor canard pato lyon bird anatidae aquaticbirds france primavera abril april spring printemps avril park parque,2019,4,17,13,18,1.695775083326624,undef
+48521792376,45.775416,4.856391,169, duck waterfowl lyonbotanicgarden jardinbotaniquedelyon parcdelattedor canard pato lyon bird anatidae aquaticbirds france,2019,4,17,13,20,1.6957764475795132,undef
+48521668792,45.775416,4.856391,169, lyon france,2019,4,17,13,16,1.6957737190737348,undef
+48518027572,45.775416,4.856391,169,clerodendrum thomsoniae lamiaceae flower red white botany clerodendrumthomsoniae parcdelattedor lyon jardinbotaniquedelyon lyonbotanicgarden,2019,4,17,13,16,1.6957737190737348,undef
+48517796441,45.775416,4.856391,169, southafricanplants lyon france greenhouse invernadero jardinbotanique serre lyonbotanicgarden jardinbotaniquedelyon conservatory,2019,4,17,13,15,1.6957730369472903,undef
+48517917257,45.775416,4.856391,169, southafricanplants botany greenhouse lyonbotanicgarden lyon france jardinbotaniquedelyon jardinbotanique serre conservatory,2019,4,17,13,14,1.6957723548208457,undef
+48517672896,45.775416,4.856391,169,nymphaea micrantha aquaticplant serre greenhouse invernadero lyonbotanicgarden lyon france lotus waterlily botany jardnbotnico jardinbotaniquedelyon nymphaeamicrantha conservatory,2019,4,17,13,13,1.695771672694401,undef
+48515545426,45.775416,4.856391,169,lotus water lily care acquaticplants greenhouse aquaticplants serre tropicalplants botany jardinbotanique lyon france flower flores lyonbotanicgarden jardinbotaniquedelyon conservatory,2019,4,17,13,13,1.695771672694401,undef
+48514961066,45.775416,4.856391,169,detail trunk cycas thouarsii france lyon greenhouse trunk botany estufa serre invernadero parcdelattedor jardinbotaniquedelyon lyonbotanicgarden conservatory cycad cycasthouarsii,2019,4,17,13,12,1.6957709905679563,undef
+48515138712,45.775416,4.856391,169,cycas thouarsii detail france parcdelattedor jardinbotaniquedelyon lyonbotanicgarden lyon greenhouse botany estufa serre invernadero conservatory cycad cycasthouarsii,2019,4,17,13,12,1.6957709905679563,undef
+48515138577,45.775416,4.856391,169,cycas thouarsii france leaf lyon greenhouse botany frond estufa gewchshaus serre invernadero parcdelattedor jardinbotaniquedelyon lyonbotanicgarden cycad conservatory cycasthouarsii,2019,4,17,13,12,1.6957709905679563,undef
+48514348922,45.775416,4.856391,169,cycas thouarsii cycasthouarsii cycad lyonbotanicgarden lyon france botany jardinbotaniquedelyon parcdelattedor madagascarcycad madagascarplants cycad cycadaceae serre greenhouse conservatory,2019,4,17,13,11,1.695770308441512,undef
+48513658406,45.775416,4.856391,169,sarracenia lyon france parcdelattedor sarracenia hybrid serre greenhouse carnivorousplants jardinbotanique lyonbotanicgarden jardinbotaniquedelyon serrehollandaise gewchshaus invernadero greenhose botany hothouse estufa carnivorous jardnbotnico jardimbotnico frankreich francia botanischergarten ortobotanico sarraceniaxswaniana hybridization conservatory,2019,4,17,13,5,1.6957662156828444,undef
+48509837471,45.775416,4.856391,169,sarracenia x swaniana carnivorousplants serrehollandaise greenhose botany hothouse lyonbotanicgarden lyon france jardinbotaniquedelyon gewchshaus invernadero sarracenia estufa carnivorous jardnbotnico jardimbotnico frankreich francia botanischergarten ortobotanico hybrid sarraceniaxswaniana hybridization parcdelattedor serre greenhouse jardinbotanique conservatory,2019,4,17,13,4,1.6957655335563997,undef
+48509627721,45.775416,4.856391,169,carnivorous plant serre glasshouse serrehollandaise lyon jardinbotanique botany parcdelattedor lyonbotanicgarden carnivorousplants greenhose hothouse francia frankreich estufa botanischergarten ortobotanico jardinbotaniquedelyon conservatory,2019,4,17,13,4,1.6957655335563997,undef
+48514347777,45.775416,4.856391,169,carnivorous plant serrehollandaise lyonbotanicgarden carnivorousplants grenhouse botany lyon france jardinbotaniquedelyon parcdelattedor serre conservatory,2019,4,17,13,9,1.6957689441886228,undef
+48478352781,45.775416,4.856391,169,cycas thouarsii cycasthouarsii lyonbotanicgarden jardinbotaniquedelyon parcdelattedor greenhouse serre hothouse invernadero gewchshaus botany botanischergarten france frankreich park cycad eastafricanplants,2019,4,17,13,17,1.6957744012001794,undef
+48477832361,45.775494,4.856383,169,strelitzia tropicalplants lyon jardinbotaniquedelyon france botanicgarden,2019,4,17,13,17,1.6957744012001794,undef
+48477962132,45.775597,4.856372,169,sarracenia rubra sweet pitcherplant flower spring printemps fleurs france jardinbotaniquedelyon parcdelattedor lyon botanicgarden botanicalgarden flores jardnbotnico sarraceniarubra carnivorousplants sweetpitcherplant sarraceniaceae americanplants,2019,4,17,13,9,1.6957689441886228,undef
+48477876667,45.775316,4.856266,169, tulip springtime tulipanes tulipes fleurs lyon lyonbotanicgarden jardinbotaniquedelyon france,2019,4,17,13,1,1.695763487177066,undef

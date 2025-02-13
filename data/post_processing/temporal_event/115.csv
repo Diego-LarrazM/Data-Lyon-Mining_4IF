@@ -1,0 +1,296 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+5177943783,45.761622,4.829166,115,night view night cityscape frlyon,2010,11,5,17,17,184439820.0,undef
+5588447727,45.761583,4.829194,115, france europe lyon unesco worldheritage,2011,3,15,16,7,195667620.0,undef
+5589037198,45.761583,4.829194,115, france europe lyon unesco worldheritage,2011,3,15,16,7,195667620.0,undef
+5589033306,45.761583,4.829166,115, france europe lyon unesco worldheritage,2011,3,15,16,7,195667620.0,undef
+6426814625,45.761535,4.829134,115,sane lyon eau lyon reflet nuage fleuve rhonealpes,2011,11,17,12,40,216996000.0,undef
+6903059279,45.761673,4.829269,115,img f ,2012,2,18,13,54,225035640.0,undef
+6903057505,45.76158,4.829043,115,img f ,2012,2,18,13,53,225035580.0,undef
+6662318963,45.761804,4.829092,115,ballet lumires lyon lumieres fete,2011,12,8,20,50,218839800.0,undef
+6662317729,45.761804,4.829092,115,ballet lumires lyon lumieres fete,2011,12,8,20,50,218839800.0,undef
+6501571389,45.761482,4.829038,115,g flow ,2011,12,9,18,21,218917260.0,undef
+6842707890,45.761666,4.829333,115, ,2009,7,11,22,47,142814820.0,undef
+6842707550,45.761833,4.829166,115, ,2009,7,11,22,46,142814760.0,undef
+8290716101,45.761665,4.829333,115,sane ,2012,6,8,13,4,234623040.0,undef
+9258004794,45.76167,4.829285,115,saone river bonaparte bridge summer urban sunlight france river photography nikon lyon sunny wideangle mm mm nikond saone digijack,2013,6,6,17,46,266003160.0,undef
+9561818819,45.761611,4.829027,115,parvis palais justice lyon france blackandwhite france lyon palaisdejustice noiretblanc passerelle,2013,8,5,15,2,271177320.0,undef
+9547823006,45.761666,4.829166,115,montmartre ,2013,7,18,22,47,269650020.0,undef
+9529241293,45.761666,4.829166,115,lyon ,2013,7,18,22,47,269650020.0,undef
+9522318557,45.761707,4.829134,115, lyon fourvire passerelle nikoncoolpixp,2013,8,16,17,35,272136900.0,undef
+9987076674,45.761632,4.828952,115,lyon weight one self ,2013,9,28,16,58,275849880.0,undef
+9987063015,45.761602,4.828931,115,lyon weight one self ,2013,9,28,16,59,275849940.0,undef
+9987190663,45.761602,4.828931,115,lyon weight one self ,2013,9,28,17,0,275850000.0,undef
+9861569274,45.761652,4.829147,115,rose lyon,2013,9,21,17,46,275247960.0,undef
+9856743516,45.761647,4.82921,115,weight one self michael elmgreen ingar dragset blackandwhite noiretblanc theweightofoneself,2013,9,21,11,8,275224080.0,undef
+9856606194,45.761647,4.82921,115,weight one self michael elmgreen ingar dragset blackandwhite noiretblanc theweightofoneself,2013,9,21,11,7,275224020.0,undef
+9861354276,45.761672,4.829291,115,bottes france lyon berges rhone jacobin,2013,9,21,17,46,275247960.0,undef
+9861351655,45.761658,4.829211,115,help france lyon berges rhone,2013,9,21,17,47,275248020.0,undef
+9722269713,45.761714,4.829027,115, ,2013,9,8,11,31,274102260.0,undef
+9725497112,45.761714,4.829027,115, ,2013,9,8,11,32,274102320.0,undef
+9725496470,45.761714,4.829027,115, ,2013,9,8,11,32,274102320.0,undef
+9725500618,45.761714,4.829027,115, ,2013,9,8,11,27,274102020.0,undef
+9722271927,45.761714,4.829027,115, ,2013,9,8,11,27,274102020.0,undef
+9725499502,45.761714,4.829027,115, ,2013,9,8,11,27,274102020.0,undef
+9722270867,45.761714,4.829027,115, ,2013,9,8,11,29,274102140.0,undef
+9722270259,45.761714,4.829027,115, ,2013,9,8,11,30,274102200.0,undef
+9670666941,45.761707,4.829134,115, white black statue noir lyon blanc passerelle sane nikoncoolpixp,2013,9,4,17,27,273778020.0,undef
+10534428894,45.761713,4.82895,115,old couple street france yellow canon eos shot lyon candid mm automn f rhnealpes,2013,9,25,19,15,275598900.0,undef
+10494561246,45.761613,4.829183,115,lyon palais justice france frankreich francja,2013,7,19,12,9,269698140.0,undef
+10430662525,45.76171,4.829045,115,weight one self sculpture statue nu berges marbre elmgreen dragset sane,2013,10,20,9,21,277723260.0,undef
+10383062366,45.761744,4.829231,115, lyon vieux sane,2013,10,19,16,50,277663800.0,undef
+10383060116,45.761744,4.829231,115, lyon vieux sane,2013,10,19,16,50,277663800.0,undef
+10243366613,45.761685,4.82922,115,passerelle palais justice lyon nuit pont passerelle sane rhone passant promenade amateur french photo canon france franais franaise jeune pose,2013,10,9,21,16,276815760.0,undef
+10099650155,45.761651,4.829242,115, france lyon palaisdejustice nuit,2013,10,5,5,26,276413160.0,undef
+10099692323,45.761651,4.829242,115, france lyon palaisdejustice nuit,2013,10,5,5,27,276413220.0,undef
+10099658776,45.761651,4.829242,115, france lyon nuit passerelledupalaisdejustice,2013,10,5,5,29,276413340.0,undef
+10099612465,45.761651,4.829242,115, france lyon nuit passerelledupalaisdejustice,2013,10,5,5,32,276413520.0,undef
+10099636106,45.761651,4.829242,115, france lyon nuit passerelledupalaisdejustice,2013,10,5,5,33,276413580.0,undef
+10066378556,45.761714,4.828968,115,lyon tribunale architectural,2013,8,17,22,40,272241600.0,undef
+10866220794,45.761806,4.829268,115,passerelle bridge reflection night lyon passerelledupalaisdejustice saone,2013,10,29,4,27,278483220.0,undef
+10798242623,45.761542,4.82907,115,lyon weight one self michael elmgreen ingar dragset novembre ,2013,11,11,13,36,279639360.0,undef
+12088506344,45.76175,4.828939,115,colour lyon city urban france court lyon palaisdejustice rhne tribunal ville saintjean vieuxlyon rhnealpes paysageurbain yolandamiel,2014,1,17,10,54,285418440.0,undef
+12034748985,45.76165,4.82928,115,colonnes france monochrome architecture canon lyon noiretblanc nuit rhone ef mmf rhonealpes vieuxlyon quartierstjean canoneos formatpaysage,2014,1,12,18,56,285015360.0,undef
+13541176534,45.7617,4.829213,115,passerelle palais justice lyon bridge lyon pont,2014,3,13,12,45,290177100.0,undef
+13423057364,45.761595,4.82922,115,human space lyon space dancer human vieux projet danseuse,2014,3,16,12,57,290437020.0,undef
+13388521365,45.7617,4.829213,115,weight oneself elmgreen dragset lyon sculpture lyon installation elmgreen dragset elmgreendragset rivesdesane theweightofoneself,2014,3,10,22,5,289951500.0,undef
+13604922383,45.76161,4.828999,115,chapiteaux colonnes palais justice lyon lyon palaisdejustice,2014,3,13,12,49,290177340.0,undef
+13964818390,45.761666,4.828995,115, ,2014,4,19,19,24,293397840.0,undef
+14171516373,45.761654,4.828972,115, france building lyon,2014,4,19,19,21,293397660.0,undef
+13964807938,45.761654,4.828972,115, ,2014,4,19,19,21,293397660.0,undef
+14128392114,45.761622,4.829186,115,francelyon ,2014,4,23,20,28,293747280.0,undef
+13941429829,45.761536,4.829161,115,francelyon ,2014,4,23,20,29,293747340.0,undef
+14242492220,45.761744,4.829231,115, close lyon proche,2014,5,4,17,30,294687000.0,undef
+14405852646,45.761744,4.829231,115, close lyon proche,2014,5,4,17,34,294687240.0,undef
+14746672696,45.761567,4.829291,115,weight oneself lyon france rescue man france men statue architecture lyon column burden neoclassical carrying palaceofjustice elmgreen dragset rhnealpes saneriver weightofoneself janbuchholtz,2014,5,29,5,10,296802600.0,undef
+14561693148,45.761707,4.829134,115, nikoncoolpixp statue nuit lyon noiretblanc blackandwhite nb bnw bw monochrome monochromatic night,2014,7,25,21,9,301784940.0,undef
+14767514413,45.761707,4.829134,115, justice lyon lumire palais nuit fourvire nikoncoolpixp,2014,7,25,21,14,301785240.0,undef
+14698783581,45.76153,4.829211,115, france lyon hiver boulot rhnealpes,2013,11,11,17,25,279653100.0,undef
+14701096492,45.7616,4.829138,115, ,2014,7,19,22,27,301271220.0,undef
+14732418539,45.761566,4.829241,115,lyon ,2014,8,11,19,58,303249480.0,undef
+14617822627,45.761602,4.828931,115,lyon passerelle palais justice france lyon rhne rhnealpes passerelledupalaisdejustice lyonpresqule michaelelmgreeningardragset theweightofoneself,2014,8,1,21,29,302390940.0,undef
+14781350596,45.761602,4.828931,115,lyon passerelle palais justice france lyon palaisdejustice rhne rhnealpes lyonpresqule,2014,8,1,21,30,302391000.0,undef
+14824188313,45.761602,4.828931,115,lyon passerelle palais justice france lyon rhne rhnealpes passerelledupalaisdejustice lyonpresqule michaelelmgreeningardragset theweightofoneself,2014,8,1,21,32,302391120.0,undef
+14801238941,45.761602,4.828931,115,lyon passerelle palais justice france statue palaisdejustice rhne nightshots passerelle rhnealpes quaisdesane passerelledupalaisdejustice,2014,8,1,21,33,302391180.0,undef
+15193307997,45.761723,4.829068,115,dscf jpg bridge france puente lyon lovelycity,2014,9,20,18,4,306698640.0,undef
+15011603610,45.761499,4.829091,115,lyon sane ct passerelle palais justice july juillet,2014,7,30,17,18,302203080.0,undef
+14954792019,45.761626,4.829124,115,lyon statue lyon lesdemeuresdemorphee,2014,9,4,14,31,305303460.0,undef
+15473892059,45.761677,4.829081,115,lyon quand fait encore chaud mois doctobre lyon passerelledupalaisdejustice brumisateur france nikkor aipro,2014,10,14,12,57,308753820.0,undef
+15243320988,45.761463,4.829197,115,lyon france sept france lyon,2014,9,17,14,17,306425820.0,undef
+15406857656,45.761563,4.829238,115,lyon france sept france lyon,2014,9,17,14,18,306425880.0,undef
+11330624823,45.7617,4.828984,115,lph france lyon,2013,12,7,11,22,281877720.0,undef
+11330471415,45.7617,4.828984,115,lph sculpture france lyon,2013,12,7,11,23,281877780.0,undef
+11330624523,45.7617,4.828984,115,lph france lyon,2013,12,7,11,24,281877840.0,undef
+11312917413,45.761675,4.829161,115,img jpg lyon rhnealpes france fr lyonftedeslumires,2013,12,7,22,47,281918820.0,undef
+11312794125,45.761675,4.829161,115,img jpg lyon rhnealpes france fr lyonftedeslumires,2013,12,7,22,53,281919180.0,undef
+11312790665,45.761675,4.829161,115,img jpg lyon rhnealpes france fr lyonftedeslumires,2013,12,7,22,53,281919180.0,undef
+16616647786,45.761625,4.829092,115, france lyon,2014,5,14,20,20,295561200.0,undef
+16455002448,45.761625,4.829092,115, france lyon,2014,5,14,20,17,295561020.0,undef
+16285170019,45.761616,4.829038,115,weight one self architecture monument pont ville lyon rhnealpes france sonya,2014,9,4,22,4,305330640.0,undef
+16123388997,45.761602,4.828931,115,lyon france lyon rhne rhnealpes passerelledupalaisdejustice lyonpresqule michaelelmgreeningardragset theweightofoneself,2015,1,18,13,54,317051640.0,undef
+16054805577,45.761743,4.829007,115,brumisateur gant lyon street bw france monochrome lyon noiretblanc nb rue rhonealpes,2014,5,21,15,5,296147100.0,undef
+15584846093,45.761662,4.829167,115,fetelumieres france lyon palaisdejustice ftedeslumires dcembre lightfestival,2014,12,8,20,24,313532640.0,undef
+15583004963,45.761662,4.829167,115,fetelumieres france lyon palaisdejustice ftedeslumires dcembre lightfestival,2014,12,8,20,23,313532580.0,undef
+16140775646,45.76167,4.829134,115,fte lumires passerelle palais justice ,2015,1,1,19,11,315601860.0,undef
+16143665582,45.761662,4.829167,115,fetelumieres france lyon palaisdejustice ftedeslumires dcembre lightfestival,2014,12,8,18,18,313525080.0,undef
+16142277465,45.761662,4.829167,115,fetelumieres france lyon palaisdejustice ftedeslumires dcembre lightfestival,2014,12,8,18,15,313524900.0,undef
+15458452473,45.761804,4.829092,115,quai sane night lyon fte lumires ligths fourvire sane rives,2014,12,4,20,23,313186980.0,undef
+15890673668,45.761804,4.829092,115,passerelle palais justice night lyon fte lumires ligths fourvire sane rives,2014,12,4,20,0,313185600.0,undef
+16077409322,45.761804,4.829092,115,disco fourvire night lyon fte lumires ligths fourvire sane rives,2014,12,4,19,58,313185480.0,undef
+15813571008,45.761722,4.82909,115,lyon france longexposure bridge urban architecture night river dark nightshot lyon pont nuit fleuve saone canon dmarkii,2014,12,11,22,56,313800960.0,undef
+16782216010,45.76167,4.829306,115,lyon passerelle palais justice saint justice jean lyon palais rhone passerelle saone,2015,3,23,17,4,322592640.0,undef
+16349518743,45.761685,4.829124,115,lyon passelle palais justice justice lyon palais faade immeuble rhone passerelle saone,2015,3,23,17,5,322592700.0,undef
+16939581812,45.761666,4.829166,115,ville lyon fourvire lyon,2015,3,24,22,14,322697640.0,undef
+16738466709,45.761586,4.828952,115,passerelle palais justice across sane lyon view east west bank lyon ougsmealps,2014,6,21,17,24,298833840.0,undef
+16940561417,45.761647,4.82921,115,weight one self lyon blackandwhite statue lyon noiretblanc theweightofoneself,2015,4,14,0,0,324432000.0,undef
+17147327051,45.761647,4.82921,115,weight one self lyon lyon theweightofoneself,2015,4,14,13,50,324481800.0,undef
+16914056320,45.761602,4.828931,115,lyon quais sane france lumix lyon rhne panasonic rhnealpes passerelledupalaisdejustice lyonpresqule michaelelmgreeningardragset theweightofoneself panasoniclumixdmcfz,2015,4,6,17,5,323802300.0,undef
+16913832168,45.761602,4.828931,115,lyon quais sane france lumix lyon rhne panasonic rhnealpes passerelledupalaisdejustice lyonpresqule michaelelmgreeningardragset theweightofoneself panasoniclumixdmcfz,2015,4,6,17,6,323802360.0,undef
+16834240813,45.761647,4.82921,115,fleur flower fleurs,2015,5,8,8,15,326535300.0,undef
+18563268494,45.761617,4.82907,115,weight one self ,2015,6,26,14,48,330792480.0,undef
+19432916561,45.761647,4.828974,115, ,2015,7,4,17,24,331493040.0,undef
+19432825631,45.761647,4.828974,115, ,2015,7,4,11,45,331472700.0,undef
+19241015040,45.761647,4.828974,115, ,2015,7,4,11,44,331472640.0,undef
+19241010620,45.761647,4.828974,115, ,2015,7,4,11,42,331472520.0,undef
+20730012459,45.7617,4.829134,115,weight oneself michael elmgreen ingar dragset lyon michaelelmgreen ingardragset,2015,8,12,14,31,334852260.0,undef
+20753494052,45.761678,4.829176,115,tmax bw rolleiflex lyon tmax asa argentique xtol,2014,8,14,18,59,303505140.0,undef
+20195904665,45.761677,4.828931,115,quais sane statue lyon quais saone,2015,7,19,10,50,332765400.0,undef
+21561892209,45.761551,4.829091,115,carrying weight sculpture france male men statue lyon guy francia statua hommes frankrig scultura uomini carryingyourownweight,2015,6,24,13,36,330615360.0,undef
+16227814603,45.761497,4.829188,115,weight oneself man men nude naked publicart nu desnudo uomo hombre nudo lyon france frankrijk sane ingardragset art statue sculpture solidifiedmarblepowder rivesdesane escultura hommes homme homoerotic penis pene michaelelmgreen public kunst rhnealpes mand,2015,3,16,16,10,321984600.0,undef
+22323444990,45.761602,4.829208,115, france lyon,2015,10,21,11,58,340891080.0,undef
+22353434785,45.761557,4.82907,115,lyon october france statue night self one michael october lyon nuit weight ingar elmgreen dragset,2015,10,19,21,39,340753140.0,undef
+22089972625,45.761577,4.829283,115,sane luisante lyon saone,2015,10,10,19,34,339968040.0,undef
+23307739205,45.761513,4.829091,115,lyon lyon,2015,11,25,21,21,343948860.0,undef
+15745336739,45.761677,4.829145,115,lyon nuit passerelle palais justice france night lyon,2014,11,30,17,50,312832200.0,undef
+15928942732,45.761731,4.829145,115,lyon night decembre lyon pont nuit,2014,11,29,19,52,312753120.0,undef
+24825893590,45.761685,4.82921,115,lyon colonnes france lyon palaisdejustice rhne vieuxlyon quaidesane primatiale palaissaintjean primatialesaintjean colonnes rhnealpesauvergne,2016,2,14,17,4,350931840.0,undef
+25054768115,45.761697,4.829086,115, ,2016,2,15,15,35,351012900.0,undef
+25054767375,45.761697,4.829086,115, ,2016,2,15,15,35,351012900.0,undef
+25028423616,45.76168,4.829208,115, ,2016,2,15,15,36,351012960.0,undef
+24427877803,45.76168,4.829208,115, ,2016,2,15,15,36,351012960.0,undef
+24934227932,45.761685,4.82921,115,lyon france lyon palaisdejustice rhne vieuxlyon quaidesane primatiale palaissaintjean primatialesaintjean rhnealpesauvergne,2016,2,14,17,10,350932200.0,undef
+24756715350,45.761685,4.82921,115,lyon france lyon palaisdejustice rhne vieuxlyon quaidesane primatiale palaissaintjean primatialesaintjean rhnealpesauvergne,2016,2,14,17,13,350932380.0,undef
+23932776684,45.761591,4.82903,115,vieux lyon weight one self france statue fuji lyon fr elmgreen vieuxlyon rhnealpes passerelledupalaisdejustice theweightofoneself,2015,10,17,17,48,340566480.0,undef
+24462654605,45.761707,4.829156,115,passerrelle palais justice lyon world city longexposure light france art history monument architecture digital photoshop canon french effect photography town photo justice europe long exposure flickr raw cityscape photographer view shot lyon sony palais manual dslr dri hdr ville francais citt blending lightroom archi rhone photographe effets photomatix canonef mmf fromentin passerrelle fromus colocacin cuida r traitements metabones fromus ilce r fromentinjulien canone mmf liiusm,2015,5,7,19,49,326490540.0,undef
+24393498226,45.761763,4.829158,115,lyon hiver ,2016,1,16,16,6,348422760.0,undef
+23883707560,45.761685,4.829167,115,lyon lyon,2015,12,29,10,13,346846380.0,undef
+23551093714,45.761685,4.829167,115,lyon lyon,2015,12,29,10,15,346846500.0,undef
+24179261295,45.761685,4.829167,115,lyon lyon,2015,12,29,10,15,346846500.0,undef
+24096629731,45.761685,4.829167,115,lyon lyon,2015,12,29,10,16,346846560.0,undef
+23642694579,45.761707,4.829156,115,palais justice lyon world city longexposure light france art history monument architecture digital photoshop canon french effect photography town photo justice europe long exposure flickr raw cityscape photographer view shot lyon sony palais manual dslr dri hdr ville francais citt blending lightroom archi rhone photographe effets photomatix canonef mmf fromentin fromus colocacin cuida r traitements metabones fromus ilce r fromentinjulien canone mmf liiusm,2015,5,7,21,36,326496960.0,undef
+23760609112,45.761602,4.828931,115,lyon weight one self passerelle palais justice france lyon rhne rhnealpes passerelledupalaisdejustice lyonpresqule michaelelmgreeningardragset theweightofoneself,2015,12,20,10,28,346069680.0,undef
+26183337346,45.761647,4.82921,115,weight one self lyon blackandwhite white black statue lyon noiretblanc theweightofoneself,2015,4,14,13,49,324481740.0,undef
+26181691366,45.761544,4.829172,115,weight one self france lyon rhnealpes,2016,3,19,18,20,353874000.0,undef
+25934730600,45.761538,4.829216,115,belle vue quai clestins france lyon quai saone rhnealpes igers igerslyon monlyon,2016,3,19,18,20,353874000.0,undef
+27882715355,45.761738,4.829152,115, ,2014,6,6,14,38,297527880.0,undef
+27882714775,45.761708,4.829147,115, ,2014,6,6,14,38,297527880.0,undef
+27488526732,45.76167,4.829156,115,allons ,2014,1,1,12,4,284040240.0,undef
+26952113593,45.761815,4.829082,115,lyon lyon pont silhouette bridge black white,2016,6,8,12,44,360852240.0,undef
+28075356495,45.761608,4.829005,115, ,2016,6,25,7,5,362300700.0,undef
+27461816654,45.76163,4.829036,115, ,2016,6,25,7,4,362300640.0,undef
+27461816514,45.761605,4.828969,115, ,2016,6,25,7,5,362300700.0,undef
+27461816344,45.761608,4.829005,115, ,2016,6,25,7,5,362300700.0,undef
+27779350890,45.761767,4.829027,115,moineau jeune bird oiseau,2016,7,3,11,39,363008340.0,undef
+28059835055,45.761767,4.829027,115,moineau ,2016,7,3,11,45,363008700.0,undef
+28961373005,45.761729,4.829285,115,lyon fouvire lyon fourvire notredamedefourvire bouchesdurhne contrejour canon basilique sun soleil,2016,7,18,19,11,364331460.0,undef
+29640589346,45.761692,4.829134,115,vanit lyoniaise ,2016,9,13,20,29,369260940.0,undef
+29566816515,45.761692,4.828931,115,mtal humide lyon france rouille rust macro matire texture eau water urban urbain,2016,8,21,12,5,367243500.0,undef
+29517684565,45.761572,4.829027,115,weight one self france lyon sculpture michaelelmgreen ingardragset,2016,8,23,18,53,367440780.0,undef
+30286807715,45.761685,4.829177,115,palais justice historique lyon louispierre baltard palais justice historique lyon france francia frana neoclasico arquitectura architecture arte art cityscape ciudad city cidade europa europe vieux,2016,9,26,19,37,370381020.0,undef
+29986038710,45.761692,4.828931,115,pluie sol people personnes gen human portrait monochrome enfant,2016,8,21,12,5,367243500.0,undef
+29962279321,45.761636,4.829211,115,passerelle lyon lapasserelle rhnealpes auvergnerhnealpes rhne nelsandrine,2016,8,13,10,0,366544800.0,undef
+30842377240,45.761644,4.829081,115,weight oneself lyon hmbt sculpture statue,2016,8,15,11,51,366724260.0,undef
+30134279066,45.761707,4.829134,115,passerelle palais justice nikoncoolpixp lyon rhne france ville urbain nuit night passerelle palaisdejustice bridge,2016,10,6,19,4,371243040.0,undef
+32201338363,45.761655,4.828984,115,weight one self theweightofoneself lyon,2017,2,19,18,36,382991760.0,undef
+32428136566,45.761714,4.829328,115,cest cygne ,2017,1,22,11,47,380548020.0,undef
+32312834082,45.761655,4.829328,115,lyon france architecture lyon france europe city urban rhone palaisdejustice night longexposure light ef mmf lisusm canon eos canoneos reflection reflexion reflet,2017,1,10,18,40,379536000.0,undef
+32415546315,45.761555,4.829122,115,lyon france panasonicdmctz october sculpture lyon rhne auvergnerhnealpes france europeanunion theweightofoneself michaelelmgreen ingardragset naked nude malenude male,2015,10,29,12,38,341584680.0,undef
+31767053532,45.761707,4.829134,115,lyon passerelle palais justice nikoncoolpixp lyon,2016,12,27,13,0,378306000.0,undef
+31750546695,45.761714,4.829328,115,croyez chre ,2016,12,11,12,20,376921200.0,undef
+33624436381,45.761707,4.829134,115,lyon night lyon nuit night lumire light passerelle blue bleu fujifilmxt,2017,3,30,22,5,386373900.0,undef
+33753403685,45.761707,4.829134,115,lyon night lyon nuit night lumire light fourvire palaisdejustice passerelle sane fujifilmxt,2017,3,30,20,43,386368980.0,undef
+33513067922,45.761714,4.829328,115,lopard eau water rflexion reflet bleu blue gris grey,2017,3,26,9,35,385983300.0,undef
+33212694345,45.761714,4.829328,115,moineau ,2017,2,26,12,7,383573220.0,undef
+33689628910,45.761744,4.829134,115,trio tte ,2017,4,16,12,21,387807660.0,undef
+33604724024,45.761707,4.829134,115,lyon passerelle palais justice fujifilmxt lyon passerelle passerelledupalaisdejustice bridge sane fleuve river,2017,5,3,17,8,389293680.0,undef
+34686021994,45.761513,4.829188,115,lyon weight one self sculpture bridge river statue,2017,6,20,15,37,393435420.0,undef
+35322496572,45.76164,4.828963,115,lyon ,2017,6,20,14,42,393432120.0,undef
+34999533680,45.761527,4.829144,115,passerelle palais justice river sane lyon statue gatekeeper light shadow lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes riversane lasane bridge tree tree vieuxlyon oldlyon unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite quairomainrolland passerelledupalaisdejustice footbridgeofthepalaisdejustice bridgeofthepalaisdejustice flyingbridge pontneuf gilbertlamboley statue gatekeeper lightsoftheshadow theweightofoneself michaelelmgreen ingardragset pontbonaparte pontdelarchevch pontdebois thecountsbellecourorthechanoines jeanchristophemarie carron tilsitt villeboisstone pierrescizewharf stoneofhauteville pierreofhauteville reinforcedconcrete quaitilsitt quaifulchiron,2017,6,3,13,0,391957200.0,undef
+35219663812,45.761707,4.829273,115,passerelle palais justice river sane lyon lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes riversane lasane bridge tree tree vieuxlyon oldlyon unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite quairomainrolland passerelledupalaisdejustice footbridgeofthepalaisdejustice bridgeofthepalaisdejustice flyingbridge pontneuf gilbertlamboley,2017,6,3,12,58,391957080.0,undef
+34576790653,45.761707,4.829273,115,passerelle palais justice river sane lyon lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes riversane lasane bridge tree tree vieuxlyon oldlyon unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite quairomainrolland passerelledupalaisdejustice footbridgeofthepalaisdejustice bridgeofthepalaisdejustice flyingbridge pontneuf gilbertlamboley,2017,6,3,12,59,391957140.0,undef
+34860799420,45.761666,4.829058,115,weight oneself lyon ,2017,5,19,18,36,390681360.0,undef
+34853375840,45.761707,4.829134,115, fujifilmxt lyon noiretblanc nb bnw bw blackandwhite monochrome monochromatic palaisdejustice,2017,6,11,11,18,392642280.0,undef
+34410745443,45.76155,4.829134,115,weight oneself france frankrijk lyon ingardragset michelelmgreen sculpture statue statua europa europe escultura estatua stone standbild standbeeld beeldhouwwerk beeld rivesdesane solidifiedmarblepowder man male monochrome monochroom monotone bw bn nb zw men mannen mnner homme hombre hommes hombre penis pene uomo uomini nude nu naakt nackt naked nudo art public kunst desnudo rhnealpes mand,2015,3,16,16,9,321984540.0,undef
+36228364836,45.761565,4.829092,115,weight oneself solidifiedmarblepowder europa europe escultura estatua sculpture statue statua lyon france frankrijk frankreich frana francia rivesdesane sane river rivier rivire fluss man men mannen mnner homme hommes hombre hombre uomo uomini art kunst public outside nu nude nudo desnudo naakt nackt naked penis pene bridge brug pont brcke ingardragset pontbonaparte water eau wasser michaelelmgreen rhnealpes vand acqua agua mand,2017,7,21,13,36,396106560.0,undef
+36132132811,45.761558,4.829188,115,img jpg lyon auvergnerhnealpes frankreich fr,2017,7,25,15,14,396458040.0,undef
+36224496756,45.761663,4.829158,115,img jpg lyon auvergnerhnealpes frankreich fr,2017,7,25,12,48,396449280.0,undef
+36089470842,45.761602,4.828984,115,lyon theweightofoneself ,2017,7,29,12,25,396793500.0,undef
+36089470952,45.761602,4.828984,115,lyon theweightofoneself ,2017,7,29,12,25,396793500.0,undef
+36089470742,45.761602,4.828984,115,lyon theweightofoneself ,2017,7,29,12,24,396793440.0,undef
+36089470572,45.761602,4.828984,115,lyon theweightofoneself ,2017,7,29,12,24,396793440.0,undef
+36089470402,45.761602,4.828984,115,lyon theweightofoneself ,2017,7,29,12,24,396793440.0,undef
+36089464722,45.761602,4.828984,115,lyon theweightofoneself ,2017,7,29,12,24,396793440.0,undef
+35863077100,45.761602,4.828984,115,lyon theweightofoneself ,2017,7,29,12,25,396793500.0,undef
+36256935655,45.761602,4.828984,115,lyon theweightofoneself ,2017,7,29,12,24,396793440.0,undef
+34982910864,45.761707,4.829134,115, ,2017,7,7,22,50,394930200.0,undef
+35920419984,45.761707,4.829134,115, fujifilmxt lyon palaisdejustice cathdrale saintjean noiretblanc nb blackandwhite bnw bw monochrome monochromatic,2017,8,15,10,11,398254260.0,undef
+35885192884,45.761666,4.829166,115,panorama lyon france lyon panorama,2017,8,4,13,50,397317000.0,undef
+36558123426,45.761658,4.829211,115,dsc jpg lyon auvergnerhnealpes france fr,2017,8,7,19,18,397595880.0,undef
+35768820704,45.761658,4.829211,115,dsc jpg lyon auvergnerhnealpes france fr,2017,8,7,19,18,397595880.0,undef
+36560394245,45.761573,4.829006,115,soir dt lyon lyon france sane nuit statue night pont couleurs color illumination passerelle bridge justice,2017,8,13,22,56,398127360.0,undef
+36331023731,45.761557,4.829092,115,weight oneself europa europe escultura estatua sculpture statue statua beeld beeldhouwwerk man male mannen mnner hommes hombre homoerotic erotic nu nude nudo desnudo naakt nackt naked penis pene art kunst public outside ingardragset lyon france frankrijk frankreich frana francia solidifiedmarblepowder michaelelmgreen rhnealpes mand,2017,7,21,13,33,396106380.0,undef
+36049631790,45.76152,4.829081,115,weight oneself theweightofoneself solidifiedmarblepowder ingardragset europa europe escultura estatua statue statua beeld beeldhouwwerk public art outside man mannen mnner men homme hommes hombre hombre uomo uomini nu nu nude nudo desnudo naakt nackt naked monochrome monochroom monotone bw bn zw nb lyon france frankrijk frankreich frana francia as butt buttock billen fess voeten pieds foot benen jambes leg michaelelmgreen rhnealpes mand,2017,7,21,13,36,396106560.0,undef
+37228580911,45.761636,4.829141,115,passerelle palais justice fra auvergnerhnealpes europa europe france francia frankreich lyon nikond passerelledupalaisdejustice dsplyys hapephotographix fr lyn,2017,7,26,12,14,396533640.0,undef
+36930264860,45.761744,4.829255,115,cour dappel lyon fra auvergnerhnealpes courdappeldelyon europa europe france francia frankreich lyon nikond dsplyys hapephotographix fr lyn,2017,7,26,12,13,396533580.0,undef
+37093747062,45.761707,4.829134,115,passerelle palais justice fujifilmxt lyon passerelle passerelledupalaisdejustice ciel sky nuage cloud,2017,9,16,16,33,401041980.0,undef
+37093662052,45.761707,4.829134,115,passerelle palais justice fujifilmxt lyon passerelle passerelledupalaisdejustice ciel sky nuage cloud,2017,9,16,16,31,401041860.0,undef
+37084472722,45.761769,4.829255,115,busy one mm lyon f canon eos candid street shot sunset summer auvergnerhnealpes france fr,2017,8,8,20,46,397687560.0,undef
+36844398430,45.761707,4.829134,115,passerelle palais justice fujifilmxt lyon nuit night passerelledupalaisdejustice,2017,9,13,21,57,400802220.0,undef
+36751106750,45.761759,4.829006,115,lyony lyon saintjean vieuxlyon,2017,9,14,21,0,400885200.0,undef
+36856607926,45.761737,4.829156,115, fujifilmxt lyon nuit night noiretblanc nb blackandwhite bnw bw monochrome monochromatic palaisdejustice,2017,9,4,22,20,400026000.0,undef
+36856607146,45.761707,4.829134,115, fujifilmxt lyon nuit night statue lune moon,2017,9,4,22,45,400027500.0,undef
+36856606446,45.761707,4.829134,115,statue weight oneself fujifilmxt lyon nuit night noiretblanc nb blackandwhite bnw bw monochrome monochromatic statue passerelle bridge footbridge,2017,9,4,22,33,400026780.0,undef
+37829137742,45.761707,4.829134,115,palais justice fujifilmxt lyon puddle reflet reflection palaisdejustice,2017,10,22,16,27,404152020.0,undef
+36901769044,45.761666,4.829166,115,lyon ,2017,7,10,19,28,395177280.0,undef
+37516371592,45.761647,4.829027,115,microfountains microfountains fontein fontaines fountain fuentes lyon france frankrijk frankreich francia frana wet mouill nat humide europa europe water eau wasser rhnealpes vand acqua agua,2017,7,21,13,35,396106500.0,undef
+37507076042,45.761707,4.829134,115, lyon fujifilmxt passerelle passerelledupalaisdejustice bridge pont sane fleuve river,2017,10,5,8,51,402655860.0,undef
+27119776529,45.761666,4.829166,115,visite berges rhne rives sane ,2017,10,6,17,18,402772680.0,undef
+37428166022,45.761744,4.829134,115,goutte ,2017,10,1,8,43,402309780.0,undef
+23884758287,45.761662,4.829177,115,weight one self lyon lyon theweightofoneself statue,2017,11,26,10,30,407154600.0,undef
+24503156328,45.761587,4.829124,115,interfrences ,2017,11,12,9,0,405939600.0,undef
+26299767709,45.761602,4.829113,115,passerelle palais justice lyon long exposure nuit night,2017,10,30,20,27,404857620.0,undef
+24223254758,45.761744,4.828984,115,palais justice lyon long exposure nuit night,2017,10,30,20,18,404857080.0,undef
+40391297372,45.761677,4.829059,115,justice always awake france vieuxlyon onlylyon palais night bluetime rhnealpes sane p hollidays,2018,2,21,19,41,414704460.0,undef
+25829936408,45.761707,4.829134,115,lyon palais justice fujifilmxt lyon palaisdejustice passerelle passerelledupalaisdejustice pont bridge nuit night lumire light,2017,3,30,20,20,386367600.0,undef
+25800854808,45.761707,4.829134,115,passerelle palais justice fujifilmxt lyon nuit night pont bridge sane fleuve river passerelledupalaisdejustice,2018,1,13,19,26,411333960.0,undef
+39554439132,45.761557,4.829092,115,weight oneself bn nb zw monochroom monotone monochrome bw europa europe lyon sculpture escultura statue estatua statua beeld beeldhouwwerk mannen men mnner hommes hombre uomini nu nude nudo desnudo naakt nackt naked nipple tepel france frankrijk frankreich francia frana art kunst public publiek erotic homoerotic solidifiedmarblepowder ingardragset michaelelmgreen rhnealpes mand,2017,7,21,13,34,396106440.0,undef
+39335120972,45.761542,4.829006,115,weight oneself lyon,2017,12,21,19,36,409347360.0,undef
+39057191811,45.761759,4.829006,115,lyon ,2017,12,14,20,52,408747120.0,undef
+25161976548,45.761707,4.829134,115,fte lumires fujifilmxt lyon ftedeslumires fetedeslumieres festivaloflights lumire light nuit night colorful illumination palaisdejustice,2017,12,7,23,24,408151440.0,undef
+41026293004,45.761707,4.829134,115, fujifilmxt palaisdejustice lyon,2018,4,26,8,43,420194580.0,undef
+26540691657,45.761575,4.829119,115, ,2018,3,1,20,19,415397940.0,undef
+41594053954,45.761719,4.829252,115,weight oneself elmgreen dragset quai romain rolland lyon auvergnerhnealpes france fr,2017,5,23,15,12,391014720.0,undef
+43023657042,45.761761,4.829242,115,shoot ludtz canon canoneos dmkiii ef lyon sane pont bridge passerelle river rivire oras,2018,6,16,17,37,424633020.0,undef
+28929833428,45.7617,4.828984,115,lyn lyon onlylyon france,2018,6,4,18,18,423598680.0,undef
+41627606015,45.7616,4.829322,115,huawei p pro lyon auvergnerhnealpes france fr huaweip prozoom x,2018,5,20,21,7,422312820.0,undef
+28679150997,45.761707,4.829134,115,palais justice lyon fujifilmxt lyon palaisdejustice reflet reflection nuit night heurebleue bluehour,2018,7,21,21,50,427672200.0,undef
+28520207187,45.761666,4.829166,115, ,2018,7,11,20,10,426802200.0,undef
+41552315260,45.761661,4.829163,115,lyon iphone iphonex gente people gent streetscenes france lyon courtdappel,2018,7,12,9,58,426851880.0,undef
+30948279508,45.761691,4.829244,115,lyon france lyon france francia europe europa city ciudad,2018,9,14,11,16,432386160.0,undef
+44770353322,45.761672,4.829269,115,lyon france lyon france francia europe europa city ciudad,2018,9,14,11,16,432386160.0,undef
+30948275728,45.761552,4.829105,115,lyon france lyon france francia europe europa city ciudad,2018,9,14,11,18,432386280.0,undef
+42764592990,45.761707,4.829027,115,roule ,2018,9,9,9,46,431948760.0,undef
+43639624725,45.761655,4.829102,115,black blue rolling stone lyon luminar lugdunum ville ciudad city town stadt citt france arturbain art artcontemporain artmoderne vieuxlyon saintjean pascalrey nikon pascalreyphotographies photo photographiecontemporaine photographie photography photograffik photographiedigitale photographienumrique photographieurbaine photographielyonnaise,2018,9,4,11,37,431523420.0,undef
+43639708275,45.761685,4.829038,115, lyon luminar lugdunum ville ciudad city town stadt citt france arturbain art artcontemporain artmoderne vieuxlyon saintjean pascalrey nikon pascalreyphotographies photo photographiecontemporaine photographie photography photograffik photographiedigitale photographienumrique photographieurbaine photographielyonnaise,2018,9,4,11,35,431523300.0,undef
+31313729938,45.76163,4.829208,115, ,2018,9,29,16,17,433700220.0,undef
+30181111317,45.761759,4.829006,115,ly lyoncroixroussepentestraboulesconfluentrhnesaneconfl lyoncroixroussepentestraboulesconfluentrhnesaneconfluencemulatirepnichesvlovvieuxlyonsaintjeansaintpauljusticepalaispasserelle,2013,11,11,15,28,279646080.0,undef
+46086807211,45.761497,4.829049,115,weight one self europe lyon france art travel color city cityscape statue canon ef li best iconic famous mustsee picturesque postcard river,2018,6,6,18,57,423773820.0,undef
+32023320898,45.761655,4.829102,115,dsc pascalrey nikon aurora aurorahdr auvergnerhnealpes automne autumn herbst rhnealpes france lyon luminar lugdunum skylum photographiecontemporaine photo pascalreyphotographies photographie photography photograffik photographiedigitale photographienumrique streetart statuessculptures stadt statue strasse street strassen sculpture sculpture satures vivid vibrant,2018,11,14,16,26,437675160.0,undef
+45770656341,45.761557,4.829167,115, elmgreen dragset weight oneself lyon,2017,10,17,8,7,403690020.0,undef
+45770655951,45.761557,4.829167,115, elmgreen dragset weight oneself lyon,2017,10,17,8,9,403690140.0,undef
+45770655831,45.761557,4.829167,115, elmgreen dragset weight oneself lyon,2017,10,17,8,17,403690620.0,undef
+45660882021,45.761436,4.829122,115,weight oneself lyon france lyon nicolassavignat nisifilters nisifrance rhne fr,2018,10,20,7,3,435481380.0,undef
+44277186885,45.76163,4.829208,115, ,2018,9,29,16,17,433700220.0,undef
+38865092172,45.76158,4.829092,115,weight one self sculpture lyon lione lyon liyon leyden lugdunum france francia frankreich frana sane sona rosaona saona river fleuve fiume flss viejalyon vieuxlyon oldlyon theweightofoneself theweightofoneselfstatue statuetheweightofoneself theweightofoneselfsculpture sculpture statue estatua escultura michaelelmgreeningardragset michaelelmgreenandingardragset ingardragset michaelelmgreen rhne auvergnerhnealpes rhnealpes,2016,10,29,7,32,373188720.0,undef
+38121972704,45.761714,4.829328,115,dirty water ,2017,11,26,10,39,407155140.0,undef
+35596997832,45.761475,4.829116,115,weight oneself sculpture sane river beyond lyon france sane lyon france modern sculpture statue sky historic architecture river auvergnerhnealpes,2017,7,6,18,15,394827300.0,undef
+35776802685,45.761597,4.829075,115,simo paul weight oneself sculpture lyon france people paulmcclure lyon france sculpture modern sane river auvergnerhnealpes,2017,7,7,10,41,394886460.0,undef
+34004475758,45.761666,4.829166,115, lyon holiday,2018,3,31,13,58,417967080.0,undef
+46965510565,45.761666,4.829166,115, lyon holiday,2018,3,31,13,58,417967080.0,undef
+32875298147,45.761688,4.829102,115,p jpg courdappeldelyon facade extrieur lyon rhne france,2019,4,30,17,25,452107500.0,undef
+48048946763,45.761685,4.829124,115,lyon france lyon carr square noiretblanc blackwhite iphone tlphone phone theweightofoneself elmgreenetdragset statue rhne patrimoinemondialdelunesco unworldheritage,2019,6,9,19,42,455571720.0,undef
+48238149237,45.761666,4.829166,115,lyon colonnes france rhne lyon vieuxlyon unesco patrimoinemondialdelunesco palaisdejustice,2019,7,7,11,20,457960800.0,undef
+48187064586,45.761691,4.829244,115,lyon france palaisdejustice palaciodejusticia edificio building arquitectura lyon france francia europe europa,2018,9,14,11,16,432386160.0,undef
+48626797868,45.76163,4.8293,115, quairomainrolland riverfront sane vieuxlyon lyon france rivedroitedelasane statue estatua publicart sculpture elmgreendragset unescoworldheritagesite presquile earrondissement bridge river rio fluss lasane rosaona fiume pontbonaparte,2019,4,17,19,35,450992100.0,undef
+48553207552,45.761652,4.829227,115,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso nik dxopl frankrijk franrijk jossaris jossarisfoto lr lyon nik rhne,2019,7,26,9,54,459597240.0,undef
+48536465511,45.761652,4.829247,115,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,9,53,459597180.0,undef
+48536612142,45.761652,4.829236,115,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,9,53,459597180.0,undef
+48536465336,45.761652,4.82908,115,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,9,54,459597240.0,undef
+48536612112,45.761652,4.829227,115,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,9,54,459597240.0,undef
+48536596977,45.761663,4.82913,115,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,13,51,459611460.0,undef
+48504947247,45.761707,4.829134,115,palais justice fujifilmxt lyon reflet reflection puddle palaisdejustice,2019,8,10,10,41,460896060.0,undef
+48462698877,45.761663,4.82913,115,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,13,51,459611460.0,undef
+48462748022,45.761652,4.829247,115,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,9,53,459597180.0,undef
+48462747747,45.761652,4.829236,115,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,9,53,459597180.0,undef
+48462587426,45.761652,4.829227,115,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,9,54,459597240.0,undef
+48462747212,45.761652,4.82908,115,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,9,54,459597240.0,undef
+48966799011,45.761519,4.829219,115,lyon autumn lyon leaf france street,2019,10,8,10,32,465993120.0,undef
+48966977392,45.761519,4.829219,115,lyon autumn lyon leaf france street,2019,10,8,10,32,465993120.0,undef
+48966799261,45.761519,4.829219,115,lyon church illuminati cross lyon france,2019,10,8,10,55,465994500.0,undef
+48966251373,45.761519,4.829219,115,lyon cross lyon tree france,2019,10,8,10,54,465994440.0,undef
+48966977292,45.761519,4.829219,115,lyon church saintjeanbaptiste lyon cathedral france,2019,10,8,10,30,465993000.0,undef
+48966798581,45.761519,4.829219,115,lyon church saintjeanbaptiste lyon cathedral france,2019,10,8,10,28,465992880.0,undef
+48966977017,45.761519,4.829219,115,lyon church saintjeanbaptiste lyon cathedral france,2019,10,8,10,27,465992820.0,undef
+48966250528,45.761519,4.829219,115,lyon church saintjeanbaptiste lyon cathedral france,2019,10,8,10,27,465992820.0,undef
+48966798246,45.761508,4.829255,115,lyon statue lyon france,2019,10,8,9,56,465990960.0,undef
+48966797936,45.761591,4.829111,115,lyon statue river lyon france,2019,10,8,9,55,465990900.0,undef
+48966249713,45.761591,4.829111,115,lyon statue river lyon france,2019,10,8,9,55,465990900.0,undef
+48966249588,45.761591,4.829111,115,lyon statue river lyon france,2019,10,8,9,55,465990900.0,undef
+48966797286,45.76158,4.829166,115,lyon river lyon france,2019,10,8,9,54,465990840.0,undef
+49143036047,45.761683,4.829177,115, ,2019,11,29,19,26,470517960.0,undef
+49142338068,45.761683,4.829177,115, ,2019,11,29,19,26,470517960.0,undef
+49011854871,45.761561,4.829275,115,francelyonsights ,2018,6,20,10,46,424953960.0,undef
+49011854021,45.761505,4.829122,115,francelyonsights ,2018,6,20,11,23,424956180.0,undef
+49011853456,45.761638,4.829319,115,francelyonsights ,2018,6,20,10,43,424953780.0,undef
+49012062477,45.761583,4.829086,115,francelyonsightsruins ,2018,6,20,10,48,424954080.0,undef
+49012062467,45.761561,4.829097,115,francelyonsightsgrafitti ,2018,6,20,10,46,424953960.0,undef
+48998533977,45.761759,4.829038,115,passerelle palaisdejustice lyon statue bridge,2019,10,3,3,3,465534180.0,undef

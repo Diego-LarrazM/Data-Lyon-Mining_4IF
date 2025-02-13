@@ -1,0 +1,302 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4226039307,45.760036,4.82635,58,funiculaire fourvire france night lyon nuit basilique fourvire funiculaire,2009,12,29,14,5,157557900.0,undef
+4226806480,45.760036,4.82635,58,alarme france night lyon nuit basilique fourvire funiculaire,2009,12,29,14,4,157557840.0,undef
+4226035583,45.760036,4.82635,58, france night lyon nuit basilique fourvire funiculaire,2009,12,29,13,59,157557540.0,undef
+4405232256,45.760064,4.826517,58,funiculaire lyon lyon cable machinerie funiculaire,2010,3,3,15,22,163092120.0,undef
+4404341919,45.760064,4.826517,58, lyon,2010,2,27,15,51,162748260.0,undef
+4405103038,45.760064,4.826517,58, lyon,2010,2,27,15,51,162748260.0,undef
+4544285602,45.760277,4.826538,58,lyon france lyon,2010,4,20,15,13,167238780.0,undef
+4603323483,45.760053,4.826624,58,sort orange france lyon mtro rhne industrie roue urbain saintjean funiculaire orangemcanique,2010,3,21,11,11,164632260.0,undef
+4581510699,45.76024,4.826592,58,stjean street cutout photo lyon fisheye cathdrale mm rue personne marche ville flou stjean boug vieuxlyon partielle samyang dsaturation dsatur,2010,4,30,16,59,168109140.0,undef
+4732946785,45.760345,4.826527,58, blackwhite nikon lyon bokeh noirblanc velov,2010,6,22,13,26,172675560.0,undef
+4725124222,45.760101,4.826578,58,lyon fourvire soleil lyon cathdrale fourviere,2010,6,22,19,52,172698720.0,undef
+4708655676,45.760171,4.82657,58,dsc ,2010,5,22,19,32,170019120.0,undef
+4708012475,45.760171,4.82657,58,dsc ,2010,5,22,19,30,170019000.0,undef
+4708011271,45.760171,4.82657,58,dsc ,2010,5,22,19,28,170018880.0,undef
+4708652828,45.760171,4.82657,58,dsc ,2010,5,22,19,25,170018700.0,undef
+4708651930,45.760171,4.82657,58,dsc ,2010,5,22,19,22,170018520.0,undef
+4708651126,45.760171,4.82657,58,dsc ,2010,5,22,19,20,170018400.0,undef
+4708650256,45.760171,4.82657,58,dsc ,2010,5,22,19,20,170018400.0,undef
+4708006833,45.760171,4.82657,58,dsc ,2010,5,22,19,20,170018400.0,undef
+4708005703,45.760171,4.82657,58,dsc ,2010,5,22,19,18,170018280.0,undef
+4708646414,45.760171,4.82657,58,dsc ,2010,5,22,19,18,170018280.0,undef
+4708002615,45.760171,4.82657,58,dsc ,2010,5,22,19,17,170018220.0,undef
+4708001459,45.760171,4.82657,58,dsc ,2010,5,22,19,14,170018040.0,undef
+4708642478,45.760171,4.82657,58,dsc ,2010,5,22,19,14,170018040.0,undef
+4708641016,45.760171,4.82657,58,dsc ,2010,5,22,19,14,170018040.0,undef
+4707997797,45.760171,4.82657,58,dsc mai leeloo,2010,5,22,19,10,170017800.0,undef
+4707996373,45.760171,4.82657,58,dsc ,2010,5,22,19,8,170017680.0,undef
+4708637172,45.760171,4.82657,58,dsc mai leeloo,2010,5,22,19,7,170017620.0,undef
+4708636384,45.760171,4.82657,58,dsc ,2010,5,22,19,6,170017560.0,undef
+4707992513,45.760171,4.82657,58,dsc ,2010,5,22,19,5,170017500.0,undef
+4707991495,45.760171,4.82657,58,dsc ,2010,5,22,19,5,170017500.0,undef
+4707990145,45.760171,4.82657,58,dsc ,2010,5,22,19,3,170017380.0,undef
+4707989347,45.760171,4.82657,58,dsc ,2010,5,22,19,2,170017320.0,undef
+4707987987,45.760171,4.82657,58,dsc ,2010,5,22,19,2,170017320.0,undef
+4707986267,45.760171,4.82657,58,dsc ,2010,5,22,19,1,170017260.0,undef
+4707984901,45.760171,4.82657,58,dsc ,2010,5,22,19,1,170017260.0,undef
+4707983969,45.760171,4.82657,58,dsc ,2010,5,22,18,38,170015880.0,undef
+4891572499,45.760232,4.826613,58,kissin houleux lyon france street city france st demo europe jean lyon rhne demonstration rue politique ville manif manifestation ue kissin cr gendarmemobile mafate kiisin,2010,5,18,18,45,169670700.0,undef
+4872674512,45.76015,4.826586,58,cathdrale st jean trsor blue sky france tower vertical outdoors europe lyon steeple,2010,7,26,16,18,175623480.0,undef
+5023441808,45.76003,4.826366,58,lyon lyon traboule,2010,8,29,7,51,178530660.0,undef
+5020136846,45.760075,4.82657,58,fountain ,2009,5,10,13,34,137424840.0,undef
+5016600203,45.759993,4.826388,58,horloge astronomique eglise saint jean lyon france saint jean lyon horloge monument eglise astronomique,2010,9,18,15,55,180287700.0,undef
+5062299071,45.76,4.826499,58,lyon octobre lyon,2010,10,5,20,41,181773660.0,undef
+4094967390,45.760322,4.826624,58,trou serrure lyon vitrail insolite francofolies troudeserrure nikond eglisesaintjeanbaptiste nouvellephotography alcosinus archiinarchitetturaarchesinarchitecture nikond club picsforpeace roupiedesansonnet thelifeiswonderful,2009,8,22,12,8,146405280.0,undef
+5481739557,45.760124,4.826399,58,septime ciel lyon,2011,2,12,18,59,192999540.0,undef
+5477298956,45.760083,4.826415,58,getting back surface green moving lyon escalator vert staircase project inphotos,2011,2,25,19,12,194123520.0,undef
+5411657802,45.760337,4.826527,58, ,2010,12,1,19,35,186694500.0,undef
+5411043201,45.760337,4.826527,58, ,2010,12,1,19,34,186694440.0,undef
+5259018080,45.760027,4.826602,58,vers lumieres friend underground subway lyon metro escalator tilt amis fetedeslumieres,2010,12,9,20,31,187389060.0,undef
+5647672743,45.760004,4.826635,58,p lyon,2011,4,22,14,38,198945480.0,undef
+5648236676,45.760004,4.826635,58,p lyon,2011,4,22,14,37,198945420.0,undef
+5647672115,45.760004,4.826635,58,p lyon,2011,4,22,14,37,198945420.0,undef
+5647671729,45.760004,4.826635,58,p lyon,2011,4,22,14,37,198945420.0,undef
+5648235852,45.760004,4.826635,58,p lyon,2011,4,22,14,29,198944940.0,undef
+5617188297,45.760101,4.826388,58,griffin light church metal lyon stainedglass cathederal griffin cathdralesaintjeanbaptistedelyon lyoncathederal cathdraledelyon,2011,4,10,15,5,197910300.0,undef
+5586081634,45.760158,4.826602,58,vlov lyon vlov,2011,4,3,19,56,197322960.0,undef
+5772601372,45.760042,4.826484,58, france lyon,2011,5,27,17,54,201981240.0,undef
+5870438779,45.760348,4.826576,58,oldest church france france lyon baptistry saintetienne thcentury,2011,5,10,21,18,200524680.0,undef
+5819157731,45.759974,4.826554,58,bouiboui vieux lyon window restaurant nightshot chair lyon table vieuxlyon lyon,2010,11,4,21,2,184366920.0,undef
+5802376844,45.75999,4.826572,58, lyonfrance,2011,5,28,15,31,202059060.0,undef
+5802375428,45.760003,4.826585,58, lyonfrance,2011,5,28,15,24,202058640.0,undef
+5802373942,45.760005,4.826589,58, lyonfrance,2011,5,28,15,9,202057740.0,undef
+5927450396,45.760038,4.826377,58,going raw,2011,6,25,17,30,204485400.0,undef
+5919574042,45.760139,4.826517,58,dsc saint place jean lyon herboriste,2011,7,3,19,1,205182060.0,undef
+5919010873,45.760139,4.826517,58,dsc saint place jean lyon fontaine,2011,7,3,18,57,205181820.0,undef
+5915897644,45.760247,4.826506,58,lyon rhne france clock cathedral lyon dom catedral rhne cathdrale reloj horloge orologio saat relgio klok kathedraal uhr cattedrale automate katedra katedral zegar,2011,7,5,12,1,205329660.0,undef
+5915301803,45.760247,4.826506,58,lyon rhne france lyon rhne peinture cathdrale tableau champaigne toile emmas paintingoncanvas pinturaemtela dipintosutela peinturesurtoile malereiaufleinwand repasdemmas jeanbaptistechampaigne pinturasobreliens malarstwonaptnie tuvalzerineboyama,2011,7,5,10,22,205323720.0,undef
+5915299499,45.760247,4.826506,58,lyon rhne france cathedral lyon dom catedral stainedglass rhne cathdrale vitrail glasmalerei rosace rosette vidrieras glasinlood kathedraal vitrais cattedrale rosone vitraux vetrate rosewindow katedra transept katedral roosvenster rosetn vitray roscea witra wzrosa katedraliglpencere,2011,7,5,10,20,205323600.0,undef
+5915297169,45.760247,4.826506,58,lyon rhne france clock lyon rhne cathdrale reloj horloge orologio saat relgio klok uhr automate zegar,2011,7,5,10,15,205323300.0,undef
+5915855890,45.760247,4.826506,58,lyon rhne france clock lyon rhne cathdrale reloj horloge orologio saat relgio klok uhr automate zegar,2011,7,5,10,11,205323060.0,undef
+5915293521,45.760247,4.826506,58,lyon rhne france nef cathedral lyon dom catedral rhne cathdrale kathedraal cattedrale katedra abside katedral,2011,7,5,10,7,205322820.0,undef
+6084816709,45.760034,4.82657,58, city people france lyon transport citylife journey user economic streetscape collective funicular traveler waggon,2009,7,24,21,17,143932620.0,undef
+6065086574,45.760124,4.826613,58,saint jean france cityscape lyon paysage urbain,2009,5,16,12,41,137940060.0,undef
+6243813735,45.760367,4.826602,58,videgranier antic market street light shadow blackandwhite bw france lamp monochrome table photography lampe photo blackwhite nikon lyon noiretblanc market box lumire rhne nb ombre antic rue march caisse noirblanc lightroom saintjean antiquits videgrenier anticsmarket,2011,5,12,18,4,200685840.0,undef
+6344315879,45.760277,4.826538,58,festival light fte lumires show france art church festival marie night french light cathedral lyon artistic lumire mary cathdrale fte nuit festivaloflights stjean december th artistique saintjean ftedeslumires dcembre vierge viergemarie cathedralstjean wwwmyplanetexperiencecom myplanetexperience,2011,11,14,19,17,216760620.0,undef
+6344600329,45.76027,4.826602,58,dame fourvire lyon f travel cityandarchitecture,2011,9,28,14,43,212683380.0,undef
+6736707839,45.760053,4.82635,58, france lyon festivaloflights fetedeslumieres,2011,12,11,21,6,219099960.0,undef
+6736703889,45.760053,4.82635,58, france lyon festivaloflights fetedeslumieres,2011,12,11,21,6,219099960.0,undef
+6550111817,45.760188,4.826388,58,cathdrale saint jean lyon fte lumires,2011,12,11,13,31,219072660.0,undef
+6550101047,45.760188,4.826388,58,cathdrale saint jean lyon fte lumires,2011,12,11,12,17,219068220.0,undef
+6501416939,45.760247,4.826517,58,chant pierre lyon lumires fetedeslumieres,2011,12,11,21,15,219100500.0,undef
+6869382828,45.760008,4.826565,58,girl looked back blackwhitephotos,2012,3,26,0,0,228182400.0,undef
+6869382292,45.760012,4.826565,58,pink string ,2012,3,26,0,0,228182400.0,undef
+7015491383,45.760015,4.826554,58,faith blackwhitephotos,2012,3,26,0,0,228182400.0,undef
+6833749828,45.760038,4.826506,58, france lyon,2012,3,8,10,30,226665000.0,undef
+6813535018,45.760086,4.826661,58, france church lyon vieuxlyon,2012,3,2,10,50,226147800.0,undef
+6813534382,45.76009,4.82649,58, france lyon vieuxlyon,2012,3,2,10,48,226147680.0,undef
+6935368664,45.760109,4.826651,58,bouchon lyonnais ,2012,4,13,11,23,229778580.0,undef
+6934475074,45.76006,4.826506,58,ficelle france lyon funicular stjust vieuxlyon funiculaire ficelle paysageurbain saintjust,2012,3,13,15,30,227115000.0,undef
+7422522624,45.760166,4.826666,58,lyon france lyon rhnealpes,2012,6,22,16,47,235846020.0,undef
+7389820780,45.760232,4.826452,58, ,2012,1,7,20,45,221431500.0,undef
+7856323322,45.760098,4.826388,58,see light france church vintage cathedral lyon religion retro cathedrale,2012,8,20,0,34,240885240.0,undef
+8006877675,45.760068,4.826474,58, ,2012,9,12,15,16,242925360.0,undef
+8006876833,45.760068,4.826474,58, ,2012,9,12,15,15,242925300.0,undef
+8006875875,45.760068,4.826474,58, ,2012,9,12,15,9,242924940.0,undef
+8006874817,45.760068,4.826474,58, ,2012,9,12,15,8,242924880.0,undef
+8004036808,45.760247,4.826388,58,fourvire vue saintjean panorama landscape lyon paysage saintjean fourvire,2012,9,9,13,36,242660160.0,undef
+7980784345,45.76021,4.826613,58, ,2012,9,12,22,48,242952480.0,undef
+7980784918,45.760075,4.826527,58, ,2012,9,12,22,56,242952960.0,undef
+7980781697,45.760195,4.826592,58, ,2012,9,12,23,4,242953440.0,undef
+8116258183,45.759888,4.826345,58,lyon st jean croix rousse crditphotosjonathantmare lyonquartierstjeancroixrousserhnealpesfrance,2012,10,22,7,20,246352800.0,undef
+8116258011,45.759978,4.826388,58,lyon st jean croix rousse crditphotosjonathantmare lyonquartierstjeancroixrousserhnealpesfrance,2012,10,22,7,23,246352980.0,undef
+8116263766,45.759918,4.826388,58,lyon st jean croix rousse france lyon rhnealps quartierstjeancroixrousse crditphotosjonathantmare,2012,10,22,7,37,246353820.0,undef
+8116260740,45.760128,4.826645,58,lyon st jean croix rousse france lyon rhonesalpes quartierstjeancroixrousse,2012,10,22,7,59,246355140.0,undef
+8116260534,45.759888,4.826602,58,lyon st jean croix rousse france lyon rhonesalpes quartierstjeancroixrousse,2012,10,22,7,59,246355140.0,undef
+8116251331,45.759918,4.826345,58,lyon st jean croix rousse crditphotosjonathantmare lyonquartierstjeancroixrousserhnealpesfrance,2012,10,22,8,32,246357120.0,undef
+8116257756,45.759888,4.826388,58,lyon st jean croix rousse crditphotosjonathantmare lyonquartierstjeancroixrousserhnealpesfrance,2012,10,22,8,44,246357840.0,undef
+8116257072,45.760098,4.826602,58,lyon st jean croix rousse france lyon rhonesalpes,2012,10,22,8,46,246357960.0,undef
+8184431824,45.760083,4.826377,58,lyon ,2012,9,9,13,0,242658000.0,undef
+8184431462,45.760143,4.826372,58,lyon ,2012,9,9,13,0,242658000.0,undef
+8431642582,45.760161,4.826602,58,lyon france architecture europe lyon church oldlyon cathedralestjean,2013,1,14,4,12,253599120.0,undef
+8406390286,45.760143,4.826592,58,lyon night gaelicfrdsc copie picture voyage camera city nightphotography trip travel stilllife france color architecture digital landscape photography photo nikon europe foto photographer photographie lyon photo photographer image fotos fotografia paysage southoffrance numrique gaelic ville photographe suddelafrance lyonbynight gaelicfr gaelic gaelicphotographe gaelicphotographer gaelicphotographies,2009,7,3,1,1,142045260.0,undef
+8406389794,45.760143,4.826592,58,lyon night gaelicfrdsc copie picture voyage camera city nightphotography trip travel stilllife france color architecture digital landscape photography photo nikon europe foto photographer photographie lyon photo photographer image fotos fotografia paysage southoffrance numrique gaelic ville photographe suddelafrance lyonbynight gaelicfr gaelic gaelicphotographe gaelicphotographer gaelicphotographies,2009,7,3,1,32,142047120.0,undef
+8405296259,45.760143,4.826592,58,lyon night gaelicfrdsc copie picture voyage camera city nightphotography trip travel stilllife france color architecture digital landscape photography photo nikon europe foto photographer photographie lyon photo photographer image fotos fotografia paysage southoffrance numrique gaelic ville photographe suddelafrance lyonbynight gaelicfr gaelic gaelicphotographe gaelicphotographer gaelicphotographies,2009,7,3,4,8,142056480.0,undef
+8406390186,45.760143,4.826592,58,lyon night gaelicfrdsc copie picture voyage camera city nightphotography trip travel stilllife france color architecture digital landscape photography photo nikon europe foto photographer photographie lyon photo photographer image fotos fotografia paysage southoffrance numrique gaelic ville photographe suddelafrance lyonbynight gaelicfr gaelic gaelicphotographe gaelicphotographer gaelicphotographies,2009,7,3,1,10,142045800.0,undef
+8405297515,45.760143,4.826592,58,lyon night gaelicfrdsc copie architecture camera city color digital europe foto fotografia fotos france gaelic gaelic gaelicphotographe gaelicphotographer gaelicphotographies gaelicfr image landscape lyon lyonbynight nightphotography nikon numrique paysage photo photographe photographer photographer photographie photography photo picture southoffrance stilllife suddelafrance travel trip ville voyage,2009,7,3,1,22,142046520.0,undef
+8405297485,45.760143,4.826592,58,lyon night gaelicfrdsc copie picture voyage camera city nightphotography trip travel stilllife france color architecture digital landscape photography photo nikon europe foto photographer photographie lyon photo photographer image fotos fotografia paysage southoffrance numrique gaelic ville photographe suddelafrance lyonbynight gaelicfr gaelic gaelicphotographe gaelicphotographer gaelicphotographies,2009,7,3,1,24,142046640.0,undef
+8406389836,45.760143,4.826592,58,lyon night gaelicfrdsc copie picture voyage camera city nightphotography trip travel stilllife france color architecture digital landscape photography photo nikon europe foto photographer photographie lyon photo photographer image fotos fotografia paysage southoffrance numrique gaelic ville photographe suddelafrance lyonbynight gaelicfr gaelic gaelicphotographe gaelicphotographer gaelicphotographies,2009,7,3,3,19,142053540.0,undef
+8406389752,45.760143,4.826592,58,lyon night gaelicfrdsc copie picture voyage camera city nightphotography trip travel stilllife france color architecture digital landscape photography photo nikon europe foto photographer photographie lyon photo photographer image fotos fotografia paysage southoffrance numrique gaelic ville photographe suddelafrance lyonbynight gaelicfr gaelic gaelicphotographe gaelicphotographer gaelicphotographies,2009,7,3,2,59,142052340.0,undef
+8405296983,45.760143,4.826592,58,lyon night gaelicfrdsc copie picture voyage camera city nightphotography trip travel stilllife france color architecture digital landscape photography photo nikon europe foto photographer photographie lyon photo photographer image fotos fotografia paysage southoffrance numrique gaelic ville photographe suddelafrance lyonbynight gaelicfr gaelic gaelicphotographe gaelicphotographer gaelicphotographies,2009,7,3,3,54,142055640.0,undef
+8405296937,45.760143,4.826592,58,lyon night gaelicfrdsc copie picture voyage camera city nightphotography trip travel stilllife france color architecture digital landscape photography photo nikon europe foto photographer photographie lyon photo photographer image fotos fotografia paysage southoffrance numrique gaelic ville photographe suddelafrance lyonbynight gaelicfr gaelic gaelicphotographe gaelicphotographer gaelicphotographies,2009,7,3,3,46,142055160.0,undef
+8405296531,45.760143,4.826592,58,lyon night gaelicfrdsc copie picture voyage camera city nightphotography trip travel stilllife france color architecture digital landscape photography photo nikon europe foto photographer photographie lyon photo photographer image fotos fotografia paysage southoffrance numrique gaelic ville photographe suddelafrance lyonbynight gaelicfr gaelic gaelicphotographe gaelicphotographer gaelicphotographies,2009,7,3,3,56,142055760.0,undef
+8406389016,45.760143,4.826592,58,lyon night gaelicfrdsc copie picture voyage camera city nightphotography trip travel stilllife france color architecture digital landscape photography photo nikon europe foto photographer photographie lyon photo photographer image fotos fotografia paysage southoffrance numrique gaelic ville photographe suddelafrance lyonbynight gaelicfr gaelic gaelicphotographe gaelicphotographer gaelicphotographies,2009,7,3,3,59,142055940.0,undef
+8405296159,45.760143,4.826592,58,lyon night gaelicfrdsc copie picture voyage camera city nightphotography trip travel stilllife france color architecture digital landscape photography photo nikon europe foto photographer photographie lyon photo streetphotography photographer image fotos fotografia paysage southoffrance numrique gaelic ville photographe candidphotography suddelafrance lyonbynight gaelicfr gaelic gaelicphotographe gaelicphotographer gaelicphotographies,2009,7,3,4,2,142056120.0,undef
+8406388724,45.760143,4.826592,58,lyon night gaelicfrdsc copie architecture camera city color digital europe foto fotografia fotos france gaelic gaelic gaelicphotographe gaelicphotographer gaelicphotographies gaelicfr image landscape lyon lyonbynight nightphotography nikon numrique paysage photo photographe photographer photographer photographie photography photo picture southoffrance stilllife suddelafrance travel trip ville voyage,2009,7,3,4,5,142056300.0,undef
+8406388736,45.760143,4.826592,58,lyon night gaelicfrdsc copie architecture camera city color digital europe foto fotografia fotos france gaelic gaelic gaelicphotographe gaelicphotographer gaelicphotographies gaelicfr image landscape lyon lyonbynight nightphotography nikon numrique paysage photo photographe photographer photographer photographie photography photo picture southoffrance stilllife suddelafrance travel trip ville voyage,2009,7,3,4,23,142057380.0,undef
+8405295845,45.760143,4.826592,58,lyon night gaelicfrdsc copie picture voyage camera city nightphotography trip travel stilllife france color architecture digital landscape photography photo nikon europe foto photographer photographie lyon photo photographer image fotos fotografia paysage southoffrance numrique gaelic ville photographe suddelafrance lyonbynight gaelicfr gaelic gaelicphotographe gaelicphotographer gaelicphotographies,2009,7,3,4,6,142056360.0,undef
+8395479548,45.760008,4.826356,58,mtro station vieux lyon blackandwhite noiretblanc,2013,1,19,11,16,254056560.0,undef
+8537381450,45.760247,4.82656,58,astronomical clock ,2013,3,1,9,55,257594100.0,undef
+8536277437,45.760098,4.82656,58,saintjean cathedral ,2013,3,1,4,59,257576340.0,undef
+8536775380,45.76012,4.826463,58,silence exposition avril blackandwhite bw lyon noiretblanc ange silence glise fourvire mditation,2012,1,31,13,25,223478700.0,undef
+8655727558,45.760015,4.82656,58,lyon france europe lyon,2012,9,15,20,7,243202020.0,undef
+8630077953,45.759888,4.826645,58,tcl tcl vieuxlyon,2011,1,7,10,35,189858900.0,undef
+8627686621,45.760121,4.826584,58,truc flou cest morceau crpe bout fourchette lordclancharlie valencia square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bf b ab b bb,2013,4,7,19,33,260825580.0,undef
+8864508961,45.760008,4.82656,58,petite lueurs lyon,2012,12,30,15,40,252344400.0,undef
+9078326235,45.760186,4.826405,58,texture blur france colour moss pattern lyon lichen cosmostour,2012,10,9,21,30,245280600.0,undef
+9080551328,45.760186,4.826405,58,curry anyone street city france architecture building lyon shop van cosmostour,2012,10,9,21,28,245280480.0,undef
+9078324461,45.760186,4.826405,58,eye tree france sign architecture building lyon cosmostour,2012,10,9,21,23,245280180.0,undef
+9078323533,45.760186,4.826405,58,raining street city autumn tree people france car leaf architecture building lyon bike shop cosmostour,2012,10,9,21,21,245280060.0,undef
+9078322587,45.760186,4.826405,58,may area cosmostour france lyon city people car shop road street leaf design map art tree building architecture,2012,10,9,21,20,245280000.0,undef
+9078320927,45.760186,4.826405,58,yellow leaf cosmostour france lyon map art leaf footpath street,2012,10,9,21,20,245280000.0,undef
+9080545624,45.760186,4.826405,58,leaf changing cosmostour france lyon city car tree fence chuch sky street building architecture,2012,10,9,21,19,245279940.0,undef
+8941686694,45.760038,4.826452,58,lyon mtro saint jean saint jean lyon metro cathedrale rhone saone finiculaire flickrandroidappfilternone,2012,12,24,15,25,251825100.0,undef
+8941661556,45.760038,4.826452,58,lyon mtro saint jean saint jean lyon metro cathedrale rhone saone finiculaire flickrandroidappfilternone,2012,12,24,15,25,251825100.0,undef
+8940266051,45.760038,4.826452,58,lyon mtro station saint jean saint jean lyon metro rhone saone finiculaire flickrandroidappfilternone,2013,2,18,15,37,256664220.0,undef
+8940216657,45.760038,4.826452,58,lyon mtro saint jean station saint jean lyon metro vieux rhone saone finiculaire flickrandroidappfilternone,2013,2,18,15,37,256664220.0,undef
+9255909706,45.759871,4.826579,58,avenue doyenn square squareformat earlybird iphoneography instagramapp uploadedbyinstagram foursquarevenue bcdec e b acdc,2013,7,10,6,3,268898580.0,undef
+9253124467,45.759871,4.826579,58,avenue doyenn square squareformat earlybird iphoneography instagramapp uploadedbyinstagram foursquarevenue bcdec e b acdc,2013,7,10,6,2,268898520.0,undef
+9253115145,45.759871,4.826579,58,avenue doyenn square squareformat earlybird iphoneography instagramapp uploadedbyinstagram foursquarevenue bcdec e b acdc,2013,7,10,6,0,268898400.0,undef
+9583919291,45.760128,4.82671,58,img jpg ,2013,8,15,15,9,272041740.0,undef
+9508660898,45.760008,4.826345,58, ,2013,7,29,14,28,270570480.0,undef
+8108559540,45.759891,4.826408,58, frankreich rhne reise kreuzfahrt arosaluna,2012,9,21,17,45,243711900.0,undef
+9444170179,45.759955,4.826613,58,west front cathedral france cathedral lyon july,2013,7,26,9,34,270293640.0,undef
+9444160527,45.759955,4.826613,58,west front cathedral france cathedral lyon july,2013,7,26,9,34,270293640.0,undef
+9446936868,45.759955,4.826613,58,nave france cathedral lyon july,2013,7,26,9,36,270293760.0,undef
+9446928410,45.759955,4.826613,58,rose window france cathedral lyon july,2013,7,26,9,36,270293760.0,undef
+9446922868,45.759955,4.826613,58, france cathedral lyon july,2013,7,26,9,38,270293880.0,undef
+9444130813,45.759955,4.826613,58, france cathedral lyon july,2013,7,26,9,38,270293880.0,undef
+9446909670,45.759955,4.826613,58, france cathedral lyon july,2013,7,26,9,38,270293880.0,undef
+9444116911,45.759955,4.826613,58, france cathedral lyon july,2013,7,26,9,40,270294000.0,undef
+9444111349,45.759955,4.826613,58, france cathedral lyon july,2013,7,26,9,42,270294120.0,undef
+9446887422,45.759955,4.826613,58, france cathedral lyon july,2013,7,26,9,42,270294120.0,undef
+9446878564,45.759955,4.826613,58, france cathedral lyon july,2013,7,26,9,43,270294180.0,undef
+9902598726,45.76,4.826666,58, ,2013,9,8,11,19,274101540.0,undef
+9877192154,45.760143,4.82656,58, lyon,2013,9,21,13,36,275232960.0,undef
+9877294323,45.760143,4.82656,58, lyon,2013,9,21,13,36,275232960.0,undef
+10140982853,45.759929,4.826468,58,lyon fourviere france heritage frankreich lyon unesco francja,2013,7,18,17,41,269631660.0,undef
+10924475553,45.760038,4.826645,58,kevin hat light boy portrait man france hat fashion canon french cowboy kevin shoot natural lyon naturallight mode homme garon mm modle vieuxlyon markiii dmarkiii dmark,2013,11,18,12,56,280241760.0,undef
+10902187494,45.760128,4.82671,58,img jpg ,2013,8,23,11,14,272718840.0,undef
+10902348903,45.760128,4.82671,58,img jpg ,2013,8,23,10,55,272717700.0,undef
+10902074086,45.760128,4.82671,58,img jpg ,2013,8,23,9,9,272711340.0,undef
+10902161254,45.760128,4.82671,58,img jpg ,2013,8,23,8,44,272709840.0,undef
+10902310943,45.760128,4.82671,58,img jpg ,2013,8,23,8,42,272709720.0,undef
+10902033516,45.760128,4.82671,58,img jpg ,2013,8,23,6,32,272701920.0,undef
+10901570113,45.760128,4.82671,58,img jpg ,2013,8,15,15,24,272042640.0,undef
+10901559403,45.760128,4.82671,58,img jpg ,2013,8,15,14,5,272037900.0,undef
+10901555813,45.760128,4.82671,58,img jpg ,2013,8,15,13,15,272034900.0,undef
+10901241025,45.760128,4.82671,58,img jpg ,2013,8,15,12,49,272033340.0,undef
+13236383683,45.760305,4.826461,58,lyon france lyon francja,2014,3,9,11,54,289828440.0,undef
+14095289414,45.759993,4.826592,58,place st jean lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2014,5,1,19,20,294434400.0,undef
+14091718222,45.759993,4.826592,58,place st jean b w hdr lyon france face st place jean lyon cathdrale hdr,2014,5,1,19,21,294434460.0,undef
+14503283159,45.760098,4.82671,58,catedral lyon france cathedral lyon catedral francia saintjean,2012,10,12,12,9,245506140.0,undef
+14821093487,45.75999,4.826667,58,alstom mpl lyon tcl ligne ,2014,8,19,14,38,303921480.0,undef
+15007583905,45.759937,4.82642,58,funiculaire f lyon tcl ,2014,8,19,14,34,303921240.0,undef
+15214308220,45.760023,4.826463,58,lyon ,2014,8,15,18,57,303591420.0,undef
+15265818221,45.760367,4.826581,58,lyon france lyon lyon,2014,4,28,16,2,294163320.0,undef
+15082350787,45.759985,4.826581,58,lyon france lyon lyon,2014,4,28,16,12,294163920.0,undef
+14973619440,45.759994,4.826436,58, ,2014,9,5,12,34,305382840.0,undef
+15160288645,45.759994,4.826436,58, ,2014,9,5,12,34,305382840.0,undef
+15389356539,45.760045,4.826484,58,lyon cathdrale st jean lyon,2014,10,19,8,17,309169020.0,undef
+15234456460,45.759956,4.826517,58, lyon funiculaire,2014,9,24,13,27,307027620.0,undef
+15398089276,45.759956,4.826517,58,lyon clip lyon funeculaire,2014,9,24,13,23,307027380.0,undef
+15234532968,45.759956,4.826517,58, lyon funeculaire,2014,9,24,13,19,307027140.0,undef
+16961370315,45.76009,4.826635,58,lyon avenue adolphe max saint jean max saint jean lyon avenue cathedrale rhone saone adolphe,2015,3,23,15,53,322588380.0,undef
+17502215665,45.760042,4.826447,58,ligne ,2015,5,8,17,53,326569980.0,undef
+18494883834,45.760307,4.826624,58,cathdrale saintjeanbaptiste ,2014,12,13,13,55,313941300.0,undef
+19088604656,45.760307,4.826624,58,cathdrale saintjeanbaptiste ,2014,12,13,13,54,313941240.0,undef
+19038593086,45.760307,4.826624,58,cathdrale saintjeanbaptiste ,2014,12,13,13,54,313941240.0,undef
+19513835808,45.760307,4.826624,58,cathdrale saintjeanbaptiste ,2014,12,13,13,56,313941360.0,undef
+19310288862,45.76006,4.826495,58,soeur poinzro ,2015,6,30,16,14,331143240.0,undef
+21660434812,45.760008,4.826474,58,funiculaire lyon art mm nikon lyon f sigma rhne full frame fullframe fx plein dg cran saintjean fourvire vieuxlyon funiculaire hsm yanngar nikond,2015,8,6,9,25,334315500.0,undef
+21352354118,45.760061,4.826472,58,lyon funiculaire lyon france lumix europe lyon septembre fourvire funiculaire rhnealpes onlylyon funiculairedefourvire funiculairedelyon dmcgx lumixgx septembre,2015,9,16,19,4,337892640.0,undef
+21548884401,45.760077,4.826369,58,lyon funiculaire lyon france lumix europe lyon septembre fourvire funiculaire rhnealpes onlylyon funiculairedefourvire funiculairedelyon dmcgx lumixgx septembre,2015,9,16,19,4,337892640.0,undef
+21219203680,45.759922,4.826442,58, ,2015,9,9,11,34,337260840.0,undef
+21220399509,45.759922,4.826442,58, ,2015,9,9,11,34,337260840.0,undef
+21219202860,45.759922,4.826442,58, ,2015,9,9,11,33,337260780.0,undef
+20786202793,45.759922,4.826442,58, ,2015,9,9,11,33,337260780.0,undef
+21381050966,45.759922,4.826442,58, ,2015,9,9,11,33,337260780.0,undef
+21197442421,45.760015,4.826495,58,subway lyon city orange white black france station architecture subway europe noir lyon mtro rail line railwaystation blanc tcl onlylyon sytral maggaly,2015,7,31,18,13,333828780.0,undef
+22632008613,45.759975,4.826504,58, ,2015,7,13,17,44,332271840.0,undef
+22963283150,45.759975,4.826504,58, ,2015,7,13,17,45,332271900.0,undef
+22944958731,45.759969,4.826555,58,wedding danse wedding light blackandwhite love mm groom bride dance nikon dress noiretblanc ring mariage alexlud,2015,11,11,4,35,342678900.0,undef
+15952238126,45.760247,4.826495,58,color lyon lumires ftes,2014,12,8,20,55,313534500.0,undef
+15791998899,45.760247,4.826495,58,color lyon lumires ftes,2014,12,8,20,55,313534500.0,undef
+15977991595,45.760247,4.826495,58,color lyon lumires ftes,2014,12,8,20,54,313534440.0,undef
+15790716160,45.760247,4.826495,58,color lyon lumires ftes,2014,12,8,20,54,313534440.0,undef
+24241070949,45.760266,4.826527,58,lyon ,2015,4,12,15,57,324316620.0,undef
+24526575261,45.760125,4.826575,58,lyon ,2015,4,12,15,57,324316620.0,undef
+24130869716,45.760023,4.826431,58,cathdrale saintjean ,2015,11,7,17,23,342379380.0,undef
+26131290335,45.760005,4.826502,58,lyon parvis cathdrale france france sketch lyon cathdrale crayon gothique croquis googlestreetview opencil,2016,3,30,11,43,354800580.0,undef
+26117769225,45.760005,4.826502,58,lyon parvis cathdrale france france pencil sketch lyon rhne crayon fontaine streetview croquis fourvire googlestreetview,2016,3,29,18,20,354738000.0,undef
+27855566986,45.759933,4.826366,58,funiculaire funiculaire,2015,5,9,17,26,326654760.0,undef
+28031517874,45.760173,4.826474,58,river cruise lyon ,2016,6,21,9,34,361964040.0,undef
+29489775106,45.760294,4.826513,58,height summer ,2016,6,16,16,4,361555440.0,undef
+23178982839,45.760008,4.826474,58,funicular vieuxlyon lyon france france lyon funicular vieuxlyon sigma sonya,2015,10,11,11,56,340026960.0,undef
+33074467305,45.759948,4.826399,58,funiculairelyon bw nb noiretblanc city underground train lyon cityscape tube metro metroplitain funiculaire fourvire rhone france railway street symmetry symetrie gare station light terminus tram tramway elevateur rail canon eos pov,2017,2,17,15,25,382807500.0,undef
+32127396564,45.760008,4.826356,58,station vieux lyon stair escalator noiretblanc blackandwhite monochrome mtro,2017,2,18,13,22,382886520.0,undef
+33232849085,45.759933,4.826366,58,vieuxlyonfourviere lyon france funiculaire letter lettre mot word sign texte text criture line ligne courbes curve geometry gomtrie people personnes human humain gen vitre verre glass reflet reflection urban urbain,2015,5,9,17,26,326654760.0,undef
+33104504211,45.759933,4.826366,58,fourvire wait people lyon france fourvires funiculaire monochrome line ligne courbe curve people gen personnes human humain perspective mur wall urban urbain vhicule letter lettre ot word sign,2015,5,9,16,30,326651400.0,undef
+33496646754,45.760038,4.826463,58,mtro vieux lyon mtro couloir corridor subway,2017,4,29,12,34,388931640.0,undef
+33906941923,45.759955,4.826388,58,lyon funiculaire saintjust mai may,2017,5,15,16,19,390327540.0,undef
+33906927793,45.759955,4.826388,58,lyon funiculaire fourvire mai may,2017,5,15,15,26,390324360.0,undef
+34554591382,45.759955,4.826388,58,lyon funiculaire fourvire mai may,2017,5,15,15,28,390324480.0,undef
+34554578422,45.759955,4.826388,58,lyon funiculaire fourvire mai may,2017,5,15,16,17,390327420.0,undef
+35328483971,45.759941,4.82642,58,mariage lyon mariage wedding pont bridge enfant child girl,2017,5,27,11,37,391347420.0,undef
+35340643726,45.76018,4.826495,58,cathdrale saintjeanbaptiste lyon lyon gothicarchitecture,2017,6,5,13,49,392132940.0,undef
+35340642786,45.76018,4.826495,58,cathdrale saintjeanbaptiste lyon lyon gothicarchitecture,2017,6,5,13,51,392133060.0,undef
+35340642526,45.76018,4.826495,58,cathdrale saintjeanbaptiste lyon lyon gothicarchitecture,2017,6,5,13,50,392133000.0,undef
+35340641806,45.76018,4.826495,58,cathdrale saintjeanbaptiste lyon lyon gothicarchitecture,2017,6,5,13,56,392133360.0,undef
+35213512482,45.76018,4.826495,58,cathdrale saintjeanbaptiste lyon lyon gothicarchitecture,2017,6,5,13,57,392133420.0,undef
+34993172250,45.76018,4.826495,58,cathdrale saintjeanbaptiste lyon lyon gothicarchitecture,2017,6,5,14,2,392133720.0,undef
+35213511692,45.76018,4.826495,58,cathdrale saintjeanbaptiste lyon lyon gothicarchitecture,2017,6,5,14,8,392134080.0,undef
+34993171520,45.76018,4.826495,58,cathdrale saintjeanbaptiste lyon lyon gothicarchitecture,2017,6,5,14,13,392134380.0,undef
+35213511302,45.76018,4.826495,58,cathdrale saintjeanbaptiste lyon lyon gothicarchitecture,2017,6,5,14,15,392134500.0,undef
+34855498940,45.759941,4.82642,58,silhouette lyon mtro silhouette,2017,5,27,13,43,391354980.0,undef
+34398893404,45.760173,4.826474,58,glass ,2017,6,1,12,35,391782900.0,undef
+34792946860,45.759941,4.82642,58,lyon pourrait croire ailleurs lyon quartierstjean couleurs colour fourvire,2017,5,28,9,32,391426320.0,undef
+36516231295,45.759933,4.826538,58,yes please vrede frieden fred pace paix peace paz bake sign signe teken bollard graffiti grafitti tag sidewalk trottoir stoep lyon france frankrijk frankreich frana francia monochrome monochroom monotone rhnealpes,2017,7,21,12,12,396101520.0,undef
+37568526501,45.760217,4.826527,58,lyon color implosion lyon rhne france europe europa europeonflickr colorimplosion redscale film adox argentique konica hexanon autoreflex pancake street stphotography urban tetenal jobocpe jobo scanner epson v epsonv laurentlopez lla,2015,9,1,0,0,336528000.0,undef
+26414189689,45.760178,4.826509,58,plan cathdrale saint jean lyon plan cathdrale saint jean lyon,2017,11,5,8,31,405333060.0,undef
+39476173832,45.760049,4.826409,58,funicular railway vieux lyon saint lyon france january lyon france funicular railway vieuxlyon saintjust station saintjean cathdrale,2018,1,3,10,49,410438940.0,undef
+27627324549,45.760178,4.826509,58,bibliothque architecturemdivale lyon patrimoine,2017,12,31,2,38,410150280.0,undef
+24524876717,45.760178,4.826509,58,bibliothque architecturemdivale cathdrale saint jean lyon,2017,12,30,8,22,410084520.0,undef
+40007127835,45.76021,4.826667,58,grenouille ,2016,9,11,10,37,369052620.0,undef
+39091265170,45.76021,4.826667,58,grenouille ,2016,9,11,10,39,369052740.0,undef
+39543352550,45.760277,4.826388,58, ,2018,4,9,12,6,418737960.0,undef
+40457133875,45.760277,4.826388,58, ,2018,4,9,12,6,418737960.0,undef
+40457131795,45.760277,4.826388,58, ,2018,4,9,12,7,418738020.0,undef
+40457129655,45.760277,4.826388,58, ,2018,4,9,12,8,418738080.0,undef
+40638576684,45.760277,4.826388,58, ,2018,4,9,12,8,418738080.0,undef
+41309433152,45.760277,4.826388,58, ,2018,4,9,12,8,418738080.0,undef
+29749794868,45.759972,4.826344,58,saint jean vieux lyon night view france lyon saintjean vieuxlyon nightview,2018,6,26,12,20,425478000.0,undef
+29724536758,45.760152,4.826418,58,stacja vieux lyon cathdrale saintjean lyon francja france tcl metro kolej transport komunikacja pocig pociag underground railway transit,2018,6,3,19,28,423516480.0,undef
+43339217195,45.759888,4.826408,58,pasted paper la gatas lyon france europe france lyon stgeorges streetart wheatpaste wheatpaper collage pasted paper pasteup la gatas lasgatas,2018,8,21,16,42,430332120.0,undef
+31059921718,45.760205,4.826627,58,lyon avenue doyenn lyonfrankreich,2018,9,4,15,40,431538000.0,undef
+29582060697,45.759888,4.826408,58,pasted paper big ben lyon france europe france lyon streetart wheatpaste wheatpaper collage pasted paper pasteup bigben big ben guignol,2018,8,21,17,2,430333320.0,undef
+45383395762,45.760367,4.826581,58,basilica notredame fourvire star lyon lyon france,2014,4,29,10,27,294229620.0,undef
+44710647974,45.760367,4.826581,58,basilica candle lyon lyon france,2014,4,29,9,16,294225360.0,undef
+30162950017,45.759941,4.82642,58,vue pont lyon pontdeluniversit guillotire eau water ciel sky,2018,9,30,10,42,433766520.0,undef
+45068771841,45.759941,4.82642,58,menu lyon romain menu restaurant bar table,2018,9,29,15,51,433698660.0,undef
+31187615758,45.759941,4.82642,58,insecte lyonnais lyon ville city,2018,9,29,14,33,433693980.0,undef
+46051964922,45.760188,4.826495,58, travaux couleurs lyon reflets vitrail vitraux cathdrale rhnealpes arch vote lumire,2018,9,10,17,22,432062520.0,undef
+31078400967,45.760086,4.826702,58,fetedeslumieres ,2016,12,9,22,8,376783680.0,undef
+45105852475,45.760044,4.826675,58,fetedeslumieres ,2016,12,9,22,9,376783740.0,undef
+32143215628,45.760086,4.826702,58,fetedeslumieres ,2016,12,9,22,8,376783680.0,undef
+46898879282,45.76013,4.826413,58,img jpg lyon auvergnerhnealpes france fr,2018,7,1,12,24,425910240.0,undef
+45480456315,45.760337,4.826431,58, ,2017,11,28,13,34,407338440.0,undef
+32401503148,45.760061,4.826472,58,fte lumires lyon pigment lumire ocubo cathdrale saintjean lyon light france lumires fte ftedeslumires ftedeslumires auvergnerhnealpes dcembre lyon lumire europe light,2018,12,11,14,33,440001180.0,undef
+32401502378,45.760061,4.826472,58,fte lumires lyon pigment lumire ocubo cathdrale saintjean lyon light france lumires fte ftedeslumires ftedeslumires auvergnerhnealpes dcembre lyon lumire europe light,2018,12,11,14,33,440001180.0,undef
+44456347090,45.760061,4.826472,58,fte lumires lyon pigment lumire ocubo cathdrale saintjean lyon ocubo pigmentsdelumire ftedeslumires lyon,2018,12,11,14,33,440001180.0,undef
+46746679535,45.759933,4.826366,58,dierction vieux lyon lyon france line ligne courbes curve geometry gomtrie,2019,4,19,10,36,451132560.0,undef
+33784903088,45.759933,4.826366,58,funi lyon france urban urbain people personne gen human humain,2019,4,19,9,53,451129980.0,undef
+47662084971,45.759933,4.826366,58,tv funi lyon france urban urbain people personne gen human humain,2019,4,19,9,54,451130040.0,undef
+47538298422,45.760041,4.826505,58, paris drance reims heg river rhone champageardenne marseille languedoc cote dazure ardeche lyon avignon perouges,2018,10,23,9,41,435750060.0,undef
+48250670896,45.759978,4.826592,58,hydrangea pink rose roze rosa flower bloem fleur blume,2019,6,14,14,52,455986320.0,undef
+48189504217,45.760023,4.826608,58,machine funiculaire lyon lyon mcanique machine moteur funiculaire,2015,3,9,14,38,321374280.0,undef
+48590753417,45.759872,4.826552,58,lyon auvergnerhnealpes france lyon oldcity unescoworldheritagesite vieuxlyon rhnealpes,2015,9,20,9,42,338204520.0,undef
+48536609297,45.759925,4.826608,58,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,10,30,459599400.0,undef
+48536609117,45.759927,4.826613,58,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,10,30,459599400.0,undef
+48462577131,45.759927,4.826613,58,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,10,30,459599400.0,undef
+48462576871,45.759916,4.826619,58,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,10,30,459599400.0,undef
+48743408053,45.760313,4.826632,58,place st jean ,2019,9,10,19,11,463605060.0,undef
+48669146538,45.76,4.826666,58,vieux lyon saintjean ,2019,9,1,12,5,462801900.0,undef
+48891293042,45.760217,4.826408,58,avenue doyenn bn nb zw monochroom monotone monochrome bw lyon auvergnerhnealpes lione france frankrijk frankreich francia frana,2019,6,14,14,54,455986440.0,undef
+48880378106,45.760255,4.826636,58,bike ,2019,9,20,7,22,464426520.0,undef
+48871781362,45.760222,4.826495,58,f lyon rhne ,2019,9,27,13,59,465055140.0,undef
+48824976386,45.760173,4.826506,58,lyon france francia frankreich frankrijk fhrainc lyon lione,2019,9,3,18,38,462998280.0,undef
+48824852336,45.760173,4.826506,58,lyon france francia frankreich frankrijk fhrainc lyon lione,2019,9,3,18,38,462998280.0,undef
+48823246423,45.760173,4.826506,58,lyon france francia frankreich frankrijk fhrainc lyon lione,2019,9,3,18,38,462998280.0,undef
+48823003298,45.760173,4.826506,58,lyon france francia frankreich frankrijk fhrainc lyon lione,2019,9,3,18,38,462998280.0,undef
+48823285027,45.760173,4.826506,58,lyon france francia frankreich frankrijk fhrainc lyon lione,2019,9,3,18,38,462998280.0,undef

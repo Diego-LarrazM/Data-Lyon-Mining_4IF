@@ -1,0 +1,44 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+4361399855,45.760498,4.826624,188,lyon ,2009,12,11,12,8,155995680.0,undef,2009-12-11 12:08:00
+4227899046,45.760498,4.826624,188,bouchon france lyon lione,2009,12,13,18,38,156191880.0,undef,2009-12-13 18:38:00
+5076627888,45.76045,4.826576,188,day ,2010,10,1,0,0,181353600.0,undef,2010-10-01 00:00:00
+5270628125,45.760569,4.826538,188,puppet theater lyon france france theater lyon puppet historic,2010,8,25,16,18,178215480.0,undef,2010-08-25 16:18:00
+5253932558,45.760547,4.826645,188,town street france tlr film rollei rolleiflex mediumformat downtown lyon kodak candid kodakportra vc stranger mf cinematic twinlensreflex schneiderkreuznach brucegilden,2010,10,5,16,32,181758720.0,undef,2010-10-05 16:32:00
+5587873837,45.7605,4.826611,188, france europe lyon unesco worldheritage,2011,3,14,16,3,195580980.0,undef,2011-03-14 16:03:00
+5588464466,45.7605,4.826611,188, france europe lyon unesco worldheritage,2011,3,14,16,3,195580980.0,undef,2011-03-14 16:03:00
+5587868435,45.7605,4.826611,188, france europe lyon unesco worldheritage,2011,3,14,16,2,195580920.0,undef,2011-03-14 16:02:00
+5587865689,45.7605,4.826611,188, france europe lyon unesco worldheritage,2011,3,14,16,2,195580920.0,undef,2011-03-14 16:02:00
+5588455822,45.7605,4.826611,188, france europe lyon unesco worldheritage,2011,3,14,16,2,195580920.0,undef,2011-03-14 16:02:00
+5587858683,45.7605,4.826611,188, france europe lyon unesco worldheritage,2011,3,14,16,1,195580860.0,undef,2011-03-14 16:01:00
+5587855275,45.7605,4.826611,188, france europe lyon unesco worldheritage,2011,3,14,16,1,195580860.0,undef,2011-03-14 16:01:00
+5587852493,45.7605,4.826611,188, france europe lyon unesco worldheritage,2011,3,14,15,58,195580680.0,undef,2011-03-14 15:58:00
+5588443184,45.7605,4.826611,188, france europe lyon unesco worldheritage,2011,3,14,15,58,195580680.0,undef,2011-03-14 15:58:00
+5771174246,45.760532,4.82666,188, lyon stock leicam trix elmarit mmasph,2011,5,29,11,25,202130700.0,undef,2011-05-29 11:25:00
+5880722940,45.760614,4.826538,188,vieux lyon city travel urban landscape lyon paysage mm ville vieux hitory historique nex ilobsterit,2011,6,28,13,1,204728460.0,undef,2011-06-28 13:01:00
+6071611604,45.760602,4.826569,188,lyon world trip travel france tourism photo nikon europe tour lyon map tourist gps traveler,2010,9,19,16,22,180375720.0,undef,2010-09-19 16:22:00
+6303673715,45.760622,4.826581,188,lyon lyon,2011,11,1,23,50,215653800.0,undef,2011-11-01 23:50:00
+6659410639,45.760577,4.826624,188,lyon rhne mancanterie ,2011,12,27,15,38,220462680.0,undef,2011-12-27 15:38:00
+6659432635,45.760577,4.826624,188,lyon rhne mancanterie ,2011,12,27,15,40,220462800.0,undef,2011-12-27 15:40:00
+6659430601,45.760577,4.826624,188,lyon rhne mancanterie ,2011,12,27,15,40,220462800.0,undef,2011-12-27 15:40:00
+6659427121,45.760577,4.826624,188,lyon rhne mancanterie ,2011,12,27,15,40,220462800.0,undef,2011-12-27 15:40:00
+6659422645,45.760577,4.826624,188,lyon rhne mancanterie ,2011,12,27,15,39,220462740.0,undef,2011-12-27 15:39:00
+6659420553,45.760577,4.826624,188,lyon rhne mancanterie ,2011,12,27,15,39,220462740.0,undef,2011-12-27 15:39:00
+6659418275,45.760577,4.826624,188,lyon rhne mancanterie ,2011,12,27,15,39,220462740.0,undef,2011-12-27 15:39:00
+6659413373,45.760577,4.826624,188,lyon rhne mancanterie ,2011,12,27,15,39,220462740.0,undef,2011-12-27 15:39:00
+6659412343,45.760577,4.826624,188,lyon rhne mancanterie ,2011,12,27,15,39,220462740.0,undef,2011-12-27 15:39:00
+8412303672,45.760607,4.82656,188,cathdrale st jean ,2012,12,6,23,1,250297260.0,undef,2012-12-06 23:01:00
+8399853792,45.760607,4.82656,188,saint jean france color window saint jean lyon,2013,1,15,15,30,253726200.0,undef,2013-01-15 15:30:00
+8660154279,45.760622,4.826624,188,door door window light red church color beautiful k yellow museum composition jaune wonderful point rouge graffiti miniature photo flickr shadow view lyon pentax pic lumire couleurs tag great pic x muse iso ruine frame belle porte pk dslr vivitar serie eglise aps fenetres kx abandonne cadrage,2013,4,13,16,13,261331980.0,undef,2013-04-13 16:13:00
+8996817404,45.760577,4.826602,188,lyon cathdrale saintjean france architecture sketch lyon aquarelle cathdrale watercolour gothique croquis,2013,6,7,11,6,266065560.0,undef,2013-06-07 11:06:00
+9632985653,45.760489,4.826588,188,lyon rhne sculpture france monument architecture lyon pierre rhne stjean artroman mancanterie,2013,8,26,15,0,272991600.0,undef,2013-08-26 15:00:00
+9632984441,45.760534,4.826567,188,lyon rhne sculpture france monument architecture lyon pierre rhne stjean artroman mancanterie,2013,8,26,15,1,272991660.0,undef,2013-08-26 15:01:00
+9636221628,45.760504,4.82661,188,lyon rhne sculpture france monument architecture lyon pierre rhne stjean artroman mancanterie,2013,8,26,15,2,272991720.0,undef,2013-08-26 15:02:00
+9632981507,45.760489,4.826588,188,lyon rhne sculpture france monument architecture lyon pierre rhne stjean artroman mancanterie,2013,8,26,15,2,272991720.0,undef,2013-08-26 15:02:00
+8108554809,45.760557,4.826562,188, frankreich rhne reise kreuzfahrt arosaluna,2012,9,21,17,56,243712560.0,undef,2012-09-21 17:56:00
+9757025881,45.760517,4.82656,188,lyon ,2013,8,4,20,55,271112100.0,undef,2013-08-04 20:55:00
+16278849097,45.760457,4.826624,188,cathedrale st jean hdr lyon france world street old city travel urban france heritage saint st statue night facade alpes frankreich europe place jean lyon nacht pavement rhne unesco adventure age quarter middle rue francia fontaine nuit eglise ville gargouille flair fond vieux cathedrale bassin urbain baptiste cran pavs clocher pav moyen ge geottagged dcran savefop,2014,5,1,19,23,294434580.0,undef,2014-05-01 19:23:00
+25720196772,45.760644,4.826549,188,petite reine lyon lyon velo,2015,12,31,12,47,347028420.0,undef,2015-12-31 12:47:00
+23229663084,45.76065,4.826583,188,lyon france france lyon,2014,5,30,11,24,296911440.0,undef,2014-05-30 11:24:00
+30776705167,45.76048,4.826613,188,browsing lyon rhne france fr,2018,10,13,15,15,434906100.0,undef,2018-10-13 15:15:00
+48245477236,45.760561,4.826666,188,mvimg ,2019,7,5,10,53,457786380.0,undef,2019-07-05 10:53:00
+48921719948,45.760554,4.826602,188,street lyon night nuit long exposure lyon france europe bike street rue,2019,10,16,23,32,466731120.0,undef,2019-10-16 23:32:00

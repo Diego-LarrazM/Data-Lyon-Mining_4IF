@@ -1,0 +1,60 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken,year_month
+4262187544,45.762366,4.823631,23,basilique damedefourvire schnee snow france frankreich europa europe lyon rhne neige fourvire grandlyon rhnealpes,2010,1,9,16,16,158516160.0,Site d'Intérêt,2010-01-09 16:16:00,2010-01
+4262186602,45.762366,4.823631,23,jardin rosaire schnee snow france frankreich europa europe lyon rhne neige fourvire grandlyon rhnealpes,2010,1,9,16,16,158516160.0,Site d'Intérêt,2010-01-09 16:16:00,2010-01
+4262185868,45.762366,4.823631,23,jardin rosaire schnee snow france frankreich europa europe lyon rhne neige fourvire grandlyon rhnealpes,2010,1,9,16,15,158516100.0,Site d'Intérêt,2010-01-09 16:15:00,2010-01
+4262185150,45.762366,4.823631,23,basilique damedefourvire schnee snow france frankreich europa europe lyon rhne neige fourvire grandlyon rhnealpes,2010,1,9,16,13,158515980.0,Site d'Intérêt,2010-01-09 16:13:00,2010-01
+4261430149,45.762366,4.823631,23,jardin rosaire entre roseraie schnee snow france frankreich europa europe lyon rhne neige fourvire grandlyon rhnealpes,2010,1,9,16,13,158515980.0,Site d'Intérêt,2010-01-09 16:13:00,2010-01
+4261429199,45.762366,4.823631,23,jardin rosaire schnee snow france frankreich europa europe lyon rhne neige fourvire grandlyon rhnealpes,2010,1,9,16,13,158515980.0,Site d'Intérêt,2010-01-09 16:13:00,2010-01
+4262181718,45.762366,4.823631,23,jardin rosaire schnee snow france frankreich europa europe lyon rhne neige fourvire grandlyon rhnealpes,2010,1,9,16,13,158515980.0,Site d'Intérêt,2010-01-09 16:13:00,2010-01
+4262180896,45.762366,4.823631,23,basilique damedefourvire schnee snow france frankreich europa europe lyon rhne neige fourvire grandlyon rhnealpes,2010,1,9,16,12,158515920.0,Site d'Intérêt,2010-01-09 16:12:00,2010-01
+4261426263,45.762366,4.823631,23,jardin rosaire schnee snow france frankreich europa europe lyon rhne neige fourvire grandlyon rhnealpes,2010,1,9,16,12,158515920.0,Site d'Intérêt,2010-01-09 16:12:00,2010-01
+4262178562,45.762366,4.823631,23,jardin rosaire schnee snow france frankreich europa europe lyon rhne neige fourvire grandlyon rhnealpes,2010,1,9,16,12,158515920.0,Site d'Intérêt,2010-01-09 16:12:00,2010-01
+4262177784,45.762366,4.823631,23,jardin rosaire schnee snow france frankreich europa europe lyon rhne neige fourvire grandlyon rhnealpes,2010,1,9,16,12,158515920.0,Site d'Intérêt,2010-01-09 16:12:00,2010-01
+4262177094,45.762366,4.823631,23,jardin rosaire schnee snow france frankreich europa europe lyon rhne neige fourvire grandlyon rhnealpes,2010,1,9,16,11,158515860.0,Site d'Intérêt,2010-01-09 16:11:00,2010-01
+4262176182,45.762366,4.823631,23,jardin rosaire schnee snow france frankreich europa europe lyon rhne neige fourvire grandlyon rhnealpes,2010,1,9,16,11,158515860.0,Site d'Intérêt,2010-01-09 16:11:00,2010-01
+4261422091,45.762366,4.823631,23,lyon sou neige schnee snow france frankreich europa europe lyon rhne neige fourvire grandlyon rhnealpes,2010,1,9,16,10,158515800.0,Site d'Intérêt,2010-01-09 16:10:00,2010-01
+4261421301,45.762366,4.823631,23,jardin rosaire schnee snow france frankreich europa europe lyon rhne neige fourvire grandlyon rhnealpes,2010,1,9,16,9,158515740.0,Site d'Intérêt,2010-01-09 16:09:00,2010-01
+4262173732,45.762366,4.823631,23,jardin rosaire schnee snow france frankreich europa europe lyon rhne neige fourvire grandlyon rhnealpes,2010,1,9,16,8,158515680.0,Site d'Intérêt,2010-01-09 16:08:00,2010-01
+5048664518,45.762485,4.823652,23,lyon friday morning lyon,2010,10,1,8,50,181385400.0,Site d'Intérêt,2010-10-01 08:50:00,2010-10
+6613242599,45.762225,4.823669,23,notredame fourvire france lyon lione francia notredamedefourvire rodanoalpi,2011,8,20,11,37,209302620.0,Site d'Intérêt,2011-08-20 11:37:00,2011-08
+7422482566,45.762333,4.823666,23,lyon france lyon rhnealpes,2012,6,22,15,27,235841220.0,Site d'Intérêt,2012-06-22 15:27:00,2012-06
+7820703534,45.762418,4.823677,23,ville lyon d fourvire france alpes lyon ville fourviere rhone,2012,7,3,9,23,236769780.0,Site d'Intérêt,2012-07-03 09:23:00,2012-07
+8290533335,45.762358,4.823631,23,american france leica travel france lumix europe panasonic study abroad handheld pointandshoot,2010,8,27,6,17,178352220.0,Site d'Intérêt,2010-08-27 06:17:00,2010-08
+8669777176,45.762493,4.823577,23, light france blancoynegro blanco luz church water stone canon eos rebel agua kiss shadow cathedral lyon negro catedral iglesia holy bancos bench francia sagrada sombras x piedra pedestal canoneos canoneosrebelt rebelt kissx canoneoskissx,2013,4,21,21,48,262043280.0,Site d'Intérêt,2013-04-21 21:48:00,2013-04
+8946848741,45.762448,4.8237,23,crobs people ink watercolor sketch lyon outdoor aquarelle paysage usk personnes couleur encre panoramique croquis stylo,2013,6,4,0,12,265767120.0,Site d'Intérêt,2013-06-04 00:12:00,2013-06
+9342779872,45.762171,4.823673,23,basilica notredame fourvire lyon lyon basilica notredamedefourvire basilicaofnotredamedefourvire thapril notredamedefourvirelyon april basilicadenotredamedefourvire basilicadenotredamedefourvirelyon basilicaofnotredamedefourvirelyon,2013,4,30,9,10,262775400.0,Site d'Intérêt,2013-04-30 09:10:00,2013-04
+9320963111,45.762194,4.823673,23,jardins rosaire fourvire park france geotagged lyon,2013,7,5,15,5,268499100.0,Site d'Intérêt,2013-07-05 15:05:00,2013-07
+9323753688,45.762194,4.823673,23,fourvire garden park france geotagged lyon,2013,7,5,15,7,268499220.0,Site d'Intérêt,2013-07-05 15:07:00,2013-07
+9323752006,45.762194,4.823673,23,fourvire garden park france geotagged lyon,2013,7,5,15,9,268499340.0,Site d'Intérêt,2013-07-05 15:09:00,2013-07
+9323750988,45.762194,4.823673,23,jardins rosaire fourvire park france geotagged lyon,2013,7,5,15,13,268499580.0,Site d'Intérêt,2013-07-05 15:13:00,2013-07
+9323749584,45.762194,4.823673,23,fourvire garden france geotagged lyon,2013,7,5,15,16,268499760.0,Site d'Intérêt,2013-07-05 15:16:00,2013-07
+9323748050,45.762194,4.823673,23,fourvire garden park france geotagged lyon,2013,7,5,15,19,268499940.0,Site d'Intérêt,2013-07-05 15:19:00,2013-07
+9320955137,45.762194,4.823673,23,jardins rosaire fourvire park france fountain geotagged lyon,2013,7,5,15,30,268500600.0,Site d'Intérêt,2013-07-05 15:30:00,2013-07
+9320952743,45.762194,4.823673,23,jardins rosaire fourvire park france green garden geotagged lyon,2013,7,5,15,46,268501560.0,Site d'Intérêt,2013-07-05 15:46:00,2013-07
+10589796535,45.762418,4.823641,23, ,2013,8,16,12,6,272117160.0,Site d'Intérêt,2013-08-16 12:06:00,2013-08
+10589796345,45.762418,4.823641,23, ,2013,8,16,12,4,272117040.0,Site d'Intérêt,2013-08-16 12:04:00,2013-08
+10589830364,45.762418,4.823641,23, ,2013,8,16,12,5,272117100.0,Site d'Intérêt,2013-08-16 12:05:00,2013-08
+10589815736,45.762418,4.823641,23, ,2013,8,16,12,11,272117460.0,Site d'Intérêt,2013-08-16 12:11:00,2013-08
+10589830024,45.762418,4.823641,23, ,2013,8,16,12,12,272117520.0,Site d'Intérêt,2013-08-16 12:12:00,2013-08
+10590050703,45.762418,4.823641,23, ,2013,8,16,12,12,272117520.0,Site d'Intérêt,2013-08-16 12:12:00,2013-08
+10589829834,45.762418,4.823641,23, ,2013,8,16,12,12,272117520.0,Site d'Intérêt,2013-08-16 12:12:00,2013-08
+10589815086,45.762418,4.823641,23, ,2013,8,16,12,15,272117700.0,Site d'Intérêt,2013-08-16 12:15:00,2013-08
+10589795085,45.762418,4.823641,23, ,2013,8,16,12,15,272117700.0,Site d'Intérêt,2013-08-16 12:15:00,2013-08
+10589808756,45.762418,4.823641,23, ,2013,8,16,12,12,272117520.0,Site d'Intérêt,2013-08-16 12:12:00,2013-08
+10589782014,45.762418,4.823641,23, ,2013,8,16,11,58,272116680.0,Site d'Intérêt,2013-08-16 11:58:00,2013-08
+10589781534,45.762418,4.823641,23, ,2013,8,16,12,0,272116800.0,Site d'Intérêt,2013-08-16 12:00:00,2013-08
+10589764506,45.762418,4.823641,23, ,2013,8,16,12,3,272116980.0,Site d'Intérêt,2013-08-16 12:03:00,2013-08
+10589814364,45.762418,4.823641,23, ,2013,8,16,12,4,272117040.0,Site d'Intérêt,2013-08-16 12:04:00,2013-08
+10247470393,45.762373,4.823684,23,lyon square squareformat hudson iphoneography instagramapp uploadedbyinstagram foursquarevenue e b f,2013,10,13,7,45,277112700.0,Site d'Intérêt,2013-10-13 07:45:00,2013-10
+11071211656,45.762373,4.823684,23,bien belle journe soleil lyon aujourdhui square lofi squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue e b f,2013,11,26,19,14,280955640.0,Site d'Intérêt,2013-11-26 19:14:00,2013-11
+14112993422,45.762374,4.823685,23, ,2014,5,5,18,20,294776400.0,Site d'Intérêt,2014-05-05 18:20:00,2014-05
+13929403519,45.762374,4.823685,23, ,2014,5,5,18,50,294778200.0,Site d'Intérêt,2014-05-05 18:50:00,2014-05
+14136121303,45.762374,4.823685,23, ,2014,5,5,18,23,294776580.0,Site d'Intérêt,2014-05-05 18:23:00,2014-05
+14427958744,45.762268,4.823641,23, close lyon proche,2014,5,4,16,40,294684000.0,Site d'Intérêt,2014-05-04 16:40:00,2014-05
+15082099349,45.762493,4.823684,23,lyon france lyon lyon,2014,4,29,10,34,294230040.0,Site d'Intérêt,2014-04-29 10:34:00,2014-04
+11330625533,45.762493,4.823716,23,lph france lyon,2013,12,7,11,39,281878740.0,Site d'Intérêt,2013-12-07 11:39:00,2013-12
+11297344215,45.762433,4.823727,23,fte lumires lyon france lyon fete lumieres rhone,2013,12,9,23,9,282092940.0,Site d'Intérêt,2013-12-09 23:09:00,2013-12
+11297340955,45.762433,4.823727,23,fte lumires lyon france lyon fete lumieres rhone,2013,12,9,23,9,282092940.0,Site d'Intérêt,2013-12-09 23:09:00,2013-12
+48553059631,45.762313,4.823733,23,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso nik dxopl frankrijk franrijk jossaris jossarisfoto lr lyon nik rhne,2019,7,26,13,10,459609000.0,Site d'Intérêt,2019-07-26 13:10:00,2019-07
+48536599247,45.762313,4.823733,23,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,13,10,459609000.0,Site d'Intérêt,2019-07-26 13:10:00,2019-07
+48462546631,45.762313,4.823733,23,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,13,10,459609000.0,Site d'Intérêt,2019-07-26 13:10:00,2019-07

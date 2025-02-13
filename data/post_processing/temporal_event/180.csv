@@ -1,0 +1,63 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+4196471159,45.76655,4.829274,180,fetedeslumieres france lyon ftedeslumires lightfestival saone fetedeslumieres lumignons fetedeslumieres,2009,12,8,22,24,155773440.0,undef,2009-12-08 22:24:00
+4737517261,45.766546,4.829413,180, bw lyon sigma quaisdesane,2010,5,18,19,23,169672980.0,undef,2010-05-18 19:23:00
+5773251235,45.766483,4.829336,180, france lyon,2011,5,27,18,51,201984660.0,undef,2011-05-27 18:51:00
+5927456552,45.76646,4.829381,180,basilica notredame fourvire raw,2011,6,25,22,0,204501600.0,undef,2011-06-25 22:00:00
+6168743189,45.766437,4.82936,180,face face fil sane commerce saint paul lyon bibliothque atelier municipale sane,2011,9,21,14,17,212077020.0,undef,2011-09-21 14:17:00
+6413885649,45.76652,4.829403,180,dedicated mom ,2011,11,26,22,17,217808220.0,undef,2011-11-26 22:17:00
+6326427647,45.766531,4.829446,180, square squareformat earlybird iphoneography instagramapp uploadedbyinstagram foursquarevenue e e cdc cde,2011,11,8,22,47,216254820.0,undef,2011-11-08 22:47:00
+5226768498,45.766538,4.829403,180,pont feuille ,2010,12,1,0,0,186624000.0,undef,2010-12-01 00:00:00
+6788672852,45.766531,4.829446,180, square sierra squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue e e cdc cde,2012,2,27,12,57,225809820.0,undef,2012-02-27 12:57:00
+6777351427,45.76655,4.829274,180,feteslumieres france lyon croixrousse ftedeslumires sane lightfestival lumignons,2011,12,8,22,25,218845500.0,undef,2011-12-08 22:25:00
+6777351223,45.76655,4.829274,180,feteslumieres france lyon croixrousse ftedeslumires sane lightfestival lumignons,2011,12,8,22,24,218845440.0,undef,2011-12-08 22:24:00
+6674514051,45.766557,4.829349,180,rhone travel france lyon,2011,11,12,11,54,216561240.0,undef,2011-11-12 11:54:00
+6674512745,45.766557,4.829349,180,basilica notredame fourvire travel france lyon,2011,11,12,11,51,216561060.0,undef,2011-11-12 11:51:00
+6945153506,45.76646,4.82936,180,lyon pont feuille lyon zeissikon folding,2012,3,31,0,0,228614400.0,undef,2012-03-31 00:00:00
+6921199036,45.766564,4.829392,180,quai sane lyon rhne quaisdesane jacquesmeynierdemalviala,2010,9,5,12,28,179152080.0,undef,2010-09-05 12:28:00
+6907587578,45.766531,4.829446,180,boat square squareformat amaro iphoneography instagramapp uploadedbyinstagram foursquarevenue e e cdc cde,2012,4,7,16,41,229279260.0,undef,2012-04-07 16:41:00
+7214945962,45.766482,4.829403,180,miroir sane eau lyon nuages lieux sane miroirdeau,2012,5,6,14,23,231776580.0,undef,2012-05-06 14:23:00
+8527528817,45.766531,4.829446,180,jadore couleurs btiments refltent saone lyon square squareformat mayfair iphoneography instagramapp uploadedbyinstagram foursquarevenue e e cdc cde,2013,3,4,16,47,257878020.0,undef,2013-03-04 16:47:00
+8651227175,45.766579,4.829306,180,quais saone lyon jour tempsclair,2013,4,13,17,44,261337440.0,undef,2013-04-13 17:44:00
+9043050509,45.766531,4.829446,180,home square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue e e cdc cde,2013,6,14,22,19,266710740.0,undef,2013-06-14 22:19:00
+9282335945,45.766555,4.829311,180,swan france swan lyon cygne rhnealpes,2013,6,16,11,43,266845380.0,undef,2013-06-16 11:43:00
+9631620626,45.766531,4.829446,180,sant lyon square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue e e cdc cde,2013,8,30,19,36,273353760.0,undef,2013-08-30 19:36:00
+9509163595,45.766579,4.829435,180,croix rousse frankreich france lyon tourisme vacances saone pont lacroixrousse colline rhne rhnealpes rivire,2013,8,9,19,40,271539600.0,undef,2013-08-09 19:40:00
+9877259216,45.766579,4.829381,180, lyon,2013,9,21,14,44,275237040.0,undef,2013-09-21 14:44:00
+9877292433,45.766531,4.829446,180,bella mia lione square lofi squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue e e cdc cde,2013,9,22,18,7,275335620.0,undef,2013-09-22 18:07:00
+10389335584,45.766531,4.829446,180, square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue e e cdc cde,2013,10,20,13,40,277738800.0,undef,2013-10-20 13:40:00
+10383100766,45.766535,4.829413,180, lyon vieux sane,2013,10,19,17,32,277666320.0,undef,2013-10-19 17:32:00
+10133996153,45.76655,4.829392,180,red yellow blue france window architecture lyon lione giallo francia architettura finestre,2013,10,5,16,18,276452280.0,undef,2013-10-05 16:18:00
+12622473155,45.766533,4.829391,180,across saone night france europe lyon,2013,10,25,13,7,278168820.0,undef,2013-10-25 13:07:00
+12349254034,45.766535,4.82936,180,everyday france france lyon,2013,2,16,16,48,256495680.0,undef,2013-02-16 16:48:00
+14591609127,45.766564,4.82937,180,quais sane nuit lyon fourviere nuits,2014,7,27,23,56,301967760.0,undef,2014-07-27 23:56:00
+14743731307,45.766531,4.829446,180,upload square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue e e cdc cde,2014,8,15,15,43,303579780.0,undef,2014-08-15 15:43:00
+11370350483,45.766579,4.829381,180, festival light lyon fte festivaloflights lumires ftedeslumires,2013,12,7,18,40,281904000.0,undef,2013-12-07 18:40:00
+16876211818,45.766531,4.829446,180, pontlafeuille,2015,4,3,19,55,323553300.0,undef,2015-04-03 19:55:00
+17241607120,45.766547,4.829355,180, ,2015,5,4,21,14,326236440.0,undef,2015-05-04 21:14:00
+19829002325,45.766564,4.829285,180,lyon vaporetto pont feuille france rhne village tourisme villes sane filoer,2015,7,18,11,6,332679960.0,undef,2015-07-18 11:06:00
+19642368729,45.766564,4.829285,180,lyon vaporetto france rhne village tourisme villes sane filoer,2015,7,18,11,5,332679900.0,undef,2015-07-18 11:05:00
+22287835530,45.766577,4.829348,180,sane lyon france lyon filemd suma b e ff ad eed filesha sige f f b b daca ebed,2015,10,24,14,46,341160360.0,undef,2015-10-24 14:46:00
+21854562043,45.766577,4.829348,180,sane lyon france lyon filemd sum f af bfb ba ad cd filesha sigf efe ef bc b aaae ea e,2015,10,24,14,44,341160240.0,undef,2015-10-24 14:44:00
+22475743485,45.766577,4.829348,180,sane lyon france lyon filemd sum cc e ac db b df filesha sig ea fc e e bda bbbc f ec,2015,10,24,14,44,341160240.0,undef,2015-10-24 14:44:00
+22867212081,45.76652,4.829285,180,sane lyon ,2015,11,7,12,20,342361200.0,undef,2015-11-07 12:20:00
+28364342120,45.766542,4.829274,180,river cruise lyon ,2016,6,17,11,9,361624140.0,undef,2016-06-17 11:09:00
+27680855573,45.766505,4.829384,180, ,2016,7,13,17,46,363894360.0,undef,2016-07-13 17:46:00
+30756800146,45.766639,4.82937,180,lyon lyon city ville noiretblanc noirblanc blackandwhite nb monochrome immeuble sane rhne pont bridge canon mm,2016,10,8,15,56,371404560.0,undef,2016-10-08 15:56:00
+31775385734,45.76652,4.82937,180,reflection sane river pont bridge water eau sane saone river rivire reflet reflection lumire light nuit night rhne lyon france canon eos hdr dcembre december winter hiver,2016,12,25,18,20,378152400.0,undef,2016-12-25 18:20:00
+34347171756,45.766602,4.829328,180, quaisdesane lyon sunset,2017,4,29,19,50,388957800.0,undef,2017-04-29 19:50:00
+35218276402,45.766572,4.829348,180,pont feuille river sane lyon lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes riversane lasane bridge tree tree vieuxlyon oldlyon unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite coach pontdelafeuille bridgeofthefeuille bridgelafeuille porcieuamblagnieu doublecantilevers quaidebondy quaidelapcherie passerellesaintvincent,2017,6,3,13,33,391959180.0,undef,2017-06-03 13:33:00
+35540177383,45.766535,4.829413,180, lyon bateau vaporetto sane,2017,7,31,16,50,396982200.0,undef,2017-07-31 16:50:00
+36212113661,45.766535,4.829413,180, lyon bateau vaporetto sane,2017,7,31,16,51,396982260.0,undef,2017-07-31 16:51:00
+37994716796,45.766573,4.829324,180,sane lyon france rhone saone,2017,10,30,18,2,404848920.0,undef,2017-10-30 18:02:00
+24785694728,45.766588,4.829388,180,sarah ,2017,11,26,16,14,407175240.0,undef,2017-11-26 16:14:00
+39920063182,45.766554,4.829338,180,st vincent lyon sane quai saint vincent passerelle george innondations,2018,1,7,16,20,410804400.0,undef,2018-01-07 16:20:00
+38701542295,45.766554,4.829338,180,passerelle saint vincent lyon lyon fuji,2018,1,7,16,20,410804400.0,undef,2018-01-07 16:20:00
+27218190358,45.766535,4.829295,180,phm decembre decembre fete fetedeslumieres lumiere lumieres lyon saone france,2017,12,9,21,27,408317220.0,undef,2017-12-09 21:27:00
+41954635781,45.766579,4.82937,180,croix rousse ,2018,5,6,9,19,421060740.0,undef,2018-05-06 09:19:00
+42479089090,45.766512,4.829338,180, lyon,2018,8,14,16,59,429728340.0,undef,2018-08-14 16:59:00
+43570017554,45.766512,4.829338,180, lyon,2018,8,14,17,57,429731820.0,undef,2018-08-14 17:57:00
+31106812167,45.766579,4.82937,180,bonbon chez guignol ,2018,11,25,10,10,438603000.0,undef,2018-11-25 10:10:00
+31866989818,45.76648,4.829336,180,sane river lyon france france auvergnerhnealpes auvergnerhonealpes rhnealpes rhonealpes rhne rhone lyon geotagged,2018,10,27,12,10,436104600.0,undef,2018-10-27 12:10:00
+47015787984,45.766579,4.829381,180, lyon sane rivire,2019,3,30,17,53,449430780.0,undef,2019-03-30 17:53:00
+32861493487,45.766579,4.829381,180, lyon sane rivire,2019,3,30,17,56,449430960.0,undef,2019-03-30 17:56:00
+40838667253,45.766579,4.829381,180, lyon sane rivire,2019,3,30,17,58,449431080.0,undef,2019-03-30 17:58:00

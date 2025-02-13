@@ -1,0 +1,140 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4300814769,45.764757,4.833512,30,glise saint nizier church lyon sunday glise dimanche canonef mmf lusm canon dmarkii,2010,1,24,15,41,-1.6143505829102138,undef
+4301560782,45.764757,4.833512,30,glise saint nizier church lyon sunday glise dimanche canonef mmf lusm canon dmarkii,2010,1,24,15,41,-1.6143505829102138,undef
+4301560010,45.764757,4.833512,30,glise saint nizier church lyon sunday glise dimanche canonef mmf lusm canon dmarkii,2010,1,24,15,37,-1.614353311415992,undef
+4237754975,45.764742,4.833592,30,eglise saintnizier panorama lyon gothicarchitecture hugin presquile eglisesaintnizier saintnizierchurch,2009,12,31,16,45,-1.637881216742876,undef
+4167611794,45.764693,4.83363,30,crche nol lglise saintnizier lyon ville,2009,12,5,15,40,-1.6634643690473172,undef
+4166850095,45.764693,4.83363,30,vitrail glise saintnizier lyon ville,2009,12,5,15,39,-1.663465051173762,undef
+4166848235,45.764693,4.83363,30,vitrail lglise saintnizier lyon ville,2009,12,5,15,40,-1.6634643690473172,undef
+4167604502,45.764693,4.83363,30, lyon ville,2009,12,5,15,38,-1.6634657333002063,undef
+4166842761,45.764693,4.83363,30, lyon ville,2009,12,5,15,39,-1.663465051173762,undef
+4167600688,45.764693,4.83363,30,rosace lglise saintnizier lyon ville,2009,12,5,15,38,-1.6634657333002063,undef
+4166839027,45.764693,4.83363,30,orgue lglise saintnizier lyon ville,2009,12,5,15,38,-1.6634657333002063,undef
+4167596994,45.764693,4.83363,30,vitrail glise saintnizier lyon ville,2009,12,5,15,37,-1.663466415426651,undef
+4167595120,45.764693,4.83363,30,vitrail glise saintnizier lyon ville,2009,12,5,15,36,-1.6634670975530956,undef
+4167593032,45.764693,4.83363,30,vitrail glise saintnizier lyon ville,2009,12,5,15,36,-1.6634670975530956,undef
+4166830709,45.764693,4.83363,30,vitrail glise saintnizier lyon ville,2009,12,5,15,35,-1.6634677796795403,undef
+4167588362,45.764693,4.83363,30,vitrail glise saintnizier lyon ville,2009,12,5,15,35,-1.6634677796795403,undef
+4166825629,45.764693,4.83363,30,nef lglise saintnizier lyon ville,2009,12,5,15,34,-1.6634684618059847,undef
+4167583424,45.764693,4.83363,30,vote nef lglise saintnizier lyon ville,2009,12,5,15,34,-1.6634684618059847,undef
+5259379548,45.76466,4.833523,30,saint nizier monument air marie lyon illumination saintjean bellecour ftedeslumires dcembre fourvire sane yoann rhnealpes saintnizier ifag,2010,12,12,0,56,-1.2986658749850344,undef
+5259379070,45.764678,4.833555,30,saint nizier monument air marie lyon illumination saintjean bellecour ftedeslumires dcembre fourvire sane yoann rhnealpes saintnizier ifag,2010,12,12,0,58,-1.298664510732145,undef
+5241855077,45.764701,4.833673,30,ray stranger portrait st mm lyon homeless stranger iso glise sansabris etrangers nizier mohamedsimma,2010,12,8,14,19,-1.3020471757708794,undef
+6830352895,45.764866,4.833576,30,dj taco drum nbass portrait canon lyon vnement,2012,1,29,3,14,-0.8928975024076374,undef
+6830336275,45.764907,4.833608,30,dj goldinio electro portrait canon lyon vnement,2012,1,29,0,47,-0.8929977749949926,undef
+6830327051,45.764895,4.833619,30,dj goldinio electro portrait canon lyon vnement,2012,1,29,0,36,-0.8930052783858831,undef
+6830321265,45.764892,4.833619,30,dj goldinio electro portrait canon lyon vnement,2012,1,29,0,38,-0.8930039141329938,undef
+6830314077,45.76491,4.833662,30,dj twist electro portrait canon lyon vnement,2012,1,29,1,39,-0.8929623044198738,undef
+6830301319,45.764914,4.833651,30,dj twist electro portrait canon lyon vnement,2012,1,29,1,49,-0.8929554831554278,undef
+6830296629,45.764884,4.833608,30,dj taco drum nbass portrait canon lyon vnement,2012,1,29,3,18,-0.8928947739018591,undef
+6830274607,45.764888,4.833619,30,dj taco drum nbass portrait canon lyon vnement,2012,1,29,3,23,-0.8928913632696361,undef
+6816567411,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,13,56,-0.924874225877244,undef
+6816562831,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,14,1,-0.924870815245021,undef
+6816561855,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,14,4,-0.9248687688656873,undef
+6816560443,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,14,4,-0.9248687688656873,undef
+6816559193,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,14,4,-0.9248687688656873,undef
+6816557889,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,14,2,-0.9248701331185764,undef
+6816555983,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,14,2,-0.9248701331185764,undef
+6816555109,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,14,1,-0.924870815245021,undef
+6816554099,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,14,1,-0.924870815245021,undef
+6816552513,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,14,1,-0.924870815245021,undef
+6816551537,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,14,1,-0.924870815245021,undef
+6816549761,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,14,0,-0.9248714973714656,undef
+6816547331,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,14,0,-0.9248714973714656,undef
+6816545575,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,14,0,-0.9248714973714656,undef
+6816544279,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,13,59,-0.9248721794979102,undef
+6816542521,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,13,59,-0.9248721794979102,undef
+6816541251,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,13,59,-0.9248721794979102,undef
+6816539577,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,13,59,-0.9248721794979102,undef
+6816538897,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,13,58,-0.9248728616243548,undef
+6816537925,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,13,58,-0.9248728616243548,undef
+6816537225,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,13,58,-0.9248728616243548,undef
+6816535739,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,13,58,-0.9248728616243548,undef
+6816533665,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,13,57,-0.9248735437507994,undef
+6816531785,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,13,57,-0.9248735437507994,undef
+6816530685,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,13,57,-0.9248735437507994,undef
+6816528693,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,13,57,-0.9248735437507994,undef
+6816527543,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,13,57,-0.9248735437507994,undef
+6816522505,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,13,56,-0.924874225877244,undef
+6816521535,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,13,56,-0.924874225877244,undef
+6816520451,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,13,52,-0.9248769543830224,undef
+6816519717,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,13,52,-0.9248769543830224,undef
+6816518297,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,13,52,-0.9248769543830224,undef
+6816517119,45.764783,4.833641,30,lyon rhne stnizier ,2011,12,27,13,51,-0.924877636509467,undef
+6782327443,45.764918,4.83363,30,pasted paper piliz lyon france streetart france pasteup collage paper europe lyon wheatpaste pasted croixrousse wheatpaper piliz,2012,1,4,16,40,-0.9169042604986254,undef
+9118990548,45.764768,4.833662,30, lyon,2013,6,17,23,41,-0.3960181827524669,undef
+9116763481,45.764768,4.833662,30, lyon,2013,6,17,23,41,-0.3960181827524669,undef
+9116762709,45.764768,4.833662,30, lyon,2013,6,17,23,41,-0.3960181827524669,undef
+11815286046,45.764693,4.833619,30,saint nizier lyon france church saint architecture lyon nizier,2014,1,7,0,43,-0.1965766886296267,undef
+13990271882,45.764711,4.833598,30,beautiful quelle beaut square squareformat rise iphoneography instagramapp uploadedbyinstagram,2014,4,24,3,37,-0.0913559560454574,undef
+13784368614,45.764665,4.833608,30,gargouilles expose lglise saintnizier lyon lyon noiretblanc,2014,3,13,14,34,-0.1321628063403137,undef
+14207116471,45.764711,4.833598,30,upload square squareformat iphoneography instagramapp uploadedbyinstagram,2014,5,17,22,25,-0.067994489571054,undef
+16191730341,45.764731,4.833544,30,lyon eglise saintnizier france church architecture frankreich lyon lione gothic frana rhne frankrijk francia glise renaissance francie frankrig lyon historicalbuilding frankrike rhnealpes francja saintnizier december,2014,12,21,15,7,0.1458398725326875,undef
+16226980883,45.764738,4.833608,30, france lyon glise rhone rhonealpes stnizier croyances onlylyon monlyon,2015,3,11,16,39,0.2244835945826444,undef
+16226960653,45.764738,4.833608,30, france lyon glise rhone rhonealpes stnizier croyances onlylyon monlyon,2015,3,11,16,38,0.2244829124561998,undef
+16660776009,45.764738,4.833608,30, france lyon glise rhone rhonealpes stnizier croyances onlylyon monlyon,2015,3,11,16,36,0.2244815482033106,undef
+16846896485,45.764738,4.833608,30, france lyon glise rhone rhonealpes stnizier croyances onlylyon monlyon,2015,3,11,16,38,0.2244829124561998,undef
+16660729139,45.764738,4.833608,30, france lyon glise rhone rhonealpes stnizier croyances onlylyon monlyon,2015,3,11,16,35,0.224480866076866,undef
+16820990746,45.764738,4.833608,30, france lyon glise rhone rhonealpes stnizier croyances onlylyon monlyon,2015,3,11,16,33,0.2244795018239768,undef
+16660701069,45.764738,4.833608,30, france lyon glise rhone rhonealpes stnizier croyances onlylyon monlyon,2015,3,11,16,32,0.2244788196975322,undef
+16659443870,45.764738,4.833608,30, france lyon glise rhone rhonealpes stnizier croyances onlylyon monlyon,2015,3,11,16,32,0.2244788196975322,undef
+16660665529,45.764738,4.833608,30, france lyon glise rhone rhonealpes stnizier croyances onlylyon monlyon,2015,3,11,16,32,0.2244788196975322,undef
+16820928346,45.764738,4.833608,30, france lyon glise rhone rhonealpes stnizier croyances onlylyon monlyon,2015,3,11,16,31,0.2244781375710876,undef
+16659156048,45.764738,4.833608,30, france lyon glise rhone rhonealpes stnizier croyances onlylyon monlyon,2015,3,11,16,29,0.2244767733181984,undef
+16820863796,45.764738,4.833608,30, france lyon glise rhone rhonealpes stnizier croyances onlylyon monlyon,2015,3,11,16,30,0.2244774554446431,undef
+16224362714,45.764738,4.833608,30, france lyon glise rhone rhonealpes stnizier croyances onlylyon monlyon,2015,3,11,16,30,0.2244774554446431,undef
+16845554251,45.764738,4.833608,30, france lyon glise rhone rhonealpes stnizier croyances onlylyon monlyon,2015,3,11,16,24,0.2244733626859755,undef
+16820746516,45.764738,4.833608,30, france lyon glise rhone rhonealpes stnizier croyances onlylyon monlyon,2015,3,11,16,27,0.2244754090653093,undef
+21873382909,45.764753,4.833673,30,stained glass paris france church europa europe raw iglesia kirche frana stainedglass f igreja glise ue vitral panasonicdmcgf amricoaperta p saintnizierschurch leglisesaintnizier igrejadesaintnizier,2015,5,29,14,18,0.301986119090798,undef
+22047867972,45.764761,4.833694,30,stained glass paris france church europa europe raw iglesia kirche frana stainedglass f igreja glise ue vitral p panasonicdmcgf amricoaperta saintnizierschurch leglisesaintnizier igrejadesaintnizier,2015,5,29,14,18,0.301986119090798,undef
+22047863352,45.764746,4.833619,30,stained glass paris france church europa europe raw iglesia kirche frana stainedglass f igreja glise ue vitral panasonicdmcgf amricoaperta p saintnizierschurch leglisesaintnizier igrejadesaintnizier,2015,5,29,14,17,0.3019854369643535,undef
+21872106410,45.764798,4.833662,30,byealtar paris france church europa europe raw iglesia kirche frana altar f igreja glise ue sidealtar eglisesaintnizier altarlateral panasonicdmcgf p amricoaperta saintnizierschurch byealtar igrejadesaintnizier,2015,5,29,14,16,0.3019847548379089,undef
+22856695949,45.764738,4.833576,30,lyon france church statue canon lyon pipeorgan gsamie guillaumesamie,2015,10,31,2,2,0.4537346964606208,undef
+15951264786,45.764753,4.833608,30,p ,2014,12,7,23,6,0.1324149419766628,undef
+28341544320,45.764711,4.833597,30,paroisse catholique saint nizier diocese lyon e tbpost httpjoshuahidekicom instagramapp square squareformat iphoneography uploadedbyinstagram,2016,7,29,2,32,0.7209304460719433,undef
+30990832592,45.764683,4.833686,30,dsc dxo ,2015,4,19,15,31,0.2627454311127261,undef
+34097747614,45.764783,4.833683,30,eglise saint nizier fujifilmxt lyon noiretblanc nb bnw bw blackandwhite monochrome monochromatic nuit night glise church saintnizier,2017,5,27,22,3,1.0183723643629414,undef
+38337725462,45.764705,4.8335,30,lyon th november ,2017,11,10,15,24,1.1821379633071498,undef
+38694952770,45.7647,4.833706,30,black jesus st nizier ,2015,9,24,6,44,0.4175833591501082,undef
+39609934105,45.764712,4.833509,30,ummm ,2015,9,24,6,40,0.4175806306443299,undef
+38694945290,45.764673,4.833701,30,st nizier ,2015,9,24,6,40,0.4175806306443299,undef
+41930934362,45.764731,4.833683,30,blue stained glass lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,13,38,1.3559260461017557,undef
+40174003260,45.764731,4.833683,30,symmetry lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,13,42,1.355928774607534,undef
+27111738377,45.764731,4.833683,30,eyeful lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,13,39,1.3559267282282004,undef
+40173997620,45.764731,4.833683,30,altar statuary lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,13,40,1.355927410354645,undef
+27111736957,45.764731,4.833683,30,vivid blue lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,13,41,1.3559280924810897,undef
+40173995680,45.764731,4.833683,30,stained glass lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,13,44,1.3559301388604237,undef
+27111735537,45.764731,4.833683,30,holy figure lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,13,45,1.355930820986868,undef
+40173994190,45.764731,4.833683,30,half dome lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,13,46,1.3559315031133126,undef
+27111734017,45.764731,4.833683,30,facade lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,13,46,1.3559315031133126,undef
+41081010525,45.764731,4.833683,30,crossing lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,13,47,1.3559321852397572,undef
+27111732457,45.764731,4.833683,30,saint nizier lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,13,47,1.3559321852397572,undef
+40168568930,45.764731,4.833683,30,mother child lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,13,35,1.355923999722422,undef
+28104367348,45.764731,4.833683,30,rich colour lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,13,36,1.3559246818488666,undef
+41930935382,45.764731,4.833683,30,perfect panel lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,13,38,1.3559260461017557,undef
+41930929932,45.764731,4.833683,30,detailed scene lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,13,37,1.3559253639753113,undef
+40168096890,45.764731,4.833683,30,detailed steeple lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,13,27,1.355918542710865,undef
+41256416454,45.764731,4.833683,30,saint nizier lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,13,29,1.3559199069637544,undef
+41975278831,45.764731,4.833683,30,stained glass lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,13,29,1.3559199069637544,undef
+28103858948,45.764731,4.833683,30,colourful glass lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,13,30,1.355920589090199,undef
+27106044177,45.764731,4.833683,30,stained glass lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,13,31,1.3559212712166435,undef
+40168062300,45.764731,4.833683,30,church interior lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,13,32,1.3559219533430882,undef
+41256380414,45.764731,4.833683,30,church ceiling lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,13,32,1.3559219533430882,undef
+40168033500,45.764731,4.833683,30,church interior lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,13,33,1.3559226354695328,undef
+41930465302,45.764731,4.833683,30,rich detail lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,13,32,1.3559219533430882,undef
+41256357724,45.764731,4.833683,30,stained glass lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,13,33,1.3559226354695328,undef
+29986427477,45.764719,4.833716,30,lyon eglise saint nizier ,2018,9,26,9,0,1.4961998924206437,undef
+48536574507,45.76465,4.833538,30,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,25,15,57,1.793127487372419,undef
+48536574432,45.76483,4.833658,30,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,25,15,58,1.7931281694988637,undef
+48536574302,45.76475,4.833625,30,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,25,15,58,1.7931281694988637,undef
+48536574162,45.764691,4.833722,30,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,25,15,59,1.793128851625308,undef
+48536426611,45.764705,4.833561,30,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,25,16,0,1.7931295337517528,undef
+48536426496,45.764627,4.833658,30,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,25,16,1,1.7931302158781974,undef
+48536426176,45.764647,4.833522,30,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,25,16,4,1.7931322622575312,undef
+48461229942,45.76465,4.833538,30,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl franrijk jossaris jossarisfoto lr lyon rhne frankrijk,2019,7,25,15,57,1.793127487372419,undef
+48461229802,45.76483,4.833658,30,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl franrijk jossaris jossarisfoto lr lyon rhne frankrijk,2019,7,25,15,58,1.7931281694988637,undef
+48461229642,45.76475,4.833625,30,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl franrijk jossaris jossarisfoto lr lyon rhne frankrijk,2019,7,25,15,58,1.7931281694988637,undef
+48461229457,45.764691,4.833722,30,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl franrijk jossaris jossarisfoto lr lyon rhne frankrijk,2019,7,25,15,59,1.793128851625308,undef
+48461229332,45.764705,4.833561,30,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl franrijk jossaris jossarisfoto lr lyon rhne frankrijk,2019,7,25,16,0,1.7931295337517528,undef
+48461228957,45.764627,4.833658,30,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl franrijk jossaris jossarisfoto lr lyon rhne frankrijk,2019,7,25,16,1,1.7931302158781974,undef
+48461228582,45.764647,4.833522,30,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl franrijk jossaris jossarisfoto lr lyon rhne frankrijk,2019,7,25,16,4,1.7931322622575312,undef

@@ -1,0 +1,60 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+4358571037,45.767211,4.8598,187, geotagged frankreich fra rhnealpes geolat geolon,2010,1,2,15,18,157907880.0,undef,2010-01-02 15:18:00
+4358568429,45.767211,4.8598,187, geotagged frankreich fra rhnealpes geolat geolon,2010,1,2,15,15,157907700.0,undef,2010-01-02 15:15:00
+6180432731,45.767229,4.859626,187, architecture lyon,2011,9,8,14,41,210955260.0,undef,2011-09-08 14:41:00
+6750946461,45.767313,4.859669,187,gare brotteaux building clock station lyon brotteaux,2011,11,19,14,13,217174380.0,undef,2011-11-19 14:13:00
+16196781565,45.767261,4.859722,187,lyon former gare brotteaux france architecture frankreich lyon gare lione frana rhne railwaystation frankrijk francia francie frankrig lyon historicalbuilding frankrike eclecticism rhnealpes francja garedesbrotteaux december,2014,12,22,11,55,314711700.0,undef,2014-12-22 11:55:00
+15574306294,45.767261,4.859722,187,lyon former gare brotteaux france architecture frankreich lyon gare lione frana rhne railwaystation frankrijk francia francie frankrig lyon historicalbuilding frankrike eclecticism rhnealpes francja garedesbrotteaux december,2014,12,22,11,54,314711640.0,undef,2014-12-22 11:54:00
+23898843976,45.7672,4.8598,187,biduleofficiel vais aller chercher midi quatorze heure old french proverb warns u look noon pm wwwmonsieurbidulenet art brotteaux lyon lyonart onlylyon lyonlavillequivousplay igers igdaily igaddict igersa square squareformat iphoneography instagramapp uploadedbyinstagram,2015,12,23,3,59,346305540.0,undef,2015-12-23 03:59:00
+25589761925,45.7672,4.8598,187,gare broteaux lyon grammasters square squareformat iphoneography instagramapp uploadedbyinstagram,2016,3,7,8,27,352801620.0,undef,2016-03-07 08:27:00
+29649863492,45.767231,4.85969,187,lyon gare brotteaux artnouveau belleepoque architecture france rhne auvergnerhnealpes lyon lyon brotteaux garedesbrotteaux plm parislyonmarseille mh classmh monumenthistorique charleslacour,2016,9,17,13,43,369582180.0,undef,2016-09-17 13:43:00
+29469890480,45.767231,4.85969,187,lyon gare brotteaux artnouveau belleepoque architecture france rhne auvergnerhnealpes lyon lyon brotteaux garedesbrotteaux plm parislyonmarseille mh classmh monumenthistorique antoinebarbier,2016,9,17,13,46,369582360.0,undef,2016-09-17 13:46:00
+29647948292,45.767223,4.859647,187,lyon gare brotteaux artnouveau belleepoque architecture france rhne auvergnerhnealpes lyon lyon brotteaux garedesbrotteaux plm parislyonmarseille mh classmh monumenthistorique,2016,9,17,13,35,369581700.0,undef,2016-09-17 13:35:00
+29647946292,45.767223,4.859647,187,lyon gare brotteaux artnouveau belleepoque architecture france rhne auvergnerhnealpes lyon lyon brotteaux garedesbrotteaux plm parislyonmarseille mh classmh monumenthistorique,2016,9,17,13,37,369581820.0,undef,2016-09-17 13:37:00
+29132523664,45.767223,4.859647,187,lyon gare brotteaux artnouveau belleepoque architecture france rhne auvergnerhnealpes lyon lyon brotteaux garedesbrotteaux plm parislyonmarseille mh classmh monumenthistorique,2016,9,17,14,15,369584100.0,undef,2016-09-17 14:15:00
+29132521854,45.767223,4.859647,187,lyon gare brotteaux artnouveau belleepoque architecture france rhne auvergnerhnealpes lyon lyon brotteaux garedesbrotteaux plm parislyonmarseille mh classmh monumenthistorique,2016,9,17,14,17,369584220.0,undef,2016-09-17 14:17:00
+32143142983,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,11,382223460.0,undef,2017-02-10 21:11:00
+32803648982,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,11,382223460.0,undef,2017-02-10 21:11:00
+32803643312,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,11,382223460.0,undef,2017-02-10 21:11:00
+32957548435,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,11,382223460.0,undef,2017-02-10 21:11:00
+32916963326,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,11,382223460.0,undef,2017-02-10 21:11:00
+32916959306,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,12,382223520.0,undef,2017-02-10 21:12:00
+32114205274,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,12,382223520.0,undef,2017-02-10 21:12:00
+32114191404,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,12,382223520.0,undef,2017-02-10 21:12:00
+32114182734,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,13,382223580.0,undef,2017-02-10 21:13:00
+32803602402,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,13,382223580.0,undef,2017-02-10 21:13:00
+32916919856,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,13,382223580.0,undef,2017-02-10 21:13:00
+32114158574,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,13,382223580.0,undef,2017-02-10 21:13:00
+32916913136,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,13,382223580.0,undef,2017-02-10 21:13:00
+32916909496,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,13,382223580.0,undef,2017-02-10 21:13:00
+32576760360,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,13,382223580.0,undef,2017-02-10 21:13:00
+32114135584,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,13,382223580.0,undef,2017-02-10 21:13:00
+32957469225,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,13,382223580.0,undef,2017-02-10 21:13:00
+32916884476,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,14,382223640.0,undef,2017-02-10 21:14:00
+32803564272,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,14,382223640.0,undef,2017-02-10 21:14:00
+32832952501,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,14,382223640.0,undef,2017-02-10 21:14:00
+32576698060,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,15,382223700.0,undef,2017-02-10 21:15:00
+32576694540,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,15,382223700.0,undef,2017-02-10 21:15:00
+32916846596,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,20,48,382222080.0,undef,2017-02-10 20:48:00
+32803534502,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,10,382223400.0,undef,2017-02-10 21:10:00
+32143134443,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,11,382223460.0,undef,2017-02-10 21:11:00
+32833005101,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,11,382223460.0,undef,2017-02-10 21:11:00
+32576800570,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,12,382223520.0,undef,2017-02-10 21:12:00
+32114202044,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,12,382223520.0,undef,2017-02-10 21:12:00
+32114197374,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,12,382223520.0,undef,2017-02-10 21:12:00
+32916932966,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,13,382223580.0,undef,2017-02-10 21:13:00
+32576778230,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,13,382223580.0,undef,2017-02-10 21:13:00
+32114173634,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,13,382223580.0,undef,2017-02-10 21:13:00
+32957479765,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,13,382223580.0,undef,2017-02-10 21:13:00
+32114123214,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,13,382223580.0,undef,2017-02-10 21:13:00
+32576738320,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,13,382223580.0,undef,2017-02-10 21:13:00
+32916876406,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,14,382223640.0,undef,2017-02-10 21:14:00
+32957450085,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,14,382223640.0,undef,2017-02-10 21:14:00
+32832949131,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,14,382223640.0,undef,2017-02-10 21:14:00
+32803556302,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,14,382223640.0,undef,2017-02-10 21:14:00
+32576701720,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,14,382223640.0,undef,2017-02-10 21:14:00
+32114089564,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,8,382223280.0,undef,2017-02-10 21:08:00
+32916837106,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,11,382223460.0,undef,2017-02-10 21:11:00
+32803523162,45.767253,4.859708,187, lyon fetesdeslumieres lumieres fete,2017,2,10,21,11,382223460.0,undef,2017-02-10 21:11:00
+39682121802,45.767208,4.859741,187, ,2018,1,15,19,15,411506100.0,undef,2018-01-15 19:15:00
+25840946578,45.767208,4.859741,187, ,2018,1,15,19,15,411506100.0,undef,2018-01-15 19:15:00

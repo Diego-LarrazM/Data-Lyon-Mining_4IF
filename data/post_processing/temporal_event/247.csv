@@ -1,0 +1,57 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+9027793926,45.758027,4.83135,247,danse mexicaine dance danse mexique ftes consulaires,2013,6,9,17,38,266261880.0,undef,2013-06-09 17:38:00
+9027791750,45.758027,4.83135,247,danse mexicaine dance danse mexique ftes consulaires,2013,6,9,17,39,266261940.0,undef,2013-06-09 17:39:00
+9027789420,45.758027,4.83135,247,danse mexicaine dance danse mexique ftes consulaires,2013,6,9,17,39,266261940.0,undef,2013-06-09 17:39:00
+9027693346,45.758027,4.83135,247,danse mexicaine dance danse mexique ftes consulaires,2013,6,9,17,38,266261880.0,undef,2013-06-09 17:38:00
+9027691048,45.758027,4.83135,247,danse mexicaine dance danse mexique ftes consulaires,2013,6,9,17,37,266261820.0,undef,2013-06-09 17:37:00
+9027688714,45.758027,4.83135,247,danse mexicaine dance danse mexique ftes consulaires,2013,6,9,17,38,266261880.0,undef,2013-06-09 17:38:00
+9025341703,45.758027,4.83135,247,danse mexicaine dance danse mexique,2013,6,9,17,23,266260980.0,undef,2013-06-09 17:23:00
+9020888636,45.758027,4.83135,247,danse mexicaine france dance europe place lyon place danse mexique bellecour ftes consulaires,2013,6,9,17,22,266260920.0,undef,2013-06-09 17:22:00
+9018657233,45.758027,4.83135,247,danse mexicaine france dance europe place lyon place danse mexique bellecour ftes consulaires,2013,6,9,17,22,266260920.0,undef,2013-06-09 17:22:00
+9020883630,45.758027,4.83135,247,danse mexicaine france dance europe place lyon place danse mexique bellecour ftes consulaires,2013,6,9,17,22,266260920.0,undef,2013-06-09 17:22:00
+9020881778,45.758027,4.83135,247,danse mexicaine france dance europe place lyon place danse mexique bellecour ftes consulaires,2013,6,9,17,22,266260920.0,undef,2013-06-09 17:22:00
+9020879884,45.758027,4.83135,247,danse mexicaine france dance europe place lyon place danse mexique bellecour ftes consulaires,2013,6,9,17,22,266260920.0,undef,2013-06-09 17:22:00
+9018649455,45.758027,4.83135,247,danse mexicaine france dance europe place lyon place danse mexique bellecour ftes consulaires,2013,6,9,17,22,266260920.0,undef,2013-06-09 17:22:00
+9020875726,45.758027,4.83135,247,danse mexicaine france dance europe place lyon place danse mexique bellecour ftes consulaires,2013,6,9,17,22,266260920.0,undef,2013-06-09 17:22:00
+9020873802,45.758027,4.83135,247,danse mexicaine france dance europe place lyon place danse mexique bellecour ftes consulaires,2013,6,9,17,22,266260920.0,undef,2013-06-09 17:22:00
+9018643441,45.758027,4.83135,247,danse mexicaine france dance europe place lyon place danse mexique bellecour ftes consulaires,2013,6,9,17,21,266260860.0,undef,2013-06-09 17:21:00
+9018641255,45.758027,4.83135,247,danse mexicaine france dance europe place lyon place danse mexique bellecour ftes consulaires,2013,6,9,17,21,266260860.0,undef,2013-06-09 17:21:00
+9018639241,45.758027,4.83135,247,danse mexicaine france dance europe place lyon place danse mexique bellecour ftes consulaires,2013,6,9,17,21,266260860.0,undef,2013-06-09 17:21:00
+9018637423,45.758027,4.83135,247,danse mexicaine france dance europe place lyon place danse mexique bellecour ftes consulaires,2013,6,9,17,21,266260860.0,undef,2013-06-09 17:21:00
+11298746786,45.758047,4.831259,247,fte lumires lyon ftedeslumires,2013,12,9,21,18,282086280.0,undef,2013-12-09 21:18:00
+11298779884,45.758047,4.831259,247,fte lumires lyon ftedeslumires,2013,12,9,21,21,282086460.0,undef,2013-12-09 21:21:00
+11298779424,45.758047,4.831259,247,fte lumires lyon ftedeslumires,2013,12,9,21,24,282086640.0,undef,2013-12-09 21:24:00
+11298718085,45.758047,4.831259,247,fte lumires lyon ftedeslumires,2013,12,9,21,26,282086760.0,undef,2013-12-09 21:26:00
+11298718655,45.758047,4.831259,247,fte lumires lyon ftedeslumires,2013,12,9,21,22,282086520.0,undef,2013-12-09 21:22:00
+11298820353,45.758047,4.831259,247,fte lumires lyon ftedeslumires,2013,12,9,21,22,282086520.0,undef,2013-12-09 21:22:00
+11298746036,45.758047,4.831259,247,fte lumires lyon ftedeslumires,2013,12,9,21,24,282086640.0,undef,2013-12-09 21:24:00
+11298775814,45.758047,4.831259,247,fte lumires lyon ftedeslumires,2013,12,9,21,25,282086700.0,undef,2013-12-09 21:25:00
+11297371756,45.758047,4.831345,247,fte lumires lyon france lyon fete lumieres rhone,2013,12,9,23,9,282092940.0,undef,2013-12-09 23:09:00
+27826274936,45.758011,4.831333,247, ,2016,6,22,15,11,362070660.0,undef,2016-06-22 15:11:00
+23684145048,45.758049,4.831323,247,addicted lyon cameramakefujifilm cameramodelxt geocountry geocity geostate exiflensxf mmf rlmoiswr geolon geolocation exifmodelxt exifisospeed exiffocallength mm geolat exifaperture exifmakefujifilm,2017,8,11,15,45,397928700.0,undef,2017-08-11 15:45:00
+48590609256,45.758083,4.831355,247,lyon auvergnerhnealpes france lyon oldcity unescoworldheritagesite vieuxlyon,2015,9,20,10,23,338206980.0,undef,2015-09-20 10:23:00
+48590608331,45.758083,4.831355,247,lyon auvergnerhnealpes cathedral cathdrale france lyon oldcity saintjeanbaptiste unescoworldheritagesite vieuxlyon,2015,9,20,9,15,338202900.0,undef,2015-09-20 09:15:00
+48590752262,45.758083,4.831355,247,lyon auvergnerhnealpes france lyon oldcity unescoworldheritagesite vieuxlyon,2015,9,20,9,2,338202120.0,undef,2015-09-20 09:02:00
+48590606666,45.758083,4.831355,247,lyon auvergnerhnealpes france lyon oldcity unescoworldheritagesite vieuxlyon,2015,9,20,9,11,338202660.0,undef,2015-09-20 09:11:00
+48589709842,45.758083,4.831355,247,lyon auvergnerhnealpes cathedral cathdrale france lyon saintjeanbaptiste unescoworldheritagesite oldcity vieuxlyon,2015,9,20,9,18,338203080.0,undef,2015-09-20 09:18:00
+48589711917,45.758083,4.831355,247,lyon auvergnerhnealpes cathedral cathdrale france lyon saintjeanbaptiste unescoworldheritagesite oldcity vieuxlyon,2015,9,20,9,25,338203500.0,undef,2015-09-20 09:25:00
+48589573061,45.758083,4.831355,247,lyon auvergnerhnealpes cathedral cathdrale france lyon saintjeanbaptiste unescoworldheritagesite oldcity vieuxlyon,2015,9,20,9,21,338203260.0,undef,2015-09-20 09:21:00
+48589710897,45.758083,4.831355,247,lyon auvergnerhnealpes cathedral cathdrale france lyon saintjeanbaptiste unescoworldheritagesite oldcity vieuxlyon,2015,9,20,9,22,338203320.0,undef,2015-09-20 09:22:00
+48589571911,45.758083,4.831355,247,lyon auvergnerhnealpes cathedral cathdrale france lyon saintjeanbaptiste unescoworldheritagesite oldcity vieuxlyon,2015,9,20,9,18,338203080.0,undef,2015-09-20 09:18:00
+48589570756,45.758083,4.831355,247,lyon auvergnerhnealpes cathedral cathdrale france lyon saintjeanbaptiste unescoworldheritagesite oldcity vieuxlyon,2015,9,20,9,18,338203080.0,undef,2015-09-20 09:18:00
+48589569696,45.758083,4.831355,247,lyon auvergnerhnealpes cathedral cathdrale france lyon saintjeanbaptiste unescoworldheritagesite oldcity vieuxlyon,2015,9,20,9,17,338203020.0,undef,2015-09-20 09:17:00
+48969005397,45.758083,4.831355,247,lyon auvergnerhnealpes cathedral cathdrale flickrsyncpermpublic france lyon oldcity saintjeanbaptiste unescoworldheritagesite vieuxlyon,2015,9,20,9,15,338202900.0,undef,2015-09-20 09:15:00
+48968281598,45.758083,4.831355,247,lyon auvergnerhnealpes flickrsyncpermpublic france lyon placebellecour unescoworldheritagesite,2015,9,20,10,8,338206080.0,undef,2015-09-20 10:08:00
+48969002547,45.758083,4.831355,247,lyon auvergnerhnealpes flickrsyncpermpublic france lyon unescoworldheritagesite,2015,9,20,9,15,338202900.0,undef,2015-09-20 09:15:00
+48969001822,45.758083,4.831355,247,lyon auvergnerhnealpes flickrsyncpermpublic france lyon unescoworldheritagesite,2015,9,20,9,4,338202240.0,undef,2015-09-20 09:04:00
+48968821141,45.758083,4.831355,247,lyon auvergnerhnealpes flickrsyncpermpublic france lyon unescoworldheritagesite,2015,9,20,9,2,338202120.0,undef,2015-09-20 09:02:00
+48968790766,45.758083,4.831355,247,lyon auvergnerhnealpes flickrsyncpermpublic france lyon placebellecour unescoworldheritagesite,2015,9,20,10,22,338206920.0,undef,2015-09-20 10:22:00
+48968788491,45.758083,4.831355,247,lyon auvergnerhnealpes flickrsyncpermpublic france lyon placebellecour unescoworldheritagesite,2015,9,20,9,58,338205480.0,undef,2015-09-20 09:58:00
+48968776636,45.758083,4.831355,247,lyon auvergnerhnealpes flickrsyncpermpublic france lyon oldcity unescoworldheritagesite vieuxlyon,2015,9,20,9,48,338204880.0,undef,2015-09-20 09:48:00
+48968776046,45.758083,4.831355,247,lyon auvergnerhnealpes cathedral cathdrale flickrsyncpermpublic france lyon oldcity saintjeanbaptiste unescoworldheritagesite vieuxlyon,2015,9,20,9,25,338203500.0,undef,2015-09-20 09:25:00
+48968956277,45.758083,4.831355,247,lyon france cathedral lyon cathdrale oldcity flickrsyncpermpublic auvergnerhnealpes unescoworldheritagesite vieuxlyon saintjeanbaptiste,2015,9,20,9,15,338202900.0,undef,2015-09-20 09:15:00
+48968819096,45.758083,4.831355,247,lyon auvergnerhnealpes flickrsyncpermpublic france lyon unescoworldheritagesite,2015,9,20,9,2,338202120.0,undef,2015-09-20 09:02:00
+48968788806,45.758083,4.831355,247,lyon auvergnerhnealpes flickrsyncpermpublic france lyon placebellecour unescoworldheritagesite,2015,9,20,10,19,338206740.0,undef,2015-09-20 10:19:00
+48968245898,45.758083,4.831355,247,lyon auvergnerhnealpes flickrsyncpermpublic france lyon placebellecour unescoworldheritagesite,2015,9,20,9,58,338205480.0,undef,2015-09-20 09:58:00
+48968958712,45.758083,4.831355,247,lyon auvergnerhnealpes flickrsyncpermpublic france lyon placebellecour unescoworldheritagesite,2015,9,20,9,57,338205420.0,undef,2015-09-20 09:57:00
+48968778286,45.758083,4.831355,247,lyon auvergnerhnealpes flickrsyncpermpublic france lyon placebellecour unescoworldheritagesite,2015,9,20,9,53,338205180.0,undef,2015-09-20 09:53:00

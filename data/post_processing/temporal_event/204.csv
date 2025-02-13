@@ -1,0 +1,58 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+6941081524,45.760333,4.8205,204, ,2012,4,17,9,7,230116020.0,undef,2012-04-17 09:07:00
+6941075674,45.760333,4.8205,204, ,2012,4,17,9,12,230116320.0,undef,2012-04-17 09:12:00
+7797796124,45.76036,4.820519,204,oneeyed monster france lyon mosaic fourvire mmf g nikond musegalloromaindefourvire,2012,8,9,11,5,239972700.0,undef,2012-08-09 11:05:00
+8116761261,45.760255,4.820487,204,museomix jour museum lyon musee galloromain museomix,2012,10,20,16,1,246211260.0,undef,2012-10-20 16:01:00
+8116766536,45.760255,4.820487,204,museomix jour museum lyon musee galloromain museomix,2012,10,20,20,45,246228300.0,undef,2012-10-20 20:45:00
+8116754341,45.760255,4.820487,204,museomix jour museum lyon musee galloromain museomix,2012,10,21,13,36,246288960.0,undef,2012-10-21 13:36:00
+8116760676,45.760255,4.820487,204,museomix jour museum lyon musee galloromain museomix,2012,10,21,14,43,246292980.0,undef,2012-10-21 14:43:00
+8116758122,45.760255,4.820487,204,museomix jour museum lyon musee galloromain museomix,2012,10,21,16,42,246300120.0,undef,2012-10-21 16:42:00
+8116755822,45.760255,4.820487,204,museomix jour museum lyon musee galloromain museomix,2012,10,21,14,44,246293040.0,undef,2012-10-21 14:44:00
+8116743783,45.760255,4.820487,204,museomix jour museum lyon musee galloromain museomix,2012,10,20,16,1,246211260.0,undef,2012-10-20 16:01:00
+8116741095,45.760255,4.820487,204,museomix jour museum lyon musee galloromain museomix,2012,10,20,15,57,246211020.0,undef,2012-10-20 15:57:00
+8116747566,45.760255,4.820487,204,museomix jour museum lyon musee galloromain museomix,2012,10,19,16,24,246126240.0,undef,2012-10-19 16:24:00
+8116678738,45.760255,4.820487,204,museomix jour museum lyon musee galloromain museomix,2012,10,21,18,27,246306420.0,undef,2012-10-21 18:27:00
+8116675402,45.760255,4.820487,204,museomix jour museum lyon musee galloromain museomix,2012,10,21,18,33,246306780.0,undef,2012-10-21 18:33:00
+8116664033,45.760255,4.820487,204,museomix jour museum lyon musee galloromain museomix,2012,10,21,18,37,246307020.0,undef,2012-10-21 18:37:00
+8116668852,45.760255,4.820487,204,museomix jour museum lyon musee galloromain museomix,2012,10,21,20,50,246315000.0,undef,2012-10-21 20:50:00
+8116655715,45.760255,4.820487,204,museomix jour museum lyon musee galloromain museomix,2012,10,21,21,20,246316800.0,undef,2012-10-21 21:20:00
+8116653331,45.760255,4.820487,204,museomix jour museum lyon musee galloromain museomix,2012,10,22,2,59,246337140.0,undef,2012-10-22 02:59:00
+8116650713,45.760255,4.820487,204,museomix jour museum lyon musee galloromain museomix,2012,10,21,18,27,246306420.0,undef,2012-10-21 18:27:00
+8116613249,45.760255,4.820487,204,museomix jour museum lyon musee galloromain museomix,2012,10,20,10,4,246189840.0,undef,2012-10-20 10:04:00
+8116610295,45.760255,4.820487,204,museomix jour museum lyon musee galloromain museomix,2012,10,20,10,16,246190560.0,undef,2012-10-20 10:16:00
+8116607203,45.760255,4.820487,204,museomix jour museum lyon musee galloromain museomix,2012,10,20,10,26,246191160.0,undef,2012-10-20 10:26:00
+8116614528,45.760255,4.820487,204,museomix jour museum lyon musee galloromain museomix,2012,10,21,14,43,246292980.0,undef,2012-10-21 14:43:00
+8116612036,45.760255,4.820487,204,museomix jour museum lyon musee galloromain museomix,2012,10,21,17,6,246301560.0,undef,2012-10-21 17:06:00
+8116609526,45.760255,4.820487,204,museomix jour museum lyon musee galloromain museomix,2012,10,21,14,56,246293760.0,undef,2012-10-21 14:56:00
+8116606950,45.760255,4.820487,204,museomix jour museum lyon musee galloromain museomix,2012,10,20,20,16,246226560.0,undef,2012-10-20 20:16:00
+8116605220,45.760255,4.820487,204,museomix jour museum lyon musee galloromain museomix,2012,10,20,11,32,246195120.0,undef,2012-10-20 11:32:00
+8116593109,45.760255,4.820487,204,museomix jour museum lyon musee galloromain museomix,2012,10,20,10,38,246191880.0,undef,2012-10-20 10:38:00
+8116600390,45.760255,4.820487,204,museomix jour museum lyon musee galloromain museomix,2012,10,20,10,4,246189840.0,undef,2012-10-20 10:04:00
+8103648092,45.760255,4.820487,204,museomix jour museum lyon muse galloromain museomix,2012,10,19,19,52,246138720.0,undef,2012-10-19 19:52:00
+8103647952,45.760255,4.820487,204,museomix jour museum lyon muse galloromain museomix,2012,10,19,19,51,246138660.0,undef,2012-10-19 19:51:00
+8103633553,45.760255,4.820487,204,museomix jour museum lyon muse galloromain museomix,2012,10,19,16,41,246127260.0,undef,2012-10-19 16:41:00
+8103647368,45.760255,4.820487,204,museomix jour museum lyon muse galloromain museomix,2012,10,19,13,56,246117360.0,undef,2012-10-19 13:56:00
+8103647200,45.760255,4.820487,204,museomix jour museum lyon muse galloromain museomix,2012,10,19,13,55,246117300.0,undef,2012-10-19 13:55:00
+8103647030,45.760255,4.820487,204,museomix jour museum lyon muse galloromain museomix,2012,10,19,12,19,246111540.0,undef,2012-10-19 12:19:00
+8103646914,45.760255,4.820487,204,museomix jour museum lyon muse galloromain museomix,2012,10,19,12,19,246111540.0,undef,2012-10-19 12:19:00
+8103646708,45.760255,4.820487,204,museomix jour museum lyon muse galloromain museomix,2012,10,19,12,17,246111420.0,undef,2012-10-19 12:17:00
+8103632417,45.760255,4.820487,204,museomix jour museum lyon muse galloromain museomix,2012,10,19,17,48,246131280.0,undef,2012-10-19 17:48:00
+8103646282,45.760255,4.820487,204,museomix jour museum lyon muse galloromain museomix,2012,10,19,19,50,246138600.0,undef,2012-10-19 19:50:00
+8394368923,45.760322,4.820455,204,fourvire hill france museum ancient lyon theatre roman basilica ruin fourvire,2012,12,11,8,47,250678020.0,undef,2012-12-11 08:47:00
+8921821978,45.760202,4.820427,204,p ,2013,3,24,13,6,259592760.0,undef,2013-03-24 13:06:00
+8921200205,45.760202,4.820427,204,p ,2013,3,24,13,6,259592760.0,undef,2013-03-24 13:06:00
+9547850348,45.760333,4.8205,204,montmartre ,2013,7,19,9,22,269688120.0,undef,2013-07-19 09:22:00
+9544964281,45.760333,4.8205,204,lyon ,2013,7,19,9,22,269688120.0,undef,2013-07-19 09:22:00
+18808077893,45.760457,4.820508,204, ,2015,7,4,15,54,331487640.0,undef,2015-07-04 15:54:00
+18806175754,45.760457,4.820508,204, ,2015,7,4,15,34,331486440.0,undef,2015-07-04 15:34:00
+29776814481,45.760188,4.820551,204,spin muse museum roman romain concrete beton futur architecture ouverture stair escalier,2016,9,18,13,56,369669360.0,undef,2016-09-18 13:56:00
+29776809541,45.760188,4.820551,204,future past muse museum roman romain concrete beton futur architecture ouverture bunker,2016,9,18,13,34,369668040.0,undef,2016-09-18 13:34:00
+36901739354,45.760277,4.820555,204,lyon lyon francia europa viajefilos carmina,2017,7,11,9,54,395229240.0,undef,2017-07-11 09:54:00
+39919448603,45.760356,4.820508,204,musee galloromain ,2019,1,26,18,37,443990220.0,undef,2019-01-26 18:37:00
+46867240464,45.760338,4.820594,204, paris drance reims heg river rhone champageardenne marseille languedoc cote dazure ardeche lyon avignon perouges,2018,10,23,10,23,435752580.0,undef,2018-10-23 10:23:00
+48536605057,45.760177,4.820452,204,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,11,39,459603540.0,undef,2019-07-26 11:39:00
+48536457906,45.760236,4.820513,204,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,11,43,459603780.0,undef,2019-07-26 11:43:00
+48536457956,45.760352,4.820552,204,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,11,42,459603720.0,undef,2019-07-26 11:42:00
+48536457866,45.760236,4.820513,204,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,11,43,459603780.0,undef,2019-07-26 11:43:00
+48462727647,45.760177,4.820452,204,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,11,39,459603540.0,undef,2019-07-26 11:39:00
+48462726562,45.760236,4.820513,204,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,11,43,459603780.0,undef,2019-07-26 11:43:00

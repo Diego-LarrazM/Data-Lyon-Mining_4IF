@@ -1,0 +1,65 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+5029640272,45.767029,4.833211,96,prvn nvtva muzea ,2010,9,26,16,7,180979620.0,undef,2010-09-26 16:07:00
+5587837127,45.76725,4.833166,96, france europe lyon unesco worldheritage,2011,3,14,15,38,195579480.0,undef,2011-03-14 15:38:00
+9334336834,45.766931,4.833244,96,democrite meidtante siege lame sculpture statue museum lyon delhomme thapril april museedesbeauxartsdelyon leonalexandredelhomme democritusmeditatingontheseatofthesoul,2013,4,29,13,19,262703940.0,undef,2013-04-29 13:19:00
+9334238638,45.766931,4.833244,96,democrite meidtante siege lame sculpture statue museum lyon delhomme thapril april museedesbeauxartsdelyon democritemeditantesurlesiegedelame democritusmeditatingontheseatofthesoul,2013,4,29,13,19,262703940.0,undef,2013-04-29 13:19:00
+14480064163,45.767186,4.833126,96,iribus iveco cristalis tcl place lyon renault nord iveco tcl yl croixrousse trolebus terreaux cristalis iribus yl,2013,10,16,13,10,277391400.0,undef,2013-10-16 13:10:00
+16463942661,45.767223,4.833136,96,expo jacqueline delubac mba lyon lyon palaissaintpierre musedesbeauxarts,2015,2,7,11,45,318771900.0,undef,2015-02-07 11:45:00
+17085220021,45.76715,4.83328,96, ,2014,12,4,16,41,313173660.0,undef,2014-12-04 16:41:00
+17018970166,45.76715,4.83328,96, ,2014,12,4,16,41,313173660.0,undef,2014-12-04 16:41:00
+20938869242,45.767111,4.833179,96, ,2015,8,27,14,31,336148260.0,undef,2015-08-27 14:31:00
+20922213776,45.767111,4.833179,96, ,2015,8,27,16,20,336154800.0,undef,2015-08-27 16:20:00
+20760489168,45.767111,4.833179,96, ,2015,8,27,16,13,336154380.0,undef,2015-08-27 16:13:00
+20760368440,45.767111,4.833179,96, ,2015,8,27,16,7,336154020.0,undef,2015-08-27 16:07:00
+20922169876,45.767111,4.833179,96, ,2015,8,27,16,4,336153840.0,undef,2015-08-27 16:04:00
+20760335440,45.767111,4.833179,96, ,2015,8,27,16,3,336153780.0,undef,2015-08-27 16:03:00
+20760322190,45.767111,4.833179,96, ,2015,8,27,16,2,336153720.0,undef,2015-08-27 16:02:00
+20327343203,45.767111,4.833179,96, ,2015,8,27,15,58,336153480.0,undef,2015-08-27 15:58:00
+20327323593,45.767111,4.833179,96, ,2015,8,27,14,51,336149460.0,undef,2015-08-27 14:51:00
+20325762434,45.767111,4.833179,96, ,2015,8,27,14,49,336149340.0,undef,2015-08-27 14:49:00
+20938571352,45.767111,4.833179,96, ,2015,8,27,14,48,336149280.0,undef,2015-08-27 14:48:00
+20948335055,45.767111,4.833179,96, ,2015,8,27,14,37,336148620.0,undef,2015-08-27 14:37:00
+20938552702,45.767111,4.833179,96, ,2015,8,27,14,36,336148560.0,undef,2015-08-27 14:36:00
+20325701194,45.767111,4.833179,96, ,2015,8,27,14,29,336148140.0,undef,2015-08-27 14:29:00
+20761516399,45.767111,4.833179,96, ,2015,8,27,14,27,336148020.0,undef,2015-08-27 14:27:00
+20948272215,45.767111,4.833179,96, ,2015,8,27,14,26,336147960.0,undef,2015-08-27 14:26:00
+20325669544,45.767111,4.833179,96, ,2015,8,27,14,24,336147840.0,undef,2015-08-27 14:24:00
+20325658614,45.767111,4.833179,96, ,2015,8,27,14,23,336147780.0,undef,2015-08-27 14:23:00
+20760271308,45.767111,4.833179,96, ,2015,8,27,14,23,336147780.0,undef,2015-08-27 14:23:00
+20938449942,45.767111,4.833179,96, ,2015,8,27,14,22,336147720.0,undef,2015-08-27 14:22:00
+20938438382,45.767111,4.833179,96, ,2015,8,27,14,18,336147480.0,undef,2015-08-27 14:18:00
+20761432459,45.767111,4.833179,96, ,2015,8,27,14,17,336147420.0,undef,2015-08-27 14:17:00
+20327153253,45.767111,4.833179,96, ,2015,8,27,14,16,336147360.0,undef,2015-08-27 14:16:00
+20955578881,45.767111,4.833179,96, ,2015,8,27,14,14,336147240.0,undef,2015-08-27 14:14:00
+20955560121,45.767111,4.833179,96, ,2015,8,27,14,14,336147240.0,undef,2015-08-27 14:14:00
+20955548331,45.767111,4.833179,96, ,2015,8,27,14,13,336147180.0,undef,2015-08-27 14:13:00
+20955534341,45.767111,4.833179,96, ,2015,8,27,14,11,336147060.0,undef,2015-08-27 14:11:00
+20327084013,45.767111,4.833179,96, ,2015,8,27,14,11,336147060.0,undef,2015-08-27 14:11:00
+20948111995,45.767111,4.833179,96, ,2015,8,27,14,10,336147000.0,undef,2015-08-27 14:10:00
+20760140098,45.767111,4.833179,96, ,2015,8,27,14,7,336146820.0,undef,2015-08-27 14:07:00
+20948092075,45.767111,4.833179,96, ,2015,8,27,14,6,336146760.0,undef,2015-08-27 14:06:00
+20325492614,45.767111,4.833179,96, ,2015,8,27,14,4,336146640.0,undef,2015-08-27 14:04:00
+20760106008,45.767111,4.833179,96, ,2015,8,27,14,2,336146520.0,undef,2015-08-27 14:02:00
+20955463671,45.767111,4.833179,96, ,2015,8,27,14,2,336146520.0,undef,2015-08-27 14:02:00
+20760084858,45.767111,4.833179,96, ,2015,8,27,13,59,336146340.0,undef,2015-08-27 13:59:00
+20938262682,45.767111,4.833179,96,lyon mba jan brueghel oude hendrick van balen allegorie van aarde detail ,2015,8,27,13,57,336146220.0,undef,2015-08-27 13:57:00
+20326984163,45.767111,4.833179,96,lyon mba gerrit berckheyde grote markt haarlem ,2015,8,27,13,56,336146160.0,undef,2015-08-27 13:56:00
+21357333816,45.767111,4.833213,96,img hdr ,2015,8,6,16,53,334342380.0,undef,2015-08-06 16:53:00
+21357332736,45.767102,4.83323,96,img hdr ,2015,8,6,16,54,334342440.0,undef,2015-08-06 16:54:00
+30712368061,45.767066,4.833158,96,monet art tableau lyon monet,2016,11,4,22,17,373760220.0,undef,2016-11-04 22:17:00
+30684053892,45.767066,4.833158,96,nocturne culturelle tableau art muse lyon,2016,11,4,21,47,373758420.0,undef,2016-11-04 21:47:00
+35332174031,45.767073,4.833135,96,muse beauxarts lyon roman empire map lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite placedesterreaux musedesbeauxartsdelyon thelyonmuseumoffinearts museumoffineartsoflyon municipalmuseumoffineartsinthefrenchcityoflyon formerbenedictineconvent placedesterreaux palaisdesarts thepalaissaintpierre romanempire sign,2017,6,4,13,14,392044440.0,undef,2017-06-04 13:14:00
+35076018760,45.767073,4.833135,96,muse beauxarts lyon roman empire map lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite placedesterreaux musedesbeauxartsdelyon thelyonmuseumoffinearts museumoffineartsoflyon municipalmuseumoffineartsinthefrenchcityoflyon formerbenedictineconvent placedesterreaux palaisdesarts thepalaissaintpierre romanempire sign,2017,6,4,13,14,392044440.0,undef,2017-06-04 13:14:00
+34621076984,45.767073,4.833135,96,muse beauxarts lyon roman empire map britain france lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite placedesterreaux musedesbeauxartsdelyon thelyonmuseumoffinearts museumoffineartsoflyon municipalmuseumoffineartsinthefrenchcityoflyon formerbenedictineconvent placedesterreaux palaisdesarts thepalaissaintpierre romanempire sign,2017,6,4,13,14,392044440.0,undef,2017-06-04 13:14:00
+35075983860,45.767073,4.833135,96,muse beauxarts lyon roman empire sarcophagus sarcophages plomb lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite placedesterreaux musedesbeauxartsdelyon thelyonmuseumoffinearts museumoffineartsoflyon municipalmuseumoffineartsinthefrenchcityoflyon formerbenedictineconvent placedesterreaux palaisdesarts thepalaissaintpierre romanempire sarcophagus sarcophagus syrieromaine sarcophagesenplomb sarcophagefrisedepampres sarcophagedcordeguirlandes sarcophagedcordorants romansyria leadedsarcophagus sarcophaguswithvineleaves sarcophagusdecoratedwithgarlands sarcophagusdecoratedwithprayers,2017,6,4,13,15,392044500.0,undef,2017-06-04 13:15:00
+35075963550,45.767073,4.833135,96,muse beauxarts lyon roman empire sarcophagus sarcophage anthropode lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite placedesterreaux musedesbeauxartsdelyon thelyonmuseumoffinearts museumoffineartsoflyon municipalmuseumoffineartsinthefrenchcityoflyon formerbenedictineconvent placedesterreaux palaisdesarts thepalaissaintpierre romanempire sarcophagus sarcophagus phnicie ncropoledesidon sarcophageanthropode marble phoenicia necropolisofsidon anthropoidsarcophagus,2017,6,4,13,16,392044560.0,undef,2017-06-04 13:16:00
+35462510595,45.767073,4.833135,96,muse beauxarts lyon roman empire sarcophagus sarcophages plomb lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite placedesterreaux musedesbeauxartsdelyon thelyonmuseumoffinearts museumoffineartsoflyon municipalmuseumoffineartsinthefrenchcityoflyon formerbenedictineconvent placedesterreaux palaisdesarts thepalaissaintpierre romanempire sign sarcophagus sarcophagus syrieromaine sarcophagesenplomb sarcophagefrisedepampres sarcophagedcordeguirlandes sarcophagedcordorants romansyria leadedsarcophagus sarcophaguswithvineleaves sarcophagusdecoratedwithgarlands sarcophagusdecoratedwithprayers,2017,6,4,13,15,392044500.0,undef,2017-06-04 13:15:00
+35462490795,45.767073,4.833135,96,muse beauxarts lyon roman empire sarcophagus sarcophage anthropode lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite placedesterreaux musedesbeauxartsdelyon thelyonmuseumoffinearts museumoffineartsoflyon municipalmuseumoffineartsinthefrenchcityoflyon formerbenedictineconvent placedesterreaux palaisdesarts thepalaissaintpierre romanempire sarcophagus sarcophagus phnicie ncropoledesidon sarcophageanthropode marble phoenicia necropolisofsidon anthropoidsarcophagus,2017,6,4,13,16,392044560.0,undef,2017-06-04 13:16:00
+35075918400,45.767073,4.833135,96,muse beauxarts lyon roman empire sarcophagus sarcophage anthropode lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite placedesterreaux musedesbeauxartsdelyon thelyonmuseumoffinearts museumoffineartsoflyon municipalmuseumoffineartsinthefrenchcityoflyon formerbenedictineconvent placedesterreaux palaisdesarts thepalaissaintpierre romanempire sarcophagus sarcophagus phnicie ncropoledesidon sarcophageanthropode marble phoenicia necropolisofsidon anthropoidsarcophagus,2017,6,4,13,16,392044560.0,undef,2017-06-04 13:16:00
+35462481215,45.767073,4.833135,96,muse beauxarts lyon roman empire sarcophagus sarcophage anthropode lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite placedesterreaux musedesbeauxartsdelyon thelyonmuseumoffinearts museumoffineartsoflyon municipalmuseumoffineartsinthefrenchcityoflyon formerbenedictineconvent placedesterreaux palaisdesarts thepalaissaintpierre romanempire sign sarcophagus sarcophagus phnicie ncropoledesidon sarcophageanthropode marble phoenicia necropolisofsidon anthropoidsarcophagus,2017,6,4,13,16,392044560.0,undef,2017-06-04 13:16:00
+42246272222,45.767068,4.833265,96,mot femmes ensalyon ecolenationalsuprieurarchitecture europe fineartsmuseum france lanuitdesmuses lyon museum muse musedesbeauxarts place,2018,5,19,20,47,422225220.0,undef,2018-05-19 20:47:00
+33754246728,45.767113,4.833227,96, peterpaulrubens artmuseum flemishpainting musedesbeauxarts lyon france peinture musedesbeauxartsdelyon,2019,4,17,17,2,450982920.0,undef,2019-04-17 17:02:00
+48549305032,45.767113,4.833227,96,peter paul rubens adoration magi france museum lyon flemishpainting peterpaulrubens lootedart pinturaflamenca peintureflamande musedesbeauxartsdelyon pieterpauwelrubens lyonmuseum flemishbaroquepainting museumoffineartsoflyon petruspaulusrubens flmischemalerei pinturabarrocaflamenca vlaamseschilderkunst vlaamsebarokschilderkunst peinturebaroqueflamande europeanpainting museo,2019,4,17,17,2,450982920.0,undef,2019-04-17 17:02:00
+48549122281,45.767127,4.833233,96,mercury argus ca jacobjordaens flemishpainting flemishart thcentury mythology musedesbeauxartsdelyon museum lyon france museo peinture museumoffineartsoflyon europeanpainting,2019,4,17,17,1,450982860.0,undef,2019-04-17 17:01:00
+48536573092,45.767166,4.833133,96,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,25,16,15,459533700.0,undef,2019-07-25 16:15:00
+48461228117,45.767166,4.833133,96,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl franrijk jossaris jossarisfoto lr lyon rhne frankrijk,2019,7,25,16,15,459533700.0,undef,2019-07-25 16:15:00

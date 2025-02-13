@@ -1,0 +1,83 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken,year_month
+15203248070,45.766145,4.828265,383,jillie chat animaux eos,2014,9,27,9,42,307273320.0,Événement Temporaire,2014-09-27 09:42:00,2014-09
+15203276370,45.766145,4.828265,383,goutte macro eau bleu gouttedeau eos,2014,8,30,14,44,304872240.0,Événement Temporaire,2014-08-30 14:44:00,2014-08
+15389940175,45.766145,4.828265,383,rose nature rainbow eos rainbowofnature,2014,9,12,7,28,305969280.0,Événement Temporaire,2014-09-12 07:28:00,2014-09
+15179687310,45.766145,4.828265,383,goutte eos nb bw blackandwhite gouttedeau eau macro nature noiretblanc tamronsp mmf macrodiii,2014,9,25,17,36,307128960.0,Événement Temporaire,2014-09-25 17:36:00,2014-09
+15354619441,45.766145,4.828265,383,goutte eos nb bw blackandwhite noiretblanc,2014,9,25,17,37,307129020.0,Événement Temporaire,2014-09-25 17:37:00,2014-09
+15163976538,45.766145,4.828265,383,goutte eos waterdrop eau nb blackandwhite bw noiretblanc,2014,8,30,14,28,304871280.0,Événement Temporaire,2014-08-30 14:28:00,2014-08
+15320753532,45.766145,4.828265,383,rose macro rose eos,2014,9,12,7,25,305969100.0,Événement Temporaire,2014-09-12 07:25:00,2014-09
+15297978886,45.766145,4.828265,383,goutte water waterdrop eau gouttedeau eos,2014,8,30,15,0,304873200.0,Événement Temporaire,2014-08-30 15:00:00,2014-08
+15099063809,45.766145,4.828265,383,goutte eos nb bw blackandwhite gouttedeau eau noiretblanc,2014,9,14,9,20,306148800.0,Événement Temporaire,2014-09-14 09:20:00,2014-09
+15254931326,45.766145,4.828265,383,goutte eau nb bw blackandwhite macro gouttedeau waterdrop noiretblanc eos,2014,8,30,14,58,304873080.0,Événement Temporaire,2014-08-30 14:58:00,2014-08
+15263102711,45.766145,4.828265,383,rose macro nature rose rainbow eos rainbowofnature,2014,9,12,7,24,305969040.0,Événement Temporaire,2014-09-12 07:24:00,2014-09
+15060998237,45.766145,4.828265,383,goutte macro nature rainbow autofocus gouttedeau eos photographyforrecreation rainbowofnature,2014,9,14,9,39,306149940.0,Événement Temporaire,2014-09-14 09:39:00,2014-09
+15213334562,45.766145,4.828265,383,rose flower macro nature rose fleurs rainbow autofocus eos rainbowofnature,2014,9,11,20,47,305930820.0,Événement Temporaire,2014-09-11 20:47:00,2014-09
+15011291578,45.766145,4.828265,383,perle nb bw blackandwhite macro waterdrop noiretblanc eos,2014,8,30,14,58,304873080.0,Événement Temporaire,2014-08-30 14:58:00,2014-08
+15178519945,45.766145,4.828265,383,perle deau nb bw eau gouttes macro waterdrop autofocus rainbowofnature rainbow nature photographyforrecreation blackandwhite noiretblanc,2014,8,30,15,0,304873200.0,Événement Temporaire,2014-08-30 15:00:00,2014-08
+14928326709,45.766145,4.828265,383,goutte macro nature fleurs rainbow eau rainbowofnature,2014,8,30,18,36,304886160.0,Événement Temporaire,2014-08-30 18:36:00,2014-08
+15082588616,45.766145,4.828265,383,fleur rouge macro nature fleurs rouge rainbow bleu eos rainbowofnature,2014,8,30,11,1,304858860.0,Événement Temporaire,2014-08-30 11:01:00,2014-08
+15625774936,45.766145,4.828265,383,g nb noiretblanc blackandwhite bw tamronsp mmf macrodiii goutte macro nature lapassiondelimage canon,2014,10,26,11,26,309785160.0,Événement Temporaire,2014-10-26 11:26:00,2014-10
+15625801106,45.766145,4.828265,383,g tamronsp mmf macrodiii goutte macro nature nb noiretblanc blackandwhite bw canon,2014,10,25,10,31,309695460.0,Événement Temporaire,2014-10-25 10:31:00,2014-10
+15463925700,45.766145,4.828265,383,g macro nature goutte canon tamronsp mmf macrodiii,2014,10,25,10,39,309695940.0,Événement Temporaire,2014-10-25 10:39:00,2014-10
+15463344768,45.766145,4.828265,383,g macro nature goutte canon tamronsp mmf macrodiii,2014,10,26,11,8,309784080.0,Événement Temporaire,2014-10-26 11:08:00,2014-10
+15462814680,45.766189,4.828275,383,rose macro nature vert goutte gouttedeau canon tamronsp mmf macrodiii,2014,10,26,8,52,309775920.0,Événement Temporaire,2014-10-26 08:52:00,2014-10
+15454175670,45.766145,4.828265,383,fil macro nature goutte canon tamronsp mmf macrodiii,2014,10,26,11,0,309783600.0,Événement Temporaire,2014-10-26 11:00:00,2014-10
+15019000204,45.766145,4.828265,383,gouttes macro nature rainbow goutte canon rainbowofnature tamronsp mmf macrodiii,2014,10,26,11,19,309784740.0,Événement Temporaire,2014-10-26 11:19:00,2014-10
+15019547663,45.766145,4.828265,383,fil tamronsp mmf macrodiii goutte macro nature blackandwhite bw noiretblanc canon,2014,10,26,11,22,309784920.0,Événement Temporaire,2014-10-26 11:22:00,2014-10
+15019542643,45.766145,4.828265,383,goutte goutte blackandwhite bw noiretblanc,2014,9,25,17,35,307128900.0,Événement Temporaire,2014-09-25 17:35:00,2014-09
+15619002131,45.766145,4.828265,383,goutte macro nature eos tamronsp mmf macrodiii,2014,10,25,10,31,309695460.0,Événement Temporaire,2014-10-25 10:31:00,2014-10
+15001495473,45.766145,4.828265,383,goutte eos tamronsp mmf macrodiii nature macro nb noiretblanc blackandwhite bw,2014,10,25,10,37,309695820.0,Événement Temporaire,2014-10-25 10:37:00,2014-10
+15435286037,45.766145,4.828265,383,goutte goutte eos tamronsp mmf macrodiii nb noiretblanc bl blackandwhite bw,2014,9,25,17,39,307129140.0,Événement Temporaire,2014-09-25 17:39:00,2014-09
+15434890498,45.766145,4.828265,383,goutte goutte nb eos tamronsp mmf macrodiii macro blackandwhite bw noiretblanc,2014,9,14,9,36,306149760.0,Événement Temporaire,2014-09-14 09:36:00,2014-09
+15613634355,45.766145,4.828265,383,goutte gouttedeau eau nb noiretblanc blackandwhite macro tamronsp mmf macrodiii bw canon,2014,8,30,15,2,304873320.0,Événement Temporaire,2014-08-30 15:02:00,2014-08
+15428025010,45.766145,4.828265,383,alstroemeria macro fleurs lyon canon tamronsp mmf macrodiii,2014,10,21,10,13,309348780.0,Événement Temporaire,2014-10-21 10:13:00,2014-10
+15421964917,45.766145,4.828265,383,goutte tamronsp mmf macrodiii goutte blackandwhite bw noiretblanc canon,2014,10,12,15,9,308588940.0,Événement Temporaire,2014-10-12 15:09:00,2014-10
+14987202194,45.766145,4.828265,383,alstroemeria macro fleurs lyon alstroemeria canon tamronsp mmf macrodiii,2014,10,21,10,12,309348720.0,Événement Temporaire,2014-10-21 10:12:00,2014-10
+15569383536,45.766145,4.828265,383,goutte nature nb noiretblanc blackandwhite bw tamronsp mmf macrodiii canon,2014,9,27,18,21,307304460.0,Événement Temporaire,2014-09-27 18:21:00,2014-09
+15591177012,45.766145,4.828265,383,alstroemeria macro fleurs lyon alstroemeria autofocus canon tamronspaf mmf diiildif macrolens tamronsp mmf macrodiii,2014,10,21,10,14,309348840.0,Événement Temporaire,2014-10-21 10:14:00,2014-10
+15589830965,45.766145,4.828265,383,fleur macro fleurs canon tamronspaf mmf diiildif macrolens tamronsp mmf macrodiii,2014,10,19,16,38,309199080.0,Événement Temporaire,2014-10-19 16:38:00,2014-10
+15579059141,45.766145,4.828265,383,goutte tamronsp mmf macrodiii gouttedeau macro tamronspaf mmf diiildif macrolens blackandwhite bw noiretblanc canon fleurs,2014,10,19,10,20,309176400.0,Événement Temporaire,2014-10-19 10:20:00,2014-10
+14961565913,45.766145,4.828265,383,fleur macro nature fleurs rainbow surprise flickrfriday canon tamronspaf mmf diiildif macrolens tamronsp mmf macrodiii,2014,10,19,16,22,309198120.0,Événement Temporaire,2014-10-19 16:22:00,2014-10
+15395091849,45.766145,4.828265,383,fleur macro fleurs canon tamronspaf mmf diiildif macrolens tamronsp mmf macrodiii,2014,10,19,16,42,309199320.0,Événement Temporaire,2014-10-19 16:42:00,2014-10
+15369542730,45.766182,4.828264,383, chaton eos,2014,9,28,10,39,307363140.0,Événement Temporaire,2014-09-28 10:39:00,2014-09
+15367569839,45.766145,4.828265,383,goutte macro gouttedeau tamronspaf mmf diiildif macrolens eos tamronsp mmf macrodiii,2014,9,14,9,34,306149640.0,Événement Temporaire,2014-09-14 09:34:00,2014-09
+15546549261,45.766145,4.828265,383,goutte tamronsp mmf macrodiii goutte tamronspaf mmf diiildif macrolens blackandwhite bw noiretblanc canon,2014,10,12,15,0,308588400.0,Événement Temporaire,2014-10-12 15:00:00,2014-10
+15533741372,45.766145,4.828265,383,plouf eau goutte gouttedeau canon tamronspaf mmf diiildif macrolens tamronsp mmf macrodiii,2014,10,12,15,14,308589240.0,Événement Temporaire,2014-10-12 15:14:00,2014-10
+15338017239,45.766145,4.828265,383,goutte macro bleu goutte autofocus gouttedeau tamronspaf mmf diiildif macrolens tamronsp mmf macrodiii,2014,9,27,18,21,307304460.0,Événement Temporaire,2014-09-27 18:21:00,2014-09
+15338248468,45.766145,4.828265,383,verre tamronsp mmf macrodiii goutte macro tamronspaf mmf diiildif macrolens blackandwhite bw noiretblanc canon,2014,10,12,14,39,308587140.0,Événement Temporaire,2014-10-12 14:39:00,2014-10
+15501838012,45.766145,4.828265,383,goutte goutte eos tamronsp mmf macrodiii blackandwhite nb autofocus macro tamronspaf mmf diiildif macrolens bw noiretblanc,2014,9,25,17,37,307129020.0,Événement Temporaire,2014-09-25 17:37:00,2014-09
+15300929539,45.766145,4.828265,383,goutte macro nature rainbow goutte autofocus tamronspaf mmf diiildif macrolens eos tamronsp mmf macrodiii,2014,9,25,17,48,307129680.0,Événement Temporaire,2014-09-25 17:48:00,2014-09
+15486671722,45.766145,4.828265,383,chaton eos chaton nb bw blackandwhite noiretblanc,2014,9,27,11,25,307279500.0,Événement Temporaire,2014-09-27 11:25:00,2014-09
+15465453861,45.766145,4.828265,383,goutte gouttedeau nb noiretblanc eos tamronsp mmf macrodiii macro blackandwhite tamronspaf mmf diiildif macrolens autofocus bw,2014,10,4,19,6,307911960.0,Événement Temporaire,2014-10-04 19:06:00,2014-10
+15240351550,45.766145,4.828265,383,goutte eos bw blackandwhite nb noiretblanc,2014,9,25,17,43,307129380.0,Événement Temporaire,2014-09-25 17:43:00,2014-09
+15232844237,45.766145,4.828265,383,goutte eos eau macro nature nb noiretblanc bw blackandwhite photographyforrecreation,2014,9,27,18,22,307304520.0,Événement Temporaire,2014-09-27 18:22:00,2014-09
+15295390013,45.766145,4.828265,383,rose nature rose fleurs eos lapassiondelimage tamronsp mmf macrodiii,2014,11,9,18,33,311020380.0,Événement Temporaire,2014-11-09 18:33:00,2014-11
+15723999040,45.766145,4.828265,383,fleur macro fleurs lyon depthoffield alstroemeria canon tamronsp mmf macrodiii,2014,10,21,10,14,309348840.0,Événement Temporaire,2014-10-21 10:14:00,2014-10
+15725520377,45.766145,4.828265,383,goutte macro nature goutte canon tamronsp mmf macrodiii,2014,10,26,11,7,309784020.0,Événement Temporaire,2014-10-26 11:07:00,2014-10
+15237389613,45.766145,4.828265,383,gouttes macro nature eau vert goutte gouttedeau canon eos tamronsp mmf macrodiii,2014,10,26,8,55,309776100.0,Événement Temporaire,2014-10-26 08:55:00,2014-10
+15191579844,45.766145,4.828265,383,fleur macro fleurs canon tamronsp mmf macrodiii,2014,10,19,16,38,309199080.0,Événement Temporaire,2014-10-19 16:38:00,2014-10
+15811536455,45.766145,4.828265,383,goutte blackandwhite bw macro nature goutte gouttedeau canon eos tamronsp mmf macrodiii,2014,10,26,8,55,309776100.0,Événement Temporaire,2014-10-26 08:55:00,2014-10
+15809633761,45.766145,4.828265,383,goutte gouttedeau nb noiretblanc blackandwhite bw eos tamronsp mmf macrodiii goutte macro nature canon,2014,10,26,11,22,309784920.0,Événement Temporaire,2014-10-26 11:22:00,2014-10
+15787839956,45.766145,4.828265,383,goutte gouttedeau nb goutte noiretblanc blackandwhite eos tamronsp mmf macrodiii bw,2014,10,4,19,2,307911720.0,Événement Temporaire,2014-10-04 19:02:00,2014-10
+15707914081,45.766145,4.828265,383,goutte eos nb noiretblanc blackandwhite goutte lapassiondelimage,2014,9,25,17,49,307129740.0,Événement Temporaire,2014-09-25 17:49:00,2014-09
+15684172816,45.766145,4.828265,383,g macro nature goutte gouttedeau canon eos tamronsp mmf macrodiii,2014,10,26,8,52,309775920.0,Événement Temporaire,2014-10-26 08:52:00,2014-10
+16230292137,45.766145,4.828265,383,goutte macro goutte canon tamronsp mmf macrodiii,2014,10,12,15,15,308589300.0,Événement Temporaire,2014-10-12 15:15:00,2014-10
+15796144803,45.766145,4.828265,383,fleur macro fleurs lyon depthoffield alstroemeria canon tamronsp mmf macrodiii,2014,10,21,10,14,309348840.0,Événement Temporaire,2014-10-21 10:14:00,2014-10
+16192117785,45.766145,4.828265,383,goutte macro nature goutte canon tamronsp mmf macrodiii,2014,10,26,8,55,309776100.0,Événement Temporaire,2014-10-26 08:55:00,2014-10
+16006038779,45.766145,4.828265,383,goutte macro nature goutte canon tamronsp mmf macrodiii,2014,10,26,11,0,309783600.0,Événement Temporaire,2014-10-26 11:00:00,2014-10
+16190217281,45.766145,4.828265,383,goutte macro nature goutte canon tamronsp mmf macrodiii,2014,10,26,11,8,309784080.0,Événement Temporaire,2014-10-26 11:08:00,2014-10
+15938665820,45.766145,4.828265,383,dodo eos,2014,9,26,11,36,307193760.0,Événement Temporaire,2014-09-26 11:36:00,2014-09
+15881702340,45.766145,4.828265,383,goutte macro nature goutte canon tamronsp mmf macrodiii,2014,10,26,11,18,309784680.0,Événement Temporaire,2014-10-26 11:18:00,2014-10
+15397461583,45.766145,4.828265,383,goutte macro nature goutte canon tamronsp mmf macrodiii,2014,10,25,10,31,309695460.0,Événement Temporaire,2014-10-25 10:31:00,2014-10
+15991299746,45.766145,4.828265,383,rose ,2014,11,9,18,33,311020380.0,Événement Temporaire,2014-11-09 18:33:00,2014-11
+16472642217,45.766145,4.828265,383,goutte macro nature eau goutte canon tamronsp mmf macrodiii,2014,10,26,8,51,309775860.0,Événement Temporaire,2014-10-26 08:51:00,2014-10
+16653947456,45.766145,4.828265,383,goutte macro nature goutte canon tamronsp mmf macrodiii,2014,10,26,11,18,309784680.0,Événement Temporaire,2014-10-26 11:18:00,2014-10
+16472611967,45.766145,4.828265,383,rose macro rose fleurs eos,2014,11,9,18,34,311020440.0,Événement Temporaire,2014-11-09 18:34:00,2014-11
+17116104142,45.766145,4.828265,383,goutte goutte noiretblanc nature canon blackandwhite,2014,9,25,17,41,307129260.0,Événement Temporaire,2014-09-25 17:41:00,2014-09
+17117665445,45.766145,4.828265,383,goutte macro nature goutte canon tamronsp mmf macrodiii,2014,10,26,8,52,309775920.0,Événement Temporaire,2014-10-26 08:52:00,2014-10
+16497502403,45.766145,4.828265,383,goutte macro nature goutte canon tamronsp mmf macrodiii,2014,10,26,11,19,309784740.0,Événement Temporaire,2014-10-26 11:19:00,2014-10
+18144635073,45.766145,4.828265,383,minou chat animaux eos,2014,9,28,10,40,307363200.0,Événement Temporaire,2014-09-28 10:40:00,2014-09
+18051192083,45.766145,4.828265,383,goutte macro nature water goutte gouttedeau canon eos tamronsp mmf macrodiii,2014,10,26,11,18,309784680.0,Événement Temporaire,2014-10-26 11:18:00,2014-10
+20177214081,45.766145,4.828265,383,fleur macro nature fleurs canon tamronsp mmf macrodiii,2014,10,19,16,25,309198300.0,Événement Temporaire,2014-10-19 16:25:00,2014-10
+18727685164,45.766145,4.828265,383,gouttes macro nature eau vert goutte gouttedeau canon eos tamronsp mmf macrodiii,2014,10,26,8,54,309776040.0,Événement Temporaire,2014-10-26 08:54:00,2014-10
+19295629796,45.766145,4.828265,383,fleur macro rose fleurs canon eos tamronsp mmf macrodiii,2014,10,19,16,25,309198300.0,Événement Temporaire,2014-10-19 16:25:00,2014-10

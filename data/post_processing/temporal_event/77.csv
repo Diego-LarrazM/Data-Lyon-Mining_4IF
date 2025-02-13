@@ -1,0 +1,163 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4714575730,45.763973,4.836355,77,flou astronomique paris collection lunette astronomique bardou,2010,2,19,13,5,-1.5889181805500274,undef
+5091099880,45.764072,4.836312,77, ,2009,11,29,17,50,-1.6692692650907994,undef
+5630872079,45.763992,4.836344,77,arche salle corbeille cci lyon monument interieur,2011,4,18,12,49,-1.1734322346429662,undef
+5631447608,45.763992,4.836344,77,detail plafond salle corbeille cci lyon monument interieur,2011,4,18,12,48,-1.1734329167694106,undef
+5630857229,45.763992,4.836344,77,detail plafond salle corbeille cci lyon monument interieur,2011,4,18,12,48,-1.1734329167694106,undef
+5631432230,45.763992,4.836344,77,statue salle corbeille cci lyon monument interieur,2011,4,18,12,47,-1.1734335988958553,undef
+7269670816,45.7639,4.836444,77,ghost book ,2012,4,1,15,52,-0.830497939509206,undef
+8443087954,45.7639,4.836215,77,cci architecture landscape lyon village fte monument paysages cci lumires,2012,12,8,22,54,-0.58366230001608,undef
+8441994107,45.7639,4.836215,77,cci architecture landscape lyon village fte monument paysages cci lumires,2012,12,8,22,54,-0.58366230001608,undef
+8443081018,45.7639,4.836215,77,cci architecture landscape lyon village fte monument paysages cci lumires,2012,12,8,22,52,-0.5836636642689692,undef
+8443077502,45.7639,4.836215,77,cci architecture landscape lyon village fte monument paysages cci lumires,2012,12,8,22,50,-0.5836650285218584,undef
+8443073556,45.7639,4.836215,77,cci architecture landscape lyon village fte monument paysages cci lumires,2012,12,8,22,49,-0.583665710648303,undef
+8443069636,45.7639,4.836215,77,cci architecture landscape lyon village fte monument paysages cci lumires,2012,12,8,22,48,-0.5836663927747475,undef
+8441975781,45.7639,4.836215,77,cci architecture landscape lyon village fte monument paysages cci lumires,2012,12,8,22,46,-0.5836677570276367,undef
+8441972339,45.7639,4.836215,77,cci architecture landscape lyon village fte monument paysages cci lumires,2012,12,8,22,46,-0.5836677570276367,undef
+8443059384,45.7639,4.836215,77,cci architecture landscape lyon village fte monument paysages cci lumires,2012,12,8,22,45,-0.5836684391540814,undef
+8607669182,45.76402,4.836301,77,lyon quais polar france lyon rhne rhnealpes presqule palaisdelabourse quaisdupolar palaisducommerce ruedelabourse salledelacorbeille,2013,3,30,19,5,-0.4738051539880156,undef
+8606562939,45.76393,4.836366,77,lyon quais polar france lyon rhne rhnealpes presqule palaisdelabourse quaisdupolar ruedelabourse,2013,3,30,19,33,-0.473786054447567,undef
+8606561789,45.763997,4.836376,77,lyon quais polar france lyon rhne rhnealpes presqule palaisdelabourse quaisdupolar ruedelabourse,2013,3,30,19,34,-0.4737853723211224,undef
+8572415548,45.763967,4.836291,77,coulisse lancienne bourse lyon square squareformat mayfair iphoneography instagramapp uploadedbyinstagram foursquarevenue bcc ee f b,2013,3,19,17,0,-0.4846953026759346,undef
+8610180931,45.763825,4.836344,77,lyon palais commerce france lyon rhne rhnealpes lyonpresqule,2013,3,30,19,38,-0.4737826438153441,undef
+8611285240,45.76399,4.836194,77,lyon palais commerce france lyon rhne rhnealpes lyonpresqule,2013,3,30,19,38,-0.4737826438153441,undef
+8716412735,45.763968,4.836291,77,mai chambredecommerceetdindustrie uploadedbyflickrmobile flickriosappfiltermammoth mammothfilter,2013,5,7,13,57,-0.4366892898848493,undef
+8708001026,45.763967,4.836291,77,chambre commerce dindustrie lyon lyon onlylyon picoftheday today instapic instalyon monument historique instacute ventreville picoftheday aujourdhui square squareformat inkwell iphoneography instagramapp uploadedbyinstagram foursquarevenue bcc ee f b,2013,5,4,18,32,-0.4394484913532259,undef
+9796985744,45.763967,4.836291,77,upload square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue bcc ee f b,2013,9,18,0,29,-0.305617329303514,undef
+12074837936,45.763975,4.836333,77,upload square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue dcb fa,2014,1,21,12,52,-0.1823277493285343,undef
+11601097955,45.763967,4.836291,77,upload square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue bcc ee f b,2013,12,28,3,22,-0.2062908513270683,undef
+11590484746,45.763967,4.836291,77,upload square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue bcc ee f b,2013,12,27,11,56,-0.2069225004147609,undef
+13270725453,45.76377,4.836279,77,lyon rhne sane city urban blackandwhite bw sculpture france monochrome town blackwhite europe lyon noiretblanc rhne nb ville rhone rhonealpes rhnealpes blackwhitephotos,2014,2,9,15,52,-0.1635419870444572,undef
+12930582775,45.763967,4.836291,77,late lunch djeuner tardif art photography lemyrliton foodporn saxotaz winter instagood pictureoftheday followme square squareformat unknown iphoneography instagramapp uploadedbyinstagram foursquarevenue bcc ee f b,2014,3,4,8,40,-0.1412446378236181,undef
+12929578535,45.763975,4.836333,77,beginning feel like springtime commence sentir printemps square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue dcb fa,2014,3,4,7,46,-0.1412814726516261,undef
+14565461510,45.764047,4.836326,77,upload square lofi squareformat iphoneography instagramapp uploadedbyinstagram,2014,7,26,14,59,0.0004596276495802,undef
+15420749482,45.7639,4.836402,77, lyon kamervankoophandel,2014,9,24,11,18,0.0592446025181161,undef
+11370103444,45.76399,4.836333,77, lyon cci plafond,2013,12,2,20,18,-0.231136624944905,undef
+11370036255,45.76399,4.836333,77, lyon cci plafond,2013,12,2,20,27,-0.2311304858069037,undef
+11370173803,45.76399,4.836333,77, lyon cci plafond,2013,12,2,21,56,-0.231069776553335,undef
+11370062106,45.76399,4.836333,77, lyon cci,2013,12,2,22,45,-0.2310363523575499,undef
+11370058456,45.76399,4.836333,77, lyon cci plafond,2013,12,2,22,47,-0.2310349881046607,undef
+16281005252,45.76403,4.836269,77,lyon onlylyon cci square squareformat iphoneography instagramapp uploadedbyinstagram,2015,1,14,14,1,0.1693691421124607,undef
+15573928213,45.763827,4.836312,77,lyon palais bourse france architecture frankreich lyon lione frana rhne frankrijk bourse francia francie stockexchange cci frankrig lyon historicalbuilding frankrike secondempire eclecticism rhnealpes francja december,2014,12,21,15,23,0.145850786555801,undef
+16007613319,45.763827,4.836312,77,lyon palais bourse france architecture frankreich lyon lione frana rhne frankrijk bourse francia francie stockexchange cci frankrig lyon historicalbuilding frankrike secondempire eclecticism rhnealpes francja december,2014,12,21,15,21,0.1458494223029118,undef
+15991443939,45.764047,4.836326,77,upload square squareformat ludwig iphoneography instagramapp uploadedbyinstagram,2015,1,2,12,9,0.1575055989881082,undef
+16980827971,45.76402,4.836301,77,lyon palais bourse france lumix lyon rhne panasonic rhnealpes palaisdelabourse palaisducommerce lyonpresqule panasoniclumixdmcfz quaisdupolar,2015,3,29,12,12,0.2419821842657754,undef
+16359367644,45.76402,4.836301,77,lyon palais bourse france lumix lyon rhne panasonic rhnealpes palaisdelabourse palaisducommerce lyonpresqule panasoniclumixdmcfz quaisdupolar,2015,3,29,12,11,0.2419815021393308,undef
+16361640773,45.76402,4.836301,77,lyon palais bourse france lumix lyon rhne panasonic rhnealpes palaisdelabourse palaisducommerce lyonpresqule panasoniclumixdmcfz quaisdupolar,2015,3,29,12,13,0.24198286639222,undef
+16981726795,45.76402,4.836301,77,lyon palais bourse france lumix lyon rhne panasonic rhnealpes palaisdelabourse palaisducommerce lyonpresqule panasoniclumixdmcfz quaisdupolar,2015,3,29,12,13,0.24198286639222,undef
+16774349897,45.76402,4.836301,77,lyon palais bourse france lumix lyon rhne panasonic rhnealpes palaisdelabourse palaisducommerce lyonpresqule panasoniclumixdmcfz quaisdupolar,2015,3,29,12,16,0.2419849127715538,undef
+16795537359,45.76402,4.836301,77,lyon palais bourse france lumix lyon rhne panasonic rhnealpes palaisdelabourse palaisducommerce lyonpresqule panasoniclumixdmcfz quaisdupolar,2015,3,29,12,18,0.241986277024443,undef
+16981718315,45.76402,4.836301,77,lyon palais bourse france lumix lyon rhne panasonic rhnealpes palaisdelabourse palaisducommerce lyonpresqule panasoniclumixdmcfz quaisdupolar,2015,3,29,12,19,0.2419869591508876,undef
+16794262760,45.76402,4.836301,77,lyon palais bourse france lumix lyon rhne panasonic rhnealpes palaisdelabourse palaisducommerce lyonpresqule panasoniclumixdmcfz quaisdupolar,2015,3,29,12,21,0.2419883234037768,undef
+16794262480,45.76402,4.836301,77,lyon palais bourse france lumix lyon rhne panasonic rhnealpes palaisdelabourse palaisducommerce lyonpresqule panasoniclumixdmcfz quaisdupolar,2015,3,29,12,21,0.2419883234037768,undef
+16361624413,45.76402,4.836301,77,lyon palais bourse france lumix lyon rhne panasonic rhnealpes palaisdelabourse palaisducommerce lyonpresqule panasoniclumixdmcfz quaisdupolar,2015,3,29,12,23,0.2419896876566659,undef
+16361622453,45.76402,4.836301,77,lyon palais bourse france rhne rhnealpes lyon lyonpresqule palaisdelabourse palaisducommerce quaisdupolar panasonic panasoniclumixdmcfz lumix mh monumenthsitorique classmh classmh,2015,3,29,12,24,0.2419903697831105,undef
+16799075227,45.76402,4.836301,77,lyon palais bourse france lumix lyon rhne panasonic rhnealpes palaisdelabourse palaisducommerce lyonpresqule panasoniclumixdmcfz quaisdupolar,2015,3,29,12,26,0.2419917340359997,undef
+16386359803,45.76402,4.836301,77,lyon palais bourse france lumix lyon rhne panasonic rhnealpes palaisdelabourse palaisducommerce lyonpresqule panasoniclumixdmcfz quaisdupolar,2015,3,29,12,27,0.2419924161624443,undef
+17590904900,45.764037,4.836272,77,lyon onlylon igerslyon ruedelarepublique xphotographe xphotographer fujifilmfr fujifimco square squareformat iphoneography instagramapp uploadedbyinstagram,2015,5,17,8,21,0.2899554549875204,undef
+17392438012,45.763983,4.836365,77,lyon france ,2014,5,26,21,49,-0.0591786874011407,undef
+23235206032,45.764031,4.836271,77,ccilyon forum ilovelyon onlylyon icilyon follow followme follow follow followforfollow photograph photographer photography square squareformat iphoneography instagramapp uploadedbyinstagram,2015,11,27,11,1,0.4806234387800119,undef
+23240779751,45.764031,4.836271,77,forum entrepreneur ilovelyon onlylyon icilyon ccilyon photograph photographer photography square squareformat iphoneography instagramapp uploadedbyinstagram,2015,11,26,14,27,0.4797816947473848,undef
+22696233413,45.764031,4.836271,77,forum entrepreneur ilovelyon onlylyon icilyon ccilyon photograph photographer photography square squareformat iphoneography instagramapp uploadedbyinstagram,2015,11,26,14,25,0.4797803304944956,undef
+23297219186,45.764031,4.836271,77,forum entrepreneur ilovelyon onlylyon icilyon ccilyon photograph photographer photography square squareformat iphoneography instagramapp uploadedbyinstagram,2015,11,26,14,24,0.4797796483680511,undef
+23211567122,45.764031,4.836271,77,forum entrepreneur ilovelyon onlylyon icilyon ccilyon photograph photographer photography square squareformat iphoneography instagramapp uploadedbyinstagram,2015,11,26,10,30,0.4796200307800164,undef
+22692740543,45.764031,4.836271,77,forum entrepreneur ilovelyon onlylyon icilyon ccilyon photograph photographer photography square squareformat iphoneography instagramapp uploadedbyinstagram,2015,11,26,10,29,0.4796193486535718,undef
+23193651642,45.764031,4.836271,77,upload square squareformat iphoneography instagramapp uploadedbyinstagram,2015,11,25,15,53,0.4788580955414066,undef
+23001265070,45.764031,4.836271,77,httpwwwforumdelentrepreneuriatcomateliers square squareformat iphoneography instagramapp uploadedbyinstagram,2015,11,25,10,59,0.4786575503666964,undef
+23751983662,45.763783,4.836244,77,lyon france france lyon,2014,5,30,9,40,-0.0557469092583959,undef
+23777823861,45.763783,4.836244,77,lyon france france lyon,2014,5,30,9,40,-0.0557469092583959,undef
+27116953893,45.763827,4.836312,77,lyon palais bourse france architecture frankreich lyon lione frana rhne frankrijk bourse francia francie stockexchange cci frankrig lyon historicalbuilding frankrike secondempire eclecticism rhnealpes francja eclectisme november dardel rendardel,2015,11,16,14,51,0.4699754449799233,undef
+27261931300,45.764097,4.836389,77,deux lyon france lyonbdfestival today lol bar square squareformat lark iphoneography instagramapp uploadedbyinstagram,2016,6,8,12,3,0.6712245741809335,undef
+26898082283,45.764097,4.836389,77,dessin today france lyon beautiful lyonbdfestival good square squareformat clarendon iphoneography instagramapp uploadedbyinstagram,2016,6,6,20,49,0.6696188485303628,undef
+27185392650,45.764097,4.836389,77,chry dessin bd france lyon today ddicace lyonbdfestival square squareformat clarendon iphoneography instagramapp uploadedbyinstagram,2016,6,4,22,29,0.6677225370143957,undef
+28520786942,45.763888,4.836388,77,presqule instagramapp square squareformat iphoneography uploadedbyinstagram,2016,7,29,3,59,0.7209897910726228,undef
+30509991194,45.763983,4.836363,77, ,2016,11,30,9,33,0.843018119251551,undef
+31158575762,45.764052,4.836294,77, ,2016,11,28,20,28,0.8415003879123327,undef
+31071101842,45.764019,4.836283,77, ,2016,11,24,15,25,0.8373646552787685,undef
+31178918656,45.764019,4.836283,77, ,2016,11,24,15,25,0.8373646552787685,undef
+30302896294,45.763797,4.836302,77, ,2016,11,19,18,27,0.8325774918906185,undef
+30678511002,45.763863,4.836241,77, ,2016,11,5,15,19,0.8186975829960506,undef
+23857502115,45.763783,4.836244,77,lyon france france lyon,2014,5,30,9,40,-0.0557469092583959,undef
+32577765910,45.763783,4.83633,77, ,2017,2,17,19,32,0.9210254173287032,undef
+32577765580,45.763783,4.836291,77, ,2017,2,17,19,40,0.92103087434026,undef
+32115209944,45.764063,4.836263,77, ,2017,2,17,19,38,0.9210295100873708,undef
+32942334193,45.763894,4.836461,77, ,2017,3,31,15,25,0.9621119394658424,undef
+32912330814,45.763875,4.836275,77, ,2017,3,31,15,26,0.9621126215922868,undef
+33626243551,45.763897,4.83645,77, ,2017,3,31,15,25,0.9621119394658424,undef
+32951122844,45.763888,4.836388,77,france selfie lyon quaidupolar auteur livre cool today islande quaispolar instagramapp square squareformat iphoneography uploadedbyinstagram clarendon,2017,4,2,16,43,0.9641296694889468,undef
+34685289354,45.76388,4.836374,77,lyon ,2017,6,18,15,22,1.0397085974233498,undef
+35259590432,45.763863,4.836352,77, ,2017,6,20,9,39,1.0414391522132809,undef
+35192870595,45.763958,4.83638,77, ,2017,6,9,8,50,1.0306008451351507,undef
+35192858695,45.764091,4.836275,77, ,2017,6,9,8,58,1.0306063021467076,undef
+35192848015,45.763958,4.836286,77, ,2017,6,9,8,47,1.030598798755817,undef
+35192843285,45.763958,4.83638,77, ,2017,6,9,8,50,1.0306008451351507,undef
+34383272123,45.764063,4.836294,77, ,2017,6,9,9,21,1.0306219910549332,undef
+34806314040,45.763911,4.836297,77, ,2017,6,9,9,18,1.0306199446755997,undef
+35062390141,45.763927,4.836316,77, ,2017,6,9,8,50,1.0306008451351507,undef
+34383263073,45.764091,4.836275,77, ,2017,6,9,8,58,1.0306063021467076,undef
+35062372421,45.764022,4.836341,77, ,2017,6,9,9,22,1.0306226731813777,undef
+34348312324,45.764063,4.836294,77, ,2017,6,9,9,21,1.0306219910549332,undef
+34806277620,45.763911,4.836297,77, ,2017,6,9,9,18,1.0306199446755997,undef
+34348305604,45.763972,4.836388,77, ,2017,6,9,8,55,1.0306042557673738,undef
+34806239550,45.763961,4.836252,77, ,2017,6,9,9,16,1.0306185804227102,undef
+34806235540,45.764002,4.836325,77, ,2017,6,9,9,15,1.0306178982962657,undef
+37220118572,45.763836,4.836458,77, ,2017,9,22,16,13,1.1340405455724891,undef
+36993835350,45.763869,4.836402,77, ,2017,9,22,16,15,1.1340419098253782,undef
+37795107376,45.76388,4.836311,77, ,2017,10,21,20,34,1.16270418090071,undef
+37843509351,45.763838,4.836225,77, ,2017,10,21,20,25,1.1626980417627086,undef
+23990929728,45.763838,4.836336,77, ,2017,10,21,20,33,1.1627034987742653,undef
+37585670400,45.763844,4.83643,77, ,2017,10,21,20,39,1.162707591532933,undef
+37640798916,45.763858,4.836372,77, ,2017,10,14,10,37,1.155421116851796,undef
+37657257432,45.763905,4.836336,77, ,2017,10,14,10,51,1.1554306666220202,undef
+37657256932,45.763775,4.836333,77, ,2017,10,14,10,45,1.155426573863353,undef
+37018902713,45.763905,4.836336,77, ,2017,10,14,10,51,1.1554306666220202,undef
+37657248352,45.763858,4.836372,77, ,2017,10,14,10,37,1.155421116851796,undef
+37657247002,45.763844,4.836341,77, ,2017,10,14,10,55,1.1554333951277986,undef
+37657245982,45.763866,4.836377,77, ,2017,10,14,11,23,1.1554524946682472,undef
+36537578204,45.763836,4.836458,77, ,2017,9,22,16,13,1.1340405455724891,undef
+37247465751,45.763869,4.836402,77, ,2017,9,22,16,15,1.1340419098253782,undef
+36536770264,45.763836,4.836458,77, ,2017,9,22,16,13,1.1340405455724891,undef
+37388882025,45.763869,4.836402,77, ,2017,9,22,16,15,1.1340419098253782,undef
+37246446141,45.763836,4.836458,77, ,2017,9,22,16,13,1.1340405455724891,undef
+37216902032,45.763869,4.836402,77, ,2017,9,22,16,15,1.1340419098253782,undef
+37216847682,45.763836,4.836458,77, ,2017,9,22,16,13,1.1340405455724891,undef
+37388621215,45.763869,4.836402,77, ,2017,9,22,16,15,1.1340419098253782,undef
+24598326388,45.763997,4.836308,77, ,2017,11,16,20,51,1.188254591135811,undef
+38438509052,45.763941,4.836241,77, ,2017,11,16,19,55,1.1882163920549136,undef
+26694422529,45.763997,4.836308,77, ,2017,11,16,20,51,1.188254591135811,undef
+37583025415,45.763952,4.836233,77, ,2017,11,16,20,21,1.188234127342473,undef
+38438508342,45.764019,4.83633,77, ,2017,11,16,20,7,1.1882245775722486,undef
+38438504582,45.763869,4.836205,77, ,2017,11,16,20,13,1.1882286703309162,undef
+37755418264,45.764102,4.836222,77, ,2017,11,16,19,52,1.1882143456755798,undef
+38271242311,45.763863,4.836388,77, ,2017,11,8,19,28,1.180339877999204,undef
+38239331282,45.763941,4.83633,77, ,2017,11,8,19,21,1.1803351031140918,undef
+38216483476,45.76395,4.836444,77, ,2017,11,8,19,17,1.1803323746083136,undef
+24400148978,45.76388,4.836388,77, ,2017,11,8,19,53,1.1803569311603188,undef
+38239331032,45.763819,4.836391,77, ,2017,11,8,20,28,1.1803808055858795,undef
+38106147946,45.763991,4.836416,77, ,2017,11,4,13,26,1.176163899905409,undef
+37451598904,45.763997,4.836416,77, ,2017,11,4,13,27,1.1761645820318534,undef
+38129660752,45.763941,4.836441,77, ,2017,11,4,13,33,1.1761686747905211,undef
+38106145326,45.763991,4.836416,77, ,2017,11,4,13,26,1.176163899905409,undef
+31236320721,45.76403,4.836333,77, ,2016,11,30,9,33,0.843018119251551,undef
+40315588402,45.763827,4.836312,77,lyon palais bourse lyon lyon france rhne rhnealpes december architecture bourse stockexchange eclecticism secondempire cci lione francia frana frankrijk frankreich frankrig frankrike francja francie rendardel dardel eclectisme,2017,12,29,18,25,1.2303922701240668,undef
+27952378649,45.763925,4.83633,77, ,2018,1,16,19,44,1.248126875557027,undef
+38832873475,45.763894,4.836316,77, ,2018,1,16,19,29,1.248116643660358,undef
+27952378249,45.763911,4.836316,77, ,2018,1,16,18,57,1.2480948156141312,undef
+38832873165,45.763894,4.836316,77, ,2018,1,16,19,29,1.248116643660358,undef
+24861790627,45.763894,4.836316,77, ,2018,1,16,19,29,1.248116643660358,undef
+39731226701,45.763877,4.836377,77, ,2018,1,16,19,23,1.2481125509016906,undef
+39731226221,45.763888,4.836363,77, ,2018,1,16,19,8,1.2481023190050216,undef
+39731225531,45.763755,4.836347,77, ,2018,1,16,19,0,1.248096861993465,undef
+40380300735,45.763905,4.836244,77, ,2018,4,6,14,18,1.3264854687531442,undef
+41233442372,45.763905,4.836247,77, ,2018,4,6,14,19,1.3264861508795889,undef
+27312513267,45.763838,4.836455,77, ,2018,5,17,9,48,1.3665740399018445,undef
+42183888631,45.763977,4.836302,77, ,2018,5,17,9,47,1.3665733577754,undef
+40376623310,45.763977,4.836302,77, ,2018,5,17,9,47,1.3665733577754,undef
+42102096271,45.764141,4.836338,77, ,2018,5,14,11,15,1.3636865986618845,undef
+42057170382,45.763952,4.836394,77, ,2018,5,14,10,27,1.363653856592544,undef
+42057170492,45.763952,4.836394,77, ,2018,5,14,10,27,1.363653856592544,undef
+40362818500,45.763838,4.836455,77, ,2018,5,17,9,48,1.3665740399018445,undef
+40362812370,45.763977,4.836302,77, ,2018,5,17,9,47,1.3665733577754,undef
+41311165830,45.764027,4.836333,77,palais bourse lyon palaisdelabourse lyon,2018,6,30,16,5,1.4100507331008358,undef
+42217949835,45.764027,4.836333,77,palais bourse lyon palaisdelabourse lyon,2018,6,30,15,55,1.41004391183639,undef
+28252980697,45.764027,4.836333,77,palais bourse lyon palaisdelabourse lyon,2018,6,30,16,4,1.4100500509743912,undef

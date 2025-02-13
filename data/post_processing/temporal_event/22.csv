@@ -1,0 +1,199 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4317605350,45.755906,4.839692,22,skate park bridge bw film bike analog bmx lyon nb skate ilfordhp plus holga bc,2010,1,30,0,36,-1.6090743348612908,undef
+4283899111,45.756063,4.839767,22, street people lyon streetphotography skatepark skater rue gen quais guillotire,2010,1,17,16,56,-1.6211752579883616,undef
+4284643588,45.756063,4.839767,22, street people lyon streetphotography skatepark skater rue gen quais guillotire,2010,1,17,16,45,-1.621182761379252,undef
+4283898119,45.756063,4.839767,22, street people lyon streetphotography skatepark skater rue gen quais guillotire,2010,1,17,16,42,-1.6211848077585858,undef
+4397238415,45.756063,4.839767,22, lyon streetphotography skirt skatepark skate rue gen guillotire,2010,2,28,16,46,-1.5799270718838538,undef
+4555230197,45.755979,4.839552,22, bike blackwhite bmx lyon skatepark berges rhone,2010,4,26,17,10,-1.5239217622770325,undef
+4540645065,45.755928,4.83952,22,lyon quai augagneur quai saone,2010,4,19,14,42,-1.5308985515523243,undef
+4540645061,45.755928,4.83952,22,lyon quai augagneur quai saone,2010,4,19,14,42,-1.5308985515523243,undef
+4574652216,45.755979,4.839552,22, blackwhite bmx lyon bowl berges rhone,2009,12,5,15,16,-1.6634807400819875,undef
+4574019031,45.755979,4.839552,22, blackwhite lyon bowl berges trotinette rhone,2009,12,5,15,12,-1.663483468587766,undef
+4567902540,45.755979,4.839552,22, bmx lyon hdr berges rhone,2010,2,20,17,1,-1.5877749366288905,undef
+4810884712,45.756048,4.839799,22,rhone bank skate park france lyon skatepark rhoneriver vikingrivercruises portraitsofsouthernfrancecruise vikingneptune,2010,6,29,20,38,-1.4609151068429138,undef
+4768488216,45.756023,4.839607,22,look back bmx ride bowl guillotiere quaiesdurhone,2010,7,5,17,27,-1.4551518205125518,undef
+4768487848,45.756023,4.839607,22,transfer grab ride bowl roller guillotiere quaiesdurhone,2010,7,6,17,44,-1.4541579622827807,undef
+4767846431,45.756023,4.839607,22,transfer ride bowl roller guillotiere quaiesdurhone,2010,7,6,17,44,-1.4541579622827807,undef
+4768480670,45.756023,4.839607,22,transfer grab ride bowl roller guillotiere quaiesdurhone,2010,7,5,16,34,-1.4551879732141153,undef
+4763688684,45.756023,4.839607,22,wall air bmx lyon air bowl skate grab grind dimo,2010,7,5,3,48,-1.455710482070673,undef
+4763686124,45.756023,4.839607,22,air bmx lyon air bowl skate grab grind dimo,2010,7,5,3,47,-1.4557111641971177,undef
+4763683964,45.756023,4.839607,22,transfer blunt nosegrab bmx lyon air bowl skate grab grind dimo,2010,7,5,3,45,-1.455712528450007,undef
+4763043391,45.756023,4.839607,22,air bmx lyon air bowl skate grab grind dimo,2010,7,5,3,44,-1.4557132105764514,undef
+4763676208,45.756023,4.839607,22,grab bmx lyon air bowl skate grab grind dimo,2010,7,5,3,41,-1.4557152569557852,undef
+4763034769,45.756023,4.839607,22,transfer blunt nosegrab bmx lyon air bowl skate grab grind dimo,2010,7,5,3,39,-1.4557166212086745,undef
+4763029077,45.756023,4.839607,22,transfer blunt nosegrab bmx lyon air bowl skate grab grind dimo,2010,7,5,3,35,-1.4557193497144527,undef
+4763664946,45.756023,4.839607,22,transfer feeble bmx lyon air bowl skate grab grind dimo,2010,7,5,3,34,-1.4557200318408974,undef
+4763021925,45.756023,4.839607,22,transfer blunt nosegrab bmx lyon air bowl skate grab grind dimo,2010,7,5,3,31,-1.4557220782202311,undef
+4763017741,45.756023,4.839607,22, bmx lyon air bowl skate grab grind dimo,2010,7,5,3,29,-1.4557234424731205,undef
+4763650180,45.756023,4.839607,22,ollie bmx lyon air bowl skate grab grind dimo,2010,7,5,3,25,-1.455726170978899,undef
+4763633622,45.756023,4.839607,22,condor bmx lyon air bowl skate grab grind dimo,2010,7,5,3,15,-1.4557329922433446,undef
+4763627592,45.756023,4.839607,22,air bmx bmx lyon air bowl skate grab grind dimo,2010,7,5,3,12,-1.4557350386226784,undef
+4762986345,45.756023,4.839607,22,air bmx bmx lyon air bowl skate grab grind dimo,2010,7,5,3,10,-1.4557364028755675,undef
+4762980677,45.756023,4.839607,22,roller bmx lyon air bowl skate roller grab grind dimo,2010,7,5,3,7,-1.4557384492549017,undef
+4762971175,45.756023,4.839607,22,gap march bmx lyon air bowl skate grab grind dimo,2010,7,5,3,2,-1.4557418598871243,undef
+4763555278,45.756023,4.839607,22,presentation air bowl ciel roller guillotiere,2010,7,5,2,29,-1.455764370059796,undef
+5195413335,45.756026,4.839611,22, bmx lyon bowl guillotiere,2010,11,21,16,38,-1.318650815558705,undef
+5169772028,45.756196,4.839658,22,lyon ,2010,11,12,17,20,-1.3274625249699508,undef
+5447828817,45.756041,4.839649,22, vintage nikon bmx lyon guillotiere,2011,2,8,16,47,-1.2410459720838625,undef
+5445199189,45.755943,4.83967,22, nikon bmx lyon bowl berges guillotiere,2011,2,8,16,44,-1.2410480184631962,undef
+5431687752,45.756033,4.839692,22, photoshop nikon lyon skate transparence guillotire,2011,2,5,16,53,-1.2439886655658343,undef
+5431570320,45.756101,4.839541,22, photoshop vintage nikon bmx lyon guillotire,2011,2,5,16,47,-1.243992758324502,undef
+5425113939,45.756153,4.839692,22, composition photoshop vintage nikon bmx lyon guillotire,2011,2,5,16,12,-1.2440166327500628,undef
+5425654544,45.75619,4.83967,22, photoshop vintage nikon bmx lyon urbanride guillotiere,2011,2,5,16,11,-1.2440173148765072,undef
+5669809428,45.755906,4.839541,22,freestyle bike photoshop wow photography photo nikon bmx freestyle lyon picture bike bowl photograph rodrigues fotografia stumble photographe guillotire freestylebmx waow wwwstumbleuponcom paulrodrigues freestylebikes rodriguespaul stumbleup,2011,4,24,19,14,-1.167276043480519,undef
+5664359147,45.755906,4.839541,22,freestyle bike photoshop wow photography photo nikon bmx freestyle lyon picture bike bowl photograph rodrigues fotografia stumble photographe guillotire freestylebmx waow wwwstumbleuponcom paulrodrigues freestylebikes rodriguespaul stumbleup,2011,4,24,19,9,-1.1672794541127418,undef
+5660925399,45.755906,4.839541,22,guillaume portrait bw bike photoshop wow photography photo nikon bmx freestyle lyon noiretblanc picture bike bowl nb photograph rodrigues fotografia stumble photographe guillotire freestylebmx waow wwwstumbleuponcom paulrodrigues freestylebikes rodriguespaul stumbleup,2011,4,24,19,19,-1.167272632848296,undef
+5661464282,45.755906,4.839541,22,belive fly bike photoshop wow photography photo nikon bmx freestyle lyon picture bike bowl photograph rodrigues fotografia stumble photographe guillotire freestylebmx waow wwwstumbleuponcom paulrodrigues freestylebikes rodriguespaul stumbleup,2011,4,24,19,6,-1.1672815004920756,undef
+5660835964,45.755906,4.839541,22,freestyle bmx bike photoshop wow photography photo nikon bmx freestyle lyon picture bike bowl photograph rodrigues fotografia stumble photographe guillotire freestylebmx waow wwwstumbleuponcom paulrodrigues freestylebikes rodriguespaul stumbleup,2011,4,24,19,4,-1.167282864744965,undef
+5599928859,45.755981,4.839584,22,roulez jeunesse ,2011,4,8,11,34,-1.1833060149284422,undef
+6102013781,45.756029,4.839724,22,matin amis connects guillotire lyon rhne facebook msn texto sm skate glisse fun skateboard ennui solitude attente rseaux sociaux alainmercier mercieralain,2011,8,18,10,41,-1.053683573041866,undef
+5244158644,45.756048,4.839735,22, nikon lyon hdr berges rhone,2010,11,26,16,55,-1.313727909008081,undef
+6555648589,45.755941,4.839594,22,skate park photoshop raw lyon alpha bellecour guillotiere,2011,12,22,16,33,-0.9296784424265088,undef
+6555647027,45.755941,4.839597,22,skate park photoshop raw lyon alpha bellecour guillotiere,2011,12,22,16,32,-0.9296791245529534,undef
+6555639153,45.75593,4.8396,22,skate park photoshop raw lyon alpha bellecour guillotiere,2011,12,22,16,32,-0.9296791245529534,undef
+6555630793,45.755941,4.839602,22,skate park photoshop raw lyon alpha bellecour guillotiere,2011,12,22,16,30,-0.9296804888058426,undef
+6555626117,45.75593,4.839636,22,skate park photoshop raw lyon alpha bellecour guillotiere,2011,12,22,16,29,-0.9296811709322872,undef
+6555620939,45.755938,4.839636,22,skate park photoshop raw lyon alpha bellecour guillotiere,2011,12,22,16,28,-0.929681853058732,undef
+6555614683,45.755958,4.839613,22,skate park photoshop raw lyon alpha bellecour guillotiere,2011,12,22,16,27,-0.9296825351851764,undef
+6555608145,45.755969,4.839602,22,skate park photoshop raw lyon alpha bellecour guillotiere,2011,12,22,16,27,-0.9296825351851764,undef
+6555598847,45.755952,4.839636,22,skate park photoshop raw lyon alpha bellecour guillotiere,2011,12,22,16,8,-0.9296954955876237,undef
+6555591417,45.755922,4.83963,22,skate park photoshop raw lyon alpha bellecour guillotiere,2011,12,22,16,1,-0.9297002704727358,undef
+6555586077,45.755933,4.839591,22,skate park photoshop raw lyon alpha bellecour guillotiere,2011,12,22,16,0,-0.9297009525991804,undef
+6500276813,45.75625,4.839692,22, lyon lumires fetedeslumieres quaisdurhne,2011,12,11,19,43,-0.9403537212843812,undef
+7000366659,45.755846,4.839541,22, france lyon,2012,3,17,11,56,-0.8453928525533276,undef
+7946367108,45.756035,4.839645,22, bike bmx bowl,2012,9,7,1,19,-0.6749137651414397,undef
+8218208442,45.755891,4.839584,22,quais ,2012,7,6,22,19,-0.7359367968746836,undef
+8218205146,45.756011,4.839713,22,skate ,2012,7,6,22,8,-0.7359443002655741,undef
+8218202970,45.755958,4.839788,22,quand faut aller ,2012,7,6,22,15,-0.7359395253804619,undef
+8344165304,45.756056,4.839853,22,bowl crpuscule ,2013,1,1,16,55,-0.5603328934845724,undef
+8277573978,45.756086,4.839792,22,quais rhne sky cloud canon river lyon ciel nuages hdr fleuve rhone dmkii canoneos dmkii ludtz,2012,12,9,14,57,-0.5830054122499374,undef
+9068040289,45.756086,4.839792,22, black canon gris spring noir lyon gray skater skate skateboard printemps rhone guillotire dmkii canoneos dmkii ludtz ef,2013,6,16,17,56,-0.3972357784560645,undef
+9020014220,45.75608,4.839744,22,parapluie umbrella skatepark parapluie regenschirm,2013,6,9,16,44,-0.4041607261215674,undef
+9020010754,45.75608,4.839744,22,bmx bmx skatepark berges bergesdurhne,2013,6,9,16,42,-0.4041620903744566,undef
+9020007302,45.75608,4.839744,22,bmx bmx skatepark berges bergesdurhne,2013,6,9,16,42,-0.4041620903744566,undef
+9020003680,45.75608,4.839744,22,bmx bmx skatepark berges bergesdurhne,2013,6,9,16,37,-0.4041655010066796,undef
+9019999886,45.75608,4.839744,22,bmx bmx skatepark berges bergesdurhne,2013,6,9,16,36,-0.4041661831331241,undef
+9019980062,45.75608,4.839744,22,bmx bmx skatepark berges bergesdurhne,2013,6,9,16,33,-0.4041682295124579,undef
+9019833458,45.75608,4.839744,22,bmx bmx skatepark berges bergesdurhne,2013,6,9,16,32,-0.4041689116389025,undef
+9019830752,45.75608,4.839744,22,bmx bmx skatepark berges bergesdurhne,2013,6,9,16,32,-0.4041689116389025,undef
+9019829484,45.75608,4.839744,22,bmx bmx skatepark berges bergesdurhne,2013,6,9,16,31,-0.4041695937653471,undef
+9019827854,45.75608,4.839744,22,bmx bmx skatepark berges bergesdurhne,2013,6,9,16,29,-0.4041709580182363,undef
+9019825666,45.75608,4.839744,22,bmx bmx skatepark berges bergesdurhne,2013,6,9,16,26,-0.4041730043975701,undef
+9019821888,45.75608,4.839744,22,bmx bmx skatepark berges bergesdurhne,2013,6,9,16,21,-0.404176415029793,undef
+9019817888,45.75608,4.839744,22,bmx bmx skatepark berges bergesdurhne,2013,6,9,16,15,-0.4041805077884606,undef
+9019813306,45.75608,4.839744,22,bmx bmx skatepark berges bergesdurhne,2013,6,9,16,14,-0.4041811899149052,undef
+9019808146,45.75608,4.839744,22,bmx bmx skatepark frade berges cdric bergesdurhne,2013,6,9,16,11,-0.4041832362942389,undef
+9013813474,45.75608,4.839744,22,unbreakable tattoo bmx skatepark berges tatouage bergesdurhne,2013,6,9,16,29,-0.4041709580182363,undef
+9012627485,45.75608,4.839744,22,bmx bmx skatepark berges bergesdurhne,2013,6,9,16,23,-0.4041750507769038,undef
+9013717592,45.75608,4.839744,22,bmx bmx skatepark berges bergesdurhne,2013,6,9,16,12,-0.4041825541677943,undef
+9012532495,45.75608,4.839744,22,bmx bmx skatepark berges bergesdurhne,2013,6,9,16,12,-0.4041825541677943,undef
+9013714322,45.75608,4.839744,22,bmx bmx skatepark berges bergesdurhne,2013,6,9,16,11,-0.4041832362942389,undef
+9013651030,45.75608,4.839744,22,bmx bmx skatepark berges bergesdurhne,2013,6,9,16,42,-0.4041620903744566,undef
+9012464847,45.75608,4.839744,22,bmx bmx skatepark berges bergesdurhne,2013,6,9,16,40,-0.4041634546273457,undef
+9013631150,45.75608,4.839744,22,bmx bmx skatepark berges bergesdurhne,2013,6,9,16,34,-0.4041675473860133,undef
+9013628912,45.75608,4.839744,22,bmx bmx skatepark berges bergesdurhne,2013,6,9,16,34,-0.4041675473860133,undef
+9187895310,45.75605,4.839777,22,bmx bmx rhne skatepark berges,2013,6,30,17,32,-0.3835004803677502,undef
+9187902510,45.75605,4.839777,22,box woman girl bmx femme rhne skatepark frau berges,2013,6,30,17,40,-0.3834950233561934,undef
+9185101297,45.75605,4.839777,22,bmx bmx rhne skatepark frade berges cdric,2013,6,30,17,40,-0.3834950233561934,undef
+9187897902,45.75605,4.839777,22,bmx bmx rhne skatepark berges,2013,6,30,17,39,-0.383495705482638,undef
+9185093067,45.75605,4.839777,22,bmx shadow bmx rhne ombre skatepark berges,2013,6,30,17,25,-0.3835052552528623,undef
+9185090677,45.75605,4.839777,22,bmx bmx rhne skatepark berges,2013,6,30,17,25,-0.3835052552528623,undef
+9187621286,45.75605,4.839777,22,bmx bmx rhne skatepark berges,2013,6,30,17,23,-0.3835066195057515,undef
+9187617222,45.75605,4.839777,22,bmx bmx rhne skatepark berges,2013,6,30,17,23,-0.3835066195057515,undef
+9187612834,45.75605,4.839777,22,bmx bmx rhne skatepark berges,2013,6,30,17,23,-0.3835066195057515,undef
+9187608580,45.75605,4.839777,22,bmx bmx rhne skatepark berges,2013,6,30,17,23,-0.3835066195057515,undef
+9187604450,45.75605,4.839777,22,bmx bmx rhne skatepark berges,2013,6,30,17,21,-0.3835079837586407,undef
+9187599404,45.75605,4.839777,22,bmx bmx rhne skatepark berges,2013,6,30,17,21,-0.3835079837586407,undef
+9187403556,45.75605,4.839777,22,skate bmx rhne skatepark skate berges,2013,6,30,17,20,-0.3835086658850853,undef
+9184731857,45.75605,4.839777,22,photographer woman girl femme rhne skatepark frau berges,2013,6,30,17,47,-0.3834902484710813,undef
+9187009064,45.75605,4.839777,22,upside bmx rhne skatepark frade berges cdric,2013,6,30,17,40,-0.3834950233561934,undef
+9184553281,45.75605,4.839777,22,skate rhne skatepark berges,2013,6,30,17,47,-0.3834902484710813,undef
+9635618763,45.755994,4.839646,22,like bird birdykids lyonstreetart skate skateboard igerslyon lyon streetart square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bc aadb f aec,2013,8,31,18,31,-0.3225599859343021,undef
+9654469183,45.755994,4.839646,22,long shadow approaching bowldelyon lyon skate bmx skateboard jjforum skateboarding skatelife birdykids skateeverydamnday lyonstreetart sunset streetart rsastreetview rsagraffiti streetphotography streetartistry streetartutop square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bc aadb f aec,2013,9,2,20,14,-0.3205252027500827,undef
+10542973086,45.755944,4.839572,22,bmx bmx berges bergesdurhne,2013,10,27,16,42,-0.2666453991446115,undef
+10543003904,45.755944,4.839572,22,bmx bmx berges bergesdurhne,2013,10,27,16,42,-0.2666453991446115,undef
+10542961636,45.755944,4.839572,22,bmx bmx skate berges bergesdurhne,2013,10,27,16,41,-0.2666460812710561,undef
+10542992674,45.755944,4.839572,22,bmx bmx skate berges bergesdurhne,2013,10,27,16,40,-0.2666467633975006,undef
+10543163633,45.755944,4.839572,22,bmx bmx skate berges bergesdurhne,2013,10,27,16,40,-0.2666467633975006,undef
+10542932375,45.755944,4.839572,22,bmx bmx skate berges bergesdurhne,2013,10,27,16,39,-0.2666474455239452,undef
+10421511444,45.755944,4.839605,22,deepest movement street autumn bicycle automne movement lyon streetphotography ville saisons mouvement lieux photographiederue urbanbicycle urbanskate autumnalballade urbanballade,2010,11,23,16,44,-1.3166821986396111,undef
+10167271276,45.755936,4.839634,22, france bike sport jump nikon bmx lyon sigma trick,2013,10,9,11,51,-0.2845246153838251,undef
+10167318933,45.755906,4.83972,22, france bike sport jump nikon bmx lyon sigma bowl trick,2013,10,9,11,51,-0.2845246153838251,undef
+10167317983,45.755936,4.839763,22, france bike nikon bmx lyon sigma bowl trick,2013,10,9,11,50,-0.2845252975102697,undef
+10167081434,45.755936,4.83972,22, france bike sport nikon bmx lyon sigma bowl trick velo,2013,10,9,11,50,-0.2845252975102697,undef
+10969398243,45.756086,4.839735,22,bmx bmx skatepark frade cdric bergesdurhne,2013,11,17,15,46,-0.2460560945410319,undef
+10969140235,45.756088,4.839737,22,bmx bmx skatepark bergesdurhne,2013,11,17,15,46,-0.2460560945410319,undef
+10969325904,45.75609,4.83974,22,bmx bmx skatepark bergesdurhne,2013,11,17,15,45,-0.2460567766674765,undef
+10969387293,45.756091,4.839741,22,bmx bmx skatepark frade cdric bergesdurhne,2013,11,17,15,45,-0.2460567766674765,undef
+10969383633,45.756111,4.839759,22,bmx bmx skatepark bergesdurhne,2013,11,17,15,41,-0.2460595051732548,undef
+10969077613,45.756095,4.839746,22,bmx bmx skatepark bergesdurhne,2013,11,17,15,44,-0.246057458793921,undef
+10968916406,45.756095,4.839747,22,bmx bmx skatepark bergesdurhne,2013,11,17,15,43,-0.2460581409203656,undef
+10968949304,45.756096,4.839748,22,bmx bmx skatepark frade cdric bergesdurhne,2013,11,17,15,43,-0.2460581409203656,undef
+10968756425,45.756098,4.83975,22,bmx bmx skatepark bergesdurhne,2013,11,17,15,43,-0.2460581409203656,undef
+10968888953,45.756103,4.839757,22,bmx bmx skatepark bergesdurhne,2013,11,17,15,41,-0.2460595051732548,undef
+10934978534,45.756095,4.839746,22,bmx bmx skatepark bergesdurhne,2013,11,17,15,44,-0.246057458793921,undef
+12800373463,45.756025,4.839519,22,bmx boy girl bmx skatepark bergesdurhne,2014,2,23,15,47,-0.1497937285536957,undef
+12800256673,45.756025,4.839519,22,bmx bmx skatepark bergesdurhne,2014,2,23,15,35,-0.1498019140710308,undef
+12800162343,45.756025,4.839519,22,bmx bmx skatepark bergesdurhne,2014,2,23,15,32,-0.1498039604503646,undef
+12800049625,45.756025,4.839519,22,bmx bmx skatepark bergesdurhne,2014,2,23,15,32,-0.1498039604503646,undef
+12800087273,45.756033,4.839572,22,bmx boy bmx skatepark bergesdurhne,2014,2,23,15,31,-0.1498046425768092,undef
+12765316233,45.756025,4.839519,22,bmx boy bmx skatepark bergesdurhne,2014,2,23,15,55,-0.1497882715421389,undef
+12765164855,45.756025,4.839519,22,bmx girl bmx skatepark bergesdurhne,2014,2,23,15,52,-0.1497903179214727,undef
+12765161355,45.756025,4.839519,22,bmx girl bmx skatepark bergesdurhne,2014,2,23,15,36,-0.1498012319445862,undef
+12765157675,45.756025,4.839519,22,bmx boy bmx skatepark bergesdurhne,2014,2,23,15,33,-0.14980327832392,undef
+12765154505,45.756025,4.839519,22,bmx boy bmx skatepark bergesdurhne,2014,2,23,15,33,-0.14980327832392,undef
+12765300003,45.756025,4.839519,22,bmx boy bmx skatepark bergesdurhne,2014,2,23,15,33,-0.14980327832392,undef
+12765594374,45.756025,4.839519,22,bmx boy bmx skatepark bergesdurhne,2014,2,23,15,32,-0.1498039604503646,undef
+12756826665,45.756033,4.839572,22,spectator boy sun girl wall sunday skatepark mur spectator fille bergesdurhne,2014,2,23,15,29,-0.1498060068296983,undef
+12756820535,45.756033,4.839572,22,spectator boy sun girl wall shoe sunday skatepark mur spectator fille chaussure bergesdurhne,2014,2,23,15,28,-0.149806688956143,undef
+11825612674,45.756077,4.839613,22,bmx boy bmx skatepark garon berges bergesdurhne,2013,12,30,16,56,-0.2037710762407437,undef
+11825957786,45.756077,4.839613,22,bmx boy bmx skatepark garon berges bergesdurhne,2013,12,30,16,54,-0.2037724404936328,undef
+11825950536,45.756077,4.839613,22,bmx boy bmx skatepark garon berges bergesdurhne,2013,12,30,16,45,-0.2037785796316342,undef
+11625650704,45.756113,4.839852,22,skate park france fall lyon,2013,12,27,14,56,-0.2067997176547343,undef
+13539649265,45.755908,4.839691,22,bmx boy bmx skatepark garon berges guillotire bergesdurhne,2014,3,29,18,59,-0.1162658495490858,undef
+13120912783,45.755905,4.839677,22,spectator shadow man men girl bmx skatepark spectator guillotire bergesdurhne,2014,3,9,17,24,-0.1359758931655857,undef
+13120855513,45.755905,4.839677,22,spectator man men girl skatepark spectator guillotire,2014,3,9,17,30,-0.1359718004069182,undef
+13093441955,45.75588,4.839611,22,body muscle tattoo bmx body rhne skatepark casquette tatouage guillotire bergesdurhne,2014,3,9,17,20,-0.1359786216713641,undef
+13093437175,45.755983,4.839544,22,roller man skatepark roller guillotire bergesdurhne,2014,3,9,17,4,-0.1359895356944775,undef
+13093728384,45.756005,4.839511,22,lover man girl lover skatepark amoureux guillotire,2014,3,9,16,7,-0.1360284169018193,undef
+13071628603,45.756008,4.83978,22,spectator girl rhne skatepark spectator guillotire bergesdurhne,2014,3,9,17,37,-0.135967025521806,undef
+13071834334,45.756005,4.839511,22,unknown girl skatepark guillotire bergesdurhne,2014,3,9,17,5,-0.135988853568033,undef
+13071613993,45.755977,4.839483,22,spectator man girl rhne skatepark spectator guillotire bergesdurhne,2014,3,9,17,3,-0.1359902178209222,undef
+13071806504,45.756083,4.839694,22,photographer girl photographer skatepark photographe guillotire bergesdurhne,2014,3,9,17,1,-0.1359915820738113,undef
+13071590483,45.755955,4.839788,22,photographer girl photographer skatepark photographe guillotire bergesdurhne,2014,3,9,16,19,-0.1360202313844842,undef
+13071456285,45.756005,4.839511,22,photographer man men photographer rhne skatepark photographe bergesdurhne,2014,3,9,16,10,-0.1360263705224856,undef
+13071448365,45.756005,4.839511,22,photographer man men photographer rhne skatepark photographe bergesdurhne,2014,3,9,16,10,-0.1360263705224856,undef
+15696151616,45.756086,4.839792,22,still life bridge autumn automne canon river lyon rhne rivire swimmingpool skatepark skate piscine rhone fourvire guillotire dmkii canoneos dmkii ludtz,2014,10,26,15,55,0.0908659381100899,undef
+15534454588,45.756086,4.839792,22,quais rhne bridge autumn automne canon river lyon rhne rivire swimmingpool skatepark skate pont piscine rhone fourvire guillotire dmkii canoneos dmkii ludtz,2014,10,26,16,1,0.0908700308687575,undef
+15534000149,45.756086,4.839792,22,piscine rhne bridge autumn automne canon river lyon rhne rivire swimmingpool skatepark skate pont piscine rhone fourvire guillotire dmkii canoneos dmkii ludtz,2014,10,26,15,54,0.0908652559836453,undef
+11179014005,45.756041,4.839638,22, ,2013,11,30,15,20,-0.2333044227858199,undef
+11179077634,45.756041,4.839638,22, ,2013,11,30,15,21,-0.2333037406593753,undef
+11179004915,45.756041,4.839638,22, ,2013,11,30,15,22,-0.2333030585329308,undef
+11179000715,45.756041,4.839638,22, ,2013,11,30,15,22,-0.2333030585329308,undef
+11178996415,45.756041,4.839638,22, ,2013,11,30,15,24,-0.2333016942800416,undef
+11178992055,45.756041,4.839638,22, ,2013,11,30,15,25,-0.233301012153597,undef
+11179053724,45.756041,4.839638,22, ,2013,11,30,15,25,-0.233301012153597,undef
+11179170163,45.756041,4.839638,22, ,2013,11,30,15,26,-0.2333003300271524,undef
+11178976925,45.756041,4.839638,22, ,2013,11,30,15,26,-0.2333003300271524,undef
+16558493059,45.755994,4.839646,22,skate park park street zeiss bmx lyon sony skate lightroom f z,2015,3,7,16,48,0.220560685399793,undef
+22798116193,45.75597,4.83955,22,self portrait lyon rhone river ,2015,10,30,15,6,0.4532872215129681,undef
+28033388062,45.756086,4.839792,22,big air urban canon bmx lyon rhne skatepark skate urbanjungle rhone mm guillotire dmkiii ludtz canoneos dmkiii,2016,7,1,19,58,0.694140612087018,undef
+28137118225,45.756086,4.839792,22,piscine blue sky cloud canon river lyon rhne bleu ciel nuages piscine fleuve rhone piscinedurhne dmkiii cloudsstormssunsetssunrises ludtz canoneos dmkiii,2016,7,2,17,21,0.6950157803154302,undef
+23520510456,45.756086,4.839792,22,misty bridge sunset sun mist fog river lyon olympus rhne rivire panasonic pont brouillard coucherdesoleil fleuve rhone mft guillotire piscinedurhne olympuspenepl ludtz lumix,2015,12,5,16,51,0.4887202796773248,undef
+23418143711,45.756219,4.83965,22,calendrier lavent advent calendar night paris christmas xmas city bridge paris france color tower night alpes europe december advent cityscape tour lyon couleurs eiffeltower cityscape eiffel noel rhne cathdrale toureiffel pont nol adventcalendar nuit multicolor ville dcembre decembre basilique x calendrier fourvire maxence rhnealpes avent calendrierdelavent paysageurbain tourradio quaisdurhne canon formatpaysage chassamax maxenceboyerphoto maxenceboyer,2014,4,12,21,15,-0.1024214112296367,undef
+34142358446,45.75625,4.839692,22, holga hlc lyon sunset bowl guillotire,2017,4,21,17,35,0.982828119588116,undef
+33340476724,45.75625,4.839692,22, holga hlc lyon sunset bowl guillotire,2017,4,21,17,33,0.9828267553352268,undef
+33008972413,45.756216,4.8397,22,fullsizerenderjpg photoderue france noiretblanc monochrome street blackandwhite streetphotography hourprojectleftovers lyon auvergnerhnealpes fr fujifilm iphone iphonography,2017,4,1,16,5,0.9631214866038392,undef
+23684161528,45.756057,4.839819,22,bowl guillotire cameramakefujifilm cameramodelxt exifaperture geocity geostate exiflensxf mmf rlmoiswr geocountry geolocation exifmodelxt exifisospeed exiffocallength mm geolon exifmakefujifilm geolat,2017,8,11,16,47,1.0928087305026517,undef
+23865785077,45.756029,4.839852,22,hangin lyric song texte text tekst young jung jong jeune mannen men mnner hommes hombre uomini france frankrijk frankreich francia frana lyon europa europe friend vrienden amis freunden streetportrait rhnealpes mand,2017,7,22,14,24,1.0730659448168114,undef
+30678829044,45.756111,4.839722,22, ,2016,12,8,20,58,0.8513434725078023,undef
+31404082991,45.756111,4.839722,22, ,2016,12,8,20,59,0.851344154634247,undef
+40239422115,45.756071,4.83967,22,faire peur guillautire lyon berges,2018,3,25,16,31,1.3147890466077168,undef
+41791250242,45.755887,4.839659,22,addicted man male homme hombre uomo mann france frankrijk frankreich francia frana smartphone addiction addicted streetportrait mand,2017,7,22,14,23,1.0730652626903667,undef
+29141637347,45.756113,4.839575,22,mid summer evening bank rhne mariona alamercery bergesdurhne europe france guillotire lyon makeupartist maquilleuse marion place summer,2018,8,12,21,44,1.4525192434147194,undef
+44054037765,45.756211,4.839663,22,lyon quai claude bernard lyonfrankreich,2018,9,8,10,7,1.4785648774485942,undef
+32719698117,45.756033,4.839702,22,bike bowl lyon lyon france monochrome bowl vlo bike urban urbain people personne gen human humain,2019,4,20,19,4,1.6989578853170926,undef
+47609433942,45.756033,4.839702,22,bike bowl lyon france monochrome bowl vlo bike urban urbain people personne gen human humain,2019,4,20,19,4,1.6989578853170926,undef
+47609198642,45.756033,4.839702,22,urban ambiance lyon bowl lyon france monochrome people personnes place urban urbain foule bike cycliste,2019,4,20,19,3,1.698957203190648,undef
+46965516055,45.756111,4.839722,22, lyon holiday,2018,3,31,14,32,1.3206014460420894,undef
+48121402917,45.756086,4.839792,22,pauvre plante ludtz leica leitz leicamtyp teleelmarit leitzcanada lyon tlmtre tlmtrique rangefinder rhne rhnealpes guillotire summer pont bridge river rivire fleuve pauvreplante sadplanet,2019,6,22,16,28,1.7607339846451664,undef

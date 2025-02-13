@@ -1,0 +1,236 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4548709162,45.759399,4.828969,60,brain damage reperkusound concert lyon live fx dub braindamage jarringeffects doublemixte mediatone reperkusound,2010,4,10,3,9,-1.5402116239003456,undef
+4523247393,45.759505,4.829027,60,passerelle palais justice lyon france sane saone passerelle palais justice french republic rpublique franaise,2010,4,4,10,35,-1.5458009679873366,undef
+4675470611,45.759399,4.828969,60,tcl bus bus speed movement europe lyon dusk fnac tcl,2010,6,5,20,45,-1.484484621882918,undef
+4669228063,45.759399,4.828969,60,nuits sonores ninkasi lyon concert lyon nuitssonores apartirdemobileme,2010,5,14,2,11,-1.506854276506884,undef
+4964566836,45.759399,4.828969,60, france tower lyon eiffel fourviere,2010,9,5,17,35,-1.394246114527778,undef
+5109581507,45.759357,4.828995,60,pont bonaparte longexposure bridge night lyon pont nuit hdr sane expositionlongue rhnealpes photomatix quaidesane detailsenhancer pontbonaparte canoneos bonapartebridge hd rv bankofthesane,2010,10,23,18,18,-1.347068203240428,undef
+5089311744,45.759399,4.828969,60, ,2010,10,16,17,53,-1.353961090963035,undef
+5214574816,45.759399,4.828969,60,faade thtre clestins lyon art architecture mural lyon tag moderne ancien theatre melange celestins,2010,10,21,16,10,-1.349120039585762,undef
+5395542592,45.759439,4.829022,60,jca fte lumires lyon fete lumieres,2010,12,8,21,20,-1.301760000537706,undef
+5378693598,45.759399,4.828969,60,p lyon,2011,1,22,11,3,-1.2579790789444265,undef
+5332760605,45.759399,4.828969,60,lyon quais sane pont feuille nord nuit sane river lyon night france lyon fte lumires,2010,12,11,18,30,-1.298929175792647,undef
+5313351736,45.759399,4.828969,60, ,2011,1,1,14,6,-1.2784817534895427,undef
+5312506925,45.759399,4.828969,60, ,2011,1,1,14,2,-1.278484481995321,undef
+5252516649,45.759399,4.828969,60,lyon ,2010,11,2,6,57,-1.3377101105470637,undef
+5559697918,45.759399,4.828969,60,portrait portrait,2010,10,9,16,27,-1.360895588398762,undef
+5651544104,45.759282,4.828984,60,quais sane city blackandwhite dock blackwhite spring lyon noiretblanc highkey printemps ville noirblanc quais sane,2010,4,17,16,26,-1.532792134562513,undef
+5749358523,45.759399,4.828969,60,lapin gay metalist gay lapin,2011,5,23,9,57,-1.1391703875839747,undef
+5722035249,45.759333,4.829,60,lyon juin version france lyon ville rhone,2010,6,26,17,50,-1.4639764903262449,undef
+5802267181,45.759368,4.829016,60, city light urban france night river lyon dusk lumire rivire crpuscule nuit ville urbain sane,2010,7,21,15,56,-1.439497700735599,undef
+5799801803,45.759399,4.828969,60,brasserie george brewery lyon france france beer restaurant lyon gare diner bistro brewery perrache brasserie tank stout biere brasseriegeorge,2011,5,29,16,23,-1.133013514295083,undef
+5915336029,45.759426,4.82898,60,lyon rhne city bridge cidade france rio ro river lyon fiume ciudad rhne rivire ponte stadt pont brug brcke fluss ville stad citt kpr fleuve miasto rivier nehir rzeka ehir puante,2011,7,5,11,40,-1.096862859111015,undef
+6058425571,45.759426,4.82898,60,pont bonaparte lyon pontbonaparte,2010,12,10,15,52,-1.3000192138511055,undef
+6337045381,45.759364,4.829027,60,pique lyon pont ombres lightroom aat rambarde,2011,11,11,15,49,-0.9699812012788112,undef
+6310495268,45.759399,4.828969,60,average joes people france alpes square ancient lyon hobo rhone rhonealpes,2011,10,26,9,26,-0.9859586489905012,undef
+5223466662,45.759399,4.828969,60,ohhh doll brush ipad,2010,12,1,11,36,-1.30903419694284,undef
+6856941125,45.759274,4.829049,60,saone gelee ,2012,2,11,9,42,-0.8798634303043642,undef
+6811986705,45.759399,4.828969,60,lyon ,2011,12,8,15,0,-0.9434935493088406,undef
+6668159805,45.759399,4.828969,60,hotel region rhone alpes lyon confluence france ,2011,7,3,15,51,-1.0986561695338486,undef
+6668158017,45.759399,4.828969,60,hotel region rhone alpes lyon france ,2011,7,3,15,31,-1.0986698120627405,undef
+6668155085,45.759399,4.828969,60,hotel region rhone alpes lyon france ,2011,7,3,15,15,-1.098680726085854,undef
+6601127191,45.759297,4.828975,60, lyon vieux,2011,12,30,13,28,-0.921946539177053,undef
+6570556445,45.759399,4.828969,60,remonda fioravanti vocaglia comologno onsernone svizzera lione francia figlio di remonda giuseppe domenico vocaglia comologno onsernone scheda di famiglia ,2011,12,25,20,43,-0.9265611245747212,undef
+6506680415,45.759399,4.828969,60,festival delle luci lanterne di fukuno lione lione festivaldelleluci,2011,12,9,21,40,-0.9422384366507904,undef
+6506674239,45.759399,4.828969,60,festival delle luci lione lione festivaldelleluci,2011,12,10,18,27,-0.9413878249743834,undef
+6506670499,45.759399,4.828969,60,festival delle luci lione lione festivaldelleluci,2011,12,9,22,9,-0.9422186549838972,undef
+6506669713,45.759399,4.828969,60,festival delle luci lione lione festivaldelleluci,2011,12,9,22,6,-0.9422207013632308,undef
+6506665989,45.759399,4.828969,60,festival delle luci lione lione festivaldelleluci,2011,12,9,22,6,-0.9422207013632308,undef
+6492083201,45.759426,4.82898,60,pont bonaparte lighting travel bridge light party france color art monument night french nikon long exposure niceshot lyon lumire moderne event exposition nicolas pont bonaparte fte franais couleur ville eclairage color urbain rhone urbanisme napolon longue evnement perrony,2011,12,10,22,54,-0.9412056972136772,undef
+6493177845,45.759282,4.828995,60,lumires lyon nuit lumires ftedeslumires,2011,12,10,21,49,-0.9412500354325758,undef
+6493176263,45.759282,4.828995,60,lumires lyon nuit lumires ftedeslumires,2011,12,10,21,48,-0.9412507175590203,undef
+6493175005,45.759282,4.828995,60,lumires lyon nuit lumires ftedeslumires,2011,12,10,21,40,-0.9412561745705772,undef
+6947425937,45.759399,4.828969,60,remonda ren gregoire lione arr francia figlio di remonda fioravanti comologno onsernone svizzera lione scheda di famiglia ,2012,3,2,23,17,-0.8596622556477578,undef
+7263295920,45.759399,4.828969,60,coucou ,2011,6,5,11,11,-1.1263505031843035,undef
+7216883096,45.759399,4.828969,60,lit douillet nature fleur rose proximacro,2012,5,17,14,43,-0.7853609505440767,undef
+7216882000,45.759399,4.828969,60,velour nature fleur rose rouge proximacro,2012,5,17,14,48,-0.7853575399118538,undef
+7217267108,45.759399,4.828969,60,rose noire nature rose noir noiretblanc,2012,5,17,14,48,-0.7853575399118538,undef
+7216884228,45.759399,4.828969,60,saumonn nature fleur rose proximacro,2012,5,17,14,42,-0.7853616326705213,undef
+7216880882,45.759399,4.828969,60,trans nature fleur rose proximacro,2012,5,17,15,23,-0.785333665486293,undef
+7216879990,45.759399,4.828969,60,ambiguit nature fleur rose proximacro,2012,5,17,15,23,-0.785333665486293,undef
+7216879186,45.759399,4.828969,60,douceur nature fleur rose proximacro,2012,5,17,14,39,-0.785363679049855,undef
+7216878566,45.759399,4.828969,60,poussin nature fleur rose mygearandme proximacro,2012,5,17,14,44,-0.7853602684176321,undef
+7214845538,45.759399,4.828969,60,pose portrait nb,2012,5,12,16,21,-0.7902054125535726,undef
+7204803388,45.759399,4.828969,60,soleil ,2012,5,12,16,55,-0.7901822202544564,undef
+7188420738,45.759399,4.828969,60,sans main ,2012,5,12,16,10,-0.7902129159444631,undef
+7188419262,45.759399,4.828969,60,pose ,2012,5,12,16,21,-0.7902054125535726,undef
+7188409540,45.759399,4.828969,60,isol ,2012,5,12,17,20,-0.7901651670933416,undef
+7188252538,45.759399,4.828969,60,dr jekyll portrait nb,2012,5,12,17,1,-0.7901781274957889,undef
+7183360298,45.759399,4.828969,60,survivre ,2012,5,12,17,17,-0.7901672134726754,undef
+7183554382,45.759399,4.828969,60,jade demi portrait nb,2012,5,12,17,1,-0.7901781274957889,undef
+7183356628,45.759399,4.828969,60,aieeee basket course pied flou,2012,5,12,16,32,-0.7901979091626821,undef
+7178040012,45.759399,4.828969,60,coeur rose fleur rose,2011,6,2,14,45,-1.1291513143658003,undef
+7159930470,45.759399,4.828969,60,asmaa portraitnb ,2012,5,6,15,46,-0.7961228594604124,undef
+7159895028,45.759399,4.828969,60,asmaa portrait ,2012,5,6,15,46,-0.7961228594604124,undef
+7158675600,45.759399,4.828969,60,confluence reflet nb ,2012,5,6,15,5,-0.7961508266446407,undef
+7158570698,45.759399,4.828969,60,jade confluence ,2012,5,6,14,51,-0.7961603764148649,undef
+7420920216,45.759399,4.828969,60,lyon businessman bridge france businessman hotel lyon dieu rhone,2012,4,4,11,15,-0.8277401022937186,undef
+7389816922,45.759387,4.828984,60, ,2012,1,16,19,0,-0.9050216178338244,undef
+7670228154,45.759399,4.828969,60,rose nb flower nature fleur rose nikon nb x commentgroup,2012,7,28,16,10,-0.7145787357680482,undef
+7670172860,45.759399,4.828969,60,rose rose pink flower macro nature fleur rose nikon x,2012,7,28,16,10,-0.7145787357680482,undef
+7546183206,45.759454,4.828931,60,adoptez roux lyon,2012,7,9,14,35,-0.7333065173043349,undef
+7546177678,45.759454,4.828931,60,lyon pont bonaparte lyon,2012,7,9,14,34,-0.7333071994307795,undef
+7546172460,45.759454,4.828931,60,lyon pont bonaparte lyon,2012,7,9,14,34,-0.7333071994307795,undef
+7546143682,45.759454,4.828931,60,lyon pont bonaparte lyon,2012,7,9,14,28,-0.7333112921894471,undef
+7478170460,45.759399,4.828969,60, church architecture lyon eglise gargouille,2010,9,25,17,45,-1.3745940516590684,undef
+7478167840,45.759399,4.828969,60, city building river lyon maison ville immeuble fleuve habitation saone,2010,9,25,14,9,-1.3747413909711004,undef
+7850366156,45.759399,4.828969,60, ,2012,8,15,12,24,-0.6970521789006889,undef
+7776427894,45.759399,4.828969,60, ,2012,8,5,13,34,-0.7068270508516993,undef
+7768213940,45.759399,4.828969,60,sucette ,2012,8,12,12,40,-0.6999880511182149,undef
+7767530550,45.759379,4.82892,60,lyon lyon vercors arles tournon royans,2012,8,11,9,3,-0.7011183346369048,undef
+7765126210,45.759274,4.829027,60, ,2012,8,7,12,32,-0.7049048185308376,undef
+7765122476,45.759349,4.829027,60, ,2012,8,7,12,31,-0.7049055006572822,undef
+8015124802,45.759399,4.828969,60,arlequin lyon nuit confluence,2012,9,22,21,17,-0.6593626464576203,undef
+8015124166,45.759399,4.828969,60,centre commercial lyon nuit confluence,2012,9,22,21,43,-0.6593449111700609,undef
+8015120079,45.759399,4.828969,60,patchwork lyon nuit confluence,2012,9,22,21,14,-0.6593646928369541,undef
+8015119261,45.759399,4.828969,60,arcenciel lyon nuit confluence rememberthatmomentlevel,2012,9,22,21,8,-0.6593687855956216,undef
+7957852340,45.759399,4.828969,60,cite inter ovni ,2012,9,8,19,38,-0.6731818460986194,undef
+7957850152,45.759399,4.828969,60,cite inter ovni lyon lugdunum citeinternationale,2012,9,8,19,35,-0.6731838924779533,undef
+7957845156,45.759399,4.828969,60,cite internatiolnale ,2012,9,8,19,19,-0.6731948065010668,undef
+7957842488,45.759399,4.828969,60,worldtradecenter ,2012,9,8,19,20,-0.6731941243746221,undef
+7938914660,45.759399,4.828969,60,matire ,2012,9,1,15,26,-0.6802295765241491,undef
+7938911954,45.759399,4.828969,60,danse ,2012,9,1,15,13,-0.6802384441679288,undef
+8127873216,45.759399,4.828969,60,feuilles bernard bernardgaillot brnrd color coolpix couleur couleurs europe feuille feuilles feuillage foliage france franais french gaillot image image light lumiere lumieres macro nature p nikon photo photo picture vert,2012,8,11,17,6,-0.7007888675641666,undef
+8113866484,45.759399,4.828969,60,portrait nb bisnef ,2011,11,1,13,7,-0.9799143265649672,undef
+8108866973,45.759399,4.828969,60,zombie zombie sang cadavre zombieday x mm nikon zombiewalklyon,2012,10,13,17,27,-0.6388920318553998,undef
+8108866103,45.759399,4.828969,60,zombie bi zombie sang cadavre zombieday x mm nikon zombiewalklyon,2012,10,13,17,29,-0.6388906676025106,undef
+8108872804,45.759399,4.828969,60,zombie ter zombie sang cadavre zombieday x mm nikon zombiewalklyon,2012,10,13,17,29,-0.6388906676025106,undef
+8108864791,45.759399,4.828969,60,zombie zombie sang cadavre zombieday x mm nikon rememberthatmomentlevel zombiewalklyon,2012,10,13,17,29,-0.6388906676025106,undef
+8108864213,45.759399,4.828969,60,zombie zombie sang cadavre zombieday x mm nikon rememberthatmomentlevel rememberthatmomentlevel zombiewalklyon,2012,10,13,17,26,-0.6388927139818444,undef
+8102488787,45.759399,4.828969,60,zombie zombie sang cadavre zombieday x mm nikon zombiewalklyon,2012,10,13,17,26,-0.6388927139818444,undef
+8102500866,45.759399,4.828969,60,zombie zombie sang cadavre zombieday x mm nikon zombiewalklyon,2012,10,13,17,26,-0.6388927139818444,undef
+8100709077,45.759399,4.828969,60,zombie zombie sang maquillage cadavre x mm nikon zombiewalklyon,2012,10,13,17,13,-0.638901581625624,undef
+8100717144,45.759399,4.828969,60,zombie zombie sang maquillage cadavre x mm nikon zombiewalklyon,2012,10,13,17,13,-0.638901581625624,undef
+8100715822,45.759399,4.828969,60,zombie zombie sang maquillage cadavre x mm nikon zombiewalklyon,2012,10,13,17,14,-0.6389008994991795,undef
+8100714532,45.759399,4.828969,60,zombie zombie sang maquillage cadavre x mm nikon zombiewalklyon,2012,10,13,17,20,-0.638896806740512,undef
+8097877677,45.759399,4.828969,60,zombie zombie sang cadavre zombieday x zombiewalklyon,2012,10,13,17,13,-0.638901581625624,undef
+8097884138,45.759399,4.828969,60,zombie zombie sang cadavre zombieday x zombiewalklyon,2012,10,13,17,13,-0.638901581625624,undef
+8097789160,45.759399,4.828969,60,zombie zombie zombieday x mm nikon zombiewalklyon,2012,10,13,17,12,-0.6389022637520687,undef
+8097779903,45.759399,4.828969,60,zombie zombie zombieday x mm nikon zombiewalklyon,2012,10,13,17,12,-0.6389022637520687,undef
+8097779127,45.759399,4.828969,60,zombie zombie zombieday x mm nikon zombiewalklyon,2012,10,13,17,12,-0.6389022637520687,undef
+8094910808,45.759399,4.828969,60,zombie zombie sang zombieday x mm nikon rememberthatmomentlevel zombiewalklyon,2012,10,13,17,10,-0.6389036280049579,undef
+8094864410,45.759399,4.828969,60,zombie zombie x mm nikon zombiewalklyon,2012,10,13,17,7,-0.6389056743842917,undef
+8093494785,45.759399,4.828969,60,zombie zombie sang cadavre zombieday zombiewalklyon,2012,10,13,17,6,-0.6389063565107362,undef
+8093500394,45.759399,4.828969,60,zombie zombie sang cadavre zombieday zombiewalklyon,2012,10,13,17,6,-0.6389063565107362,undef
+8091653823,45.759399,4.828969,60,zombie rouge zombie bebe precoce rememberthatmomentlevel zombiewalklyon sangenceinte,2012,10,13,17,5,-0.6389070386371808,undef
+8091458325,45.759399,4.828969,60,zombie lyon zombie sang zombiewalk mortvivant,2012,10,13,17,5,-0.6389070386371808,undef
+8091462892,45.759399,4.828969,60,zombie lyon zombie sang zombiewalk mortvivant,2012,10,13,17,5,-0.6389070386371808,undef
+8086179279,45.759399,4.828969,60,zombie zombie sang maquillage masque zombieday x mm nikon,2012,10,13,16,53,-0.638915224154516,undef
+8086186803,45.759399,4.828969,60,zombie zombie sang maquillage masque zombieday x mm nikon,2012,10,13,16,48,-0.6389186347867389,undef
+8086184952,45.759399,4.828969,60,zombie zombie sang maquillage masque zombieday x mm nikon,2012,10,13,16,50,-0.6389172705338497,undef
+8086182908,45.759399,4.828969,60,zombie zombie sang maquillage masque zombieday x mm nikon,2012,10,13,16,51,-0.6389165884074052,undef
+8086181345,45.759399,4.828969,60,zombie zombie sang maquillage masque zombieday x mm nikon,2012,10,13,16,52,-0.6389159062809605,undef
+8086177943,45.759399,4.828969,60,zombie zombie sang maquillage masque zombieday x mm nikon,2012,10,13,16,55,-0.6389138599016267,undef
+8086176171,45.759399,4.828969,60,zombie zombie sang maquillage masque zombieday x mm nikon,2012,10,13,16,55,-0.6389138599016267,undef
+8086174699,45.759399,4.828969,60,zombie zombie sang maquillage masque zombieday x mm nikon,2012,10,13,17,0,-0.6389104492694038,undef
+8086173661,45.759399,4.828969,60,zombie zombie sang maquillage masque zombieday x mm nikon,2012,10,13,17,0,-0.6389104492694038,undef
+8086172449,45.759399,4.828969,60,zombie nb zombie sang maquillage masque zombieday x mm nikon flickrstruereflection flickrstruereflectionlevel,2012,10,13,17,1,-0.6389097671429592,undef
+8086170911,45.759399,4.828969,60,zombie zombie sang maquillage masque zombieday x mm nikon,2012,10,13,17,1,-0.6389097671429592,undef
+8086169159,45.759399,4.828969,60,zombie zombie sang maquillage masque zombieday x mm nikon,2012,10,13,17,2,-0.6389090850165147,undef
+8083728674,45.759399,4.828969,60,zombie nikon zombie cadavre x mm,2012,10,13,16,47,-0.6389193169131835,undef
+8082553920,45.759399,4.828969,60,dream sport concentration wb nb aikido x,2012,10,12,19,14,-0.6398013064060416,undef
+8083730492,45.759399,4.828969,60,zombie rouge nikon zombie sang monstre cadavre zombieday mortvivant x mm,2012,10,13,16,45,-0.6389206811660727,undef
+8083734713,45.759399,4.828969,60,zombie nikon zombie cadavre x mm,2012,10,13,16,45,-0.6389206811660727,undef
+8083734125,45.759399,4.828969,60,zombie nikon zombie cadavre x mm,2012,10,13,16,45,-0.6389206811660727,undef
+8057595182,45.759399,4.828969,60,chauffement sport kimono aikido,2012,10,5,19,40,-0.6466594056799745,undef
+8057594948,45.759399,4.828969,60,course sport,2012,10,5,19,50,-0.6466525844155285,undef
+8057594274,45.759399,4.828969,60,concentration sport,2012,10,5,20,15,-0.6466355312544138,undef
+8057593772,45.759399,4.828969,60,chute sport,2012,10,5,20,32,-0.6466239351048556,undef
+8196222578,45.759399,4.828969,60,lyon night nikon lyon lumire nuit quaidurhone x,2012,11,17,19,1,-0.6044487391621468,undef
+8177082926,45.759304,4.828877,60,confluence lyon nb,2009,3,27,18,3,-1.911879131259675,undef
+8153088988,45.759399,4.828969,60,asmaa carr portrait noiretblanc mm x,2012,11,1,13,16,-0.6204002660689422,undef
+8148539627,45.759399,4.828969,60,smile ,2012,11,1,13,16,-0.6204002660689422,undef
+8145793245,45.759399,4.828969,60,asmaa ,2012,11,1,13,16,-0.6204002660689422,undef
+8145790857,45.759399,4.828969,60,jade ,2012,11,1,13,0,-0.6204111800920555,undef
+8145793857,45.759399,4.828969,60,asmaa ,2012,11,1,13,0,-0.6204111800920555,undef
+8145823896,45.759399,4.828969,60,asmaa ,2012,11,1,13,16,-0.6204002660689422,undef
+8145791805,45.759399,4.828969,60,cygne noir ,2012,11,1,12,50,-0.6204180013565015,undef
+8145791261,45.759399,4.828969,60,jade ,2012,11,1,13,31,-0.6203900341722732,undef
+8145790263,45.759399,4.828969,60, ,2012,11,1,13,0,-0.6204111800920555,undef
+8145063025,45.759399,4.828969,60,lyon fr ,2011,12,3,12,21,-0.9485133178145966,undef
+6436674673,45.759484,4.828984,60,croixrousse sunset sky silhouette cloud building lyon ciel nuages btiments,2011,9,16,19,12,-1.024849406102497,undef
+6436673309,45.759484,4.828984,60,fils patte sky cloud lyon pole ciel cable poteau nuages,2011,9,16,19,11,-1.0248500882289415,undef
+8445983518,45.759227,4.829,60,cold fire world city bridge sunset orange france church water river town twilight europe cityscape lyon cloudy dusk oldtown rhonealpes vieuxlyon sane rhnealpes pwwinter,2013,1,16,16,58,-0.545596915902041,undef
+8351748630,45.759399,4.828969,60,vers centre commercial confluence france mm flickr lyon pentax nuit ville twitter paysageurbain pentaxk saone lyonconfluence,2012,9,25,22,21,-0.6563722041245268,undef
+8333135125,45.759399,4.828969,60,lyon lyon rhnealpes france h france public landscape lyon gps nuage octobre rhnealpes nikond mmf geoencoded jpegquality,2010,10,16,19,6,-1.3539112957325796,undef
+8329025415,45.759399,4.828969,60,eclairage mauresque pastis lighting flickr iphone hipstamatic kaimalmarkiilens alfredinfraredfilm iphone byeflyfree,2012,12,31,13,21,-0.5614611306239284,undef
+8326871507,45.759399,4.828969,60,fenetre fin journee flickr iphone dcfilm hipstamatic dreampopflash iphone buckhorsth lens byeflyfree,2012,12,30,17,14,-0.5622844572425515,undef
+8327912510,45.759399,4.828969,60,bon cafe bon bouquin flickr johnslens hipstamatic inas film iphone byeflyfree,2012,12,30,15,51,-0.5623410737374527,undef
+8287532516,45.759229,4.829027,60,hdr sane ,2012,12,15,17,43,-0.5769986067788561,undef
+8583224010,45.759399,4.828969,60,francia campagna di lione france cloud lione francia nubi rodanoalpi,2012,8,6,16,9,-0.7057390591725742,undef
+8582122819,45.759399,4.828969,60,francia campagna di lione france cloud lione francia nubi rhonealpes rodanoalpi,2012,8,6,16,9,-0.7057390591725742,undef
+8582117343,45.759399,4.828969,60,francia campagna di lione sky france cloud alpes lione cielo francia rhone nubi rodanoalpi,2012,8,6,16,9,-0.7057390591725742,undef
+8684159974,45.759399,4.828969,60,place antonin poncet lyon flower night lyon cloudy fourviere antoninponcet,2012,5,22,22,19,-0.7801385904842766,undef
+8684147126,45.759399,4.828969,60,lhteldieu lyon france reflection night hospital light lyon cloudy,2012,5,22,23,5,-0.7801072126678253,undef
+8626822379,45.759399,4.828969,60, ,2012,4,7,14,5,-0.8246773545574984,undef
+9510582430,45.7595,4.82893,60,camino frankreich wasser lyon stdte fra brcken vieuxlyon flsse rhnealpes bauwerke,2012,8,20,16,11,-0.6919860257967005,undef
+10011975915,45.759333,4.829,60,lyon ,2013,9,10,19,21,-0.3127032588099407,undef
+9965080906,45.759399,4.828969,60,ruelle poubelles france mm flickr lyon pentax nuit croixrousse paysageurbain project pentaxk projet,2012,10,18,22,40,-0.6337672158771764,undef
+10357810863,45.759399,4.828969,60,e alone lyon airport ,2012,12,8,9,40,-0.5842039084130864,undef
+10222780605,45.759399,4.828969,60,bon weekend lyon flickrandroidappfilterflamingo,2013,10,12,3,10,-0.2819332170208182,undef
+10195893016,45.759274,4.82907,60,lyon quai sane lyon fleuve sane,2011,11,12,10,5,-0.969233590695538,undef
+10912982973,45.759399,4.828969,60,confluence biennale lyon confluence flickrandroidappfilternone,2013,11,12,15,26,-0.2509810474709896,undef
+10629613533,45.759349,4.828909,60,sane summer vacation urban france building river lyon lasane onlylyon,2013,9,25,6,20,-0.2985020683599697,undef
+8256219337,45.759399,4.828969,60,fanion lyon illumination ftesdeslumires,2012,12,7,20,30,-0.5847427883043145,undef
+8257291020,45.759399,4.828969,60,inconnus ,2012,12,7,21,23,-0.5847066356027512,undef
+8257290196,45.759399,4.828969,60,inconnus ,2012,12,7,21,23,-0.5847066356027512,undef
+8238180221,45.759399,4.828969,60,bambi animal lyon parc daim parcttedor,2012,12,2,15,33,-0.5898566902594243,undef
+8238860474,45.759399,4.828969,60,pense donc ,2012,12,2,15,47,-0.5898471404892001,undef
+8237794993,45.759399,4.828969,60,grand froid ,2012,12,2,15,37,-0.589853961753646,undef
+8238862074,45.759399,4.828969,60,salut ,2012,12,2,15,38,-0.5898532796272015,undef
+8238861540,45.759399,4.828969,60,ouais ,2012,12,2,15,47,-0.5898471404892001,undef
+12815810334,45.759399,4.828969,60,forever travel bridge france love french lyon lock secret,2014,2,27,7,17,-0.1462125647195852,undef
+12047369446,45.75944,4.828877,60,bloody dreaming ,2014,1,17,17,32,-0.1860658022449011,undef
+11889120726,45.759399,4.828969,60, bird flickrandroidappfilternone,2014,1,11,15,29,-0.1920432762788651,undef
+11565834643,45.759399,4.828969,60,vue lyon night raw lyon pont nuit fleuve lumiere rhone rhonealpes saone flickrunitedaward,2013,11,2,19,9,-0.2606515540759773,undef
+13084482535,45.759372,4.829049,60,vista colina cruz roja lyon puente justice nikon lyon filter cruz nd vista pont palais nikkor rousse croix roja saona pentes,2014,3,3,16,21,-0.1419124396128741,undef
+13042765124,45.759399,4.828969,60,rhone lyon flickrandroidappfilternone,2014,3,9,21,33,-0.1358060436808822,undef
+12878908785,45.759399,4.82897,60,budweiser ireland irish beer pub lyon burger budweiser,2014,3,2,15,12,-0.1429417684177642,undef
+13986233165,45.759399,4.828969,60,avril lyon,2014,4,23,21,2,-0.0916253959910715,undef
+13946945624,45.759399,4.828969,60,avril lyon,2014,4,18,21,18,-0.0965257923690239,undef
+13869531585,45.759399,4.828969,60,el amor fuente toda la cosas buenas lyon flickrandroidappfilteriguana,2014,4,15,4,38,-0.1001547050542559,undef
+13712444264,45.759411,4.828877,60, uploadedbyflickrmobile flickriosappfilternofilter,2013,12,7,19,34,-0.2262553281074012,undef
+14136456282,45.759399,4.828969,60,quais rhone lyon ,2014,5,8,11,47,-0.0772700449646226,undef
+14705756562,45.759286,4.829038,60, ,2014,7,17,11,37,-0.008518520614146,undef
+15192218120,45.759277,4.829025,60,lyon city france night lyon nightcity,2014,8,6,23,59,0.0116328588120051,undef
+15480674628,45.759432,4.829092,60,lyon quai tilsit france night river lyon rivire nuit quai sane,2014,10,27,20,18,0.0920275994452309,undef
+11425364266,45.759399,4.828969,60,lione festa della luce lyon lione festadellaluce,2012,10,30,20,0,-0.6220892111457531,undef
+11261649066,45.759399,4.828969,60,fte lumires lyon flickrandroidappfilternone,2013,12,8,2,26,-0.2259742920122291,undef
+11261650774,45.759399,4.828969,60,parc tte fte lumires lyon flickrandroidappfilternone,2013,12,8,2,38,-0.225966106494894,undef
+11261594255,45.759399,4.828969,60,place bellecour fte lumires lyon flickrandroidappfilternone,2013,12,8,2,54,-0.2259551924717805,undef
+11261615756,45.759399,4.828969,60,petit prince fte lumires lyon flickrandroidappfilternone,2013,12,8,2,57,-0.2259531460924467,undef
+11261574135,45.759399,4.828969,60,place terraux fte lumires lyon flickrandroidappfilternone,2013,12,8,2,58,-0.2259524639660021,undef
+16308808652,45.759435,4.829068,60,passerelle palais justice lyon france landscape photo justice nikon europe european foto picture rhne rivire pont palais gilbert mm paysage landschaft rive bellecour affluent passerelle sane matg suspendue haubans lamboley mgaloseau,2015,1,10,21,59,0.1657661502321232,undef
+16122271500,45.759435,4.829068,60,passerelle palais justice lyon france landscape photo justice nikon europe european foto picture rhne rivire pont palais gilbert paysage landschaft rive bellecour affluent passerelle sane matg suspendue haubans lamboley mgaloseau,2015,1,4,19,25,0.1597675302783769,undef
+15851094767,45.759439,4.828984,60,ftes lumires street city light france night lyon rivire pont nuit reflets couleur ville lumieres ftes fleuves,2014,12,8,18,45,0.1332191690548373,undef
+17375894494,45.759363,4.828983,60,lyon lyon,2012,6,2,18,20,-0.7694967358221892,undef
+20734569862,45.759463,4.828966,60,lyon basilique fourvire france lyon paysages fourvire vieuxlyon rhnealpes,2015,8,19,16,11,0.3826086899565177,undef
+20750812851,45.759463,4.828966,60,lyon colline croixrousse depuis pont bonaparte france lyon paysages vieuxlyon rhnealpes,2015,8,19,16,10,0.3826080078300731,undef
+21648280153,45.759274,4.829006,60,grand moyens lyon saxo sduction,2015,10,17,18,11,0.4406440078624464,undef
+23985554163,45.75938,4.829038,60,lyon ,2015,4,12,14,47,0.2558395829876718,undef
+23768781870,45.759484,4.828918,60,lyon france longexposure trip travel bridge sunset france night canon river noche europe nightshot lyon nacht dusk fluss notte fleuve rhone canoneos,2015,12,29,18,57,0.5123805175344598,undef
+26222264063,45.759409,4.829027,60,lyon saintjean fourvire france architecture lyon faades rhne btiment basilique fourvire cathdralesaintjeanbaptiste basiliquenotredamedefourvire rhnealpesauvergne,2016,5,4,12,41,0.6368713221783667,undef
+28405331663,45.759227,4.829027,60, ,2015,6,23,14,7,0.326535167705237,undef
+30101437512,45.759444,4.828888,60,ville lumires sunset lyon river,2016,10,8,19,27,0.7913634121083405,undef
+29463649584,45.759334,4.829092,60,nuitla sane nuit noche night saona saone lyon francia france cityscape ciudad city cidade urbanview urban unescoworldheritage unesco urbano europa europe blue hour rio river riviere,2016,9,26,19,26,0.7795755850193377,undef
+31025988881,45.759484,4.828984,60,lyon night nuit night pose longue lyon lumiere ville city pont bridge color fuji xpro,2016,11,12,20,11,0.8257725984793638,undef
+23094557484,45.759491,4.828961,60,lione e annecy trip travel bridge lake france annecy night canon river lago eos friend long exposure lyon lione pussy ponte filter panoramica nd audi francia cabrio hdr fede raclette ruota esposizione selfie saona pezzi pezzo fiumi umbe rodano traveladdicted g x wwwfacebookcomumbetraveladdicted umbetraveladdicted,2015,12,6,17,22,0.4897236876773203,undef
+31560938022,45.759469,4.828855,60,chemin vers justice lyon dcembre,2016,12,17,16,24,0.8599969285839026,undef
+35217506732,45.759379,4.828994,60,pont bonaparte river sane lyon lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes riversane lasane bridge pontbonaparte tree tree pontdelarchevch pontdebois thecountsbellecourorthechanoines jeanchristophemarie carron tilsitt villeboisstone pierrescizewharf stoneofhauteville pierreofhauteville reinforcedconcrete vieuxlyon oldlyon unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite quaitilsitt quaifulchiron catholicchurch glisesaintgeorges churchofstgeorge churchofstgeorgelyon romancatholicchurch placefranoisbertras primatialeparish pierrebossan cardinalalbertdecourtray priestlyfraternityofstpeter motuproprioecclesiadei cardinalphilippebarbarin thefraternityofstpeter neogothicstyle charlesdufraine spire passerellestgeorges passerelledelabbpaulcouturier paulcouturierbridge saintgeorgesbridge ainayandsaintgeorges guillotire,2017,6,3,10,28,1.0247741210454415,undef
+34574614983,45.759379,4.828994,60,pont bonaparte river sane lyon lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes riversane lasane bridge pontbonaparte tree tree pontdelarchevch pontdebois thecountsbellecourorthechanoines jeanchristophemarie carron tilsitt villeboisstone pierrescizewharf stoneofhauteville pierreofhauteville reinforcedconcrete vieuxlyon oldlyon unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite quaitilsitt quaifulchiron catholicchurch glisesaintgeorges churchofstgeorge churchofstgeorgelyon romancatholicchurch placefranoisbertras primatialeparish pierrebossan cardinalalbertdecourtray priestlyfraternityofstpeter motuproprioecclesiadei cardinalphilippebarbarin thefraternityofstpeter neogothicstyle charlesdufraine spire passerellestgeorges passerelledelabbpaulcouturier paulcouturierbridge saintgeorgesbridge ainayandsaintgeorges guillotire,2017,6,3,10,28,1.0247741210454415,undef
+36510871685,45.759486,4.828855,60,lyon night lyon bridge passerelledupalaisdejusticedelyon france saoneriver palaisdejusticedelyon saone,2017,8,4,15,44,1.08588992197515,undef
+37767241632,45.759316,4.829016,60,september lyon france ,2017,9,9,14,39,1.121207018643926,undef
+30792457553,45.759447,4.82892,60,lyon sane france lyon cityscape coucherdesoleil eau exterieur longexposure outdoor poselongue sunset water rhnealpes pont sonnar za,2016,12,9,18,41,0.8522322832651064,undef
+24560603637,45.759544,4.829002,60,fte lumires lyon lumire lumires spectacle canon canon dmarkiv canonef f auvergnerhnealpes france fr,2017,12,10,20,9,1.211800231750254,undef
+41302622375,45.759252,4.829013,60,lyon eglise passerelle saint george bluehour cloud lyon mai nicolassavignat nisifilters nisifrance river saone sky sunset,2018,5,1,20,26,1.3512930432900836,undef
+27099180817,45.759486,4.829072,60,blue hour lyon bluehour cloud lyon mai nicolassavignat nisifilters nisifrance river saone sky sunset auvergnerhnealpes france fr,2018,5,1,20,18,1.351287586278527,undef
+42694651401,45.759477,4.828963,60,lyon lyon auvergnerhnealpes frankreich fra,2018,6,5,11,10,1.3852929537943517,undef
+27626889077,45.759288,4.828861,60,huawei p pro lyon auvergnerhnealpes france fr huaweip prozoom x,2018,5,20,20,54,1.3699751223545826,undef
+29699590657,45.759432,4.828974,60,sanedsc lyon lugdunum ville villes ciudad streetphotography stadt city citinternationale citt town streetart street inthestreets urbanart urbanphotography urbaines papiercoll pastedpaper graffiti graffs graffik graffiti graffittis photograffik murs murales muros artmural fresquesmurales peinturesmurales critsurlemur wall wallpaintings walldrawings collage pascalrey nikon luminar aurora aurorahdr pascalreyphotographies photographiecontemporaine photo photographie photography photographiedigitale photographienumrique photographieurbaine urbain artcontemporain art artabstrait artgraphique artmoderne arturbain lasane fleuve river rivire fluss rio fiume,2018,9,11,13,23,1.4816453604723738,undef
+45105937985,45.759333,4.828888,60,fetedeslumieres ,2016,12,9,21,44,0.8523571124044668,undef
+46017399651,45.759288,4.828952,60,fetedeslumieres ,2016,12,9,21,46,0.852358476657356,undef
+45105932395,45.759327,4.828952,60,fetedeslumieres ,2016,12,9,21,47,0.8523591587838005,undef
+45102639565,45.759327,4.828952,60,fetedeslumieres ,2016,12,9,21,47,0.8523591587838005,undef
+39746335443,45.759363,4.828897,60, lyon rhne france,2018,12,8,21,33,1.568418665488984,undef
+47910893341,45.759484,4.829006,60,saint george lyon lyon pont piton ville city bridge nuit night glise church lumire light toile,2018,12,3,20,59,1.563484162788802,undef
+48796107431,45.759369,4.828997,60, ,2019,8,18,11,23,1.816514874651717,undef

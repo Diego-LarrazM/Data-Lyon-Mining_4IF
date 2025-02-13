@@ -1,0 +1,239 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4276706771,45.761359,4.830121,61,threatening weather lyon cloud lyon saone safarifnac,2009,10,17,10,47,-1.7117950740260286,undef
+4228039344,45.761447,4.830227,61,trumpet point view trumpet dailypicture,2009,11,8,12,9,-1.6901293738928822,undef
+4407539993,45.761447,4.830227,61,smoking playing dailypicture,2009,11,8,12,39,-1.6901089100995443,undef
+4551624100,45.761576,4.829832,61,wire sky tower cloud lyon suspension footbridge overcast cable,2010,3,29,19,17,-1.5513384704645383,undef
+4533987810,45.761447,4.830227,61,bonaparte bridge bridge dailypicture,2009,11,8,10,41,-1.6901894010200065,undef
+4519486187,45.761447,4.830227,61,muted trumpet dailypicture muted,2009,11,8,12,40,-1.6901082279730997,undef
+4510751948,45.76146,4.829821,61,lyon france bridge copyright france french puente europa europe european photographer view lyon lion frana cable ponte france francia fotografo reservado europeu luizfelipecastro luizfelipedasilvadecastro,2010,3,19,11,22,-1.5614851013278517,undef
+4504501538,45.761512,4.830111,61,lyon trip travel viaje bridge vacation copyright france rio river french justice europa europe european photographer lyon frias frana cable viagem pont palais france francia vacaciones fotografo rhone reservado europeu luizfelipecastro luizfelipedasilvadecastro rdano europe,2010,3,19,11,18,-1.56148782983363,undef
+4751442382,45.761447,4.830227,61,pont marchal juin bridge lyon dailypicture,2009,11,8,10,40,-1.690190083146451,undef
+5179694921,45.761385,4.8301,61, france,2010,11,14,10,13,-1.3257892688013653,undef
+5180294098,45.761385,4.8301,61, france,2010,11,14,10,12,-1.32578995092781,undef
+5179693053,45.761385,4.8301,61, france,2010,11,14,10,12,-1.32578995092781,undef
+5180292170,45.761385,4.8301,61, france,2010,11,14,10,12,-1.32578995092781,undef
+5180291778,45.761385,4.8301,61, france,2010,11,14,10,12,-1.32578995092781,undef
+5180291032,45.761385,4.8301,61, france,2010,11,14,10,12,-1.32578995092781,undef
+5179227411,45.761539,4.830025,61,tourneaux gomtrie lyon pigeon ciel nuages carr lightroom aat passerellesaintaintoine,2010,11,12,13,16,-1.3276289638224312,undef
+4165791912,45.761447,4.830227,61,perspective footbridge dailypicture,2009,11,8,10,41,-1.6901894010200065,undef
+4119343656,45.761447,4.830227,61,sax dailypicture saxophone,2009,11,8,12,36,-1.690110956478878,undef
+4110943621,45.761447,4.830227,61,justice hall footbridge bridge landscape dailypicture,2009,11,8,10,35,-1.6901934937786738,undef
+4087864406,45.761464,4.830119,61,silhouette passerelle palais justice bridge silhouette night lyon pont nuit da limited,2009,11,4,21,36,-1.693671656519651,undef
+5420978169,45.761606,4.82995,61,krapo lyon saxophone musique fanfare cuivre trompette krapo krapos,2011,2,6,12,38,-1.2431803457289925,undef
+5421585730,45.761606,4.82995,61,krapo lyon saxophone musique fanfare cuivre trompette krapo krapos,2011,2,6,12,36,-1.2431817099818816,undef
+5420976307,45.761606,4.82995,61,krapos lyon saxophone musique fanfare cuivre trompette krapo krapos,2011,2,6,12,24,-1.2431898954992169,undef
+5421584208,45.761606,4.82995,61,krapo lyon saxophone musique fanfare cuivre trompette krapo krapos,2011,2,6,12,20,-1.243192624004995,undef
+5421583116,45.761606,4.82995,61,krapos basilique lyon saxophone musique fanfare cuivre trompette krapo krapos,2011,2,6,12,29,-1.2431864848669936,undef
+5421582430,45.761606,4.82995,61,krapo lyon saxophone musique fanfare cuivre trompette krapo krapos,2011,2,6,12,24,-1.2431898954992169,undef
+5420972439,45.761606,4.82995,61,krapos lyon saxophone musique fanfare cuivre trompette krapo krapos,2011,2,6,12,20,-1.243192624004995,undef
+5420970217,45.761606,4.82995,61,krapo lyon saxophone musique fanfare cuivre trompette krapo krapos,2011,2,6,12,20,-1.243192624004995,undef
+5421577018,45.761606,4.82995,61,krapo lyon saxophone musique fanfare cuivre trompette krapo krapos,2011,2,6,12,35,-1.243182392108326,undef
+5421575692,45.761606,4.82995,61,krapotte lyon saxophone musique fanfare cuivre trompette krapo krapos,2011,2,6,12,39,-1.2431796636025478,undef
+5420965927,45.761606,4.82995,61,krapotte lyon saxophone musique fanfare cuivre trompette krapo krapos,2011,2,6,12,39,-1.2431796636025478,undef
+5421573678,45.761606,4.82995,61,krapo lyon saxophone musique fanfare cuivre trompette krapo krapos,2011,2,6,12,40,-1.2431789814761032,undef
+5420963995,45.761606,4.82995,61,krapotte lyon saxophone musique fanfare cuivre trompette krapo krapos,2011,2,6,12,40,-1.2431789814761032,undef
+5420962881,45.761606,4.82995,61,krapo lyon saxophone musique fanfare cuivre trompette krapo krapos,2011,2,6,12,41,-1.2431782993496585,undef
+5421570160,45.761606,4.82995,61,krapo lyon saxophone musique fanfare cuivre trompette krapo krapos,2011,2,6,12,41,-1.2431782993496585,undef
+5421569632,45.761606,4.82995,61,krapos lyon saxophone musique fanfare cuivre trompette krapo krapos,2011,2,6,12,11,-1.2431987631429964,undef
+5420960023,45.761606,4.82995,61,krapo lyon saxophone musique fanfare cuivre trompette krapo krapos,2011,2,6,12,11,-1.2431987631429964,undef
+5421567958,45.761606,4.82995,61,krapos lyon saxophone musique fanfare cuivre trompette krapo krapos,2011,2,6,12,9,-1.2432001273958857,undef
+5420957737,45.761606,4.82995,61,krapos lyon saxophone musique fanfare cuivre trompette krapo krapos,2011,2,6,12,9,-1.2432001273958857,undef
+5421565164,45.761606,4.82995,61,krapo lyon saxophone musique fanfare cuivre trompette krapo krapos,2011,2,6,12,6,-1.2432021737752192,undef
+5421563924,45.761606,4.82995,61,krapo lyon saxophone musique fanfare cuivre trompette krapo krapos,2011,2,6,12,3,-1.243204220154553,undef
+5421562506,45.761606,4.82995,61,krapos lyon saxophone musique fanfare cuivre trompette krapo krapos,2011,2,6,11,42,-1.2432185448098896,undef
+5420952295,45.761606,4.82995,61,krapo lyon saxophone musique fanfare cuivre trompette krapo krapos,2011,2,6,12,41,-1.2431782993496585,undef
+5421559768,45.761606,4.82995,61,krapo lyon saxophone musique fanfare cuivre trompette krapo krapos,2011,2,6,12,40,-1.2431789814761032,undef
+5421558228,45.761606,4.82995,61,krapotte lyon saxophone musique fanfare cuivre trompette krapo krapos,2011,2,6,12,38,-1.2431803457289925,undef
+5420948183,45.761606,4.82995,61,krapo lyon saxophone musique fanfare cuivre trompette krapo krapos,2011,2,6,12,37,-1.243181027855437,undef
+5420946411,45.761606,4.82995,61,krapos lyon saxophone musique fanfare cuivre trompette krapo krapos,2011,2,6,12,31,-1.2431851206141045,undef
+5421553104,45.761606,4.82995,61,krapo lyon saxophone musique fanfare cuivre trompette krapo krapos,2011,2,6,12,25,-1.243189213372772,undef
+5250474260,45.761453,4.830089,61, france light lyon fete lumieres fetedeslumieres,2010,12,10,20,50,-1.2998159401706173,undef
+5249869967,45.761453,4.830089,61, france light lyon fete lumieres fetedeslumieres,2010,12,10,20,49,-1.2998166222970615,undef
+5782509274,45.761408,4.82995,61,cable france lyon canoneos,2011,3,6,16,24,-1.215522846906545,undef
+5912701724,45.7615,4.83,61,lyon bridge,2010,7,23,19,0,-1.4374076653093677,undef
+6071598004,45.761611,4.829961,61,lyon world trip travel france tourism photo nikon europe tour lyon map tourist gps traveler,2010,9,19,15,9,-1.380594035865704,undef
+6107038353,45.761482,4.829843,61,grisaille lyonnaise morning bridge winter france reflection reflection landscape grey gris lyon hiver january reflet pont paysage janvier reflets matin grisaille sane paysageurbain,2011,1,18,10,37,-1.2619258625528385,undef
+6858079373,45.76157,4.830117,61,pont palais justice lyon bridge france lyon pont,2009,10,17,19,29,-1.7114390040219514,undef
+6674529177,45.761535,4.830003,61,passerelle palais justice lyon travel bridge france lyon,2011,11,12,14,17,-0.9690616948315006,undef
+6581263483,45.761438,4.829928,61,lyon passerelle palais justice sane lyon sane,2011,12,27,14,19,-0.9248585369690184,undef
+6842709122,45.7615,4.83,61, ,2009,7,11,22,49,-1.8075642625939248,undef
+6988832325,45.7615,4.83,61, ,2009,7,11,22,49,-1.8075642625939248,undef
+6988832011,45.7615,4.83,61, ,2009,7,11,22,49,-1.8075642625939248,undef
+6964990277,45.76158,4.82995,61,sane vue passerelle palais justice lyon,2010,11,28,16,34,-1.311777709502991,undef
+7100423691,45.7615,4.830166,61,river rhne ,2011,7,8,18,12,-1.0936486793040952,undef
+8006887994,45.761567,4.82981,61, ,2012,9,12,16,6,-0.6693974085840203,undef
+8006887198,45.761567,4.82981,61, ,2012,9,12,16,6,-0.6693974085840203,undef
+8082452830,45.761482,4.8301,61,sane france river lyon sane,2012,10,13,4,56,-0.6394043088152888,undef
+8082452442,45.761453,4.830164,61,sane france river lyon sane,2012,10,13,4,55,-0.6394049909417333,undef
+8509161977,45.761527,4.830025,61,fourviere depuis quais sane lyon square squareformat mayfair iphoneography instagramapp uploadedbyinstagram foursquarevenue db f db,2013,2,26,13,54,-0.5054496818791057,undef
+8297192624,45.7614,4.8301,61,lyon colonnes france lyon rhne fourvire rhnealpes palisdejustice passerelledupalaisdejustice colonnes,2012,12,21,23,37,-0.5708635615361912,undef
+8545827745,45.761513,4.830041,61,aubans bridge france nikon lyon ciel pont nikkor rhnealpes,2013,3,9,17,25,-0.4945008703169516,undef
+8689302075,45.761535,4.830036,61,imperium bridge bw white black france cloud nikon arch lyon wire machinehead imperium,2013,4,13,9,8,-0.4604607143524528,undef
+8839187027,45.761445,4.830014,61,saone day lyon cloudy,2013,5,25,19,51,-0.4187670996796263,undef
+8781140371,45.761497,4.830046,61,lyon quais sane love autofocus artofimages rememberthatmomentlevel,2013,5,4,15,58,-0.4395535388256931,undef
+9141392609,45.761573,4.829951,61,lyon sane ,2012,8,22,18,20,-0.6899335073249218,undef
+8980085483,45.761535,4.829982,61,passerelle palais justice lyon lyon pentaxlx kodakgold smcpentaxm mmf,2013,6,7,12,25,-0.4063019210311432,undef
+8927727618,45.761511,4.83,61,basilica notredame fourvire france lyon basilicaofnotredamedefourvire nikond ragavannatarajan,2013,6,1,13,56,-0.4121334200059643,undef
+9385620933,45.761542,4.82995,61,graffiti passerelle palais justice lyon france bridge france graffiti lyon passerelledupalaisdejustice,2013,7,12,11,8,-0.3719752719599156,undef
+9351264163,45.761535,4.830229,61,looking back east passerelle palais justice lyon bridge lyon footbridge thapril passerelledupalaisdejustice april saonebridge,2013,4,30,9,11,-0.443760212609495,undef
+9545035765,45.7615,4.830166,61,montmartre ,2013,7,18,22,48,-0.3656042109674217,undef
+9547826272,45.7615,4.830166,61,montmartre ,2013,7,18,22,48,-0.3656042109674217,undef
+9532022948,45.7615,4.830166,61,lyon ,2013,7,18,22,48,-0.3656042109674217,undef
+9532022004,45.7615,4.830166,61,lyon ,2013,7,18,22,48,-0.3656042109674217,undef
+9512001430,45.761557,4.829982,61,tribunal frankreich france lyon tourisme vacances tribunal palaisdejustice passerelle saone vieuxlyon louispierrebaltard rhne rhnealpes,2013,8,9,10,11,-0.3445108149212883,undef
+10019503875,45.7615,4.83,61,lyon bridge ,2013,9,11,12,28,-0.3120027149513442,undef
+9700795166,45.761527,4.830025,61,upload square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue db f db,2013,9,8,3,48,-0.3153042069431718,undef
+9678473260,45.761565,4.830025,61,bridge lyon rhone city bridge woman rolleiflex river lyon femme pont ville planar fleuve rhone,2013,8,27,14,27,-0.3266554731076354,undef
+10750217424,45.76155,4.829961,61,sane bridge building river boat tour embankment croixrousse lasane passerelledupalaisdejustice onlylyon pontalphonsejuin lyoncityboat barberislandcruise sanerivercruise,2013,9,25,10,24,-0.2983356295074892,undef
+12748568745,45.761625,4.829993,61,saone ,2014,2,24,16,28,-0.1487834992892542,undef
+12594598394,45.761512,4.830003,61,soleil noir blackandwhite soleil lyon noiretblanc sane,2014,2,17,16,15,-0.1556682014945262,undef
+12415860843,45.761527,4.830025,61,upload square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue db f db,2014,2,9,11,17,-0.1637295718167202,undef
+11885223473,45.761527,4.830025,61,seagull field day mouettes sen donnent coeur joie lyon morning art photography seagull river sky cloud color saxotaz winter humor france pictureoftheday instagood followme hug square sierra squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue db f db,2014,1,11,2,57,-0.1925562353651986,undef
+11777152815,45.761536,4.829827,61,basilica dame church structure structuresarchitecture lyon rhonealpes france,2013,7,14,11,8,-0.3700107477994892,undef
+11548525214,45.761512,4.830003,61,dcembre lyon lyon,2013,12,25,14,22,-0.2087874341142768,undef
+11478529746,45.761512,4.830003,61,mouettes passerelle blackandwhite noiretblanc mouettes,2013,12,21,10,5,-0.2128917889313898,undef
+11478426255,45.761512,4.830003,61,mouettes passerelle blackandwhite noiretblanc mouettes,2013,12,21,10,6,-0.2128911068049452,undef
+13764034774,45.761512,4.830003,61,dtail passerelle palais justice lyon blackandwhite noiretblanc,2014,4,10,17,11,-0.1045523742425437,undef
+14149425144,45.761475,4.829985,61, ,2014,4,18,23,33,-0.0964337052990039,undef
+13962556837,45.761475,4.829985,61, people building water river boat lyon cloudy,2014,4,18,23,31,-0.0964350695518931,undef
+14149235575,45.761475,4.829985,61, ,2014,4,18,23,30,-0.0964357516783377,undef
+13941470070,45.761561,4.830038,61,francelyon ,2014,4,23,20,26,-0.0916499525430768,undef
+14542500404,45.761512,4.830003,61,nuages lyon blackandwhite cloud lyon noiretblanc nuages,2014,6,30,17,50,-0.024962542813937,undef
+14503962971,45.761475,4.830207,61,croixrousse france lyon pontbonaparte saone croixrousee,2014,6,15,14,22,-0.03983835631761,undef
+14305320960,45.761527,4.830046,61, lyon,2014,5,4,17,31,-0.0809644417885355,undef
+14763878859,45.761527,4.830025,61,asymmetric suspension bridge passerelledupalaisdejustice,2014,8,17,21,34,0.0223388333598842,undef
+15480168649,45.761588,4.830036,61,lyon pont marchal juin bridge france night river lyon rivire pont nuit croixrousse sane,2014,10,27,19,50,0.0920084999047823,undef
+15429563932,45.761572,4.829861,61,lyon france sept france lyon,2014,9,17,16,50,0.0525952339362285,undef
+15429572122,45.761455,4.83018,61,lyon france sept france lyon,2014,9,17,14,20,0.0524929149695396,undef
+15070586513,45.761527,4.830025,61,er novembre passerelledupalaisdejustice,2014,11,1,18,14,0.0968543261671674,undef
+11405902644,45.761512,4.830003,61,sane lyon blackandwhite lyon noiretblanc sane,2013,12,15,10,48,-0.2187560299755514,undef
+11393855914,45.761527,4.830025,61,walking around gnie balade gnie lyon night art photography passerelle palais justice night beauty saxotaz fall france instagood picoftheday followme square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue db f db,2013,12,15,16,48,-0.2185104644554981,undef
+11213090634,45.76146,4.830143,61,quand soleil couche ,2013,12,3,16,27,-0.2303119340733927,undef
+11206771404,45.761445,4.830014,61,fil ,2013,12,3,14,8,-0.230406749649191,undef
+11206882573,45.761445,4.830014,61,photographe tribunal ,2013,12,3,14,9,-0.2304060675227465,undef
+16249296667,45.761583,4.829971,61, travel sunset cityscape lyon,2015,1,27,17,31,0.1822817957085965,undef
+16224165341,45.761535,4.829843,61,lyon palais justice fourviere ,2015,1,7,19,56,0.1627354624387988,undef
+16199560652,45.761565,4.829843,61,fetelumieres france lyon ftedeslumires dcembre passerelle lightfestival saone,2014,12,8,20,18,0.1332826068141845,undef
+16009692820,45.761565,4.829843,61,fetelumieres france lyon ftedeslumires dcembre passerelle lightfestival saone,2014,12,8,20,17,0.1332819246877399,undef
+16191973171,45.761565,4.829843,61,fetelumieres france lyon ftedeslumires dcembre passerelle lightfestival saone,2014,12,8,20,16,0.1332812425612953,undef
+15450145124,45.76155,4.829997,61, ,2014,6,16,10,7,-0.0390300364807679,undef
+16782350200,45.761557,4.830111,61,lyon pont marchal juin juin lyon pont paysage rhone saone marchal,2015,3,23,17,7,0.2362898390856511,undef
+16762252037,45.761632,4.829821,61,lyon pont marchal juin juin lyon pont rhone marechal saone,2015,3,23,17,5,0.2362884748327619,undef
+18273391216,45.761508,4.830163,61, nightphotography lyon,2014,9,8,22,39,0.0439929373434727,undef
+17677195514,45.761505,4.830113,61,lyon nightphotography lyon,2014,9,8,22,39,0.0439929373434727,undef
+17428468056,45.761512,4.830003,61,sane lyon blackandwhite lyon noiretblanc,2015,5,8,8,13,0.281109639254045,undef
+19242415399,45.761527,4.830079,61, ,2015,7,4,11,42,0.3372411422531161,undef
+19428589385,45.761527,4.830079,61, ,2015,7,4,11,39,0.3372390958737823,undef
+18807976543,45.761527,4.830079,61, ,2015,7,4,11,39,0.3372390958737823,undef
+20814445650,45.761572,4.829875,61,passerelle palais justice bridge france river frankreich lyon palaisdejustice footbridge basilica pedestrian pont brcke fluss fleuve sane passerelledupalaisdejustice courdassises courdappels,2015,8,29,18,15,0.3925158944377789,undef
+20940914322,45.761533,4.830205,61,canon eos morning travel france sunrise river europe lyon favourite fr vieux lyon saone rhnealpes,2015,8,28,8,1,0.391114806720586,undef
+21753304266,45.761565,4.829971,61,lyon ,2014,3,1,20,33,-0.1437050679092632,undef
+21788407471,45.761565,4.829971,61,lyon ,2014,3,1,20,33,-0.1437050679092632,undef
+21439588666,45.76146,4.830132,61,lyon passerelle palais justice sane ,2015,8,3,22,37,0.3671557974807195,undef
+21253786572,45.761547,4.830019,61,courthouse gateway lyon france city longexposure bridge france night canon lyon palaisdejustice gateway pont courthouse mm nuit ville passerelle rhnealpes samyang,2015,8,24,23,15,0.3878092219700908,undef
+20935017559,45.761572,4.829875,61,reach sky bridge france silhouette frankreich lyon basilica pont brcke tourmtalliquedefourvire,2015,8,29,18,14,0.3925152123113344,undef
+21901779720,45.761607,4.829819,61,croix rousse veille lyon coline croixrousse,2015,10,10,19,37,0.4338268361751891,undef
+23258396626,45.761475,4.829866,61,saone river lyon france city travel sky people building men water architecture building river walking french landscape woman cityscape lyon tourist tourist riverfront saone saoneriver saintgeorgesbridge stockimo vanyabovajo,2015,11,7,16,39,0.4612087559140206,undef
+22602569067,45.76152,4.830036,61,leading line bridge france night nikon lyon footbridge basilica citylights pedestrianbridge nikond nikon mmf notredamedefouvire,2015,11,6,19,15,0.4603329055591639,undef
+15796308010,45.761535,4.8301,61,palais justice lyon fetedeslumieres,2014,12,7,0,0,0.1314695147244576,undef
+15982925202,45.761535,4.8301,61,passerelle justice lyon fetedeslumieres,2014,12,7,0,0,0.1314695147244576,undef
+15796193248,45.761535,4.8301,61,passerelle justice lyon fetedeslumieres,2014,12,7,0,0,0.1314695147244576,undef
+15957815876,45.761535,4.8301,61,passerelle justice lyon fetedeslumieres,2014,12,7,0,0,0.1314695147244576,undef
+15796189528,45.761535,4.8301,61,passerelle justice lyon fetedeslumieres,2014,12,7,0,0,0.1314695147244576,undef
+15797494187,45.761475,4.830154,61,dsc x france lyon louisdespres sonya ftesdeslumirescitylightfestival fetelumiereslyon,2014,12,8,19,37,0.1332546396299562,undef
+15795939480,45.761475,4.830154,61,dsc x france lyon louisdespres sonya ftesdeslumirescitylightfestival fetelumiereslyon,2014,12,8,19,39,0.1332560038828454,undef
+15797493437,45.761475,4.830154,61,dsc x france lyon louisdespres sonya ftesdeslumirescitylightfestival fetelumiereslyon,2014,12,8,19,39,0.1332560038828454,undef
+15355730514,45.76158,4.829885,61,hi striker lyon lumires ftes,2014,12,8,20,54,0.1333071633661898,undef
+15792273867,45.76158,4.829885,61,hi striker lyon lumires ftes,2014,12,8,20,54,0.1333071633661898,undef
+15791992669,45.76158,4.829885,61,hi striker lyon lumires ftes,2014,12,8,20,54,0.1333071633661898,undef
+15977333492,45.76158,4.829885,61,hi striker lyon lumires ftes,2014,12,8,20,54,0.1333071633661898,undef
+15977332132,45.76158,4.829885,61,hi striker lyon lumires ftes,2014,12,8,20,53,0.1333064812397452,undef
+15771490028,45.761565,4.829993,61,lyonsanepontnuit lyon didou morsang longpont wissous dcembre supermimil,2014,11,30,0,13,0.1246025478067451,undef
+24759444220,45.761519,4.830186,61, ,2016,2,15,15,32,0.559389261463551,undef
+23883593140,45.761505,4.830111,61,lyon lyon,2015,12,29,10,17,0.5120258117832717,undef
+24153102396,45.761505,4.830111,61,lyon lyon,2015,12,29,10,19,0.5120271760361609,undef
+24095484756,45.761512,4.829993,61,sane lyon blackandwhite lyon noiretblanc sane,2016,1,1,14,34,0.5151479045201715,undef
+23906848836,45.76155,4.8301,61,lyon palais justice france lyon palaisdejustice rhne fourvire passerelle rhnealpes lasane lyonpresqule colonnes,2015,12,20,12,19,0.5032686724875933,undef
+26633200442,45.761565,4.829843,61,three teen walking ,2016,4,25,10,29,0.627940922765762,undef
+26244027106,45.76158,4.829843,61,lyon riverfront street travel bridge france street reflection travelling church reflection river religious travel europe catholic cathedral lyon exploring traveller religion bridge church cathedral travelling wanderlust explore traveling streetscape traveler travelblog rhone travelphotography catholic catholism travelphotographer travelblogs travelblogger traveling travelbloggers travelphotographers travelblogging weekendwayfarers,2016,4,3,8,43,0.6062588515979451,undef
+27673006012,45.761527,4.830025,61, ,2016,6,19,16,31,0.6822122669504292,undef
+27162398463,45.761527,4.830025,61, ,2016,6,19,16,31,0.6822122669504292,undef
+27699073821,45.761527,4.830025,61, ,2016,6,19,16,31,0.6822122669504292,undef
+27161658994,45.761527,4.830025,61, ,2016,6,19,16,33,0.6822136312033185,undef
+27773348505,45.761527,4.830025,61, ,2016,6,19,16,33,0.6822136312033185,undef
+28373596890,45.761688,4.829919,61,img export lyon rhnerivercruise auvergnerhnealpes france,2016,7,9,22,53,0.7021180808565272,undef
+27695688914,45.761499,4.830191,61, ,2016,7,14,21,52,0.706987781544473,undef
+27739513536,45.761527,4.830025,61, ,2016,6,19,16,33,0.6822136312033185,undef
+29413874070,45.761497,4.830218,61,quais sane lyon france lyon architecture city fleuve life people portrait river sane street ville,2015,8,21,19,6,0.3846925862447478,undef
+30384329096,45.761588,4.83,61, ,2016,6,17,13,34,0.68012700640931,undef
+30919008412,45.7615,4.83002,61,onlylyon architecture igfrance igersfrance dcouvrirensemble lovesfrance igeurope archdaily archilovers ignantpicoftheday cettesemainesurinstagram vsco vscocam freezfram vscocontest bestofvsco lesphotographes huntgramfrance instagramapp square squareformat iphoneography uploadedbyinstagram,2016,11,17,19,28,0.8306545774433122,undef
+30632225911,45.76152,4.829971,61,sane lyon sane lyon,2016,11,1,12,56,0.8146709905936211,undef
+32725218800,45.761535,4.829918,61,sane soir lyon sane lyon river fleuve reflets rflexion sunset,2017,2,19,18,30,0.9229476496495648,undef
+31896148436,45.761542,4.829939,61,bridge saone bridge brug pont lyon france saone blackandwhite black white mist river silhouet silhouette,2016,12,10,14,21,0.8530371924697254,undef
+31687783826,45.76158,4.830057,61,justice bridge lyon fdl pont justice sane supermimil,2016,12,10,11,38,0.8529260058592569,undef
+33465620762,45.761666,4.83,61,lyon lyon auvergnerhnealpes france fr,2017,3,15,11,30,0.9462354464679522,undef
+32693809663,45.7615,4.83002,61,autre cadrage mieux non onlylyon aurafocuson lyon igerslyon nuit night bridge pont passerelledupalaisdejustice instagramapp square squareformat iphoneography uploadedbyinstagram,2017,3,18,13,31,0.9492647700083874,undef
+34554580522,45.76146,4.830132,61,lyon passerelle palais justice mai may,2017,5,15,16,1,1.0063382896274409,undef
+35002714830,45.761505,4.830036,61,pont marchal juin river sane lyon passerelle palais justice lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes riversane lasane bridge pontmarchaljuin pontalphonsejuin tree tree vieuxlyon oldlyon unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite quairomainrolland bridgemarchaljuin pontduchange oldbridgeofthechange marchaljunebridge gilbertlamboley merlin palaisdejustice palaisdejusticehistoriquedelyon monumenthistorique louispierrebaltard palaisdejusticedelyon palaceofthetwentyfourcolumns neoclassicalbuilding courdappeloflyon courdassisesoflyon courdappeldelyon courdassisesdelyon neoclassicalcolonnadedcourthouse lyoncathedral cathdralesaintjeanbaptistedelyon romancatholicchurch placesaintjean saintjohnthebaptist archbishopoflyon saintpothinusandsaintirenaeus primatiale bourbonchapel cardinaldebourbon pierredebourbon lyonastronomicalclock,2017,6,3,13,9,1.0248839434030212,undef
+35387603535,45.761505,4.830036,61,passerelle palais justice river sane lyon view towards pont bonaparte lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes riversane lasane bridge tree tree vieuxlyon oldlyon unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite quairomainrolland passerelledupalaisdejustice footbridgeofthepalaisdejustice bridgeofthepalaisdejustice flyingbridge pontneuf gilbertlamboley pontbonaparte pontdelarchevch pontdebois thecountsbellecourorthechanoines jeanchristophemarie carron tilsitt villeboisstone pierrescizewharf stoneofhauteville pierreofhauteville reinforcedconcrete quaitilsitt quaifulchiron,2017,6,3,13,1,1.0248784863914644,undef
+35258266181,45.761505,4.830036,61,passerelle palais justice river sane lyon view towards pont marchal juin lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes riversane lasane bridge tree tree vieuxlyon oldlyon unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite quairomainrolland passerelledupalaisdejustice footbridgeofthepalaisdejustice bridgeofthepalaisdejustice flyingbridge pontneuf gilbertlamboley bridge pontmarchaljuin pontalphonsejuin bridgemarchaljuin pontduchange oldbridgeofthechange marchaljunebridge merlin,2017,6,3,13,0,1.02487780426502,undef
+35387516755,45.761505,4.830036,61,passerelle palais justice river sane lyon towards pont marchal juin lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes riversane lasane bridge tree tree vieuxlyon oldlyon unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite quairomainrolland passerelledupalaisdejustice footbridgeofthepalaisdejustice bridgeofthepalaisdejustice flyingbridge pontneuf gilbertlamboley pontmarchaljuin pontalphonsejuin bridgemarchaljuin pontduchange oldbridgeofthechange marchaljunebridge palaisdejustice palaisdejusticehistoriquedelyon monumenthistorique louispierrebaltard palaisdejusticedelyon palaceofthetwentyfourcolumns neoclassicalbuilding courdappeloflyon courdassisesoflyon courdappeldelyon courdassisesdelyon neoclassicalcolonnadedcourthouse fourvire metallictoweroffourvire tourmtalliquedefourvire expositionuniverselleof inlyon,2017,6,3,13,3,1.0248798506443535,undef
+34576756613,45.761505,4.830036,61,passerelle palais justice river sane lyon lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes riversane lasane bridge tree tree vieuxlyon oldlyon unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite quairomainrolland passerelledupalaisdejustice footbridgeofthepalaisdejustice bridgeofthepalaisdejustice flyingbridge pontneuf gilbertlamboley basilicaofnotredamedefourvire labasiliquenotredamedefourvire pierrebossan romanesqueandbyzantinearchitecturestyle fourvire,2017,6,3,13,3,1.0248798506443535,undef
+34999506770,45.761505,4.830036,61,passerelle palais justice river sane lyon lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes riversane lasane bridge tree tree vieuxlyon oldlyon unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite quairomainrolland passerelledupalaisdejustice footbridgeofthepalaisdejustice bridgeofthepalaisdejustice flyingbridge pontneuf gilbertlamboley basilicaofnotredamedefourvire labasiliquenotredamedefourvire pierrebossan romanesqueandbyzantinearchitecturestyle fourvire metallictoweroffourvire tourmtalliquedefourvire expositionuniverselleof inlyon palaisdejustice palaisdejusticehistoriquedelyon monumenthistorique louispierrebaltard palaisdejusticedelyon palaceofthetwentyfourcolumns neoclassicalbuilding courdappeloflyon courdassisesoflyon courdappeldelyon courdassisesdelyon neoclassicalcolonnadedcourthouse,2017,6,3,13,3,1.0248798506443535,undef
+35386185505,45.761505,4.830036,61,passerelle palais justice river sane lyon lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes riversane lasane bridge tree tree vieuxlyon oldlyon unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite quairomainrolland passerelledupalaisdejustice footbridgeofthepalaisdejustice bridgeofthepalaisdejustice flyingbridge pontneuf gilbertlamboley,2017,6,3,13,1,1.0248784863914644,undef
+36089470282,45.76155,4.829918,61,lyon passpalaisjustice ,2017,7,29,12,18,1.079855831446285,undef
+36089470142,45.76155,4.829918,61,lyon passpalaisjustice ,2017,7,29,12,18,1.079855831446285,undef
+35863078320,45.76155,4.829918,61,lyon passpalaisjustice ,2017,7,29,12,19,1.0798565135727296,undef
+35863078050,45.76155,4.829918,61,lyon passpalaisjustice ,2017,7,29,12,19,1.0798565135727296,undef
+36089465742,45.76155,4.829918,61,lyon basiliquefourvire ,2017,7,29,12,19,1.0798565135727296,undef
+35863077700,45.76155,4.829918,61,lyon basiliquefourvire ,2017,7,29,12,19,1.0798565135727296,undef
+36089465362,45.76155,4.829918,61,lyon passpalaisjustice ,2017,7,29,12,20,1.0798571956991745,undef
+35863077800,45.76155,4.829918,61,lyon basiliquefourvire ,2017,7,29,12,19,1.0798565135727296,undef
+35863077560,45.76155,4.829918,61,lyon basiliquefourvire ,2017,7,29,12,21,1.0798578778256187,undef
+35325747763,45.761655,4.830036,61, f rhone lyon,2017,6,19,14,9,1.0406410642731077,undef
+35867492191,45.76152,4.830003,61,quai sane lyon sane lyon blackandwhite noiretblanc monochrome,2017,7,17,15,59,1.0682194364279818,undef
+36596252003,45.76155,4.829858,61,passerelle palais justice iii fra auvergnerhnealpes europa europe france francia frankreich lyon nikond passerelledupalaisdejustice dsplyys hapephotographix fr lyn,2017,7,26,12,16,1.0769076809527562,undef
+36993277280,45.761561,4.829802,61,passerelle palais justice ii fra auvergnerhnealpes qmfzawxpcxvlie vdhjllurhbwugzgugrm cnzpww cour dappel lyoneuropaeuropefrancefranciafrankreichlyonnikon passerelle palais justicetour mtallique fourviredsplyyshapephotographixfrbasilique notredame fourvire lyn,2017,7,26,12,16,1.0769076809527562,undef
+37989462616,45.761542,4.830046,61, lyon auvergnerhnealpes frankreich fr france rhnealpes nikon v nikkor mmf vr nikkor,2017,4,15,12,14,0.9767155845181228,undef
+38670444800,45.761509,4.830079,61, lyon france,2017,10,12,13,24,1.1535705078076166,undef
+39770516634,45.761509,4.830079,61, lyon france,2017,10,12,13,24,1.1535705078076166,undef
+38670376830,45.761509,4.830079,61, lyon france,2017,10,12,13,19,1.1535670971753935,undef
+38670373990,45.761509,4.830079,61, lyon france,2017,10,12,13,22,1.1535691435547273,undef
+39814994191,45.761565,4.829843,61,stunt lyon sky passenger lyon airport lyon france lys,2017,12,31,9,20,1.2319850353721904,undef
+24944891377,45.761565,4.829843,61,stunt lyon sky passenger lyon airport lyon france lys,2017,12,31,9,21,1.231985717498635,undef
+27636396439,45.761569,4.830066,61,baf b adf b e f ,2017,2,17,20,20,0.9210581593980436,undef
+38705456054,45.761597,4.830005,61,bd fa f ,2017,2,17,20,20,0.9210581593980436,undef
+40628715880,45.761535,4.830154,61,fourviere passarelle palais justice lyon france,2018,5,12,9,46,1.3616613652478895,undef
+41024356855,45.761453,4.830186,61,lyon night lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,5,19,58,1.3552029920704878,undef
+28147937877,45.761577,4.829841,61, france,2018,6,18,17,33,1.3983236152654015,undef
+42844066985,45.761569,4.829939,61,sane samedi matin lyon river saone france boat morning city landscape urban bridge,2018,6,30,8,0,1.4097199017752085,undef
+42557627334,45.761605,4.82995,61,frais saone lyon,2018,7,7,22,24,1.4171850935848287,undef
+30069001957,45.761565,4.82995,61,lyon sane matin sane rhnealpes rhne lyon onlylyon,2018,9,29,10,40,1.4992148913057426,undef
+29892842327,45.761565,4.829971,61,passerelle palais justice lyon ,2018,9,19,19,13,1.4897422013696866,undef
+29892841267,45.761565,4.829971,61,passerelle palais justice lyon ,2018,9,19,19,17,1.489744929875465,undef
+29892839617,45.761565,4.829971,61,passerelle palais justice lyon ,2018,9,19,19,20,1.4897469762547988,undef
+30958115868,45.761565,4.829971,61,pont bonaparte lyon ,2018,9,19,19,21,1.4897476583812437,undef
+30958113858,45.761565,4.829971,61,fourvire lyon ,2018,9,19,19,24,1.4897497047605772,undef
+29892836017,45.761565,4.829971,61,fourvire lyon ,2018,9,19,19,24,1.4897497047605772,undef
+29882632617,45.76138,4.83018,61,lyon france lyon france francia europe europa city ciudad,2018,9,15,15,38,1.4856664958632466,undef
+44502692362,45.761535,4.830111,61,sane lyon lugdunum rhnealpes rhnevalley rhne lerhne auvergnerhnealpes valledurhne bleu blue blau azul turquoise sky ciel cielo himmel fleuve rio fiume fluss river rivire eau acqua agua water pascalrey nikon luminar pascalreyphotographies photographiecontemporaine photo photographie photography photograffik photographiedigitale photographienumrique photographieurbaine lasane,2018,9,4,11,33,1.4746944920019764,undef
+43639748095,45.761535,4.830111,61, lyon luminar lugdunum ville ciudad city town stadt citt france arturbain art artcontemporain artmoderne vieuxlyon saintjean pascalrey nikon pascalreyphotographies photo photographiecontemporaine photographie photography photograffik photographiedigitale photographienumrique photographieurbaine photographielyonnaise,2018,9,4,11,33,1.4746944920019764,undef
+45539831631,45.761519,4.830191,61,passerelle palais justice lyon france lyon nicolassavignat nisifilters nisifrance,2018,10,20,6,48,1.519684141655074,undef
+45262381994,45.761606,4.829939,61,riverbank opposite side court city lyon france face tribunal lyon ,2018,11,15,14,34,1.5455408266637969,undef
+24030748687,45.76155,4.829928,61,sane river lyon lione lyon liyon leyden lugdunum france francia frankreich frana sane sona rosaona saona river fleuve fiume flss pontbonaparte bonapartebridge bridge brcke pont puente viejalyon vieuxlyon oldlyon rhne auvergnerhnealpes rhnealpes fog foggy mist niebla neblina neblado nebel brouillard brumeux brume nebbia nebbioso foschia bruma,2016,10,29,7,34,0.8115045596378228,undef
+33109221508,45.761606,4.829939,61,city lyon france going court left side cathedral hill basilica dabord passer tribunal puis va gauche voir cathdrale finit monter vers basilique haut lyon ,2018,11,17,19,50,1.5477209027807142,undef
+40020068043,45.761606,4.829939,61,city lyon france going court hill basilica dabord passer tribunal finit basilique haut lyon ,2018,11,17,19,52,1.5477222670336035,undef
+40020064443,45.761606,4.829939,61,city lyon france going court hill basilica dabord passer tribunal finit basilique haut lyon ,2018,11,17,19,53,1.547722949160048,undef
+44539753030,45.761606,4.829939,61,first view angel court hill basilica city lyon france dabord anges puis tribunal finit basilique haut lyon ,2018,11,15,15,38,1.5455844827562506,undef
+44480911050,45.761595,4.830164,61,passerelle palais justice ,2018,12,7,18,32,1.5673129385222997,undef
+44480910220,45.761505,4.8301,61,passerelle saintgeorges ,2018,12,7,18,38,1.5673170312809672,undef
+48116115452,45.761552,4.830003,61,petits cur papier ludtz leica leitz lyon leicamtyp tlmtre tlmtrique rangefinder teleelmarit leitzcanada rhne rhnealpes bridge pont bridgeoflove pontdelamour love amour papier paper paperhearts sane river rivire fleuve summer,2019,6,22,18,0,1.7607967402780689,undef
+48375364567,45.761588,4.829833,61, ,2019,6,21,20,48,1.7599290754405472,undef
+48375363692,45.761588,4.829833,61, ,2019,6,21,20,48,1.7599290754405472,undef
+48375224166,45.761588,4.829833,61, ,2019,6,21,20,48,1.7599290754405472,undef
+48375361917,45.761588,4.829833,61, ,2019,6,21,20,48,1.7599290754405472,undef
+48375223206,45.761588,4.829833,61, ,2019,6,21,20,48,1.7599290754405472,undef
+48627384787,45.761538,4.829805,61, sane pont bridge lyon river fiume fluss france pontmarchaljuin lasane presqule vieuxlyon croixrousse riverfront,2019,4,17,19,36,1.69603292712268,undef
+48536465661,45.761552,4.83,61,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,9,51,1.793860091173911,undef
+48462748972,45.761552,4.83,61,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,9,51,1.793860091173911,undef
+48932447363,45.761538,4.829888,61,blake lyon ,2019,9,26,13,9,1.8548954011831575,undef

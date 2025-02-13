@@ -1,0 +1,28 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken,year_month
+9836196115,45.77746,4.845485,364,lac parc tte dor park lake france nature water lyon yearabroad,2013,9,20,10,49,275136540.0,Événement Temporaire,2013-09-20 10:49:00,2013-09
+9836160234,45.77746,4.845485,364,img jpg ,2013,9,20,10,48,275136480.0,Événement Temporaire,2013-09-20 10:48:00,2013-09
+9836191805,45.77746,4.845485,364,mac lyon park lake france art nature water museum lyon yearabroad maclyon,2013,9,20,10,46,275136360.0,Événement Temporaire,2013-09-20 10:46:00,2013-09
+9836205046,45.77746,4.845485,364, park lake france art nature water statue lyon yearabroad,2013,9,20,10,46,275136360.0,Événement Temporaire,2013-09-20 10:46:00,2013-09
+9836186515,45.77746,4.845485,364,red squirrel park lake france nature water lyon wildlife redsquirrel yearabroad,2013,9,20,10,45,275136300.0,Événement Temporaire,2013-09-20 10:45:00,2013-09
+9836184385,45.77746,4.845485,364,train track park lake france nature water train lyon transport traintracks yearabroad,2013,9,20,10,41,275136060.0,Événement Temporaire,2013-09-20 10:41:00,2013-09
+9836182385,45.77746,4.845485,364,train track park lake france nature water train lyon transport traintracks yearabroad,2013,9,20,10,40,275136000.0,Événement Temporaire,2013-09-20 10:40:00,2013-09
+9836147024,45.77746,4.845485,364,ville lyon park france nature sign lyon yearabroad villedelyon,2013,9,20,10,38,275135880.0,Événement Temporaire,2013-09-20 10:38:00,2013-09
+9836193496,45.77746,4.845485,364,velodrome park france nature sport cycling lyon velodrome yearabroad,2013,9,20,10,38,275135880.0,Événement Temporaire,2013-09-20 10:38:00,2013-09
+9836190346,45.77746,4.845485,364, park lake france tree bird nature water lyon yearabroad,2013,9,20,10,38,275135880.0,Événement Temporaire,2013-09-20 10:38:00,2013-09
+9836183606,45.77746,4.845485,364, park lake france nature water lyon yearabroad,2013,9,20,10,38,275135880.0,Événement Temporaire,2013-09-20 10:38:00,2013-09
+9836133124,45.77746,4.845485,364,petit lac park lake france nature water lyon yearabroad,2013,9,20,10,37,275135820.0,Événement Temporaire,2013-09-20 10:37:00,2013-09
+9836252283,45.77746,4.845485,364,tree park tree lake france nature water forest lyon yearabroad,2013,9,20,10,35,275135700.0,Événement Temporaire,2013-09-20 10:35:00,2013-09
+9836249403,45.77746,4.845485,364, park lake france nature water lyon yearabroad,2013,9,20,10,33,275135580.0,Événement Temporaire,2013-09-20 10:33:00,2013-09
+9836246653,45.77746,4.845485,364, park lake france nature water lyon yearabroad,2013,9,20,10,33,275135580.0,Événement Temporaire,2013-09-20 10:33:00,2013-09
+9836170996,45.77746,4.845485,364,lyon across lake park lake france nature water lyon yearabroad,2013,9,20,10,32,275135520.0,Événement Temporaire,2013-09-20 10:32:00,2013-09
+9836169076,45.77746,4.845485,364, ,2013,9,20,10,31,275135460.0,Événement Temporaire,2013-09-20 10:31:00,2013-09
+9836117794,45.77746,4.845485,364, park house lake france nature water lyon yearabroad,2013,9,20,10,30,275135400.0,Événement Temporaire,2013-09-20 10:30:00,2013-09
+9836115614,45.77746,4.845485,364, park lake france nature water lyon yearabroad,2013,9,20,10,28,275135280.0,Événement Temporaire,2013-09-20 10:28:00,2013-09
+9836147375,45.77746,4.845485,364, park lake france tree nature water lyon yearabroad,2013,9,20,10,27,275135220.0,Événement Temporaire,2013-09-20 10:27:00,2013-09
+9836145135,45.77746,4.845485,364,lac parc tte dor park lake france nature water lyon yearabroad,2013,9,20,10,26,275135160.0,Événement Temporaire,2013-09-20 10:26:00,2013-09
+9836109594,45.77746,4.845485,364,pigeon park lake france bird nature water lyon pigeon yearabroad,2013,9,20,10,25,275135100.0,Événement Temporaire,2013-09-20 10:25:00,2013-09
+9836107344,45.77746,4.845485,364,parc tte dor park france nature lyon yearabroad,2013,9,20,10,25,275135100.0,Événement Temporaire,2013-09-20 10:25:00,2013-09
+9836105084,45.77746,4.845485,364, ,2013,9,20,10,24,275135040.0,Événement Temporaire,2013-09-20 10:24:00,2013-09
+9836103314,45.77746,4.845485,364, park france art nature statue lyon yearabroad,2013,9,20,10,21,275134860.0,Événement Temporaire,2013-09-20 10:21:00,2013-09
+9836149696,45.77746,4.845485,364,lyon ,2013,9,20,10,21,275134860.0,Événement Temporaire,2013-09-20 10:21:00,2013-09
+9836098064,45.77746,4.845485,364,onlylyon parc tete dor france lyon parc yearabroad onlylyon,2013,9,20,10,21,275134860.0,Événement Temporaire,2013-09-20 10:21:00,2013-09

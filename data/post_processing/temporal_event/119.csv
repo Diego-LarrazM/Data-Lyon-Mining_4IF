@@ -1,0 +1,60 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+4283082786,45.772215,4.831709,119,word wall lyon france streetart france wall grande word europe lyon cte mur monte mot croixrousse frontires capitalisme exploit,2010,1,15,15,21,159031260.0,undef,2010-01-15 15:21:00
+4177061054,45.772028,4.831784,119,monte grande cte light france festival light europe lyon rhne fte premier festivaloflights lumires er december th ftedeslumires dcembre grandlyon rhnealpes december dec december erarrondissement thdecember premierarrondissement ftedeslumires,2009,12,7,21,43,155684580.0,undef,2009-12-07 21:43:00
+4177060490,45.772028,4.831784,119,monte grande cte light france festival light europe lyon rhne fte premier festivaloflights lumires er december th ftedeslumires dcembre grandlyon rhnealpes december dec december erarrondissement thdecember premierarrondissement ftedeslumires,2009,12,7,21,43,155684580.0,undef,2009-12-07 21:43:00
+4177059978,45.772028,4.831784,119,monte grande cte light france festival light europe lyon rhne fte premier festivaloflights lumires er december th ftedeslumires dcembre grandlyon rhnealpes december dec december erarrondissement thdecember premierarrondissement ftedeslumires,2009,12,7,21,42,155684520.0,undef,2009-12-07 21:42:00
+4176300545,45.772028,4.831784,119,monte grande cte light france festival light europe lyon rhne fte premier festivaloflights lumires er december th ftedeslumires dcembre grandlyon rhnealpes december dec december erarrondissement thdecember premierarrondissement ftedeslumires,2009,12,7,21,40,155684400.0,undef,2009-12-07 21:40:00
+4177058796,45.772028,4.831784,119,monte grande cte light france festival light europe lyon rhne fte premier festivaloflights lumires er december th ftedeslumires dcembre grandlyon rhnealpes december dec december erarrondissement thdecember premierarrondissement ftedeslumires,2009,12,7,21,38,155684280.0,undef,2009-12-07 21:38:00
+4176299425,45.772028,4.831784,119,monte grande cte light france festival light europe lyon rhne fte premier festivaloflights lumires er december th ftedeslumires dcembre grandlyon rhnealpes december dec december erarrondissement thdecember premierarrondissement ftedeslumires,2009,12,7,21,37,155684220.0,undef,2009-12-07 21:37:00
+4177057608,45.772028,4.831784,119,monte grande cte light france festival light europe lyon rhne fte premier festivaloflights lumires er december th ftedeslumires dcembre grandlyon rhnealpes december dec december erarrondissement thdecember premierarrondissement ftedeslumires,2009,12,7,21,37,155684220.0,undef,2009-12-07 21:37:00
+4678579819,45.772177,4.831827,119,pentes croix rousse lyon croixrousse fabien drugeon pentaxk djustpentax hayateballade,2010,6,7,15,28,171386880.0,undef,2010-06-07 15:28:00
+4167966650,45.772155,4.831731,119,printemps lumineux monte grande cte lyon rhne ftedeslumires,2009,12,8,1,59,155699940.0,undef,2009-12-08 01:59:00
+5633478449,45.772114,4.831786,119,fte lumires light game lyon spaceinvaders celebration lumieres ftedeslumires shootemup,2010,12,22,10,47,188477220.0,undef,2010-12-22 10:47:00
+6410782269,45.772155,4.831731,119,monte grande cte croixrousse littleplanet petiteplante,2011,11,27,12,37,217859820.0,undef,2011-11-27 12:37:00
+6402322817,45.772155,4.831731,119,monte grande cte croixrousse lyon littleplanet petiteplante,2011,11,26,0,58,217731480.0,undef,2011-11-26 00:58:00
+6767550327,45.772114,4.831786,119,fte lumires light lyon celebration lumieres ftedeslumires montedelagrandecte,2011,12,9,21,57,218930220.0,undef,2011-12-09 21:57:00
+6767526989,45.772114,4.831786,119,fte lumires light lyon celebration lumieres ftedeslumires montedelagrandecte,2011,12,9,21,53,218929980.0,undef,2011-12-09 21:53:00
+6767526825,45.772114,4.831786,119,fte lumires light lyon celebration lumieres ftedeslumires montedelagrandecte,2011,12,9,21,53,218929980.0,undef,2011-12-09 21:53:00
+6767526611,45.772114,4.831786,119,fte lumires light lyon celebration lumieres ftedeslumires montedelagrandecte,2011,12,9,21,49,218929740.0,undef,2011-12-09 21:49:00
+6767526331,45.772114,4.831786,119,fte lumires light lyon celebration lumieres ftedeslumires montedelagrandecte,2011,12,9,21,47,218929620.0,undef,2011-12-09 21:47:00
+6653348977,45.772043,4.831817,119, fetedelumiere,2011,12,10,18,7,219002820.0,undef,2011-12-10 18:07:00
+6653342639,45.772043,4.831817,119, fetedelumiere,2011,12,10,18,7,219002820.0,undef,2011-12-10 18:07:00
+6520050559,45.772155,4.831731,119,fte lumires monte grande cte ,2011,12,16,1,50,219462600.0,undef,2011-12-16 01:50:00
+6492411791,45.772155,4.831731,119,fte lumires monte grande cte ,2011,12,11,14,53,219077580.0,undef,2011-12-11 14:53:00
+7317180958,45.772206,4.831681,119,sans titre ,2011,7,23,0,0,206841600.0,undef,2011-07-23 00:00:00
+7317180856,45.772206,4.831702,119,sans titre ,2011,7,23,0,0,206841600.0,undef,2011-07-23 00:00:00
+7002250522,45.772159,4.831661,119,stencil pavement lyon france streetart france stencil europe lyon pavement trottoir pochoir croixrousse partagent degagent,2012,4,13,17,6,229799160.0,undef,2012-04-13 17:06:00
+8063159660,45.772118,4.831677,119,pasted paper lyon france streetart france pasteup collage paper europe lyon wheatpaste pasted baudelaire croixrousse wheatpaper,2012,9,17,16,42,243362520.0,undef,2012-09-17 16:42:00
+8370221247,45.772114,4.831786,119,fte lumires ,2012,12,9,0,20,250474800.0,undef,2012-12-09 00:20:00
+8371287138,45.772114,4.831786,119,fte lumires ,2012,12,9,0,30,250475400.0,undef,2012-12-09 00:30:00
+8370220997,45.772114,4.831786,119,fte lumires ,2012,12,9,0,23,250474980.0,undef,2012-12-09 00:23:00
+8371286950,45.772114,4.831786,119,fte lumires ,2012,12,9,0,19,250474740.0,undef,2012-12-09 00:19:00
+11504388746,45.772207,4.831699,119,sticker mateo lyon france streetart france sticker europe lyon mandala mateo croixrousse,2013,11,15,16,6,279993960.0,undef,2013-11-15 16:06:00
+11249185355,45.772155,4.831731,119,monte grande cte printemps hiver ,2013,12,7,10,50,281875800.0,undef,2013-12-07 10:50:00
+11249224594,45.772155,4.831731,119,monte grande cte printemps hiver ,2013,12,7,10,51,281875860.0,undef,2013-12-07 10:51:00
+11249184125,45.772155,4.831731,119,monte grande cte printemps hiver ,2013,12,7,10,53,281875980.0,undef,2013-12-07 10:53:00
+11248661773,45.772155,4.831731,119,monte grande cote printemps hiver lyon rhne fte lumires,2013,12,7,9,43,281871780.0,undef,2013-12-07 09:43:00
+16644900576,45.772114,4.831786,119,fte lumires lyon lumires ftedeslumires,2013,12,9,19,14,282078840.0,undef,2013-12-09 19:14:00
+16670844305,45.772114,4.831786,119,fte lumires lyon lumires ftedeslumires,2013,12,9,19,5,282078300.0,undef,2013-12-09 19:05:00
+16669467461,45.772114,4.831786,119,fte lumires lyon lumires ftedeslumires,2013,12,9,19,1,282078060.0,undef,2013-12-09 19:01:00
+16669466081,45.772114,4.831786,119,fte lumires lyon lumires ftedeslumires,2013,12,6,19,31,281820660.0,undef,2013-12-06 19:31:00
+16475596528,45.772114,4.831786,119,fte lumires lyon lumires ftedeslumires,2013,12,6,19,14,281819640.0,undef,2013-12-06 19:14:00
+16637244136,45.772114,4.831786,119,fte lumires lyon lumires ftedeslumires,2013,12,6,19,28,281820480.0,undef,2013-12-06 19:28:00
+16662149822,45.772114,4.831786,119,fte lumires lyon lumires ftedeslumires,2013,12,6,19,15,281819700.0,undef,2013-12-06 19:15:00
+16455863217,45.772114,4.831786,119,fte lumires lyon lumires ftedeslumires,2013,12,6,19,6,281819160.0,undef,2013-12-06 19:06:00
+16447147348,45.772114,4.831786,119,fte lumires lyon lumires ftedeslumires,2013,12,6,19,0,281818800.0,undef,2013-12-06 19:00:00
+16608360766,45.772114,4.831786,119,fte lumires lyon lumires ftedeslumires,2013,12,6,19,1,281818860.0,undef,2013-12-06 19:01:00
+16608360346,45.772114,4.831786,119,fte lumires lyon lumires ftedeslumires,2015,1,9,13,58,316274280.0,undef,2015-01-09 13:58:00
+16608359606,45.772114,4.831786,119,fte lumires lyon lumires ftedeslumires,2013,12,6,18,57,281818620.0,undef,2013-12-06 18:57:00
+16012159364,45.772114,4.831786,119,fte lumires lyon lumires ftedeslumires,2013,12,6,18,54,281818440.0,undef,2013-12-06 18:54:00
+16418770847,45.772114,4.831786,119,fte lumires lyon lumires ftedeslumires,2013,12,6,18,48,281818080.0,undef,2013-12-06 18:48:00
+15835160959,45.77218,4.831738,119,light move france night nikon lyon nikkor nuit festivaloflights croixrousse ftedeslumires rhnealpes fetedeslumieres fetedeslumires,2014,12,8,12,53,313505580.0,undef,2014-12-08 12:53:00
+16495528439,45.772114,4.831786,119,fte lumires lyon lumires ftedeslumires,2013,12,9,19,15,282078900.0,undef,2013-12-09 19:15:00
+15785498877,45.772097,4.831697,119,lyon fte lumires canon lyon fte lumires rhnealpes patman eos ftedeslumires,2014,12,7,22,10,313452600.0,undef,2014-12-07 22:10:00
+15336781914,45.772155,4.831731,119,fte lumires monte grandcte ,2014,12,6,14,40,313339200.0,undef,2014-12-06 14:40:00
+15958403732,45.772155,4.831731,119,fte lumires monte grandcte ,2014,12,6,14,41,313339260.0,undef,2014-12-06 14:41:00
+26306368821,45.772114,4.831786,119,fte lumires lyon lumires ftedeslumires,2015,1,3,19,42,315776520.0,undef,2015-01-03 19:42:00
+26372581315,45.772114,4.831786,119,fte lumires lyon lumires ftedeslumires,2015,1,3,19,39,315776340.0,undef,2015-01-03 19:39:00
+26245663091,45.772114,4.831786,119,fte lumires lyon lumires ftedeslumires,2015,1,3,19,31,315775860.0,undef,2015-01-03 19:31:00
+26219497482,45.772114,4.831786,119,fte lumires lyon lumires ftedeslumires,2015,1,3,18,30,315772200.0,undef,2015-01-03 18:30:00
+27913731858,45.772147,4.831755,119, ,2018,4,14,18,59,419194740.0,undef,2018-04-14 18:59:00

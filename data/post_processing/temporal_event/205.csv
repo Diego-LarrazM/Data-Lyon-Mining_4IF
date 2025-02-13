@@ -1,0 +1,66 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+6941061480,45.760333,4.820333,205, ,2012,4,17,9,7,230116020.0,undef,2012-04-17 09:07:00
+8429755104,45.760333,4.820333,205, france lyon,2013,1,29,12,48,254926080.0,undef,2013-01-29 12:48:00
+8710123557,45.760416,4.820337,205,muse galloromain museum lyon theatre aquarelle sketching musee neocolor croquis romantheater galloromain urbansketchers randocroquis,2013,5,5,19,5,263243100.0,undef,2013-05-05 19:05:00
+9413595350,45.760385,4.820322,205, france tourism lyon prehistoric stoneage vieuxlyon oldlyon galloromanmuseum museedelacivilisationgalloromaine,2012,8,11,14,52,240159120.0,undef,2012-08-11 14:52:00
+9410827451,45.760385,4.820322,205, france building tourism architecture stair lyon interior winding vieuxlyon oldlyon galloromanmuseum museedelacivilisationgalloromaine,2012,8,11,14,52,240159120.0,undef,2012-08-11 14:52:00
+9410823865,45.760385,4.820322,205, france building tourism architecture stair lyon interior winding vieuxlyon oldlyon galloromanmuseum museedelacivilisationgalloromaine,2012,8,11,14,52,240159120.0,undef,2012-08-11 14:52:00
+14088241043,45.760435,4.820305,205,dfaut vaches pig gaulois boar cochons poids sangliers galloromain pesons,2012,2,29,15,58,225993480.0,undef,2012-02-29 15:58:00
+22561621871,45.76038,4.820358,205,muse galloromain france lyon fourvire,2014,12,20,13,54,314546040.0,undef,2014-12-20 13:54:00
+22524431796,45.76038,4.820358,205,muse galloromain france lyon fourvire,2014,12,20,13,55,314546100.0,undef,2014-12-20 13:55:00
+22362689178,45.76038,4.820358,205,muse galloromain france lyon fourvire,2014,12,20,13,59,314546340.0,undef,2014-12-20 13:59:00
+22536842212,45.76038,4.820358,205,muse galloromain france lyon fourvire,2014,12,20,14,4,314546640.0,undef,2014-12-20 14:04:00
+22362656248,45.76038,4.820358,205,muse galloromain france lyon fourvire,2014,12,20,14,4,314546640.0,undef,2014-12-20 14:04:00
+22536817622,45.76038,4.820358,205,muse galloromain france lyon fourvire,2014,12,20,14,18,314547480.0,undef,2014-12-20 14:18:00
+22536801712,45.76038,4.820358,205,muse galloromain france lyon fourvire,2014,12,20,14,18,314547480.0,undef,2014-12-20 14:18:00
+21927589574,45.76038,4.820358,205,muse galloromain france lyon fourvire,2014,12,20,14,19,314547540.0,undef,2014-12-20 14:19:00
+22362619298,45.76038,4.820358,205,muse galloromain france lyon fourvire,2014,12,20,14,21,314547660.0,undef,2014-12-20 14:21:00
+22524335656,45.76038,4.820358,205,muse galloromain france lyon fourvire,2014,12,20,14,26,314547960.0,undef,2014-12-20 14:26:00
+22524325216,45.76038,4.820358,205,muse galloromain france lyon fourvire,2014,12,20,14,27,314548020.0,undef,2014-12-20 14:27:00
+22561496721,45.76038,4.820358,205,muse galloromain france lyon fourvire,2014,12,20,14,29,314548140.0,undef,2014-12-20 14:29:00
+21929098593,45.76038,4.820358,205,muse galloromain france lyon fourvire,2014,12,20,14,42,314548920.0,undef,2014-12-20 14:42:00
+22536746562,45.76038,4.820358,205,muse galloromain france lyon fourvire,2014,12,20,14,47,314549220.0,undef,2014-12-20 14:47:00
+22362338880,45.76038,4.820358,205,muse galloromain france lyon fourvire,2014,12,20,14,51,314549460.0,undef,2014-12-20 14:51:00
+22362329930,45.76038,4.820358,205,muse galloromain france lyon fourvire,2014,12,20,14,54,314549640.0,undef,2014-12-20 14:54:00
+22363444099,45.76038,4.820358,205,muse galloromain france lyon fourvire,2014,12,20,15,7,314550420.0,undef,2014-12-20 15:07:00
+21927491304,45.76038,4.820358,205,muse galloromain france lyon fourvire,2014,12,20,15,9,314550540.0,undef,2014-12-20 15:09:00
+22536687212,45.76038,4.820358,205,muse galloromain france lyon fourvire,2014,12,20,15,13,314550780.0,undef,2014-12-20 15:13:00
+28009077020,45.7604,4.820365,205, ,2016,7,13,12,46,363876360.0,undef,2016-07-13 12:46:00
+27674429414,45.7604,4.820365,205, ,2016,7,13,12,37,363875820.0,undef,2016-07-13 12:37:00
+28186381922,45.7604,4.820365,205, ,2016,7,13,12,24,363875040.0,undef,2016-07-13 12:24:00
+28255810086,45.760398,4.820411,205, ,2016,7,13,12,21,363874860.0,undef,2016-07-13 12:21:00
+34910684212,45.76045,4.820402,205,france auvergnerhnealpes france fra,2017,5,9,5,8,389768880.0,undef,2017-05-09 05:08:00
+42779193664,45.760391,4.820397,205,roman ruin amphitheater lugdunum lyon theatre romains ancient theatre fourviere amphitheater lugdunum lyon romanruins theatresromains ancienttheatreoffourviere france,2018,6,25,3,36,425360160.0,undef,2018-06-25 03:36:00
+43448080752,45.760391,4.820397,205,roman ruin amphitheater lugdunum lyon theatre romains ancient theatre fourviere amphitheater lugdunum lyon romanruins theatresromains france,2018,6,25,3,33,425359980.0,undef,2018-06-25 03:33:00
+43448064002,45.760391,4.820397,205,roman ruin amphitheater lugdunum lyon theatre romains ancient theatre fourviere amphitheater lugdunum lyon romanruins theatresromains france,2018,6,25,3,27,425359620.0,undef,2018-06-25 03:27:00
+48216166596,45.760406,4.820388,205,musee darcheologie romaine admiration ,2019,6,9,12,57,455547420.0,undef,2019-06-09 12:57:00
+48889776111,45.760412,4.820294,205, lyon lugdunum muse thtres romains antiquit,2019,9,21,16,11,464544660.0,undef,2019-09-21 16:11:00
+48889956087,45.760412,4.820294,205, lyon lugdunum muse thtres romains jeux antiquit,2019,9,21,16,9,464544540.0,undef,2019-09-21 16:09:00
+48889775941,45.760412,4.820294,205, lyon lugdunum muse thtres romains antiquit,2019,9,21,16,8,464544480.0,undef,2019-09-21 16:08:00
+48889242143,45.760412,4.820294,205, lyon lugdunum muse thtres romains antiquit amphithtre gallo,2019,9,21,16,6,464544360.0,undef,2019-09-21 16:06:00
+48889775801,45.760412,4.820294,205, lyon lugdunum muse thtres romains antiquit,2019,9,21,16,6,464544360.0,undef,2019-09-21 16:06:00
+48889775741,45.760412,4.820294,205, lyon lugdunum muse thtres romains antiquit,2019,9,21,16,5,464544300.0,undef,2019-09-21 16:05:00
+48889241928,45.760412,4.820294,205, lyon lugdunum muse thtres romains antiquit,2019,9,21,16,4,464544240.0,undef,2019-09-21 16:04:00
+48889955592,45.760412,4.820294,205, lyon lugdunum muse thtres romains jeux antiquit,2019,9,21,16,3,464544180.0,undef,2019-09-21 16:03:00
+48889775511,45.760412,4.820294,205, lyon lugdunum muse thtres romains jeux antiquit,2019,9,21,15,57,464543820.0,undef,2019-09-21 15:57:00
+48889241693,45.760412,4.820294,205, lyon lugdunum muse thtres romains jeux antiquit,2019,9,21,15,49,464543340.0,undef,2019-09-21 15:49:00
+48889955367,45.760412,4.820294,205, lyon lugdunum muse thtres romains jeux antiquit,2019,9,21,15,49,464543340.0,undef,2019-09-21 15:49:00
+48889775266,45.760412,4.820294,205, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,48,464543280.0,undef,2019-09-21 15:48:00
+48889241333,45.760412,4.820294,205, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,46,464543160.0,undef,2019-09-21 15:46:00
+48889241208,45.760412,4.820294,205, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,44,464543040.0,undef,2019-09-21 15:44:00
+48889774936,45.760412,4.820294,205, lyon lugdunum muse thtres romains antiquit amphithtre gallo,2019,9,21,15,43,464542980.0,undef,2019-09-21 15:43:00
+48889954862,45.760412,4.820294,205, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,42,464542920.0,undef,2019-09-21 15:42:00
+48889240903,45.760412,4.820294,205, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,41,464542860.0,undef,2019-09-21 15:41:00
+48889774726,45.760412,4.820294,205, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,37,464542620.0,undef,2019-09-21 15:37:00
+48889240688,45.760412,4.820294,205, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,35,464542500.0,undef,2019-09-21 15:35:00
+48889954457,45.760412,4.820294,205, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,29,464542140.0,undef,2019-09-21 15:29:00
+48889954402,45.760412,4.820294,205, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,27,464542020.0,undef,2019-09-21 15:27:00
+48889954272,45.760412,4.820294,205, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,26,464541960.0,undef,2019-09-21 15:26:00
+48889774251,45.760412,4.820294,205, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,25,464541900.0,undef,2019-09-21 15:25:00
+48889774151,45.760412,4.820294,205, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,25,464541900.0,undef,2019-09-21 15:25:00
+48889240173,45.760412,4.820294,205, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,23,464541780.0,undef,2019-09-21 15:23:00
+48889773956,45.760412,4.820294,205, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,22,464541720.0,undef,2019-09-21 15:22:00
+48889953792,45.760412,4.820294,205, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,21,464541660.0,undef,2019-09-21 15:21:00
+48889773731,45.760412,4.820294,205, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,38,464542680.0,undef,2019-09-21 15:38:00
+48889953607,45.760412,4.820294,205, lyon lugdunum muse thtres romains jeux antiquit,2019,9,21,15,49,464543340.0,undef,2019-09-21 15:49:00
+48889239638,45.760412,4.820294,205, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,40,464542800.0,undef,2019-09-21 15:40:00

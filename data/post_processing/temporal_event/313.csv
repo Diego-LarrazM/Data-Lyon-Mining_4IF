@@ -1,0 +1,43 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+4330843094,45.761615,4.829792,313,pont marechal juin juin lyon pont saone marechal,2009,11,8,11,44,153143040.0,undef,2009-11-08 11:44:00
+4610076622,45.761466,4.829778,313, street art lomo lyon cline passerelle saone,2010,5,9,11,45,168867900.0,undef,2010-05-09 11:45:00
+5268064746,45.761461,4.82976,313,patience france canon lyon cable rhne bleu ciel j oiseau mouette passerelle oltusfotos,2010,12,10,10,21,187438860.0,undef,2010-12-10 10:21:00
+6526959541,45.761497,4.829703,313,bridge bridge bw white black st noir jean lyon nb spia passerelle grdiii nlanc,2011,11,20,17,1,217270860.0,undef,2011-11-20 17:01:00
+7956768772,45.761497,4.829703,313,perfect angle street lyon streetphotography ricoh grd grdiii,2012,9,8,15,21,242580060.0,undef,2012-09-08 15:21:00
+9342790000,45.761572,4.829746,313,west bank saone lyon bridge lyon palaisdejustice footbridge basilica notredamedefourvire saone riversaone basilicaofnotredamedefourvire thapril passerelledupalaisdejustice notredamedefourvirelyon april saonebridge basilicadenotredamedefourvire basilicadenotredamedefourvirelyon basilicaofnotredamedefourvirelyon,2013,4,30,9,7,262775220.0,undef,2013-04-30 09:07:00
+9342764464,45.761572,4.829746,313,passerelle palais justice lyon bridge lyon palaisdejustice footbridge basilica notredamedefourvire saone riversaone basilicaofnotredamedefourvire tourmetallique thapril passerelledupalaisdejustice notredamedefourvirelyon april basilicadenotredamedefourvire basilicadenotredamedefourvirelyon basilicaofnotredamedefourvirelyon,2013,4,30,9,10,262775400.0,undef,2013-04-30 09:10:00
+9342748692,45.761572,4.829746,313,approach justice lyon bridge lyon palaisdejustice footbridge basilica notredamedefourvire saone riversaone basilicaofnotredamedefourvire tourmetallique thapril passerelledupalaisdejustice notredamedefourvirelyon april saonebridge basilicadenotredamedefourvire basilicadenotredamedefourvirelyon basilicaofnotredamedefourvirelyon,2013,4,30,9,11,262775460.0,undef,2013-04-30 09:11:00
+9339944987,45.761572,4.829746,313,palais justice lyon bridge lyon palaisdejustice footbridge basilica notredamedefourvire saone riversaone basilicaofnotredamedefourvire tourmetallique thapril passerelledupalaisdejustice notredamedefourvirelyon april saonebridge basilicadenotredamedefourvire basilicadenotredamedefourvirelyon basilicaofnotredamedefourvirelyon,2013,4,30,8,5,262771500.0,undef,2013-04-30 08:05:00
+9296600036,45.761572,4.829767,313,palais justice historique lyon justice lyon palais basilique historique fourvire,2013,7,13,13,5,269183100.0,undef,2013-07-13 13:05:00
+9937578755,45.761587,4.829714,313,blue hour lyon france evening europe lyon rhne bluehour rhnealpes sane yolandamiel flickrstruereflection,2013,7,20,22,18,269821080.0,undef,2013-07-20 22:18:00
+9693150324,45.761497,4.829703,313,electrotrottinette lyon mm gr ricoh,2013,9,6,15,54,273945240.0,undef,2013-09-06 15:54:00
+9689907589,45.761497,4.829703,313,passerelle palais justice iii lyon mm gr ricoh,2013,9,6,15,51,273945060.0,undef,2013-09-06 15:51:00
+9689903417,45.761497,4.829703,313,ptite quiquette lyon mm gr ricoh,2013,9,6,15,49,273944940.0,undef,2013-09-06 15:49:00
+9693136250,45.761497,4.829703,313,passerelle palais justice ii lyon mm gr ricoh,2013,9,6,15,48,273944880.0,undef,2013-09-06 15:48:00
+9689893349,45.761497,4.829703,313,passerelle palais justice lyon mm gr ricoh,2013,9,6,15,48,273944880.0,undef,2013-09-06 15:48:00
+9693124640,45.761497,4.829703,313,matricule ix ii lyon mm gr ricoh,2013,9,6,15,47,273944820.0,undef,2013-09-06 15:47:00
+9693121856,45.761497,4.829703,313,passerelle ii lyon mm gr ricoh,2013,9,6,15,47,273944820.0,undef,2013-09-06 15:47:00
+9693119882,45.761497,4.829703,313,passerelle lyon mm gr ricoh,2013,9,6,15,45,273944700.0,undef,2013-09-06 15:45:00
+9686033427,45.761497,4.829703,313,justice ii bw mm nb gr ricoh,2013,9,6,15,48,273944880.0,undef,2013-09-06 15:48:00
+11090042313,45.761497,4.829703,313,passerelle stjean lyon mm gr ricoh,2013,11,25,15,44,280856640.0,undef,2013-11-25 15:44:00
+11089922574,45.761497,4.829703,313,passerelle stjean ii lyon mm gr ricoh,2013,11,25,15,47,280856820.0,undef,2013-11-25 15:47:00
+11090001793,45.761497,4.829703,313,passerelle stjean graphland lyon mm gr ricoh,2013,11,25,15,49,280856940.0,undef,2013-11-25 15:49:00
+11089807356,45.761497,4.829703,313,justice winter color lyon mm gr ricoh,2013,11,25,15,52,280857120.0,undef,2013-11-25 15:52:00
+11089889173,45.761497,4.829703,313,passerelle stjean street ii lyon mm gr ricoh,2013,11,25,15,53,280857180.0,undef,2013-11-25 15:53:00
+11089727564,45.761497,4.829703,313,passerelle stjean street lyon mm gr ricoh,2013,11,25,15,54,280857240.0,undef,2013-11-25 15:54:00
+11089709414,45.761497,4.829703,313,winter coming lyon mm gr ricoh,2013,11,25,15,54,280857240.0,undef,2013-11-25 15:54:00
+11089690304,45.761497,4.829703,313,parvis lancien palais justice lyon mm gr ricoh,2013,11,25,15,56,280857360.0,undef,2013-11-25 15:56:00
+11089550245,45.761497,4.829703,313,lancien palais justice lyon mm gr ricoh,2013,11,25,15,58,280857480.0,undef,2013-11-25 15:58:00
+10607026874,45.761587,4.829714,313,night lyon city blue urban france night europe tour lyon palaisdejustice hour nuit nocturne ville basilique fourvire notredamedefourvire sane mtallique rhnealpes paysageurbain yolandamiel,2013,7,20,22,19,269821140.0,undef,2013-07-20 22:19:00
+12016347575,45.761587,4.829714,313,lyon night city urban france night court europe lyon palaisdejustice rhne gateway tribunal basilique fourvire passerelle passerelledupalaisdejustice rhnealpe yolandamiel,2014,1,16,18,53,285360780.0,undef,2014-01-16 18:53:00
+15480649888,45.761633,4.829757,313,lyon quais sane france reflection water night river eau lyon rivire reflet nuit sane,2014,10,27,19,47,309901620.0,undef,2014-10-27 19:47:00
+24687396209,45.761591,4.829744,313, ,2016,2,15,15,33,351012780.0,undef,2016-02-15 15:33:00
+29495821310,45.761584,4.829692,313,palacio justicia lyon france sane lyon palais palace justice street,2016,2,29,17,22,352228920.0,undef,2016-02-29 17:22:00
+29676940905,45.761625,4.829778,313,fourvire ,2016,9,13,20,44,369261840.0,undef,2016-09-13 20:44:00
+29418188992,45.761566,4.829716,313, ,2016,9,5,22,12,368575920.0,undef,2016-09-05 22:12:00
+31609674911,45.761505,4.829789,313,lyon sane sane lyon,2016,12,12,16,48,377023680.0,undef,2016-12-12 16:48:00
+33256301972,45.761625,4.829778,313,lyon france part lyon france laroane oldlyon,2013,1,15,3,38,253683480.0,undef,2013-01-15 03:38:00
+33280835263,45.761565,4.829746,313,palais justice ,2017,4,13,20,26,387577560.0,undef,2017-04-13 20:26:00
+35321071545,45.761666,4.829722,313,lyon lyon,2017,4,1,14,47,386520420.0,undef,2017-04-01 14:47:00
+40463167902,45.761602,4.829755,313,interesting riverfront walkway industrial design ,2015,9,24,6,51,338539860.0,undef,2015-09-24 06:51:00
+48932446873,45.761486,4.82973,313,sane river ,2019,9,27,3,57,465019020.0,undef,2019-09-27 03:57:00

@@ -1,0 +1,47 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken,year_month
+31339925227,45.759993,4.829907,347,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination nuit night palaisdejustice fourvire basilique,2018,12,6,23,38,439601880.0,Événement Temporaire,2018-12-06 23:38:00,2018-12
+45555065344,45.759993,4.829907,347,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination nuit night palaisdejustice fourvire basilique,2018,12,6,23,40,439602000.0,Événement Temporaire,2018-12-06 23:40:00,2018-12
+31339923907,45.759993,4.829907,347,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination nuit night cathdrale saintjean fourvire basilique sane,2018,12,4,22,49,439426140.0,Événement Temporaire,2018-12-04 22:49:00,2018-12
+46214538292,45.759993,4.829982,347, lyon onlylyon france,2018,12,8,21,48,439768080.0,Événement Temporaire,2018-12-08 21:48:00,2018-12
+46214538132,45.759993,4.829982,347, lyon onlylyon france,2018,12,8,21,48,439768080.0,Événement Temporaire,2018-12-08 21:48:00,2018-12
+46214538002,45.759993,4.829982,347, lyon onlylyon france,2018,12,8,21,47,439768020.0,Événement Temporaire,2018-12-08 21:47:00,2018-12
+46214537872,45.759993,4.829982,347, lyon onlylyon france,2018,12,8,21,47,439768020.0,Événement Temporaire,2018-12-08 21:47:00,2018-12
+46214537792,45.759993,4.829982,347, lyon onlylyon france,2018,12,8,21,47,439768020.0,Événement Temporaire,2018-12-08 21:47:00,2018-12
+46214537662,45.759993,4.829982,347, lyon onlylyon france,2018,12,8,21,46,439767960.0,Événement Temporaire,2018-12-08 21:46:00,2018-12
+46214323832,45.759993,4.829907,347,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination nuit night cathdrale saintjean basilique fourvire,2018,12,9,19,53,439847580.0,Événement Temporaire,2018-12-09 19:53:00,2018-12
+31325890997,45.759993,4.829907,347,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination nuit night cathdrale saintjean basilique fourvire birdykids,2018,12,9,19,53,439847580.0,Événement Temporaire,2018-12-09 19:53:00,2018-12
+46214323132,45.759993,4.829907,347,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination nuit night cathdrale saintjean basilique fourvire,2018,12,9,19,51,439847460.0,Événement Temporaire,2018-12-09 19:51:00,2018-12
+32392742028,45.759993,4.829907,347,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination quai sane nuit night,2018,12,9,19,47,439847220.0,Événement Temporaire,2018-12-09 19:47:00,2018-12
+46214048512,45.759993,4.829907,347,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination quai sane nuit night,2018,12,9,19,47,439847220.0,Événement Temporaire,2018-12-09 19:47:00,2018-12
+46213970342,45.759993,4.829907,347,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination quai sane nuit night,2018,12,9,19,47,439847220.0,Événement Temporaire,2018-12-09 19:47:00,2018-12
+31325362857,45.759993,4.829907,347,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination quai sane nuit night,2018,12,9,19,46,439847160.0,Événement Temporaire,2018-12-09 19:46:00,2018-12
+45540656984,45.759993,4.829907,347,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination quai sane nuit night,2018,12,9,19,46,439847160.0,Événement Temporaire,2018-12-09 19:46:00,2018-12
+45540588954,45.759993,4.829907,347,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination quai sane nuit night,2018,12,9,19,45,439847100.0,Événement Temporaire,2018-12-09 19:45:00,2018-12
+45351464755,45.759993,4.829907,347,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination quai sane nuit night,2018,12,9,19,44,439847040.0,Événement Temporaire,2018-12-09 19:44:00,2018-12
+45351463835,45.759993,4.829907,347,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination quai sane nuit night,2018,12,9,19,44,439847040.0,Événement Temporaire,2018-12-09 19:44:00,2018-12
+46214537462,45.759993,4.829982,347, lyon onlylyon france,2018,12,8,21,44,439767840.0,Événement Temporaire,2018-12-08 21:44:00,2018-12
+46214537552,45.759993,4.829982,347, lyon onlylyon france,2018,12,8,21,44,439767840.0,Événement Temporaire,2018-12-08 21:44:00,2018-12
+46214537292,45.759993,4.829982,347, lyon onlylyon france,2018,12,8,21,43,439767780.0,Événement Temporaire,2018-12-08 21:43:00,2018-12
+46214537062,45.759993,4.829982,347, lyon onlylyon france,2018,12,8,21,43,439767780.0,Événement Temporaire,2018-12-08 21:43:00,2018-12
+46214536932,45.759993,4.829982,347, lyon onlylyon france,2018,12,8,21,42,439767720.0,Événement Temporaire,2018-12-08 21:42:00,2018-12
+46214536802,45.759993,4.829982,347, lyon onlylyon france,2018,12,8,21,41,439767660.0,Événement Temporaire,2018-12-08 21:41:00,2018-12
+45541433364,45.759993,4.829982,347, lyon onlylyon france,2018,12,8,21,41,439767660.0,Événement Temporaire,2018-12-08 21:41:00,2018-12
+31326087507,45.759993,4.829982,347, lyon onlylyon france,2018,12,8,21,40,439767600.0,Événement Temporaire,2018-12-08 21:40:00,2018-12
+31326087407,45.759993,4.829982,347, lyon onlylyon france,2018,12,8,21,39,439767540.0,Événement Temporaire,2018-12-08 21:39:00,2018-12
+31326087227,45.759993,4.829982,347, lyon onlylyon france,2018,12,8,21,38,439767480.0,Événement Temporaire,2018-12-08 21:38:00,2018-12
+46214536172,45.759993,4.829982,347, lyon onlylyon france,2018,12,8,21,25,439766700.0,Événement Temporaire,2018-12-08 21:25:00,2018-12
+44446942970,45.759993,4.829907,347,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination quai sane nuit night,2018,12,9,19,44,439847040.0,Événement Temporaire,2018-12-09 19:44:00,2018-12
+45351235815,45.759993,4.829907,347,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination quai sane nuit night,2018,12,9,19,43,439846980.0,Événement Temporaire,2018-12-09 19:43:00,2018-12
+44412179180,45.759993,4.829907,347,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination nuit night,2018,12,6,23,55,439602900.0,Événement Temporaire,2018-12-06 23:55:00,2018-12
+45505235284,45.759993,4.829907,347,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination nuit night,2018,12,6,23,55,439602900.0,Événement Temporaire,2018-12-06 23:55:00,2018-12
+45300514295,45.759869,4.829897,347, ,2018,12,6,21,48,439595280.0,Événement Temporaire,2018-12-06 21:48:00,2018-12
+45300514135,45.759872,4.829897,347, ,2018,12,6,21,48,439595280.0,Événement Temporaire,2018-12-06 21:48:00,2018-12
+44396308350,45.759877,4.829908,347, ,2018,12,6,21,49,439595340.0,Événement Temporaire,2018-12-06 21:49:00,2018-12
+44396308250,45.759886,4.829905,347, ,2018,12,6,21,49,439595340.0,Événement Temporaire,2018-12-06 21:49:00,2018-12
+45300513735,45.75988,4.829916,347, ,2018,12,6,21,49,439595340.0,Événement Temporaire,2018-12-06 21:49:00,2018-12
+44396308020,45.759894,4.829922,347, ,2018,12,6,21,50,439595400.0,Événement Temporaire,2018-12-06 21:50:00,2018-12
+45300513445,45.759841,4.829861,347, ,2018,12,6,21,52,439595520.0,Événement Temporaire,2018-12-06 21:52:00,2018-12
+44396304490,45.75988,4.829905,347, ,2018,12,6,21,50,439595400.0,Événement Temporaire,2018-12-06 21:50:00,2018-12
+45471727114,45.759993,4.829907,347,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination nuit night quai sane basilique fourvire cathdrale saintjean,2018,12,4,22,54,439426440.0,Événement Temporaire,2018-12-04 22:54:00,2018-12
+45471726924,45.759993,4.829907,347,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination nuit night quai sane basilique fourvire cathdrale saintjean,2018,12,4,22,52,439426320.0,Événement Temporaire,2018-12-04 22:52:00,2018-12
+45471726344,45.759993,4.829907,347,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination nuit night quai sane basilique fourvire cathdrale saintjean,2018,12,4,22,49,439426140.0,Événement Temporaire,2018-12-04 22:49:00,2018-12

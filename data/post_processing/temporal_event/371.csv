@@ -1,0 +1,356 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken,year_month
+15833347988,45.780573,4.87264,371, lego lyon exposition octobre mascotte villeurbanne,2014,10,25,16,58,309718680.0,Événement Temporaire,2014-10-25 16:58:00,2014-10
+15401134953,45.780573,4.87264,371, lego lyon exposition octobre mascotte villeurbanne,2014,10,25,16,58,309718680.0,Événement Temporaire,2014-10-25 16:58:00,2014-10
+15834719069,45.780573,4.87264,371, lego lyon exposition octobre mascotte villeurbanne,2014,10,25,16,57,309718620.0,Événement Temporaire,2014-10-25 16:57:00,2014-10
+15398500654,45.780573,4.87264,371, lego lyon exposition octobre villeurbanne,2014,10,25,17,0,309718800.0,Événement Temporaire,2014-10-25 17:00:00,2014-10
+15835016627,45.780573,4.87264,371, lego lyon exposition octobre villeurbanne,2014,10,25,17,0,309718800.0,Événement Temporaire,2014-10-25 17:00:00,2014-10
+15834717719,45.780573,4.87264,371, lego lyon exposition octobre mascotte villeurbanne,2014,10,25,16,57,309718620.0,Événement Temporaire,2014-10-25 16:57:00,2014-10
+15833483290,45.780573,4.87264,371, lego lyon western octobre loneranger indiens villeurbanne cowboyw,2014,10,25,16,22,309716520.0,Événement Temporaire,2014-10-25 16:22:00,2014-10
+15994957156,45.780573,4.87264,371, lego lyon western octobre loneranger indiens villeurbanne cowboyw,2014,10,25,16,22,309716520.0,Événement Temporaire,2014-10-25 16:22:00,2014-10
+16020059362,45.780573,4.87264,371, lego lyon western octobre loneranger indiens villeurbanne cowboyw,2014,10,25,16,22,309716520.0,Événement Temporaire,2014-10-25 16:22:00,2014-10
+15834996927,45.780573,4.87264,371, lego lyon western octobre loneranger indiens villeurbanne cowboyw,2014,10,25,16,22,309716520.0,Événement Temporaire,2014-10-25 16:22:00,2014-10
+16020058362,45.780573,4.87264,371, lego lyon western octobre loneranger indiens villeurbanne cowboyw,2014,10,25,16,22,309716520.0,Événement Temporaire,2014-10-25 16:22:00,2014-10
+15834605079,45.780573,4.87264,371, city lego lyon neige blanc ville octobre villeurbanne villesouslaneige,2014,10,25,16,3,309715380.0,Événement Temporaire,2014-10-25 16:03:00,2014-10
+16020645305,45.780573,4.87264,371, city lego lyon neige blanc ville octobre villeurbanne villesouslaneige,2014,10,25,16,3,309715380.0,Événement Temporaire,2014-10-25 16:03:00,2014-10
+16020644805,45.780573,4.87264,371, city lego lyon neige blanc ville octobre villeurbanne villesouslaneige,2014,10,25,16,3,309715380.0,Événement Temporaire,2014-10-25 16:03:00,2014-10
+15834902347,45.780573,4.87264,371, city lego lyon neige blanc ville octobre villeurbanne villesouslaneige,2014,10,25,16,3,309715380.0,Événement Temporaire,2014-10-25 16:03:00,2014-10
+15833387120,45.780573,4.87264,371, city lego lyon neige blanc ville octobre villeurbanne villesouslaneige,2014,10,25,16,6,309715560.0,Événement Temporaire,2014-10-25 16:06:00,2014-10
+16019963382,45.780573,4.87264,371, city ski lego lyon neige blanc ville octobre piste villeurbanne villesouslaneige,2014,10,25,16,6,309715560.0,Événement Temporaire,2014-10-25 16:06:00,2014-10
+16019963012,45.780573,4.87264,371, city lego lyon neige creator blanc ville octobre carrousel villeurbanne marchdhiver villesouslaneige,2014,10,25,16,4,309715440.0,Événement Temporaire,2014-10-25 16:04:00,2014-10
+16020642735,45.780573,4.87264,371, city lego lyon neige blanc ville octobre traineau villeurbanne villesouslaneige,2014,10,25,16,4,309715440.0,Événement Temporaire,2014-10-25 16:04:00,2014-10
+15401018483,45.780573,4.87264,371, city lego lyon neige blanc ville octobre villeurbanne villesouslaneige atelierduprenol,2014,10,25,16,4,309715440.0,Événement Temporaire,2014-10-25 16:04:00,2014-10
+16019961912,45.780573,4.87264,371, city lego lyon neige blanc ville octobre villeurbanne villesouslaneige,2014,10,25,16,4,309715440.0,Événement Temporaire,2014-10-25 16:04:00,2014-10
+15833229488,45.780573,4.87264,371, city lego lyon neige blanc ville octobre traineau villeurbanne villesouslaneige,2014,10,25,16,5,309715500.0,Événement Temporaire,2014-10-25 16:05:00,2014-10
+16019960922,45.780573,4.87264,371, city ski lego lyon neige blanc ville octobre piste villeurbanne villesouslaneige,2014,10,25,16,5,309715500.0,Événement Temporaire,2014-10-25 16:05:00,2014-10
+15994856396,45.780573,4.87264,371, city ski lego lyon neige blanc ville octobre piste villeurbanne villesouslaneige,2014,10,25,16,5,309715500.0,Événement Temporaire,2014-10-25 16:05:00,2014-10
+15401016253,45.780573,4.87264,371, city ski lego lyon neige blanc ville octobre piste villeurbanne villesouslaneige,2014,10,25,16,5,309715500.0,Événement Temporaire,2014-10-25 16:05:00,2014-10
+16020639915,45.780573,4.87264,371, city lego lyon neige blanc ville octobre villeurbanne villesouslaneige traindhiver,2014,10,25,16,5,309715500.0,Événement Temporaire,2014-10-25 16:05:00,2014-10
+15834598719,45.780573,4.87264,371, city lego lyon neige blanc ville octobre villeurbanne villesouslaneige,2014,10,25,16,57,309718620.0,Événement Temporaire,2014-10-25 16:57:00,2014-10
+15834896877,45.780573,4.87264,371, city lego lyon neige blanc ville octobre villeurbanne villesouslaneige,2014,10,25,16,56,309718560.0,Événement Temporaire,2014-10-25 16:56:00,2014-10
+15833226848,45.780573,4.87264,371, city lego lyon neige blanc ville octobre villeurbanne villesouslaneige,2014,10,25,16,56,309718560.0,Événement Temporaire,2014-10-25 16:56:00,2014-10
+16019957282,45.780573,4.87264,371, city lego lyon neige blanc ville octobre villeurbanne villesouslaneige,2014,10,25,16,56,309718560.0,Événement Temporaire,2014-10-25 16:56:00,2014-10
+15833380920,45.780573,4.87264,371, city lego lyon neige maison blanc ville octobre villeurbanne abandonne villesouslaneige,2014,10,25,16,56,309718560.0,Événement Temporaire,2014-10-25 16:56:00,2014-10
+15833225258,45.780573,4.87264,371, city lego lyon neige blanc ville octobre villeurbanne villesouslaneige,2014,10,25,16,57,309718620.0,Événement Temporaire,2014-10-25 16:57:00,2014-10
+16020636785,45.780573,4.87264,371, city lego lyon neige blanc ville octobre villeurbanne villesouslaneige,2014,10,25,16,57,309718620.0,Événement Temporaire,2014-10-25 16:57:00,2014-10
+16019876122,45.780573,4.87264,371, train lego lyon octobre villeurbanne,2014,10,25,16,0,309715200.0,Événement Temporaire,2014-10-25 16:00:00,2014-10
+15834515439,45.780573,4.87264,371, train lego lyon octobre villeurbanne,2014,10,25,16,0,309715200.0,Événement Temporaire,2014-10-25 16:00:00,2014-10
+16020556135,45.780573,4.87264,371, train lego lyon octobre villeurbanne,2014,10,25,16,0,309715200.0,Événement Temporaire,2014-10-25 16:00:00,2014-10
+15834514199,45.780573,4.87264,371, train lego lyon gare simpson octobre villeurbanne,2014,10,25,16,1,309715260.0,Événement Temporaire,2014-10-25 16:01:00,2014-10
+15994770606,45.780573,4.87264,371, train lego lyon gare simpson octobre villeurbanne,2014,10,25,16,1,309715260.0,Événement Temporaire,2014-10-25 16:01:00,2014-10
+15834513389,45.780573,4.87264,371, train lego lyon gare octobre villeurbanne,2014,10,25,16,1,309715260.0,Événement Temporaire,2014-10-25 16:01:00,2014-10
+15834512799,45.780573,4.87264,371, train lego lyon octobre villeurbanne,2014,10,25,16,1,309715260.0,Événement Temporaire,2014-10-25 16:01:00,2014-10
+16018605341,45.780573,4.87264,371, train lego lyon octobre villeurbanne,2014,10,25,16,1,309715260.0,Événement Temporaire,2014-10-25 16:01:00,2014-10
+15994768466,45.780573,4.87264,371, train lego lyon octobre villeurbanne,2014,10,25,16,0,309715200.0,Événement Temporaire,2014-10-25 16:00:00,2014-10
+15834511289,45.780573,4.87264,371, train lego lyon octobre villeurbanne,2014,10,25,16,0,309715200.0,Événement Temporaire,2014-10-25 16:00:00,2014-10
+15833297430,45.780573,4.87264,371, train lego lyon octobre villeurbanne,2014,10,25,16,9,309715740.0,Événement Temporaire,2014-10-25 16:09:00,2014-10
+15834509739,45.780573,4.87264,371, train lego lyon octobre villeurbanne,2014,10,25,16,9,309715740.0,Événement Temporaire,2014-10-25 16:09:00,2014-10
+15834807907,45.780573,4.87264,371, train lego lyon octobre villeurbanne,2014,10,25,16,8,309715680.0,Événement Temporaire,2014-10-25 16:08:00,2014-10
+16020550175,45.780573,4.87264,371, train lego lyon octobre villeurbanne,2014,10,25,16,8,309715680.0,Événement Temporaire,2014-10-25 16:08:00,2014-10
+15834806987,45.780573,4.87264,371, train lego lyon octobre villeurbanne,2014,10,25,16,8,309715680.0,Événement Temporaire,2014-10-25 16:08:00,2014-10
+15834507759,45.780573,4.87264,371, train lego lyon octobre villeurbanne,2014,10,25,16,8,309715680.0,Événement Temporaire,2014-10-25 16:08:00,2014-10
+16020548935,45.780573,4.87264,371, train lego lyon octobre villeurbanne,2014,10,25,16,7,309715620.0,Événement Temporaire,2014-10-25 16:07:00,2014-10
+15398291314,45.780573,4.87264,371, train lego lyon octobre villeurbanne,2014,10,25,16,7,309715620.0,Événement Temporaire,2014-10-25 16:07:00,2014-10
+15834506189,45.780573,4.87264,371, train lego lyon octobre villeurbanne,2014,10,25,16,7,309715620.0,Événement Temporaire,2014-10-25 16:07:00,2014-10
+15834505569,45.780573,4.87264,371, train lego lyon octobre villeurbanne,2014,10,25,16,6,309715560.0,Événement Temporaire,2014-10-25 16:06:00,2014-10
+15833135738,45.780573,4.87264,371, train lego lyon octobre villeurbanne,2014,10,25,16,3,309715380.0,Événement Temporaire,2014-10-25 16:03:00,2014-10
+15834504469,45.780573,4.87264,371, train lego lyon octobre villeurbanne,2014,10,25,16,2,309715320.0,Événement Temporaire,2014-10-25 16:02:00,2014-10
+16018597321,45.780573,4.87264,371, train lego lyon gare octobre villeurbanne,2014,10,25,16,2,309715320.0,Événement Temporaire,2014-10-25 16:02:00,2014-10
+15833134098,45.780573,4.87264,371, train lego lyon gare octobre villeurbanne,2014,10,25,16,2,309715320.0,Événement Temporaire,2014-10-25 16:02:00,2014-10
+15833133638,45.780573,4.87264,371, train lego lyon octobre villeurbanne,2014,10,25,16,7,309715620.0,Événement Temporaire,2014-10-25 16:07:00,2014-10
+16019861992,45.780573,4.87264,371, train lego lyon octobre villeurbanne,2014,10,25,16,7,309715620.0,Événement Temporaire,2014-10-25 16:07:00,2014-10
+15400919853,45.780573,4.87264,371, train lego lyon tgv octobre expert villeurbanne horizonexpress,2014,10,25,16,14,309716040.0,Événement Temporaire,2014-10-25 16:14:00,2014-10
+15834800217,45.780573,4.87264,371, train lego lyon tgv octobre expert villeurbanne horizonexpress,2014,10,25,16,13,309715980.0,Événement Temporaire,2014-10-25 16:13:00,2014-10
+16018594151,45.780573,4.87264,371, train lego lyon tgv octobre expert villeurbanne horizonexpress,2014,10,25,16,14,309716040.0,Événement Temporaire,2014-10-25 16:14:00,2014-10
+15833287460,45.780573,4.87264,371, train lego lyon tgv octobre expert villeurbanne horizonexpress,2014,10,25,16,13,309715980.0,Événement Temporaire,2014-10-25 16:13:00,2014-10
+15834500149,45.780573,4.87264,371, train lego lyon tgv octobre expert villeurbanne horizonexpress,2014,10,25,16,13,309715980.0,Événement Temporaire,2014-10-25 16:13:00,2014-10
+15994756356,45.780573,4.87264,371, train lego lyon tgv octobre expert villeurbanne horizonexpress,2014,10,25,16,12,309715920.0,Événement Temporaire,2014-10-25 16:12:00,2014-10
+15834798017,45.780573,4.87264,371, train lego lyon tgv octobre expert villeurbanne horizonexpress,2014,10,25,16,12,309715920.0,Événement Temporaire,2014-10-25 16:12:00,2014-10
+15398282874,45.780573,4.87264,371, train lego lyon octobre villeurbanne,2014,10,25,16,17,309716220.0,Événement Temporaire,2014-10-25 16:17:00,2014-10
+15834797057,45.780573,4.87264,371, train lego lyon octobre villeurbanne,2014,10,25,16,17,309716220.0,Événement Temporaire,2014-10-25 16:17:00,2014-10
+15834796417,45.780573,4.87264,371, train lego lyon octobre villeurbanne,2014,10,25,16,17,309716220.0,Événement Temporaire,2014-10-25 16:17:00,2014-10
+15833283630,45.780573,4.87264,371, train lego lyon gare octobre villeurbanne,2014,10,25,16,1,309715260.0,Événement Temporaire,2014-10-25 16:01:00,2014-10
+16020537795,45.780573,4.87264,371, train lego lyon tgv octobre expert villeurbanne horizonexpress,2014,10,25,16,14,309716040.0,Événement Temporaire,2014-10-25 16:14:00,2014-10
+15994739926,45.780573,4.87264,371, tour lego lyon eiffel toureiffel octobre moc villeurbanne,2014,10,25,15,38,309713880.0,Événement Temporaire,2014-10-25 15:38:00,2014-10
+16019842922,45.780573,4.87264,371, tour lego lyon eiffel toureiffel octobre moc villeurbanne,2014,10,25,15,38,309713880.0,Événement Temporaire,2014-10-25 15:38:00,2014-10
+16020524045,45.780573,4.87264,371, tour lego lyon eiffel toureiffel octobre moc villeurbanne,2014,10,25,15,39,309713940.0,Événement Temporaire,2014-10-25 15:39:00,2014-10
+15834482229,45.780573,4.87264,371, tour lego lyon eiffel toureiffel octobre moc villeurbanne,2014,10,25,15,39,309713940.0,Événement Temporaire,2014-10-25 15:39:00,2014-10
+15834481779,45.780573,4.87264,371, tour lego lyon eiffel toureiffel octobre moc villeurbanne,2014,10,25,15,39,309713940.0,Événement Temporaire,2014-10-25 15:39:00,2014-10
+15994737346,45.780573,4.87264,371, tour lego lyon eiffel toureiffel octobre moc villeurbanne,2014,10,25,15,40,309714000.0,Événement Temporaire,2014-10-25 15:40:00,2014-10
+16020522115,45.780573,4.87264,371, tour lego lyon eiffel toureiffel octobre moc villeurbanne,2014,10,25,15,37,309713820.0,Événement Temporaire,2014-10-25 15:37:00,2014-10
+15833267350,45.780573,4.87264,371, tour lego lyon eiffel toureiffel octobre moc villeurbanne,2014,10,25,15,38,309713880.0,Événement Temporaire,2014-10-25 15:38:00,2014-10
+16019839552,45.780573,4.87264,371, tour lego lyon eiffel toureiffel octobre moc villeurbanne,2014,10,25,15,38,309713880.0,Événement Temporaire,2014-10-25 15:38:00,2014-10
+15398248104,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,35,309717300.0,Événement Temporaire,2014-10-25 16:35:00,2014-10
+16018556201,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,31,309717060.0,Événement Temporaire,2014-10-25 16:31:00,2014-10
+16020503415,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,31,309717060.0,Événement Temporaire,2014-10-25 16:31:00,2014-10
+16020502825,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,31,309717060.0,Événement Temporaire,2014-10-25 16:31:00,2014-10
+15834461289,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,31,309717060.0,Événement Temporaire,2014-10-25 16:31:00,2014-10
+16020501285,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,31,309717060.0,Événement Temporaire,2014-10-25 16:31:00,2014-10
+15833246610,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,30,309717000.0,Événement Temporaire,2014-10-25 16:30:00,2014-10
+15833089638,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,30,309717000.0,Événement Temporaire,2014-10-25 16:30:00,2014-10
+15994714886,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,30,309717000.0,Événement Temporaire,2014-10-25 16:30:00,2014-10
+15398242724,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,30,309717000.0,Événement Temporaire,2014-10-25 16:30:00,2014-10
+15833243880,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,34,309717240.0,Événement Temporaire,2014-10-25 16:34:00,2014-10
+15400874843,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,34,309717240.0,Événement Temporaire,2014-10-25 16:34:00,2014-10
+15400874193,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,33,309717180.0,Événement Temporaire,2014-10-25 16:33:00,2014-10
+15834455809,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,32,309717120.0,Événement Temporaire,2014-10-25 16:32:00,2014-10
+15994711016,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,32,309717120.0,Événement Temporaire,2014-10-25 16:32:00,2014-10
+15994710386,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,32,309717120.0,Événement Temporaire,2014-10-25 16:32:00,2014-10
+15833240540,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,32,309717120.0,Événement Temporaire,2014-10-25 16:32:00,2014-10
+15833083658,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,32,309717120.0,Événement Temporaire,2014-10-25 16:32:00,2014-10
+16018545741,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,32,309717120.0,Événement Temporaire,2014-10-25 16:32:00,2014-10
+16019812082,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,32,309717120.0,Événement Temporaire,2014-10-25 16:32:00,2014-10
+15400869323,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,33,309717180.0,Événement Temporaire,2014-10-25 16:33:00,2014-10
+15834450779,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,33,309717180.0,Événement Temporaire,2014-10-25 16:33:00,2014-10
+15834747457,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,33,309717180.0,Événement Temporaire,2014-10-25 16:33:00,2014-10
+15834449339,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,33,309717180.0,Événement Temporaire,2014-10-25 16:33:00,2014-10
+16019808602,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,33,309717180.0,Événement Temporaire,2014-10-25 16:33:00,2014-10
+15398233144,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,34,309717240.0,Événement Temporaire,2014-10-25 16:34:00,2014-10
+15834447519,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,35,309717300.0,Événement Temporaire,2014-10-25 16:35:00,2014-10
+16020488045,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,35,309717300.0,Événement Temporaire,2014-10-25 16:35:00,2014-10
+16019806202,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,35,309717300.0,Événement Temporaire,2014-10-25 16:35:00,2014-10
+15400863983,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,34,309717240.0,Événement Temporaire,2014-10-25 16:34:00,2014-10
+15400863193,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,34,309717240.0,Événement Temporaire,2014-10-25 16:34:00,2014-10
+15833231520,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,35,309717300.0,Événement Temporaire,2014-10-25 16:35:00,2014-10
+16019803872,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,35,309717300.0,Événement Temporaire,2014-10-25 16:35:00,2014-10
+15834444039,45.780573,4.87264,371, lego lyon technic octobre villeurbanne,2014,10,25,16,35,309717300.0,Événement Temporaire,2014-10-25 16:35:00,2014-10
+15992865326,45.780573,4.87264,371, starwars lego lyon octobre villeurbanne sandcrawler,2014,10,25,16,44,309717840.0,Événement Temporaire,2014-10-25 16:44:00,2014-10
+15831393910,45.780573,4.87264,371, starwars lego lyon r octobre villeurbanne echelle taillerelle,2014,10,25,16,21,309716460.0,Événement Temporaire,2014-10-25 16:21:00,2014-10
+15992864596,45.780573,4.87264,371, starwars lego lyon r octobre villeurbanne echelle taillerelle,2014,10,25,16,21,309716460.0,Événement Temporaire,2014-10-25 16:21:00,2014-10
+15831393200,45.780573,4.87264,371, starwars lego lyon octobre ucs villeurbanne imperialshuttle navette,2014,10,25,16,52,309718320.0,Événement Temporaire,2014-10-25 16:52:00,2014-10
+15396389684,45.780573,4.87264,371, starwars lego lyon octobre ucs villeurbanne imperialshuttle navette,2014,10,25,16,52,309718320.0,Événement Temporaire,2014-10-25 16:52:00,2014-10
+15992863576,45.780573,4.87264,371, starwars lego lyon octobre ucs villeurbanne imperialshuttle navette,2014,10,25,16,52,309718320.0,Événement Temporaire,2014-10-25 16:52:00,2014-10
+16017959842,45.780573,4.87264,371, starwars lego lyon octobre ucs villeurbanne imperialshuttle navette,2014,10,25,16,52,309718320.0,Événement Temporaire,2014-10-25 16:52:00,2014-10
+15396388804,45.780573,4.87264,371, starwars lego lyon octobre ucs villeurbanne imperialshuttle navette,2014,10,25,16,52,309718320.0,Événement Temporaire,2014-10-25 16:52:00,2014-10
+15832902207,45.780573,4.87264,371, starwars lego lyon octobre ucs villeurbanne imperialshuttle navette superstardestroyer,2014,10,25,16,52,309718320.0,Événement Temporaire,2014-10-25 16:52:00,2014-10
+15396388144,45.780573,4.87264,371, starwars lego lyon octobre ucs villeurbanne superstardestroyer,2014,10,25,16,52,309718320.0,Événement Temporaire,2014-10-25 16:52:00,2014-10
+16016686061,45.780573,4.87264,371, starwars lego lyon octobre ucs villeurbanne superstardestroyer,2014,10,25,16,53,309718380.0,Événement Temporaire,2014-10-25 16:53:00,2014-10
+15831228378,45.780573,4.87264,371, starwars lego lyon octobre villeurbanne sandcrawler,2014,10,25,16,44,309717840.0,Événement Temporaire,2014-10-25 16:44:00,2014-10
+15832610599,45.780573,4.87264,371, starwars lego lyon millenium octobre ucs villeurbanne faucon,2014,10,25,16,44,309717840.0,Événement Temporaire,2014-10-25 16:44:00,2014-10
+15832610269,45.780573,4.87264,371, starwars lego lyon millenium octobre ucs villeurbanne faucon,2014,10,25,16,44,309717840.0,Événement Temporaire,2014-10-25 16:44:00,2014-10
+15831390180,45.780573,4.87264,371, starwars lego lyon r octobre villeurbanne,2014,10,25,16,45,309717900.0,Événement Temporaire,2014-10-25 16:45:00,2014-10
+15831389790,45.780573,4.87264,371, starwars lego lyon r octobre villeurbanne,2014,10,25,16,45,309717900.0,Événement Temporaire,2014-10-25 16:45:00,2014-10
+16018641195,45.780573,4.87264,371, starwars lego lyon octobre villeurbanne sandcrawler,2014,10,25,16,46,309717960.0,Événement Temporaire,2014-10-25 16:46:00,2014-10
+15831226878,45.780573,4.87264,371, starwars lego lyon octobre ucs villeurbanne imperialshuttle navette,2014,10,25,16,51,309718260.0,Événement Temporaire,2014-10-25 16:51:00,2014-10
+15831226558,45.780573,4.87264,371, starwars lego lyon r octobre villeurbanne,2014,10,25,16,51,309718260.0,Événement Temporaire,2014-10-25 16:51:00,2014-10
+16016683371,45.780573,4.87264,371, starwars lego lyon millenium octobre ucs villeurbanne faucon,2014,10,25,16,52,309718320.0,Événement Temporaire,2014-10-25 16:52:00,2014-10
+15396372614,45.780573,4.87264,371, lego lyon pirate bateau octobre villeurbanne,2014,10,25,16,50,309718200.0,Événement Temporaire,2014-10-25 16:50:00,2014-10
+16018627655,45.780573,4.87264,371, lego lyon pirate bateau octobre villeurbanne,2014,10,25,16,50,309718200.0,Événement Temporaire,2014-10-25 16:50:00,2014-10
+15831374740,45.780573,4.87264,371, lego lyon pirate bateau octobre villeurbanne,2014,10,25,16,50,309718200.0,Événement Temporaire,2014-10-25 16:50:00,2014-10
+15396371774,45.780573,4.87264,371, lego lyon pirate octobre villeurbanne,2014,10,25,16,49,309718140.0,Événement Temporaire,2014-10-25 16:49:00,2014-10
+15832594909,45.780573,4.87264,371, lego lyon pirate bateau octobre villeurbanne,2014,10,25,16,49,309718140.0,Événement Temporaire,2014-10-25 16:49:00,2014-10
+15396371154,45.780573,4.87264,371, lego lyon pirate octobre villeurbanne,2014,10,25,16,49,309718140.0,Événement Temporaire,2014-10-25 16:49:00,2014-10
+15831373590,45.780573,4.87264,371, lego lyon pirate octobre villeurbanne,2014,10,25,16,49,309718140.0,Événement Temporaire,2014-10-25 16:49:00,2014-10
+15831373300,45.780573,4.87264,371, lego lyon pirate bateau octobre villeurbanne,2014,10,25,16,50,309718200.0,Événement Temporaire,2014-10-25 16:50:00,2014-10
+15399000583,45.780573,4.87264,371, lego lyon fort pirate militaire octobre villeurbanne,2014,10,25,16,50,309718200.0,Événement Temporaire,2014-10-25 16:50:00,2014-10
+15832593489,45.780573,4.87264,371, lego lyon pirate bateau octobre villeurbanne,2014,10,25,16,51,309718260.0,Événement Temporaire,2014-10-25 16:51:00,2014-10
+15399000033,45.780573,4.87264,371, lego lyon fort pirate militaire octobre villeurbanne,2014,10,25,16,51,309718260.0,Événement Temporaire,2014-10-25 16:51:00,2014-10
+15992843956,45.780573,4.87264,371, lego lyon fort pirate militaire octobre villeurbanne,2014,10,25,16,51,309718260.0,Événement Temporaire,2014-10-25 16:51:00,2014-10
+16017938712,45.780573,4.87264,371, lego lyon fort pirate militaire octobre villeurbanne,2014,10,25,16,51,309718260.0,Événement Temporaire,2014-10-25 16:51:00,2014-10
+15832592369,45.780573,4.87264,371, lego lyon fort pirate militaire octobre villeurbanne,2014,10,25,16,51,309718260.0,Événement Temporaire,2014-10-25 16:51:00,2014-10
+15831208188,45.780573,4.87264,371, lego lyon pirate bateau octobre villeurbanne,2014,10,25,16,49,309718140.0,Événement Temporaire,2014-10-25 16:49:00,2014-10
+15398998273,45.780573,4.87264,371, lego lyon pirate bateau octobre villeurbanne,2014,10,25,16,49,309718140.0,Événement Temporaire,2014-10-25 16:49:00,2014-10
+15398864233,45.780573,4.87264,371, lego lyon octobre fresque cne villeurbanne mozaique,2014,10,25,16,47,309718020.0,Événement Temporaire,2014-10-25 16:47:00,2014-10
+16016530221,45.780573,4.87264,371, lego lyon octobre fresque cne villeurbanne mozaique,2014,10,25,16,47,309718020.0,Événement Temporaire,2014-10-25 16:47:00,2014-10
+15831234820,45.780573,4.87264,371, lego lyon alice tableau octobre villeurbanne mozaique aliceaupaysdesmerveilles,2014,10,25,16,48,309718080.0,Événement Temporaire,2014-10-25 16:48:00,2014-10
+16017800292,45.780573,4.87264,371, lego lyon element octobre villeurbanne mozaique,2014,10,25,16,48,309718080.0,Événement Temporaire,2014-10-25 16:48:00,2014-10
+16018485725,45.780573,4.87264,371, lego lyon alice tableau octobre villeurbanne mozaique aliceaupaysdesmerveilles,2014,10,25,16,48,309718080.0,Événement Temporaire,2014-10-25 16:48:00,2014-10
+16017799552,45.780573,4.87264,371, lego lyon octobre fresque cne villeurbanne mozaique,2014,10,25,16,47,309718020.0,Événement Temporaire,2014-10-25 16:47:00,2014-10
+15832453889,45.780573,4.87264,371, lego lyon octobre fresque cne villeurbanne mozaique,2014,10,25,16,48,309718080.0,Événement Temporaire,2014-10-25 16:48:00,2014-10
+16017798742,45.780573,4.87264,371, lego lyon alice tableau octobre villeurbanne mozaique aliceaupaysdesmerveilles,2014,10,25,16,48,309718080.0,Événement Temporaire,2014-10-25 16:48:00,2014-10
+15831232590,45.780573,4.87264,371, lego lyon alice tableau octobre villeurbanne mozaique aliceaupaysdesmerveilles,2014,10,25,16,48,309718080.0,Événement Temporaire,2014-10-25 16:48:00,2014-10
+16018483765,45.780573,4.87264,371, lego lyon octobre fresque cne villeurbanne mozaique,2014,10,25,16,47,309718020.0,Événement Temporaire,2014-10-25 16:47:00,2014-10
+15832416069,45.780573,4.87264,371, man iron lego lyon mark minifig marvel tonystark octobre villeurbanne,2014,10,25,16,43,309717780.0,Événement Temporaire,2014-10-25 16:43:00,2014-10
+15831195920,45.780573,4.87264,371, man iron lego lyon mark minifig marvel tonystark octobre villeurbanne hallofarmour,2014,10,25,16,42,309717720.0,Événement Temporaire,2014-10-25 16:42:00,2014-10
+16017760912,45.780573,4.87264,371, man iron lego lyon mark minifig marvel tonystark octobre villeurbanne,2014,10,25,16,42,309717720.0,Événement Temporaire,2014-10-25 16:42:00,2014-10
+15832317399,45.780573,4.87264,371, statue lego lyon harry potter octobre moc villeurbanne echelle taillerelle,2014,10,25,15,40,309714000.0,Événement Temporaire,2014-10-25 15:40:00,2014-10
+15396096934,45.780573,4.87264,371, statue lego lyon harry potter octobre moc villeurbanne echelle taillerelle,2014,10,25,15,40,309714000.0,Événement Temporaire,2014-10-25 15:40:00,2014-10
+15992570986,45.780573,4.87264,371, train lego lyon harry potter octobre villeurbanne poudlardexpress,2014,10,25,16,23,309716580.0,Événement Temporaire,2014-10-25 16:23:00,2014-10
+16017662742,45.780573,4.87264,371, train lego lyon harry potter octobre villeurbanne poudlardexpress,2014,10,25,16,24,309716640.0,Événement Temporaire,2014-10-25 16:24:00,2014-10
+15396096114,45.780573,4.87264,371, lego lyon harry potter octobre villeurbanne banque gringotts chemindetraverse,2014,10,25,16,24,309716640.0,Événement Temporaire,2014-10-25 16:24:00,2014-10
+16017662062,45.780573,4.87264,371, lego lyon harry potter octobre villeurbanne banque gringotts chemindetraverse,2014,10,25,16,24,309716640.0,Événement Temporaire,2014-10-25 16:24:00,2014-10
+16018347085,45.780573,4.87264,371, lego lyon harry potter octobre villeurbanne banque gringotts chemindetraverse,2014,10,25,16,24,309716640.0,Événement Temporaire,2014-10-25 16:24:00,2014-10
+15832314859,45.780573,4.87264,371, lego lyon harry potter minifig octobre villeurbanne banque gringotts chemindetraverse,2014,10,25,16,24,309716640.0,Événement Temporaire,2014-10-25 16:24:00,2014-10
+15396094534,45.780573,4.87264,371, lego lyon harry potter chateau octobre villeurbanne poudlard chteaudepoudlard,2014,10,25,16,23,309716580.0,Événement Temporaire,2014-10-25 16:23:00,2014-10
+15396083614,45.780573,4.87264,371, halloween lego lyon octobre villeurbanne fantomes squelettes,2014,10,25,16,55,309718500.0,Événement Temporaire,2014-10-25 16:55:00,2014-10
+15398712763,45.780573,4.87264,371, halloween lego lyon octobre villeurbanne fantomes squelettes,2014,10,25,16,55,309718500.0,Événement Temporaire,2014-10-25 16:55:00,2014-10
+15992557936,45.780573,4.87264,371, halloween train lego lyon octobre villeurbanne fantomes squelettes,2014,10,25,16,55,309718500.0,Événement Temporaire,2014-10-25 16:55:00,2014-10
+15398711973,45.780573,4.87264,371, halloween train lego lyon octobre villeurbanne fantomes squelettes,2014,10,25,16,55,309718500.0,Événement Temporaire,2014-10-25 16:55:00,2014-10
+15992557276,45.780573,4.87264,371, halloween lego lyon octobre villeurbanne fantomes squelettes,2014,10,25,16,55,309718500.0,Événement Temporaire,2014-10-25 16:55:00,2014-10
+15398711443,45.780573,4.87264,371, halloween lego lyon octobre villeurbanne fantomes squelettes,2014,10,25,16,55,309718500.0,Événement Temporaire,2014-10-25 16:55:00,2014-10
+15398711053,45.780573,4.87264,371, halloween train lego lyon octobre villeurbanne fantomes squelettes,2014,10,25,16,55,309718500.0,Événement Temporaire,2014-10-25 16:55:00,2014-10
+16017637452,45.780573,4.87264,371, stand lego lyon f ferrari formule octobre villeurbanne,2014,10,25,16,27,309716820.0,Événement Temporaire,2014-10-25 16:27:00,2014-10
+15396071404,45.780573,4.87264,371, stand lego lyon f ferrari camion formule octobre villeurbanne,2014,10,25,16,27,309716820.0,Événement Temporaire,2014-10-25 16:27:00,2014-10
+15396071204,45.780573,4.87264,371, stand lego lyon f ferrari camion formule octobre villeurbanne,2014,10,25,16,27,309716820.0,Événement Temporaire,2014-10-25 16:27:00,2014-10
+16016367041,45.780573,4.87264,371, stand lego lyon f ferrari camion formule octobre villeurbanne,2014,10,25,16,27,309716820.0,Événement Temporaire,2014-10-25 16:27:00,2014-10
+16017636292,45.780573,4.87264,371, stand lego lyon f ferrari camion formule octobre villeurbanne,2014,10,25,16,27,309716820.0,Événement Temporaire,2014-10-25 16:27:00,2014-10
+15830909958,45.780573,4.87264,371, stand lego lyon f ferrari formule octobre villeurbanne,2014,10,25,16,27,309716820.0,Événement Temporaire,2014-10-25 16:27:00,2014-10
+15832542917,45.780573,4.87264,371, lune lego lyon espace octobre lem villeurbanne,2014,10,25,16,45,309717900.0,Événement Temporaire,2014-10-25 16:45:00,2014-10
+15992508416,45.780573,4.87264,371, lune lego lyon espace octobre lem villeurbanne,2014,10,25,16,45,309717900.0,Événement Temporaire,2014-10-25 16:45:00,2014-10
+16018285875,45.780573,4.87264,371, lego lyon espace octobre villeurbanne navette spatiale,2014,10,25,16,44,309717840.0,Événement Temporaire,2014-10-25 16:44:00,2014-10
+15832541847,45.780573,4.87264,371, lego lyon espace octobre villeurbanne,2014,10,25,16,44,309717840.0,Événement Temporaire,2014-10-25 16:44:00,2014-10
+15396031944,45.780573,4.87264,371, lego lyon espace octobre villeurbanne,2014,10,25,16,43,309717780.0,Événement Temporaire,2014-10-25 16:43:00,2014-10
+16017597122,45.780573,4.87264,371, lego lyon espace octobre villeurbanne,2014,10,25,16,43,309717780.0,Événement Temporaire,2014-10-25 16:43:00,2014-10
+15992506856,45.780573,4.87264,371, lego lyon espace octobre villeurbanne,2014,10,25,16,43,309717780.0,Événement Temporaire,2014-10-25 16:43:00,2014-10
+16018284315,45.780573,4.87264,371, lego lyon espace octobre villeurbanne,2014,10,25,16,45,309717900.0,Événement Temporaire,2014-10-25 16:45:00,2014-10
+15396030524,45.780573,4.87264,371, lego lyon espace octobre villeurbanne,2014,10,25,16,46,309717960.0,Événement Temporaire,2014-10-25 16:46:00,2014-10
+16018283865,45.780573,4.87264,371, lego lyon espace octobre villeurbanne,2014,10,25,16,46,309717960.0,Événement Temporaire,2014-10-25 16:46:00,2014-10
+15832158099,45.780573,4.87264,371, lego lyon rue delorean octobre martymcfly villeurbanne dfiletrue retourverlefutur,2014,10,25,15,46,309714360.0,Événement Temporaire,2014-10-25 15:46:00,2014-10
+16017587832,45.780573,4.87264,371, lego lyon egypte octobre villeurbanne,2014,10,25,16,9,309715740.0,Événement Temporaire,2014-10-25 16:09:00,2014-10
+16018275855,45.780573,4.87264,371, lego lyon egypte octobre villeurbanne,2014,10,25,16,9,309715740.0,Événement Temporaire,2014-10-25 16:09:00,2014-10
+16017587152,45.780573,4.87264,371, lego lyon egypte octobre villeurbanne,2014,10,25,16,9,309715740.0,Événement Temporaire,2014-10-25 16:09:00,2014-10
+15830862248,45.780573,4.87264,371, lego lyon egypte octobre villeurbanne,2014,10,25,16,9,309715740.0,Événement Temporaire,2014-10-25 16:09:00,2014-10
+15830861728,45.780573,4.87264,371, lego lyon egypte octobre villeurbanne,2014,10,25,16,10,309715800.0,Événement Temporaire,2014-10-25 16:10:00,2014-10
+15396020394,45.780573,4.87264,371, lego lyon egypte octobre villeurbanne,2014,10,25,16,10,309715800.0,Événement Temporaire,2014-10-25 16:10:00,2014-10
+15832240489,45.780573,4.87264,371, lego lyon egypte octobre villeurbanne,2014,10,25,16,10,309715800.0,Événement Temporaire,2014-10-25 16:10:00,2014-10
+15832240189,45.780573,4.87264,371, lego lyon egypte octobre villeurbanne,2014,10,25,16,10,309715800.0,Événement Temporaire,2014-10-25 16:10:00,2014-10
+15830785948,45.780573,4.87264,371, lego lyon rue octobre dfil pompiers villeurbanne dfiletrue,2014,10,25,15,59,309715140.0,Événement Temporaire,2014-10-25 15:59:00,2014-10
+15832455217,45.780573,4.87264,371, lego lyon rue octobre dfil pompiers villeurbanne dfiletrue,2014,10,25,15,59,309715140.0,Événement Temporaire,2014-10-25 15:59:00,2014-10
+15832165509,45.780573,4.87264,371, lego lyon rue octobre pompiers villeurbanne dfiletrue,2014,10,25,15,59,309715140.0,Événement Temporaire,2014-10-25 15:59:00,2014-10
+15832454647,45.780573,4.87264,371, lego lyon rue militaire octobre dfil villeurbanne vhicules dfiletrue,2014,10,25,15,59,309715140.0,Événement Temporaire,2014-10-25 15:59:00,2014-10
+15830947980,45.780573,4.87264,371, lego lyon rue militaire octobre dfil villeurbanne vhicules dfiletrue,2014,10,25,15,58,309715080.0,Événement Temporaire,2014-10-25 15:58:00,2014-10
+15830784788,45.780573,4.87264,371, lego lyon rue militaire octobre dfil villeurbanne vhicules dfiletrue,2014,10,25,15,58,309715080.0,Événement Temporaire,2014-10-25 15:58:00,2014-10
+15832453897,45.780573,4.87264,371, lego lyon rue octobre pompiers villeurbanne dfiletrue,2014,10,25,15,57,309715020.0,Événement Temporaire,2014-10-25 15:57:00,2014-10
+15832164259,45.780573,4.87264,371, lego lyon rue octobre pompiers villeurbanne dfiletrue,2014,10,25,15,57,309715020.0,Événement Temporaire,2014-10-25 15:57:00,2014-10
+15992418486,45.780573,4.87264,371, lego lyon rue octobre dfil villeurbanne dfiletrue,2014,10,25,15,56,309714960.0,Événement Temporaire,2014-10-25 15:56:00,2014-10
+15832453097,45.780573,4.87264,371, lego lyon minifig rue octobre dfil villeurbanne dfiletrue,2014,10,25,15,43,309714180.0,Événement Temporaire,2014-10-25 15:43:00,2014-10
+15830783438,45.780573,4.87264,371, lego lyon minifig rue octobre dfil villeurbanne dfiletrue,2014,10,25,15,42,309714120.0,Événement Temporaire,2014-10-25 15:42:00,2014-10
+16016236411,45.780573,4.87264,371, lego lyon minifig rue octobre dfil villeurbanne dfiletrue,2014,10,25,15,42,309714120.0,Événement Temporaire,2014-10-25 15:42:00,2014-10
+16017508212,45.780573,4.87264,371, lego lyon minifig rue octobre dfil villeurbanne dfiletrue,2014,10,25,15,42,309714120.0,Événement Temporaire,2014-10-25 15:42:00,2014-10
+16018196725,45.780573,4.87264,371, lego lyon rue octobre dfil villeurbanne dfiletrue,2014,10,25,15,41,309714060.0,Événement Temporaire,2014-10-25 15:41:00,2014-10
+15830945030,45.780573,4.87264,371, lego lyon minifig rue octobre dfil villeurbanne dfiletrue,2014,10,25,15,41,309714060.0,Événement Temporaire,2014-10-25 15:41:00,2014-10
+15398573083,45.780573,4.87264,371, lego lyon minifig rue octobre dfil villeurbanne dfiletrue,2014,10,25,15,40,309714000.0,Événement Temporaire,2014-10-25 15:40:00,2014-10
+15830782248,45.780573,4.87264,371, lego lyon minifig rue octobre dfil villeurbanne dfiletrue,2014,10,25,15,41,309714060.0,Événement Temporaire,2014-10-25 15:41:00,2014-10
+15992415946,45.780573,4.87264,371, lego lyon minifig rue octobre dfil villeurbanne dfiletrue,2014,10,25,15,45,309714300.0,Événement Temporaire,2014-10-25 15:45:00,2014-10
+15832450827,45.780573,4.87264,371, lego lyon rue octobre villeurbanne dfiletrue,2014,10,25,15,44,309714240.0,Événement Temporaire,2014-10-25 15:44:00,2014-10
+15992415256,45.780573,4.87264,371, lego lyon rue octobre villeurbanne dfiletrue,2014,10,25,15,44,309714240.0,Événement Temporaire,2014-10-25 15:44:00,2014-10
+16018194845,45.780573,4.87264,371, lego lyon rue octobre villeurbanne dfiletrue,2014,10,25,15,44,309714240.0,Événement Temporaire,2014-10-25 15:44:00,2014-10
+15830780568,45.780573,4.87264,371, lego lyon minifig rue octobre dfil villeurbanne dfiletrue,2014,10,25,15,43,309714180.0,Événement Temporaire,2014-10-25 15:43:00,2014-10
+16016233301,45.780573,4.87264,371, lego lyon minifig rue octobre dfil villeurbanne dfiletrue,2014,10,25,15,43,309714180.0,Événement Temporaire,2014-10-25 15:43:00,2014-10
+15832159949,45.780573,4.87264,371, lego lyon minifig rue octobre dfil villeurbanne dfiletrue,2014,10,25,15,43,309714180.0,Événement Temporaire,2014-10-25 15:43:00,2014-10
+15395937414,45.780573,4.87264,371, lego lyon rue octobre villeurbanne dfiletrue,2014,10,25,15,43,309714180.0,Événement Temporaire,2014-10-25 15:43:00,2014-10
+15398569943,45.780573,4.87264,371, lego lyon batman rue asylum octobre villeurbanne arkham dfiletrue,2014,10,25,15,47,309714420.0,Événement Temporaire,2014-10-25 15:47:00,2014-10
+15832159099,45.780573,4.87264,371, lego lyon batman rue asylum octobre villeurbanne arkham dfiletrue,2014,10,25,15,47,309714420.0,Événement Temporaire,2014-10-25 15:47:00,2014-10
+15832158859,45.780573,4.87264,371, lego lyon moto minifig rue octobre dfil villeurbanne gendarmerie dfiletrue,2014,10,25,15,47,309714420.0,Événement Temporaire,2014-10-25 15:47:00,2014-10
+15395936434,45.780573,4.87264,371, lego lyon moto minifig rue octobre dfil villeurbanne gendarmerie dfiletrue,2014,10,25,15,46,309714360.0,Événement Temporaire,2014-10-25 15:46:00,2014-10
+15830940770,45.780573,4.87264,371, lego lyon rue delorean octobre martymcfly villeurbanne dfiletrue retourverlefutur,2014,10,25,15,46,309714360.0,Événement Temporaire,2014-10-25 15:46:00,2014-10
+15832157829,45.780573,4.87264,371, lego lyon minifig rue octobre dfil villeurbanne dfiletrue,2014,10,25,15,45,309714300.0,Événement Temporaire,2014-10-25 15:45:00,2014-10
+15832446797,45.780573,4.87264,371, lego lyon minifig rue octobre dfil villeurbanne dfiletrue,2014,10,25,15,45,309714300.0,Événement Temporaire,2014-10-25 15:45:00,2014-10
+16018191145,45.780573,4.87264,371, lego lyon rue militaire octobre dfil villeurbanne vhicules dfiletrue,2014,10,25,15,51,309714660.0,Événement Temporaire,2014-10-25 15:51:00,2014-10
+15832156949,45.780573,4.87264,371, lego lyon rue militaire octobre dfil villeurbanne vhicules dfiletrue,2014,10,25,15,50,309714600.0,Événement Temporaire,2014-10-25 15:50:00,2014-10
+15992410836,45.780573,4.87264,371, lego lyon rue militaire octobre villeurbanne vhicules dfiletrue,2014,10,25,15,49,309714540.0,Événement Temporaire,2014-10-25 15:49:00,2014-10
+15830775958,45.780573,4.87264,371, lego lyon minifig rue militaire octobre dfil villeurbanne vhicules dfiletrue,2014,10,25,15,49,309714540.0,Événement Temporaire,2014-10-25 15:49:00,2014-10
+15830938710,45.780573,4.87264,371, lego lyon rue militaire octobre dfil villeurbanne vhicules dfiletrue,2014,10,25,15,49,309714540.0,Événement Temporaire,2014-10-25 15:49:00,2014-10
+16017500762,45.780573,4.87264,371, lego lyon batman minifig rue asylum octobre villeurbanne arkham dfiletrue,2014,10,25,15,48,309714480.0,Événement Temporaire,2014-10-25 15:48:00,2014-10
+15830775188,45.780573,4.87264,371, lego lyon batman rue asylum octobre villeurbanne arkham dfiletrue,2014,10,25,15,48,309714480.0,Événement Temporaire,2014-10-25 15:48:00,2014-10
+15832155309,45.780573,4.87264,371, lego lyon rue militaire octobre dfil villeurbanne vhicules dfiletrue,2014,10,25,15,53,309714780.0,Événement Temporaire,2014-10-25 15:53:00,2014-10
+15395932954,45.780573,4.87264,371, lego lyon rue militaire octobre dfil villeurbanne vhicules dfiletrue,2014,10,25,15,53,309714780.0,Événement Temporaire,2014-10-25 15:53:00,2014-10
+15832154829,45.780573,4.87264,371, lego lyon rue octobre villeurbanne dfiletrue,2014,10,25,15,52,309714720.0,Événement Temporaire,2014-10-25 15:52:00,2014-10
+15992408436,45.780573,4.87264,371, lego lyon rue octobre villeurbanne dfiletrue,2014,10,25,15,52,309714720.0,Événement Temporaire,2014-10-25 15:52:00,2014-10
+16016227241,45.780573,4.87264,371, lego lyon minifig rue militaire octobre dfil villeurbanne vhicules dfiletrue,2014,10,25,15,52,309714720.0,Événement Temporaire,2014-10-25 15:52:00,2014-10
+15830936530,45.780573,4.87264,371, lego lyon rue militaire octobre dfil villeurbanne vhicules dfiletrue,2014,10,25,15,51,309714660.0,Événement Temporaire,2014-10-25 15:51:00,2014-10
+16017497962,45.780573,4.87264,371, lego lyon rue militaire octobre dfil villeurbanne vhicules dfiletrue,2014,10,25,15,54,309714840.0,Événement Temporaire,2014-10-25 15:54:00,2014-10
+15830773268,45.780573,4.87264,371, lego lyon rue militaire octobre dfil villeurbanne vhicules dfiletrue,2014,10,25,15,54,309714840.0,Événement Temporaire,2014-10-25 15:54:00,2014-10
+15398563953,45.780573,4.87264,371, lego lyon rue octobre pompiers villeurbanne dfiletrue,2014,10,25,15,55,309714900.0,Événement Temporaire,2014-10-25 15:55:00,2014-10
+16017497252,45.780573,4.87264,371, lego lyon rue octobre dfil pompiers villeurbanne dfiletrue,2014,10,25,15,55,309714900.0,Événement Temporaire,2014-10-25 15:55:00,2014-10
+15398563223,45.780573,4.87264,371, lego lyon rue militaire octobre dfil pompiers villeurbanne vhicules dfiletrue,2014,10,25,15,54,309714840.0,Événement Temporaire,2014-10-25 15:54:00,2014-10
+15830934870,45.780573,4.87264,371, lego lyon rue militaire octobre dfil villeurbanne vhicules dfiletrue,2014,10,25,15,54,309714840.0,Événement Temporaire,2014-10-25 15:54:00,2014-10
+16018185935,45.780573,4.87264,371, lego lyon rue octobre pompiers villeurbanne dfiletrue,2014,10,25,15,55,309714900.0,Événement Temporaire,2014-10-25 15:55:00,2014-10
+15992405336,45.780573,4.87264,371, lego lyon rue octobre dfil pompiers villeurbanne dfiletrue,2014,10,25,15,55,309714900.0,Événement Temporaire,2014-10-25 15:55:00,2014-10
+15830771158,45.780573,4.87264,371, lego lyon rue octobre pompiers villeurbanne dfiletrue,2014,10,25,15,56,309714960.0,Événement Temporaire,2014-10-25 15:56:00,2014-10
+15830770908,45.780573,4.87264,371, lego lyon rue octobre villeurbanne dfiletrue,2014,10,25,15,57,309715020.0,Événement Temporaire,2014-10-25 15:57:00,2014-10
+15830770648,45.780573,4.87264,371, lego lyon rue militaire octobre dfil villeurbanne vhicules dfiletrue,2014,10,25,15,49,309714540.0,Événement Temporaire,2014-10-25 15:49:00,2014-10
+15830933100,45.780573,4.87264,371, lego lyon minifig rue octobre villeurbanne dfiletrue,2014,10,25,15,56,309714960.0,Événement Temporaire,2014-10-25 15:56:00,2014-10
+15830911090,45.780573,4.87264,371, towerbridge lego lyon londres pont creator octobre villeurbanne,2014,10,25,16,35,309717300.0,Événement Temporaire,2014-10-25 16:35:00,2014-10
+16016201481,45.780573,4.87264,371, jaune lego lyon voiture creator lamborghini gallardo octobre villeurbanne,2014,10,25,16,30,309717000.0,Événement Temporaire,2014-10-25 16:30:00,2014-10
+15830746708,45.780573,4.87264,371, towerbridge lego lyon londres pont creator octobre villeurbanne,2014,10,25,16,35,309717300.0,Événement Temporaire,2014-10-25 16:35:00,2014-10
+16016200801,45.780573,4.87264,371, volkswagen lego lyon voiture creator octobre villeurbanne campervan,2014,10,25,16,29,309716940.0,Événement Temporaire,2014-10-25 16:29:00,2014-10
+15832127049,45.780573,4.87264,371, jaune lego lyon voiture creator lamborghini blanc gallardo octobre bleue cabriolet polizia villeurbanne,2014,10,25,16,29,309716940.0,Événement Temporaire,2014-10-25 16:29:00,2014-10
+16017442552,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne modularbuildings,2014,10,25,16,13,309715980.0,Événement Temporaire,2014-10-25 16:13:00,2014-10
+16017442342,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne,2014,10,25,16,12,309715920.0,Événement Temporaire,2014-10-25 16:12:00,2014-10
+16018131275,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne,2014,10,25,16,12,309715920.0,Événement Temporaire,2014-10-25 16:12:00,2014-10
+15992351106,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne modularbuildings,2014,10,25,16,12,309715920.0,Événement Temporaire,2014-10-25 16:12:00,2014-10
+15832384727,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne modularbuildings,2014,10,25,16,10,309715800.0,Événement Temporaire,2014-10-25 16:10:00,2014-10
+15992350396,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne modularbuildings,2014,10,25,16,10,309715800.0,Événement Temporaire,2014-10-25 16:10:00,2014-10
+15830878330,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne vaisseauspatialdebenny,2014,10,25,16,14,309716040.0,Événement Temporaire,2014-10-25 16:14:00,2014-10
+15830878070,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne modularbuildings,2014,10,25,16,13,309715980.0,Événement Temporaire,2014-10-25 16:13:00,2014-10
+15832383427,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne modularbuildings,2014,10,25,16,13,309715980.0,Événement Temporaire,2014-10-25 16:13:00,2014-10
+16018128825,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne modularbuildings,2014,10,25,16,13,309715980.0,Événement Temporaire,2014-10-25 16:13:00,2014-10
+15832382967,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne modularbuildings,2014,10,25,16,40,309717600.0,Événement Temporaire,2014-10-25 16:40:00,2014-10
+15992348706,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne modularbuildings,2014,10,25,16,41,309717660.0,Événement Temporaire,2014-10-25 16:41:00,2014-10
+15992348436,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne modularbuildings,2014,10,25,16,41,309717660.0,Événement Temporaire,2014-10-25 16:41:00,2014-10
+16017438712,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne modularbuildings,2014,10,25,16,41,309717660.0,Événement Temporaire,2014-10-25 16:41:00,2014-10
+16018127425,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne,2014,10,25,16,41,309717660.0,Événement Temporaire,2014-10-25 16:41:00,2014-10
+16016167271,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne modularbuildings,2014,10,25,16,15,309716100.0,Événement Temporaire,2014-10-25 16:15:00,2014-10
+15992347446,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne modularbuildings,2014,10,25,16,15,309716100.0,Événement Temporaire,2014-10-25 16:15:00,2014-10
+16016166581,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne vaisseauspatialdebenny,2014,10,25,16,14,309716040.0,Événement Temporaire,2014-10-25 16:14:00,2014-10
+16018126285,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne vaisseauspatialdebenny,2014,10,25,16,14,309716040.0,Événement Temporaire,2014-10-25 16:14:00,2014-10
+15992346666,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne,2014,10,25,16,16,309716160.0,Événement Temporaire,2014-10-25 16:16:00,2014-10
+15830711508,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne,2014,10,25,16,16,309716160.0,Événement Temporaire,2014-10-25 16:16:00,2014-10
+15395869994,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne,2014,10,25,16,16,309716160.0,Événement Temporaire,2014-10-25 16:16:00,2014-10
+16016165011,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne,2014,10,25,16,16,309716160.0,Événement Temporaire,2014-10-25 16:16:00,2014-10
+16016164781,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne modularbuildings,2014,10,25,16,15,309716100.0,Événement Temporaire,2014-10-25 16:15:00,2014-10
+15830710448,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne modularbuildings,2014,10,25,16,15,309716100.0,Événement Temporaire,2014-10-25 16:15:00,2014-10
+16017435042,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne,2014,10,25,16,15,309716100.0,Événement Temporaire,2014-10-25 16:15:00,2014-10
+15832378217,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne,2014,10,25,16,17,309716220.0,Événement Temporaire,2014-10-25 16:17:00,2014-10
+15398499833,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne,2014,10,25,16,17,309716220.0,Événement Temporaire,2014-10-25 16:17:00,2014-10
+16018123235,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne modularbuildings,2014,10,25,16,20,309716400.0,Événement Temporaire,2014-10-25 16:20:00,2014-10
+15398499143,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne modularbuildings,2014,10,25,16,19,309716340.0,Événement Temporaire,2014-10-25 16:19:00,2014-10
+15992343136,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne,2014,10,25,16,18,309716280.0,Événement Temporaire,2014-10-25 16:18:00,2014-10
+15830708108,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne,2014,10,25,16,18,309716280.0,Événement Temporaire,2014-10-25 16:18:00,2014-10
+16016162011,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne modularbuildings,2014,10,25,16,20,309716400.0,Événement Temporaire,2014-10-25 16:20:00,2014-10
+15992342096,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne modularbuildings,2014,10,25,16,20,309716400.0,Événement Temporaire,2014-10-25 16:20:00,2014-10
+15395865544,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne modularbuildings,2014,10,25,16,20,309716400.0,Événement Temporaire,2014-10-25 16:20:00,2014-10
+16018121045,45.780573,4.87264,371, city lego lyon ville octobre villeurbanne modularbuildings,2014,10,25,16,40,309717600.0,Événement Temporaire,2014-10-25 16:40:00,2014-10
+15830863500,45.780573,4.87264,371, car lego lyon octobre villeurbanne,2014,10,25,16,54,309718440.0,Événement Temporaire,2014-10-25 16:54:00,2014-10
+16017245422,45.780573,4.87264,371, car lego lyon octobre moc villeurbanne,2014,10,25,16,54,309718440.0,Événement Temporaire,2014-10-25 16:54:00,2014-10
+15831901369,45.780573,4.87264,371, car lego lyon octobre moc villeurbanne,2014,10,25,16,54,309718440.0,Événement Temporaire,2014-10-25 16:54:00,2014-10
+15830516868,45.780573,4.87264,371, car lego lyon octobre moc villeurbanne,2014,10,25,16,54,309718440.0,Événement Temporaire,2014-10-25 16:54:00,2014-10
+15992153986,45.780573,4.87264,371, car lego lyon octobre moc villeurbanne,2014,10,25,16,54,309718440.0,Événement Temporaire,2014-10-25 16:54:00,2014-10
+15830681770,45.780573,4.87264,371, car lego lyon octobre moc villeurbanne,2014,10,25,16,55,309718500.0,Événement Temporaire,2014-10-25 16:55:00,2014-10
+15395676374,45.780573,4.87264,371, car lego lyon octobre moc villeurbanne,2014,10,25,16,53,309718380.0,Événement Temporaire,2014-10-25 16:53:00,2014-10
+15830680620,45.780573,4.87264,371, car lego lyon octobre moc villeurbanne,2014,10,25,16,53,309718380.0,Événement Temporaire,2014-10-25 16:53:00,2014-10
+15830514428,45.780573,4.87264,371, car lego lyon octobre moc villeurbanne,2014,10,25,16,53,309718380.0,Événement Temporaire,2014-10-25 16:53:00,2014-10
+16017931135,45.780573,4.87264,371, car lego lyon octobre moc villeurbanne,2014,10,25,16,53,309718380.0,Événement Temporaire,2014-10-25 16:53:00,2014-10
+15398308093,45.780573,4.87264,371, car lego lyon octobre moc villeurbanne,2014,10,25,16,53,309718380.0,Événement Temporaire,2014-10-25 16:53:00,2014-10
+15830678880,45.780573,4.87264,371, car lego lyon octobre moc villeurbanne,2014,10,25,16,53,309718380.0,Événement Temporaire,2014-10-25 16:53:00,2014-10
+15830512798,45.780573,4.87264,371, car lego lyon octobre moc villeurbanne,2014,10,25,16,53,309718380.0,Événement Temporaire,2014-10-25 16:53:00,2014-10
+15398307063,45.780573,4.87264,371, car lego lyon octobre moc villeurbanne,2014,10,25,16,54,309718440.0,Événement Temporaire,2014-10-25 16:54:00,2014-10
+15992149696,45.780573,4.87264,371, car lego lyon octobre moc villeurbanne,2014,10,25,16,54,309718440.0,Événement Temporaire,2014-10-25 16:54:00,2014-10
+15830511738,45.780573,4.87264,371, car lego lyon octobre moc villeurbanne,2014,10,25,16,54,309718440.0,Événement Temporaire,2014-10-25 16:54:00,2014-10
+15830677400,45.780573,4.87264,371, car lego lyon octobre moc villeurbanne,2014,10,25,16,54,309718440.0,Événement Temporaire,2014-10-25 16:54:00,2014-10
+15832151727,45.780573,4.87264,371, lego lyon bionicle octobre villeurbanne,2014,10,25,16,46,309717960.0,Événement Temporaire,2014-10-25 16:46:00,2014-10
+15830642690,45.780573,4.87264,371, lego lyon bionicle octobre villeurbanne,2014,10,25,16,46,309717960.0,Événement Temporaire,2014-10-25 16:46:00,2014-10
+15831861779,45.780573,4.87264,371, lego lyon bionicle octobre villeurbanne,2014,10,25,16,46,309717960.0,Événement Temporaire,2014-10-25 16:46:00,2014-10
+16017894275,45.780573,4.87264,371, lego lyon bionicle octobre villeurbanne,2014,10,25,16,47,309718020.0,Événement Temporaire,2014-10-25 16:47:00,2014-10
+16014140772,45.780573,4.87264,371, orange lego lyon octobre arctique villeurbanne,2014,10,25,16,18,309716280.0,Événement Temporaire,2014-10-25 16:18:00,2014-10
+15827570810,45.780573,4.87264,371, orange lego lyon octobre arctique villeurbanne,2014,10,25,16,18,309716280.0,Événement Temporaire,2014-10-25 16:18:00,2014-10
+15827570330,45.780573,4.87264,371, orange lego lyon octobre arctique villeurbanne,2014,10,25,16,20,309716400.0,Événement Temporaire,2014-10-25 16:20:00,2014-10
+16014827225,45.780573,4.87264,371, orange lego lyon octobre arctique villeurbanne,2014,10,25,16,16,309716160.0,Événement Temporaire,2014-10-25 16:16:00,2014-10
+16014826785,45.780573,4.87264,371, orange lego lyon octobre arctique villeurbanne,2014,10,25,16,16,309716160.0,Événement Temporaire,2014-10-25 16:16:00,2014-10
+15827384090,45.780573,4.87264,371, architecture lego lyon octobre villeurbanne,2014,10,25,16,40,309717600.0,Événement Temporaire,2014-10-25 16:40:00,2014-10
+15392381594,45.780573,4.87264,371, architecture lego lyon octobre villeurbanne,2014,10,25,16,40,309717600.0,Événement Temporaire,2014-10-25 16:40:00,2014-10
+15827231058,45.780573,4.87264,371, architecture lego lyon octobre villeurbanne,2014,10,25,16,36,309717360.0,Événement Temporaire,2014-10-25 16:36:00,2014-10
+16014642965,45.780573,4.87264,371, architecture lego lyon octobre villeurbanne,2014,10,25,16,36,309717360.0,Événement Temporaire,2014-10-25 16:36:00,2014-10
+15395016023,45.780573,4.87264,371, architecture lego lyon octobre villeurbanne,2014,10,25,16,36,309717360.0,Événement Temporaire,2014-10-25 16:36:00,2014-10
+15827229768,45.780573,4.87264,371, architecture lego lyon octobre villeurbanne,2014,10,25,16,36,309717360.0,Événement Temporaire,2014-10-25 16:36:00,2014-10
+15828898317,45.780573,4.87264,371, architecture lego lyon octobre villeurbanne,2014,10,25,16,36,309717360.0,Événement Temporaire,2014-10-25 16:36:00,2014-10
+15827228928,45.780573,4.87264,371, architecture lego lyon octobre villeurbanne,2014,10,25,16,36,309717360.0,Événement Temporaire,2014-10-25 16:36:00,2014-10
+15828610459,45.780573,4.87264,371, architecture lego lyon octobre villeurbanne,2014,10,25,16,36,309717360.0,Événement Temporaire,2014-10-25 16:36:00,2014-10
+15988859586,45.780573,4.87264,371, architecture lego lyon octobre villeurbanne,2014,10,25,16,36,309717360.0,Événement Temporaire,2014-10-25 16:36:00,2014-10
+15392377884,45.780573,4.87264,371, architecture lego lyon octobre villeurbanne,2014,10,25,16,36,309717360.0,Événement Temporaire,2014-10-25 16:36:00,2014-10
+15988858876,45.780573,4.87264,371, architecture lego lyon octobre villeurbanne,2014,10,25,16,37,309717420.0,Événement Temporaire,2014-10-25 16:37:00,2014-10
+15828609099,45.780573,4.87264,371, architecture lego lyon octobre villeurbanne,2014,10,25,16,37,309717420.0,Événement Temporaire,2014-10-25 16:37:00,2014-10
+16012682831,45.780573,4.87264,371, architecture lego lyon octobre villeurbanne,2014,10,25,16,37,309717420.0,Événement Temporaire,2014-10-25 16:37:00,2014-10
+15988857676,45.780573,4.87264,371, architecture lego lyon octobre villeurbanne,2014,10,25,16,37,309717420.0,Événement Temporaire,2014-10-25 16:37:00,2014-10
+16013948702,45.780573,4.87264,371, architecture lego lyon octobre villeurbanne,2014,10,25,16,37,309717420.0,Événement Temporaire,2014-10-25 16:37:00,2014-10
+16013948452,45.780573,4.87264,371, architecture lego lyon octobre villeurbanne,2014,10,25,16,37,309717420.0,Événement Temporaire,2014-10-25 16:37:00,2014-10
+15395010653,45.780573,4.87264,371, architecture lego lyon octobre villeurbanne,2014,10,25,16,37,309717420.0,Événement Temporaire,2014-10-25 16:37:00,2014-10
+15827377470,45.780573,4.87264,371, architecture lego lyon octobre villeurbanne,2014,10,25,16,38,309717480.0,Événement Temporaire,2014-10-25 16:38:00,2014-10
+15395010033,45.780573,4.87264,371, architecture lego lyon octobre villeurbanne,2014,10,25,16,38,309717480.0,Événement Temporaire,2014-10-25 16:38:00,2014-10
+15827224008,45.780573,4.87264,371, architecture lego lyon octobre villeurbanne,2014,10,25,16,38,309717480.0,Événement Temporaire,2014-10-25 16:38:00,2014-10
+15392374234,45.780573,4.87264,371, architecture lego lyon octobre villeurbanne,2014,10,25,16,38,309717480.0,Événement Temporaire,2014-10-25 16:38:00,2014-10
+16012679711,45.780573,4.87264,371, architecture lego lyon octobre villeurbanne,2014,10,25,16,39,309717540.0,Événement Temporaire,2014-10-25 16:39:00,2014-10
+15827222868,45.780573,4.87264,371, architecture lego lyon octobre villeurbanne,2014,10,25,16,39,309717540.0,Événement Temporaire,2014-10-25 16:39:00,2014-10
+15395008233,45.780573,4.87264,371, architecture lego lyon octobre villeurbanne,2014,10,25,16,39,309717540.0,Événement Temporaire,2014-10-25 16:39:00,2014-10
+15395007833,45.780573,4.87264,371, architecture lego lyon octobre villeurbanne,2014,10,25,16,40,309717600.0,Événement Temporaire,2014-10-25 16:40:00,2014-10
+15828603709,45.780573,4.87264,371, architecture lego lyon octobre villeurbanne,2014,10,25,16,40,309717600.0,Événement Temporaire,2014-10-25 16:40:00,2014-10

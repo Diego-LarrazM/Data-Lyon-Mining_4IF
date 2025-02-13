@@ -1,0 +1,121 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4176616422,45.762688,4.827423,172,petit banc nikon lyon hdr banc petit mm,2009,10,18,15,6,-1.710636141196666,undef
+5178545384,45.762769,4.827269,172,old lyon cityscape frlyon,2010,11,5,14,22,-1.3344597780385803,undef
+4123070363,45.762755,4.827418,172,small street rue boeuf rue saintjean france restaurant lyon,2009,9,8,8,43,-1.7501878788334722,undef
+5255101956,45.762736,4.827227,172,img jpg lyonftedeslumires lyon rhne france rhne fr lyonftedeslumires,2010,12,11,14,3,-1.2991113035533532,undef
+6180961906,45.762596,4.827353,172, architecture lyon,2011,9,8,17,42,-1.032768894124216,undef
+6235001197,45.762643,4.827311,172,menu gourmand nb city light shadow blackandwhite bw sun white france monochrome table soleil town blackwhite chair lyon noiretblanc terrace lumire terrasse rhne nb ombre blanc ville chaise noirblanc nikok,2011,5,12,17,18,-1.1496744527042544,undef
+6229823721,45.762635,4.827439,172,collage vieux lyonwm france film mm lyon,2011,9,28,17,14,-1.0131427520604008,undef
+6230335780,45.762635,4.827439,172,grumpy door france film mm lyon,2011,9,28,17,14,-1.0131427520604008,undef
+6230334678,45.762635,4.827439,172,cnv wm france film mm lyon,2011,9,28,17,14,-1.0131427520604008,undef
+6230333348,45.762635,4.827439,172,bike france film mm lyon,2011,9,24,14,14,-1.0171945831412803,undef
+6229629189,45.76263,4.827283,172, france lyon,2011,8,15,18,54,-1.0562940709453217,undef
+6229628461,45.76263,4.827283,172, france lyon,2011,8,15,18,54,-1.0562940709453217,undef
+6229617329,45.762572,4.827263,172, france lyon,2011,8,15,17,2,-1.056370469107116,undef
+6230133238,45.762613,4.827363,172, france lyon,2011,8,15,17,2,-1.056370469107116,undef
+6226457258,45.762613,4.827353,172,menu gourmand city light shadow sun white france table soleil town chair lyon terrace lumire terrasse rhne ombre blanc ville chaise nikok,2011,5,12,17,18,-1.1496744527042544,undef
+6304201420,45.762598,4.827396,172,lyon lyon,2011,11,1,23,51,-0.9794750371346496,undef
+6304201216,45.762598,4.827396,172,lyon lyon,2011,11,1,23,51,-0.9794750371346496,undef
+6303674879,45.762598,4.827396,172,lyon lyon,2011,11,1,23,50,-0.979475719261094,undef
+6303674653,45.762598,4.827396,172,lyon lyon,2011,11,1,23,50,-0.979475719261094,undef
+6304200170,45.762598,4.827396,172,lyon lyon,2011,11,1,23,50,-0.979475719261094,undef
+6303674247,45.762598,4.827396,172,lyon lyon,2011,11,1,23,50,-0.979475719261094,undef
+6303673999,45.762598,4.827396,172,lyon lyon,2011,11,1,23,50,-0.979475719261094,undef
+6903116863,45.762575,4.827252,172,img f ,2012,2,18,15,58,-0.8727311161997052,undef
+6903115467,45.762661,4.827198,172,img f ,2012,2,18,15,58,-0.8727311161997052,undef
+6903114079,45.762658,4.827284,172,img f ,2012,2,18,15,58,-0.8727311161997052,undef
+7422477476,45.762666,4.827333,172,lyon france lyon rhnealpes,2012,6,22,15,12,-0.749979733989509,undef
+7317144664,45.762709,4.827328,172, ,2012,5,1,0,0,-0.8016794614780627,undef
+8218718212,45.762666,4.827333,172, icehockey guildfordflames iphoneography,2011,5,1,13,42,-1.1606266748986314,undef
+8388158341,45.76263,4.827308,172,prts microsoft engage roadshow cour loge lyon fb mobile,2013,1,17,8,48,-0.5449488957796781,undef
+8389246446,45.76263,4.827308,172,petit djeuner coin feu fb mobile,2013,1,17,8,53,-0.5449454851474551,undef
+9118041687,45.7625,4.827333,172, lyon,2013,6,18,21,4,-0.3951430145240547,undef
+9120270522,45.762666,4.827333,172, lyon,2013,6,18,20,27,-0.3951682532025046,undef
+9370334072,45.762702,4.827305,172, ,2013,6,25,23,5,-0.3881846426627668,undef
+9370333640,45.762702,4.827305,172, ,2013,6,25,21,48,-0.3882371663990004,undef
+9370333134,45.762702,4.827305,172, ,2013,6,25,21,50,-0.3882358021461112,undef
+9370332906,45.762702,4.827305,172, ,2013,6,25,21,50,-0.3882358021461112,undef
+9370332938,45.762702,4.827305,172, ,2013,6,25,22,18,-0.3882167026056626,undef
+9370332516,45.762702,4.827305,172, ,2013,6,25,22,19,-0.388216020479218,undef
+9367552471,45.762702,4.827305,172, ,2013,6,25,23,4,-0.3881853247892114,undef
+9370331832,45.762702,4.827305,172, ,2013,6,25,23,4,-0.3881853247892114,undef
+10383221413,45.762695,4.827289,172, lyon vieux traboule,2013,10,19,16,55,-0.2744946281425372,undef
+12502579224,45.762762,4.827332,172,lyon traboules winter france architecture nikon europe lyon oldtown sunnyday traboule vieuxlyon,2014,1,2,16,0,-0.2008624890810013,undef
+12502612164,45.762762,4.827332,172,lyon traboules winter france architecture nikon europe lyon oldtown sunnyday traboule vieuxlyon,2014,1,2,15,55,-0.2008658997132243,undef
+12502255763,45.762762,4.827332,172,lyon traboules winter france architecture nikon europe lyon oldtown sunnyday traboule vieuxlyon,2014,1,2,15,55,-0.2008658997132243,undef
+12502604984,45.762762,4.827332,172,lyon traboules winter france architecture nikon europe lyon oldtown sunnyday traboule vieuxlyon,2014,1,2,15,56,-0.2008652175867797,undef
+12502117995,45.762762,4.827332,172,lyon traboules winter france architecture nikon europe lyon oldtown sunnyday traboule vieuxlyon,2014,1,2,15,56,-0.2008652175867797,undef
+12502246133,45.762762,4.827332,172,lyon traboules winter france architecture nikon europe lyon oldtown sunnyday traboule vieuxlyon,2014,1,2,15,57,-0.2008645354603351,undef
+12502594664,45.762762,4.827332,172,lyon traboules winter france architecture nikon europe lyon oldtown sunnyday traboule vieuxlyon,2014,1,2,15,57,-0.2008645354603351,undef
+12502591054,45.762762,4.827332,172,lyon traboules winter france architecture nikon europe lyon oldtown sunnyday traboule vieuxlyon,2014,1,2,15,57,-0.2008645354603351,undef
+12502235553,45.762762,4.827332,172,lyon traboules winter france architecture nikon europe lyon oldtown sunnyday traboule vieuxlyon,2014,1,2,15,58,-0.2008638533338905,undef
+12502583184,45.762762,4.827332,172,lyon traboules winter france architecture nikon europe lyon oldtown sunnyday traboule vieuxlyon,2014,1,2,15,59,-0.2008631712074459,undef
+13043025553,45.762695,4.827364,172,img h opera place jean lyon vieux rousse croix nouvel basilique fourviere rhone croixrousse bellecour traboules traboule saone terreaux,2014,3,2,16,8,-0.142903569336867,undef
+15664643385,45.762608,4.827386,172,salade lyonnaise france lyon lione francia vieuxlyon saladelyonnaise,2014,10,4,22,1,0.0695058306241208,undef
+15679820026,45.762619,4.827375,172,rosette france lyon lione francia rosette bouchon vieuxlyon,2014,10,4,22,0,0.0695051484976762,undef
+11350424913,45.762686,4.827312,172,view lyon france lyon rhone rhnealpes,2013,11,30,11,10,-0.233474954396968,undef
+11350260745,45.762686,4.827312,172,view lyon france lyon rhone rhnealpes,2013,11,30,11,16,-0.2334708616383005,undef
+16455190360,45.762598,4.827418,172, france lyon,2014,5,15,3,7,-0.0707489161543184,undef
+16455189360,45.762598,4.827418,172, france lyon,2014,5,15,2,26,-0.0707768833385467,undef
+16022680203,45.762598,4.827418,172, france lyon,2014,5,14,20,26,-0.0710224488586,undef
+20793689831,45.762673,4.827342,172,dame fourvivre lyon square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bf e bda fb b b,2015,8,22,14,25,0.3854831707940304,undef
+20599923799,45.762673,4.827342,172,cathdrale st jean lyon square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bf e bda fb b b,2015,8,22,14,25,0.3854831707940304,undef
+20793685141,45.762673,4.827342,172,cathdrale st jean lyon square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bf e bda fb b b,2015,8,22,14,24,0.3854824886675858,undef
+20599919079,45.762673,4.827342,172,dame fourvivre lyon square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bf e bda fb b b,2015,8,22,14,24,0.3854824886675858,undef
+19797189134,45.762736,4.827344,172,p ,2015,7,7,12,36,0.3402247633217636,undef
+21277769110,45.762628,4.827418,172,lyon place neuve saintjean ,2015,8,3,20,44,0.3670787171924806,undef
+21845479824,45.762725,4.827407,172,muse miniature ,2015,7,1,0,0,0.3338155032483726,undef
+22125834971,45.762635,4.827386,172,traboule vieux lyon courtyard well traboule vieuxlyon mmsummicron,2015,10,7,13,15,0.4306194776327152,undef
+25477770921,45.76271,4.827235,172,vive bresse bressans city november autumn france building architecture facade automne canon eos restaurant town alley novembre lyon district jura vin ruelle btiment ville faade gastronomie poulet quartier bouchon vieuxlyon sane morille saone ma lyonnais bresse bressan ventresjaunes,2015,11,5,14,19,0.4591487340513513,undef
+26129553994,45.762588,4.827386,172,fish dish lyon france france iphone dining france vacation,2016,4,30,20,26,0.6332594626542495,undef
+26669491701,45.762619,4.827327,172,pampres rouge lyon france france iphone dining france vacation,2016,4,30,20,26,0.6332594626542495,undef
+26301115462,45.762649,4.827244,172,lyon peintre terrasse dun bouchon lyonnais faisant petit lifting gnafron lyon terrasse bouchon rhone peintre bistrot guignol gnafron,2016,4,12,18,40,0.6155064398072855,undef
+26061926920,45.762725,4.827407,172,fin visite ,2016,3,26,8,33,0.5983939336917938,undef
+27882652895,45.762702,4.827197,172, ,2014,6,6,21,22,-0.0483922219327997,undef
+27780947525,45.762652,4.82723,172,cafeye view france caf lyon vieuxlyon,2016,6,13,13,14,0.6761843155595655,undef
+27780936755,45.762569,4.8274,172,soupe loignon salade lyonnaise france lyon onionsoup saladelyonnaise soupaloignon,2016,6,13,12,38,0.6761597590075601,undef
+27706705711,45.7626,4.827394,172,time lunch france lyon bistro,2016,6,13,12,35,0.6761577126282263,undef
+28551219802,45.762711,4.827288,172,img export lyon earrondissement auvergnerhnealpes france,2016,7,10,11,32,0.7026358148279729,undef
+28551218212,45.762775,4.827241,172,img export lyon earrondissement auvergnerhnealpes france,2016,7,10,11,32,0.7026358148279729,undef
+28344564720,45.76265,4.82719,172,boudin noir lyonnaise pommes instagramapp square squareformat iphoneography uploadedbyinstagram juno,2016,7,29,15,4,0.7214434051582769,undef
+31943862510,45.76265,4.827336,172, ,2016,12,25,15,51,0.8678325150529365,undef
+32201170021,45.762583,4.827419,172, ,2016,12,25,15,28,0.8678168261447109,undef
+34730912746,45.762707,4.827225,172,go lyon garedelyonsaintexupry garedelyon france placesaintjean street blackandwhite heald jack tourist travel lifeissostrange destinationunknown nikon,2017,5,19,14,44,1.0102148142120595,undef
+34688881694,45.76271,4.827277,172,place neuve saintjean vieux lyon sign bouchon lyonnais lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw placeneuvesaintjean sign bouchonlyonnais,2017,6,3,11,6,1.0248000418503362,undef
+35363105682,45.76271,4.827277,172,place neuve saintjean vieux lyon palais saint jean restaurant lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw placeneuvesaintjean lepalaissaintjeanrestaurant ruesaintjean ruedupalaisdejustice,2017,6,3,11,6,1.0248000418503362,undef
+35363098872,45.76271,4.827277,172,place neuve saintjean vieux lyon palais saint jean restaurant lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw placeneuvesaintjean lepalaissaintjeanrestaurant ruesaintjean,2017,6,3,11,6,1.0248000418503362,undef
+35399682201,45.76271,4.827277,172,place neuve saintjean vieux lyon road sign including rue saintjean lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw placeneuvesaintjean sign roadsign lepalaissaintjeanrestaurant ruesaintjean sign roadsigns stormtrooper starwars streetart,2017,6,3,11,6,1.0248000418503362,undef
+35363075712,45.76271,4.827277,172,place neuve saintjean vieux lyon sculpture shepard lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw placeneuvesaintjean lepalaissaintjeanrestaurant ruesaintjean sculpture shepard,2017,6,3,11,6,1.0248000418503362,undef
+35143536740,45.76271,4.827277,172,place neuve saintjean vieux lyon sign pampres rouge lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw placeneuvesaintjean sign lespampresrouges,2017,6,3,11,7,1.024800723976781,undef
+34688837334,45.76271,4.827277,172,place neuve saintjean vieux lyon balcony lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw placeneuvesaintjean balcony balcony,2017,6,3,11,7,1.024800723976781,undef
+35491249546,45.76271,4.827277,172,place neuve saintjean vieux lyon sign gourmand saint jean lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw placeneuvesaintjean sign legourmanddesaintjean,2017,6,3,11,7,1.024800723976781,undef
+35530163515,45.76271,4.827277,172,place neuve saintjean vieux lyon towards rue buf lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw placeneuvesaintjean ruedubuf,2017,6,3,11,7,1.024800723976781,undef
+35527172225,45.762619,4.827386,172,lyon ,2017,6,20,14,50,1.041651293537549,undef
+34923189142,45.762659,4.827375,172,restaulyons lyon,2017,6,3,21,13,1.025214092602204,undef
+37799289191,45.762822,4.827308,172,september lyon france ,2017,9,9,15,37,1.1212465819777124,undef
+37485452706,45.762569,4.827355,172,longue trabule lyon ,2017,9,19,14,1,1.1310037186411634,undef
+38625898602,45.762705,4.82743,172,limoncello ,2017,11,25,20,21,1.1970744860643916,undef
+39979188325,45.76268,4.827235,172,vieuxlyon unesco lyon vieuxlyon patrimoine old night bluetime p lovely,2018,2,21,19,36,1.2834828534331446,undef
+44250907574,45.762583,4.827289,172,lyon musee minature cinema xmen p france lyon,2018,9,27,10,6,1.4972271748462,undef
+44250907234,45.762583,4.827289,172,lyon musee minature cinema p france lyon,2018,9,27,10,7,1.4972278569726447,undef
+44970120941,45.762583,4.827289,172,lyon musee minature cinema p france lyon,2018,9,27,10,31,1.4972442280073148,undef
+44970120781,45.762583,4.827289,172,lyon musee minature cinema p france lyon,2018,9,27,10,32,1.4972449101337597,undef
+44970120391,45.762583,4.827289,172,lyon musee minature cinema workshop p france lyon,2018,9,27,10,45,1.4972537777775392,undef
+44970120151,45.762583,4.827289,172,lyon musee minature cinema alien p france lyon,2018,9,27,10,48,1.497255824156873,undef
+44250905644,45.762583,4.827289,172,lyon musee minature cinema restaurant p france lyon,2018,9,27,11,20,1.4972776522031,undef
+44250904774,45.762583,4.827289,172,lyon musee minature cinema france lyon,2018,9,27,12,10,1.4973117585253295,undef
+44970119071,45.762583,4.827289,172,lyon musee minature cinema france lyon,2018,9,27,12,11,1.4973124406517742,undef
+44970118811,45.762583,4.827289,172,lyon musee minature cinema france lyon,2018,9,27,12,12,1.4973131227782186,undef
+44970118701,45.762583,4.827289,172,lyon musee minature cinema france lyon,2018,9,27,12,13,1.4973138049046633,undef
+44970118591,45.762583,4.827289,172,lyon musee minature cinema france lyon,2018,9,27,12,18,1.4973172155368863,undef
+44970118231,45.762583,4.827289,172,lyon musee beau artes janmot poem soul france lyon,2018,9,27,14,1,1.4973874745606792,undef
+30033257377,45.762583,4.827289,172,lyon musee minature cinema p france lyon,2018,9,27,9,53,1.4972183072024203,undef
+30033256707,45.762583,4.827289,172,lyon musee minature cinema model natural history museum p france lyon,2018,9,27,11,17,1.4972756058237662,undef
+30033251977,45.762583,4.827289,172,lyon musee minature cinema hunger game p france lyon,2018,9,27,10,6,1.4972271748462,undef
+45796934942,45.762638,4.827341,172,entre rue saintjean rue boeuf lyon france frankreich,2018,11,12,7,45,1.542315050707319,undef
+46515950224,45.762688,4.827394,172,lyon ,2019,2,22,13,18,1.6427329309951124,undef
+31769814657,45.762711,4.827347,172, lyon rhne france,2018,12,8,22,38,1.5684630037078826,undef
+31308759667,45.762577,4.827435,172, lyon france europe leica mm homescreen glass,2018,10,13,10,50,1.512973381693173,undef
+45524058754,45.762577,4.827435,172,lyonluf lyon france europe leica mm homescreen,2018,10,13,15,16,1.513154827327435,undef
+32364187078,45.762577,4.827435,172, homescreen red,2018,10,13,10,40,1.512966560428727,undef
+44396312630,45.762619,4.827336,172, ,2018,12,6,23,44,1.5665434998927992,undef

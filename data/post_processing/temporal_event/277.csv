@@ -1,0 +1,69 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+11370456873,45.740378,4.819318,277, festival light lyon fte festivaloflights lumires ftedeslumires,2013,12,9,22,31,282090660.0,undef,2013-12-09 22:31:00
+11370346266,45.740378,4.819318,277, festival light lyon fte festivaloflights lumires ftedeslumires,2013,12,9,22,31,282090660.0,undef,2013-12-09 22:31:00
+11370344696,45.740378,4.819318,277, festival light lyon fte festivaloflights lumires ftedeslumires,2013,12,9,22,30,282090600.0,undef,2013-12-09 22:30:00
+11370376024,45.740378,4.819318,277, festival light lyon fte festivaloflights lumires ftedeslumires,2013,12,9,22,30,282090600.0,undef,2013-12-09 22:30:00
+11370341266,45.740378,4.819318,277, festival light lyon fte festivaloflights lumires ftedeslumires,2013,12,9,22,29,282090540.0,undef,2013-12-09 22:29:00
+11370448983,45.740378,4.819318,277, festival light lyon fte festivaloflights lumires ftedeslumires,2013,12,9,22,28,282090480.0,undef,2013-12-09 22:28:00
+11370339216,45.740378,4.819318,277, festival light lyon fte festivaloflights lumires ftedeslumires,2013,12,9,22,28,282090480.0,undef,2013-12-09 22:28:00
+11370370864,45.740378,4.819318,277, festival light lyon fte festivaloflights lumires ftedeslumires,2013,12,9,22,28,282090480.0,undef,2013-12-09 22:28:00
+11370369574,45.740378,4.819318,277, festival light lyon fte festivaloflights lumires ftedeslumires,2013,12,9,22,28,282090480.0,undef,2013-12-09 22:28:00
+11370305683,45.740378,4.819318,277, festival light lyon fte festivaloflights lumires ftedeslumires,2013,12,9,22,32,282090720.0,undef,2013-12-09 22:32:00
+11370195616,45.740378,4.819318,277, festival light lyon fte festivaloflights lumires ftedeslumires,2013,12,9,22,32,282090720.0,undef,2013-12-09 22:32:00
+16021740118,45.740289,4.819296,277,lyon htel rgion rhnealpes france architecture frankreich lyon lione frana rhne frankrijk francia francie confluence frankrig lyon modernbuilding frankrike hteldergion governmentbuilding rhnealpes francja portzamparc christiandeportzamparc deportzamparc december,2014,12,22,14,17,314720220.0,undef,2014-12-22 14:17:00
+16209066225,45.740289,4.819296,277,lyon htel rgion rhnealpes france architecture frankreich lyon lione frana rhne frankrijk francia francie confluence frankrig lyon modernbuilding frankrike hteldergion governmentbuilding rhnealpes francja portzamparc christiandeportzamparc deportzamparc december,2014,12,22,14,12,314719920.0,undef,2014-12-22 14:12:00
+15870334190,45.740378,4.819318,277, lyon fte lumires ftedeslumires,2014,12,8,22,27,313540020.0,undef,2014-12-08 22:27:00
+15871847297,45.740378,4.819318,277, lyon fte lumires ftedeslumires,2014,12,8,22,25,313539900.0,undef,2014-12-08 22:25:00
+32279482463,45.740254,4.819293,277,cathdrale deau lumire htel rgion fetedeslumieres lyon,2014,12,5,22,12,313279920.0,undef,2014-12-05 22:12:00
+33094553005,45.740254,4.819293,277,cathdrale deau lumire htel rgion fetedeslumieres lyon,2014,12,5,22,12,313279920.0,undef,2014-12-05 22:12:00
+32938533372,45.740254,4.819293,277,cathdrale deau lumire htel rgion fetedeslumieres lyon,2014,12,5,22,12,313279920.0,undef,2014-12-05 22:12:00
+32712501580,45.740254,4.819293,277,cathdrale deau lumire htel rgion fetedeslumieres lyon,2014,12,5,22,5,313279500.0,undef,2014-12-05 22:05:00
+32606459325,45.740497,4.819241,277, ,2017,1,30,10,29,381234540.0,undef,2017-01-30 10:29:00
+32333396906,45.740333,4.81935,277,red light fdl lyon deepweb supermimil,2016,12,10,21,41,376868460.0,undef,2016-12-10 21:41:00
+32372540845,45.740333,4.81935,277,sphrique fdl lyon deepweb supermimil,2016,12,10,21,44,376868640.0,undef,2016-12-10 21:44:00
+32372538015,45.740333,4.81935,277,p fdl lyon deepweb supermimil,2016,12,10,21,43,376868580.0,undef,2016-12-10 21:43:00
+32333395286,45.740333,4.81935,277,p fdl lyon deepweb supermimil,2016,12,10,21,42,376868520.0,undef,2016-12-10 21:42:00
+32222255162,45.740333,4.81935,277,deep web fdl lyon deepweb supermimil,2016,12,10,21,43,376868580.0,undef,2016-12-10 21:43:00
+31561372903,45.740333,4.81935,277,lazr monstr fdl lyon deepweb supermimil,2016,12,10,21,44,376868640.0,undef,2016-12-10 21:44:00
+32125987786,45.740304,4.819328,277,fte lumires deep web fte lumires lyon hteldergion confluence,2016,12,11,0,22,376878120.0,undef,2016-12-11 00:22:00
+32006770531,45.740244,4.819264,277,phm v decembre confluence decembre fete fetedeslumieres hotel lumiere lumieres lyon region france,2016,12,9,22,1,376783260.0,undef,2016-12-09 22:01:00
+32125215525,45.740244,4.819264,277,phm v decembre confluence decembre fete fetedeslumieres hotel lumiere lumieres lyon region france,2016,12,9,22,6,376783560.0,undef,2016-12-09 22:06:00
+32006770371,45.740244,4.819264,277,phm v decembre confluence decembre fete fetedeslumieres hotel lumiere lumieres lyon region france,2016,12,9,22,5,376783500.0,undef,2016-12-09 22:05:00
+32006770191,45.740244,4.819264,277,phm v decembre confluence decembre fete fetedeslumieres hotel lumiere lumieres lyon region france,2016,12,9,22,10,376783800.0,undef,2016-12-09 22:10:00
+31315252903,45.740244,4.819264,277,phm v decembre confluence decembre fete fetedeslumieres hotel lumiere lumieres lyon region france,2016,12,9,22,5,376783500.0,undef,2016-12-09 22:05:00
+31315252673,45.740244,4.819264,277,phm v decembre confluence decembre fete fetedeslumieres hotel lumiere lumieres lyon region france,2016,12,9,22,15,376784100.0,undef,2016-12-09 22:15:00
+31976601042,45.740244,4.819264,277,phm v decembre confluence decembre fete fetedeslumieres hotel lumiere lumieres lyon region france,2016,12,9,22,6,376783560.0,undef,2016-12-09 22:06:00
+35654701806,45.740378,4.819318,277, lyon,2016,12,8,22,52,376699920.0,undef,2016-12-08 22:52:00
+35563510151,45.740378,4.819318,277, lyon,2016,12,8,22,52,376699920.0,undef,2016-12-08 22:52:00
+35306719000,45.740378,4.819318,277, ftedeslumires lyon,2016,12,8,22,52,376699920.0,undef,2016-12-08 22:52:00
+35563479071,45.740378,4.819318,277, ftedeslumires lyon,2016,12,8,22,51,376699860.0,undef,2016-12-08 22:51:00
+35306692500,45.740378,4.819318,277, ftedeslumires lyon,2016,12,8,23,1,376700460.0,undef,2016-12-08 23:01:00
+31564519716,45.740304,4.819328,277,fte lumires deep web fte lumires lyon hteldergion confluence,2016,12,11,0,41,376879260.0,undef,2016-12-11 00:41:00
+31236319351,45.740458,4.819208,277, ,2016,12,1,10,11,376049460.0,undef,2016-12-01 10:11:00
+27995507008,45.740397,4.819258,277, ,2018,5,3,11,15,420808500.0,undef,2018-05-03 11:15:00
+44013580090,45.740378,4.819318,277, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,29,437329740.0,undef,2018-11-10 16:29:00
+44013578910,45.740378,4.819318,277, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,26,437329560.0,undef,2018-11-10 16:26:00
+45781117912,45.740378,4.819318,277, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,34,437330040.0,undef,2018-11-10 16:34:00
+31959457938,45.740378,4.819318,277, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,34,437330040.0,undef,2018-11-10 16:34:00
+45781117312,45.740378,4.819318,277, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,33,437329980.0,undef,2018-11-10 16:33:00
+31959457228,45.740378,4.819318,277, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,32,437329920.0,undef,2018-11-10 16:32:00
+45781116882,45.740378,4.819318,277, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,32,437329920.0,undef,2018-11-10 16:32:00
+44013581290,45.740378,4.819318,277, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,31,437329860.0,undef,2018-11-10 16:31:00
+30890519387,45.740378,4.819318,277, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,30,437329800.0,undef,2018-11-10 16:30:00
+45781116342,45.740378,4.819318,277, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,31,437329860.0,undef,2018-11-10 16:31:00
+45781115892,45.740378,4.819318,277, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,30,437329800.0,undef,2018-11-10 16:30:00
+30890519007,45.740378,4.819318,277, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,29,437329740.0,undef,2018-11-10 16:29:00
+44013579690,45.740378,4.819318,277, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,29,437329740.0,undef,2018-11-10 16:29:00
+30890518587,45.740378,4.819318,277, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,29,437329740.0,undef,2018-11-10 16:29:00
+45781114662,45.740378,4.819318,277, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,28,437329680.0,undef,2018-11-10 16:28:00
+45781114322,45.740378,4.819318,277, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,26,437329560.0,undef,2018-11-10 16:26:00
+44013579240,45.740378,4.819318,277, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,26,437329560.0,undef,2018-11-10 16:26:00
+45830213431,45.740378,4.819318,277, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,25,437329500.0,undef,2018-11-10 16:25:00
+45781113642,45.740378,4.819318,277, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,25,437329500.0,undef,2018-11-10 16:25:00
+45105665024,45.740378,4.819318,277, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,25,437329500.0,undef,2018-11-10 16:25:00
+45781113022,45.740378,4.819318,277, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,34,437330040.0,undef,2018-11-10 16:34:00
+45105664734,45.740378,4.819318,277, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,35,437330100.0,undef,2018-11-10 16:35:00
+45781112612,45.740378,4.819318,277, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,28,437329680.0,undef,2018-11-10 16:28:00
+45105664494,45.740378,4.819318,277, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,32,437329920.0,undef,2018-11-10 16:32:00
+45781112082,45.740378,4.819318,277, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,46,437330760.0,undef,2018-11-10 16:46:00
+45781113982,45.740378,4.819318,277, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,25,437329500.0,undef,2018-11-10 16:25:00

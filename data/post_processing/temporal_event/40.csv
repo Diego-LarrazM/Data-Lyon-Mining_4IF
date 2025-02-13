@@ -1,0 +1,518 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4180736812,45.759802,4.819607,40, lyon amphitheatre,2009,9,11,16,6,-1.746938910577878,undef
+4180736370,45.759802,4.819607,40, lyon amphitheatre,2009,9,11,16,6,-1.746938910577878,undef
+4522389533,45.759723,4.819811,40,poladroid concert lyon fourviere ofmontreal poladroid nuitsdefourviere,2010,4,15,11,15,-1.5349688000472077,undef
+4803729167,45.759641,4.819918,40,jeune fille thtre rouge lyon noiretblanc pierre nb thtre dimanche antiquit jeunefille thtreantique,2010,3,21,12,14,-1.5594851065923063,undef
+5005811190,45.759626,4.820079,40,roman line france lyon roman amphitheatre,2010,9,19,13,1,-1.380681348050612,undef
+4085729898,45.759858,4.819564,40, lyon,2009,10,26,14,37,-1.7027978262218535,undef
+5648219546,45.759735,4.819865,40,p lyon romantheatre,2011,4,22,13,29,-1.1694759012643297,undef
+5647655013,45.759735,4.819865,40,p lyon romantheatre,2011,4,22,13,28,-1.1694765833907743,undef
+5648218938,45.759735,4.819865,40,p lyon romantheatre,2011,4,22,13,25,-1.169478629770108,undef
+5648218664,45.759735,4.819865,40,p lyon romantheatre,2011,4,22,13,25,-1.169478629770108,undef
+5648217488,45.759735,4.819865,40,p lyon romantheatre,2011,4,22,13,10,-1.169488861666777,undef
+5647652801,45.759735,4.819865,40,p lyon romantheatre,2011,4,22,13,9,-1.1694895437932216,undef
+5648216574,45.759735,4.819865,40,p lyon romantheatre,2011,4,22,13,7,-1.1694909080461109,undef
+5587896521,45.759694,4.820166,40, france europe lyon unesco worldheritage,2011,3,14,16,33,-1.2076586111268386,undef
+5729786061,45.759742,4.819725,40,lyon roman theatre old france vakantie ruin theater lyon theatre roman frankrijk oud rune voorjaarsvakantie romeins canoneos bartvandijk breeblebox,2011,5,2,11,50,-1.1597208109802126,undef
+5969829674,45.759641,4.820101,40,king charles nuits fourvire music concert live musique kingcharles nuitsdefourvire,2011,7,23,19,57,-1.0788431248242152,undef
+5969686622,45.759641,4.820101,40,king charles music concert live musique kingcharles nuitsdefourvire,2011,7,23,19,56,-1.0788438069506598,undef
+5969128375,45.759641,4.820101,40,alex trimble two door cinema club music concert live musique nuitsdefourvire twodoorcinemaclub alextrimble,2011,7,23,23,7,-1.0787135207997427,undef
+5969684374,45.759641,4.820101,40,two door cinema club music concert live musique nuitsdefourvire twodoorcinemaclub alextrimble,2011,7,23,22,53,-1.078723070569967,undef
+5969683490,45.759641,4.820101,40,two door cinema club music concert live musique nuitsdefourvire twodoorcinemaclub,2011,7,23,22,52,-1.0787237526964115,undef
+5969682452,45.759641,4.820101,40,two door cinema club alex trimble music concert live musique nuitsdefourvire twodoorcinemaclub alextrimble,2011,7,23,22,44,-1.0787292097079684,undef
+5969124397,45.759641,4.820101,40,two door cinema club nuits fourvire music concert live musique nuitsdefourvire twodoorcinemaclub,2011,7,23,22,22,-1.0787442164897494,undef
+5969680624,45.759641,4.820101,40,two door cinema club nuits fourvire music concert live musique nuitsdefourvire twodoorcinemaclub,2011,7,23,22,22,-1.0787442164897494,undef
+5969679786,45.759641,4.820101,40, music concert live musique thedo nuitsdefourvire,2011,7,23,20,52,-1.0788056078697628,undef
+5969121435,45.759641,4.820101,40,olivia merilahti music concert live musique thedo nuitsdefourvire oliviamerilahti,2011,7,23,20,51,-1.0788062899962072,undef
+5969120137,45.759641,4.820101,40, music concert live musique thedo nuitsdefourvire,2011,7,23,20,41,-1.0788131112606532,undef
+5969676096,45.759641,4.820101,40,nuits fourvire sou pluie music rain concert live pluie musique nuitsdefourvire,2011,7,23,20,24,-1.0788247074102113,undef
+6180431831,45.75978,4.819672,40, architecture lyon,2011,9,6,11,7,-1.0350028582302562,undef
+6180372607,45.75978,4.819672,40, architecture lyon,2011,9,6,11,9,-1.035001493977367,undef
+5243286410,45.759697,4.819849,40, romanruins lugdunum,2010,4,12,11,36,-1.537901261632511,undef
+5243284860,45.759697,4.819849,40, romanruins lugdunum,2010,4,12,11,37,-1.5379005795060663,undef
+5242689405,45.759697,4.819849,40, romanruins lugdunum,2010,4,12,11,39,-1.5378992152531772,undef
+5243282348,45.759697,4.819849,40, romanruins lugdunum,2010,4,12,11,40,-1.5378985331267323,undef
+5243281018,45.759697,4.819849,40, romanruins lugdunum,2010,4,12,11,44,-1.537895804620954,undef
+5243279602,45.759697,4.819849,40, romanruins lugdunum,2010,4,12,11,45,-1.5378951224945097,undef
+5243278086,45.759697,4.819849,40, romanruins lugdunum,2010,4,12,11,46,-1.537894440368065,undef
+5242682623,45.759697,4.819849,40, stone dandelion romanruins lugdunum,2010,4,12,11,47,-1.5378937582416203,undef
+5243275236,45.759697,4.819849,40, romanruins lugdunum,2010,4,12,11,51,-1.537891029735842,undef
+5242679561,45.759697,4.819849,40, romanruins lugdunum,2010,4,12,11,53,-1.5378896654829528,undef
+5243272474,45.759697,4.819849,40, romanruins lugdunum,2010,4,12,11,53,-1.5378896654829528,undef
+5243271208,45.759697,4.819849,40, romanruins lugdunum,2010,4,12,11,53,-1.5378896654829528,undef
+5243269672,45.759697,4.819849,40, romanruins lugdunum,2010,4,12,11,54,-1.537888983356508,undef
+6932749317,45.759679,4.819951,40,img ,2012,2,26,14,17,-0.8649419143289037,undef
+6803184423,45.759716,4.819693,40,thtre antique lyon amphitheatre romantheatre fourvire thtreantique,2011,10,18,14,6,-0.9936257502277206,undef
+6803183589,45.759716,4.819693,40,thtre antique lyon amphitheatre romantheatre fourvire thtreantique,2011,10,18,14,7,-0.993625068101276,undef
+6803182747,45.759716,4.819693,40,thtre antique lyon amphitheatre romantheatre fourvire thtreantique,2011,10,18,14,7,-0.993625068101276,undef
+6803181683,45.759716,4.819693,40,thtre antique lyon amphitheatre romantheatre fourvire thtreantique,2011,10,18,14,8,-0.9936243859748316,undef
+6803180927,45.759716,4.819693,40,thtre antique lyon amphitheatre romantheatre fourvire thtreantique,2011,10,18,14,11,-0.9936223395954976,undef
+6803179811,45.759716,4.819693,40,thtre antique lyon amphitheatre romantheatre fourvire thtreantique,2011,10,18,14,12,-0.9936216574690532,undef
+6803178993,45.759716,4.819693,40,thtre antique lyon amphitheatre romantheatre fourvire thtreantique,2011,10,18,14,14,-0.993620293216164,undef
+6803178199,45.759716,4.819693,40,thtre antique lyon amphitheatre romantheatre fourvire thtreantique,2011,10,18,14,14,-0.993620293216164,undef
+6803177233,45.759716,4.819693,40,thtre antique lyon amphitheatre romantheatre fourvire thtreantique,2011,10,18,14,14,-0.993620293216164,undef
+6803175659,45.759716,4.819693,40,thtre antique lyon amphitheatre romantheatre fourvire thtreantique,2011,10,18,14,18,-0.9936175647103856,undef
+6803174735,45.759716,4.819693,40,thtre antique lyon amphitheatre romantheatre fourvire thtreantique,2011,10,18,14,20,-0.9936162004574964,undef
+6803173929,45.759716,4.819693,40,thtre antique lyon amphitheatre romantheatre fourvire thtreantique,2011,10,18,14,20,-0.9936162004574964,undef
+6803173051,45.759716,4.819693,40,thtre antique lyon amphitheatre romantheatre fourvire thtreantique,2011,10,18,14,22,-0.9936148362046072,undef
+6593491931,45.759723,4.819575,40,running circle lyon theatre andreaschiavonet,2011,8,27,15,28,-1.0446474440303497,undef
+6842695834,45.759833,4.819833,40, ,2009,7,11,15,23,-1.8078684909882128,undef
+6842695518,45.759833,4.819833,40, ,2009,7,11,15,23,-1.8078684909882128,undef
+6842695202,45.759833,4.819833,40, ,2009,7,11,15,23,-1.8078684909882128,undef
+6988818641,45.759833,4.819666,40, ,2009,7,11,15,19,-1.807871219493991,undef
+6988818373,45.759833,4.819666,40, ,2009,7,11,15,19,-1.807871219493991,undef
+6988818129,45.759833,4.819666,40, ,2009,7,11,15,19,-1.807871219493991,undef
+6842694148,45.759833,4.819666,40, ,2009,7,11,15,19,-1.807871219493991,undef
+6988817565,45.759833,4.819666,40, ,2009,7,11,15,19,-1.807871219493991,undef
+6842693596,45.759833,4.819666,40, ,2009,7,11,15,15,-1.8078739479997692,undef
+6979876981,45.759607,4.81987,40, france lyon galloroman,2012,3,8,10,6,-0.8543082451841514,undef
+6979875823,45.759607,4.81987,40, france lyon galloroman,2012,3,8,10,5,-0.8543089273105959,undef
+6967431843,45.759607,4.81987,40, france kent lyon,2012,3,2,10,13,-0.8601970427803183,undef
+6813528348,45.759525,4.820138,40, france lyon,2012,3,2,10,9,-0.8601997712860967,undef
+7128100999,45.759776,4.820165,40,romana azul ,2012,4,11,14,22,-0.8207367100870876,undef
+7087159023,45.759667,4.819833,40, ,2012,4,17,9,17,-0.8150511861714093,undef
+7087158419,45.759667,4.819833,40, ,2012,4,17,9,16,-0.8150518682978538,undef
+6893254334,45.759607,4.81987,40, france lyon,2012,3,22,13,47,-0.840405826116912,undef
+7189258558,45.759738,4.820058,40,ewelina ,2012,4,11,14,22,-0.8207367100870876,undef
+7608799380,45.759716,4.819908,40,battle nuits ,2012,7,15,20,49,-0.7271578295327783,undef
+7608798830,45.759716,4.819908,40,battle nuits ,2012,7,15,21,11,-0.7271428227509972,undef
+7608798142,45.759716,4.819908,40,battle nuits ,2012,7,15,21,11,-0.7271428227509972,undef
+7608796728,45.759716,4.819908,40,battle nuits ,2012,7,15,21,12,-0.7271421406245526,undef
+7608796026,45.759716,4.819908,40,battle nuits ,2012,7,15,21,16,-0.7271394121187743,undef
+7608795404,45.759716,4.819908,40,battle nuits ,2012,7,15,21,28,-0.7271312266014391,undef
+7608794744,45.759716,4.819908,40,battle nuits ,2012,7,15,21,38,-0.7271244053369932,undef
+7608794052,45.759716,4.819908,40,battle nuits ,2012,7,15,21,39,-0.7271237232105486,undef
+7608793456,45.759716,4.819908,40,battle nuits ,2012,7,15,21,41,-0.7271223589576594,undef
+7608792824,45.759716,4.819908,40,battle nuits ,2012,7,15,21,48,-0.7271175840725473,undef
+7608792158,45.759716,4.819908,40,battle nuits ,2012,7,15,22,26,-0.7270916632676528,undef
+7608791384,45.759716,4.819908,40,battle nuits ,2012,7,15,22,26,-0.7270916632676528,undef
+7608790828,45.759716,4.819908,40,battle nuits ,2012,7,15,22,34,-0.7270862062560961,undef
+7608790164,45.759716,4.819908,40,battle nuits ,2012,7,15,22,39,-0.7270827956238731,undef
+7608789418,45.759716,4.819908,40,battle nuits ,2012,7,15,22,31,-0.7270882526354299,undef
+7608788716,45.759716,4.819908,40,battle nuits ,2012,7,15,21,53,-0.7271141734403244,undef
+7608788124,45.759716,4.819908,40,battle nuits ,2012,7,15,21,46,-0.7271189483254364,undef
+7608787454,45.759716,4.819908,40,battle nuits ,2012,7,15,21,35,-0.7271264517163271,undef
+7608786810,45.759716,4.819908,40,battle nuits ,2012,7,15,21,24,-0.7271339551072176,undef
+7608786124,45.759716,4.819908,40,battle nuits ,2012,7,15,21,13,-0.7271414584981081,undef
+7608785408,45.759716,4.819908,40,battle nuits ,2012,7,15,21,2,-0.7271489618889986,undef
+7608784692,45.759716,4.819908,40,battle nuits ,2012,7,15,20,55,-0.7271537367741107,undef
+7608783976,45.759716,4.819908,40,battle nuits ,2012,7,15,20,41,-0.727163286544335,undef
+7574280808,45.759708,4.819629,40,dsc fljpg frankreich lyon europa lyon urlaub,2012,5,29,16,8,-0.7735158248337282,undef
+7573285464,45.759641,4.820101,40,route romaine dures ,2012,7,7,14,56,-0.7352567168094248,undef
+7573282856,45.759641,4.820101,40,coussin toit ,2012,7,7,15,4,-0.7352512597978681,undef
+7573281348,45.759641,4.820101,40,nuits jour ,2012,7,7,15,10,-0.7352471670392006,undef
+7573274260,45.759641,4.820101,40,rodrigo gabriela cuba cuba rodrigoygabriela nuitsdefourvire nuitsdefourviere nuitsdefourvire,2012,7,14,19,52,-0.7281789728203332,undef
+7573272890,45.759641,4.820101,40,rodrigo gabriela cuba cuba rodrigoygabriela nuitsdefourvire nuitsdefourviere nuitsdefourvire,2012,7,14,19,52,-0.7281789728203332,undef
+7573270594,45.759641,4.820101,40,rodrigo gabriela cuba cuba rodrigoygabriela nuitsdefourvire nuitsdefourviere nuitsdefourvire,2012,7,14,20,14,-0.7281639660385522,undef
+7573269304,45.759641,4.820101,40,rodrigo gabriela cuba cuba rodrigoygabriela nuitsdefourvire nuitsdefourviere nuitsdefourvire,2012,7,14,20,14,-0.7281639660385522,undef
+7573267856,45.759641,4.820101,40,rodrigo gabriela cuba rodrigoygabriela nuitsdefourvire nuitsdefourviere nuitsdefourvire,2012,7,14,20,33,-0.7281510056361049,undef
+7573266398,45.759641,4.820101,40,rodrigo gabriela cuba rodrigoygabriela nuitsdefourvire nuitsdefourviere nuitsdefourvire,2012,7,14,20,33,-0.7281510056361049,undef
+7573264836,45.759641,4.820101,40,rodrigo gabriela cuba rodrigoygabriela nuitsdefourvire nuitsdefourviere nuitsdefourvire,2012,7,14,20,33,-0.7281510056361049,undef
+7573263344,45.759641,4.820101,40,interlude rodrigo gabriela cuba rodrigoygabriela nuitsdefourvire nuitsdefourviere nuitsdefourvire,2012,7,14,20,56,-0.7281353167278793,undef
+7573261706,45.759641,4.820101,40,rodrigo gariela cuba cuba rodrigoygabriela nuitsdefourvire nuitsdefourviere nuitsdefourvire,2012,7,14,21,18,-0.7281203099460982,undef
+7573260304,45.759641,4.820101,40,rodrigo gariela cuba cuba rodrigoygabriela nuitsdefourvire nuitsdefourviere nuitsdefourvire,2012,7,14,21,18,-0.7281203099460982,undef
+7573258748,45.759641,4.820101,40,rodrigo gariela cuba cuba rodrigoygabriela nuitsdefourvire nuitsdefourviere nuitsdefourvire,2012,7,14,21,18,-0.7281203099460982,undef
+7573257218,45.759641,4.820101,40,rodrigo gariela cuba cuba rodrigoygabriela nuitsdefourvire nuitsdefourviere nuitsdefourvire,2012,7,14,21,18,-0.7281203099460982,undef
+7573255766,45.759641,4.820101,40,rodrigo gariela cuba cuba rodrigoygabriela nuitsdefourvire nuitsdefourviere nuitsdefourvire,2012,7,14,21,18,-0.7281203099460982,undef
+7573253988,45.759641,4.820101,40, nuitsdefourvire lesnuitsdefourvire nuitsdefourvire,2012,7,5,20,32,-0.7369920464844681,undef
+7573251740,45.759641,4.820101,40, nuitsdefourvire lesnuitsdefourvire nuitsdefourvire,2012,7,5,20,39,-0.736987271599356,undef
+7573249214,45.759641,4.820101,40, nuitsdefourvire lesnuitsdefourvire nuitsdefourvire,2012,7,5,20,50,-0.7369797682084654,undef
+7573247226,45.759641,4.820101,40,beat nuitsdefourvire lesnuitsdefourvire nuitsdefourvire,2012,7,5,20,54,-0.7369770397026871,undef
+7573245288,45.759641,4.820101,40,beat nuitsdefourvire lesnuitsdefourvire nuitsdefourvire,2012,7,5,20,54,-0.7369770397026871,undef
+7573243454,45.759641,4.820101,40,beat nuitsdefourvire lesnuitsdefourvire nuitsdefourvire,2012,7,5,20,55,-0.7369763575762425,undef
+7573241582,45.759641,4.820101,40,hommage beastie boy nuitsdefourvire lesnuitsdefourvire nuitsdefourvire,2012,7,5,20,56,-0.7369756754497979,undef
+7573239372,45.759641,4.820101,40,hommage beastie boy nuitsdefourvire lesnuitsdefourvire nuitsdefourvire,2012,7,5,20,56,-0.7369756754497979,undef
+7573237390,45.759641,4.820101,40,hommage beastie boy nuitsdefourvire lesnuitsdefourvire nuitsdefourvire,2012,7,5,20,56,-0.7369756754497979,undef
+7573232824,45.759641,4.820101,40,fuya nuitsdefourvire lesnuitsdefourvire nuitsdefourvire,2012,7,5,20,59,-0.7369736290704642,undef
+7573230458,45.759641,4.820101,40,fuya nuitsdefourvire lesnuitsdefourvire nuitsdefourvire,2012,7,5,20,59,-0.7369736290704642,undef
+7573227936,45.759641,4.820101,40,metronomy metronomy nuitsdefourvire batailledecoussins nuitsdefourvire,2012,7,5,21,23,-0.7369572580357939,undef
+7573224430,45.759641,4.820101,40,prparation metronomy metronomy nuitsdefourvire batailledecoussins nuitsdefourvire,2012,7,5,21,24,-0.7369565759093494,undef
+7573221916,45.759641,4.820101,40,dieu cest mac mac metronomy nuitsdefourvire batailledecoussins nuitsdefourvire,2012,7,5,21,25,-0.7369558937829047,undef
+7573218386,45.759641,4.820101,40,metronomy metronomy nuitsdefourvire batailledecoussins nuitsdefourvire,2012,7,5,21,37,-0.7369477082655697,undef
+7573216034,45.759641,4.820101,40,metronomy metronomy nuitsdefourvire batailledecoussins nuitsdefourvire,2012,7,5,21,38,-0.736947026139125,undef
+7573213758,45.759641,4.820101,40,metronomy metronomy nuitsdefourvire batailledecoussins nuitsdefourvire,2012,7,5,21,38,-0.736947026139125,undef
+7573211340,45.759641,4.820101,40,metronomy metronomy nuitsdefourvire batailledecoussins nuitsdefourvire,2012,7,5,21,51,-0.7369381584953453,undef
+7519472174,45.759679,4.819757,40,anthony co fourviere ,2012,7,6,23,2,-0.7359074654375661,undef
+7509693628,45.759738,4.819843,40,metronomy nuits fourvire square squareformat hudson iphoneography instagramapp uploadedbyinstagram foursquarevenue e db b f f dc,2012,7,5,20,57,-0.7369749933233534,undef
+7839143312,45.759769,4.819719,40,battle nuits jpg france lyon rhnealpes,2012,7,15,22,23,-0.7270937096469866,undef
+7839141758,45.759769,4.819719,40,battle nuits jpg france lyon rhnealpes,2012,7,15,21,55,-0.7271128091874351,undef
+7839139622,45.759769,4.819719,40,battle nuits jpg france lyon rhnealpes,2012,7,15,21,12,-0.7271421406245526,undef
+7839138604,45.759769,4.819719,40,battle nuits jpg france lyon rhnealpes,2012,7,15,21,0,-0.7271503261418878,undef
+7839137076,45.759769,4.819719,40,battle nuits jpg france lyon rhnealpes,2012,7,15,21,0,-0.7271503261418878,undef
+7839135848,45.759769,4.819719,40,battle nuits jpg france lyon rhnealpes,2012,7,15,20,51,-0.7271564652798891,undef
+7839134820,45.759769,4.819719,40,battle nuits jpg france lyon rhnealpes,2012,7,15,20,50,-0.7271571474063336,undef
+7839133676,45.759769,4.819719,40,battle nuits jpg france lyon rhnealpes,2012,7,15,20,40,-0.7271639686707796,undef
+7839132974,45.759769,4.819719,40,battle nuits jpg france lyon rhnealpes,2012,7,15,20,38,-0.7271653329236688,undef
+7839132142,45.759769,4.819719,40,battle nuits jpg france lyon rhnealpes,2012,7,15,20,38,-0.7271653329236688,undef
+7839131138,45.759769,4.819719,40,battle nuits jpg france lyon rhnealpes,2012,7,15,20,37,-0.7271660150501134,undef
+7839130070,45.759769,4.819719,40,battle nuits jpg france lyon rhnealpes,2012,7,15,20,35,-0.7271673793030026,undef
+7839128892,45.759769,4.819719,40,battle nuits jpg france lyon rhnealpes,2012,7,15,20,27,-0.7271728363145593,undef
+7839127800,45.759769,4.819719,40,battle nuits jpg france lyon rhnealpes,2012,7,15,20,25,-0.7271742005674485,undef
+7839126548,45.759769,4.819719,40,battle nuits jpg france lyon rhnealpes,2012,7,15,20,24,-0.7271748826938931,undef
+7839124814,45.759769,4.819719,40,battle nuits jpg france lyon rhnealpes,2012,7,15,20,24,-0.7271748826938931,undef
+7839123484,45.759769,4.819719,40,battle nuits jpg france lyon rhnealpes,2012,7,15,20,18,-0.7271789754525606,undef
+7839122078,45.759769,4.819719,40,battle nuits jpg france lyon rhnealpes,2012,7,15,20,17,-0.7271796575790053,undef
+7839073658,45.759769,4.819719,40,battle nuits jpg france lyon rhnealpes,2012,7,15,20,17,-0.7271796575790053,undef
+7839072240,45.759769,4.819719,40,battle nuits jpg france lyon rhnealpes,2012,7,15,20,17,-0.7271796575790053,undef
+7839070414,45.759769,4.819719,40,battle nuits jpg france lyon rhnealpes,2012,7,15,20,16,-0.7271803397054498,undef
+7839069032,45.759769,4.819719,40,battle nuits jpg france lyon rhnealpes,2012,7,15,20,14,-0.727181703958339,undef
+7839068216,45.759769,4.819719,40,battle nuits jpg france lyon rhnealpes,2012,7,15,20,14,-0.727181703958339,undef
+7839066910,45.759769,4.819719,40,battle nuits jpg france lyon rhnealpes,2012,7,15,20,11,-0.7271837503376728,undef
+7839063934,45.759769,4.819719,40,battle nuits jpg france lyon rhnealpes,2012,7,15,20,0,-0.7271912537285633,undef
+8040247340,45.759694,4.820101,40,rendezvous ,2012,9,30,17,23,-0.6516641674039495,undef
+8395455026,45.759813,4.819757,40,ancient theatre fourvire france ancient lyon theatre roman ruin fourvire,2012,12,11,8,53,-0.5812891821153428,undef
+8394398355,45.759813,4.819757,40,ancient theatre fourvire france ancient lyon theatre roman ruin fourvire,2012,12,11,9,1,-0.581283725103786,undef
+8395456444,45.759813,4.819757,40,ancient theatre fourvire france ancient lyon theatre roman pillar ruin fourvire,2012,12,11,8,59,-0.5812850893566752,undef
+8394372231,45.759813,4.819757,40,ancient theatre fourvire france ancient lyon theatre roman pillar ruin fourvire,2012,12,11,8,56,-0.581287135736009,undef
+8394371837,45.759813,4.819757,40,ancient theatre fourvire france ancient lyon theatre roman pillar ruin fourvire,2012,12,11,8,56,-0.581287135736009,undef
+8395455306,45.759813,4.819757,40,ancient theatre fourvire france ancient lyon theatre roman ruin fourvire,2012,12,11,8,54,-0.5812884999888982,undef
+8395453986,45.759813,4.819757,40,ancient theatre fourvire france ancient lyon theatre roman ruin fourvire,2012,12,11,8,52,-0.5812898642417873,undef
+8538297670,45.759738,4.819736,40,france sep lyon travel vacation france john lyon lyonfrance romantheatres france,2010,9,26,0,50,-1.3743041479201166,undef
+8538297636,45.759768,4.819672,40,france sep lyon travel vacation france lyon lyonfrance romantheatres france,2010,9,26,0,54,-1.3743014194143384,undef
+8666203138,45.759738,4.819843,40,thtre romain lyon lyon onlylyon theatre romain monument histoire historique vieuxlyon fourviere pierre picoftheday instapic instacute instagram instalyon square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue e db b f f dc,2013,4,20,19,11,-0.4531735575448712,undef
+8638867526,45.759739,4.819844,40,thtre romain france lyon oldtown vieuxlyon thtreromain uploadedbyflickrmobile flickriosappfilteriguana iguanafilter,2013,4,7,13,59,-0.4661557880383554,undef
+8803221404,45.759903,4.819629,40, ,2011,12,11,14,29,-0.9405679089879834,undef
+8719730705,45.759738,4.819843,40,thtres galloromains odeon lyon square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue e db b f f dc,2013,5,8,22,51,-0.4353427722832237,undef
+9099291292,45.759761,4.819811,40,dsc ,2013,6,3,4,39,-0.410548840275176,undef
+9097052909,45.759836,4.819725,40,dsc ,2013,6,3,4,32,-0.4105536151602882,undef
+9099281664,45.759806,4.819725,40,dsc ,2013,6,3,4,34,-0.410552250907399,undef
+9099277834,45.759716,4.81979,40,dsc ,2013,6,3,4,35,-0.4105515687809544,undef
+9097039227,45.759791,4.81979,40,dsc ,2013,6,3,4,36,-0.4105508866545098,undef
+9099268374,45.759772,4.819656,40,dsc ,2013,6,3,4,38,-0.4105495224016206,undef
+10019538115,45.759666,4.819999,40,lyon roman coliseum ,2013,9,11,13,1,-0.3119802047786726,undef
+10019508355,45.759666,4.819999,40,lyon roman ruin ,2013,9,11,13,1,-0.3119802047786726,undef
+10198922284,45.75963,4.820106,40,thtre romain lyon france,2013,9,19,14,41,-0.304053895492508,undef
+10860799253,45.759853,4.819793,40,escalier lyon theatre step romantheatre fourviere odeonantiquedelyon,2013,10,27,22,58,-0.2663889196014447,undef
+12735081485,45.759844,4.81973,40,remains lugdunum theatre france europe lyon,2013,10,26,5,56,-0.2680683149080314,undef
+12448282953,45.759841,4.819561,40,xmas new year travel ,2013,12,30,15,23,-0.2038345140000908,undef
+12873997403,45.759552,4.819888,40, ,2013,9,3,15,55,-0.319719611419019,undef
+13848302533,45.759791,4.819811,40,march france lyon fourvire amphithatre,2014,3,29,12,8,-0.1165462035178133,undef
+13848655444,45.759791,4.819811,40,lart dattendre france lyon fourvire amphithatre,2014,3,29,12,8,-0.1165462035178133,undef
+13848300963,45.759791,4.819811,40,seul france lyon fourvire amphithatre,2014,3,29,12,33,-0.1165291503566985,undef
+13670951864,45.759768,4.819879,40,thtre antique lyon bw lyon noiretblanc nb thtreantique,2014,3,10,12,57,-0.1351757588460787,undef
+13670585365,45.759768,4.819879,40,thtre antique lyon bw lyon noiretblanc nb thtreantique,2014,3,10,12,59,-0.1351743945931895,undef
+13664471804,45.759768,4.819879,40,thtre antique lyon lyon thtreantique,2014,3,10,12,54,-0.1351778052254125,undef
+13563421013,45.759723,4.819793,40,thtre antique lyon lyon thtreantique,2014,3,10,13,8,-0.1351682554551882,undef
+13563323235,45.759783,4.819836,40,thtre antique lyon lyon thtreantique,2014,3,10,13,7,-0.1351689375816328,undef
+13563328583,45.759708,4.819858,40,thtre antique lyon lyon colline fourvire galloromain thtreantique,2014,3,10,13,6,-0.1351696197080774,undef
+14171664193,45.759775,4.820103,40, ,2014,4,19,20,10,-0.095589914887043,undef
+13964925299,45.759704,4.819946,40, ,2014,4,19,20,7,-0.0955919612663768,undef
+14128385186,45.759704,4.819946,40,roman amphitheatre lyon roman,2014,4,19,20,5,-0.095593325519266,undef
+14351843147,45.75977,4.819737,40,zztop square squareformat mayfair iphoneography instagramapp uploadedbyinstagram,2014,6,29,16,35,-0.0259959643774946,undef
+14425735981,45.759776,4.819961,40, close lyon proche,2014,5,4,17,10,-0.0809787664438719,undef
+14242436549,45.759776,4.819961,40, close lyon proche,2014,5,4,17,10,-0.0809787664438719,undef
+14238744269,45.759711,4.819704,40,preshow selfie nuits fourvires ctfx square squareformat hudson iphoneography instagramapp uploadedbyinstagram,2014,6,15,8,57,-0.0400600474121025,undef
+14419988761,45.75977,4.819737,40,label mate erotic project oneoff show nuits fourvires square squareformat mayfair iphoneography instagramapp uploadedbyinstagram,2014,6,15,1,46,-0.0403540439097219,undef
+14419927225,45.759711,4.819704,40,view today ctfx square squareformat earlybird iphoneography instagramapp uploadedbyinstagram,2014,6,14,16,21,-0.0407394453509166,undef
+14440018893,45.759711,4.819704,40,tonight venue ctfx jarringeffects nuitsdefourviere square squareformat rise iphoneography instagramapp uploadedbyinstagram,2014,6,14,16,7,-0.0407489951211409,undef
+14419824875,45.759711,4.819704,40,know performing antique roman amphitheatre lyon jarringeffects nuitsdefourviere ctfx square squareformat rise iphoneography instagramapp uploadedbyinstagram,2014,6,14,16,6,-0.0407496772475855,undef
+14396682506,45.759711,4.819704,40,like seriously insane ctfx square squareformat iphoneography instagramapp uploadedbyinstagram,2014,6,14,16,2,-0.0407524057533639,undef
+14416432051,45.759711,4.819704,40,view literally right behind u stage nuits fourvires ctfx insane square squareformat amaro iphoneography instagramapp uploadedbyinstagram,2014,6,14,15,59,-0.0407544521326977,undef
+14799479533,45.759791,4.82009,40,lyon lyon,2014,3,23,11,9,-0.1224800214593234,undef
+14592946759,45.759701,4.820133,40,lyon lyon,2014,3,23,11,9,-0.1224800214593234,undef
+14779618015,45.759682,4.82001,40,lyon lyon,2014,3,23,11,11,-0.1224786572064342,undef
+14777251064,45.759566,4.819918,40,lyon lyon,2014,3,23,11,11,-0.1224786572064342,undef
+14797967003,45.759722,4.819999,40,vanessa paradis nuits fourvire vanessa lyon benjamin paradis fourviere nuits biolay,2014,7,27,23,29,0.0017897742165356,undef
+14591382780,45.759722,4.819999,40,vanessa paradis nuits fourvire vanessa lyon benjamin paradis fourviere nuits biolay,2014,7,27,23,29,0.0017897742165356,undef
+14591376800,45.759722,4.819999,40,vanessa paradis nuits fourvire vanessa lyon benjamin paradis fourviere nuits biolay,2014,7,27,23,28,0.001789092090091,undef
+14755077216,45.759722,4.819999,40,vanessa paradis nuits fourvire vanessa lyon paradis fourviere nuits,2014,7,27,23,22,0.0017849993314234,undef
+14591367090,45.759722,4.819999,40,vanessa paradis nuits fourvire vanessa lyon paradis fourviere nuits,2014,7,27,23,12,0.0017781780669775,undef
+14591569947,45.759722,4.819999,40,vanessa paradis nuits fourvire vanessa lyon paradis fourviere nuits,2014,7,27,23,11,0.0017774959405329,undef
+14797927893,45.759722,4.819999,40,vanessa paradis nuits fourvire vanessa lyon paradis fourviere nuits,2014,7,27,23,9,0.0017761316876437,undef
+14591555247,45.759722,4.819999,40,vanessa paradis nuits fourvire vanessa lyon paradis fourviere nuits,2014,7,27,23,7,0.0017747674347545,undef
+14755046816,45.759722,4.819999,40,vanessa paradis nuits fourvire vanessa lyon paradis fourviere nuits,2014,7,27,22,8,0.0017345219745236,undef
+14591541807,45.759722,4.819999,40,vanessa paradis nuits fourvire vanessa lyon paradis fourviere nuits,2014,7,27,21,51,0.0017229258249655,undef
+14775677884,45.759722,4.819999,40,vanessa paradis nuits fourvire vanessa lyon paradis fourviere nuits,2014,7,27,21,44,0.0017181509398534,undef
+14702944353,45.759791,4.81965,40,elton john lyon concert lyon eltonjohn fourviere,2014,7,16,23,30,-0.0090144265393647,undef
+14682747502,45.759791,4.81965,40,elton john lyon concert lyon eltonjohn fourviere,2014,7,16,23,30,-0.0090144265393647,undef
+14660047866,45.759791,4.81965,40,elton john lyon concert lyon eltonjohn fourviere,2014,7,16,23,30,-0.0090144265393647,undef
+14680678904,45.759791,4.81965,40,elton john lyon concert lyon eltonjohn fourviere,2014,7,16,23,30,-0.0090144265393647,undef
+14683050595,45.759791,4.81965,40,elton john lyon concert lyon eltonjohn fourviere,2014,7,16,23,30,-0.0090144265393647,undef
+14660047116,45.759791,4.81965,40,elton john lyon concert lyon eltonjohn fourviere,2014,7,16,23,30,-0.0090144265393647,undef
+14496589007,45.759791,4.81965,40,elton john lyon concert lyon eltonjohn fourviere,2014,7,16,23,30,-0.0090144265393647,undef
+14660046946,45.759791,4.81965,40,elton john lyon concert lyon eltonjohn fourviere,2014,7,16,23,30,-0.0090144265393647,undef
+14496398539,45.759791,4.81965,40,elton john lyon concert lyon eltonjohn fourviere,2014,7,16,23,30,-0.0090144265393647,undef
+14496403018,45.759791,4.81965,40,elton john lyon concert lyon eltonjohn fourviere,2014,7,16,23,30,-0.0090144265393647,undef
+14496587987,45.759791,4.81965,40,elton john lyon concert lyon eltonjohn fourviere,2014,7,16,23,30,-0.0090144265393647,undef
+14682745652,45.759791,4.81965,40,elton john lyon concert lyon eltonjohn fourviere,2014,7,16,23,30,-0.0090144265393647,undef
+14702942553,45.759791,4.81965,40,elton john lyon concert lyon eltonjohn fourviere,2014,7,16,23,30,-0.0090144265393647,undef
+14496587397,45.759791,4.81965,40,elton john lyon concert lyon eltonjohn fourviere,2014,7,16,23,30,-0.0090144265393647,undef
+14660045786,45.759791,4.81965,40,elton john lyon concert lyon eltonjohn fourviere,2014,7,16,23,30,-0.0090144265393647,undef
+14496380380,45.759791,4.81965,40,elton john lyon concert lyon eltonjohn fourviere,2014,7,16,23,30,-0.0090144265393647,undef
+14682744762,45.759791,4.81965,40,elton john lyon concert lyon eltonjohn fourviere,2014,7,16,23,30,-0.0090144265393647,undef
+14484980200,45.759682,4.81977,40,portishead ,2014,7,16,1,7,-0.0099305223544524,undef
+14648651436,45.759682,4.81977,40,portishead ,2014,7,16,1,6,-0.009931204480897,undef
+14691544623,45.759682,4.81977,40,portishead ,2014,7,16,1,7,-0.0099305223544524,undef
+14484999089,45.759682,4.81977,40,portishead ,2014,7,16,1,12,-0.0099271117222295,undef
+14669335364,45.759682,4.81977,40,portishead ,2014,7,16,1,11,-0.009927793848674,undef
+14671652115,45.759682,4.81977,40,portishead ,2014,7,16,1,8,-0.0099298402280078,undef
+14485020608,45.759682,4.81977,40,portishead ,2014,7,16,1,14,-0.0099257474693403,undef
+14485020508,45.759682,4.81977,40,portishead ,2014,7,16,1,15,-0.0099250653428957,undef
+14671651815,45.759682,4.81977,40,portishead ,2014,7,16,1,15,-0.0099250653428957,undef
+14648650086,45.759682,4.81977,40,portishead ,2014,7,16,1,18,-0.0099230189635619,undef
+14648649966,45.759682,4.81977,40,portishead ,2014,7,16,1,17,-0.0099237010900065,undef
+14484978370,45.759682,4.81977,40,portishead ,2014,7,16,1,16,-0.0099243832164511,undef
+14668445121,45.759682,4.81977,40,portishead ,2014,7,16,1,19,-0.0099223368371173,undef
+14484997269,45.759682,4.81977,40,portishead ,2014,7,16,1,19,-0.0099223368371173,undef
+14671328052,45.759682,4.81977,40,portishead ,2014,7,16,1,20,-0.0099216547106727,undef
+14484758110,45.759722,4.819999,40,portishead nuits fourvire theatre portishead romain fourviere nuits,2014,7,15,23,27,-0.0099987349989117,undef
+14484797428,45.759722,4.819999,40,portishead nuits fourvire theatre portishead romain fourviere nuits,2014,7,15,23,24,-0.0100007813782454,undef
+14484969927,45.759722,4.819999,40,portishead nuits fourvire theatre portishead romain fourviere nuits,2014,7,15,23,10,-0.0100103311484697,undef
+14668218831,45.759722,4.819999,40,portishead nuits fourvire theatre portishead romain fourviere nuits,2014,7,15,23,9,-0.0100110132749143,undef
+14648421046,45.759722,4.819999,40,portishead nuits fourvire lyon portishead fourviere,2014,7,15,22,44,-0.0100280664360291,undef
+14648417926,45.759722,4.819999,40,portishead nuits fourvire portishead,2014,7,15,22,27,-0.0100396625855872,undef
+14484743290,45.759722,4.819999,40,portishead nuits fourvire theatre portishead romain fourviere nuits,2014,7,15,22,12,-0.0100498944822561,undef
+14484739210,45.759722,4.819999,40,portishead nuits fourvire theatre portishead romain fourviere nuits,2014,7,15,22,12,-0.0100498944822561,undef
+14648408626,45.759722,4.819999,40,portishead nuits fourvire theatre portishead romain fourviere nuits,2014,7,15,22,6,-0.0100539872409237,undef
+14669093234,45.759722,4.819999,40,grand thtre comble portishead portishead,2014,7,15,21,57,-0.010060126378925,undef
+14648404616,45.759777,4.819944,40,premire partie thought form theatre portishead romain fourviere nuits,2014,7,15,21,21,-0.0100846829309303,undef
+14484942727,45.759838,4.819997,40,thtre remplit theatre portishead romain fourviere nuits,2014,7,15,20,56,-0.0101017360920451,undef
+14484722400,45.759722,4.819999,40,feu dartifice fourvire theatre romain feu artifice fourviere nuits,2014,7,14,22,52,-0.0110048715046856,undef
+14484935607,45.759722,4.819999,40,feu dartifice fourvire theatre romain feu artifice fourviere nuits,2014,7,14,22,52,-0.0110048715046856,undef
+14669076064,45.759722,4.819999,40,feu dartifice fourvire theatre romain feu artifice fourviere nuits,2014,7,14,22,51,-0.0110055536311302,undef
+14484715260,45.759722,4.819999,40,feu dartifice fourvire theatre romain feu artifice fourviere nuits,2014,7,14,22,44,-0.0110103285162423,undef
+14691280593,45.759722,4.819999,40,feu dartifice fourvire theatre romain feu artifice fourviere nuits,2014,7,14,22,42,-0.0110116927691315,undef
+14484731849,45.759722,4.819999,40,feu dartifice fourvire theatre romain feu artifice fourviere nuits,2014,7,14,22,41,-0.0110123748955761,undef
+14671383325,45.759722,4.819999,40,feu dartifice fourvire theatre romain feu artifice fourviere nuits,2014,7,14,22,41,-0.0110123748955761,undef
+14668175471,45.759722,4.819999,40,feu dartifice fourvire theatre romain feu artifice fourviere nuits,2014,7,14,22,41,-0.0110123748955761,undef
+14691272343,45.759722,4.819999,40,feu dartifice fourvire theatre romain feu artifice fourviere nuits,2014,7,14,22,40,-0.0110130570220207,undef
+14484746708,45.759722,4.819999,40,feu dartifice fourvire theatre romain feu artifice fourviere nuits,2014,7,14,22,39,-0.0110137391484653,undef
+14691268953,45.759722,4.819999,40,feu dartifice fourvire theatre romain feu artifice fourviere nuits,2014,7,14,22,39,-0.0110137391484653,undef
+14648373636,45.759722,4.819999,40,feu dartifice fourvire theatre romain feu artifice fourviere nuits,2014,7,14,22,38,-0.0110144212749099,undef
+14484697300,45.759722,4.819999,40,burt bacharach nuits fourvire theatre burt romain fourviere bacharach nuits,2014,7,14,22,36,-0.0110157855277991,undef
+14669053224,45.759722,4.819999,40,burt bacharach nuits fourvire theatre burt romain fourviere bacharach nuits,2014,7,14,22,36,-0.0110157855277991,undef
+14671365175,45.759722,4.819999,40,burt bacharach nuits fourvire theatre burt romain fourviere bacharach nuits,2014,7,14,22,35,-0.0110164676542437,undef
+14484904687,45.759722,4.819999,40,burt bacharach nuits fourvire theatre burt romain fourviere bacharach nuits,2014,7,14,22,29,-0.0110205604129112,undef
+14691252033,45.759722,4.819999,40,burt bacharach nuits fourvire theatre burt romain fourviere bacharach nuits,2014,7,14,22,28,-0.0110212425393558,undef
+14484702219,45.759722,4.819999,40,burt bacharach nuits fourvire theatre burt romain fourviere bacharach nuits,2014,7,14,22,27,-0.0110219246658004,undef
+14484721868,45.759722,4.819999,40,burt bacharach nuits fourvire theatre burt romain fourviere bacharach nuits,2014,7,14,22,27,-0.0110219246658004,undef
+14671028042,45.759722,4.819999,40,burt bacharach nuits fourvire theatre burt romain fourviere bacharach nuits,2014,7,14,22,19,-0.0110273816773571,undef
+14484696399,45.759722,4.819999,40,burt bacharach nuits fourvire theatre burt romain fourviere bacharach nuits,2014,7,14,22,19,-0.0110273816773571,undef
+14484890737,45.759722,4.819999,40,burt bacharach nuits fourvire theatre burt romain fourviere bacharach nuits,2014,7,14,22,6,-0.0110362493211368,undef
+14484890277,45.759722,4.819999,40,burt bacharach nuits fourvire theatre burt romain fourviere bacharach nuits,2014,7,14,21,47,-0.0110492097235841,undef
+14671020432,45.759722,4.819999,40,burt bacharach nuits fourvire theatre burt romain fourviere bacharach nuits,2014,7,14,21,46,-0.0110498918500287,undef
+14691236563,45.759722,4.819999,40,burt bacharach nuits fourvire theatre burt romain fourviere bacharach nuits,2014,7,14,21,42,-0.0110526203558071,undef
+14668134701,45.759722,4.819999,40,burt bacharach nuits fourvire theatre burt romain fourviere bacharach nuits,2014,7,14,21,41,-0.0110533024822516,undef
+14484686349,45.759722,4.819999,40,burt bacharach nuits fourvire theatre burt romain fourviere bacharach nuits,2014,7,14,21,32,-0.011059441620253,undef
+14691230803,45.759722,4.819999,40,burt bacharach nuits fourvire theatre burt romain fourviere bacharach nuits,2014,7,14,21,26,-0.0110635343789205,undef
+14669020444,45.759722,4.819999,40,divine comedy nuits fourvire theatre burt romain fourviere bacharach nuits,2014,7,14,21,9,-0.0110751305284786,undef
+14484700228,45.759722,4.819999,40,divine comedy nuits fourvire comedy lyon divine fourviere,2014,7,14,21,8,-0.0110758126549232,undef
+14484655930,45.759722,4.819999,40,divine comedy nuits fourvire theatre burt romain fourviere bacharach nuits,2014,7,14,21,7,-0.0110764947813678,undef
+14691220223,45.759722,4.819999,40,divine comedy nuits fourvire theatre burt romain fourviere bacharach nuits,2014,7,14,21,6,-0.0110771769078124,undef
+14691217933,45.759722,4.819999,40,neil hannon comedy theatre neil divine romain fourviere hannon nuits,2014,7,14,20,38,-0.011096276448261,undef
+14668117001,45.759722,4.819999,40,neil hannon comedy theatre neil divine romain fourviere hannon nuits,2014,7,14,20,38,-0.011096276448261,undef
+14484666649,45.759722,4.819999,40,neil hannon comedy theatre neil divine romain fourviere hannon nuits,2014,7,14,20,38,-0.011096276448261,undef
+14484687358,45.759722,4.819999,40,neil hannon comedy theatre neil divine romain fourviere hannon nuits,2014,7,14,20,38,-0.011096276448261,undef
+14668111901,45.759722,4.819999,40,neil hannon comedy theatre neil divine romain fourviere hannon nuits,2014,7,14,20,38,-0.011096276448261,undef
+14670990842,45.759722,4.819999,40,divine comedy nuits fourvire comedy theatre neil divine romain fourviere hannon nuits,2014,7,14,20,34,-0.0110990049540393,undef
+14484658339,45.759722,4.819999,40,divine comedy nuits fourvire comedy theatre neil divine romain fourviere hannon nuits,2014,7,14,20,34,-0.0110990049540393,undef
+14484655889,45.759722,4.819999,40,divine comedy nuits fourvire comedy theatre neil divine romain fourviere hannon nuits,2014,7,14,20,33,-0.0110996870804839,undef
+14668102011,45.759722,4.819999,40,divine comedy nuits fourvire comedy theatre neil divine romain fourviere hannon nuits,2014,7,14,20,33,-0.0110996870804839,undef
+14668990744,45.759722,4.819999,40,divine comedy nuits fourvire comedy theatre neil divine romain fourviere hannon nuits,2014,7,14,20,11,-0.011114693862265,undef
+14671303205,45.759722,4.819999,40,divine comedy nuits fourvire comedy theatre neil divine romain fourviere hannon nuits,2014,7,14,20,5,-0.0111187866209325,undef
+14484644879,45.759722,4.819999,40,divine comedy nuits fourvire comedy theatre neil divine romain fourviere hannon nuits,2014,7,14,19,59,-0.0111228793796001,undef
+14668982774,45.759722,4.819999,40,divine comedy nuits fourvire comedy theatre neil divine romain fourviere hannon nuits,2014,7,14,19,48,-0.0111303827704906,undef
+14691187323,45.759722,4.819999,40,divine comedy nuits fourvire comedy theatre neil divine romain fourviere hannon nuits,2014,7,14,19,45,-0.0111324291498244,undef
+14668084981,45.759722,4.819999,40,divine comedy nuits fourvire comedy theatre neil divine romain fourviere hannon nuits,2014,7,14,19,35,-0.0111392504142703,undef
+14484633729,45.7597,4.819927,40,intervention intermittents spectacle theatre romain fourviere nuits,2014,7,14,19,28,-0.0111440252993824,undef
+14484628929,45.759863,4.819994,40,attendant divine comedy theatre romain fourviere nuits,2014,7,14,18,41,-0.0111760852422783,undef
+14668066731,45.759858,4.819949,40,basilique fourvire grand thtre romain theatre romain fourviere nuits,2014,7,14,18,40,-0.0111767673687229,undef
+14484812547,45.759722,4.819999,40,basilique fourvire grand thtre romain theatre romain fourviere nuits,2014,7,14,18,39,-0.0111774494951675,undef
+14478028860,45.75977,4.819737,40,portishead live lyon festivaldesnuitsdefourviere square squareformat iphoneography instagramapp uploadedbyinstagram,2014,7,16,0,8,-0.0099707678146834,undef
+14684600313,45.75977,4.819737,40,portishead live lyon festivaldesnuitsdefourviere square squareformat iphoneography instagramapp uploadedbyinstagram,2014,7,16,0,8,-0.0099707678146834,undef
+14684596003,45.759711,4.819704,40,portishead live lyon festivaldesnuitsdefourviere square squareformat iphoneography instagramapp uploadedbyinstagram,2014,7,16,0,7,-0.009971449941128,undef
+14664336482,45.75977,4.819737,40,portishead live lyon festivaldesnuitsdefourviere square squareformat iphoneography instagramapp uploadedbyinstagram,2014,7,16,0,6,-0.0099721320675726,undef
+14641695706,45.75977,4.819737,40,portishead live lyon festivaldesnuitsdefourviere square squareformat iphoneography instagramapp uploadedbyinstagram,2014,7,16,0,6,-0.0099721320675726,undef
+14403546959,45.75977,4.819737,40,damonalbarn festivaldesnuitsdefourviere lyon square squareformat iphoneography instagramapp uploadedbyinstagram,2014,7,6,22,18,-0.0188861604455072,undef
+14610198073,45.75977,4.819737,40,damonalbarn festivaldesnuitsdefourviere lyon square squareformat iphoneography instagramapp uploadedbyinstagram,2014,7,6,22,15,-0.0188882068248409,undef
+14403458340,45.75977,4.819737,40,damonalbarn hier soir lyon festivaldesnuitsdefourviere square squareformat iphoneography instagramapp uploadedbyinstagram,2014,7,6,22,14,-0.0188888889512855,undef
+14558061326,45.75977,4.819737,40,intermittents spectacle content festivaldesnuitsdefourviere damonalbarn square squareformat iphoneography instagramapp xproii uploadedbyinstagram,2014,7,5,20,54,-0.0199257211470661,undef
+14884600031,45.759619,4.819852,40, ,2014,8,1,14,30,0.0063334184639661,undef
+14823623661,45.75977,4.819737,40,thought id posted already nuits fourvire festival lyon apps used snapseed mextures vsco amptcommunity wearejuxt amselcom gangfamily gfdaily ube snapseed mextures mextures mexturesapp vscocam vsco vscolover square squareformat iphoneography instagramapp uploadedbyinstagram,2014,8,4,5,8,0.0088968496427447,undef
+15580077792,45.759783,4.819854,40,monde scne france lyon stage amphitheater romanruins fourvire gaul lugdunum romanamphitheater thtreromain thtreantiquedelyon,2013,10,26,23,53,-0.2673336647272053,undef
+15418004221,45.75984,4.819933,40, lyon,2014,9,24,15,20,0.0594096771177074,undef
+15421183905,45.75984,4.819933,40, lyon theatreetodeonromain,2014,9,24,15,20,0.0594096771177074,undef
+15234591828,45.75984,4.819933,40, lyon theatreetodeonromain,2014,9,24,15,19,0.0594089949912628,undef
+15614293684,45.759679,4.819822,40,thtre antique romain lugdunum lyon france monochrome europe lyon lugdunum lethtreantiqueromaindelugdunum,2014,12,1,0,0,0.1255759422431785,undef
+16050865457,45.759679,4.819822,40,thtre antique romain lugdunum lyon france monochrome europe lyon lugdunum lethtreantiqueromaindelugdunum,2014,12,1,0,0,0.1255759422431785,undef
+16737154738,45.759761,4.819838,40,roman odeon lyon lyon ougsmealps,2014,6,21,16,33,-0.0338554252720893,undef
+16737369240,45.759608,4.819866,40,lyon roman theatre lyon ougsmealps,2014,6,21,16,33,-0.0338554252720893,undef
+16304766183,45.759608,4.819866,40,dsc lyon roman theatre lyon ougsmealps,2014,6,21,16,33,-0.0338554252720893,undef
+16302402434,45.759777,4.819844,40,remains shop behind roman odeon lyon lyon ougsmealps,2014,6,21,16,35,-0.0338540610192001,undef
+16923773071,45.759777,4.819844,40,remains shop behind roman odeon lyon lyon ougsmealps,2014,6,21,16,36,-0.0338533788927555,undef
+16898834446,45.759777,4.819844,40,notredame fourvire roman theatre lyon ougsmealps,2014,6,21,16,38,-0.0338520146398663,undef
+16738545359,45.759777,4.819844,40,remains shop behind roman odeon lyon orthogonal lizzie lilian lyon ougsmealps,2014,6,21,16,38,-0.0338520146398663,undef
+16302346844,45.759777,4.819844,40,remains shop behind roman odeon lyon orthogonal lilian lizzie lyon ougsmealps,2014,6,21,16,41,-0.0338499682605325,undef
+16738518069,45.759777,4.819844,40,roman theatre lyon lyon ougsmealps,2014,6,21,17,1,-0.0338363257316407,undef
+16717374297,45.759777,4.819844,40,roman theatre lyon lyon ougsmealps,2014,6,21,17,2,-0.0338356436051961,undef
+16737248910,45.759777,4.819844,40,roman theatre lyon lyon ougsmealps,2014,6,21,17,5,-0.0338335972258623,undef
+17477208986,45.759755,4.819833,40,rive gauche lyon depuis lodon antique france europe lyon pentax ville vestige projet pentaxk byeflyfree unioneuropeenne,2015,3,23,13,16,0.2361322678769503,undef
+18986797571,45.759722,4.819999,40,yael naim nuits fourvire festival lyon theatre yael romain fourvire naim nuits,2015,6,14,21,58,0.3180160905387215,undef
+18797577469,45.759722,4.819999,40,fline nuits fourvire festival feline lyon theatre romain fourvire nuits,2015,6,14,20,12,0.3179437851355947,undef
+18361246174,45.759722,4.819999,40,dominique nuits fourvire festival lyon theatre dominique romain ane fourvire nuits,2015,6,14,23,44,0.3180883959418483,undef
+18796155908,45.759722,4.819999,40,dominique nuits fourvire festival lyon theatre dominique romain ane fourvire nuits,2015,6,14,23,43,0.3180877138154037,undef
+18983795985,45.759722,4.819999,40,dominique nuits fourvire festival lyon theatre dominique romain ane fourvire nuits,2015,6,14,23,10,0.3180652036427321,undef
+18361238254,45.759722,4.819999,40,dominique nuits fourvire festival lyon theatre dominique romain ane fourvire nuits,2015,6,14,23,8,0.3180638393898429,undef
+18361234874,45.759722,4.819999,40,dominique nuits fourvire festival lyon theatre dominique romain ane fourvire nuits,2015,6,14,23,6,0.3180624751369537,undef
+18361231884,45.759722,4.819999,40,dominique nuits fourvire festival lyon theatre dominique romain ane fourvire nuits,2015,6,14,23,5,0.3180617930105092,undef
+18957546486,45.759722,4.819999,40,dominique nuits fourvire festival lyon theatre dominique romain ane fourvire nuits,2015,6,14,22,53,0.3180536074931741,undef
+18797589579,45.759722,4.819999,40,yael naim nuits fourvire festival lyon theatre yael romain fourvire naim nuits,2015,6,14,21,47,0.3180085871478309,undef
+18978389532,45.759722,4.819999,40,yael naim nuits fourvire festival lyon theatre yael romain fourvire naim nuits,2015,6,14,21,32,0.317998355251162,undef
+18978386552,45.759722,4.819999,40,yael naim nuits fourvire festival lyon theatre yael romain fourvire naim nuits,2015,6,14,21,29,0.3179963088718283,undef
+18986785921,45.759722,4.819999,40,yael naim nuits fourvire festival lyon theatre yael romain fourvire naim nuits,2015,6,14,21,18,0.3179888054809378,undef
+22008129713,45.75981,4.819629,40,hadrian theatre teatro lyon roman romano fourvire thatre teatrodiadriano hadrianstheatre,2015,6,24,14,52,0.3275481254754568,undef
+22550512825,45.759577,4.820119,40,thtre galloromain france lyon fourvire,2014,12,20,12,46,0.1447614306237868,undef
+21927758734,45.759663,4.8198,40,thtre galloromain france lyon fourvire,2014,12,20,12,39,0.1447566557386747,undef
+21927736344,45.759725,4.819969,40,thtre galloromain france lyon fourvire,2014,12,20,12,47,0.1447621127502314,undef
+22476470505,45.759811,4.819617,40,ancient theatre fourvire france lyon filemd sumdd fc e cd f edf ac filesha sig ea bd ac adaf,2015,10,24,16,8,0.4474359408712537,undef
+22476442205,45.759811,4.819617,40,ancient theatre fourvire france lyon filemd sum ae f b da filesha sig fef f ae e,2015,10,24,16,8,0.4474359408712537,undef
+21855204723,45.759811,4.819617,40,ancient theatre fourvire france lyon filemd sum ca fb b bd filesha sig dcce cd ae dee ad e dec,2015,10,24,16,3,0.4474325302390308,undef
+22288428400,45.759811,4.819617,40,ancient theatre fourvire france lyon filemd sumcd b f e ac e filesha sigb bc fc fe f dac e,2015,10,24,15,59,0.4474298017332524,undef
+22288402120,45.759811,4.819617,40,ancient theatre fourvire france lyon filemd sum e b f f filesha sig cb bf bfdd e ca,2015,10,24,15,59,0.4474298017332524,undef
+22288378790,45.759811,4.819617,40,ancient theatre fourvire france lyon filemd sum bd ededd b fd b filesha sig bd ae fecd f daf,2015,10,24,15,58,0.4474291196068078,undef
+22476314455,45.759811,4.819617,40,ancient theatre fourvire france lyon filemd sum e f e b ff cb e b db filesha sig fb b cdde bd dc bbcb,2015,10,24,15,54,0.4474263911010295,undef
+22487278791,45.759811,4.819617,40,ancient theatre fourvire france lyon filemd sum ea b aa e ffd eaecc filesha sig edeba ef bd ec db ea edb,2015,10,24,15,53,0.4474257089745849,undef
+21853554474,45.759811,4.819617,40,ancient theatre fourvire france lyon filemd sumbdaeb cbeb filesha sig bc fb f eadf f,2015,10,24,15,53,0.4474257089745849,undef
+22450259606,45.759811,4.819617,40,ancient theatre fourvire france lyon filemd sum cae f f fe da f filesha sig e e e b da ea,2015,10,24,15,49,0.4474229804688065,undef
+21853517734,45.759811,4.819617,40,ancient theatre fourvire france lyon filemd sume b b e b ec filesha sig e e e b efb eb,2015,10,24,15,44,0.4474195698365835,undef
+21853499474,45.759811,4.819617,40,ancient theatre fourvire france lyon filemd sum ee f cdec f f filesha sigd b df e dfa fca,2015,10,24,15,42,0.4474182055836944,undef
+22229403424,45.759873,4.819972,40,thtre antique lyon colline fourvire galloromain old artifact,2015,11,1,18,1,0.4553711178011981,undef
+22231003023,45.759873,4.819972,40,thtre antique lyon colline fourvire galloromain old artifact,2015,11,1,17,47,0.4553615680309739,undef
+22429035968,45.759873,4.819972,40,thtre antique lyon colline fourvire galloromain old artifact,2015,11,1,18,5,0.4553738463069765,undef
+22659372890,45.759873,4.819972,40,thtre antique lyon colline fourvire galloromain old artifact,2015,11,1,17,52,0.4553649786631968,undef
+22821358146,45.759873,4.819972,40,thtre antique lyon colline fourvire galloromain old artifact,2015,11,1,18,6,0.4553745284334211,undef
+22847348505,45.759873,4.819972,40,thtre antique lyon colline fourvire galloromain old artifact,2015,11,1,17,36,0.4553540646400833,undef
+22224601734,45.759873,4.819972,40,thtre antique lyon colline fourvire galloromain old artifact,2015,11,1,17,37,0.4553547467665279,undef
+22847316295,45.759873,4.819972,40,thtre antique lyon colline fourvire galloromain old artifact,2015,11,1,17,56,0.4553677071689752,undef
+22455136159,45.759873,4.819972,40,thtre antique lyon colline fourvire galloromain old artifact,2015,11,1,17,44,0.45535952165164,undef
+22821291576,45.759873,4.819972,40,thtre antique lyon colline fourvire galloromain old artifact,2015,11,1,18,7,0.4553752105598657,undef
+22847286225,45.759873,4.819972,40,thtre antique lyon colline fourvire galloromain old artifact,2015,11,1,18,6,0.4553745284334211,undef
+22224538454,45.759873,4.819972,40,thtre antique lyon colline fourvire galloromain old artifact,2015,11,1,18,8,0.4553758926863103,undef
+22455081249,45.759873,4.819972,40,thtre antique lyon colline fourvire galloromain old artifact,2015,11,1,17,53,0.4553656607896414,undef
+22833696602,45.759873,4.819972,40,thtre antique lyon colline fourvire galloromain old artifact,2015,11,1,17,50,0.4553636144103076,undef
+22455059379,45.759873,4.819972,40,thtre antique lyon colline fourvire galloromain old artifact,2015,11,1,17,41,0.4553574752723063,undef
+22847220645,45.759873,4.819972,40,thtre antique lyon colline fourvire galloromain old artifact,2015,11,1,17,38,0.4553554288929725,undef
+22224471734,45.759873,4.819972,40,thtre antique lyon colline fourvire galloromain old artifact,2015,11,1,17,37,0.4553547467665279,undef
+15744779537,45.759711,4.819704,40,runas teatro romano na colina fourvire em lyon lyon onlylyon romanruins thatre frana france square squareformat iphoneography instagramapp uploadedbyinstagram,2014,12,2,6,4,0.1268064983492234,undef
+15738352390,45.759711,4.819704,40,go thtresantiquesdefourvire romanruins thatre onlylyon lyon france frana square squareformat iphoneography instagramapp uploadedbyinstagram,2014,12,1,13,26,0.1261257361575201,undef
+24311454412,45.75975,4.819963,40,lyon hiver ,2016,1,16,12,14,0.5297863380211262,undef
+24264197846,45.759791,4.81979,40,feyzin street cloud industrial factory nuages,2016,1,9,16,19,0.5230776244385591,undef
+23661887224,45.759791,4.81979,40,thatre lyon theatre fourviere,2016,1,9,16,31,0.5230858099558943,undef
+24207442291,45.759791,4.81979,40,fourvire street abandoned concrete,2016,1,9,16,36,0.5230892205881171,undef
+24268902285,45.759776,4.819822,40,planches lugdunum lyon theatre planches antiquit lugdunum,2014,3,10,18,14,-0.1349595247631429,undef
+25276088934,45.759616,4.819903,40,dun sunday today lyon france cool bien observation sun tach eruption square squareformat rise iphoneography instagramapp uploadedbyinstagram,2016,3,19,17,13,0.5918728048814896,undef
+26731620865,45.75988,4.819627,40,ancient theatre fourvire lyon france france iphone france vacation,2016,4,30,16,59,0.6331182624802189,undef
+27270932683,45.759625,4.819641,40, ,2014,6,6,17,5,-0.04856752842906,undef
+27417317850,45.759961,4.819791,40,queen nuits fourvire festival show music festival concert live rocknroll pjharvey nuitsdefourvire,2016,6,14,22,32,0.6775472041958612,undef
+27083270734,45.759688,4.819869,40,pj harvey lyon nuits fourvire festival show music concert live rocknroll pjharvey,2016,6,14,22,32,0.6775472041958612,undef
+27313958822,45.759788,4.819822,40,radiohead fourvire music concert lyon live moment radiohead musique iphone thomyork nuitsdefourvire iphone momentlens momenttele,2016,6,1,22,19,0.6647689295093102,undef
+27135341650,45.75971,4.819781,40,bref ctait top radiohead live lyon nuitsdefourviere square squareformat iphoneography instagramapp uploadedbyinstagram,2016,6,2,8,43,0.665194576410736,undef
+27339701881,45.75971,4.819781,40,panne lightshows pendant concert radiohead live lyon nuitsdefourviere square squareformat iphoneography instagramapp uploadedbyinstagram,2016,6,2,8,42,0.6651938942842913,undef
+26802665554,45.75971,4.819781,40,radiohead live lyon nuitsdefourviere square squareformat iphoneography instagramapp uploadedbyinstagram,2016,6,2,8,40,0.6651925300314021,undef
+27135250880,45.75971,4.819781,40,radiohead live lyon nuitsdefourviere square squareformat iphoneography instagramapp uploadedbyinstagram,2016,6,2,8,36,0.6651898015256238,undef
+27312676722,45.75971,4.819781,40,radiohead live lyon nuitsdefourviere square squareformat iphoneography instagramapp uploadedbyinstagram,2016,6,2,8,33,0.66518775514629,undef
+28341993230,45.759722,4.819722,40,eluveitie come mind history httpjoshuahidekicom instagramapp square squareformat iphoneography uploadedbyinstagram,2016,7,29,3,3,0.7209515919917258,undef
+30313588804,45.759627,4.820005,40,dsc dxo ,2015,4,19,11,1,0.2625612569726862,undef
+23728882856,45.759616,4.819903,40, square squareformat clarendon iphoneography instagramapp uploadedbyinstagram,2015,12,14,15,24,0.4975012933985638,undef
+23667361856,45.759798,4.819865,40,galloroman theatre lyon france old family famille people france rome rock sepia child teatro site frankreich ruin rock europa europe child lyon theatre roman antique pierre watching frana famlia empire enfants criana crianas archaeological menina enfant archeology fille pedra civilisation menino vieux peoplewatching garon ancien fourviere rhone archeologie irmos gaule runas rhonealpes vieuxlyon galloroman coluna lugdunum rhnealpes archeologique onlylyon lyoncity,2014,10,19,14,18,0.0839239372834722,undef
+23595505521,45.759722,4.819999,40,roman theatre panorama lyon france panorama france lyon fr romantheatre rhnealpes sigma sonya,2015,10,11,13,16,0.4345492080800125,undef
+23651176496,45.759736,4.819938,40,side hill france lyon fr rhnealpes sigma sonya,2015,10,11,13,15,0.4345485259535679,undef
+23252859169,45.759744,4.819902,40,roman theatre stage lyon france france lyon fr romantheatre rhnealpes sigma sonya,2015,10,11,13,15,0.4345485259535679,undef
+23325083220,45.759944,4.819616,40,roman theatre step lyon france france lyon fr romantheatre rhnealpes,2015,10,11,13,7,0.4345430689420112,undef
+31721157683,45.759708,4.8198,40, france franaise lyon,2015,5,23,15,37,0.2961464345986417,undef
+32410678941,45.759708,4.8198,40, france franaise lyon,2015,5,23,15,33,0.2961437060928634,undef
+31562122073,45.759828,4.819843,40,p fdl lyon theatre supermimil,2016,12,10,22,39,0.8533768914391325,undef
+32334075176,45.759828,4.819843,40,p fdl lyon theatre supermimil,2016,12,10,22,44,0.8533803020713555,undef
+32334028356,45.759828,4.819843,40,shake fdl lyon theatre supermimil,2016,12,10,22,44,0.8533803020713555,undef
+32222391692,45.759828,4.819843,40,p fdl lyon theatre supermimil,2016,12,10,22,54,0.8533871233358014,undef
+32372645765,45.759828,4.819843,40,p fdl lyon theatre supermimil,2016,12,10,22,54,0.8533871233358014,undef
+32252381131,45.759828,4.819843,40,p fdl lyon theatre supermimil,2016,12,10,23,0,0.853391216094469,undef
+31995389390,45.759828,4.819843,40,p fdl lyon theatre supermimil,2016,12,10,23,10,0.8533980373589148,undef
+31995388560,45.759828,4.819843,40,p fdl lyon theatre supermimil,2016,12,10,23,13,0.8534000837382486,undef
+32222323302,45.759828,4.819843,40,theatre romain lyon rouge fdl lyon theatre supermimil,2016,12,10,23,2,0.8533925803473581,undef
+32333448646,45.759828,4.819843,40,p fdl lyon theatre supermimil,2016,12,10,23,1,0.8533918982209135,undef
+31315247853,45.759821,4.819768,40,phm v decembre antique decembre fete fetedeslumieres fourviere grand lumiere lumieres lyon theatre france,2016,12,10,22,17,0.8533618846573515,undef
+31976618072,45.759821,4.819768,40,phm v decembre antique decembre fete fetedeslumieres fourviere grand lumiere lumieres lyon theatre france,2016,12,10,22,15,0.8533605204044623,undef
+32086247226,45.759821,4.819768,40,phm v decembre antique decembre fete fetedeslumieres fourviere grand lumiere lumieres lyon theatre france,2016,12,10,22,18,0.8533625667837961,undef
+31976617482,45.759821,4.819768,40,phm v decembre antique decembre fete fetedeslumieres fourviere grand lumiere lumieres lyon theatre france,2016,12,10,22,19,0.8533632489102406,undef
+31315247513,45.759821,4.819768,40,phm v decembre antique decembre fete fetedeslumieres fourviere grand lumiere lumieres lyon theatre france,2016,12,10,22,20,0.8533639310366853,undef
+32086246906,45.759821,4.819768,40,phm v decembre antique decembre fete fetedeslumieres fourviere grand lumiere lumieres lyon theatre france,2016,12,10,22,20,0.8533639310366853,undef
+32086246296,45.759821,4.819768,40,phm v decembre antique decembre fete fetedeslumieres fourviere grand lumiere lumieres lyon theatre france,2016,12,10,22,22,0.8533652952895744,undef
+32086245996,45.759821,4.819768,40,phm v decembre antique decembre fete fetedeslumieres fourviere grand lumiere lumieres lyon theatre france,2016,12,10,22,23,0.853365977416019,undef
+32086238316,45.759821,4.819768,40,phm v decembre antique decembre fete fetedeslumieres fourviere grand lumiere lumieres lyon theatre france,2016,12,10,22,16,0.8533612025309069,undef
+32006757581,45.759821,4.819768,40,phm v decembre antique decembre fete fetedeslumieres fourviere grand lumiere lumieres lyon theatre france,2016,12,10,22,19,0.8533632489102406,undef
+31750103300,45.759821,4.819768,40,phm v decembre antique decembre fete fetedeslumieres fourviere grand lumiere lumieres lyon theatre france,2016,12,10,22,20,0.8533639310366853,undef
+31966670972,45.759738,4.819843,40,amphithtre fourvire illumine lors fte lumires lyon evenement edificeremarquable ftedeslumires lyon longexposure longueexposition monument night nuit theme thatreantiquedefourvire vestigeromain auvergnerhnealpes france,2016,12,9,20,3,0.8522882176335629,undef
+31551798791,45.759761,4.820005,40,ruin europe france lyon musegalloromaindelyon auvergnerhnealpes fr,2016,10,22,13,36,0.804875654849273,undef
+34943389851,45.759883,4.819669,40,france stitcha ,2017,5,9,5,33,1.0000163417389576,undef
+36547700486,45.7598,4.819605,40, ,2017,8,4,15,56,1.0858981074924852,undef
+36547699976,45.759769,4.819641,40, ,2017,8,4,15,56,1.0858981074924852,undef
+35784645913,45.759769,4.819641,40, ,2017,8,4,15,56,1.0858981074924852,undef
+36425495232,45.7598,4.819586,40, ,2017,8,4,15,58,1.0858994717453745,undef
+36587651365,45.759766,4.819655,40, ,2017,8,4,15,58,1.0858994717453745,undef
+37375065832,45.759738,4.819938,40,thtre galloromain fourvire lyonseptembre,2017,9,25,15,44,1.1369675501462355,undef
+37375064682,45.759738,4.819938,40,thtre galloromain fourvire lyonseptembre,2017,9,25,15,57,1.1369764177900152,undef
+37060072842,45.759791,4.819811,40,ancient pillar france europe september summer lyon tamron mmf amphitheatre theater ancient thtregalloromain,2017,9,1,4,5,1.112916453836349,undef
+23946478738,45.759872,4.819755,40,september lyon france ,2017,9,9,17,27,1.1213216158866175,undef
+23640807188,45.759675,4.819852,40,france ,2017,8,25,11,27,1.1063421191633669,undef
+23640805638,45.759675,4.819852,40,france ,2017,8,25,11,27,1.1063421191633669,undef
+23640803118,45.759563,4.820166,40,france ,2017,8,25,11,38,1.106349622554257,undef
+37461711582,45.759594,4.820166,40,france ,2017,8,25,11,38,1.106349622554257,undef
+36727534214,45.759638,4.819838,40,odeum ,2017,9,26,3,27,1.137447085036784,undef
+37406131762,45.759638,4.819838,40,odeum ,2017,9,26,3,35,1.1374525420483408,undef
+36727532114,45.759638,4.819838,40,ampitheatre ,2017,9,26,3,37,1.13745390630123,undef
+36727530984,45.759638,4.819838,40,odeum ,2017,9,26,3,41,1.1374566348070083,undef
+36727530074,45.759638,4.819838,40,ampitheatre ,2017,9,26,3,54,1.137465502450788,undef
+36727529484,45.759638,4.819838,40,ampitheatre ,2017,9,26,4,1,1.1374702773359002,undef
+36727528434,45.759638,4.819838,40,ampitheatre ,2017,9,26,4,9,1.1374757343474569,undef
+38141104521,45.759782,4.819843,40,thtre fourvire lyon fourvire archologie vestigesromains,2013,10,26,10,9,-0.2678957369175495,undef
+38056663242,45.759828,4.819736,40,rmi light color bronica zenza analog film,2017,11,1,8,29,1.173014522110725,undef
+31294899440,45.759761,4.820005,40,roman layer europe france lyon musegalloromaindelyon auvergnerhnealpes fr,2016,10,22,13,29,0.8048708799641608,undef
+31667335335,45.759761,4.820005,40,theater europe france lyon musegalloromaindelyon auvergnerhnealpes fr,2016,10,22,13,19,0.8048640586997149,undef
+30857412613,45.759761,4.820005,40,stage europe france lyon musegalloromaindelyon auvergnerhnealpes fr,2016,10,22,13,37,0.8048763369757176,undef
+40389742892,45.759738,4.819843,40,muse mouvement ,2018,2,4,12,51,1.2665081368594606,undef
+38829872465,45.759815,4.81997,40,column ancient theatre fourvire ,2018,1,4,16,51,1.2362217227195542,undef
+38367892814,45.759852,4.819969,40,balha lyon balha,2017,12,7,21,9,1.2088943730962902,undef
+39077624121,45.759858,4.820013,40,balha lyon balha,2017,12,7,21,1,1.2088889160847334,undef
+39077617591,45.759847,4.820038,40,balha lyon balha,2017,12,7,21,1,1.2088889160847334,undef
+39047029532,45.75983,4.820044,40,balha lyon balha,2017,12,7,21,1,1.2088889160847334,undef
+39047026062,45.759833,4.820038,40,balha lyon balha,2017,12,7,21,2,1.208889598211178,undef
+24216525157,45.759819,4.820066,40,balha lyon balha,2017,12,7,21,2,1.208889598211178,undef
+39077600191,45.759847,4.820044,40,balha lyon balha,2017,12,7,21,4,1.2088909624640671,undef
+39077591601,45.759875,4.81998,40,balha lyon balha,2017,12,7,21,6,1.2088923267169562,undef
+39046996952,45.759805,4.820077,40,balha lyon balha,2017,12,7,21,7,1.208893008843401,undef
+38367846054,45.759811,4.820072,40,balha lyon balha,2017,12,7,21,7,1.208893008843401,undef
+38349019924,45.759738,4.819843,40,fte lumires edition see httpsgooglch uyc hellofrance fetedeslumieres lyoncity lyon grandlyon grandlyonmetropole france lasoane kingston ni fdllyon grandlyonmetropole december rokmeul kingston lyon rokmeulphotography travelphotography lasoane light france grandlyon lyoncity hellofrance cityscape ilovelyon lumierelyon fullframe fetedeslumieres travel,2017,12,9,19,51,1.2108056913940384,undef
+38945256021,45.759788,4.819822,40,minotaure lyonnais lyon ftedeslumires,2017,12,9,21,30,1.2108732219120528,undef
+26219625627,45.759821,4.819768,40,phm decembre balaha antique decembre fete fetedeslumieres lumiere lumieres lyon theatre france,2017,12,7,20,46,1.2088786841880643,undef
+26219625427,45.759821,4.819768,40,phm decembre balaha antique decembre fete fetedeslumieres lumiere lumieres lyon theatre france,2017,12,7,20,48,1.2088800484409536,undef
+41091061681,45.759821,4.819768,40,phm decembre balaha antique decembre fete fetedeslumieres lumiere lumieres lyon theatre france,2017,12,7,20,46,1.2088786841880643,undef
+41091061541,45.759821,4.819768,40,phm decembre balaha antique decembre fete fetedeslumieres lumiere lumieres lyon theatre france,2017,12,7,20,47,1.208879366314509,undef
+41091061391,45.759821,4.819768,40,phm decembre balaha antique decembre fete fetedeslumieres lumiere lumieres lyon theatre france,2017,12,7,20,48,1.2088800484409536,undef
+41091061241,45.759821,4.819768,40,phm decembre balaha antique decembre fete fetedeslumieres lumiere lumieres lyon theatre france,2017,12,7,20,49,1.2088807305673983,undef
+41091061311,45.759821,4.819768,40,phm decembre balaha antique decembre fete fetedeslumieres lumiere lumieres lyon theatre france,2017,12,7,20,49,1.2088807305673983,undef
+26219625227,45.759821,4.819768,40,phm decembre balaha antique decembre fete fetedeslumieres lumiere lumieres lyon theatre france,2017,12,7,20,49,1.2088807305673983,undef
+41091061131,45.759821,4.819768,40,phm decembre balaha antique decembre fete fetedeslumieres lumiere lumieres lyon theatre france,2017,12,7,20,49,1.2088807305673983,undef
+26219624967,45.759821,4.819768,40,phm decembre balaha antique decembre fete fetedeslumieres lumiere lumieres lyon theatre france,2017,12,7,20,52,1.208882776946732,undef
+41091060851,45.759821,4.819768,40,phm decembre balaha antique decembre fete fetedeslumieres lumiere lumieres lyon theatre france,2017,12,7,20,53,1.2088834590731767,undef
+26219625047,45.759821,4.819768,40,phm decembre balaha antique decembre fete fetedeslumieres lumiere lumieres lyon theatre france,2017,12,7,20,50,1.208881412693843,undef
+41091060991,45.759821,4.819768,40,phm decembre balaha antique decembre fete fetedeslumieres lumiere lumieres lyon theatre france,2017,12,7,20,50,1.208881412693843,undef
+40196673225,45.759821,4.819768,40,phm decembre balaha antique decembre fete fetedeslumieres lumiere lumieres lyon theatre france,2017,12,7,20,54,1.2088841411996212,undef
+26219624857,45.759821,4.819768,40,phm decembre balaha antique decembre fete fetedeslumieres lumiere lumieres lyon theatre france,2017,12,7,20,53,1.2088834590731767,undef
+41091061621,45.759821,4.819768,40,phm decembre balaha antique decembre fete fetedeslumieres lumiere lumieres lyon theatre france,2017,12,7,20,47,1.208879366314509,undef
+41416815571,45.759911,4.81973,40,ancient thtre fourvire galloromanthtre ancientthtreoffourvire lyon france,2018,4,6,12,58,1.3264308986375768,undef
+41374302122,45.759944,4.819733,40, ,2018,4,6,13,4,1.3264349913962443,undef
+26545344527,45.759766,4.820066,40, ,2018,4,6,12,55,1.326428852258243,undef
+40702336084,45.759863,4.819741,40, ,2018,4,6,13,1,1.3264329450169106,undef
+40702332564,45.759905,4.81973,40, ,2018,4,6,13,2,1.326433627143355,undef
+41091060891,45.759821,4.819768,40,phm decembre balaha antique decembre fete fetedeslumieres lumiere lumieres lyon theatre france,2017,12,7,20,52,1.208882776946732,undef
+48245567227,45.759658,4.819719,40,mvimg ,2019,7,5,13,56,1.7733997084683597,undef
+48553206667,45.759788,4.819733,40,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso nik dxopl frankrijk franrijk jossaris jossarisfoto lr lyon nik rhne,2019,7,26,11,40,1.793934442956372,undef
+48536604767,45.759788,4.819733,40,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,11,40,1.793934442956372,undef
+48536457376,45.759752,4.819783,40,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,11,49,1.7939405820943732,undef
+48536457311,45.759763,4.81978,40,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,11,50,1.793941264220818,undef
+48462565976,45.759788,4.819733,40,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,11,40,1.793934442956372,undef
+48462725037,45.759752,4.819783,40,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,11,49,1.7939405820943732,undef
+48462563836,45.759763,4.81978,40,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,11,50,1.793941264220818,undef
+48899477421,45.759802,4.819586,40,wonder woman cosplay cosplaygirl cosplayer cosplaysexy dcomics hero superhero portrait photographercosplay,2019,10,12,15,59,1.8707275559621488,undef
+49138949141,45.759813,4.819544,40, ,2019,6,29,20,50,1.767788536335142,undef

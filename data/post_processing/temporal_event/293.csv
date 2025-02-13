@@ -1,0 +1,48 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+4504386993,45.760869,4.830808,293,mm nikkor bridge france church river nikon lyon rhne pont nikkor fleuve fourvire rhnealpes,2010,4,6,19,11,166043460.0,undef,2010-04-06 19:11:00
+7396975086,45.761,4.830833,293, ,2012,5,31,11,7,233924820.0,undef,2012-05-31 11:07:00
+7820668326,45.760861,4.83078,293,vue sane france alpes lyon riviere rhone saone,2012,7,3,12,48,236782080.0,undef,2012-07-03 12:48:00
+8059303452,45.760901,4.830765,293,rear tour boat wood bridge cruise brown white france building water river bench lyon flag gray quay monitor boattrip emptyseat ontheboat rivercruise ballustrade tricolore rhonealpes saone boattour saoneriver rhonealpesregion bonapartebridge,2012,9,18,14,8,243439680.0,undef,2012-09-18 14:08:00
+15421230815,45.761008,4.83082,293, lyon justitiepaleis basiliek notredamedelafourviere,2014,9,25,15,11,307120260.0,undef,2014-09-25 15:11:00
+15234679127,45.761003,4.83078,293, lyon saone,2014,9,25,15,10,307120200.0,undef,2014-09-25 15:10:00
+15234544220,45.760988,4.830758,293, lyon saone,2014,9,25,15,10,307120200.0,undef,2014-09-25 15:10:00
+11370955175,45.760988,4.830808,293,palais justice france canon lyon paysage nuit brouillard rhone ftedeslumires rhonealpes vieuxlyon paysageurbain ef mmf lisusm basiliquedefourvire quartierstjean canoneos formatpaysage,2013,12,9,18,49,282077340.0,undef,2013-12-09 18:49:00
+11370986606,45.760988,4.830808,293,palais justice france canon lyon paysage nuit brouillard rhone ftedeslumires rhonealpes vieuxlyon paysageurbain ef mmf lisusm basiliquedefourvire quartierstjean canoneos formatpaysage,2013,12,9,18,49,282077340.0,undef,2013-12-09 18:49:00
+11370946575,45.760988,4.830808,293,palais justice france canon lyon paysage nuit brouillard rhone ftedeslumires rhonealpes vieuxlyon paysageurbain ef mmf lisusm basiliquedefourvire quartierstjean canoneos formatpaysage,2013,12,9,18,48,282077280.0,undef,2013-12-09 18:48:00
+11242511155,45.760861,4.830797,293,fte lumires ,2013,12,6,20,34,281824440.0,undef,2013-12-06 20:34:00
+11242611223,45.760894,4.830752,293,fte lumires ,2013,12,6,20,19,281823540.0,undef,2013-12-06 20:19:00
+11242511376,45.760886,4.830791,293,fte lumires ,2013,12,6,20,35,281824500.0,undef,2013-12-06 20:35:00
+11237865045,45.760863,4.830794,293,fte lumires ,2013,12,5,22,29,281744940.0,undef,2013-12-05 22:29:00
+21110682932,45.761003,4.830797,293,quais saintantoine lyon france lyon architecture city fleuve life people portrait river sane street ville,2015,8,21,18,55,335645700.0,undef,2015-08-21 18:55:00
+25033163071,45.760973,4.830808,293,lyon france lyon rhne fourvire vieuxlyon quaidesane rhnealpesauvergne,2016,2,14,17,13,350932380.0,undef,2016-02-14 17:13:00
+26900907831,45.761071,4.830787,293,sane river longexposure bridge mountain france reflection tower church color night canon river cathedral lyon hill notredame reflect basilique fourvire saone labasiliquenotredamedefourvire,2016,4,20,15,55,356630100.0,undef,2016-04-20 15:55:00
+26348463194,45.760929,4.830754,293,lyon night city bridge blue light architecture night canon cityscape lyon bluehour nuit refection longexplosure poselongue,2016,5,5,20,46,357943560.0,undef,2016-05-05 20:46:00
+31720063575,45.760921,4.830808,293, lyon fetedeslumieres ftedeslumires,2016,12,18,14,26,377533560.0,undef,2016-12-18 14:26:00
+35763685562,45.760951,4.830808,293,bastille day lyon ch bastilleday juillet ftenationale longexposure cityscape night urban lyon france europe city building wideangle canoneos dmarkiv ef mmf lisusm fullframe lighttrails frenchnationalday,2017,7,14,22,14,395532840.0,undef,2017-07-14 22:14:00
+36604341635,45.760997,4.83083,293,dsc jpg lyon lyon earrondissement auvergnerhnealpes france fr,2017,8,8,15,7,397667220.0,undef,2017-08-08 15:07:00
+36776919414,45.760922,4.830805,293,lyon lyon nicolassavignat night nightscape nisi nisifiltersfrance nisinaturalnight lyon earrondissement auvergnerhnealpes france fr,2017,9,20,19,3,401396580.0,undef,2017-09-20 19:03:00
+31409713251,45.760921,4.830808,293,lyon lumires lyon ftedeslumires fetedeslumieres tamronspaf mmf xrdildasphericalif,2016,12,8,22,52,376699920.0,undef,2016-12-08 22:52:00
+25556039438,45.76095,4.830769,293,fte lumires lyon lumire lumires spectacle auvergnerhnealpes france fr canon canon dmarkiv canonef f,2017,12,10,22,23,408406980.0,undef,2017-12-10 22:23:00
+38458617315,45.760906,4.83083,293,merci marie lyon france night city cityscape water nuit river sane canon,2017,12,26,19,7,409777620.0,undef,2017-12-26 19:07:00
+38323845604,45.760921,4.830808,293,fte lumires lyon fetedeslumieres ftedeslumires nuit night,2017,12,7,21,34,408144840.0,undef,2017-12-07 21:34:00
+24150514727,45.760894,4.83083,293,lyon fte lumires fourvire time light ,2017,12,10,21,10,408402600.0,undef,2017-12-10 21:10:00
+24150506797,45.760875,4.83083,293,lyon fte lumires fourvire time light ,2017,12,10,21,10,408402600.0,undef,2017-12-10 21:10:00
+38298050794,45.760877,4.830827,293,lyon fte lumires fourvire time light ,2017,12,10,21,11,408402660.0,undef,2017-12-10 21:11:00
+25143743748,45.760877,4.830827,293,lyon fte lumires fourvire time light ,2017,12,10,21,11,408402660.0,undef,2017-12-10 21:11:00
+38127753415,45.760877,4.830827,293,lyon fte lumires fourvire time light ,2017,12,10,21,11,408402660.0,undef,2017-12-10 21:11:00
+24150459907,45.760877,4.830827,293,lyon fte lumires fourvire time light ,2017,12,10,21,11,408402660.0,undef,2017-12-10 21:11:00
+38932280152,45.760981,4.830744,293,weight one self ,2017,12,9,23,18,408323880.0,undef,2017-12-09 23:18:00
+38932268242,45.760981,4.830744,293,fourvire ,2017,12,9,23,17,408323820.0,undef,2017-12-09 23:17:00
+42114725055,45.760963,4.830802,293, france,2018,6,17,18,38,424723080.0,undef,2018-06-17 18:38:00
+27157448769,45.761013,4.830783,293,img jpg timeforlight ftedeslumires collinedefourvire lyon earrondissement auvergnerhnealpes france fr,2017,12,8,21,29,408230940.0,undef,2017-12-08 21:29:00
+38898520792,45.761013,4.830783,293,img jpg timeforlight ftedeslumires collinedefourvire lyon earrondissement auvergnerhnealpes france fr,2017,12,8,21,29,408230940.0,undef,2017-12-08 21:29:00
+38218872144,45.761013,4.830783,293,img jpg timeforlight ftedeslumires collinedefourvire lyon earrondissement auvergnerhnealpes france fr,2017,12,8,21,25,408230700.0,undef,2017-12-08 21:25:00
+38901752161,45.760921,4.830808,293,quais sane ftedeslumires fetedeslumieres lyon saone,2017,12,7,21,52,408145920.0,undef,2017-12-07 21:52:00
+46612754502,45.760951,4.830808,293,lyon france panorama lyon night nisifilters noche nightshot longexposure water reflet bluehour sony zeiss batis ilce rm france city cityscape citycenter europe europa rhone zeissbatis,2019,1,5,17,52,442173120.0,undef,2019-01-05 17:52:00
+34955940883,45.760883,4.830777,293,paul simo dual selfie sane river night lyon france sane river scenery night people paulmcclure lyon france auvergnerhnealpes presqule archtitecture,2017,7,7,0,0,394848000.0,undef,2017-07-07 00:00:00
+48287807661,45.761016,4.83075,293,mvimg ,2019,7,14,22,48,458606880.0,undef,2019-07-14 22:48:00
+48287897737,45.761027,4.830761,293,mvimg ,2019,7,14,22,24,458605440.0,undef,2019-07-14 22:24:00
+48536596642,45.761033,4.830813,293,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,13,59,459611940.0,undef,2019-07-26 13:59:00
+48536596527,45.761036,4.830761,293,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,14,0,459612000.0,undef,2019-07-26 14:00:00
+48462536766,45.761033,4.830813,293,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,13,59,459611940.0,undef,2019-07-26 13:59:00
+48462536291,45.761036,4.830761,293,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,14,0,459612000.0,undef,2019-07-26 14:00:00

@@ -1,0 +1,255 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4385728269,45.764619,4.82833,11,delicious lyon,2009,8,7,16,33,-1.7812996659713354,undef
+4385728101,45.764619,4.82833,11,rainbow macarons france rainbow lyon macaron,2009,8,7,16,32,-1.78130034809778,undef
+4385727919,45.764619,4.82833,11, lyon macaron,2009,8,7,16,29,-1.7813023944771138,undef
+4385727729,45.764619,4.82833,11, lyon macaron,2009,8,7,16,24,-1.781305805109337,undef
+4386492076,45.764619,4.82833,11, brown lyon macaron,2009,8,7,16,24,-1.781305805109337,undef
+4386491848,45.764619,4.82833,11, blue lyon macaron,2009,8,7,16,21,-1.7813078514886704,undef
+4386491644,45.764619,4.82833,11, yellow lyon macaron,2009,8,7,16,21,-1.7813078514886704,undef
+4385727005,45.764619,4.82833,11, lyon macaron,2009,8,7,16,21,-1.7813078514886704,undef
+4386491214,45.764619,4.82833,11, lyon macaron,2009,8,7,16,18,-1.7813098978680042,undef
+4385723817,45.764619,4.82833,11, lyon,2009,8,7,13,19,-1.7814319985015863,undef
+4386487744,45.764619,4.82833,11, lyon,2009,8,7,13,19,-1.7814319985015863,undef
+4373077852,45.764505,4.828201,11, music lyon,2009,9,13,16,43,-1.7449491477390018,undef
+4355897607,45.764485,4.828126,11,lyon lyon sortie nuit bony mayapress,2010,2,14,7,57,-1.594039585896028,undef
+4544285614,45.764458,4.828287,11,lyon imagini france lyon,2010,4,20,15,21,-1.529889686540772,undef
+4508841842,45.764428,4.828158,11, france lyon vieuxlyon,2010,4,3,11,47,-1.546734116963539,undef
+4508202215,45.764428,4.828158,11, france lyon vieuxlyon,2010,4,3,11,47,-1.546734116963539,undef
+4607540104,45.764274,4.828276,11,vieux lyon dscf bw bw night lyon noiretblanc nuit noapte vieuxlyon albnegru,2010,5,8,22,36,-1.511912244093537,undef
+5382245559,45.764506,4.828169,11,p loge change blue light france night lyon lumire rhne bleu arcade nuit merchant xiv clairage marchand xvi banque rhnealpes templeprotestant foires btimenthistorique logeduchange gilles,2010,7,2,22,19,-1.4578994258313704,undef
+5557948385,45.764505,4.828177,11,fte lumires lighting city carnival light france festival europe lyon illumination illuminated parade citycenter citycentre centreville fra ftedeslumires familyevent rhnealps citinternationale coeurdelaville frcentreville frcoeurdelaville,2010,12,11,19,52,-1.2988732414241904,undef
+5557947925,45.764505,4.828177,11,fte lumires lighting city carnival light france festival europe lyon illumination illuminated parade citycenter citycentre centreville fra ftedeslumires familyevent rhnealps citinternationale coeurdelaville frcentreville frcoeurdelaville,2010,12,11,19,44,-1.2988786984357472,undef
+5558531112,45.764505,4.828177,11,fte lumires lighting city carnival light france festival europe lyon illumination illuminated parade citycenter citycentre centreville fra ftedeslumires familyevent rhnealps citinternationale coeurdelaville frcentreville frcoeurdelaville,2010,12,11,19,44,-1.2988786984357472,undef
+5558530720,45.764505,4.828177,11,fte lumires lighting city carnival light france festival europe lyon illumination illuminated parade citycenter citycentre centreville fra ftedeslumires familyevent rhnealps citinternationale coeurdelaville frcentreville frcoeurdelaville,2010,12,11,19,35,-1.2988848375737485,undef
+5558530212,45.764505,4.828177,11,fte lumires lighting city carnival light france festival europe lyon illumination illuminated parade citycenter citycentre centreville fra ftedeslumires familyevent rhnealps citinternationale coeurdelaville frcentreville frcoeurdelaville,2010,12,11,19,35,-1.2988848375737485,undef
+5558529854,45.764505,4.828177,11,fte lumires lighting city carnival light france festival europe lyon illumination illuminated parade citycenter citycentre centreville fra ftedeslumires familyevent rhnealps citinternationale coeurdelaville frcentreville frcoeurdelaville,2010,12,11,19,35,-1.2988848375737485,undef
+5557945883,45.764505,4.828177,11,fte lumires carnival city citycenter citycentre citinternationale europe frcentreville frcoeurdelaville familyevent festival france ftedeslumires illuminated illumination light lighting lyon parade rhnealps centreville coeurdelaville fra,2010,12,11,19,34,-1.2988855197001932,undef
+5558529056,45.764505,4.828177,11,fte lumires lighting city carnival light france festival europe lyon illumination illuminated parade citycenter citycentre centreville fra ftedeslumires familyevent rhnealps citinternationale coeurdelaville frcentreville frcoeurdelaville,2010,12,11,19,33,-1.2988862018266376,undef
+5558528644,45.764505,4.828177,11,fte lumires lighting city carnival light france festival europe lyon illumination illuminated parade citycenter citycentre centreville fra ftedeslumires familyevent rhnealps citinternationale coeurdelaville frcentreville frcoeurdelaville,2010,12,11,19,32,-1.2988868839530825,undef
+5557944751,45.764505,4.828177,11,fte lumires lighting city carnival light france festival europe lyon illumination illuminated parade citycenter citycentre centreville fra ftedeslumires familyevent rhnealps citinternationale coeurdelaville frcentreville frcoeurdelaville,2010,12,11,19,29,-1.298888930332416,undef
+5557944263,45.764505,4.828177,11,fte lumires lighting city light france festival europe lyon illumination illuminated citycenter citycentre centreville fra ftedeslumires familyevent rhnealps coeurdelaville frcentreville frcoeurdelaville quaiachillelignon,2010,12,11,19,10,-1.2989018907348633,undef
+5557944025,45.764505,4.828177,11,fte lumires lighting city light france festival europe lyon illumination illuminated citycenter citycentre centreville fra ftedeslumires familyevent rhnealps pontmorand coeurdelaville frcentreville frcoeurdelaville,2010,12,11,18,49,-1.2989162153902,undef
+5539924553,45.76451,4.828222,11,lyon ,2011,3,18,15,23,-1.203777311657107,undef
+5519948958,45.764401,4.82823,11,place change city urban france building town photo frankreich europa europe flickr lyon centre lione ciudad rhne stadt citycenter francia mitte btiment gebude ville centreville ue urbain saintjean vieuxlyon rhnealpes francja hccity sitt rotdenken julesrigobert,2011,3,12,15,41,-1.2096586058623835,undef
+5588698396,45.764555,4.828305,11, france europe lyon unesco worldheritage,2011,3,15,13,40,-1.20679435692154,undef
+5588101569,45.764555,4.828333,11, france europe lyon unesco worldheritage,2011,3,15,13,39,-1.2067950390479845,undef
+5586073256,45.764495,4.828298,11,samedi soir lyon,2011,4,3,19,55,-1.1878755799807674,undef
+5773124365,45.764522,4.828363,11, france lyon,2011,5,27,18,38,-1.1348859513854894,undef
+5773120233,45.764433,4.828313,11, france lyon,2011,5,27,18,37,-1.134886633511934,undef
+5773116723,45.764427,4.828358,11, france lyon,2011,5,27,18,37,-1.134886633511934,undef
+5919009557,45.764289,4.828255,11,dsc lyon traboules,2011,7,3,18,51,-1.098533386773822,undef
+5919004809,45.764289,4.828255,11,dsc lyon musique traboules,2011,7,3,18,50,-1.0985340689002665,undef
+5918970749,45.764289,4.828255,11,dsc lyon traboules,2011,7,3,17,1,-1.0986084206827271,undef
+5919529128,45.764289,4.828255,11,dsc lyon traboules,2011,7,3,17,0,-1.0986091028091718,undef
+5918967951,45.764289,4.828255,11,dsc lyon gargouille,2011,7,3,16,52,-1.0986145598207284,undef
+5919525142,45.764289,4.828255,11,dsc lyon gargouille,2011,7,3,16,50,-1.0986159240736175,undef
+5919522900,45.764289,4.828255,11,dsc lyon traboules,2011,7,3,16,44,-1.0986200168322853,undef
+5919521190,45.764289,4.828255,11,dsc lyon traboules,2011,7,3,16,40,-1.0986227453380637,undef
+5918958015,45.764289,4.828255,11,dsc lyon traboules,2011,7,3,16,31,-1.098628884476065,undef
+5919516162,45.764289,4.828255,11,dsc lyon traboules,2011,7,3,16,30,-1.0986295666025094,undef
+5918952921,45.764289,4.828255,11,dsc lyon traboules,2011,7,3,16,28,-1.0986309308553988,undef
+6198452561,45.764536,4.82819,11,zombie zombiewalk,2010,10,31,23,46,-1.3389863691248962,undef
+6263461898,45.764458,4.828271,11,vieux lyon lyon vieux,2011,4,21,22,32,-1.1700877686851292,undef
+6934922683,45.764445,4.828212,11,djeuner dittique square squareformat lordkelvin iphoneography instagramapp uploadedbyinstagram foursquarevenue db eb,2012,2,27,14,9,-0.8639651092602472,undef
+6788806004,45.764445,4.828212,11,djeuner dittique square squareformat lordkelvin iphoneography instagramapp uploadedbyinstagram foursquarevenue db eb,2012,2,27,14,7,-0.8639664735131364,undef
+6788800198,45.764445,4.828212,11,djeuner dittique square squareformat lordkelvin iphoneography instagramapp uploadedbyinstagram foursquarevenue db eb,2012,2,27,14,5,-0.8639678377660256,undef
+6788701080,45.764445,4.828212,11, valencia square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue db eb,2012,2,27,13,13,-0.8640033083411444,undef
+6903070505,45.764574,4.828389,11,img f ,2012,2,18,14,15,-0.8728013752234982,undef
+6903065255,45.764312,4.828389,11,img f ,2012,2,18,14,9,-0.8728054679821659,undef
+6857030676,45.764566,4.828405,11,french life vie franaise city france town nikon place lyon saintjean rhonealpes vieuxlyon oldlyon placeduchange,2011,3,12,16,29,-1.2096258637930437,undef
+6988800559,45.7645,4.828166,11, ,2009,7,11,11,38,-1.808021969438246,undef
+7113638183,45.764401,4.828319,11,postcard travel france hat lyon postcard,2012,4,22,15,58,-0.8098663430660618,undef
+6967549720,45.764349,4.828298,11,postcard travel france hat lyon postcard,2012,4,22,15,58,-0.8098663430660618,undef
+7422466858,45.7645,4.828333,11,lyon france lyon rhnealpes,2012,6,22,14,34,-0.7500056547944036,undef
+7422466038,45.7645,4.828333,11,lyon france lyon rhnealpes,2012,6,22,14,34,-0.7500056547944036,undef
+7422465206,45.7645,4.828166,11,lyon france lyon rhnealpes,2012,6,22,14,34,-0.7500056547944036,undef
+7546116422,45.764544,4.828362,11,lyon rue saintjean lyon,2012,7,9,13,50,-0.7333372129943416,undef
+7807325014,45.764327,4.82833,11,accordion man portrait mmvr nikond,2012,8,9,13,28,-0.7029020952895141,undef
+8221454371,45.764458,4.828419,11,lyon france lyon rhonealpes,2012,11,16,0,1,-0.6062086253891954,undef
+8222527300,45.764536,4.828252,11,beaujolais nouveau france lyon rhonealpes,2012,11,16,0,0,-0.6062093075156401,undef
+8207174920,45.764424,4.828298,11,kiss people bw france night canon mm kiss couple lyon nb beaujolais soire nuit baiser vieuxlyon monochromia,2012,11,15,22,27,-0.6062727452749871,undef
+8148400095,45.764521,4.828169,11, france frankreich lyon rhne frankrig frankrike bouchon vieuxlyon rhnealpes bouchonlyonnais,2012,9,1,11,8,-0.6804055651468539,undef
+8148434178,45.764521,4.828169,11, france frankreich lyon rhne frankrig frankrike vieuxlyon rhnealpes,2012,9,1,11,11,-0.6804035187675201,undef
+8148400851,45.764521,4.828169,11, france frankreich lyon rhne frankrig frankrike vieuxlyon rhnealpes,2012,9,1,11,9,-0.6804048830204092,undef
+8148432190,45.764521,4.828169,11, france frankreich lyon rhne frankrig frankrike vieuxlyon rhnealpes,2012,9,1,11,8,-0.6804055651468539,undef
+8462324674,45.764566,4.828222,11,temple change vieuxlyon travel panorama france canon landscape eos lyon natura tour francia storvandre,2012,8,16,21,23,-0.6957022506668403,undef
+8352276171,45.764491,4.828222,11,lantre photographe vieux lyon ,2013,1,5,16,0,-0.5564413621181723,undef
+8353340406,45.764491,4.828222,11,place thatre vieux lyon ,2013,1,5,16,9,-0.5564352229801709,undef
+8352276927,45.764491,4.828222,11,nb tour rose vieux lyon ,2013,1,5,16,1,-0.5564406799917276,undef
+8352274031,45.764491,4.828222,11,cot stgeorges vieux lyon ,2013,1,5,15,52,-0.556446819129729,undef
+8353334974,45.764491,4.828222,11,place vieux lyon ,2013,1,5,15,38,-0.5564563688999533,undef
+8352271293,45.764491,4.828222,11,chat joueur vieux lyon ,2013,1,5,15,35,-0.5564584152792871,undef
+8352270235,45.764491,4.828222,11,rue vieux lyon ,2013,1,5,15,34,-0.5564590974057317,undef
+8353331568,45.764491,4.828222,11,pointons vers ciel vieux lyon ,2013,1,5,15,29,-0.5564625080379546,undef
+8353330516,45.764491,4.828222,11,lampadaire dentre vieux lyon ,2013,1,5,15,28,-0.5564631901643993,undef
+8352266129,45.764491,4.828222,11,voute vieux lyon ,2013,1,5,15,25,-0.556465236543733,undef
+8290832677,45.764409,4.828222,11,temple change night outside nightshot lyon touristic,2012,12,19,19,35,-0.572993160296209,undef
+8265583182,45.764473,4.828212,11,temple change particolare ,2012,12,11,13,41,-0.5810927296993001,undef
+8674294025,45.764394,4.828233,11,spring back ,2013,4,23,12,21,-0.4505064431465146,undef
+8632793014,45.764304,4.828287,11,tontons flingueurs macro ex lyon pentax sigma mm f dg saintjean k aspherique,2013,4,2,21,4,-0.4707771947004696,undef
+8923535259,45.764491,4.828249,11,upload square lofi squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e cb,2013,6,2,6,33,-0.4114533399407056,undef
+9385615411,45.764409,4.828212,11,busker place change vieuxlyon lyon france france lyon busker vieuxlyon placeduchange,2013,7,11,8,15,-0.3730755419150433,undef
+9546589908,45.764589,4.828341,11,angela place change lyon lyon angela rdmay placeduchange,2013,5,3,16,4,-0.4405317081472387,undef
+9543776895,45.764409,4.828115,11,place change temple change lyon lyon rdmay templeduchange logeduchange placeduchange,2013,5,3,16,4,-0.4405317081472387,undef
+9546548068,45.764619,4.828351,11,philip place change lyon lyon philip rdmay placeduchange,2013,5,3,15,45,-0.440544668549686,undef
+9521183071,45.764529,4.828104,11,temple change lyon lyon rdmay templeduchange logeduchange placeduchange,2013,5,3,13,46,-0.4406258415965925,undef
+9523950572,45.764529,4.828104,11,temple change lyon lyon rdmay templeduchange logeduchange placeduchange,2013,5,3,13,46,-0.4406258415965925,undef
+9521097225,45.764529,4.828104,11,temple change lyon lyon rdmay templeduchange logeduchange placeduchange,2013,5,3,12,40,-0.4406708619419356,undef
+9517447094,45.764484,4.828222,11, epsonrd x,2013,8,12,15,39,-0.3413402912068224,undef
+9512079876,45.764349,4.828201,11,petit musee guignol frankreich france lyon tourisme vacances vieuxlyon rhne rhnealpes muse,2013,8,7,21,32,-0.3460108109729471,undef
+9509285375,45.764634,4.828233,11,temple change frankreich france lyon tourisme vacances vieuxlyon temple rhne rhnealpes,2013,8,7,21,36,-0.3460080824671688,undef
+8097340463,45.764408,4.828311,11, frankreich rhne reise kreuzfahrt arosaluna,2012,9,21,18,6,-0.6604751946887506,undef
+9877342345,45.764491,4.828249,11,passe mtres chez lyon placeduchange square squareformat brannan iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e cb,2013,9,22,18,16,-0.3009604520662811,undef
+10475236065,45.764484,4.828287,11,place change lyon placeduchange,2013,10,24,18,20,-0.269525336993681,undef
+12416134375,45.764491,4.828249,11,city mine say gnie cette ville mappartient dit gnie square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e cb,2014,2,9,11,37,-0.1637159292878283,undef
+12193769105,45.764591,4.828347,11,toit rouge lyon rhnealpes onlylyon canoneos canonef mm lisusm broilerkeule,2014,1,26,14,19,-0.1773570939267889,undef
+12161203205,45.764591,4.828347,11,temple change lyon frankreich lyon autofocus rhnealpes onlylyon templeduchange canoneos logeduchange canonef mm lisusm broilerkeule,2014,1,26,14,16,-0.1773591403061226,undef
+11859902204,45.764319,4.828212,11,lyon winter france architecture europe lyon oldtown renaissance oldhouses vieuxlyon frencharchitecture,2014,1,2,14,55,-0.2009068272998998,undef
+11859898044,45.764626,4.828287,11,lyon maison thomassin winter france architecture europe lyon oldtown oldhouses vieuxlyon frencharchitecture,2014,1,2,14,56,-0.2009061451734552,undef
+11859894024,45.764626,4.828287,11,lyon winter france architecture europe lyon vieuxlyon frencharchitecture,2014,1,2,14,57,-0.2009054630470106,undef
+11859454975,45.764626,4.828287,11,lyon winter france architecture europe lyon oldtown oldhouses bouchon vieuxlyon frencharchitecture,2014,1,2,14,57,-0.2009054630470106,undef
+11859450705,45.764626,4.828287,11,lyon maison thomassin winter france architecture europe lyon oldtown oldhouses vieuxlyon frencharchitecture maisonthomassin,2014,1,2,15,1,-0.2009027345412323,undef
+11860262446,45.764626,4.828287,11,lyon maison thomassin winter france architecture europe lyon oldtown renaissance oldhouses vieuxlyon frencharchitecture maisonthomassin,2014,1,2,15,1,-0.2009027345412323,undef
+11859727673,45.764319,4.828212,11,lyon street winter france architecture europe lyon oldtown oldhouses vieuxlyon frencharchitecture,2014,1,2,15,3,-0.2009013702883431,undef
+11859874004,45.764461,4.828287,11,lyon winter france architecture europe lyon oldtown oldhouses bouchon vieuxlyon cuisinelyon,2014,1,2,15,4,-0.2009006881618985,undef
+11860250366,45.764319,4.828212,11,lyon street winter france architecture europe lyon oldtown crepe streetfood oldhouses vieuxlyon,2014,1,2,15,52,-0.2008679460925581,undef
+11859865944,45.764319,4.828212,11,lyon winter france architecture europe lyon oldtown oldhouses vieuxlyon frencharchitecture,2014,1,2,15,53,-0.2008672639661134,undef
+11696003824,45.764491,4.828249,11,upload square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e cb,2014,1,1,14,52,-0.2018911357594468,undef
+11683767656,45.76435,4.828362,11, ,2013,12,29,17,14,-0.2047410600449542,undef
+13488437933,45.764491,4.828249,11,upload square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e cb,2014,3,29,8,12,-0.1167071853587372,undef
+13044464934,45.764416,4.828212,11, opera place jean lyon vieux rousse croix nouvel basilique fourviere rhone croixrousse bellecour traboules traboule saone terreaux,2014,3,2,17,26,-0.1428503634741888,undef
+12885632163,45.764491,4.828249,11,sunday night vieuxlyon square squareformat sutro iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e cb,2014,3,2,20,8,-0.1427398589901648,undef
+12880827265,45.764491,4.828249,11,upload valencia square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e cb,2014,3,2,7,38,-0.1432514538236092,undef
+13902461335,45.76462,4.828084,11,blurred ,2014,4,6,15,1,-0.1085700990011934,undef
+13902872404,45.76462,4.828084,11,img jpg ,2014,4,6,14,58,-0.1085721453805272,undef
+13902502373,45.76462,4.828084,11,laccordoniste lyonnais ,2014,4,6,14,57,-0.1085728275069718,undef
+13902489523,45.76462,4.828084,11,img jpg ,2014,4,6,14,52,-0.1085762381391947,undef
+13902433095,45.76462,4.828084,11,quand poules dent ,2014,4,6,14,52,-0.1085762381391947,undef
+14512581376,45.764492,4.82825,11, ,2014,6,28,16,10,-0.0269952796188226,undef
+14397429684,45.764329,4.828388,11,upload valencia square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e cb,2014,6,11,7,49,-0.0440354803311875,undef
+14551804917,45.764527,4.828241,11, ,2014,6,8,20,2,-0.0464822678879408,undef
+15192077319,45.764387,4.828169,11,happy shopper city france lyon oldtown vieuxlyon rhnealpes,2014,9,12,14,21,0.0475822866949183,undef
+15138580377,45.764333,4.828305,11,beggar man france look europe lyon place beggar mann begging homme regard vieuxlyon mendiant,2014,9,21,16,2,0.0564915401877408,undef
+15157308351,45.7645,4.828261,11, ,2014,9,5,12,17,0.0406218684542966,undef
+15108945941,45.764521,4.828104,11,temple change ,2014,8,4,13,31,0.0092399592443747,undef
+15092938069,45.764476,4.828351,11,place change tree catalpa trompetboom vieuxlyon placeduchange bouchons bistro france frankrijk rhnealpes rbol albero,2014,9,15,11,32,0.0504137935664217,undef
+15689151999,45.764577,4.828319,11, ,2014,6,9,5,2,-0.0461139196078608,undef
+15749013556,45.764577,4.828319,11, ,2014,6,9,5,2,-0.0461139196078608,undef
+11254060334,45.764491,4.828249,11,upload square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue f b e cb,2013,12,7,8,37,-0.2267034851814985,undef
+16189554245,45.764409,4.828426,11,lyon place change france architecture frankreich lyon lione frana rhne frankrijk francia renaissance francie frankrig lyon historicalbuilding frankrike vieuxlyon rhnealpes francja december,2014,12,21,13,51,0.1457880309228985,undef
+15567152524,45.764409,4.828426,11,lyon place change france architecture frankreich lyon lione frana rhne frankrijk francia renaissance francie frankrig lyon historicalbuilding frankrike vieuxlyon rhnealpes francja december,2014,12,21,13,52,0.1457887130493431,undef
+15989251590,45.764619,4.828265,11,vieuxlyon place change lyon vieuxlyon placechange,2014,12,30,18,40,0.1548255241873044,undef
+15820520268,45.764492,4.828348,11,one day left lyon feel knot throat already square squareformat iphoneography instagramapp uploadedbyinstagram,2014,12,12,19,42,0.1371870985830318,undef
+16830500402,45.764499,4.828083,11,lyon saint jean ,2014,10,8,18,23,0.0732861753800524,undef
+20411191862,45.764608,4.828158,11,p ,2015,7,7,12,22,0.3402152135515393,undef
+21889737523,45.764594,4.828324,11, france lyon,2015,10,21,16,19,0.4444966580215047,undef
+22434790646,45.764236,4.828286,11,rue trois mary france lyon vieuxlyon,2014,12,19,11,26,0.1437245984280062,undef
+22434772896,45.764386,4.828216,11,place change france lyon vieuxlyon,2014,12,19,11,32,0.1437286911866738,undef
+22456066371,45.764476,4.82818,11,lyon temple change horloges soufflot ,2015,10,24,19,44,0.4475832801832857,undef
+22405235946,45.764466,4.828167,11,al dente noir lyon blanc vieux,2015,8,1,23,7,0.365211737113631,undef
+23225153681,45.764583,4.828211,11,lyon lyon,2015,11,25,21,21,0.4790818330152329,undef
+23791508074,45.764544,4.828263,11,lyon hiver ,2016,1,16,14,33,0.5298811535969246,undef
+25410376880,45.764333,4.828333,11,francia lione fete lumieres rue st lione francia citta citt feste star festedelleluci,2009,12,6,18,10,-1.6623797880004152,undef
+25685059076,45.764333,4.828333,11,francia lione fete lumieres place temple charge lione francia citta citt feste star festedelleluci,2009,12,6,18,4,-1.6623838807590827,undef
+25685058816,45.764333,4.828333,11,francia lione fete lumieres rue st b lione francia elisa citta citt feste star festedelleluci giorgielisa,2009,12,6,18,8,-1.6623811522533043,undef
+25616061571,45.764333,4.828333,11,francia lione fete lumieres place temple charge lione francia citta citt feste star festedelleluci,2009,12,6,18,4,-1.6623838807590827,undef
+25084500083,45.764333,4.828333,11,francia lione fete lumieres rue st b lione francia citta citt feste star festedelleluci,2009,12,6,18,3,-1.6623845628855274,undef
+25685049956,45.764333,4.828333,11,francia lione fete lumieres rue st lione francia citta citt feste star festedelleluci,2009,12,6,17,53,-1.6623913841499731,undef
+25685048386,45.764333,4.828333,11,francia lione fete lumieres place temple charge lione piazza francia citta citt feste star festedelleluci,2009,12,6,17,43,-1.6623982054144193,undef
+25685044046,45.764333,4.828333,11,francia lione fete lumieres place temple charge lione piazza francia citta citt feste star festedelleluci,2009,12,6,17,42,-1.6623988875408635,undef
+25590072152,45.764333,4.828333,11,francia lione fete lumieres place temple charge lione piazza francia citta citt feste star festedelleluci,2009,12,6,17,42,-1.6623988875408635,undef
+25711093525,45.764333,4.828333,11,francia lione fete lumieres rue st lione negozio francia citta citt feste star festedelleluci,2009,12,6,17,40,-1.662400251793753,undef
+25410348620,45.764333,4.828333,11,francia lione fete lumieres rue st lione francia citta citt bancarella feste star festedelleluci,2009,12,6,17,38,-1.6624016160466422,undef
+25410347910,45.764333,4.828333,11,francia lione fete lumieres rue st lione negozio francia citta citt feste star festedelleluci,2009,12,6,17,40,-1.662400251793753,undef
+25711084295,45.764333,4.828333,11,francia lione fete lumieres rue st lione francia citta citt feste star festedelleluci,2009,12,6,17,37,-1.6624022981730868,undef
+25410339520,45.764333,4.828333,11,francia lione fete lumieres rue st tata lione francia citta citt feste star festedelleluci,2009,12,6,17,36,-1.6624029802995313,undef
+25410338990,45.764333,4.828333,11,francia lione fete lumieres rue st lione francia citta citt feste star festedelleluci,2009,12,6,17,36,-1.6624029802995313,undef
+25794506973,45.764263,4.828269,11,bredz man france sign statue shop menu advertising bread store lyon ad toque patisserie chef pastry sandwich sho comical boulangerie bredz,2015,8,21,5,15,0.3841257391692914,undef
+27798406156,45.764305,4.828313,11, ,2016,6,15,3,18,0.6777422923590147,undef
+28041703953,45.764641,4.828333,11,img export lyon auvergnerhnealpes france,2016,7,10,11,13,0.7026228544255256,undef
+27428870703,45.764425,4.828324,11,lyonfrance dsc web france lyon fr rivercruise rhnealpes,2015,9,18,11,37,0.4118896497170947,undef
+27428869533,45.764425,4.828324,11,lyonfrance dsc web france lyon fr rivercruise rhnealpes,2015,9,18,11,27,0.4118828284526488,undef
+27428869033,45.764425,4.828324,11,lyonfrance dsc web france lyon fr rivercruise rhnealpes,2015,9,18,11,23,0.4118800999468704,undef
+27428867603,45.764425,4.828324,11,lyonfrance dsc web france lyon fr rivercruise rhnealpes,2015,9,18,11,1,0.4118650931650894,undef
+31020453631,45.764536,4.8282,11,dsc dxo ,2015,4,19,11,48,0.262593316915582,undef
+23232510763,45.764622,4.828216,11,lyon france france lyon,2014,5,30,10,23,-0.0557175778212784,undef
+23833163326,45.764491,4.828349,11,lyon france france lyon,2014,5,30,10,23,-0.0557175778212784,undef
+23776747681,45.764519,4.828438,11,lyon france france lyon,2014,5,30,10,23,-0.0557175778212784,undef
+23561634660,45.764541,4.828252,11,lyon france france lyon,2014,5,30,10,23,-0.0557175778212784,undef
+23828229106,45.764572,4.82813,11,lyon france france lyon,2014,5,29,15,48,-0.056478148806999,undef
+23227494663,45.76448,4.828152,11,lyon france france lyon,2014,5,29,15,48,-0.056478148806999,undef
+23486363949,45.764427,4.82818,11,lyon france france lyon,2014,5,29,15,48,-0.056478148806999,undef
+23696548846,45.764561,4.828177,11,lione e annecy trip travel bridge lake france annecy night canon river lago eos friend long exposure lyon lione pussy ponte filter panoramica nd audi francia cabrio hdr fede raclette ruota esposizione selfie saona pezzi pezzo fiumi umbe rodano traveladdicted g x wwwfacebookcomumbetraveladdicted umbetraveladdicted,2015,12,6,13,32,0.4895667985950641,undef
+23426889710,45.764694,4.828349,11,lione e annecy trip travel bridge lake france annecy night canon river lago eos friend long exposure lyon lione pussy ponte filter panoramica nd audi francia cabrio hdr fede raclette ruota esposizione selfie saona pezzi pezzo fiumi umbe rodano traveladdicted g x wwwfacebookcomumbetraveladdicted umbetraveladdicted,2015,12,6,13,11,0.4895524739397276,undef
+23750925512,45.764622,4.828216,11,lyon france france lyon,2014,5,30,10,23,-0.0557175778212784,undef
+23231032164,45.764591,4.828361,11,lyon france france lyon,2014,5,30,10,23,-0.0557175778212784,undef
+23490493159,45.76438,4.828336,11,lyon france france lyon,2014,5,30,11,0,-0.0556923391428285,undef
+23775880911,45.764519,4.828227,11,lyon france france lyon,2014,5,30,11,1,-0.0556916570163839,undef
+23771828921,45.764555,4.828108,11,lyon france france lyon,2014,5,29,15,48,-0.056478148806999,undef
+23745944082,45.764555,4.828108,11,lyon france france lyon,2014,5,29,15,48,-0.056478148806999,undef
+23226147544,45.76448,4.828152,11,lyon france france lyon,2014,5,29,15,48,-0.056478148806999,undef
+32703082541,45.764566,4.82825,11,lyon lyon rhnealpes france francia urban street,2017,2,4,12,17,0.907959285282534,undef
+32826533535,45.764577,4.828236,11,lyon lyon rhnealpes france francia urban street,2017,2,5,15,39,0.9090793369045548,undef
+32647531681,45.764587,4.82814,11,lyon camion pompiers dtail lyon rhone camion pompiers truck firefighter detail tuyau incendie lance fire pipe firehose leica q,2017,2,7,17,6,0.9111032060656608,undef
+32340290910,45.764641,4.828308,11,lyon vieux lyon france lyon auvergnerhnealpes rhne muse musegadagne vieuxlyon,2017,1,22,14,21,0.8952744619188922,undef
+32566842432,45.764641,4.828308,11,lyon vieux lyon france lyon auvergnerhnealpes rhne muse musegadagne vieuxlyon,2017,1,22,14,19,0.8952730976660029,undef
+34085353184,45.764422,4.828236,11,vue depuis porte chambre ,2017,5,27,16,10,1.018131573728,undef
+35510126955,45.764454,4.828082,11,place change vieux lyon sign near rue saintjean lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw placeduchange placedeladraperie sign ruesaintjean sign,2017,6,3,10,39,1.0247816244363324,undef
+35510119435,45.764454,4.828082,11,place change vieux lyon pharmacie near rue saintjean lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw placeduchange placedeladraperie sign pharmacie ruesaintjean greencross,2017,6,3,10,40,1.0247823065627768,undef
+34700572553,45.764454,4.828082,11,place change vieux lyon rue saintjean subway lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw placeduchange placedeladraperie sign subway ruesaintjean lavapoteurdesaintjeanecigarettes mezzodipasta lesescapadesdejef,2017,6,3,10,40,1.0247823065627768,undef
+35510073705,45.764634,4.828372,11,place change vieux lyon plaque thomassin family lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw placeduchange plaque placedeladraperie thomassin maisonthomassin openplaquesid,2017,6,3,10,42,1.024783670815666,undef
+35510060155,45.764634,4.828372,11,place change vieux lyon maison thomassin lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw placeduchange placedeladraperie maisonthomassin openplaquesid,2017,6,3,10,42,1.024783670815666,undef
+35379475291,45.764409,4.828243,11,place change vieux lyon drinking fountain dog lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw placeduchange placedeladraperie drinkingfountain ruesaintjean,2017,6,3,10,43,1.0247843529421108,undef
+34510830593,45.764444,4.828333,11,lyon lyon,2017,4,1,15,13,0.9630860160287203,undef
+36205180685,45.764476,4.828351,11,pantomime pantomime mime streetartist artist actress cook kok chef koksmuts toque acting placeduchange vieuxlyon lyon france frankrijk frankreich frana francia woman frau femme vrouw mujer donna europa europe portrait portret ritratto retrato face gezicht visage rhnealpes portrt,2017,7,21,11,17,1.0719561250914595,undef
+36498369933,45.764476,4.828351,11,pantomime streetperformer pantomime artist mime france frankrijk frankreich francia frana europa europe lyon vieuxlyon woman femme frau donna mujer vrouw red rood rouge rot portrait portret ritratto retrato waitress serveuse placeduchange acting actress actrice rhnealpes portrt rojo rosso,2017,7,21,11,11,1.0719520323327918,undef
+37086065061,45.764476,4.828351,11,chez louise terrasse terras terrace lyon europa europe france frankrijk frankreich francia frana table tafels tische stoelen chair chaise sthle placeduchange restaurant outside red rood rot rouge rhnealpes rojo rosso,2017,7,21,11,13,1.0719533965856811,undef
+37799284661,45.764552,4.828263,11,september lyon france ,2017,9,9,15,45,1.1212520389892693,undef
+37766189952,45.764476,4.828351,11,pantomime pantomime streetportrait man male homme hombre uomo mann vrouw femme frau donna mujer woman bn nb zw monochroom monotone monochrome bw streettheatre straattheater lyon france frankrijk frankreich francia frana europa europe rhnealpes mand,2017,7,21,11,14,1.0719540787121256,undef
+37507783686,45.764454,4.828238,11,trompe loeil man window exifaperture cameramodelxt exiffocallength mm geocity geostate exiflensxf mmf rlmoiswr geocountry geolon exifmodelxt geolocation exifmakefujifilm exifisospeed geolat cameramakefujifilm,2017,8,11,11,8,1.0925774896379348,undef
+37507781476,45.764451,4.828276,11,trompe loeil rue soufflot exifaperture cameramodelxt geocountry geocity geostate exiflensxf mmf rlmoiswr geolon exiffocallength mm exifmodelxt geolocation exifmakefujifilm geolat exifisospeed cameramakefujifilm,2017,8,11,11,9,1.0925781717643794,undef
+37505356392,45.764483,4.828266,11,maison thomassin cameramakefujifilm cameramodelxt exifisospeed geolat geostate exiflensxf mmf rlmoiswr geocountry exiffocallength mm exifmodelxt geolocation exifmakefujifilm geocity geolon exifaperture,2017,8,11,11,7,1.0925768075114903,undef
+37505353782,45.764493,4.828443,11,balloon graffiti exifaperture cameramodelxt geocountry geocity geostate exiflensxf mmf rlmoiswr geolat geolon exifmodelxt geolocation exiffocallength mm exifisospeed cameramakefujifilm exifmakefujifilm,2017,8,11,11,6,1.0925761253850457,undef
+38519508531,45.764444,4.828333,11,lyon place change lyon vieuxlyon placeduchange lalogeduchange templeprotestant patrimoinemondialdelunesco soufflot mh classmh inscritmh monumenthistorique,2017,11,19,12,13,1.1908480358781512,undef
+40008472661,45.764409,4.828083,11,lyon temple change lyon france rhne vieuxlyon,2018,1,28,13,26,1.259656176723529,undef
+25663224268,45.764476,4.828351,11,pantomime pantomime lyon vrouw femme frau donna mujer woman actress actrice kok cook cuisinire france frankrijk frankreich francia frana europa europe portret portrait ritratto retrato streetportrait rhnealpes portrt,2017,7,21,11,17,1.0719561250914595,undef
+24638450527,45.76451,4.82819,11,temple change vieux lyon france january lyon france loge temple change glise reforme protestant church stock exchange,2018,1,2,19,26,1.2343629281580395,undef
+27649178109,45.764633,4.828397,11,fte lumires lyon lumire lumires spectacle canon canon dmarkiv canonef f lyon earrondissement auvergnerhnealpes france fr,2017,12,10,21,33,1.2118575303716,undef
+25403063158,45.764638,4.828333,11,lumire verre lyon ftedeslumires,2017,12,7,23,17,1.208981685281198,undef
+40737775945,45.76453,4.828405,11,lyon tartine mobile food iphone,2018,4,22,20,38,1.3424608700855,undef
+40743090124,45.764476,4.828351,11,pantomime actor acteurs lyon rhnealpes streetportrait bn nb zw monochroom monotone monochrome bw man male homme hombre uomo mann vrouw femme frau donna mujer woman france frankrijk frankreich francia frana mand,2017,7,21,11,17,1.0719561250914595,undef
+28163269698,45.764619,4.828115,11,savanah ,2018,4,12,10,46,1.3322344304281697,undef
+27111829447,45.764499,4.828416,11,maison thomassin lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,14,38,1.3559669736884314,undef
+41755534020,45.764566,4.828233,11,temple change fujifilmxt nuit night lyon templeduchange,2018,7,21,22,52,1.4309558622482617,undef
+29713856387,45.764594,4.828341,11, ,2014,7,8,11,58,-0.0173445546807281,undef
+43675246121,45.764598,4.82836,11,temple change lyon francja france koci kosciol witynia swiatynia budynek architektura church temple building architecture,2018,6,6,10,56,1.3862656661043404,undef
+44889339394,45.764611,4.82818,11,diatonisticien music accordeon lyon streetart,2018,10,29,11,20,1.5287100387699215,undef
+45187930251,45.764427,4.828302,11, ,2018,9,29,18,19,1.4995279873438103,undef
+30890969067,45.764498,4.828361,11,besame mucho france lyon vieuxlyon brassband musician geolon exifaperture geocountry exiflensolympusm mmf iir cameramodelem geostate exifmodelem geocity geolocation exifisospeed cameramakeolympusimagingcorp geolat exiffocallength mm exifmakeolympusimagingcorp,2016,12,17,14,38,0.8599246231807758,undef
+32463053088,45.764518,4.828124,11,cascade france lyon rhone fete lumieres temple change cascade,2018,12,6,21,23,1.5664473200641118,undef
+31395986817,45.764518,4.828124,11,cascade france lyon rhone fete lumieres temple change cascade,2018,12,6,21,24,1.5664480021905562,undef
+32463052178,45.764518,4.828124,11,cascade france lyon rhone fete lumieres temple change cascade,2018,12,6,21,25,1.566448684317001,undef
+31395985017,45.764518,4.828124,11,cascade france lyon rhone fete lumieres temple change cascade,2018,12,6,21,26,1.5664493664434456,undef
+44396312850,45.76433,4.828305,11, ,2018,12,6,23,37,1.5665387250076872,undef
+31274272847,45.764447,4.828386,11, ,2018,12,6,23,36,1.5665380428812423,undef
+48022881587,45.764594,4.828086,11,lyon ,2019,6,4,17,27,1.74309351266156,undef
+48404839222,45.764511,4.828216,11,lyon francia arquitectura josantonioabad paisajeurbano lyon color pblica europa francia architecture building calles edificios europe farbe fotografaurbana liyon urbanphotography cityscape colour couleur streetphotography street urbanlanscape rdano,2019,7,16,20,10,1.7844597066409822,undef
+48353709517,45.764536,4.828244,11,place change flick ,2019,7,15,11,0,1.7831022750162433,undef
+48306063166,45.764476,4.828351,11,place change deurklopper trklopfer doorknocker door deur tr porte porta wood hout bois holz old oud vieux lyon auvergnerhnealpes lione france frankrijk frankreich francia frana,2019,6,14,13,42,1.7527626550136586,undef
+48680772373,45.764574,4.828255,11,france lyon pl change lyon france franciaorszag unesco square ter ycabj xlmtclamag cf,2019,1,1,0,0,1.591110965921242,undef
+48875396946,45.764476,4.828351,11,place change door deur porte porta tr bn nb zw monochroom monotone monochrome bw france frankrijk frankreich francia frana lyon auvergnerhnealpes lione europa europe patrimoine mondial werelderfgoed worldheritagesite unescowelterbe,2019,6,14,13,41,1.752761972887214,undef
+48880569692,45.7646,4.828116,11,troupemime ,2019,9,20,8,1,1.848791733756944,undef
+49011853611,45.764444,4.828213,11,francelyonsights ,2018,6,19,20,53,1.3994423026345335,undef
+49011320663,45.764477,4.828327,11,francelyonsights ,2018,6,20,11,29,1.4000398453999965,undef
+49002806811,45.76445,4.828324,11,lyon ,2019,10,18,17,1,1.8766634202829933,undef
+49002260473,45.76445,4.828324,11,lyon ,2019,10,18,17,1,1.8766634202829933,undef
+49002800556,45.76445,4.828324,11,lyon place change ,2019,10,18,17,8,1.8766681951681048,undef
+49002998017,45.76445,4.828324,11,lyon place change ,2019,10,18,17,8,1.8766681951681048,undef
+49000918737,45.76445,4.828324,11,lyon dame fourviere ,2019,10,18,16,26,1.8766395458574323,undef
+49000917767,45.76445,4.828324,11,lyon ,2019,10,18,16,29,1.8766415922367663,undef
+49000915717,45.76445,4.828324,11,lyon cathedrale saintjean ,2019,10,18,16,31,1.8766429564896556,undef
+49000167473,45.76445,4.828324,11,lyon cathedrale saintjean ,2019,10,18,16,32,1.8766436386161,undef
+49000912007,45.76445,4.828324,11,lyon cathedrale saintjean ,2019,10,18,16,33,1.8766443207425445,undef
+49000909607,45.76445,4.828324,11,lyon cathedrale saintjean ,2019,10,18,16,34,1.8766450028689887,undef
+49000906167,45.76445,4.828324,11,lyon ,2019,10,18,16,55,1.8766593275243253,undef
+49000157183,45.76445,4.828324,11,lyon ,2019,10,18,16,56,1.8766600096507704,undef

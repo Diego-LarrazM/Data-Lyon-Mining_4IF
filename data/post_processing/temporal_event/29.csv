@@ -1,0 +1,394 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4242752742,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,15,47,-1.690962932408174,undef
+4242752286,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,15,47,-1.690962932408174,undef
+4242751922,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,15,46,-1.6909636145346187,undef
+4242751340,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,15,45,-1.6909642966610634,undef
+4241978783,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,15,45,-1.6909642966610634,undef
+4242750066,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,15,43,-1.6909656609139525,undef
+4241977683,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,15,42,-1.6909663430403972,undef
+4242749348,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,15,41,-1.6909670251668416,undef
+4241976811,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,15,50,-1.6909608860288403,undef
+4242748574,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,15,40,-1.6909677072932865,undef
+4242748330,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,15,40,-1.6909677072932865,undef
+4242741456,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,16,0,-1.6909540647643944,undef
+4241968713,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,15,29,-1.6909752106841769,undef
+4242739100,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,15,30,-1.6909745285577322,undef
+4241966215,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,15,59,-1.690954746890839,undef
+4242737730,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,15,35,-1.6909711179255094,undef
+4242737356,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,15,34,-1.6909718000519538,undef
+4242737048,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,15,29,-1.6909752106841769,undef
+4241964279,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,15,28,-1.690975892810621,undef
+4242735808,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,15,14,-1.6909854425808457,undef
+4241963425,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,15,14,-1.6909854425808457,undef
+4241963171,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,15,9,-1.6909888532130686,undef
+4241954453,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,15,16,-1.6909840783279566,undef
+4242726602,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,15,15,-1.690984760454401,undef
+4241953703,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,15,15,-1.690984760454401,undef
+4241953203,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,15,8,-1.6909895353395132,undef
+4241952887,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,15,7,-1.690990217465958,undef
+4242721306,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,15,19,-1.6909820319486228,undef
+4241878225,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,16,5,-1.6909506541321715,undef
+4242650266,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,16,4,-1.6909513362586162,undef
+4242649640,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,16,2,-1.6909527005115053,undef
+4242649342,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,15,21,-1.6909806676957335,undef
+4242648872,45.78415,4.852502,29,biennale artcontemporain biennaledelyon,2009,11,7,15,5,-1.690991581718847,undef
+4470857208,45.78421,4.852341,29,lart inutile rentrez chez tarkastad muse museum lyon france,2010,3,27,16,49,-1.5534039493387644,undef
+4470851162,45.78421,4.852341,29,mus servent rien tarkastad muse museum lyon france,2010,3,27,16,48,-1.5534046314652088,undef
+4470063931,45.78421,4.852341,29,abrutis voient beau belle choses tarkastad muse museum lyon france,2010,3,27,16,48,-1.5534046314652088,undef
+4469941453,45.78421,4.852341,29,karl marx revient bientt tarkastad muse museum lyon france karlmarx socialisme,2010,3,27,16,58,-1.553397810200763,undef
+4469924063,45.78421,4.852341,29,baises tarkastad muse museum lyon france,2010,3,27,16,47,-1.5534053135916537,undef
+4469916971,45.78421,4.852341,29,baises tarkastad muse museum lyon france,2010,3,27,16,47,-1.5534053135916537,undef
+4470689178,45.78421,4.852341,29,voulezvous couchez passe beurre chrie tarkastad muse museum lyon france,2010,3,27,16,45,-1.5534066778445428,undef
+4515457021,45.784389,4.852373,29, france expo lyon ben exhibition benvautier musedartcontemporain citinternationale maclyon,2010,4,4,18,10,-1.5454906004550468,undef
+4487372210,45.78421,4.852341,29,lart partout dtail europen tarkastad lyon france,2010,3,27,16,43,-1.553408042097432,undef
+5405381726,45.784206,4.852513,29,museartcontemporainlyon art museum lyon muse contemporain sylvainmestre,2011,1,30,15,18,-1.2499470400593498,undef
+5888537013,45.784344,4.852405,29,nisennenmondai nuits sonores lyon france show music france art festival tokyo concert mac europe lyon live muse area blanche carte contemporain nuits sonores nisennenmondai musiwue,2011,6,4,18,55,-1.1270162585942258,undef
+5888537007,45.784344,4.852405,29,nisennenmondai nuits sonores lyon france show music france art festival tokyo concert mac europe lyon live muse area blanche carte contemporain nuits sonores nisennenmondai musiwue,2011,6,4,18,37,-1.1270285368702284,undef
+5864127154,45.784262,4.852416,29,muse dart contemporain lyon h maclyon,2011,6,3,16,26,-1.1281001575146832,undef
+5863573761,45.784262,4.852416,29,muse dart contemporain lyon h maclyon,2011,6,3,16,25,-1.1281008396411278,undef
+5864126372,45.784262,4.852416,29,muse dart contemporain lyon h maclyon,2011,6,3,16,16,-1.1281069787791291,undef
+5864126048,45.784262,4.852416,29,muse dart contemporain lyon h maclyon,2011,6,3,16,12,-1.1281097072849076,undef
+5864125638,45.784262,4.852416,29,muse dart contemporain lyon h maclyon,2011,6,3,16,12,-1.1281097072849076,undef
+5863571053,45.784262,4.852416,29,muse dart contemporain lyon h maclyon,2011,6,3,15,45,-1.1281281246989117,undef
+5863570575,45.784262,4.852416,29,muse dart contemporain lyon h maclyon,2011,6,3,15,32,-1.1281369923426912,undef
+5863569047,45.784262,4.852416,29,muse dart contemporain lyon h maclyon,2011,6,3,15,25,-1.1281417672278031,undef
+5863568717,45.784262,4.852416,29,muse dart contemporain lyon h maclyon,2011,6,3,15,24,-1.128142449354248,undef
+5835835944,45.784344,4.852405,29,ooioo nuits sonores lyon france show music france art festival tokyo concert mac europe lyon gare live muse area blanche march musique carte ooioo contemporain nuits sonores,2011,6,3,19,50,-1.1279610037199863,undef
+5835835950,45.784344,4.852405,29,ooioo nuits sonores lyon france show music france art festival tokyo concert mac europe lyon live muse area blanche musique carte ooioo contemporain nuits sonores,2011,6,3,19,54,-1.127958275214208,undef
+5828893916,45.784344,4.852405,29,mono nuits sonores lyon france show music france art festival mono tokyo concert mac europe lyon live muse area blanche sound musique carte contemporain nuits sonores,2011,6,3,18,37,-1.1280107989504418,undef
+5828893928,45.784344,4.852405,29,mono nuits sonores lyon france show music france art festival mono tokyo concert mac europe lyon live muse area blanche sound musique carte contemporain nuits sonores,2011,6,3,18,50,-1.128001931306662,undef
+6273978477,45.784189,4.852446,29,smiley window ,2011,10,23,14,57,-0.9886796513779804,undef
+6273807479,45.784212,4.852511,29,sarah pierce artwork third person detail lyon sarahpierce musedartcontemporain canonefs mmf isusm canoneos anartworkinthethirdperson,2011,10,23,15,34,-0.9886544126995306,undef
+6323857022,45.784322,4.852341,29,qr nuit blanche f jardin sisley square squareformat amaro iphoneography instagramapp uploadedbyinstagram foursquarevenue b f f ae e,2011,11,7,22,49,-0.9736237564929352,undef
+6322841365,45.784322,4.852341,29,vais aussi cin nuitblanche square squareformat amaro iphoneography instagramapp uploadedbyinstagram foursquarevenue b f f ae e,2011,11,7,20,10,-0.9737322145976254,undef
+7030459463,45.784344,4.852405,29,christian lhopital exhibition mac lyon france france art museum mac europe expo lyon drawing muse musee christian exposition beaut terrible biennale dessins lhopital contemporain,2011,12,28,16,28,-0.9237882805774528,undef
+7030459459,45.784344,4.852405,29,christian lhopital exhibition mac lyon france france art museum mac europe expo lyon drawing muse musee christian exposition beaut terrible biennale dessins lhopital contemporain,2011,12,28,16,27,-0.9237889627038972,undef
+7030459467,45.784344,4.852405,29,sarah pierce exhibition mac lyon france france art sarah museum person artwork mac europe expo lyon muse musee exposition beaut terrible third pierce biennale contemporain,2011,12,28,17,5,-0.9237630418990028,undef
+7030459473,45.784344,4.852405,29,sarah pierce exhibition mac lyon france france art sarah museum person artwork mac europe expo lyon muse musee exposition beaut terrible third pierce biennale contemporain,2011,12,28,17,5,-0.9237630418990028,undef
+7030435417,45.784344,4.852405,29, france art museum mac europe expo lyon drawing muse christian beaut terrible biennale dessins lhopital contemporain expositon,2011,12,28,16,27,-0.9237889627038972,undef
+7030435411,45.784344,4.852405,29,christian lhopital exhibition mac lyon france france art museum mac europe expo lyon drawing muse christian beaut terrible biennale dessins lhopital contemporain expositon,2011,12,28,16,27,-0.9237889627038972,undef
+7030435393,45.784344,4.852405,29,eva kotatkova exhibition mac lyon france france art museum mac eva europe expo lyon machine muse beaut terrible biennale contemporain reeducation expositon kotatkova,2011,12,28,15,42,-0.923819658393904,undef
+7030435387,45.784344,4.852405,29,eva kotatkova exhibition mac lyon france france art museum mac eva europe expo lyon machine muse beaut terrible biennale contemporain reeducation expositon kotatkova,2011,12,28,15,37,-0.923823069026127,undef
+7030435403,45.784344,4.852405,29,virginia chihota exhibition mac lyon france france art museum virginia mac europe expo lyon muse beaut terrible biennale contemporain expositon chihota,2011,12,28,15,51,-0.9238135192559028,undef
+7030435397,45.784344,4.852405,29,kemang wa lehulere exhibition mac lyon france france art museum mac europe expo lyon muse beaut terrible wa biennale kemang contemporain expositon lehulere,2011,12,28,15,44,-0.9238182941410148,undef
+7112340217,45.784299,4.852432,29,photo ,2012,4,25,4,11,-0.8074018202217491,undef
+7112339767,45.784299,4.852432,29,photo ,2012,4,25,4,11,-0.8074018202217491,undef
+6966262154,45.784299,4.852432,29,photo ,2012,4,25,4,10,-0.8074025023481937,undef
+6966258242,45.784299,4.852432,29,photo ,2012,4,25,4,8,-0.8074038666010829,undef
+7112334461,45.784299,4.852432,29,photo ,2012,4,25,4,8,-0.8074038666010829,undef
+6966257542,45.784299,4.852432,29,photo ,2012,4,20,14,57,-0.8118724769396083,undef
+6966256972,45.784299,4.852432,29,photo ,2012,4,20,14,48,-0.8118786160776096,undef
+6966256334,45.784299,4.852432,29,photo ,2012,4,20,14,41,-0.8118833909627218,undef
+7112331805,45.784299,4.852432,29,photo ,2012,4,20,14,34,-0.8118881658478339,undef
+7112331331,45.784299,4.852432,29,photo ,2012,4,20,14,29,-0.8118915764800568,undef
+7112330919,45.784299,4.852432,29,photo ,2012,4,20,14,25,-0.8118943049858353,undef
+6966254022,45.784299,4.852432,29,photo ,2012,4,20,14,24,-0.8118949871122798,undef
+6966253266,45.784299,4.852432,29,photo ,2012,4,20,14,21,-0.8118970334916136,undef
+6966252796,45.784299,4.852432,29,photo ,2012,4,20,14,19,-0.8118983977445028,undef
+6966252212,45.784299,4.852432,29,photo ,2012,4,20,14,19,-0.8118983977445028,undef
+7112327965,45.784299,4.852432,29,photo ,2012,4,20,14,7,-0.8119065832618378,undef
+7112327567,45.784299,4.852432,29,photo ,2012,4,20,14,6,-0.8119072653882825,undef
+6966245832,45.784299,4.852432,29,photo ,2012,4,25,3,59,-0.8074100057390842,undef
+7112322013,45.784299,4.852432,29,photo ,2012,4,19,14,3,-0.8128915738478294,undef
+7098399779,45.784382,4.85225,29,muse dart contemporain cit internationale art lyon cit muse fisheye internationale contemporain,2010,6,3,17,18,-1.4865903462173748,undef
+8416143197,45.784075,4.852588,29,lyon muse dart contemporain exposition robert combas mar art robert lyon muse exposition greatest hit fin confusion couleur mlange dbut graphisme graphitis contemporain combas,2013,1,26,15,57,-0.5358159048130293,undef
+8380952628,45.784374,4.852244,29,truck white france art lyon contemporary lorry vehicle van bent tuck erwinwurm musedartcontemporain,2012,12,10,9,7,-0.5822618944253316,undef
+8379872115,45.784374,4.852244,29,truck white france art lyon contemporary lorry vehicle van bent tuck erwinwurm musedartcontemporain,2012,12,10,9,6,-0.5822625765517763,undef
+9608053253,45.784344,4.852405,29, france art mac europe neon expo lyon daniel exhibition musee exposition something happened firman ordinary contemporain,2013,7,19,16,4,-0.3648975279708239,undef
+9608053205,45.784344,4.852405,29, sculpture france art mac europe expo lyon exhibition musee exposition bra contemporain,2013,7,19,15,53,-0.3649050313617144,undef
+9608053135,45.784344,4.852405,29, france art mac europe neon expo lyon daniel exhibition musee exposition firman contemporain,2013,7,19,15,52,-0.364905713488159,undef
+9608053087,45.784344,4.852405,29,people taking picture people mac lyon france people france art museum mac europe expo lyon daniel picture exhibition musee exposition taking firman watcher contemporain,2013,7,19,15,50,-0.3649070777410482,undef
+9608052961,45.784344,4.852405,29,daniel firman exhibition mac lyon france france art project mac europe expo lyon daniel exhibition musee exposition firman guitare ampli drone contemporain,2013,7,19,15,45,-0.3649104883732711,undef
+9600834491,45.784344,4.852405,29, france art mac europe expo lyon exhibition musee exposition contemporain mylayne,2013,7,19,15,22,-0.3649261772814968,undef
+9600834543,45.784344,4.852405,29,daniel firman exhibition mac lyon france france art mac europe expo lyon exhibition musee exposition firman luxman contemporain,2013,7,19,15,41,-0.3649132168790495,undef
+9600834347,45.784344,4.852405,29, france art mac europe expo lyon exhibition musee exposition contemporain droguet,2013,7,19,15,6,-0.3649370913046103,undef
+10383296836,45.784195,4.852437,29,upload square willow squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue b f f fe,2013,10,20,8,39,-0.2738507007788419,undef
+10802556253,45.784195,4.852438,29, musedartcontemporain uploadedbyflickrmobile flickriosappfilternofilter,2013,11,10,16,25,-0.252905326171185,undef
+10802432194,45.784195,4.852438,29, musedartcontemporain uploadedbyflickrmobile flickriosappfilternofilter,2013,11,10,16,28,-0.2529032797918513,undef
+13451081245,45.784195,4.852473,29,motocyclette fn fabrique nationale motopotique mac lyon mac lyon moto fn motopotique,2014,3,12,16,46,-0.1330550277298407,undef
+13421917884,45.784075,4.852581,29,myriam mechita motopotique mac lyon mac lyon paulardenne myriammechita motopotique,2014,3,12,15,58,-0.1330877697991811,undef
+13421541755,45.78409,4.852516,29,suzuki intersection shaun gladwell motopotique mac lyon mac lyon moto paulardenne motopotique,2014,3,12,16,12,-0.1330782200289568,undef
+13421337175,45.784015,4.852559,29,conrad bakker motopotique mac lyon mac lyon contemporaryart artcontemporain conradbakker paulardenne motopotique macdelyon,2014,3,12,16,7,-0.1330816306611798,undef
+13421308245,45.784135,4.852473,29,benedetto bufalino motopotique mac lyon mac lyon moto yamaha vlov paulardenne vlib motopotique,2014,3,12,15,41,-0.1330993659487392,undef
+13421410673,45.784075,4.852516,29,sen vie motard florent lamouroux motopotique mac lyon mac lyon moto motard motopotique,2014,3,12,15,52,-0.1330918625578487,undef
+13421405013,45.78424,4.852366,29,suzuki intersection shaun gladwell motopotique mac lyon lyon moto suzuki shaungladwell motopotique,2014,3,12,16,14,-0.1330768557760676,undef
+13411105794,45.78424,4.852323,29,veux veux ange leccia exposition motopotique mac lyon honda mac lyon exhibition muse motorbike exposition moto motorcycle artcontemporain angeleccia motopotique,2014,3,12,15,37,-0.1331020944545176,undef
+13034310095,45.784195,4.852437,29,nouveau velib velov motopotique square lofi squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue b f f fe,2014,3,9,15,36,-0.1360495628216017,undef
+14597707006,45.784244,4.852227,29,lyon july france truck mercedes lyon erwin wurm,2014,7,8,18,17,-0.0170860287582276,undef
+14617509541,45.784244,4.852227,29,lyon july france truck mercedes nokia lyon erwin wurm lumia,2014,7,8,18,17,-0.0170860287582276,undef
+14935704812,45.784135,4.852437,29,muse art contemporain lyon mac lyon,2014,8,16,11,23,0.020939792022025,undef
+14749453188,45.784135,4.852437,29,muse art contemporain lyon pierre,2014,8,16,11,33,0.0209466132864709,undef
+15632827252,45.784135,4.852437,29,rtrospective erro mac lyon lyon erro,2014,10,26,12,6,0.0907097311542782,undef
+11408147346,45.784277,4.852319,29, art mac lyon muse biennale contemporain e,2013,12,15,16,9,-0.2185370673868372,undef
+11408144996,45.784277,4.852319,29, art mac lyon muse biennale contemporain e,2013,12,15,16,5,-0.2185397958926156,undef
+11408143596,45.784277,4.852319,29, art mac lyon muse biennale contemporain e,2013,12,15,16,4,-0.2185404780190602,undef
+11408143305,45.784277,4.852319,29, art mac lyon muse biennale contemporain e,2013,12,15,15,54,-0.2185472992835061,undef
+11408160964,45.784277,4.852319,29, art mac lyon muse biennale contemporain e,2013,12,15,15,53,-0.2185479814099507,undef
+11408159374,45.784277,4.852319,29, art mac lyon muse biennale contemporain e,2013,12,15,15,53,-0.2185479814099507,undef
+11408158294,45.784277,4.852319,29, art mac lyon muse biennale contemporain e,2013,12,15,15,30,-0.2185636703181763,undef
+11408157034,45.784277,4.852319,29, art mac lyon muse biennale contemporain e,2013,12,15,15,27,-0.2185657166975101,undef
+11408136216,45.784277,4.852319,29, art mac lyon muse biennale contemporain e,2013,12,15,15,21,-0.2185698094561776,undef
+11408153754,45.784277,4.852319,29, art mac lyon muse biennale contemporain e,2013,12,15,15,19,-0.2185711737090668,undef
+11408132346,45.784277,4.852319,29, art mac lyon muse biennale contemporain e,2013,12,15,15,16,-0.2185732200884006,undef
+11408130875,45.784277,4.852319,29, art mac lyon muse biennale contemporain e,2013,12,15,15,15,-0.2185739022148452,undef
+11408129015,45.784277,4.852319,29, art mac lyon muse biennale contemporain e,2013,12,15,15,9,-0.2185779949735128,undef
+11408145824,45.784277,4.852319,29, art mac lyon muse biennale contemporain e,2013,12,15,14,56,-0.2185868626172925,undef
+16429693330,45.784324,4.852466,29,erro lyon ,2015,2,22,15,41,0.207745575885234,undef
+16616704315,45.784069,4.852438,29,erro lyon ,2015,2,22,15,42,0.2077462580116786,undef
+16616703915,45.784069,4.852438,29,erro lyon ,2015,2,22,15,42,0.2077462580116786,undef
+16429519898,45.783972,4.852483,29,erro lyon ,2015,2,22,15,43,0.2077469401381232,undef
+16590743246,45.784238,4.852525,29,erro lyon ,2015,2,22,16,0,0.2077585362876812,undef
+16429690120,45.784238,4.852525,29,erro lyon ,2015,2,22,16,0,0.2077585362876812,undef
+16409420157,45.78435,4.852441,29,erro lyon ,2015,2,22,16,19,0.2077714966901285,undef
+16615568061,45.78435,4.852441,29,erro lyon ,2015,2,22,16,24,0.2077749073223515,undef
+16429515278,45.78435,4.852441,29,erro lyon ,2015,2,22,16,25,0.207775589448796,undef
+16614820125,45.784263,4.852474,29,dragueur invtr nokia,2015,2,22,15,47,0.2077496686439015,undef
+15908235099,45.78438,4.852359,29,geocaching contemporary art lyon gc fffe square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue b f f fe,2014,12,24,12,50,0.1486932074504179,undef
+16706002521,45.78433,4.852296,29,img lr ,2013,12,8,16,0,-0.2254190410863308,undef
+17021668055,45.784297,4.852388,29, ,2015,4,3,14,5,0.2469705749550803,undef
+17637964666,45.784113,4.852383,29, ,2015,1,10,15,40,0.1655076243096227,undef
+17664425351,45.784308,4.852488,29, ,2015,1,10,15,50,0.1655144455740686,undef
+17477972269,45.784416,4.852386,29, ,2015,2,18,16,51,0.2038642764155027,undef
+16730856704,45.784278,4.852554,29,yes another dioramalike object feed time indonesian artist collective apotik komik estimate poke fun commercial art world boom popularity indonesian contemporary art coul square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue b f f fe,2015,5,3,22,0,0.2767624474226571,undef
+22778940954,45.784074,4.852587,29,borderlyon lai chihsheng biennale lyon france mac lyon artcontemporain musedartcontemporain dalbera biennale delyon,2015,11,14,16,9,0.4680641266821751,undef
+22777088723,45.784243,4.852508,29,vai caber sim square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue b f f fe,2015,11,29,18,40,0.4829010589785062,undef
+23801142444,45.784243,4.852508,29,hero one day wwwmonsieurbidulenet art arte artist artwork artcontemporain contemporaryart bowie davidbowie gayart gay gayartist lennon yokoono paulsimon beatles instaart instagay instagram instamood igers iger square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue b f f fe,2016,1,16,21,13,0.5301540041747616,undef
+24017211586,45.784243,4.852508,29,let grab beer biennalelyon igers square squareformat ludwig iphoneography instagramapp uploadedbyinstagram foursquarevenue b f f fe,2015,12,29,12,47,0.5121281307499606,undef
+25976798501,45.784243,4.852508,29,lyon yokoono france good art contemporaryart square squareformat clarendon iphoneography instagramapp uploadedbyinstagram foursquarevenue b f f fe,2016,3,26,11,33,0.5985167164518205,undef
+25988087225,45.784243,4.852508,29,france lyon yokoonolyon cool expo verre muse today ide espoire reflet photo art contemporaryart square squareformat clarendon iphoneography instagramapp uploadedbyinstagram foursquarevenue b f f fe,2016,3,22,17,7,0.5948154983634616,undef
+25811174822,45.784243,4.852508,29,yokoonolyon france lyon today espoire beautiful square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue b f f fe,2016,3,20,14,43,0.592752747995014,undef
+25501017292,45.784195,4.852437,29,vernissage exposition yoko ono mac lyon uvres traduites japonais lespace lyonjapon merci chieko ,2016,3,8,19,20,0.5811545520576079,undef
+25526973751,45.784195,4.852437,29,vernissage exposition yoko ono mac lyon uvres traduites japonais lespace lyonjapon merci chieko ,2016,3,8,19,21,0.5811552341840526,undef
+24989146514,45.784195,4.852437,29,vernissage exposition yoko ono mac lyon uvres traduites japonais lespace lyonjapon merci chieko ,2016,3,8,19,20,0.5811545520576079,undef
+26541463555,45.78415,4.852416,29,yoko ono lumire laube door mac lyon porte yokoono,2016,4,20,11,36,0.6230753148364837,undef
+25881897584,45.784272,4.852548,29,artiste romualdetpj wwwromualdetpjweeblycom art arte artist artcontemporain contemporaryart lademeureduchaos montdor artlyon lyon lyonart expo streetart infraculture instaart instagay instagram instamood instagood igers ig square squareformat iphoneography instagramapp uploadedbyinstagram,2016,4,17,11,22,0.6201189788256198,undef
+27758371062,45.784268,4.852546,29,maclyonofficiel maclyon lyon france art clous today cool planter square squareformat clarendon iphoneography instagramapp uploadedbyinstagram,2016,6,23,18,32,0.6862238525710777,undef
+27115109674,45.784234,4.852416,29,lyon muse dart contemporain lyon france museum architecture mac frankreich expo lyon lione piano frana rhne exhibition muse exposition artdeco frankrijk francia renzopiano francie frankrig lyon frankrike rehabilitation contemporaryartmuseum rhnealpes francja musedartcontemporain internationalcity citinternationale maclyon november meysson palaisdelafoire charlesmeysson,2015,11,16,13,34,0.4699229212436897,undef
+27693606416,45.784234,4.852416,29,lyon muse dart contemporain lyon france museum architecture mac frankreich expo lyon lione piano frana rhne exhibition muse exposition artdeco frankrijk francia renzopiano francie frankrig lyon frankrike rehabilitation contemporaryartmuseum rhnealpes francja musedartcontemporain internationalcity citinternationale maclyon november meysson palaisdelafoire charlesmeysson,2015,11,16,13,33,0.469922239117245,undef
+27116899993,45.784234,4.852416,29,lyon muse dart contemporain lyon france museum architecture mac frankreich expo lyon lione piano frana rhne exhibition muse exposition artdeco frankrijk francia renzopiano francie frankrig lyon frankrike rehabilitation contemporaryartmuseum rhnealpes francja musedartcontemporain internationalcity citinternationale maclyon november meysson palaisdelafoire charlesmeysson,2015,11,16,13,30,0.4699201927379113,undef
+27482022615,45.784232,4.852405,29,crystal art yoko ono exhibition muse dart contemporain lyon france cristal crystal art reflection yokoono musedartcontemporain,2016,5,22,15,34,0.6546700474971184,undef
+26812387513,45.784296,4.852371,29,superman art arquitetura architecture graffiti jump arquitectura mac arte lyon grafiti drawing butt lione frana dessin salto culo cul dibujo francia renzopiano architettura desenho disegno saut grafite murale bumbum sedere rhnealpes musedartcontemporain,2016,6,2,18,52,0.6656099914154927,undef
+27674536344,45.784243,4.852508,29,lyon france selfie yokoonolyon musee maclyon cool today lol square squareformat clarendon iphoneography instagramapp uploadedbyinstagram,2016,7,13,22,1,0.7060116586022611,undef
+27600020223,45.78433,4.852299,29,lyon france fleur rose yokoonolyon belle today cool square squareformat clarendon iphoneography instagramapp uploadedbyinstagram,2016,7,10,15,2,0.7027790613813373,undef
+27597806863,45.78433,4.852299,29,bouteille lyon france yokoonolyon today beau madonna square squareformat clarendon iphoneography instagramapp uploadedbyinstagram,2016,7,10,12,47,0.7026869743113173,undef
+29862221586,45.784269,4.852277,29,wall drawing icnes urbaines streetart lyon walldrawing urban,2016,9,24,15,54,0.7774664500526578,undef
+30375359352,45.784166,4.8525,29, ,2016,10,22,13,12,0.8048592838146028,undef
+30405321461,45.784166,4.8525,29, ,2016,10,22,13,12,0.8048592838146028,undef
+30455623876,45.784166,4.8525,29, ,2016,10,22,13,14,0.804860648067492,undef
+29861514914,45.784166,4.8525,29, ,2016,10,22,13,14,0.804860648067492,undef
+30455623416,45.784166,4.8525,29, ,2016,10,22,13,16,0.8048620123203811,undef
+29861514294,45.784166,4.8525,29, ,2016,10,22,13,16,0.8048620123203811,undef
+30455622906,45.784166,4.8525,29, ,2016,10,22,13,16,0.8048620123203811,undef
+29861513674,45.784166,4.8525,29, ,2016,10,22,13,16,0.8048620123203811,undef
+29861513094,45.784166,4.8525,29, ,2016,10,22,13,18,0.8048633765732703,undef
+30455622486,45.784166,4.8525,29, ,2016,10,22,13,17,0.8048626944468258,undef
+30455622176,45.784166,4.8525,29, ,2016,10,22,13,19,0.8048640586997149,undef
+29861512674,45.784166,4.8525,29, ,2016,10,22,13,19,0.8048640586997149,undef
+29861512394,45.784166,4.8525,29, ,2016,10,22,13,19,0.8048640586997149,undef
+30405315621,45.784166,4.8525,29, ,2016,10,22,13,19,0.8048640586997149,undef
+29861511834,45.784166,4.8525,29, ,2016,10,22,13,20,0.8048647408261596,undef
+29861511574,45.784166,4.8525,29, ,2016,10,22,13,20,0.8048647408261596,undef
+30405314101,45.784166,4.8525,29, ,2016,10,22,13,20,0.8048647408261596,undef
+30375350452,45.784166,4.8525,29, ,2016,10,22,13,21,0.8048654229526041,undef
+30405312891,45.784166,4.8525,29, ,2016,10,22,13,21,0.8048654229526041,undef
+30455620196,45.784166,4.8525,29, ,2016,10,22,13,22,0.8048661050790487,undef
+30375349292,45.784166,4.8525,29, ,2016,10,22,13,21,0.8048654229526041,undef
+30375347932,45.784166,4.8525,29, ,2016,10,22,13,22,0.8048661050790487,undef
+30405311951,45.784166,4.8525,29, ,2016,10,22,13,22,0.8048661050790487,undef
+30375346952,45.784166,4.8525,29, ,2016,10,22,13,23,0.8048667872054933,undef
+30375345022,45.784166,4.8525,29, ,2016,10,22,13,26,0.8048688335848271,undef
+29861508114,45.784166,4.8525,29, ,2016,10,22,13,27,0.8048695157112716,undef
+30375343232,45.784166,4.8525,29, ,2016,10,22,13,27,0.8048695157112716,undef
+29861507514,45.784166,4.8525,29, ,2016,10,22,13,27,0.8048695157112716,undef
+30375341932,45.784166,4.8525,29, ,2016,10,22,13,29,0.8048708799641608,undef
+29861506714,45.784166,4.8525,29, ,2016,10,22,13,30,0.8048715620906054,undef
+30405305281,45.784166,4.8525,29, ,2016,10,22,13,31,0.8048722442170501,undef
+29861505934,45.784166,4.8525,29, ,2016,10,22,13,31,0.8048722442170501,undef
+29523849174,45.784243,4.852508,29,installation lexpo walldrawings saneredgar maclyonofficiel igerslyon onlylyon maclyon walldrawings walldrawing saneredgar lyon instagood instalike instadaily instagramapp square squareformat iphoneography uploadedbyinstagram,2016,10,6,16,13,0.7892665554176631,undef
+30966362565,45.784254,4.852427,29,lyon quai charles gaulle lyon mur peint mural fresque murale trompeloeil,2016,11,13,16,7,0.8265884217070965,undef
+33089402456,45.784262,4.852427,29,peace girl ,2016,10,21,15,3,0.8039527377697394,undef
+31955043240,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,12,41,0.8529689798252662,undef
+32293098496,45.784225,4.852448,29,monstr papr mac lyon fdl supermimil,2016,12,10,12,39,0.852967615572377,undef
+31521275673,45.784225,4.852448,29,paper monster mac lyon mac lyon fdl supermimil,2016,12,10,12,40,0.8529682976988217,undef
+31521240363,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,12,49,0.852974436836823,undef
+31521208763,45.784225,4.852448,29,mindset lyon mac mac lyon fdl supermimil,2016,12,10,12,49,0.852974436836823,undef
+32332043195,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,12,51,0.8529758010897122,undef
+31489759654,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,12,50,0.8529751189632675,undef
+32181785742,45.784225,4.852448,29,people peace mac lyon mac lyon fdl supermimil,2016,12,10,12,52,0.8529764832161567,undef
+31521120653,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,12,52,0.8529764832161567,undef
+31954859170,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,12,53,0.8529771653426013,undef
+32211976591,45.784225,4.852448,29,libertad mac lyon mac lyon fdl supermimil,2016,12,10,12,53,0.8529771653426013,undef
+32181696862,45.784225,4.852448,29,make wall war mac lyon fdl supermimil,2016,12,10,12,53,0.8529771653426013,undef
+31954802610,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,12,54,0.8529778474690459,undef
+32181632032,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,12,55,0.8529785295954905,undef
+31520991383,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,12,56,0.8529792117219351,undef
+31489539004,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,12,55,0.8529785295954905,undef
+32211855461,45.784225,4.852448,29,peace paz paix lyon mac mac lyon fdl supermimil,2016,12,10,12,56,0.8529792117219351,undef
+32181543362,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,12,58,0.8529805759748242,undef
+31489467024,45.784225,4.852448,29,rhead mac lyon fdl supermimil,2016,12,10,12,57,0.8529798938483797,undef
+32292696906,45.784225,4.852448,29, mac lyon fdl supermimil,2016,12,10,12,59,0.8529812581012689,undef
+31489403424,45.784225,4.852448,29,target red losange lyon fdl mac mac lyon fdl supermimil,2016,12,10,13,2,0.8529833044806027,undef
+32181434092,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,13,2,0.8529833044806027,undef
+32331626325,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,13,4,0.8529846687334919,undef
+31489322734,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,13,5,0.8529853508599364,undef
+32211670051,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,13,5,0.8529853508599364,undef
+31954453380,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,13,7,0.8529867151128256,undef
+32331503645,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,13,11,0.852989443618604,undef
+32331468005,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,13,13,0.8529908078714932,undef
+31520715883,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,13,13,0.8529908078714932,undef
+31954343550,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,13,14,0.8529914899979377,undef
+31954323390,45.784225,4.852448,29,shadoiseau lyon mac mac lyon fdl supermimil,2016,12,10,13,16,0.8529928542508269,undef
+31954298280,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,13,18,0.8529942185037162,undef
+32292412306,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,13,18,0.8529942185037162,undef
+31520615563,45.784225,4.852448,29,lampe dentelle mac mac lyon fdl supermimil,2016,12,10,13,22,0.8529969470094945,undef
+32211453941,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,13,22,0.8529969470094945,undef
+31954257810,45.784225,4.852448,29,maze lyon fdl mac lyon fdl supermimil,2016,12,10,13,29,0.8530017218946067,undef
+31954243630,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,13,31,0.8530030861474959,undef
+32211395471,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,13,32,0.8530037682739404,undef
+32292314766,45.784225,4.852448,29,clou mac lyon mac lyon fdl supermimil,2016,12,10,13,35,0.8530058146532742,undef
+32331272985,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,13,36,0.8530064967797188,undef
+32292259446,45.784225,4.852448,29,cactus mac lyon mac lyon fdl supermimil,2016,12,10,13,35,0.8530058146532742,undef
+31520459143,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,14,4,0.8530255963201674,undef
+31954128550,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,14,3,0.8530249141937228,undef
+31520435023,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,14,9,0.8530290069523904,undef
+31488870174,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,14,16,0.8530337818375024,undef
+32180998212,45.784225,4.852448,29,oups mac camion mac lyon fdl supermimil,2016,12,10,14,4,0.8530255963201674,undef
+31488826974,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,13,35,0.8530058146532742,undef
+32180960342,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,13,19,0.8529949006301607,undef
+32331047025,45.784225,4.852448,29,becot lyon mac fdl mac lyon fdl supermimil,2016,12,10,13,13,0.8529908078714932,undef
+32180912312,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,13,6,0.852986032986381,undef
+32292020056,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,13,4,0.8529846687334919,undef
+31488699874,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,12,58,0.8529805759748242,undef
+32291983816,45.784225,4.852448,29,kiss art mac lyon mac lyon fdl supermimil,2016,12,10,12,54,0.8529778474690459,undef
+32180791752,45.784225,4.852448,29,mono chrome peace mac mac lyon fdl supermimil,2016,12,10,12,50,0.8529751189632675,undef
+31488635504,45.784225,4.852448,29,lost paint mac lyon monstr mac lyon fdl streetart muse museum lost paint supermimil,2016,12,10,12,48,0.8529737547103784,undef
+31488612394,45.784225,4.852448,29,p mac lyon fdl supermimil,2016,12,10,12,40,0.8529682976988217,undef
+31794699842,45.784438,4.852444,29,view square face wednesday december ,2016,12,28,11,15,0.8705910343948685,undef
+32463839994,45.784163,4.8525,29, ,2017,3,7,16,38,0.9385874447711812,undef
+33306705315,45.784061,4.85258,29, ,2017,3,7,16,39,0.9385881268976258,undef
+32463838924,45.784061,4.85258,29, ,2017,3,7,16,39,0.9385881268976258,undef
+33150524912,45.784133,4.8525,29,muse art contemporain ,2017,3,7,16,11,0.9385690273571772,undef
+33265427076,45.784405,4.852408,29,muse art contemporain ,2017,3,7,16,19,0.938574484368734,undef
+33306181075,45.784124,4.852522,29,muse art contemporain ,2017,3,7,16,11,0.9385690273571772,undef
+32463251044,45.784255,4.852508,29,muse art contemporain ,2017,3,7,16,10,0.9385683452307326,undef
+33150484622,45.784163,4.852552,29,muse art contemporain ,2017,3,7,16,14,0.938571073736511,undef
+32491635503,45.784133,4.8525,29,muse art contemporain ,2017,3,7,16,11,0.9385690273571772,undef
+33265394726,45.78408,4.852519,29,muse art contemporain ,2017,3,7,16,9,0.938567663104288,undef
+32923426820,45.784163,4.852505,29,muse art contemporain ,2017,3,7,16,17,0.9385731201158448,undef
+32491601433,45.784183,4.852544,29,muse art contemporain ,2017,3,7,16,11,0.9385690273571772,undef
+32463236504,45.784163,4.852552,29,muse art contemporain ,2017,3,7,16,14,0.938571073736511,undef
+35369934355,45.78448,4.852336,29, ,2016,12,7,15,13,0.8501258768042047,undef
+35222766635,45.784254,4.85247,29,reflets ,2017,5,20,18,48,1.0113635151447535,undef
+36496063703,45.784202,4.852533,29, ,2017,9,18,14,44,1.1300507879980677,undef
+37136612452,45.784069,4.852458,29, ,2017,9,18,14,45,1.1300514701245123,undef
+37112259246,45.784408,4.852474,29, ,2017,9,18,14,35,1.1300446488600664,undef
+36905486680,45.784091,4.852586,29, ,2017,9,18,14,36,1.1300453309865108,undef
+37160349111,45.784091,4.852586,29, ,2017,9,18,14,36,1.1300453309865108,undef
+37112250816,45.78438,4.852341,29, ,2017,9,18,14,35,1.1300446488600664,undef
+38067515291,45.784308,4.852391,29, ,2017,10,31,17,4,1.1723835551494772,undef
+37310026665,45.784202,4.852533,29, ,2017,9,18,14,44,1.1300507879980677,undef
+37880598874,45.784166,4.8525,29,lygia pape new house artcontemporain mondesflottants mebiennaledelyon jorindevoigt songoftheearth theblueshift macdelyon musedartcontemporaindelyon mac muse,2017,11,11,16,0,1.1831447819393683,undef
+38476102651,45.784166,4.8525,29,jorinde voigt song earth artcontemporain mondesflottants mebiennaledelyon jorindevoigt songoftheearth theblueshift macdelyon musedartcontemporaindelyon mac muse,2017,11,11,15,53,1.183140007054256,undef
+26610537889,45.784166,4.8525,29,christodoulos panayiotou untitled france lyon musedartcontemporaindelyon mac maclyon mebiennaledelyon mondesflottants archipeldelasensation artcontemporain christodoulospanayiotou untitled,2017,11,11,15,47,1.1831359142955886,undef
+26610533409,45.784166,4.8525,29,hao jingfang wang lingjie rainbow france lyon musedartcontemporaindelyon mac maclyon mebiennaledelyon mondesflottants archipeldelasensation artcontemporain haojingfangwanglingjie overtherainbow,2017,11,11,15,49,1.183137278548478,undef
+38386373111,45.784166,4.8525,29,hao jingfang wang lingjie rainbow france lyon musedartcontemporaindelyon mac maclyon mebiennaledelyon mondesflottants archipeldelasensation artcontemporain haojingfangwanglingjie overtherainbow,2017,11,11,15,49,1.183137278548478,undef
+26604621659,45.784166,4.8525,29,rivane neuenschwander bataille france lyon musedartcontemporaindelyon mac maclyon mebiennaledelyon mondesflottants expandedpoetry artcontemporain rivaneneuenschwander bataille,2017,11,11,15,30,1.1831243181460307,undef
+38353847741,45.784166,4.8525,29,yuko mohri mor mor leaky falling water given france lyon musedartcontemporaindelyon mac maclyon mebiennaledelyon mondesflottants oceanofsound yukomohri mormorleakythefallingwatergiven artcontemporain,2017,11,11,15,17,1.183115450502251,undef
+38353846211,45.784166,4.8525,29,yuko mohri mor mor leaky falling water given france lyon musedartcontemporaindelyon mac maclyon mebiennaledelyon mondesflottants oceanofsound yukomohri mormorleakythefallingwatergiven artcontemporain,2017,11,11,15,19,1.18311681475514,undef
+39463933665,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum yukomohri mohri,2017,12,29,16,34,1.230316554088717,undef
+39463930815,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum davidtudor tudor,2017,12,29,16,47,1.2303254217324968,undef
+40315595752,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum davidtudor tudor,2017,12,29,16,47,1.2303254217324968,undef
+39463929095,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum jiangfanghao hao lingjiewang wang,2017,12,29,16,52,1.23032883236472,undef
+40315595042,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum lygiapape pape,2017,12,29,16,55,1.2303308787440537,undef
+39463928345,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum alexandercalder calder,2017,12,29,16,57,1.2303322429969428,undef
+40315593862,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum ernestoneto neto,2017,12,29,16,57,1.2303322429969428,undef
+39463927405,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum ernestoneto neto,2017,12,29,16,59,1.230333607249832,undef
+40315593102,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum ernestoneto neto,2017,12,29,17,1,1.2303349715027212,undef
+39463926585,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum ernestoneto neto,2017,12,29,17,3,1.2303363357556103,undef
+39463936465,45.784234,4.852416,29,lyon muse dart contemporain lyon lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum,2017,12,29,16,22,1.230308368571382,undef
+39463935435,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum cildomeireles meireles,2017,12,29,16,29,1.2303131434564942,undef
+26490087678,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum,2017,12,29,16,31,1.230314507709383,undef
+39463934605,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum yukomohri mohri,2017,12,29,16,32,1.230315189835828,undef
+40315598322,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum davidtudor tudor,2017,12,29,16,38,1.2303192825944955,undef
+39463933045,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum davidtudor tudor,2017,12,29,16,38,1.2303192825944955,undef
+40315597802,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum rivaneneuenschwander neuenschwander,2017,12,29,16,40,1.2303206468473846,undef
+39463932385,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum rivaneneuenschwander neuenschwander,2017,12,29,16,40,1.2303206468473846,undef
+40315597172,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum robertbarry barry,2017,12,29,16,42,1.230322011100274,undef
+39463931615,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum janmancuska mancuska,2017,12,29,16,43,1.2303226932267184,undef
+40315596482,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum janmancuska mancuska,2017,12,29,16,43,1.2303226932267184,undef
+26490076778,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum ernestoneto neto,2017,12,29,17,1,1.2303349715027212,undef
+39463926595,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum ernestoneto neto,2017,12,29,17,5,1.2303377000084994,undef
+39463925395,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum ernestoneto neto,2017,12,29,17,6,1.230338382134944,undef
+26490072548,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum,2017,12,29,17,15,1.2303445212729454,undef
+39463924155,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum jillmagid magid,2017,12,29,17,7,1.2303390642613887,undef
+39463923485,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum yukomohri mohri,2017,12,29,17,19,1.2303472497787238,undef
+38550956780,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum ernestoneto neto,2017,12,29,16,59,1.230333607249832,undef
+40315587452,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum cerithwynevans wynevans,2017,12,29,17,22,1.2303492961580575,undef
+40315590652,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum,2017,12,29,17,6,1.230338382134944,undef
+39463922935,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum cildomeireles meireles,2017,12,29,17,42,1.2303629386869497,undef
+40315589032,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum cildomeireles meireles,2017,12,29,17,44,1.2303643029398386,undef
+26490068298,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum davidtudor tudor,2017,12,29,16,36,1.2303179183416064,undef
+39514898211,45.784269,4.852395,29,mondes flottants biennale lyon dalbera biennaledelyon mondesflottants musedartcontemporain mac lyon france artcontemporain emmalavigne radio mondialisation,2017,12,29,11,37,1.230113962534673,undef
+39514576251,45.784269,4.852395,29,mondes flottants biennale lyon dalbera biennaledelyon mondesflottants musedartcontemporain mac lyon france artcontemporain emmalavigne,2017,12,29,13,56,1.2302087781104716,undef
+24646508527,45.784269,4.852395,29,mondes flottants biennale lyon dalbera biennaledelyon mondesflottants musedartcontemporain mac lyon france artcontemporain emmalavigne fluxus,2017,12,29,13,9,1.2301767181675756,undef
+38769502104,45.784254,4.852352,29,mondes flottants biennale lyon dalbera biennaledelyon mondesflottants musedartcontemporain mac lyon france artcontemporain emmalavigne,2017,12,29,14,5,1.2302149172484729,undef
+24611234207,45.784254,4.852352,29,mondes flottants biennale lyon dalbera biennaledelyon mondesflottants musedartcontemporain mac lyon france artcontemporain emmalavigne,2017,12,29,12,32,1.2301514794891255,undef
+27700846279,45.784254,4.852352,29,mondes flottants biennale lyon dalbera biennaledelyon mondesflottants musedartcontemporain mac lyon france artcontemporain emmalavigne,2017,12,29,12,15,1.2301398833395676,undef
+39442222082,45.784254,4.852287,29,mondes flottants biennale lyon dalbera biennaledelyon mondesflottants musedartcontemporain mac lyon france artcontemporain emmalavigne jeanarp,2017,12,29,13,28,1.230189678570023,undef
+38764040694,45.784254,4.852287,29,mondes flottants biennale lyon dalbera biennaledelyon mondesflottants musedartcontemporain mac lyon france artcontemporain emmalavigne calder,2017,12,29,13,37,1.2301958177080243,undef
+38763739454,45.784254,4.852287,29,mondes flottants biennale lyon dalbera biennaledelyon mondesflottants musedartcontemporain mac lyon france artcontemporain emmalavigne jeanarp,2017,12,29,13,39,1.2301971819609134,undef
+38589760475,45.784284,4.852287,29,mondes flottants biennale lyon dalbera biennaledelyon mondesflottants musedartcontemporain mac lyon france artcontemporain emmalavigne ernestoneto,2017,12,29,13,24,1.2301869500642446,undef
+27690176779,45.784299,4.852352,29,mondes flottants biennale lyon dalbera biennaledelyon mondesflottants musedartcontemporain mac lyon france artcontemporain emmalavigne davidtudor,2017,12,29,12,12,1.2301378369602338,undef
+27692611179,45.784225,4.852395,29,mondes flottants biennale lyon dalbera biennaledelyon mondesflottants musedartcontemporain mac lyon france artcontemporain emmalavigne ernestoneto,2017,12,29,13,35,1.230194453455135,undef
+38749706524,45.784284,4.852395,29,mondes flottants biennale lyon dalbera biennaledelyon mondesflottants musedartcontemporain mac lyon france artcontemporain emmalavigne davidtudor,2018,1,2,13,19,1.2341125877528742,undef
+25544024358,45.784307,4.852352,29,cildo meireles babel lyon art installation biennale muse dart contemporain maclyon mac musedartcontemporain blaster,2017,12,31,16,48,1.2322906280193675,undef
+39062510002,45.784244,4.852452,29,view katz portrait ii saturday december ,2017,12,16,10,21,1.2172927138821128,undef
+39093149181,45.784247,4.852449,29,view katz portrait ii saturday december ,2017,12,16,10,21,1.2172927138821128,undef
+40315599192,45.784234,4.852416,29,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal architecture musedartcontemporain museum muse maclyon mac palaisdelafoire charlesmeysson meysson renzopiano piano artdeco rehabilitation citinternationale internationalcity contemporaryartmuseum yukomohri mohri,2017,12,29,16,32,1.230315189835828,undef
+39469055000,45.784324,4.85243,29, ,2018,3,29,16,36,1.3187215055607924,undef
+41262942345,45.784166,4.8525,29,adel abdessemed lantidote mac lyon ,2018,4,29,13,11,1.3490317941262595,undef
+42095423332,45.784166,4.8525,29,arman concerto four piano maclyon musedartcontemporaindelyon arman concertoforfourpianos,2018,4,29,12,23,1.348999052056919,undef
+41421857184,45.784166,4.8525,29,arman concerto four piano maclyon musedartcontemporaindelyon arman concertoforfourpianos,2018,4,29,12,24,1.3489997341833635,undef
+42095419282,45.784166,4.8525,29,marlne mocquet calimro maclyon musedartcontemporaindelyon marlnemocquet calimro,2018,4,29,12,28,1.349002462689142,undef
+41421855574,45.784166,4.8525,29,marc desgrandchamps sans titre maclyon musedartcontemporaindelyon marcdesgrandchamps,2018,4,29,12,28,1.349002462689142,undef
+41821414962,45.784166,4.8525,29,adel abdessemed beautiful maclyon musedartcontemporaindelyon adelabdessemed adelabdessemedlantidote isbeautiful sculpture marbre imprimante angelamerkel troisgraces,2018,4,29,13,9,1.3490304298733704,undef
+41821412552,45.784166,4.8525,29,adel abdessemed printemps ,2018,4,29,13,14,1.3490338405055933,undef
+27949835138,45.784166,4.8525,29,adel abdessemed sham lyon musedefrance rhnealpes artcontemporain lantidote adelabdessemed sham macdelyon musedartcontemporaindelyon,2018,4,29,12,51,1.3490181515973678,undef
+43181038240,45.784262,4.852384,29,muse dart contemporain lyon fujifilmxt lyon muse museum artcontemporain art maclyon contemporary escalier stair staircase escalera escaleras scala trap treppe,2018,9,29,12,12,1.499277646938645,undef
+43181037610,45.784262,4.852384,29,rtrospective bernar venet muse dart contemporain lyon fujifilmxt lyon muse museum artcontemporain art maclyon contemporary bernarvenet bernarvenetlyon,2018,9,29,12,13,1.4992783290650895,undef
+43181037050,45.784262,4.852384,29,muse dart contemporain lyon fujifilmxt lyon muse museum artcontemporain art maclyon contemporary escalier stair staircase escalera escaleras scala trap treppe,2018,9,29,12,15,1.4992796933179788,undef
+43181036100,45.784262,4.852384,29,rtrospective bernar venet muse dart contemporain lyon fujifilmxt lyon muse museum artcontemporain art maclyon contemporary bernarvenet bernarvenetlyon,2018,9,29,12,18,1.4992817396973126,undef
+43181035110,45.784262,4.852384,29,rtrospective bernar venet muse dart contemporain lyon fujifilmxt lyon muse museum artcontemporain art maclyon contemporary bernarvenet bernarvenetlyon,2018,9,29,11,10,1.4992353550990802,undef
+43181034260,45.784262,4.852384,29,rtrospective bernar venet muse dart contemporain lyon fujifilmxt lyon muse museum artcontemporain art maclyon contemporary bernarvenet bernarvenetlyon,2018,9,29,11,11,1.499236037225525,undef
+43181033440,45.784262,4.852384,29,rtrospective bernar venet muse dart contemporain lyon fujifilmxt lyon muse museum artcontemporain art maclyon contemporary bernarvenet bernarvenetlyon,2018,9,29,11,39,1.4992551367659734,undef
+43181032650,45.784262,4.852384,29,rtrospective bernar venet muse dart contemporain lyon fujifilmxt lyon muse museum artcontemporain art maclyon contemporary bernarvenet bernarvenetlyon,2018,9,29,11,40,1.499255818892418,undef
+44081454095,45.784262,4.852384,29,rtrospective bernar venet muse dart contemporain lyon fujifilmxt lyon muse museum artcontemporain art maclyon contemporary bernarvenet bernarvenetlyon,2018,9,29,11,40,1.499255818892418,undef
+43181031370,45.784262,4.852384,29,rtrospective bernar venet muse dart contemporain lyon fujifilmxt lyon muse museum artcontemporain art maclyon contemporary bernarvenet bernarvenetlyon,2018,9,29,11,50,1.499262640156864,undef
+44273718314,45.784262,4.852384,29,rtrospective bernar venet muse dart contemporain lyon fujifilmxt lyon muse museum artcontemporain art maclyon contemporary bernarvenet bernarvenetlyon,2018,9,29,11,51,1.4992633222833087,undef
+44273717604,45.784262,4.852384,29,rtrospective bernar venet muse dart contemporain lyon fujifilmxt lyon muse museum artcontemporain art maclyon contemporary bernarvenet bernarvenetlyon,2018,9,29,11,53,1.4992646865361978,undef
+44081451145,45.784262,4.852384,29,rtrospective bernar venet muse dart contemporain lyon fujifilmxt lyon muse museum artcontemporain art maclyon contemporary bernarvenet bernarvenetlyon,2018,9,29,12,3,1.4992715078006438,undef
+44273716894,45.784262,4.852384,29,rtrospective bernar venet muse dart contemporain lyon fujifilmxt lyon muse museum artcontemporain art maclyon contemporary bernarvenet bernarvenetlyon,2018,9,29,12,6,1.4992735541799775,undef
+44941495532,45.784262,4.852384,29,rtrospective bernar venet muse dart contemporain lyon fujifilmxt lyon muse museum artcontemporain maclyon bernarvenetlyon bernarvenet art contemporary reflet reflection sculpture,2018,9,29,11,48,1.4992612759039747,undef
+44024102994,45.784363,4.852358,29,lucie city canon eos ef mmf lucie lucietibolla shooting portrait couleur color patman femme woman photocmobile lyon auvergnerhnealpes france fr,2018,6,15,19,36,1.3954607305774471,undef
+42932527470,45.784369,4.852308,29,lucie city canon eos ef mmf lucie lucietibolla shooting portrait couleur color patman femme woman photocmobile lyon auvergnerhnealpes france fr,2018,6,15,19,36,1.3954607305774471,undef
+30872295798,45.784363,4.852358,29,lucie city canon eos ef mmf lucie lucietibolla shooting portrait couleur color patman femme woman photocmobile lyon auvergnerhnealpes france fr,2018,6,15,19,36,1.3954607305774471,undef
+44857282625,45.784232,4.852341,29, binnale lyon mondes flottants,2017,10,17,14,8,1.1585118317722445,undef
+45720335962,45.784232,4.852341,29, binnale lyon mondes flottants,2017,10,17,15,30,1.1585677661407012,undef
+45770635561,45.784232,4.852341,29, binnale lyon mondes flottants,2017,10,17,14,0,1.158506374760688,undef
+38062446004,45.784166,4.8525,29,jill magid tapete flores france lyon rhne mebiennaledelyon mondesflottants mac musedartcontemporaindelyon artcontemporain archipeldelasensation jillmagid tapetedeflores,2017,11,11,16,8,1.1831502389509252,undef
+32533940688,45.784166,4.8525,29,mac lyon bernar venet rtrospective maclyon france lyon muse exposition performance bernarvenet bernarvenetrtrospectivve,2018,12,16,11,42,1.5758736254019352,undef
+46298628362,45.784166,4.8525,29,mac lyon bernar venet rtrospective maclyon france lyon muse exposition performance bernarvenet bernarvenetrtrospectivve,2018,12,16,12,51,1.5759206921266122,undef
+31409711027,45.784166,4.8525,29,mac lyon bernar venet rtrospective maclyon france lyon muse exposition performance bernarvenet bernarvenetrtrospectivve,2018,12,16,11,35,1.575868850516823,undef
+48900170181,45.784307,4.852352,29,lyb lyon onlylyon france sculpture,2019,10,13,10,34,1.87148812694787,undef
+48900169981,45.784307,4.852352,29,lyb lyon onlylyon france sculpture,2019,10,13,10,38,1.871490855453648,undef
+48900370057,45.784307,4.852352,29,lyb lyon onlylyon france,2019,10,13,10,18,1.8714772129247568,undef
+48900369597,45.784307,4.852352,29,lyb lyon onlylyon france sculpture,2019,10,13,10,30,1.871485398442092,undef
+48900168041,45.784307,4.852352,29,lyb lyon onlylyon france sculpture,2019,10,13,10,25,1.8714819878098687,undef
+48900363617,45.784307,4.852352,29,lyb lyon onlylyon france,2019,10,13,10,16,1.8714758486718672,undef
+48900162286,45.784307,4.852352,29,lyb lyon onlylyon france,2019,10,13,10,8,1.8714703916603104,undef
+48900162021,45.784307,4.852352,29,lyb lyon onlylyon france sculpture,2019,10,13,10,28,1.8714840341892025,undef
+48899627448,45.784307,4.852352,29,lyb lyon onlylyon france people,2019,10,13,10,16,1.8714758486718672,undef
+48900160221,45.784307,4.852352,29,lyb lyon onlylyon france sculpture,2019,10,13,10,40,1.8714922197065376,undef
+48900160136,45.784307,4.852352,29,lyb lyon onlylyon france famille,2019,10,13,10,18,1.8714772129247568,undef
+48842219713,45.78421,4.852416,29,rene lvi biennale dart contemporain muse dart contemporain lyon dalbera lyon france renelvi artcontemporain mac musedartcontemporain,2019,9,28,12,32,1.8568346866651344,undef
+48841549137,45.784269,4.852395,29,rene lvi biennale dart contemporain muse dart contemporain lyon dalbera lyon france renelvi artcontemporain mac musedartcontemporain,2019,9,28,12,31,1.8568340045386893,undef

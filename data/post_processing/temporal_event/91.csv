@@ -1,0 +1,76 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+4347453591,45.755913,4.835486,91,flowertreecrop ,2009,6,4,18,8,139601280.0,undef,2009-06-04 18:08:00
+4404520169,45.755902,4.83554,91, fleur lyon bouquet,2010,2,28,16,10,162835800.0,undef,2010-02-28 16:10:00
+4523857130,45.756086,4.835588,91,place antonin poncet lyon france place antonin poncet french republic rpublique franaise,2010,4,4,10,22,165838920.0,undef,2010-04-04 10:22:00
+4523854646,45.756091,4.835608,91,place antonin poncet lyon france place antonin poncet french republic rpublique franaise,2010,4,4,10,22,165838920.0,undef,2010-04-04 10:22:00
+4779894568,45.755996,4.835529,91, sky nikon lyon ciel fontaine hdr photomatix thebestofhdr,2010,7,9,10,29,174133740.0,undef,2010-07-09 10:29:00
+4126690657,45.756052,4.835561,91,strange flower flower dailypicture,2009,10,24,13,54,151854840.0,undef,2009-10-24 13:54:00
+5621533087,45.756011,4.835475,91,jca lyon place antonin poncet place lyon nuit charit antonin poncet,2011,4,11,21,43,198020580.0,undef,2011-04-11 21:43:00
+5857166520,45.756099,4.835608,91,place antonin poncet ,2011,6,19,22,22,203984520.0,undef,2011-06-19 22:22:00
+6001366913,45.756063,4.835497,91,rhneoever lyon frankrijk rhonealpes lapresquile,2011,7,22,10,51,206794260.0,undef,2011-07-22 10:51:00
+6001366551,45.756063,4.835497,91,lyon lyon frankrijk rhonealpes placeantoninponcet lapresquile,2011,7,22,10,47,206794020.0,undef,2011-07-22 10:47:00
+7824962420,45.756008,4.835563,91, ,2012,8,14,20,58,240440280.0,undef,2012-08-14 20:58:00
+8414332287,45.756086,4.835486,91,lyon larbre fleurs juillet art fleurs place lyon choi biennale arbre artiste antonin coren uvre contemporain poncet succs jeonghwa,2011,7,31,13,48,207582480.0,undef,2011-07-31 13:48:00
+8665599392,45.755998,4.835483,91,passage autobus arbre avril eau fontaine fountain france licht light lumire lyon nacht night nuit sculpture nightfoto,2013,4,15,20,59,261521940.0,undef,2013-04-15 20:59:00
+8664496351,45.756033,4.835531,91,place antonin poncet lyon arbre art avril drapeau eau fontaine fountain france jet lyon placeantoninponcet,2013,4,15,18,24,261512640.0,undef,2013-04-15 18:24:00
+9567130183,45.756078,4.835593,91,fountain end place antonin poncet lyon fountain lyon placeantoninponcet rdmay,2013,5,3,16,28,263060880.0,undef,2013-05-03 16:28:00
+9509610428,45.756086,4.83554,91,flower tree sculpture rhone lyon sculpture lyon confluence rhone flowertree choijeonghwa ndmay riverrhone jeonghwachoi confluencecruise flowertreesculpture,2013,5,2,15,32,262971120.0,undef,2013-05-02 15:32:00
+9654444551,45.756086,4.83548,91, frankrijk fra rhnealpes,2013,7,26,18,19,270325140.0,undef,2013-07-26 18:19:00
+9654443873,45.756097,4.83555,91, frankrijk fra rhnealpes,2013,7,26,18,18,270325080.0,undef,2013-07-26 18:18:00
+10353992503,45.756037,4.835599,91,arbres fleurs france,2013,9,19,9,0,275043600.0,undef,2013-09-19 09:00:00
+13959669421,45.756191,4.8355,91,entre fille woman water eau femme frau fontaine,2014,4,19,18,55,293396100.0,undef,2014-04-19 18:55:00
+13956967979,45.755948,4.835475,91, ,2014,4,18,5,32,293261520.0,undef,2014-04-18 05:32:00
+15381731165,45.756053,4.835559,91,lyon place antonin poncet jeu deau street city shadow urban blackandwhite bw white black france monochrome town blackwhite europe lyon noiretblanc streetphotography rhne nb ombre rue ville ombres rhone urbanlife croixrousse rhonealpes photoderue rhnealpes scenederue blackwhitephotos photosderue scenesderue urbanlifecandid,2014,9,6,18,28,305490480.0,undef,2014-09-06 18:28:00
+16363921612,45.756,4.8355,91, ,2012,12,25,12,1,251899260.0,undef,2012-12-25 12:01:00
+17297754871,45.756011,4.835475,91,lyon france france frankreich lyon rhone saone,2015,4,14,12,12,324475920.0,undef,2015-04-14 12:12:00
+17272258946,45.756011,4.835475,91,lyon france france frankreich lyon rhone saone,2015,4,14,17,1,324493260.0,undef,2015-04-14 17:01:00
+16677972223,45.756011,4.835475,91,lyon france france frankreich lyon rhone saone,2015,4,14,17,1,324493260.0,undef,2015-04-14 17:01:00
+17112012149,45.756011,4.835475,91,lyon france france frankreich lyon rhone saone,2015,4,14,17,3,324493380.0,undef,2015-04-14 17:03:00
+17297742461,45.756011,4.835475,91,lyon france france frankreich lyon rhone saone,2015,4,14,17,3,324493380.0,undef,2015-04-14 17:03:00
+17296385422,45.756011,4.835475,91,lyon france france frankreich lyon rhone saone,2015,4,14,17,4,324493440.0,undef,2015-04-14 17:04:00
+17110669330,45.756011,4.835475,91,lyon france france frankreich lyon rhone saone,2015,4,14,17,6,324493560.0,undef,2015-04-14 17:06:00
+17112010549,45.756011,4.835475,91,lyon france france frankreich lyon rhone saone,2015,4,14,17,7,324493620.0,undef,2015-04-14 17:07:00
+21574691145,45.756155,4.835516,91,lyon iii image france lyon view,2015,8,15,18,46,335126760.0,undef,2015-08-15 18:46:00
+21147005811,45.756113,4.835484,91,street moment street france canon town lyon dream rue ville rve,2015,8,20,10,0,335527200.0,undef,2015-08-20 10:00:00
+22522696541,45.755952,4.83548,91, france lyon,2015,10,21,11,13,340888380.0,undef,2015-10-21 11:13:00
+22623609359,45.756033,4.835461,91,lyon flower tree choi jeong hwa bibliothque france lyon photo visitevilles voyage lyon earrondissement rhnealpes fr flowertree jeonghwa nikoniste,2015,7,29,21,31,333667860.0,undef,2015-07-29 21:31:00
+23015750695,45.756033,4.835461,91,lyon flower tree choi jeong hwa bibliothque france lyon photo visitevilles voyage placebellecour fleurs jeonghwa flowertree nikoniste,2015,7,29,21,23,333667380.0,undef,2015-07-29 21:23:00
+22962638685,45.755966,4.835486,91,place antoninponcet ,2015,11,11,12,27,342707220.0,undef,2015-11-11 12:27:00
+25845747801,45.756018,4.83554,91,lyon france city urban france night canon eos noche town europa europe cityscape nightscape lyon nacht wideangle rhne stadt citycenter nuit notte ville rhone bellecour blacksky grandangle efs mmf usm canoneos,2016,3,18,21,22,353798520.0,undef,2016-03-18 21:22:00
+25170218619,45.756018,4.83555,91,bouquet ville architecture fleurs couleurs sonyrx,2016,2,25,17,9,351882540.0,undef,2016-02-25 17:09:00
+29640036541,45.756086,4.835561,91,france lyon pr place antonin poncet fontaine larbre fleurs ,2016,9,6,14,56,368636160.0,undef,2016-09-06 14:56:00
+29550446776,45.756086,4.835561,91,france lyon fontaine place antonin cette canicule bon bain sou jet deau ,2016,9,9,9,6,368874360.0,undef,2016-09-09 09:06:00
+30092937750,45.756108,4.835582,91,lyon lyon france,2016,10,5,14,36,371140560.0,undef,2016-10-05 14:36:00
+30833145501,45.756111,4.835555,91, ,2016,10,30,16,16,373306560.0,undef,2016-10-30 16:16:00
+34585120574,45.756078,4.835603,91,place antonin poncet lyon water jet fountain hd video clip lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite placeantoninponcet quaidrgailleton waterjetfountain fountain tree tree riverrhne lerhne video videoclip hdvideo hdvideoclip,2017,6,2,18,56,391892160.0,undef,2017-06-02 18:56:00
+35387457176,45.756078,4.835603,91,place antonin poncet lyon water jet fountain lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite placeantoninponcet quaidrgailleton waterjetfountain fountain tree tree riverrhne lerhne,2017,6,2,18,56,391892160.0,undef,2017-06-02 18:56:00
+34617261903,45.756078,4.835603,91,place antonin poncet lyon water jet fountain lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite placeantoninponcet quaidrgailleton waterjetfountain fountain tree tree riverrhne lerhne leclocherdelacharit charitychurchtower placebellecour hotelroyal,2017,6,2,18,56,391892160.0,undef,2017-06-02 18:56:00
+35260474902,45.756078,4.835603,91,place antonin poncet lyon water jet fountain lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite placeantoninponcet quaidrgailleton waterjetfountain fountain tree tree riverrhne lerhne,2017,6,2,18,57,391892220.0,undef,2017-06-02 18:57:00
+35387362806,45.756078,4.835603,91,place antonin poncet lyon water jet fountain lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite placeantoninponcet quaidrgailleton waterjetfountain fountain tree tree riverrhne lerhne,2017,6,2,18,55,391892100.0,undef,2017-06-02 18:55:00
+35321652626,45.756172,4.835463,91, ,2017,6,17,14,56,393173760.0,undef,2017-06-17 14:56:00
+35321617236,45.756172,4.835463,91, ,2017,6,17,14,56,393173760.0,undef,2017-06-17 14:56:00
+34276952393,45.756103,4.835507,91,jardin lyon,2017,6,3,21,58,391989480.0,undef,2017-06-03 21:58:00
+34700165440,45.755982,4.835518,91,carte nadia lyon,2017,6,3,22,5,391989900.0,undef,2017-06-03 22:05:00
+36200273122,45.755951,4.835486,91,lyon ,2017,8,1,17,24,397070640.0,undef,2017-08-01 17:24:00
+35955428480,45.755897,4.835488,91,jet deaux lyon meetup lyon earrondissement auvergnerhnealpes france fr,2017,8,2,20,29,397168140.0,undef,2017-08-02 20:29:00
+35955399850,45.75598,4.835563,91,dsapprobations lyon meetup lyon earrondissement auvergnerhnealpes france fr noirblanc monochrome bw urban,2017,8,2,20,23,397167780.0,undef,2017-08-02 20:23:00
+36352204145,45.75598,4.835563,91,croyances lyon meetup lyon earrondissement auvergnerhnealpes france fr noirblanc monochrome bw urban,2017,8,2,20,23,397167780.0,undef,2017-08-02 20:23:00
+36352195005,45.755988,4.835541,91,couch soleil lyon meetup lyon earrondissement auvergnerhnealpes france fr,2017,8,2,20,23,397167780.0,undef,2017-08-02 20:23:00
+35516477564,45.755988,4.835541,91,plus belle lyon meetup lyon earrondissement auvergnerhnealpes france fr noirblanc monochrome bw urban,2017,8,2,20,23,397167780.0,undef,2017-08-02 20:23:00
+35516462984,45.756094,4.835527,91,photo deau lyon meetup lyon earrondissement auvergnerhnealpes france fr noirblanc monochrome bw urban,2017,8,2,20,22,397167720.0,undef,2017-08-02 20:22:00
+36307616356,45.756094,4.835527,91,rafraichissant lyon meetup lyon earrondissement auvergnerhnealpes france fr noirblanc monochrome bw urban,2017,8,2,20,22,397167720.0,undef,2017-08-02 20:22:00
+36150030262,45.756086,4.835572,91,water fun child kind enfant nio girl meisje fille mdchen vrouw femme frau woman donna mujer mother moeder mutter mre daughter dochter tochter fontaine fontein fuente springbrunnen lyon france frankrijk frankreich frana francia water eau wasser fun pret plaisir joy public outside summer zomer sommer street portrait rue straat portret ritratto retrato rhnealpes portrt vand acqua agua,2017,7,20,18,11,396036660.0,undef,2017-07-20 18:11:00
+37488555796,45.756069,4.835581,91,floral sculpture exifaperture cameramodelxt geocountry geocity geostate exiflensxf mmf rlmoiswr geolon geolat exifmodelxt geolocation exiffocallength mm exifisospeed cameramakefujifilm exifmakefujifilm,2017,8,11,16,33,397931580.0,undef,2017-08-11 16:33:00
+27236480699,45.756111,4.835538,91,lyon fte lumires place antonin poncet abstract ,2017,12,10,20,18,408399480.0,undef,2017-12-10 20:18:00
+38297741974,45.756052,4.8355,91,lyon fte lumires place antonin poncet abstract ,2017,12,10,20,18,408399480.0,undef,2017-12-10 20:18:00
+28109749778,45.756048,4.835518,91,bunch flower lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,8,11,26,421241160.0,undef,2018-05-08 11:26:00
+44819973481,45.756141,4.835586,91,lyon france lyon france francia europe europa city ciudad,2018,9,14,16,38,432405480.0,undef,2018-09-14 16:38:00
+44770313812,45.756022,4.835508,91,lyon france lyon france francia europe europa city ciudad,2018,9,14,16,39,432405540.0,undef,2018-09-14 16:39:00
+47726378691,45.756094,4.835461,91,bouquet lyon france rhone leica leicam summicron summicron bw nb noir black white kentmere kentmere,2019,4,3,16,0,449769600.0,undef,2019-04-03 16:00:00
+48238674592,45.756141,4.835586,91,lyon france flowertree lyon france francia larbrefleurs europe europa,2018,9,14,16,38,432405480.0,undef,2018-09-14 16:38:00
+48238586946,45.756011,4.835525,91,lyon france flowertree lyon france francia larbrefleurs europe europa,2018,9,14,16,39,432405540.0,undef,2018-09-14 16:39:00
+48238672677,45.756022,4.835513,91,lyon france flowertree lyon france francia larbrefleurs europe europa,2018,9,14,16,40,432405600.0,undef,2018-09-14 16:40:00
+48238568181,45.756022,4.835508,91,lyon france clocherdelacharit lyon france francia torre tour europe europa,2018,9,14,16,39,432405540.0,undef,2018-09-14 16:39:00
+48238546521,45.756016,4.83553,91,lyon france placeantoinponcet plaza square lyon france francia europe europa,2018,9,14,16,39,432405540.0,undef,2018-09-14 16:39:00
+48238632647,45.756027,4.835511,91,lyon france placeantoinponcet plaza square lyon france francia europe europa,2018,9,14,16,39,432405540.0,undef,2018-09-14 16:39:00
+48504506067,45.756138,4.835561,91,flower tree fujifilmxt lyon place antoninponcet arbrefleurs flowertree reflet reflection puddle jeonghwachoi,2019,8,10,9,51,460893060.0,undef,2019-08-10 09:51:00

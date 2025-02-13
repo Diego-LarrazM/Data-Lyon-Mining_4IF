@@ -1,0 +1,88 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4191274798,45.76247,4.825701,148,fetedeslumieres france lyon ftedeslumires lightfestival fetedeslumieres fetedeslumieres,2009,12,8,21,17,-1.66028770619485,undef
+4668838460,45.762304,4.825894,148,poladroid stair vintage polaroid nikon lyon converse escaliers vieuxlyon poladroid,2010,6,3,18,23,-1.4865460079984765,undef
+4167654448,45.762313,4.825884,148,lyonlumieres lyon ftedeslumires ftedeslumires,2009,12,7,21,54,-1.6612447295966133,undef
+4167653948,45.762313,4.825884,148,lyonlumieres lyon ftedeslumires ftedeslumires,2009,12,7,21,54,-1.6612447295966133,undef
+5519373092,45.76242,4.825758,148,veille lyon belle stjean,2011,3,9,18,57,-1.2124716953198833,undef
+5515794773,45.76242,4.825758,148,labavure stjean,2011,3,9,18,40,-1.2124832914694412,undef
+6658573387,45.762373,4.825809,148,saint jean night lyon,2012,1,7,23,5,-0.9136948555768176,undef
+6537424577,45.762485,4.825819,148,lyon monte vers fourvire ,2011,12,19,14,1,-0.9327289118867264,undef
+7389807378,45.762291,4.82583,148, ,2011,12,12,18,54,-0.9394048833999532,undef
+7668359186,45.762418,4.825776,148,p lyon vieuxlyon montedeschazeaux,2012,7,28,17,47,-0.7145125695029227,undef
+7668357090,45.762358,4.825798,148,p lyon vieuxlyon montedeschazeaux,2012,7,28,17,45,-0.714513933755812,undef
+7546096886,45.762388,4.825862,148,lyon monte chazeaux lyon,2012,7,9,13,21,-0.7333569946612348,undef
+8311446022,45.762445,4.825766,148,vieux lyon roof france europe lyon place toit antenne granderoue chemine vieuxlyon tuiles,2012,12,26,15,28,-0.5662858109665311,undef
+8311443740,45.762445,4.825766,148,vieux lyon roof france europe lyon place toit chemine vieuxlyon tuiles,2012,12,26,15,25,-0.5662878573458648,undef
+8717883958,45.76242,4.825758,148,lyon vue saint jean lyon aquarelle saintjean,2013,5,7,7,42,-0.4369450873015714,undef
+9413566348,45.762348,4.825865,148, france tourism stair couple lyon escalier vieuxlyon oldlyon,2012,8,11,14,15,-0.7009055111861918,undef
+9410763959,45.762368,4.82591,148, france tourism stair couple lyon escalier vieuxlyon oldlyon,2012,8,11,14,15,-0.7009055111861918,undef
+9645751147,45.762417,4.825726,148,lyonstreetart lyon illustration arteurbano artderue streetart jjforum art graffiti grafite rsagraffiti instagrafite urbanart streetartistry royalsnappingartists streetartutopia wallart streetphotography rsastreetview streetarteveryw square squareformat brannan iphoneography instagramapp uploadedbyinstagram foursquarevenue ef e f,2013,9,1,21,16,-0.3214651729907312,undef
+10457356994,45.762261,4.825884,148,lyon lyon cathedrale saintjean w kolorze france heritage frankreich unesco francja,2013,7,19,11,43,-0.3650755629728626,undef
+13236547244,45.762344,4.82575,148,lyon france lyon francja,2014,3,10,13,26,-0.1351559771791855,undef
+14701346665,45.762418,4.825726,148, ,2014,7,18,18,48,-0.0072422620363134,undef
+14721206263,45.762418,4.825726,148, ,2014,7,18,18,48,-0.0072422620363134,undef
+14514651910,45.762418,4.825726,148,pano ,2014,7,18,18,46,-0.0072436262892026,undef
+14705510633,45.762355,4.825866,148,monte chazeaux ,2014,7,18,18,48,-0.0072422620363134,undef
+14662600986,45.762386,4.825833,148,monte chazeaux ,2014,7,18,18,48,-0.0072422620363134,undef
+15509370617,45.762418,4.825726,148, ,2014,11,2,15,28,0.0977233552575782,undef
+16592664953,45.762426,4.825723,148,street fight smallpools architecture night landscape cityscape lyon,2015,4,10,20,58,0.2541281277381892,undef
+17211187302,45.762426,4.825723,148, architecture night landscape cityscape lyon,2015,4,10,21,0,0.2541294919910784,undef
+17211182642,45.762426,4.825723,148, architecture night landscape cityscape lyon,2015,4,10,21,3,0.2541315383704122,undef
+16875002458,45.762418,4.825798,148,lyon monte chazeaux france lumix lyon rhne panasonic vieuxlyon rhnealpes montedeschazeaux lyonpresqule panasoniclumixdmcfz,2015,4,6,16,19,0.2500087661392952,undef
+16440353744,45.762418,4.825798,148,lyon monte chazeaux france lumix lyon rhne panasonic vieuxlyon cathdralesaintjean rhnealpes montedeschazeaux lyonpresqule panasoniclumixdmcfz,2015,4,6,16,20,0.2500094482657398,undef
+17062794265,45.762418,4.825798,148,lyon monte chazeaux france lumix lyon rhne panasonic vieuxlyon rhnealpes montedeschazeaux lyonpresqule panasoniclumixdmcfz,2015,4,6,16,22,0.250010812518629,undef
+17036808616,45.762418,4.825798,148,lyon monte chazeaux france lumix lyon rhne panasonic vieuxlyon rhnealpes montedeschazeaux lyonpresqule panasoniclumixdmcfz,2015,4,6,16,22,0.250010812518629,undef
+24313541980,45.762427,4.82585,148,lyon ,2015,4,12,15,52,0.2558839212065703,undef
+24241305559,45.762519,4.825713,148,lyon ,2015,4,12,15,52,0.2558839212065703,undef
+24500721812,45.762494,4.825761,148,lyon ,2015,4,12,15,52,0.2558839212065703,undef
+24500711962,45.762494,4.825755,148,lyon ,2015,4,12,15,52,0.2558839212065703,undef
+23980896274,45.762477,4.82575,148,lyon ,2015,4,12,15,52,0.2558839212065703,undef
+23982216423,45.762427,4.82573,148,lyon ,2015,4,12,15,52,0.2558839212065703,undef
+24582852696,45.762405,4.825697,148,lyon ,2015,4,12,15,52,0.2558839212065703,undef
+24500654132,45.762325,4.82585,148,lyon ,2015,4,12,15,53,0.2558846033330149,undef
+24500642852,45.762325,4.825858,148,lyon ,2015,4,12,15,53,0.2558846033330149,undef
+24313431920,45.762297,4.825897,148,lyon ,2015,4,12,15,53,0.2558846033330149,undef
+25464576150,45.762383,4.82593,148,lyon ,2016,3,13,18,46,0.5860426701595577,undef
+25573423752,45.762381,4.825809,148,avant monte city november autumn france building church saint architecture stair automne canon john eos climb town novembre jean cathedral lyon district cathdrale glise btiment escalier ville quartier saintjean fourvire vieuxlyon monter primatiale,2015,11,5,14,39,0.4591623765802431,undef
+27773581215,45.762417,4.825726,148, ,2016,6,19,15,20,0.6821638359728632,undef
+27739675026,45.762417,4.825726,148, ,2016,6,19,15,21,0.6821645180993078,undef
+27161857594,45.762417,4.825726,148, ,2016,6,19,15,21,0.6821645180993078,undef
+28794505380,45.762268,4.825905,148,monte chazeaux ,2016,8,8,4,45,0.7308437896912059,undef
+30420562955,45.762397,4.825791,148, ,2016,6,17,13,25,0.6801208672713087,undef
+32227644143,45.762373,4.825819,148,stencil lyon france europe france lyon streetart stencil pochoir,2017,2,15,17,22,0.9189722167304796,undef
+32031214511,45.762373,4.825819,148,pasted paper gemi lyon france europe france lyon streetart wheatpaste wheatpaper collage pasted paper pasteup gemi,2017,1,4,15,38,0.8776462682112885,undef
+33494124333,45.762276,4.825862,148,toitures chemines toits toitures chemines lyon leverdujour roof roofing fireplace sunrise,2017,4,9,6,49,0.9706003209423512,undef
+34186666826,45.762427,4.825819,148,monte chazeaux lyon bw concert concertdelainlyon kodaktmax nikkorpreai mm nikonf ruetroite lyon rhne france filmdevrecipe,2016,11,1,0,0,0.8141416604726174,undef
+32480002273,45.762373,4.825819,148,pasted paper ghostsurfer lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup ghostsurfer,2017,2,24,18,14,0.9278480460275172,undef
+35662919791,45.762368,4.825809,148,dsc drv graffiti graffs graffiti graffik photograffik streetart streetphotography strasse street calle via wall wallpaintings walldrawings tag popart pochoirs papiercoll arturbain urbanart underground urbaines urbanphotography peinturesmurales peinturesurbaines dessins lyon lugdunum citinternationale nikon photographiecontemporaine photo photographie photography photographieurbaine pascalreyphotographies aruba abw,2017,7,5,9,42,1.0561751297958122,undef
+35662866511,45.762368,4.825809,148,dsc drv graffiti graffs graffiti graffik photograffik streetart streetphotography strasse street calle via wall wallpaintings walldrawings tag popart pochoirs papiercoll arturbain urbanart underground urbaines urbanphotography peinturesmurales peinturesurbaines dessins lyon lugdunum citinternationale nikon photographiecontemporaine photo photographie photography photographieurbaine pascalreyphotographies aruba abw,2017,7,5,9,43,1.0561758119222568,undef
+35406427790,45.762368,4.825809,148,dsc drv graffiti graffs graffiti graffik photograffik streetart streetphotography strasse street calle via wall wallpaintings walldrawings tag popart pochoirs papiercoll arturbain urbanart underground urbaines urbanphotography peinturesmurales peinturesurbaines dessins lyon lugdunum citinternationale nikon photographiecontemporaine photo photographie photography photographieurbaine pascalreyphotographies aruba abw,2017,7,5,9,44,1.0561764940487015,undef
+35794966845,45.762368,4.825809,148,dsc drv graffiti graffs graffiti graffik photograffik streetart streetphotography strasse street calle via wall wallpaintings walldrawings tag popart pochoirs papiercoll arturbain urbanart underground urbaines urbanphotography peinturesmurales peinturesurbaines dessins lyon lugdunum citinternationale nikon photographiecontemporaine photo photographie photography photographieurbaine pascalreyphotographies aruba abw,2017,7,5,9,45,1.056177176175146,undef
+35794903135,45.762368,4.825809,148,dsc drv graffiti graffs graffiti graffik photograffik streetart streetphotography strasse street calle via wall wallpaintings walldrawings tag popart pochoirs papiercoll arturbain urbanart underground urbaines urbanphotography peinturesmurales peinturesurbaines dessins lyon lugdunum citinternationale nikon photographiecontemporaine photo photographie photography photographieurbaine pascalreyphotographies aruba abw,2017,7,5,9,46,1.0561778583015906,undef
+35662657891,45.762368,4.825809,148,dsc drv graffiti graffs graffiti graffik photograffik streetart streetphotography strasse street calle via wall wallpaintings walldrawings tag popart pochoirs papiercoll arturbain urbanart underground urbaines urbanphotography peinturesmurales peinturesurbaines dessins lyon lugdunum citinternationale nikon photographiecontemporaine photo photographie photography photographieurbaine pascalreyphotographies,2017,7,5,9,47,1.0561785404280353,undef
+35647915371,45.762368,4.825809,148,monte chazeaux vue presqule lyon lugdunum vieuxlyon quartiersaintjean panorama paysageurbain photographiecontemporaine photo photographie photography nikon luminar pascalreyphotographies,2017,7,5,9,42,1.0561751297958122,undef
+35406292860,45.762368,4.825809,148,dsc drv graffiti graffs graffiti graffik photograffik streetart streetphotography strasse street calle via wall wallpaintings walldrawings tag popart pochoirs papiercoll arturbain urbanart underground urbaines urbanphotography peinturesmurales peinturesurbaines dessins lyon lugdunum citinternationale nikon photographiecontemporaine photo photographie photography photographieurbaine pascalreyphotographies aruba abw,2017,7,5,9,47,1.0561785404280353,undef
+34938231754,45.762368,4.825809,148,dsc drv arturbain urbanart streetart pochoirs popart tag papiercoll graffiti graffiti graffs graffik photographiecontemporaine photographie photography photograffik photographieurbaine urbanphotography peinturesmurales peinturesurbaines nikon aurora aurorahdr pascalreyphotographies lyon lugdunum aruba abw,2017,7,5,9,36,1.0561710370371449,undef
+35738109466,45.762368,4.825809,148,dsc drv arturbain urbanart streetart pochoirs popart tag papiercoll graffiti graffiti graffs graffik photographiecontemporaine photographie photography photograffik photographieurbaine urbanphotography peinturesmurales peinturesurbaines nikon aurora aurorahdr pascalreyphotographies lyon lugdunum aruba abw,2017,7,5,9,37,1.056171719163589,undef
+35738029986,45.762368,4.825809,148,dsc drv arturbain urbanart streetart pochoirs popart tag papiercoll graffiti graffiti graffs graffik photographiecontemporaine photographie photography photograffik photographieurbaine urbanphotography peinturesmurales peinturesurbaines nikon aurora aurorahdr pascalreyphotographies lyon lugdunum aruba abw,2017,7,5,9,38,1.056172401290034,undef
+34938072144,45.762368,4.825809,148,dsc drv arturbain urbanart streetart pochoirs popart tag papiercoll graffiti graffiti graffs graffik photographiecontemporaine photographie photography photograffik photographieurbaine urbanphotography peinturesmurales peinturesurbaines nikon aurora aurorahdr pascalreyphotographies lyon lugdunum aruba abw,2017,7,5,9,39,1.0561730834164784,undef
+34938010564,45.762368,4.825809,148,dsc drv arturbain urbanart streetart pochoirs popart tag papiercoll graffiti graffiti graffs graffik photographiecontemporaine photographie photography photograffik photographieurbaine urbanphotography peinturesmurales peinturesurbaines nikon aurora aurorahdr pascalreyphotographies lyon lugdunum aruba abw,2017,7,5,9,39,1.0561730834164784,undef
+35646811831,45.762368,4.825809,148,dsc drv arturbain urbanart streetart pochoirs popart tag papiercoll graffiti graffiti graffs graffik photographiecontemporaine photographie photography photograffik photographieurbaine urbanphotography peinturesmurales peinturesurbaines nikon aurora aurorahdr pascalreyphotographies lyon lugdunum,2017,7,5,9,40,1.056173765542923,undef
+34937869554,45.762368,4.825809,148,dsc drv arturbain urbanart streetart pochoirs popart tag papiercoll graffiti graffiti graffs graffik photographiecontemporaine photographie photography photograffik photographieurbaine urbanphotography peinturesmurales peinturesurbaines nikon aurora aurorahdr pascalreyphotographies lyon lugdunum,2017,7,5,9,40,1.056173765542923,undef
+35730892256,45.762413,4.825787,148,dsc lv streetart streetphotography rue calle via strasse strassen arturbain art urbanart urbanphotography urbaines urbaine graffiti graffs graffiti graffik photographiecontemporaine photograffik nikon pascalreyphotographies popart pop papiercoll tag wallpaintings murales muros murs murale fresquesurbaines peinturesmurales peinturesurbaines walldrawings lyon lugdunum aruba abw,2017,7,5,9,35,1.0561703549107002,undef
+35639771441,45.762368,4.825809,148,dsc lv streetart streetphotography rue calle via strasse strassen arturbain art urbanart urbaines urbanphotography urbaine graffiti graffs graffiti graffik photographiecontemporaine photograffik nikon pascalreyphotographies popart pop papiercoll tag wallpaintings walldrawings murs murales muros murale fresquesurbaines peinturesmurales peinturesurbaines lyon lugdunum aruba abw,2017,7,5,9,34,1.0561696727842556,undef
+35730711966,45.762368,4.825809,148,dsc v streetart streetphotography rue calle via strasse strassen arturbain art urbanart urbanphotography urbaines urbaine graffiti graffs graffiti graffik photographiecontemporaine photograffik nikon pascalreyphotographies popart pop papiercoll tag wallpaintings murales muros murs murale fresquesurbaines peinturesmurales peinturesurbaines walldrawings lyon lugdunum,2017,7,5,9,36,1.0561710370371449,undef
+35771424545,45.762413,4.825787,148,dsc drv arturbain streetart graffiti graffs graffiti graffik photograffik urbanart tag pochoirs papiercoll popart vieuxlyon lyon lugdunum art sprayart murs wallpaintings walldrawings aruba abw,2017,7,5,9,31,1.0561676264049218,undef
+34929978144,45.762413,4.825787,148,dsc lv arturbain streetart graffiti graffs graffiti graffik photograffik urbanart tag pochoirs papiercoll popart vieuxlyon lyon lugdunum art sprayart murs wallpaintings walldrawings aruba abw,2017,7,5,9,32,1.0561683085313665,undef
+34960860223,45.762413,4.825787,148,dsc lv arturbain streetart graffiti graffs graffiti graffik photograffik urbanart tag pochoirs papiercoll popart vieuxlyon lyon lugdunum art sprayart murs wallpaintings walldrawings aruba abw,2017,7,5,9,33,1.056168990657811,undef
+31513615215,45.762373,4.825819,148,stencil dav lyon france europe france lyon streetart stencil pochoir dav,2016,12,2,17,6,0.8452916466913778,undef
+31329712091,45.762373,4.825819,148,stencil lyon france europe france lyon streetart stencil pochoir,2016,12,2,17,1,0.8452882360591548,undef
+31329712111,45.762373,4.825819,148,pasted paper lyon france europe france lyon streetart wheatpaste wheatpaper collage pasted paper pasteup,2016,12,2,15,39,0.8452323016906982,undef
+31329712101,45.762373,4.825819,148,stencil dav lyon france europe france lyon streetart stencil pochoir dav,2016,12,2,15,39,0.8452323016906982,undef
+31413158235,45.762418,4.825723,148,lyon paris novembre jour lyon paris novembre jour,2016,11,24,11,54,0.8372207265989595,undef
+30590980193,45.762373,4.825819,148,stencil lyon france europe france lyon streetart stencil pochoir,2016,12,2,17,0,0.8452875539327103,undef
+24900057867,45.762373,4.825819,148,pasted paper line street lyon france europe france lyon stjean streetart wheatpaste wheatpaper collage pasted paper pasteup line street,2018,1,15,15,16,1.246961803589663,undef
+41589038135,45.762283,4.825908,148, ,2018,5,21,10,44,1.3705412873035945,undef
+44152835385,45.762436,4.825791,148,midnight lyon vieux lyon france tranmaithang canon sigma art portrait night city people lyon rhonealpes france,2018,9,10,21,15,1.4809850620740084,undef
+45830593921,45.762373,4.825841,148,smile france lyon vieuxlyon graffiti streetart geocountry exiffocallength mm geocity cameramodelem geostate geolocation exifmodelem exifaperture geolat exifisospeed cameramakeolympusimagingcorp exifmakeolympusimagingcorp geolon exiflensolympusm mmf iir,2016,12,17,13,42,0.8598864240998786,undef
+33006462948,45.76235,4.8258,148,lyon monte chazeaux escaliers lyon rhone montedeschazeaux escaliers stair murs,2019,1,11,16,14,1.601597977880407,undef

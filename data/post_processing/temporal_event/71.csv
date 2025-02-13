@@ -1,0 +1,56 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4421304839,45.761947,4.822411,71,beef carpaccio lyon food france lyon beef carpaccio rhnealpes,2009,7,9,13,59,-1.8098903137699849,undef
+4626911820,45.761966,4.822311,71,sketchup ,2010,5,21,15,50,-1.4994197803872704,undef
+5141432262,45.761966,4.822311,71,puddle france,2010,10,30,17,20,-1.340231932012722,undef
+5428763069,45.761966,4.822311,71,lyon sunset urban lyon redtile,2010,12,7,19,0,-1.302837760320162,undef
+5428762293,45.761966,4.822311,71,lyon sunset urban lyon sane redtile tourpartdieu,2010,12,7,19,0,-1.302837760320162,undef
+5428761335,45.761966,4.822311,71,lyon sunset urban lyon bigwheel placebellecour sane redtile,2010,12,7,18,59,-1.3028384424466066,undef
+5428760205,45.761966,4.822311,71,lyon sunset urban lyon sane redtile tourpartdieu,2010,12,7,18,59,-1.3028384424466066,undef
+5333376902,45.761966,4.822311,71,basilique notredame fourvire underground floor france lyon notredame fte lumires basilique fourvire,2010,12,11,16,10,-1.29902467349489,undef
+5333374088,45.761966,4.822311,71,basilique notredame fourvire france lyon notredame fte lumires basilique fourvire,2010,12,11,16,26,-1.2990137594717766,undef
+5333373330,45.761966,4.822311,71,basilique notredame fourvire france lyon notredame fte lumires basilique fourvire,2010,12,11,16,25,-1.299014441598221,undef
+5681331199,45.761966,4.822311,71,iris ,2011,5,1,15,36,-1.160548912483948,undef
+5884656094,45.761966,4.822311,71,royal ,2011,6,29,11,16,-1.1027728026269643,undef
+6005139954,45.761966,4.822311,71,basilica notredame fourvire france square lyon fisheye crop frankrijk basilicaofnotredamedefourvire circularfisheye,2011,7,19,17,31,-1.0828717636059786,undef
+6268251837,45.761991,4.822365,71,lyon plate france eos cityscape lyon dame fourviere basilque mm,2011,9,26,15,23,-1.015182992256177,undef
+6261925734,45.761966,4.822311,71,basilque dame fourviere bridge france river lyon bank cote rhone,2011,9,26,15,10,-1.0151918598999568,undef
+6411114707,45.761966,4.822311,71,lyon basilica ,2011,8,29,22,56,-1.0423773272227457,undef
+6411111951,45.761966,4.822311,71,lyon basilica night ,2011,8,29,8,58,-1.0429489491833142,undef
+5227479108,45.761966,4.822311,71,basilique notredame fourvire ,2010,11,27,8,34,-1.3130873922766086,undef
+6580601925,45.761966,4.822311,71, portrait vertical jour rider arbre velo cadre homme roue fourviere escaliers chaussure buissons,2011,1,1,0,0,-1.2790588324616678,undef
+6982268005,45.761966,4.822311,71,fourvire travel lyon,2012,3,8,16,49,-0.8540333482269806,undef
+7379378648,45.761966,4.822311,71,divine comedy fourvire ,2012,6,14,21,54,-0.7575636158004884,undef
+7657621852,45.761966,4.822311,71,lyon basilique dame fourviere france lyon basilique fourviere rhone,2012,7,22,16,7,-0.720474354628661,undef
+7496651668,45.761966,4.822311,71,crypte notredame fouvire church cathedral lyon god basilica pray jesus altar sacredplace mass eglise hdr cathedrale jesuschrist basilique crypte rhnealpes notredamedefouviere salvabarbera decar placeofwisdom notredamedefauviere,2012,6,22,13,38,-0.7500438538753007,undef
+8030909916,45.761966,4.822311,71, ,2012,9,26,22,41,-0.6553762995154219,undef
+7980420797,45.761966,4.822311,71,place bellecour nuit lyon france lyon place bellecour mm long exposure view city skyline cityscape night light blue hour building architecture river saone france french alp alpen alpes rhone square citycenter canon eos rebel close nielskristianphotography,2012,8,8,1,9,-0.7043884488122811,undef
+7936955464,45.761966,4.822311,71,lyon blue hour panorama lyon france blue panorama france skyline night alpes canon building french eos mm tour view lyon rhne credit hour region hdr lyonnais nielskristianphotography,2012,8,8,0,52,-0.7044000449618392,undef
+8172726116,45.761966,4.822311,71, france lyon lion notredamedefourvire,2012,7,20,16,24,-0.7224272826395294,undef
+8145191110,45.761966,4.822311,71,basilique fourvire lyon lyon basilique fourviere,2012,5,13,11,28,-0.7894230135216249,undef
+6467875819,45.761966,4.822311,71,theatre galloromain fourviere lyon ,2011,12,6,13,0,-0.945539928642618,undef
+8430624281,45.761966,4.822311,71,basilique notredame fourvire france part,2013,1,14,5,47,-0.5480191469067889,undef
+8430517589,45.761966,4.822311,71,basilique notredame fourvire france architecture europe lyon church monument basilicaofnotredamedefourvire basiliquedenotredamedefourvire,2013,1,14,5,34,-0.5480280145505686,undef
+8401700598,45.761966,4.822311,71,crypte fourvire ,2013,1,20,15,24,-0.5417319874669799,undef
+8401700206,45.761966,4.822311,71,entre deux sol france julien angle lyon grand dame basilique fourviere escaliers mm dtails cauvin,2013,1,20,15,35,-0.5417244840760894,undef
+8392593605,45.761932,4.822289,71,souvenir shop france shop lyon religion souvenir fourvire,2012,12,11,8,2,-0.581323970564017,undef
+8363254349,45.761966,4.822311,71,candels ,2011,7,17,14,48,-1.0849474743768734,undef
+9347235935,45.761966,4.822311,71,lyon blue,2013,7,21,14,46,-0.3629862096730757,undef
+10119766305,45.761966,4.822311,71,lyon da notredame fourvire panorama day lyon cloudy lione fourvire,2013,4,7,17,36,-0.4660077665998789,undef
+12152883803,45.761966,4.822311,71,lyon ,2014,1,26,6,49,-0.1776640508268555,undef
+14445270875,45.762066,4.822258,71,europe autoupload,2014,6,13,10,22,-0.0419665908247385,undef
+11360270724,45.762038,4.822286,71,lyon fourvire france canon geotagged eos lyon hdr notredamedefourvire rhnealpes cdlcreative labasilique geolat geolon,2013,12,6,13,4,-0.2275036195010054,undef
+19476787596,45.762038,4.822402,71, lyon frankrijk fra rhnealpes,2012,10,5,17,0,-0.6467685459111092,undef
+23982556323,45.761966,4.822391,71,lyon ,2015,4,12,15,42,0.2558770999421244,undef
+32694575523,45.761966,4.822311,71,lyon lyon oldlyon france europe church france part,2013,1,14,4,37,-0.5480668957579103,undef
+34716742913,45.761963,4.82243,71,lyon cathedral,2017,6,17,11,50,1.038581724536883,undef
+23640806428,45.762011,4.822333,71,france ,2017,8,25,12,19,1.1063775897384855,undef
+37493228501,45.762016,4.82233,71,france ,2017,8,25,12,20,1.10637827186493,undef
+23640512548,45.762011,4.822333,71,france ,2017,8,25,12,19,1.1063775897384855,undef
+39054729125,45.762021,4.822345,71,lyon fourvire exposition street art watching streetart goddog,2018,1,27,16,18,1.2587912403917858,undef
+39952858331,45.762021,4.822345,71,lyon fourvire exposition street art watching streetart opera echec chess,2018,1,27,16,31,1.2588001080355655,undef
+39952857801,45.762021,4.822345,71,lyon fourvire exposition street art watching streetart opera,2018,1,27,16,31,1.2588001080355655,undef
+39952857581,45.762021,4.822345,71,autoportrait autoportrait,2018,1,27,16,39,1.2588055650471224,undef
+39920889852,45.762021,4.822345,71,lyon fourvire exposition street art watching streetart opera echec jeu game chess,2018,1,27,16,30,1.2587994259091209,undef
+39920889862,45.762021,4.822345,71,lyon fourvire exposition street art watching grems streetart grems,2018,1,27,16,41,1.2588069293000117,undef
+46746538055,45.762029,4.822354,71,porte pierre lyon france monochrome pierre mur wall urban urbain porte stair escaliers totalphoto,2019,4,19,10,9,1.6976106855890225,undef
+48249529827,45.762058,4.822261,71,basilique notredame fourvire em lyon frana lyon,2019,6,29,5,13,1.7671493838565588,undef

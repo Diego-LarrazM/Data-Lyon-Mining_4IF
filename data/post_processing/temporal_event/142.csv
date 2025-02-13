@@ -1,0 +1,175 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+5557959109,45.785116,4.857238,142,fte lumires lighting city light music france festival concert europe lyon illumination illuminated citycenter citycentre centreville fra ftedeslumires familyevent rhnealps vieuxlyon placeduchange coeurdelaville frcentreville frcoeurdelaville,2010,12,11,23,10,-1.298738180388161,undef
+5557958649,45.785116,4.857238,142,fte lumires lighting city light music france festival concert europe lyon illumination illuminated citycenter citycentre centreville fra ftedeslumires familyevent rhnealps vieuxlyon placeduchange coeurdelaville frcentreville frcoeurdelaville,2010,12,11,23,9,-1.2987388625146057,undef
+5557958279,45.785116,4.857238,142,fte lumires lighting city light music france festival concert europe lyon illumination illuminated citycenter citycentre centreville fra ftedeslumires familyevent rhnealps vieuxlyon placeduchange coeurdelaville frcentreville frcoeurdelaville,2010,12,11,23,7,-1.2987402267674948,undef
+5557957839,45.785116,4.857238,142,fte lumires lighting city light music france festival concert europe lyon illumination illuminated citycenter citycentre centreville fra ftedeslumires familyevent rhnealps vieuxlyon placeduchange coeurdelaville frcentreville frcoeurdelaville,2010,12,11,23,7,-1.2987402267674948,undef
+5558541104,45.785116,4.857238,142,fte lumires city citycenter citycentre europe frcentreville frcoeurdelaville familyevent festival france ftedeslumires illuminated illumination light lighting lyon music placeduchange rhnealps vieuxlyon concert centreville coeurdelaville fra,2010,12,11,23,5,-1.298741591020384,undef
+5558540592,45.785116,4.857238,142,fte lumires lighting city light france festival europe lyon illumination illuminated citycenter citycentre centreville fra ftedeslumires familyevent rhnealps vieuxlyon placesaintjean basilicanotredamedefourvire coeurdelaville frcentreville frcoeurdelaville,2010,12,11,22,40,-1.298758644181499,undef
+5557956381,45.785116,4.857238,142,fte lumires lighting city light france festival europe lyon illumination illuminated citycenter citycentre centreville fra ftedeslumires familyevent rhnealps vieuxlyon cathdralesaintjean pontbonaparte basilicanotredamedefourvire coeurdelaville frcentreville frcoeurdelaville,2010,12,11,22,26,-1.2987681939517233,undef
+5558539590,45.785116,4.857238,142,fte lumires lighting city light france festival europe lyon illumination illuminated citycenter citycentre centreville fra ftedeslumires familyevent rhnealps vieuxlyon cathdralesaintjean pontbonaparte basilicanotredamedefourvire coeurdelaville frcentreville frcoeurdelaville,2010,12,11,22,25,-1.2987688760781675,undef
+5558539152,45.785116,4.857238,142,fte lumires lighting city light france festival europe lyon illumination illuminated citycenter citycentre centreville fra ftedeslumires familyevent rhnealps vieuxlyon cathdralesaintjean pontbonaparte basilicanotredamedefourvire coeurdelaville frcentreville frcoeurdelaville,2010,12,11,22,22,-1.2987709224575017,undef
+5978677678,45.785306,4.857324,142,allo mr sony orange lyon sony ricoh grdiii,2010,7,26,14,37,-1.4346402783236558,undef
+6206722831,45.785205,4.857201,142, lyon alleycat,2011,10,1,13,58,-1.0103296626029017,undef
+6654566101,45.785255,4.857338,142,man phone france lyon rhne palais xavier congrs palaisdescongrs habitant veilhan xavierveilhan leshabitants,2011,9,20,13,11,-1.0211666054281423,undef
+6654565929,45.785255,4.857338,142,man phone france lyon rhne palais xavier congrs palaisdescongrs habitant veilhan xavierveilhan leshabitants,2011,9,20,13,11,-1.0211666054281423,undef
+6654565343,45.785263,4.857205,142,week man phone france lyon rhne palais xavier congrs palaisdescongrs habitant veilhan xavierveilhan leshabitants,2011,9,19,13,57,-1.022117489691904,undef
+6654565093,45.785263,4.857205,142,man phone france lyon rhne palais xavier congrs palaisdescongrs habitant veilhan xavierveilhan leshabitants,2011,9,19,13,55,-1.0221188539447934,undef
+6654562963,45.785102,4.857347,142,cit internationale lyon france lyon rhne palais congrs palaisdescongrs,2011,9,20,13,54,-1.0211372739910247,undef
+7115325881,45.785025,4.857313,142,train thought metro map visualisation france lyon presentation visualisation infographics metromaps centredecongrs lumixtz,2012,4,20,13,28,-0.811933186193177,undef
+7115325649,45.785025,4.857313,142,lyon centre congrs france lyon centredecongrs lumixtz,2012,4,20,11,29,-0.8120143592400835,undef
+7115321691,45.785025,4.857313,142,big orange man lyon centre congrs france lyon centredecongrs lumixtz,2012,4,19,17,46,-0.8127394596506853,undef
+7115321125,45.785025,4.857313,142,laptop screen france lyon centredecongrs lumixtz,2012,4,19,10,28,-0.8130382310334168,undef
+7115320879,45.785025,4.857313,142,neelie kroes keynote france lyon presentation keynote centredecongrs neeliekroes lumixtz,2012,4,19,10,27,-0.8130389131598614,undef
+6969239790,45.785025,4.857313,142,lamphittre keynote audience france audience lyon presentation centredecongrs lumixtz,2012,4,18,11,0,-0.813998665067403,undef
+7115320037,45.785025,4.857313,142,tim bernerslee keynote france lyon presentation keynote timbl centredecongrs lumixtz,2012,4,18,10,36,-0.8140150361020733,undef
+7115319789,45.785025,4.857313,142,tim bernerslee keynote france lyon presentation keynote timbl centredecongrs lumixtz,2012,4,18,10,36,-0.8140150361020733,undef
+6969238728,45.785025,4.857313,142,tim bernerslee keynote france lyon presentation keynote timbl centredecongrs lumixtz,2012,4,18,10,35,-0.8140157182285178,undef
+7115319215,45.785025,4.857313,142,tim bernerslee keynote france lyon presentation keynote timbl centredecongrs lumixtz,2012,4,18,10,34,-0.8140164003549625,undef
+6969238030,45.785025,4.857313,142,acceptance rate france lyon centredecongrs lumixtz,2012,4,18,10,10,-0.8140327713896326,undef
+6969237910,45.785025,4.857313,142,usewod data challenge winner france laura lyon aravindan centredecongrs lumixtz usewod,2012,4,17,16,51,-0.8147415007655643,undef
+6969237564,45.785025,4.857313,142,usewod audience france lyon centredecongrs lumixtz usewod,2012,4,17,13,41,-0.8148711047900368,undef
+7115317755,45.785025,4.857313,142,linked data agent france lyon presentation knud latc centredecongrs lumixtz usewod,2012,4,17,13,21,-0.8148847473189287,undef
+7115317613,45.785025,4.857313,142,handson session france lyon tutorial anja antoine latc centredecongrs lumixtz,2012,4,17,11,4,-0.8149781986418378,undef
+7115317115,45.785025,4.857313,142,handson session france lyon richard tutorial latc centredecongrs lumixtz,2012,4,17,11,4,-0.8149781986418378,undef
+7115316639,45.785025,4.857313,142,teaching sparql france lyon presentation tutorial knud latc centredecongrs lumixtz,2012,4,17,9,10,-0.8150559610565213,undef
+7095526111,45.785167,4.857167,142, ,2012,4,18,20,10,-0.8136234955228772,undef
+7095524961,45.785167,4.857167,142, ,2012,4,18,20,10,-0.8136234955228772,undef
+7095522685,45.785167,4.857167,142, ,2012,4,18,20,9,-0.8136241776493217,undef
+6949449528,45.785167,4.857167,142, ,2012,4,18,20,8,-0.8136248597757664,undef
+7087708239,45.785167,4.857333,142,phone guy ,2012,4,17,18,25,-0.8146773808797726,undef
+7051099381,45.785306,4.857324,142,sony orange man orange lyon sony ricoh grdiii,2011,10,22,18,40,-0.9895097992610496,undef
+7274802190,45.785306,4.857324,142,speedman lyon mm ricoh grdiii,2012,5,26,17,12,-0.7764189549819138,undef
+7628826146,45.785161,4.857202,142,cit internationale france lyon rhnealpes,2012,7,11,12,51,-0.7314129342941462,undef
+7558477238,45.785152,4.857287,142, statue lyon,2012,7,6,16,0,-0.7361953227971841,undef
+7886559596,45.785167,4.857333,142, ,2012,8,27,16,10,-0.6851108733616529,undef
+8029778014,45.785007,4.857211,142,patrimonia peut prdit lavenir square lofi squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue cb cbab,2012,9,27,16,33,-0.6546450599668187,undef
+8023875361,45.785306,4.857324,142,men black ix orange lyon cit ricoh internationale grd grdiii,2012,9,25,19,30,-0.6564888477465521,undef
+8561348585,45.785166,4.857166,142,minuit fte bat plein party dance danse fte mirrorball boulefacettes,2013,3,15,0,5,-0.4893167093380487,undef
+8557992428,45.785166,4.857333,142,kickoff cest parti salamandre uploadedbyflickrmobile flickriosappfiltersalamandre,2013,3,14,18,27,-0.489547268076321,undef
+11515739794,45.785317,4.85733,142, citinternationale nikoncoolpixp,2013,12,23,14,1,-0.2107662829300396,undef
+13712030053,45.785222,4.857322,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,22,28,-0.2300656864268948,undef
+13712393424,45.785236,4.857383,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,22,19,-0.2300718255648962,undef
+13712024003,45.785233,4.857383,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,22,19,-0.2300718255648962,undef
+13712388124,45.785197,4.857358,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,22,19,-0.2300718255648962,undef
+13712004505,45.785197,4.857358,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,22,19,-0.2300718255648962,undef
+13711953875,45.785197,4.857358,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,22,19,-0.2300718255648962,undef
+13711963713,45.785191,4.857324,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,22,19,-0.2300718255648962,undef
+13712326624,45.785191,4.857324,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,22,19,-0.2300718255648962,undef
+13711957173,45.785202,4.857352,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,22,19,-0.2300718255648962,undef
+13711953713,45.785197,4.857358,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,22,19,-0.2300718255648962,undef
+13711937885,45.785191,4.857324,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,22,19,-0.2300718255648962,undef
+13711945933,45.785166,4.857397,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,22,5,-0.2300813753351204,undef
+13711943923,45.785174,4.857419,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,22,5,-0.2300813753351204,undef
+13712307584,45.785174,4.857419,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,22,5,-0.2300813753351204,undef
+13711924195,45.785174,4.857419,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,22,5,-0.2300813753351204,undef
+13712300334,45.785174,4.857419,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,22,5,-0.2300813753351204,undef
+13711916465,45.785174,4.857419,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,22,5,-0.2300813753351204,undef
+13712292164,45.785174,4.857419,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,22,5,-0.2300813753351204,undef
+13711909765,45.785183,4.857405,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,22,5,-0.2300813753351204,undef
+13712286034,45.785161,4.857333,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,22,1,-0.2300841038408988,undef
+13712283484,45.785161,4.857333,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,22,1,-0.2300841038408988,undef
+13711903545,45.785141,4.857394,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,21,45,-0.2300950178640123,undef
+13711900195,45.785141,4.857394,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,21,45,-0.2300950178640123,undef
+13712276244,45.785152,4.857363,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,22,1,-0.2300841038408988,undef
+13711907903,45.785161,4.857333,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,22,1,-0.2300841038408988,undef
+13712270164,45.785122,4.857391,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,21,45,-0.2300950178640123,undef
+13712267394,45.785152,4.857341,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,21,43,-0.2300963821169015,undef
+13711886045,45.785152,4.857341,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,21,43,-0.2300963821169015,undef
+13711895853,45.785152,4.857341,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,21,43,-0.2300963821169015,undef
+13711893043,45.785152,4.857341,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,21,43,-0.2300963821169015,undef
+13711888883,45.785152,4.857341,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,21,43,-0.2300963821169015,undef
+13711885243,45.785152,4.857341,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,21,43,-0.2300963821169015,undef
+13711870685,45.785186,4.857424,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,21,34,-0.2301025212549028,undef
+13711880323,45.785166,4.85738,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,20,57,-0.2301277599333527,undef
+13711865625,45.785161,4.857372,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,20,58,-0.2301270778069081,undef
+13711861735,45.785183,4.857399,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,21,34,-0.2301025212549028,undef
+13711871503,45.785183,4.857399,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,21,34,-0.2301025212549028,undef
+13712232504,45.78515,4.857405,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,20,51,-0.2301318526920203,undef
+13711866643,45.78515,4.857405,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,20,51,-0.2301318526920203,undef
+13712227514,45.78515,4.857405,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,20,51,-0.2301318526920203,undef
+13711847325,45.785177,4.857369,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,20,22,-0.2301516343589135,undef
+13712222264,45.785172,4.857422,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,20,11,-0.230159137749804,undef
+13711856283,45.785163,4.857427,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,20,11,-0.230159137749804,undef
+13711840735,45.785163,4.857427,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,20,11,-0.230159137749804,undef
+13711851933,45.785144,4.857327,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,20,22,-0.2301516343589135,undef
+13711848553,45.785172,4.857422,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,20,11,-0.230159137749804,undef
+13711833355,45.785125,4.857405,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,20,9,-0.2301605020026932,undef
+13711843173,45.785197,4.857347,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,20,1,-0.2301659590142499,undef
+13712203864,45.785186,4.857349,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,19,59,-0.2301673232671391,undef
+13712190754,45.785144,4.857427,142,irish celtic uploadedbyflickrmobile flickriosappfilternofilter,2013,12,3,19,59,-0.2301673232671391,undef
+14285334455,45.785332,4.857319,142,lyon rhne france ,2014,5,18,10,2,-0.067519047439173,undef
+14098662339,45.785332,4.857319,142,lyon rhne france ,2014,5,18,10,2,-0.067519047439173,undef
+14281979791,45.785332,4.857319,142,lyon rhne france ,2014,5,18,11,26,-0.0674617488178273,undef
+14020998640,45.785127,4.857253,142,wax tailor mi feu lyon soir square squareformat sutro iphoneography instagramapp uploadedbyinstagram,2014,5,17,22,21,-0.0679972180768324,undef
+14207348684,45.785127,4.857253,142,wax tailor lyon square squareformat iphoneography instagramapp xproii uploadedbyinstagram,2014,5,17,21,55,-0.0680149533643918,undef
+14020714630,45.785127,4.857253,142,wax tailor lyon square squareformat iphoneography instagramapp uploadedbyinstagram,2014,5,17,21,34,-0.0680292780197282,undef
+14020564969,45.785127,4.857253,142,wax tailor lyon square squareformat iphoneography instagramapp uploadedbyinstagram,2014,5,17,21,13,-0.0680436026750647,undef
+14207038554,45.785127,4.857253,142,wax tailor feat charlotte savary lyon square squareformat amaro iphoneography instagramapp uploadedbyinstagram,2014,5,17,21,2,-0.0680511060659552,undef
+14020454409,45.785127,4.857253,142,wax tailor lyon square lofi squareformat iphoneography instagramapp uploadedbyinstagram,2014,5,17,20,54,-0.0680565630775119,undef
+14206858734,45.785127,4.857253,142,wax tailor lyon square squareformat sutro iphoneography instagramapp uploadedbyinstagram,2014,5,17,20,30,-0.0680729341121821,undef
+14203680101,45.785127,4.857253,142,route salle citeinternationale lyon voir waxtailor square squareformat hefe iphoneography instagramapp uploadedbyinstagram,2014,5,17,20,28,-0.0680742983650713,undef
+14350687540,45.785332,4.857319,142,lyon rhne france ,2014,5,18,9,54,-0.0675245044507298,undef
+14536347522,45.785332,4.857319,142,lyon rhne france ,2014,5,18,11,24,-0.0674631130707164,undef
+14323330875,45.785332,4.857319,142,lyon rhne france ,2014,5,30,20,36,-0.0552994343107432,undef
+14772344970,45.785155,4.85733,142,cit internationale lyon,2014,6,8,21,7,-0.0464379296690423,undef
+14921959106,45.785157,4.857122,142,opening session ifla lyon,2014,8,17,12,6,0.0219513855393557,undef
+14941860021,45.785157,4.857122,142,opening session ifla lyon,2014,8,17,12,3,0.0219493391600219,undef
+14757341518,45.785157,4.857122,142,ifla wlic opening session ifla lyon,2014,8,17,10,22,0.0218804443891181,undef
+14757289890,45.785157,4.857122,142,ifla wlic opening session ifla lyon,2014,8,17,10,24,0.0218818086420072,undef
+15756324884,45.785177,4.857169,142,fete entreprise uploadedbyflickrmobile flickriosappfilternofilter,2015,1,26,21,23,0.1814577869635288,undef
+17063804801,45.785194,4.857486,142,objets connects uploadedbyflickrmobile flickriosappfilternofilter,2015,4,7,10,12,0.250740687814343,undef
+18901346101,45.785151,4.857251,142,sunset pourras teindre partant square squareformat iphoneography instagramapp uploadedbyinstagram,2015,6,17,20,54,0.3209192206869071,undef
+18275272834,45.785151,4.857251,142,vert sunset square sierra squareformat iphoneography instagramapp uploadedbyinstagram,2015,6,17,20,27,0.3209008032729031,undef
+18709110520,45.785146,4.857245,142,sunset square squareformat amaro iphoneography instagramapp uploadedbyinstagram,2015,6,17,19,46,0.3208728360886748,undef
+22360385128,45.785144,4.857179,142,code expliqu mre commitstripfr blendwebmix square squareformat iphoneography instagramapp uploadedbyinstagram,2015,10,28,17,20,0.4514141022961171,undef
+22556922531,45.785144,4.857179,142,super conf florian miafrye jourda comment scaler team technique blendwebmix square squareformat amaro iphoneography instagramapp uploadedbyinstagram,2015,10,28,15,27,0.4513370220078782,undef
+22354266188,45.785144,4.857179,142,commence quand lan blendwebmix square squareformat amaro iphoneography instagramapp uploadedbyinstagram,2015,10,28,12,10,0.4512026430982935,undef
+22353958219,45.785144,4.857179,142,lag irl bourre blendwebmix square squareformat rise iphoneography instagramapp uploadedbyinstagram,2015,10,28,11,1,0.4511555763736166,undef
+21917018874,45.785147,4.857238,142,information plus importante code wifi blendwebmix quand cest quon mange square gingham squareformat iphoneography instagramapp uploadedbyinstagram,2015,10,28,10,2,0.4511153309133856,undef
+24217979070,45.785121,4.857197,142,biduleofficiel va hais point go dont hate wwwmonsieurbidulenet art arte artist artwork bidule lecid corneille miami minimalist moon model monaco monacoart gay gayart gayartist lyon lyonart lyonlavillequivousp square squareformat iphoneography instagramapp uploadedbyinstagram,2016,1,20,21,51,0.5341089733005088,undef
+24355447516,45.785287,4.857308,142,lyon dsc sunset soleil lyon cit coucher tour ville immeuble internationale paix,2016,1,13,15,33,0.5269752949429606,undef
+27162355673,45.78516,4.857192,142,lumire jaune cest plus chaleureux yellow light warmer wwwmonsieurbidulenet art artist artwork artcontemporain contemporaryart artmiami miamiart artbasel artbaselmiami monaco mba monacoart artmonaco gay igers igersart infr square squareformat iphoneography instagramapp uploadedbyinstagram,2016,6,19,9,38,0.6819305487288125,undef
+31588991463,45.785161,4.857133,142, ,2017,1,19,9,48,0.8921414551588789,undef
+33469511566,45.785197,4.857299,142, ,2017,3,18,15,41,0.9493534464461844,undef
+33127007170,45.785197,4.857299,142, ,2017,3,18,15,41,0.9493534464461844,undef
+23975496468,45.785222,4.85715,142, ,2017,10,20,21,39,1.1617662570393952,undef
+37117722244,45.785213,4.857238,142, ,2017,10,20,21,37,1.161764892786506,undef
+37146918473,45.785166,4.857219,142, ,2017,10,20,21,27,1.16175807152206,undef
+37146498983,45.785194,4.857186,142, ,2017,10,20,20,57,1.1617376077287225,undef
+23963649458,45.785174,4.857244,142, ,2017,10,20,20,48,1.161731468590721,undef
+37815674831,45.78515,4.857208,142, ,2017,10,20,19,32,1.161679626980932,undef
+37766947996,45.785163,4.857227,142, ,2017,10,20,19,39,1.1616844018660442,undef
+23962678578,45.785163,4.857227,142, ,2017,10,20,19,40,1.1616850839924888,undef
+23741581408,45.785317,4.85733,142,cit internationale fujifilmxt lyon nuit night citinternationale,2017,10,8,22,31,1.150014582651956,undef
+23741576538,45.785317,4.85733,142,cit internationale fujifilmxt lyon nuit night citinternationale,2017,10,8,23,4,1.1500370928246275,undef
+37335028500,45.785317,4.85733,142,cit internationale depuis toit lamphithatre fujifilmxt lyon citinternationale nuit night,2017,10,8,23,14,1.1500439140890737,undef
+37704952705,45.785174,4.857222,142, ,2017,11,22,18,25,1.1940485731561792,undef
+37861011184,45.785202,4.857447,142, ,2017,11,22,9,48,1.193695913784325,undef
+31378667515,45.785075,4.857458,142, ,2016,12,2,17,37,0.8453127926111601,undef
+31378667615,45.785161,4.857361,142, ,2016,12,2,19,57,0.8454082903134031,undef
+30571316223,45.785136,4.857358,142, ,2016,12,2,19,57,0.8454082903134031,undef
+31009515080,45.785216,4.857133,142, ,2016,12,2,18,20,0.8453421240482776,undef
+30571314643,45.785183,4.857286,142, ,2016,12,2,19,4,0.8453721376118397,undef
+24215286327,45.785172,4.85738,142, ,2017,12,15,20,4,1.216708131519097,undef
+27298820669,45.785194,4.857438,142, ,2017,12,15,20,4,1.216708131519097,undef
+40074284845,45.785216,4.857438,142, ,2018,3,23,10,16,1.3125687250305682,undef
+40934798234,45.785155,4.857286,142, ,2018,4,23,13,59,1.343170963714321,undef
+42044824462,45.785191,4.857349,142, ,2018,4,25,12,11,1.3450618182187313,undef
+42044820632,45.78515,4.857191,142, ,2018,4,25,9,15,1.344941763964483,undef
+27214749027,45.785172,4.857225,142, ,2018,4,25,8,42,1.3449192537918115,undef
+27094948297,45.785247,4.85718,142, ,2018,4,25,12,11,1.3450618182187313,undef
+42044822422,45.785191,4.857349,142, ,2018,4,25,12,11,1.3450618182187313,undef
+42852205815,45.78504,4.857223,142,cit internationale lyon auvergnerhnealpes france claudelina france auvergnerhnealpes lyon renzopiano citinternationaledelyon,2018,5,25,16,17,1.3746974837304964,undef
+43640646962,45.785312,4.857194,142,cit internationale citinternationale france lyon paysage pentax pentaxk ii rhne sigma f cityscape landscape nightlights nightshot statue,2018,7,21,21,38,1.4309053848913618,undef
+43648813471,45.785105,4.857347,142,lucie city canon eos ef mmf lucie lucietibolla shooting portrait couleur color patman femme woman photocmobile lyon auvergnerhnealpes france fr,2018,6,15,18,56,1.3954334455196633,undef
+38531682556,45.785174,4.857222,142, ,2017,11,22,18,25,1.1940485731561792,undef
+37871673584,45.785174,4.857222,142, ,2017,11,22,18,25,1.1940485731561792,undef
+38555696902,45.785174,4.857222,142, ,2017,11,22,18,25,1.1940485731561792,undef
+38586921691,45.785174,4.857222,142, ,2017,11,22,18,25,1.1940485731561792,undef
+37869477194,45.785174,4.857222,142, ,2017,11,22,18,25,1.1940485731561792,undef
+37861010154,45.785202,4.857447,142, ,2017,11,22,9,48,1.193695913784325,undef
+32552784108,45.785072,4.85723,142,merushe business woman canon eos dmarkii ef mmf merushe shooting portrait couleur color patman femme woman patrickmanoux photocmobile lyon auvergnerhnealpes france fr,2018,9,30,11,52,1.5002462664899665,undef
+34004497278,45.785,4.857222,142, lyon holiday,2018,3,29,16,12,1.3187051345261225,undef
+32937530607,45.785,4.857222,142, lyon holiday,2018,3,29,16,13,1.318705816652567,undef
+46965511465,45.785,4.857222,142, lyon holiday,2018,3,29,16,12,1.3187051345261225,undef
+47829567032,45.785,4.857222,142, lyon holiday,2018,3,29,16,12,1.3187051345261225,undef

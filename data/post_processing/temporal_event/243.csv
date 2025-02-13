@@ -1,0 +1,53 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+7803630318,45.742044,4.815747,243, ,2012,8,17,18,27,240690420.0,undef,2012-08-17 18:27:00
+8658762576,45.742,4.815666,243,photo confluence villedelyon lyoncity quartierdelaconfuence,2013,3,23,15,8,259513680.0,undef,2013-03-23 15:08:00
+8657656119,45.742,4.815666,243,photo confluence villedelyon lyoncity quartierdelaconfuence,2013,3,23,15,8,259513680.0,undef,2013-03-23 15:08:00
+8658762132,45.742,4.815666,243,photo confluence villedelyon lyoncity quartierdelaconfuence,2013,3,23,15,8,259513680.0,undef,2013-03-23 15:08:00
+8658761926,45.742,4.815666,243,photo confluence villedelyon lyoncity quartierdelaconfuence,2013,3,23,15,8,259513680.0,undef,2013-03-23 15:08:00
+8657655429,45.742,4.815666,243,photo confluence villedelyon lyoncity quartierdelaconfuence,2013,3,23,15,8,259513680.0,undef,2013-03-23 15:08:00
+12678846055,45.742026,4.81568,243,passerelle confluence ,2014,2,11,12,29,287584140.0,undef,2014-02-11 12:29:00
+16399197052,45.742055,4.815711,243,confluence night france lyon rhne confluence rhnealpes,2015,1,25,18,43,317673780.0,undef,2015-01-25 18:43:00
+16212716350,45.742033,4.815747,243,maison confluence france lyon rhne confluence rhnealpes,2015,1,25,18,36,317673360.0,undef,2015-01-25 18:36:00
+42422700735,45.742133,4.815675,243, ,2018,7,5,13,43,426260580.0,undef,2018-07-05 13:43:00
+44013675050,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,16,56,437331360.0,undef,2018-11-10 16:56:00
+44013675190,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,16,56,437331360.0,undef,2018-11-10 16:56:00
+44013674900,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,16,57,437331420.0,undef,2018-11-10 16:57:00
+44013674720,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,16,57,437331420.0,undef,2018-11-10 16:57:00
+44013674480,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,16,58,437331480.0,undef,2018-11-10 16:58:00
+44013674300,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,16,58,437331480.0,undef,2018-11-10 16:58:00
+45830281591,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,16,59,437331540.0,undef,2018-11-10 16:59:00
+44013674030,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,16,58,437331480.0,undef,2018-11-10 16:58:00
+45781224832,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,17,2,437331720.0,undef,2018-11-10 17:02:00
+45830280901,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,16,59,437331540.0,undef,2018-11-10 16:59:00
+44013673130,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,17,0,437331600.0,undef,2018-11-10 17:00:00
+45830280251,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,17,1,437331660.0,undef,2018-11-10 17:01:00
+45830279591,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,17,3,437331780.0,undef,2018-11-10 17:03:00
+44013671720,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,17,3,437331780.0,undef,2018-11-10 17:03:00
+44013671140,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,17,4,437331840.0,undef,2018-11-10 17:04:00
+44013670670,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,17,4,437331840.0,undef,2018-11-10 17:04:00
+45781223372,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,17,5,437331900.0,undef,2018-11-10 17:05:00
+45781223062,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,17,6,437331960.0,undef,2018-11-10 17:06:00
+45781222672,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,17,7,437332020.0,undef,2018-11-10 17:07:00
+45105731934,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,17,7,437332020.0,undef,2018-11-10 17:07:00
+45105731554,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,17,8,437332080.0,undef,2018-11-10 17:08:00
+45105731274,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,17,8,437332080.0,undef,2018-11-10 17:08:00
+45830274511,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,17,9,437332140.0,undef,2018-11-10 17:09:00
+45830274221,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,17,9,437332140.0,undef,2018-11-10 17:09:00
+45830274001,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,17,9,437332140.0,undef,2018-11-10 17:09:00
+45830273781,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,17,10,437332200.0,undef,2018-11-10 17:10:00
+45105730204,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,17,13,437332380.0,undef,2018-11-10 17:13:00
+45830273611,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,17,13,437332380.0,undef,2018-11-10 17:13:00
+45830273121,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,17,13,437332380.0,undef,2018-11-10 17:13:00
+45830272791,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,17,14,437332440.0,undef,2018-11-10 17:14:00
+45105729854,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,17,14,437332440.0,undef,2018-11-10 17:14:00
+45105729254,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,17,15,437332500.0,undef,2018-11-10 17:15:00
+45105728374,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,17,15,437332500.0,undef,2018-11-10 17:15:00
+44013664970,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,16,57,437331420.0,undef,2018-11-10 16:57:00
+45830271781,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,17,15,437332500.0,undef,2018-11-10 17:15:00
+45781219832,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,17,5,437331900.0,undef,2018-11-10 17:05:00
+45830271551,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,17,0,437331600.0,undef,2018-11-10 17:00:00
+44013664390,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,17,14,437332440.0,undef,2018-11-10 17:14:00
+45830271221,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,17,8,437332080.0,undef,2018-11-10 17:08:00
+45830271081,45.741936,4.815648,243, one shot urban art session lyon confluence superposition graffiti street art streetart,2018,11,10,17,15,437332500.0,undef,2018-11-10 17:15:00
+48536507201,45.741919,4.815655,243,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,13,46,459697560.0,undef,2019-07-27 13:46:00
+48472859257,45.741919,4.815655,243,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,13,46,459697560.0,undef,2019-07-27 13:46:00

@@ -1,0 +1,67 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+7013534167,45.77707,4.854136,259,pommier fleuri france tree blossom blossom blumen rhne appel arbre baum apfel millery,2012,3,24,14,56,228063360.0,undef,2012-03-24 14:56:00
+6970378973,45.77707,4.854136,259,eglise dorlinas france church kirche rhne eglise,2012,3,10,15,40,226856400.0,undef,2012-03-10 15:40:00
+8382577798,45.777214,4.854143,259,parc tte dor pink france bird water swim zoo duck pond lyon flamingo pelican wading parcdelattedor,2012,12,10,10,18,250597080.0,undef,2012-12-10 10:18:00
+8381494225,45.777214,4.854143,259,parc tte dor france bird water zoo pond lyon flamingo pelican wading parcdelattedor,2012,12,10,10,17,250597020.0,undef,2012-12-10 10:17:00
+8382577124,45.777214,4.854143,259,parc tte dor france bird water zoo pond lyon flamingo wading parcdelattedor,2012,12,10,10,17,250597020.0,undef,2012-12-10 10:17:00
+8381493473,45.777214,4.854143,259,parc tte dor pink france bird water zoo pond lyon flamingo wading parcdelattedor,2012,12,10,10,17,250597020.0,undef,2012-12-10 10:17:00
+8382576112,45.777214,4.854143,259,parc tte dor france lyon parcdelattedor wading bird zoo pink flamingo pond water,2012,12,10,10,16,250596960.0,undef,2012-12-10 10:16:00
+8382575806,45.777214,4.854143,259,parc tte dor france bird water zoo pond lyon ibis wading parcdelattedor,2012,12,10,10,16,250596960.0,undef,2012-12-10 10:16:00
+8382575470,45.777214,4.854143,259,parc tte dor france bird zoo lyon crane wading demoisellecrane parcdelattedor,2012,12,10,10,15,250596900.0,undef,2012-12-10 10:15:00
+8381491977,45.777214,4.854143,259,parc tte dor france bird water zoo pond lyon flamingo pelican wading parcdelattedor,2012,12,10,10,15,250596900.0,undef,2012-12-10 10:15:00
+8381491563,45.777214,4.854143,259,parc tte dor france bird swim zoo duck pond lyon mallard parcdelattedor,2012,12,10,10,13,250596780.0,undef,2012-12-10 10:13:00
+8382574394,45.777214,4.854143,259,parc tte dor france bird water swim zoo duck pond lyon mallard parcdelattedor,2012,12,10,10,13,250596780.0,undef,2012-12-10 10:13:00
+8381491037,45.777214,4.854143,259,parc tte dor france bird zoo duck lyon parcdelattedor,2012,12,10,10,13,250596780.0,undef,2012-12-10 10:13:00
+9173452293,45.777138,4.854004,259,parc tte dor lyon lyon dor parc tte parcdelattedor,2013,6,30,8,39,268043940.0,undef,2013-06-30 08:39:00
+12134316223,45.777033,4.85415,259,exportdsc jpg france lyon animaux parc oiseau rhnealpes,2013,11,11,16,30,279649800.0,undef,2013-11-11 16:30:00
+14593903562,45.777116,4.854111,259,lyon parc tte dor france lyon aves rhne mm oiseaux oie anatidae anseriformes alopochen rhnealpes parcdelattedor alopochenaegyptiaca tadorninae oiedegypte canoneos,2014,6,29,10,34,299500440.0,undef,2014-06-29 10:34:00
+14407936980,45.777116,4.854111,259,lyon parc tte dor france lyon aves rhne greaterflamingo phoenicopterusroseus mm oiseaux phoenicopteridae phoenicopterus rhnealpes parcdelattedor flamantrose canoneos phoenicoptriformes,2014,6,29,10,34,299500440.0,undef,2014-06-29 10:34:00
+20822549418,45.777055,4.854088,259,parc tte dor lyon lyon ibis parcdelattedor,2015,8,29,9,35,336303300.0,undef,2015-08-29 09:35:00
+26916958271,45.776947,4.854094,259, france lyon parcdelattedor auvergnerhnealpes sortiephotodu,2016,5,7,12,47,358087620.0,undef,2016-05-07 12:47:00
+26380042074,45.777077,4.854055,259, france lyon parcdelattedor auvergnerhnealpes sortiephotodu,2016,5,7,12,55,358088100.0,undef,2016-05-07 12:55:00
+27554517741,45.776991,4.854041,259,parc tte dor lyon lyon vari parcdelattedor lmurien varinoiretblanc,2016,6,12,16,12,361210320.0,undef,2016-06-12 16:12:00
+34343960246,45.777138,4.854004,259,flamants rose flamantrose parcdelattedor lyon,2017,4,29,7,29,388913340.0,undef,2017-04-29 07:29:00
+35374765762,45.776988,4.854022,259,plican blanc lyon auvergnerhnealpes france fr rhne parc tte dor soleil animaux zoo plican blanc,2017,6,2,16,12,391882320.0,undef,2017-06-02 16:12:00
+34725907663,45.776955,4.85418,259,canard colvert lyon auvergnerhnealpes france fr rhne parc tte dor soleil animaux zoo canard canard colvert,2017,6,7,15,6,392310360.0,undef,2017-06-07 15:06:00
+35367229272,45.777197,4.85408,259,canard colvert lyon auvergnerhnealpes france fr rhne parc tte dor soleil animaux zoo canard canard colvert,2017,6,2,15,43,391880580.0,undef,2017-06-02 15:43:00
+35403907161,45.777197,4.85408,259,canard colvert lyon auvergnerhnealpes france fr rhne parc tte dor soleil animaux zoo canard canard colvert,2017,6,2,15,43,391880580.0,undef,2017-06-02 15:43:00
+35367323476,45.777221,4.854089,259,zoo lyon lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes parcdelattedor ttedorpark avenuedegrandebretagne boulevarddesbelges lyonzoo jardinzoologiquedelyon zooduparcdelattedor eaza claudemariusvasse tree tree alledelavolire,2017,6,4,15,3,392050980.0,undef,2017-06-04 15:03:00
+39475976832,45.777046,4.854025,259,fulvous whistling duck parc tte dor lyon france january lyon france ttedor parc zoo pond fulvous whistling duck duck dendrocygnabicolor dendrocygne,2018,1,2,9,58,410349480.0,undef,2018-01-02 09:58:00
+41194633701,45.777049,4.85409,259,arc animal lyon france,2018,4,1,16,31,418062660.0,undef,2018-04-01 16:31:00
+26321471177,45.777049,4.85409,259,bac dambiance lyon france,2018,4,1,16,32,418062720.0,undef,2018-04-01 16:32:00
+26321461507,45.777049,4.85409,259,balade couple coin coin lyon france parcdelattedor animal oiseau bird canard duck water eau nature,2018,4,1,16,9,418061340.0,undef,2018-04-01 16:09:00
+40480764004,45.777049,4.85409,259,battement deau lyon france parcdelattedor animal oiseau bird canard duck water eau nature,2018,4,1,15,43,418059780.0,undef,2018-04-01 15:43:00
+40298475125,45.777049,4.85409,259,beau cadre lyon france,2018,4,1,16,11,418061460.0,undef,2018-04-01 16:11:00
+40298471825,45.777049,4.85409,259,beau geste lyon france parcdelattedor animal oiseau bird canard duck water eau nature,2018,4,1,16,10,418061400.0,undef,2018-04-01 16:10:00
+39383923710,45.777049,4.85409,259,bel oiseau lyon france,2018,4,1,16,33,418062780.0,undef,2018-04-01 16:33:00
+40298446075,45.777049,4.85409,259,canard dchain lyon france parcdelattedor animal oiseau bird canard duck water eau nature,2018,4,1,16,10,418061400.0,undef,2018-04-01 16:10:00
+26321424157,45.777049,4.85409,259,coin arroseur lyon france parcdelattedor animal oiseau bird canard duck water eau nature,2018,4,1,16,10,418061400.0,undef,2018-04-01 16:10:00
+26321418667,45.777049,4.85409,259,coin coin lyon france parcdelattedor animal oiseau bird canard duck water eau nature,2018,4,1,16,46,418063560.0,undef,2018-04-01 16:46:00
+26321414777,45.777049,4.85409,259,coin coin lyon france parcdelattedor animal oiseau bird canard duck water eau nature,2018,4,1,15,38,418059480.0,undef,2018-04-01 15:38:00
+26321411477,45.777049,4.85409,259,coin propulseur lyon france parcdelattedor animal oiseau bird canard duck water eau nature,2018,4,1,16,12,418061520.0,undef,2018-04-01 16:12:00
+41194501101,45.777049,4.85409,259,danse canard lyon france parcdelattedor animal oiseau bird canard duck water eau nature,2018,4,1,16,11,418061460.0,undef,2018-04-01 16:11:00
+41194464271,45.777049,4.85409,259,envers dcor lyon france,2018,4,1,16,31,418062660.0,undef,2018-04-01 16:31:00
+40298357455,45.777049,4.85409,259,flamme rose lyon france,2018,4,1,16,8,418061280.0,undef,2018-04-01 16:08:00
+40298348445,45.777049,4.85409,259,gouttes scintillent lyon france parcdelattedor eau water mousse plant plante,2018,4,1,16,10,418061400.0,undef,2018-04-01 16:10:00
+27320134358,45.777049,4.85409,259,grosse tte bw lyon france parcdelattedor nature animal tortue turtle water eau,2018,4,1,15,45,418059900.0,undef,2018-04-01 15:45:00
+27320105108,45.777049,4.85409,259,famille sombre lyon france flamantrose flamingo reflet reflection eau water parcdelattedor,2018,4,1,16,32,418062720.0,undef,2018-04-01 16:32:00
+26321294597,45.777049,4.85409,259,ligne animales lyon france parcdelattedor flamantrose flamingo reflet reflection eau water pelouse herbe grass plant plante nature oiseau bird monochrome,2018,4,1,16,33,418062780.0,undef,2018-04-01 16:33:00
+26321292077,45.777049,4.85409,259,long bec lyon france flamingo nature reflet reflection bird water parcdelattedor,2018,4,1,16,11,418061460.0,undef,2018-04-01 16:11:00
+40480567574,45.777049,4.85409,259,majestic coin lyon france parcdelattedor animal oiseau bird canard duck water eau nature macro,2018,4,1,16,11,418061460.0,undef,2018-04-01 16:11:00
+41149360682,45.777049,4.85409,259,balade lyon france parcdelattedor animal oiseau bird canard duck water eau nature macro,2018,4,1,15,43,418059780.0,undef,2018-04-01 15:43:00
+41149357862,45.777049,4.85409,259,casse lyon france parcdelattedor animal oiseau bird canard duck water eau nature macro,2018,4,1,15,43,418059780.0,undef,2018-04-01 15:43:00
+39383688820,45.777049,4.85409,259,gratte lyon france parcdelattedor animal oiseau bird canard duck water eau nature,2018,4,1,15,43,418059780.0,undef,2018-04-01 15:43:00
+40480551114,45.777049,4.85409,259,pieute lyon france macro parcdelattedor nature,2018,4,1,16,8,418061280.0,undef,2018-04-01 16:08:00
+40480544714,45.777049,4.85409,259,mbroue lyon france parcdelattedor animal oiseau bird canard duck water eau nature macro,2018,4,1,15,43,418059780.0,undef,2018-04-01 15:43:00
+41149335802,45.777049,4.85409,259,micro gouttes lyon france water tree goutte,2018,4,1,16,10,418061400.0,undef,2018-04-01 16:10:00
+41149323942,45.777049,4.85409,259,potes lyon france flamantrose flamingo eau water monochrome animal oiseau bird parcdelattedor,2018,4,1,16,9,418061340.0,undef,2018-04-01 16:09:00
+40298168935,45.777049,4.85409,259,noir blanc dodo lyon france nature parcdelattedor feuille foliage,2018,4,1,16,10,418061400.0,undef,2018-04-01 16:10:00
+41194176071,45.777049,4.85409,259,plafond deau lyon france flamantsroses flamingo bird oiseau eau water reflet reflection nature animal sundaylights,2018,4,1,16,33,418062780.0,undef,2018-04-01 16:33:00
+41149226122,45.777049,4.85409,259,plus tte coin lyon france parcdelattedor animal oiseau bird canard duck water eau nature sundaylights,2018,4,1,16,12,418061520.0,undef,2018-04-01 16:12:00
+41149217812,45.777049,4.85409,259,porte serviette lyon france parcdelattedor animal oiseau bird canard duck water eau nature macro,2018,4,1,16,11,418061460.0,undef,2018-04-01 16:11:00
+39383473030,45.777049,4.85409,259,rose vraiment lyon france flamantrose flamingo water reflet reflection couleur color nature animal bird,2018,4,1,16,33,418062780.0,undef,2018-04-01 16:33:00
+40480357264,45.777049,4.85409,259,tauras tte lyon france parcdelattedor animal oiseau bird canard duck water eau nature macro,2018,4,1,15,44,418059840.0,undef,2018-04-01 15:44:00
+26320956167,45.777049,4.85409,259,aile biais lyon france parcdelattedor animal oiseau bird canard duck water eau nature gouttes monochrome,2018,4,1,15,43,418059780.0,undef,2018-04-01 15:43:00
+41149033842,45.777049,4.85409,259,inquitant lyon france water bird reflet reflection monochrome,2018,4,1,16,31,418062660.0,undef,2018-04-01 16:31:00
+32719708587,45.777049,4.85409,259,ambiance poissoneuse lyon france monochrome poisson fish eau water,2019,4,20,12,3,451224180.0,undef,2019-04-20 12:03:00
+32719682057,45.777049,4.85409,259,coin dodo lyon france canard oiseau bird nature animal herbe plant,2019,4,20,11,31,451222260.0,undef,2019-04-20 11:31:00

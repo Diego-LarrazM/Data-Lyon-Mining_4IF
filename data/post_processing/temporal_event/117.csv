@@ -1,0 +1,62 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4551978501,45.760468,4.85998,117,train nuit train lyon part nuit dieu sncf sanggi,2010,4,23,22,26,-1.5266529965611808,undef
+5148878934,45.760442,4.860098,117,waiting platform square squareformat iphoneography instagramapp uploadedbyinstagram,2010,11,5,16,23,-1.3343772407387846,undef
+5148212237,45.760442,4.860098,117,back homegna square squareformat iphoneography instagramapp uploadedbyinstagram,2010,11,5,15,54,-1.3343970224056778,undef
+5447604538,45.760442,4.860098,117,leaving lyon partdieu station square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue,2011,2,15,8,37,-1.2345043794802206,undef
+5275283524,45.760599,4.860007,117,voyageuse lyon gare enfant lightroom aat rampe partdieu caxup cr,2010,12,18,18,38,-1.292047884219598,undef
+5273843871,45.760599,4.860007,117,revoir train lyon gare soir flou lightroom aat partdieu caxup cr,2010,12,18,18,18,-1.2920615267484898,undef
+5557527933,45.760442,4.860098,117, square squareformat lomofi iphoneography instagramapp uploadedbyinstagram foursquarevenue,2011,3,25,8,3,-1.197201612731236,undef
+5626253617,45.760442,4.860098,117,half world away square squareformat hefe iphoneography instagramapp uploadedbyinstagram foursquarevenue,2011,4,17,8,37,-1.1745863925872166,undef
+5626186703,45.760442,4.860098,117, square squareformat lomofi iphoneography instagramapp uploadedbyinstagram foursquarevenue,2011,4,17,7,57,-1.1746136776450002,undef
+5936565202,45.760487,4.860098,117,correspondance lyon part dieu direction culoz maintenant square squareformat earlybird iphoneography instagramapp uploadedbyinstagram foursquarevenue b cef f e,2011,7,14,11,7,-1.0880450105617678,undef
+6031933620,45.760487,4.860098,117,gare sncf lyon partdieu square squareformat lomofi iphoneography instagramapp uploadedbyinstagram foursquarevenue b cef f e,2011,8,11,18,11,-1.0602524507032918,undef
+6031374661,45.760487,4.860098,117,gare sncf lyon partdieu square squareformat lomofi iphoneography instagramapp uploadedbyinstagram foursquarevenue b cef f e,2011,8,11,18,9,-1.0602538149561809,undef
+6126473043,45.760487,4.860098,117,boite schtroumpfs ipad spotify maina quipe voyage uu square squareformat walden iphoneography instagramapp uploadedbyinstagram foursquarevenue b cef f e,2011,9,8,14,9,-1.032914187056914,undef
+6126460999,45.760487,4.860098,117, square squareformat brannan iphoneography instagramapp uploadedbyinstagram foursquarevenue b cef f e,2011,9,8,14,2,-1.0329189619420265,undef
+6126437445,45.760487,4.860098,117,attente train square squareformat brannan iphoneography instagramapp uploadedbyinstagram foursquarevenue b cef f e,2011,9,8,13,48,-1.0329285117122504,undef
+6825480333,45.76045,4.860152,117,portable endormi france sign train portable phone cellular rail sncf,2012,2,5,13,6,-0.8856178489909464,undef
+6984152973,45.760487,4.860098,117, square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue b cef f e,2012,3,15,9,20,-0.8474637884391104,undef
+7048766009,45.760487,4.860098,117, square squareformat sutro iphoneography instagramapp uploadedbyinstagram foursquarevenue b cef f e,2012,4,5,22,24,-0.8263014976220731,undef
+7048742273,45.760487,4.860098,117,last train square squareformat hudson iphoneography instagramapp uploadedbyinstagram foursquarevenue b cef f e,2012,4,5,22,14,-0.826308318886519,undef
+7220794692,45.760487,4.860098,117,meximieux perouge square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue b cef f e,2012,5,18,20,14,-0.7841529046107034,undef
+6992938938,45.760487,4.860098,117,cest parti train square squareformat hudson iphoneography instagramapp uploadedbyinstagram foursquarevenue b cef f e,2012,5,3,17,0,-0.799019168344152,undef
+7888321506,45.760487,4.860098,117,love put full size formula car window like schumacher ferrari kind nice mean see everyday right adamjakovina lyon france square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue b cef f e,2012,8,29,9,41,-0.683411696388173,undef
+8033616218,45.760487,4.860098,117,temmne vent square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue b cef f e,2012,9,28,21,42,-0.6534520208152265,undef
+8125755033,45.760487,4.860098,117,upload square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue b cef f e,2012,10,26,20,44,-0.6259882459030438,undef
+8079067969,45.760487,4.860098,117, square squareformat sutro iphoneography instagramapp uploadedbyinstagram foursquarevenue b cef f e,2012,10,12,7,48,-0.640269245147032,undef
+6441369563,45.760487,4.860098,117, square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue b cef f e,2011,12,2,14,17,-0.9494164532272372,undef
+8360553227,45.760487,4.860098,117,upload square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue b cef f e,2013,1,8,15,7,-0.5535307285790961,undef
+8291772498,45.760487,4.860098,117,dirtbrown arrives lyon ,2012,6,8,12,16,-0.7638514573667419,undef
+8528811174,45.760487,4.860098,117,orientexpress compagnie internationale wagonslits grand express europens orientexpress train patrimoine ferroviaire france lyon square squareformat sutro iphoneography instagramapp uploadedbyinstagram foursquarevenue b cef f e,2013,3,4,8,50,-0.4997634758369826,undef
+8518609896,45.760487,4.860098,117,lyon fr instagramapp square squareformat iphoneography uploadedbyinstagram foursquarevenue b cef f e,2013,3,1,12,53,-0.5025445053515862,undef
+8517495749,45.760487,4.860098,117,lyon fr square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue b cef f e,2013,3,1,12,53,-0.5025445053515862,undef
+9145520504,45.760487,4.860098,117,train station garesncfdelyonpartdieu flickrandroidappfiltermammoth,2013,6,26,19,22,-0.3873544947796977,undef
+9014350669,45.7605,4.859999,117,sada ali renato amisy fete consulaires lyon brasilfr,2013,6,5,23,34,-0.4078101026001372,undef
+9014350689,45.7605,4.859999,117,sada ali renato amisy fete consulaires lyon brasilfr,2013,6,5,23,34,-0.4078101026001372,undef
+9323893599,45.760487,4.860098,117,cool way travel square squareformat amaro iphoneography instagramapp uploadedbyinstagram foursquarevenue b cef f e,2013,7,20,9,31,-0.3641833415833356,undef
+9970861765,45.760487,4.860098,117,eric going back paris eric repart paris square squareformat amaro iphoneography instagramapp uploadedbyinstagram foursquarevenue b cef f e,2013,9,27,12,57,-0.2962667400010402,undef
+10136222033,45.760487,4.860098,117,voie k celle ny rien square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue b cef f e,2013,10,7,13,37,-0.2864168341411247,undef
+10964404113,45.760487,4.860098,117,tente donjon doctorwhothemovie square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue b cef f e,2013,11,20,18,0,-0.2430179033568169,undef
+10921517536,45.760487,4.860098,117,forme docteur ctait an dimensionsintime doctorwhoclassic square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue b cef f e,2013,11,18,8,51,-0.2453569149353246,undef
+10815517774,45.760487,4.860098,117,chevalier blaster cv bestiole bizarre bref cest doctorwhoclassic battlefield square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue b cef f e,2013,11,12,9,11,-0.2512368448877118,undef
+12345375233,45.760487,4.860098,117,upload valencia square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue b cef f e,2014,2,6,7,39,-0.1668250616222809,undef
+13163897563,45.760487,4.860098,117,jour square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue b cef f e,2014,3,15,11,11,-0.1303367538481396,undef
+14213707493,45.760487,4.860098,117,restauration restaurant manger resto ttette,2013,11,26,11,25,-0.2373937708211519,undef
+14213703383,45.760487,4.860098,117,restauration restaurant manger resto ttette,2013,11,26,12,4,-0.2373671678898128,undef
+14006898079,45.760487,4.860098,117,restauration restaurant manger resto ttette,2013,11,26,11,22,-0.2373958172004857,undef
+14562747222,45.760487,4.860098,117,marche prsentation tgv ouigo,2013,2,19,16,35,-0.5122156940830185,undef
+14563588075,45.760487,4.860098,117,rame tgv ouigo,2013,4,22,11,38,-0.4515180366638453,undef
+15913661904,45.760487,4.860098,117,lyon partdieu night train lyon railway sncf rx,2015,1,25,3,13,0.1797320070587098,undef
+16361208542,45.760487,4.860098,117,encore nuit blackandwhite night train railway nuit sncf cabview traindenuit sonyrx,2015,1,25,3,13,0.1797320070587098,undef
+15932448377,45.760487,4.860098,117,lyon partdieu seul monde h matin nikon lyon gare railway nuit sncf lyonpartdieu nikkor mm g,2014,12,27,5,28,0.1513384938025476,undef
+16836447542,45.760487,4.860098,117, ,2015,2,24,9,34,0.2094597596404949,undef
+22454178402,45.760618,4.860066,117,lyon partdieu lyon gare part dieu sncf,2015,9,25,13,33,0.4188446109461597,undef
+28193435542,45.760487,4.860098,117, ,2016,7,12,11,56,0.7046167100230695,undef
+31708379846,45.76055,4.860109,117,electromp supermimil,2016,12,9,18,8,0.8522097730924347,undef
+31372928450,45.76055,4.860109,117,elecfun pachiredm lyon cube fdl elephant rouge led animal sculpture pachiredm supermimil,2016,12,9,18,9,0.8522104552188794,undef
+34646031814,45.760623,4.860129,117,dpart alpes sncf ter z lyonpartdieu,2017,5,18,8,50,1.0089910793704608,undef
+37849338026,45.760519,4.860072,117,good light bonne lumire french closeup genderfluid,2016,9,10,21,30,0.7639439754150563,undef
+31176808530,45.76055,4.860109,117,avantdernier jour sncf intercits rtg,2016,12,10,4,40,0.8526408770054172,undef
+28035377858,45.76051,4.86003,117,lyria wawrinka sncf lyria tgvpos lyonpartdieu stanislaswawrinka genve marseille,2018,2,24,10,31,1.2860578807614813,undef
+42822916380,45.760405,4.860098,117,bonjour lyon ,2017,8,26,10,27,1.1072834536569045,undef
+48472354816,45.760536,4.860175,117,sncf gare lyon partdieu lyon france sncf ter transportexpressrgional auvergnerhnealpes tgv trainstation eurostar intercits deutschebahn rollingstock,2019,6,18,9,1,1.7565000258035808,undef

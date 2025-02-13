@@ -1,0 +1,59 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken,year_month
+4241114660,45.769,4.832333,95,red sheep light red urban art sheep graph redlight,2009,12,8,18,28,155759280.0,Site d'Intérêt,2009-12-08 18:28:00,2009-12
+4231550158,45.769,4.832333,95,mouton rouge ,2009,12,8,18,28,155759280.0,Site d'Intérêt,2009-12-08 18:28:00,2009-12
+4540240953,45.768718,4.832417,95,poladroid vespa lyon xrousse poladroid,2010,4,21,16,12,167328720.0,Site d'Intérêt,2010-04-21 16:12:00,2010-04
+4754028387,45.768963,4.832385,95,pasted paper lyon france streetart france pasteup collage paper europe lyon wheatpaste pasted affichage sten lex croixrousse wheatpaper perffusion,2010,5,26,15,47,170351220.0,Site d'Intérêt,2010-05-26 15:47:00,2010-05
+5377182725,45.768952,4.832375,95,lawless blossom caf capucins lyon music concert lyon live lawlessblossom cafdescapucins,2011,1,22,0,41,191119260.0,Site d'Intérêt,2011-01-22 00:41:00,2011-01
+5377782352,45.768922,4.832353,95,lawless blossom caf capucins lyon music concert lyon live lawlessblossom cafdescapucins,2011,1,22,0,40,191119200.0,Site d'Intérêt,2011-01-22 00:40:00,2011-01
+5377182085,45.768791,4.832415,95,lawless blossom caf capucins lyon music concert lyon live lawlessblossom cafdescapucins,2011,1,22,0,38,191119080.0,Site d'Intérêt,2011-01-22 00:38:00,2011-01
+5364880253,45.76881,4.832385,95,nineineightyeight ,2010,10,9,18,26,182111160.0,Site d'Intérêt,2010-10-09 18:26:00,2010-10
+5494042889,45.76875,4.832487,95,pentes street party people france street youth night light evening oak lyon young daisy daisyoak,2011,3,3,15,44,194629440.0,Site d'Intérêt,2011-03-03 15:44:00,2011-03
+5794891224,45.768705,4.83246,95,solenne lyon portrait france nikon lyon,2011,6,3,17,42,202585320.0,Site d'Intérêt,2011-06-03 17:42:00,2011-06
+6404651683,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,5,24,217747440.0,Site d'Intérêt,2011-11-26 05:24:00,2011-11
+6404650435,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,5,21,217747260.0,Site d'Intérêt,2011-11-26 05:21:00,2011-11
+6404649517,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,5,20,217747200.0,Site d'Intérêt,2011-11-26 05:20:00,2011-11
+6404648479,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,5,20,217747200.0,Site d'Intérêt,2011-11-26 05:20:00,2011-11
+6404647509,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,5,18,217747080.0,Site d'Intérêt,2011-11-26 05:18:00,2011-11
+6404646691,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,5,18,217747080.0,Site d'Intérêt,2011-11-26 05:18:00,2011-11
+6404645675,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,5,18,217747080.0,Site d'Intérêt,2011-11-26 05:18:00,2011-11
+6404644741,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,5,14,217746840.0,Site d'Intérêt,2011-11-26 05:14:00,2011-11
+6404643747,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,5,11,217746660.0,Site d'Intérêt,2011-11-26 05:11:00,2011-11
+6404642781,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,5,11,217746660.0,Site d'Intérêt,2011-11-26 05:11:00,2011-11
+6404642117,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,5,10,217746600.0,Site d'Intérêt,2011-11-26 05:10:00,2011-11
+6404641027,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,5,10,217746600.0,Site d'Intérêt,2011-11-26 05:10:00,2011-11
+6404640217,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,5,10,217746600.0,Site d'Intérêt,2011-11-26 05:10:00,2011-11
+6404639401,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,5,9,217746540.0,Site d'Intérêt,2011-11-26 05:09:00,2011-11
+6404638385,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,5,9,217746540.0,Site d'Intérêt,2011-11-26 05:09:00,2011-11
+6404636985,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,5,9,217746540.0,Site d'Intérêt,2011-11-26 05:09:00,2011-11
+6404635493,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,5,8,217746480.0,Site d'Intérêt,2011-11-26 05:08:00,2011-11
+6404634721,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,5,2,217746120.0,Site d'Intérêt,2011-11-26 05:02:00,2011-11
+6404633857,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,5,2,217746120.0,Site d'Intérêt,2011-11-26 05:02:00,2011-11
+6404632827,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,5,1,217746060.0,Site d'Intérêt,2011-11-26 05:01:00,2011-11
+6404631667,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,5,1,217746060.0,Site d'Intérêt,2011-11-26 05:01:00,2011-11
+6404630397,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,5,1,217746060.0,Site d'Intérêt,2011-11-26 05:01:00,2011-11
+6404629593,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,4,59,217745940.0,Site d'Intérêt,2011-11-26 04:59:00,2011-11
+6404628467,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,4,58,217745880.0,Site d'Intérêt,2011-11-26 04:58:00,2011-11
+6404627629,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,4,57,217745820.0,Site d'Intérêt,2011-11-26 04:57:00,2011-11
+6404626995,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,4,56,217745760.0,Site d'Intérêt,2011-11-26 04:56:00,2011-11
+6404626205,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,4,55,217745700.0,Site d'Intérêt,2011-11-26 04:55:00,2011-11
+6404625481,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,4,50,217745400.0,Site d'Intérêt,2011-11-26 04:50:00,2011-11
+6404624221,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,4,49,217745340.0,Site d'Intérêt,2011-11-26 04:49:00,2011-11
+6404623223,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,4,49,217745340.0,Site d'Intérêt,2011-11-26 04:49:00,2011-11
+6404621951,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,4,48,217745280.0,Site d'Intérêt,2011-11-26 04:48:00,2011-11
+6404620945,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,4,47,217745220.0,Site d'Intérêt,2011-11-26 04:47:00,2011-11
+6404619971,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,4,47,217745220.0,Site d'Intérêt,2011-11-26 04:47:00,2011-11
+6404619243,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,4,47,217745220.0,Site d'Intérêt,2011-11-26 04:47:00,2011-11
+6404618295,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,4,32,217744320.0,Site d'Intérêt,2011-11-26 04:32:00,2011-11
+6404616715,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,4,30,217744200.0,Site d'Intérêt,2011-11-26 04:30:00,2011-11
+6404615607,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,4,28,217744080.0,Site d'Intérêt,2011-11-26 04:28:00,2011-11
+6404614345,45.768929,4.832413,95,concert jack ruby capucins ,2011,11,26,4,27,217744020.0,Site d'Intérêt,2011-11-26 04:27:00,2011-11
+7095542233,45.768833,4.832333,95, ,2012,4,19,10,9,230292540.0,Site d'Intérêt,2012-04-19 10:09:00,2012-04
+8063159462,45.76884,4.832385,95,place bourse molle atelier yeah lyon france streetart france pasteup collage paper europe place yeah lyon wheatpaste pasted atelier croixrousse bourse molle capucins wheatpaper,2012,9,7,2,7,242446020.0,Site d'Intérêt,2012-09-07 02:07:00,2012-09
+11649742103,45.768929,4.832413,95,tour ville vie vie lyonnais ,2013,12,30,15,42,283880520.0,Site d'Intérêt,2013-12-30 15:42:00,2013-12
+15105341537,45.768992,4.832327,95,upload square squareformat iphoneography instagramapp xproii uploadedbyinstagram,2014,9,20,0,27,306635220.0,Site d'Intérêt,2014-09-20 00:27:00,2014-09
+16344447097,45.768765,4.832503,95, streetart france wall graffiti europe lyon drawing graff mur croixrousse,2015,2,11,17,2,319136520.0,Site d'Intérêt,2015-02-11 17:02:00,2015-02
+21964368222,45.768863,4.832466,95,fentre lambrequin window architecture lyon fenster fentre lambrequin,2015,10,5,14,33,339517980.0,Site d'Intérêt,2015-10-05 14:33:00,2015-10
+21355304063,45.768733,4.832366,95,rose saumon lyon fentre ocre,2015,10,5,14,33,339517980.0,Site d'Intérêt,2015-10-05 14:33:00,2015-10
+32426893146,45.76881,4.83245,95,street installation intra larue lyon france europe france lyon croixrousse streetart wall installation intra larue intralarue,2017,1,19,16,46,380306760.0,Site d'Intérêt,2017-01-19 16:46:00,2017-01
+41384947342,45.76887,4.832471,95, dnya pangea bardescapucins lugdunum lyon croixrousse xrousse terreaux rocknrollstars rocknroll rock fusion hardcore music musica musiques muzik live livemusic livebands,2018,4,13,11,58,419083080.0,Site d'Intérêt,2018-04-13 11:58:00,2018-04
+49142016856,45.768804,4.832503,95, film france fuji lyon provia rhone rolleiflex zeissplanar mm croixrousse benne chantier goulotte evacuation tuiles toit refection echaffaudage,2019,11,29,16,12,470506320.0,Site d'Intérêt,2019-11-29 16:12:00,2019-11

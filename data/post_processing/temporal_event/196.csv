@@ -1,0 +1,105 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+7021814885,45.763298,4.850876,196,lyon tour incity building tower lafayette tour lyon garibaldi incity dmolition,2011,12,19,13,24,-0.9327541505651764,undef
+6860470578,45.76326,4.850855,196,lyon tour incity building tower lafayette tour lyon garibaldi incity dmolition,2011,11,24,13,36,-0.9573025170531708,undef
+7003716519,45.763346,4.850898,196,lyon tour incity building tower lafayette tour lyon garibaldi incity dmolition,2011,11,21,13,34,-0.9602506675466996,undef
+6857771540,45.763271,4.850834,196,lyon tour incity building tower lafayette tour lyon garibaldi incity dmolition,2011,11,23,13,21,-0.9582950110300528,undef
+7003821553,45.763357,4.850973,196,lyon tour incity building tower lafayette tour lyon garibaldi incity dmolition,2011,11,22,13,19,-0.9592786373631552,undef
+6820093644,45.763455,4.850962,196,lyon tour incity building tower lafayette tour lyon incity dmolition garibali,2011,11,8,12,57,-0.9730453132679208,undef
+14319318992,45.763481,4.850957,196,tour incity construction lyon blackandwhite noiretblanc incity,2014,6,1,9,20,-0.0537960276268614,undef
+14610329558,45.763456,4.850848,196,lumire tour lyon tourincity,2014,6,30,19,20,-0.0249011514339237,undef
+15011964570,45.763309,4.850914,196, tourincity,2014,9,10,12,34,0.0455447750049206,undef
+15011746489,45.763309,4.850914,196, tourincity,2014,9,10,12,33,0.045544092878476,undef
+15195243261,45.763339,4.850817,196,lyon partdieu tour incity cours lafayette july juillet,2014,7,30,16,37,0.004455524362003,undef
+15198250175,45.763339,4.850817,196,lyon partdieu tour incity cours lafayette july juillet,2014,7,30,16,35,0.0044541601091138,undef
+15763724636,45.763481,4.850957,196,tour incity lyon lyon,2014,11,14,12,28,0.1093877174601097,undef
+15602578050,45.763481,4.850957,196,tour incity lyon lyon,2014,11,14,12,29,0.1093883995865543,undef
+16057587741,45.763456,4.850848,196,brume tour lyon partdieu brume incity,2014,12,19,10,23,0.1436816244619969,undef
+15981729316,45.763456,4.850848,196,tour slve dessus toits lyon incity night nuit tour,2014,12,12,19,37,0.1371836879508089,undef
+16537491793,45.763421,4.850882,196,lyon construction tour incity nikoncoolpixp lyon architecture tour incity construction noiretblanc blackandwhite nb bw bnw tower monochrome grue,2015,4,14,17,53,0.2579309826667924,undef
+18905031589,45.763481,4.850957,196,tour incity lyon blackandwhite tour lyon noiretblanc tourincity,2015,6,23,16,12,0.3266204335108111,undef
+18233670638,45.763518,4.850935,196,partdieu lyon partdieu,2015,6,3,16,16,0.3069779204123258,undef
+23323618073,45.763436,4.850914,196,tour incity lyon france france building tower modern skyscraper tour lyon incity skyscraperineurope tourincity,2015,12,7,14,9,0.4905742993537271,undef
+26071653251,45.763424,4.850912,196,fte lumires lyon lumires ftedeslumires,2014,12,20,14,35,0.1448357824062474,undef
+27579949145,45.763481,4.850957,196,tour incity nuages blackandwhite building cloud tour lyon noiretblanc nuages immeuble incity,2016,6,10,8,54,0.6730601764433319,undef
+30746365380,45.763339,4.850817,196,lyon tour incity cours lafayette ,2016,11,16,22,32,0.8297978266289041,undef
+30306974033,45.763339,4.850817,196,lyon tour incity cours lafayette ,2016,11,16,22,34,0.8297991908817932,undef
+33053029586,45.763381,4.8508,196,variation tour incity fetedeslumieres lyon,2014,12,7,18,48,0.132238953353958,undef
+32571070610,45.763421,4.850882,196,lyon crayon cach tour incity nikoncoolpixp lyon incity tour tower city view vue building,2017,2,12,16,12,0.9159776816387188,undef
+32213322290,45.763421,4.850882,196,lyon tour nikoncoolpixp lyon tour tower incity immeuble building,2017,1,29,15,27,0.9021953168257276,undef
+31012537833,45.763421,4.850882,196,lyon night nikoncoolpixp lyon nuit night lumire light building incity tour tower,2016,12,9,19,51,0.8522800321162278,undef
+30981119454,45.763421,4.850882,196,lyon night nikoncoolpixp lyon nuit night lumire light building incity,2016,12,9,17,41,0.8521913556784307,undef
+33314936360,45.763421,4.850882,196,lyon tour incity quand nuages passent travers tour fujifilmxt lyon tour tower building incity miroir reflet reflection nuage cloud glass architecture,2017,3,26,14,56,0.9571808473978832,undef
+33974773800,45.763421,4.850882,196,tour incity fujifilmxt lyon tour tower building incity nuit night,2017,4,29,21,5,0.990829462783186,undef
+34228389501,45.763421,4.850882,196,tour incity fujifilmxt lyon tour tower incity,2017,4,29,20,1,0.990785806690732,undef
+34228316821,45.763421,4.850882,196,tour incity mont blanc fujifilmxt lyon tour tower incity montblanc,2017,4,29,20,27,0.9908035419782916,undef
+34135374966,45.763316,4.850828,196,croisement perspective lyon france line ligne courbes curve geometry gomtrie tower sky blue bleu skyscraper architecture btiment gratteciel tour ciel ville,2017,4,20,12,35,0.9816412195745252,undef
+34018515942,45.763316,4.850828,196,perspective bleue lyon france line ligne courbes curve geometry gomtrie tower sky blue bleu skyscraper,2017,4,20,11,2,0.981577781815178,undef
+33333293594,45.763316,4.850828,196,croisement unlimited photo unlimitedphotos france line ligne courbe curve gomtrie geometry lyon btiment immeuble skyscraper sky ciel lampe lampadaie rverbre perspective haut fil cble silhouette contour reflet reflect,2017,4,20,12,35,0.9816412195745252,undef
+34078497806,45.763421,4.850882,196,tour incity fujifilmxt lyon tour tower incity,2017,4,17,10,21,0.9786030283903102,undef
+33712585200,45.763421,4.850882,196,lever soleil lyon fujifilmxt lyon leverdujour leverdusoleil sunrise aube aurore ville city tour incity,2017,4,17,6,55,0.978462510342724,undef
+34097374195,45.763421,4.850882,196,lever soleil lyon fujifilmxt lyon leverdujour leverdusoleil sunrise aube aurore ville city tour incity,2017,4,17,7,0,0.9784659209749472,undef
+33940265422,45.763421,4.850882,196,lever soleil lyon fujifilmxt lyon leverdujour leverdusoleil sunrise aube aurore ville city tour incity,2017,4,17,6,58,0.978464556722058,undef
+33711002590,45.763421,4.850882,196,jour lve lyon fujifilmxt lyon sunrise leverdujour leverdusoleil aube aurore soleil fourvire tour incity sun,2017,4,17,7,7,0.9784706958600592,undef
+33899489321,45.763421,4.850882,196,coucher soleil tour incity fujifilmxt tour tower incity lyon coucherdesoleil sunset building,2017,4,10,20,9,0.9721282841782384,undef
+33216731723,45.763421,4.850882,196,coucher soleil tour incity fujifilmxt tour tower incity lyon coucherdesoleil sunset building,2017,4,10,20,22,0.972137151822018,undef
+33971494485,45.763421,4.850882,196,lyon coucher soleil tour incity fujifilmxt lyon tour tower incity sunset coucherdesoleil,2017,4,10,20,35,0.9721460194657976,undef
+33771608082,45.763421,4.850882,196,lever soleil fujifilmxt lyon leverdusoleil leverdujour sunrise soleil sun tour incity tower,2017,4,9,6,58,0.9706064600803526,undef
+33686626481,45.763421,4.850882,196,tour incity fujifilmxt lyon architecture tour tower building incity ciel sky nuage cloud miroir glass,2017,3,26,14,59,0.957182893777217,undef
+33686626121,45.763421,4.850882,196,tour incity fujifilmxt lyon architecture tour tower building incity ciel sky nuage cloud miroir glass,2017,3,26,14,59,0.957182893777217,undef
+34075345563,45.763421,4.850882,196,tour incity crayon coucher soleil fujifilmxt lyon tour tower building incity crayon partdieu sunset coucher,2017,5,24,21,7,1.0153873790414043,undef
+33874023154,45.763339,4.850817,196,lyon tour incity mai may,2017,5,15,16,2,1.006338971753885,undef
+33788315144,45.763421,4.850882,196,soleil couchant tour incity fujifilmxt lyon coucherdesoleil sunset tour incity tower,2017,5,13,16,10,1.0043799046050157,undef
+34326996662,45.763421,4.850882,196,tour lyon fujifilmxt lyon tour crayon partdieu incity tower building,2017,5,5,19,21,0.9966520941142274,undef
+34356665181,45.763421,4.850882,196,tour lyon fujifilmxt lyon tour crayon partdieu incity tower building,2017,5,5,19,23,0.9966534583671166,undef
+35854869122,45.763421,4.850882,196,tour incity fujifilmxt lyon perspective tour tower building incity,2017,7,19,11,45,1.0700107004714816,undef
+35064714873,45.763421,4.850882,196,tour incity fujifilmxt lyon coucherdesoleil sunset tour incity reflet reflection building bourse,2017,7,11,21,37,1.062556422684975,undef
+35470138640,45.763421,4.850882,196, fujifilmxt lyon,2017,7,10,20,46,1.0615393721560875,undef
+35048626803,45.763421,4.850882,196, fujifilmxt lyon,2017,7,10,21,46,1.0615802997427632,undef
+37052123686,45.763421,4.850882,196,depuis place rouville fujifilmxt lyon nuit night building incity crayon beffroi hteldeville,2017,9,13,20,33,1.1253775397261645,undef
+37000090901,45.763421,4.850882,196,tour incity fujifilmxt lyon,2017,9,10,8,53,1.1219532649743102,undef
+36941042421,45.763421,4.850882,196, fujifilmxt lyon sunrise leverdusoleil leverdujour incity,2017,9,7,7,34,1.118952590744548,undef
+26242028439,45.763305,4.850839,196,top sky ,2017,10,28,18,38,1.1695008887946294,undef
+37908071436,45.763421,4.850882,196, fujifilmxt lyon sunrise leverdujour leverdusoleil incity,2017,10,27,7,43,1.168071833893208,undef
+37599874212,45.763421,4.850882,196,tour incity face mont blanc fujifilmxt lyon leverdujour leverdusoleil sunrise montblanc,2017,10,11,7,45,1.1523570048626866,undef
+37373033030,45.763421,4.850882,196,face mont blanc fujifilmxt lyon leverdujour leverdusoleil sunrise incity montblanc,2017,10,11,7,35,1.1523501835982406,undef
+36947425353,45.763421,4.850882,196, fujifilmxt lyon tour building incity architecture nuit night,2017,10,8,21,10,1.149959330409944,undef
+37509692781,45.763421,4.850882,196,tour incity disparait fujifilmxt lyon incity tour brouillard fog leverdujour leverdusoleil sunrise,2017,10,5,7,36,1.146457293243406,undef
+36798952554,45.763421,4.850882,196,tour incity mont blanc fujifilmxt leverdujour leverdusoleil sunrise brouillard lyon incity fog montblanc,2017,10,5,7,34,1.146455928990517,undef
+38097015871,45.763421,4.850882,196, fujifilmxt lyon nuit night incity crayon,2017,10,31,23,12,1.1726345776810874,undef
+31519212982,45.763399,4.850871,196,pointe supermimil,2016,12,11,10,42,0.8538700688585729,undef
+30823785644,45.763399,4.850871,196,b uilding lyon fdl bocuse tour cutter parking coquillage b tower supermimil,2016,12,11,10,42,0.8538700688585729,undef
+31628104006,45.763301,4.850893,196,dtour dombre lombre crayon lyon fdl tour crayon cutter supermimil,2016,12,11,10,46,0.8538727973643513,undef
+31628045276,45.763399,4.850871,196,verretical lyon fdl building tour chevron tower supermimil,2016,12,11,10,40,0.8538687046056836,undef
+31479997542,45.763399,4.850871,196,incity lyon tourcutter fdl lyon tour incity tower france illumination supermimil,2016,12,10,16,44,0.8531347365513022,undef
+30639645604,45.763339,4.850817,196,lyon vue depuis tour city ,2016,11,17,10,33,0.8302896397954552,undef
+25104478977,45.763346,4.850839,196,tour incity architecture bw france hiver lyon nb noiretblanc pentax pentaxk ii rhne tourincity city cloud landscape nuages tower urban urbanlandscape ville,2016,7,2,10,44,0.694744976116927,undef
+27636972169,45.763421,4.850882,196, fujifilmxt lyon incity,2017,12,31,13,36,1.232159659742006,undef
+25540116108,45.763421,4.850882,196, fujifilmxt lyon tour incity perspective,2017,12,31,13,59,1.2321753486502316,undef
+38531948095,45.763421,4.850882,196, fujifilmxt lyon tour incity perspective,2017,12,31,14,1,1.232176712903121,undef
+38828867780,45.763346,4.850839,196,tour incity architecture france hdr hiver lyon pentax pentaxk ii rhne tourincity city cloud landscape nuages tower urban urbanlandscape ville,2016,7,2,9,40,0.694701320024473,undef
+40576745425,45.763421,4.850882,196, fujifilmxt lyon sunrise leverdujour leverdusoleil incity tour,2018,4,15,13,24,1.3352889926470548,undef
+39383551180,45.763316,4.850828,196,perspective faade lyon france line courbes curve geometry gomtrie pespective sky urban urbain totalphoto,2018,4,1,11,5,1.321442507948272,undef
+40472709274,45.763421,4.850882,196, fujifilmxt lyon reflet reflection incity crayon partdieu,2018,4,1,16,37,1.3216689739278766,undef
+40472704364,45.763421,4.850882,196, fujifilmxt lyon tour incity,2018,4,2,16,57,1.3226648785369817,undef
+41149067862,45.763316,4.850828,196,triangle lyonnais lyon france totalphoto sky line courbes curve geometry gomtrie urban urbain monochrome,2018,4,1,11,5,1.321442507948272,undef
+44213234134,45.763421,4.850882,196,tour incity mont blanc fujifilmxt lyon incity sunrise leverdusoleil leverdujour,2018,9,26,7,27,1.4961364546612967,undef
+43975463445,45.763421,4.850882,196, fujifilmxt lyon sunrise leverdusoleil leverdujour incity,2018,9,21,7,33,1.4912292370188982,undef
+44840722511,45.763421,4.850882,196, fujifilmxt lyon leverdusoleil leverdujour sunrise incity soleil sun,2018,9,21,7,35,1.4912306012717875,undef
+43790684224,45.763443,4.850957,196,fog light architecture urbanisme voyage france lyon onlylyon rhone rhnealpes building night nuit newbie light street tourisme town tower fog bruillard mortet oussama partdieu travel sky skyscraper city high outdoor samsung,2017,3,14,19,4,0.945562869793584,undef
+43929965055,45.763421,4.850882,196, fujifilmxt lyon leverdusoleil leverdujour sunrise incity soleil sun,2018,9,21,7,33,1.4912292370188982,undef
+43929964785,45.763421,4.850882,196, fujifilmxt lyon leverdusoleil leverdujour sunrise incity soleil sun,2018,9,21,7,33,1.4912292370188982,undef
+44779996822,45.763421,4.850882,196, fujifilmxt lyon leverdusoleil leverdujour sunrise ville city incity,2018,9,21,7,31,1.491227872766009,undef
+44779960372,45.763421,4.850882,196, fujifilmxt lyon leverdusoleil leverdujour sunrise ville city incity,2018,9,21,7,32,1.4912285548924538,undef
+32564454117,45.763421,4.850882,196, fujifilmxt lyon leverdusoleil sunrise incity,2019,3,31,6,36,1.678802413132274,undef
+47453844032,45.763421,4.850882,196, fujifilmxt lyon sunrise incity leverdusoleil,2019,3,31,6,33,1.67880036675294,undef
+47453756112,45.763421,4.850882,196, fujifilmxt lyon sunrise leverdusoleil incity,2019,3,31,6,24,1.6787942276149388,undef
+32556714487,45.763421,4.850882,196,tour incity fujifilmxt lyon tour tower building incity nuit night printemps spring,2019,3,29,21,8,1.6774327032315322,undef
+33622086998,45.763421,4.850882,196,tour incity fujifilmxt lyon incity tour tower building nuit night,2019,3,29,21,11,1.677434749610866,undef
+47617974672,45.763421,4.850882,196, fujifilmxt lyon incity building tour tower noiretblanc nb blackandwhite bnw bw monochrome monochromatic,2019,3,18,18,23,1.6665152694858294,undef
+40704461773,45.763421,4.850882,196, fujifilmxt lyon incity building tour tower,2019,3,18,18,23,1.6665152694858294,undef
+46746737045,45.763316,4.850828,196,amlo lyon france monochrome vitre glass reflet reflection line ligne courbe curve geometry gomtrie,2019,4,18,12,20,1.6967177820730508,undef
+47662245001,45.763316,4.850828,196,pied tour lyon france line ligne courbes curve geometry gomtrie immeuble skyscraper building reflet urban urbain,2019,4,18,12,20,1.6967177820730508,undef
+46746463105,45.763316,4.850828,196,tour fantme lyon france immeuble building perspective line ligne courbes curve geometry gomtrie ciel sky,2019,4,18,14,20,1.696799637246402,undef
+47662139551,45.763316,4.850828,196,tower corner light lyon france monochrome ngc immeuble building perspective line ligne courbes curve geometry gomtrie ciel sky urban urbain,2019,4,18,14,20,1.696799637246402,undef
+36247464594,45.763421,4.850882,196, fujifilmxt lyon sunrise leverdusoleil leverdujour incity,2017,9,7,7,30,1.1189498622387697,undef
+48997782168,45.763421,4.850935,196,halle lyon paul bocuse lyon foodmarket paulbocuse leshalles sausage,2019,10,4,3,15,1.8623483147167752,undef

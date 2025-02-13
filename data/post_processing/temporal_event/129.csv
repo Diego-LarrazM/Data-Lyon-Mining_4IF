@@ -1,0 +1,80 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+5441850737,45.773405,4.856686,129,milieu serre lyon greenhouse serre ttedor parcdelattedor,2010,5,30,15,38,-1.490587607182687,undef
+5441842249,45.773405,4.856686,129,cactus agave cactus lyon greenhouse serre ttedor parcdelattedor,2010,5,30,15,38,-1.490587607182687,undef
+5441830597,45.773405,4.856686,129,fleur cactus cactus fleur square lyon bokeh greenhouse carr serre ttedor parcdelattedor,2010,5,30,14,36,-1.4906298990222515,undef
+5442427788,45.773405,4.856686,129,serre cactus cactus lyon greenhouse serre ttedor parcdelattedor,2010,5,30,15,35,-1.4905896535620209,undef
+5441814075,45.773405,4.856686,129,serre cactus cactus lyon greenhouse serre ttedor parcdelattedor,2010,5,30,15,34,-1.490590335688465,undef
+5442406894,45.773405,4.856686,129,serre cactus cactus lyon greenhouse serre ttedor parcdelattedor,2010,5,30,15,36,-1.490588971435576,undef
+6136842478,45.77327,4.85674,129,prehistoric ,2011,9,10,16,2,-1.0308725826082488,undef
+7956255172,45.773372,4.856691,129,euphorbia tuckeyanna euphorbiaces,2012,9,8,17,31,-0.6732684761570827,undef
+9557204542,45.773465,4.856665,129,parc tte dor lyon lyon parcdelattedor,2013,8,18,11,55,-0.3355995150491321,undef
+9495136509,45.773554,4.856708,129,parc tte dor lyon lyon parcdelattedor,2013,8,11,11,34,-0.3424896742659608,undef
+9982686766,45.773494,4.856622,129,parc tte dor lyon sphinx lyon colibri parcdelattedor,2013,9,28,11,12,-0.2953561011975092,undef
+11903199154,45.77339,4.856611,129, cactus plante lyon,2014,1,11,15,59,-0.1920228124855273,undef
+11903044943,45.77339,4.856611,129, cactus plante lyon,2014,1,11,15,59,-0.1920228124855273,undef
+11903196574,45.77339,4.856611,129, cactus plante lyon,2014,1,11,15,57,-0.1920241767384165,undef
+11903194734,45.77339,4.856611,129, cactus plante lyon,2014,1,11,15,56,-0.1920248588648611,undef
+11903193604,45.77339,4.856611,129, cactus plante lyon,2014,1,11,15,55,-0.1920255409913057,undef
+11903633156,45.77339,4.856611,129, cactus plante lyon,2014,1,11,15,54,-0.1920262231177503,undef
+14147042695,45.773405,4.856686,129,cactus hirsute cactus france lyon greenhouse serre ttedor parcdelattedor neobuxbaumiapolylopha serredemadagascarduparcdelattedor,2012,11,19,16,39,-0.6025810769568526,undef
+14143716141,45.773405,4.856686,129,cactus comme chez moebius cactus france lyon greenhouse serre ttedor parcdelattedor serredemadagascarduparcdelattedor,2012,11,19,16,38,-0.6025817590832973,undef
+13960386010,45.773405,4.856686,129,fleur cactus cactus france lyon bokeh greenhouse serre ttedor parcdelattedor serredemadagascarduparcdelattedor,2012,11,19,16,38,-0.6025817590832973,undef
+13960330907,45.773405,4.856686,129,cactus comme chez moebius cactus france lyon greenhouse serre ttedor parcdelattedor serredemadagascarduparcdelattedor,2012,11,19,16,35,-0.602583805462631,undef
+13960364740,45.773405,4.856686,129,mexique madagascar cactus france lyon greenhouse serre ttedor parcdelattedor serredemadagascarduparcdelattedor,2012,11,19,16,32,-0.6025858518419648,undef
+14143670421,45.773405,4.856686,129,figue barbare cactus france lyon bokeh greenhouse serre ttedor parcdelattedor serredemadagascarduparcdelattedor,2012,11,19,16,31,-0.6025865339684093,undef
+13960339488,45.773405,4.856686,129,palmier madagascar cactus france lyon greenhouse serre ttedor pachypodiumlamerei parcdelattedor serredemadagascarduparcdelattedor palmierdemadagascar,2012,11,19,16,26,-0.6025899446006323,undef
+14143650011,45.773405,4.856686,129,exotisme france lyon greenhouse serre ttedor parcdelattedor serredemadagascarduparcdelattedor,2012,11,19,16,25,-0.6025906267270769,undef
+13960319248,45.773405,4.856686,129,serre mexicaine cactus france lyon greenhouse serre ttedor parcdelattedor serredemadagascarduparcdelattedor,2012,11,19,16,24,-0.6025913088535215,undef
+15621681125,45.773275,4.856694,129,cactus cactus france europe lyon place serre parcdelattedor,2014,10,10,11,3,0.074950563904858,undef
+15570305816,45.773275,4.856694,129,aloe arborescens france europe lyon place serre parcdelattedor alosarborescent,2014,10,10,11,0,0.0749485175255243,undef
+15597468403,45.773283,4.856702,129,aloe lutescens france europe lyon place parc serre parcdelattedor alosarborescent,2014,12,20,11,28,0.1447082247611086,undef
+16070510351,45.773516,4.856658,129, ,2014,12,21,18,8,0.1459633374191588,undef
+16045141432,45.7733,4.856697,129,pachycereus pringlei france europe lyon place parc parcdelattedor,2014,12,13,11,54,0.1378501254871758,undef
+15426192683,45.7733,4.856697,129,aloe lutescens france aloe europe lyon place parc serre parcdelattedor,2014,12,13,11,50,0.1378473969813974,undef
+16043896271,45.7733,4.856697,129,aloe lutescens france aloe europe lyon place parc serre parcdelattedor,2014,12,13,11,47,0.1378453506020636,undef
+19730410958,45.773377,4.856747,129,parc tte dor lyon lyon parcdelattedor pereskiasacharosa,2015,7,22,11,11,0.3549007137771709,undef
+20792300346,45.773538,4.856627,129,parc tte dor lyon lyon parcdelattedor euphorbiamilii,2015,8,22,9,24,0.3852778507342081,undef
+20004566093,45.773538,4.856627,129,parc tte dor serre mexicaine lyon cactus fleur lyon parcdelattedor cleistocactussamaipatanus serremexicaine,2015,8,16,8,56,0.3793651787124804,undef
+19898250263,45.773369,4.856602,129,parc tte dor lyon lyon parcdelattedor morosphinx,2015,8,5,10,58,0.3686435152563757,undef
+15900126546,45.773313,4.856703,129,opuntia quimilo france europe lyon place parcdelattedor opuntiaquimilo serretropicale,2014,11,29,14,57,0.1242232855035516,undef
+15303692524,45.773313,4.856702,129,cereus jamacaru france europe lyon place parcdelattedor cereusjamacaru serretropicale,2014,11,29,14,56,0.1242226033771071,undef
+15738479478,45.773313,4.856702,129,serre tropicale france europe lyon place parcdelattedor serretropicale,2014,11,29,14,51,0.1242191927448841,undef
+15306273583,45.773313,4.856702,129,aloe lutescens france aloe europe lyon place parcdelattedor serretropicale,2014,11,29,14,46,0.1242157821126611,undef
+23621854744,45.773366,4.856686,129,parc tte dor longexposure tree france nature horizontal landscape outdoors scenic wideangle arbres copyspace paysage fra traveldestinations rhnealpes grandangle poselongue beautyinnature beautdelanature prisedevueenextrieur destinationdevoyage espacetexte parkmanmadespace parcpublicamnagementdelespace,2016,1,6,14,35,0.520059897047682,undef
+24223966536,45.773366,4.856686,129,parc tte dor france macro nature horizontal closeup indoors fra macrophotography traveldestinations rhnealpes beautyinnature macrophotographie focusstacking beautdelanature planrapproch prisedevueenintrieur destinationdevoyage parkmanmadespace parcpublicamnagementdelespace,2016,1,6,14,40,0.5200633076799049,undef
+23623265423,45.773366,4.856686,129,parc tte dor france macro nature horizontal closeup indoors thorn fra macrophotography pine traveldestinations rhnealpes beautyinnature macrophotographie focusstacking beautdelanature planrapproch prisedevueenintrieur destinationdevoyage parkmanmadespace parcpublicamnagementdelespace,2016,1,6,14,44,0.5200660361856833,undef
+24223951116,45.773366,4.856686,129,parc tte dor france macro nature horizontal closeup indoors thorn fra macrophotography pine traveldestinations rhnealpes beautyinnature macrophotographie focusstacking beautdelanature planrapproch prisedevueenintrieur destinationdevoyage parkmanmadespace parcpublicamnagementdelespace,2016,1,6,14,47,0.520068082565017,undef
+24250075305,45.773366,4.856686,129,parc tte dor france macro nature horizontal closeup indoors thorn fra macrophotography pine traveldestinations rhnealpes beautyinnature macrophotographie focusstacking beautdelanature planrapproch prisedevueenintrieur destinationdevoyage parkmanmadespace parcpublicamnagementdelespace,2016,1,6,14,51,0.5200708110707954,undef
+24223943656,45.773366,4.856686,129,parc tte dor flower france macro nature horizontal closeup fleurs indoors thorn fra macrophotography pine traveldestinations rhnealpes beautyinnature macrophotographie focusstacking beautdelanature planrapproch prisedevueenintrieur destinationdevoyage parkmanmadespace parcpublicamnagementdelespace,2016,1,6,14,53,0.5200721753236847,undef
+27055212082,45.773422,4.856752,129,parc tte dor lyon lyon lzard parcdelattedor lzarddesmurailles,2016,5,21,9,16,0.6534299416208493,undef
+26992312401,45.7735,4.856716,129,cactus cactus france europe lyon place madagascar serre parcdelattedor,2016,5,15,11,23,0.6476229991980335,undef
+26992307101,45.773571,4.856703,129,cactus cactus france europe lyon place madagascar serre parcdelattedor,2016,5,15,11,22,0.6476223170715889,undef
+26992296851,45.773568,4.8567,129,cactus cactus france europe lyon place madagascar serre parcdelattedor,2016,5,15,11,19,0.6476202706922551,undef
+26712068050,45.773422,4.8567,129, france lyon parcdelattedor auvergnerhnealpes sortiephotodu,2016,5,7,10,14,0.6397178358316512,undef
+26952351786,45.773225,4.856672,129, france lyon parcdelattedor auvergnerhnealpes sortiephotodu,2016,5,7,9,59,0.6397076039349823,undef
+26891387282,45.77338,4.856658,129, france lyon parcdelattedor auvergnerhnealpes sortiephotodu,2016,5,7,10,3,0.6397103324407607,undef
+26712028140,45.773561,4.856672,129, france lyon parcdelattedor auvergnerhnealpes sortiephotodu,2016,5,7,10,9,0.6397144251994282,undef
+26381491443,45.773516,4.856619,129, france lyon parcdelattedor auvergnerhnealpes sortiephotodu,2016,5,7,10,14,0.6397178358316512,undef
+27288859663,45.773366,4.856641,129,parc tte dor lyon lyon cureuil parcdelattedor,2016,6,25,11,39,0.6879066585098873,undef
+27544405622,45.773397,4.856579,129,parc tte dor lyon madagascar glasshouse serre parcdelattedor nikoncoolpixp,2016,6,7,11,47,0.6702313980776069,undef
+27032853694,45.773397,4.856579,129,parc tte dor lyon madagascar glasshouse serre parcdelattedor nikoncoolpixp,2016,6,7,11,49,0.670232762330496,undef
+27366243580,45.773397,4.856579,129,parc tte dor lyon madagascar glasshouse serre parcdelattedor nikoncoolpixp,2016,6,7,11,50,0.6702334444569407,undef
+27426215233,45.773438,4.8567,129,parc tte dor lyon lyon parcdelattedor pereskiasacharosa,2016,7,2,10,46,0.6947463403698162,undef
+33913568315,45.773438,4.8567,129,parc tte dor lyon myrtillocactusgeometrizans cactus parcdelattedor lyon,2017,4,8,9,56,0.9697456165072768,undef
+33390820190,45.773438,4.8567,129,parc tte dor lyon pilosocereusleucocephalus parcdelattedor lyon,2017,4,1,10,59,0.9629127559117938,undef
+41735226294,45.773522,4.856661,129,parc tte dor serre mexicaine lyon lyon auvergnerhnealpes france fr cleistocactussamaipatanus parcdelattedor serremexicaine,2018,5,21,11,42,1.3705808506373809,undef
+43030775461,45.773405,4.85659,129,aloe lutescens aloelutescens europe france lyon madagascar parcdelattedor place serre,2018,6,24,13,19,1.4040439276297545,undef
+27827391227,45.773427,4.856675,129,parc tte dor lyon lyon auvergnerhnealpes france fr,2018,6,2,8,40,1.3822438485870232,undef
+48351020051,45.773344,4.856691,129, serre gewchshaus parcdelattedor lyon france jardinbotaniquedelyon botany greenhouse hothouse conservatory botanicgarden jardinbotanique jardnbotnico francis frankreich ortobotanico lyonbotanicgarden,2019,4,16,12,33,1.6947621255564045,undef
+48351151342,45.773344,4.856708,129, serre gewchshaus parcdelattedor lyon france jardinbotaniquedelyon botany greenhouse hothouse conservatory botanicgarden jardinbotanique jardnbotnico francis frankreich ortobotanico lyonbotanicgarden,2019,4,16,12,34,1.6947628076828487,undef
+48351149952,45.773338,4.856727,129, serre gewchshaus parcdelattedor lyon france jardinbotaniquedelyon botany greenhouse hothouse conservatory botanicgarden jardinbotanique jardnbotnico francis frankreich ortobotanico desertplants lyonbotanicgarden,2019,4,16,12,34,1.6947628076828487,undef
+48351014856,45.773333,4.85673,129, serre gewchshaus parcdelattedor lyon france jardinbotaniquedelyon botany greenhouse hothouse conservatory botanicgarden jardinbotanique jardnbotnico francis frankreich ortobotanico desertplants lyonbotanicgarden,2019,4,16,12,35,1.6947634898092934,undef
+48350756827,45.773408,4.856675,129,uncarina grandidieri madagascar uncarinagrandidieri madagascarplants botany serre greenhouse floredemadagascar invernadero gewchshaus jardinbotaniquedelyon lyon france botanicalgarden parcdelattedor lyonbotanicgarden francia botanischergarten jardnbotnico jardinbotanique jardimbotnico,2019,4,16,12,47,1.6947716753266284,undef
+48350766652,45.773408,4.856675,129,cylindropuntia leptocaulis cylindropuntialeptocaulis botany cactus mexicanplants serre hothouse botanicalgarden gewchshaus jardinbotaniquedelyon parcdelattedor lyon france lyonbotanicgarden francia greenhouse invernadero botanischergarten jardnbotnico jardinbotanique jardimbotnico desertplants,2019,4,16,12,44,1.6947696289472949,undef
+48350765492,45.773408,4.856675,129,cylindropuntia leptocaulis greenhouse botany cylindropuntialeptocaulis cactus mexicanplants serre hothouse botanicalgarden gewchshaus jardinbotaniquedelyon parcdelattedor lyon france lyonbotanicgarden francia invernadero botanischergarten jardnbotnico jardinbotanique jardimbotnico desertplants,2019,4,16,12,45,1.694770311073739,undef
+48350763932,45.773408,4.856675,129,uncarina grandidieri madagascar parcdelattedor uncarinagrandidieri madagascarflora madagascarplants floredemadagascar greenhouse botany invernadero gewchshaus jardinbotaniquedelyon lyon france botanicalgarden lyonbotanicgarden francia serre botanischergarten jardnbotnico jardinbotanique jardimbotnico,2019,4,16,12,46,1.694770993200184,undef
+48350628431,45.773408,4.856675,129,uncarina grandidieri madagascar uncarinagrandidieri madagascarplants botany invernadero gewchshaus jardinbotaniquedelyon lyon france parcdelattedor botanicalgarden lyonbotanicgarden francia greenhouse serre botanischergarten jardnbotnico jardinbotanique jardimbotnico yellow flower,2019,4,16,12,46,1.694770993200184,undef
+48350762197,45.773408,4.856675,129, parcdelattedor jardinbotaniquedelyon lyon france,2019,4,16,12,47,1.6947716753266284,undef
+48350760242,45.773408,4.856675,129,uncarina grandidieri madagascar parcdelattedor uncarinagrandidieri madagascarplants botany invernadero gewchshaus jardinbotaniquedelyon lyon france botanicalgarden lyonbotanicgarden francia greenhouse serre botanischergarten jardnbotnico jardinbotanique jardimbotnico,2019,4,16,12,47,1.6947716753266284,undef
+48350753662,45.773408,4.856675,129,tulip time tulip pink flower spring park fleurs flores jardinbotaniquedelyon parcdelattedor lyon france botanicalgarden lyonbotanicgarden francia,2019,4,16,12,51,1.6947744038324069,undef
+48342660481,45.773471,4.856686,129,pachypodium lamerei madagascarplants pachypodiumlamerei apocynaceae dogbane jardnbotnico lyon france jardinbotanique botanischergarten botanickzahrada gewchshaus serre greenhouse hothouse conservatory invernadero jardinbotaniquedelyon parcdelattedor botany botanicgarden lyonbotanicgarden lyonbotanicalgarden,2019,4,16,12,34,1.6947628076828487,undef

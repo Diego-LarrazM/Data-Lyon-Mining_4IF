@@ -1,0 +1,51 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+4364321872,45.76308,4.827836,13,cafe lyon,2009,8,6,14,15,145030500.0,undef,2009-08-06 14:15:00
+4363580227,45.76308,4.827836,13, lyon,2009,8,6,14,0,145029600.0,undef,2009-08-06 14:00:00
+4363579679,45.76308,4.827836,13,dessert lyon,2009,8,6,13,59,145029540.0,undef,2009-08-06 13:59:00
+4364320264,45.76308,4.827836,13, lyon,2009,8,6,13,34,145028040.0,undef,2009-08-06 13:34:00
+4364319568,45.76308,4.827836,13,salad lyon,2009,8,6,13,11,145026660.0,undef,2009-08-06 13:11:00
+4363578047,45.76308,4.827836,13, lyon,2009,8,6,12,50,145025400.0,undef,2009-08-06 12:50:00
+4973947303,45.763115,4.827787,13, architecture nikon lyon traboules,2010,8,27,14,49,178382940.0,undef,2010-08-27 14:49:00
+5588626792,45.763027,4.827777,13, france europe lyon unesco worldheritage,2011,3,15,11,29,195650940.0,undef,2011-03-15 11:29:00
+6803171389,45.763017,4.827831,13,rue saintjean lyon lyon traboule vieuxlyon longuetraboule longtraboule,2011,10,18,13,46,214407960.0,undef,2011-10-18 13:46:00
+6803170643,45.763013,4.827831,13, lyon traboule vieuxlyon longuetraboule longtraboule,2011,10,18,13,46,214407960.0,undef,2011-10-18 13:46:00
+6803169989,45.762979,4.827842,13, lyon traboule vieuxlyon longuetraboule longtraboule,2011,10,18,13,46,214407960.0,undef,2011-10-18 13:46:00
+6767521855,45.763114,4.827772,13,jyl tom sophie lyon stjean traboule vieuxlyon,2011,12,9,16,52,218911920.0,undef,2011-12-09 16:52:00
+6767521621,45.763114,4.827772,13,traboule lyon stjean traboule vieuxlyon,2011,12,9,16,50,218911800.0,undef,2011-12-09 16:50:00
+7026754387,45.762998,4.827826,13,private staircase city france canon lyon ville eos dmkii,2012,3,24,13,25,228057900.0,undef,2012-03-24 13:25:00
+7076975185,45.763167,4.827833,13, ,2012,4,14,14,4,229874640.0,undef,2012-04-14 14:04:00
+7800722884,45.763129,4.827793,13,traboule france lyon traboule vieuxlyon mmvr nikond,2012,8,9,13,14,239980440.0,undef,2012-08-09 13:14:00
+8509692557,45.763166,4.827833,13, ,2012,7,7,16,38,237141480.0,undef,2012-07-07 16:38:00
+8509600063,45.763166,4.827833,13, ,2012,7,7,17,37,237145020.0,undef,2012-07-07 17:37:00
+8510706024,45.763166,4.827833,13, ,2012,7,7,17,33,237144780.0,undef,2012-07-07 17:33:00
+8509597263,45.763166,4.827833,13, ,2012,7,7,17,32,237144720.0,undef,2012-07-07 17:32:00
+8509596899,45.763166,4.827833,13, ,2012,7,7,17,32,237144720.0,undef,2012-07-07 17:32:00
+8510703506,45.763,4.827833,13, ,2012,7,7,17,31,237144660.0,undef,2012-07-07 17:31:00
+8509594821,45.763,4.827833,13, ,2012,7,7,17,30,237144600.0,undef,2012-07-07 17:30:00
+8510702668,45.763,4.827833,13, ,2012,7,7,17,30,237144600.0,undef,2012-07-07 17:30:00
+8510701272,45.763166,4.827833,13, ,2012,7,7,17,28,237144480.0,undef,2012-07-07 17:28:00
+8970268016,45.763051,4.827903,13,vintage library super lyon france traveling france vintage walking lyon library streetphotography super traveling popular oldbooks picoftheday vieuxlyon oldlibrary oldlyon igers souslecieldelyon igerslyon latergram uploadedbyflickstagram instagramvenuenamesaintjames instagramvenue instagramphoto,2013,2,7,5,21,255676860.0,undef,2013-02-07 05:21:00
+8970267186,45.763051,4.827903,13,old book super lyon france traveling france vintage walking book lyon library streetphotography super traveling popular oldbooks picoftheday vieuxlyon oldlyon igers souslecieldelyon igerslyon latergram uploadedbyflickstagram instagramphoto instagramvenuenamesaintjames instagramvenue,2013,2,7,5,18,255676680.0,undef,2013-02-07 05:18:00
+9428106527,45.763039,4.827772,13, ,2013,8,3,16,35,271010100.0,undef,2013-08-03 16:35:00
+9430872622,45.763039,4.827772,13, ,2013,8,3,16,35,271010100.0,undef,2013-08-03 16:35:00
+9428102601,45.763039,4.827772,13, ,2013,8,3,16,39,271010340.0,undef,2013-08-03 16:39:00
+9428100979,45.763039,4.827772,13, ,2013,8,3,17,4,271011840.0,undef,2013-08-03 17:04:00
+29796709716,45.763024,4.827826,13,france vieux lyon devanture ancienne jouets rue pitonne ,2016,9,6,15,32,368638320.0,undef,2016-09-06 15:32:00
+23485982709,45.763005,4.827852,13,lyon france france lyon,2014,5,29,16,24,296843040.0,undef,2014-05-29 16:24:00
+31360676223,45.763001,4.827825,13,li lyon frana francia li lyon frana france francia fuji,2016,7,17,12,1,364219260.0,undef,2016-07-17 12:01:00
+35359081942,45.763129,4.827889,13,rue saintjean vieux lyon azalees lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop auxazalees plantshop,2017,6,3,10,53,391949580.0,undef,2017-06-03 10:53:00
+35359032892,45.763129,4.827889,13,rue saintjean vieux lyon bouchonlyonnais lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop bouchonlyonnais aucomptoir,2017,6,3,10,56,391949760.0,undef,2017-06-03 10:56:00
+34716738073,45.763129,4.827889,13,rue saintjean vieux lyon cure gourmande lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop lacuregourmande ruesaintjean traboule,2017,6,3,10,57,391949820.0,undef,2017-06-03 10:57:00
+35526263635,45.763129,4.827889,13,rue saintjean vieux lyon st james public house lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop thestjamespublichouse thestjamess pub irishpub publichouse,2017,6,3,10,53,391949580.0,undef,2017-06-03 10:53:00
+35526224985,45.763129,4.827889,13,rue saintjean vieux lyon restaurant hongha restaurant pave st jean lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop sign sign restauranthongha restaurantlespavesdestjean,2017,6,3,10,54,391949640.0,undef,2017-06-03 10:54:00
+35139622490,45.763129,4.827889,13,rue saintjean vieux lyon palais st jean restaurant lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop sign sign lepalaisstjeanrestaurant,2017,6,3,10,55,391949700.0,undef,2017-06-03 10:55:00
+34685081324,45.763129,4.827889,13,rue saintjean vieux lyon plaque vive couleur lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop plaque villedelyon mmoiredelyon vivelacouleur ruesaintjean ruedestroismaries traboule traboulepasses openplaquesid,2017,6,3,10,57,391949820.0,undef,2017-06-03 10:57:00
+26174387589,45.763062,4.82789,13, lyon auvergnerhnealpes frankreich fr france rhnealpes nikon v nikkor mmf vr nikkor,2017,4,15,11,29,387718140.0,undef,2017-04-15 11:29:00
+38870514671,45.763097,4.827855,13, ,2017,12,2,12,30,407680200.0,undef,2017-12-02 12:30:00
+24999167388,45.763144,4.827813,13, ,2017,12,2,12,30,407680200.0,undef,2017-12-02 12:30:00
+48392992176,45.763041,4.827888,13,lyon francia arquitectura josantonioabad paisajeurbano lyon color pblica europa francia architecture building calles edificios europe farbe fotografaurbana liyon urbanphotography cityscape colour couleur streetphotography street urbanlanscape rdano,2019,7,16,20,5,458769900.0,undef,2019-07-16 20:05:00
+48796110456,45.763119,4.827819,13, ,2019,8,21,11,16,461848560.0,undef,2019-08-21 11:16:00
+48796110181,45.763133,4.827836,13, ,2019,8,21,11,13,461848380.0,undef,2019-08-21 11:13:00
+48675679112,45.763055,4.827777,13,vieuxlyon traboule ,2019,9,1,12,24,462803040.0,undef,2019-09-01 12:24:00
+48675164318,45.763055,4.827777,13,vieuxlyon traboule ,2019,9,1,12,25,462803100.0,undef,2019-09-01 12:25:00
+48666438356,45.763055,4.827777,13,vieux lyon traboule ,2019,9,1,12,25,462803100.0,undef,2019-09-01 12:25:00

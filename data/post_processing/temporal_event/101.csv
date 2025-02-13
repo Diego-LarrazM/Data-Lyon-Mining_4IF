@@ -1,0 +1,204 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4973039583,45.758831,4.830831,101, ,2010,9,8,13,35,-1.391463038633841,undef
+5113534499,45.758713,4.83083,101,h lyon police violence bellecour jeunes incident retraites affrontements violence,2009,10,22,17,50,-1.7065952241389002,undef
+5113534205,45.75872,4.830851,101,h lyon police violence bellecour jeunes incident retraites affrontements violence,2009,10,22,17,50,-1.7065952241389002,undef
+5113533763,45.758631,4.830808,101,h lyon police violence bellecour jeunes incident retraites violence,2009,10,22,17,47,-1.706597270518234,undef
+5114133224,45.758728,4.830808,101,h lyon police bellecour jeunes incident retraites violence,2009,10,22,17,47,-1.706597270518234,undef
+5114116142,45.75869,4.830915,101, lyon police violence francia violencia jovenes bellecour jeunes huelga manifestaciones disturbios pensiones incident retraites affrontements violence incidentes,2009,10,22,13,35,-1.7067691663822713,undef
+5114105746,45.758831,4.830831,101,h lyon police violence francia violencia jovenes bellecour jeunes huelga manifestaciones disturbios pensiones incident retraites affrontements violence incidentes,2009,10,22,11,22,-1.706859889199402,undef
+5366973709,45.758831,4.830831,101, ,2011,1,18,16,58,-1.2616659723774486,undef
+5333375742,45.758831,4.830831,101,grande roue place bellecour fte lumires lyon france france lyon fte lumires,2010,12,11,18,45,-1.298918943895978,undef
+5767096343,45.758831,4.830831,101,rassemblement bellecour street people lyon dry olympus spanish revolution e democraciarealya rassemblementbellecour,2011,5,27,20,46,-1.1347986392005815,undef
+5764576542,45.758831,4.830831,101,rassemblement bellecour street people lyon dry olympus spanish revolution e democraciarealya rassemblementbellecour,2011,5,26,19,40,-1.1358259216261375,undef
+5860944015,45.758831,4.830831,101,tilt shift lyon france place lyon shift tilt bellecour tiltshift,2010,9,8,15,45,-1.3913743621960435,undef
+5929605553,45.758831,4.830831,101,place bellecourt lyon france streetart art bird communityart windowzoo,2011,7,12,5,46,-1.0902284973109084,undef
+6058960524,45.758831,4.830831,101,grande roue place bellecour lyon granderoue placebellecour blackwhitephotos,2010,12,8,15,31,-1.3019980626668686,undef
+6302221417,45.758831,4.830831,101,place bellecour city blue sky urban house statue louis place lyon crowd center bleu ciel foule maison personnes ville immeuble xiv urbain bellecour,2011,1,15,15,37,-1.2646680108601005,undef
+6796054607,45.758831,4.830831,101,project lyon ideal french city street leica france tourism girl mm french photography place lyon balloon tourist summilux bellecour traboule leicam,2011,12,8,22,18,-0.943194777926109,undef
+6580641297,45.758831,4.830831,101, sculpture lightpainting vertical cheval soleil lyon couleurs hiver ballons nuit couleur roue roi rhone louisxiv placebellecour roisoleil fetedeslumieres ballonsdecouleurs,2011,1,1,0,0,-1.2790588324616678,undef
+6545825129,45.758831,4.830831,101,blurred balloon ,2011,12,12,21,2,-0.9393175712150452,undef
+6504262947,45.758831,4.830831,101,place bellecour fte lumires france lyon ballons lumires granderoue ftedeslumires placebellecour,2011,12,10,15,30,-0.9415085613550764,undef
+6839576522,45.758831,4.830831,101,bellecour travel lyon,2012,3,8,17,29,-0.8540060631691969,undef
+6974113671,45.758831,4.830831,101,rhne statue lyon rhone bellecour,2012,2,20,16,40,-0.8707379427286059,undef
+7585300030,45.758831,4.830831,101,fourviere sou feux juillet lyon oeil juillet morgane dartifice fourviere feux cabella bellecour comm troisieme,2012,7,14,21,50,-0.7280984818998713,undef
+7585299250,45.758831,4.830831,101,fourviere sou feux juillet lyon oeil juillet morgane dartifice fourviere feux cabella bellecour comm troisieme,2012,7,14,21,50,-0.7280984818998713,undef
+7585297874,45.758831,4.830831,101,fourviere sou feux juillet lyon oeil juillet morgane dartifice fourviere feux cabella bellecour comm troisieme,2012,7,14,21,50,-0.7280984818998713,undef
+7585296294,45.758831,4.830831,101,fourviere sou feux juillet lyon oeil juillet morgane dartifice fourviere feux cabella bellecour comm troisieme,2012,7,14,21,49,-0.7280991640263159,undef
+7585295548,45.758831,4.830831,101,fourviere sou feux juillet lyon oeil juillet morgane dartifice fourviere feux cabella bellecour comm troisieme,2012,7,14,21,49,-0.7280991640263159,undef
+7585294768,45.758831,4.830831,101,fourviere sou feux juillet lyon oeil juillet morgane dartifice fourviere feux cabella bellecour comm troisieme,2012,7,14,21,47,-0.7281005282792051,undef
+7585294296,45.758831,4.830831,101,fourviere sou feux juillet lyon oeil juillet morgane dartifice fourviere feux cabella bellecour comm troisieme,2012,7,14,21,46,-0.7281012104056497,undef
+7585293406,45.758831,4.830831,101,fourviere sou feux juillet lyon oeil juillet morgane dartifice fourviere feux cabella bellecour comm troisieme,2012,7,14,21,43,-0.7281032567849834,undef
+7585292012,45.758831,4.830831,101,fourviere sou feux juillet lyon oeil juillet morgane dartifice fourviere feux cabella bellecour comm troisieme,2012,7,14,21,43,-0.7281032567849834,undef
+7585291202,45.758831,4.830831,101,fourviere sou feux juillet lyon oeil juillet morgane dartifice fourviere feux cabella bellecour comm troisieme,2012,7,14,21,43,-0.7281032567849834,undef
+7585289494,45.758831,4.830831,101,fourviere sou feux juillet lyon oeil juillet morgane dartifice fourviere feux cabella bellecour comm troisieme,2012,7,14,21,42,-0.728103938911428,undef
+7585288684,45.758831,4.830831,101,fourviere sou feux juillet lyon oeil juillet morgane dartifice fourviere feux cabella bellecour comm troisieme,2012,7,14,21,42,-0.728103938911428,undef
+7585287886,45.758831,4.830831,101,fourviere sou feux juillet lyon oeil juillet morgane dartifice fourviere feux cabella bellecour comm troisieme,2012,7,14,21,41,-0.7281046210378727,undef
+7585287362,45.758831,4.830831,101,fourviere sou feux juillet lyon oeil juillet morgane dartifice fourviere feux cabella bellecour comm troisieme,2012,7,14,21,39,-0.7281059852907619,undef
+7585286712,45.758831,4.830831,101,fourviere sou feux juillet lyon oeil juillet morgane dartifice fourviere feux cabella bellecour comm troisieme,2012,7,14,21,39,-0.7281059852907619,undef
+7585285608,45.758831,4.830831,101,fourviere sou feux juillet lyon oeil juillet morgane dartifice fourviere feux cabella bellecour comm troisieme,2012,7,14,21,38,-0.7281066674172064,undef
+7585284836,45.758831,4.830831,101,fourviere sou feux juillet lyon oeil juillet morgane dartifice fourviere feux cabella bellecour comm troisieme,2012,7,14,21,38,-0.7281066674172064,undef
+7585284204,45.758831,4.830831,101,fourviere sou feux juillet lyon oeil juillet morgane dartifice fourviere feux cabella bellecour comm troisieme,2012,7,14,21,38,-0.7281066674172064,undef
+7585005466,45.758831,4.830831,101,fourviere sou feux juillet lyon oeil juillet morgane dartifice fourviere feux cabella bellecour comm troisieme,2012,7,14,21,38,-0.7281066674172064,undef
+7585004988,45.758831,4.830831,101,fourviere sou feux juillet lyon oeil juillet morgane dartifice fourviere feux cabella bellecour comm troisieme,2012,7,14,21,37,-0.728107349543651,undef
+7585004322,45.758831,4.830831,101,fourviere sou feux juillet lyon oeil juillet morgane dartifice fourviere feux cabella bellecour comm troisieme,2012,7,14,21,37,-0.728107349543651,undef
+7585003558,45.758831,4.830831,101,fourviere sou feux juillet lyon oeil juillet morgane dartifice fourviere feux cabella bellecour comm troisieme,2012,7,14,21,37,-0.728107349543651,undef
+7585002530,45.758831,4.830831,101,fourviere sou feux juillet lyon oeil juillet morgane dartifice fourviere feux cabella bellecour comm troisieme,2012,7,14,21,37,-0.728107349543651,undef
+7584838956,45.758831,4.830831,101,fourviere sou feux juillet lyon oeil juillet morgane fourviere feux dartifices cabella bellecour comm troisieme,2012,7,14,21,53,-0.7280964355205375,undef
+7584837972,45.758831,4.830831,101,fourviere sou feux juillet lyon oeil juillet morgane fourviere feux dartifices cabella bellecour comm troisieme,2012,7,14,21,52,-0.7280971176469822,undef
+7584836860,45.758831,4.830831,101,fourviere sou feux juillet lyon oeil juillet morgane fourviere feux dartifices cabella bellecour comm troisieme,2012,7,14,21,51,-0.7280977997734267,undef
+7584836102,45.758831,4.830831,101,fourviere sou feux juillet lyon oeil juillet morgane fourviere feux dartifices cabella bellecour comm troisieme,2012,7,14,21,33,-0.7281100780494294,undef
+7541850454,45.758831,4.830831,101,lyon ,2012,6,10,17,27,-0.7616747918820472,undef
+7965499294,45.758831,4.830831,101,autre naviguante lyon biennaledeladanse,2012,9,9,14,1,-0.6724294606302339,undef
+6480702173,45.758831,4.830831,101,lespoir yeux brillants light france night contrast dark eye december lyon circle oeil yeux ballons nuit ftedeslumires,2011,12,8,22,10,-0.9432002349376656,undef
+8375169457,45.758915,4.83083,101, ,2011,7,14,9,50,-1.0880975342980015,undef
+8375169383,45.758915,4.83083,101, ,2011,7,14,10,9,-1.0880845738955542,undef
+8375169333,45.758915,4.83083,101, ,2011,7,14,9,55,-1.0880941236657786,undef
+8376242752,45.758915,4.83083,101, ,2011,7,14,9,57,-1.0880927594128893,undef
+8375168991,45.758915,4.83083,101, ,2011,7,14,10,17,-1.0880791168839976,undef
+8376242414,45.758915,4.83083,101, ,2011,7,14,10,21,-1.0880763883782192,undef
+8375168801,45.758915,4.83083,101, ,2011,7,14,10,28,-1.088071613493107,undef
+8375168747,45.758915,4.83083,101, ,2011,7,14,13,20,-1.087954287744637,undef
+8376242156,45.758915,4.83083,101, ,2011,7,14,13,13,-1.0879590626297493,undef
+8376241904,45.758915,4.83083,101, ,2011,7,14,13,35,-1.0879440558479685,undef
+8375168401,45.758915,4.83083,101, ,2011,7,14,13,36,-1.0879433737215236,undef
+8375168219,45.758915,4.83083,101, ,2011,7,14,13,36,-1.0879433737215236,undef
+8376241606,45.758915,4.83083,101, ,2011,7,14,13,38,-1.0879420094686345,undef
+8376241324,45.758915,4.83083,101, ,2011,7,14,13,40,-1.0879406452157452,undef
+8375167717,45.758915,4.83083,101, ,2011,7,14,13,42,-1.087939280962856,undef
+8375167591,45.758915,4.83083,101, ,2011,7,14,13,49,-1.087934506077744,undef
+8376241020,45.758915,4.83083,101, ,2011,7,14,13,52,-1.08793245969841,undef
+8376240890,45.758915,4.83083,101, ,2011,7,14,13,58,-1.0879283669397426,undef
+8376240804,45.758915,4.83083,101, ,2011,7,14,13,59,-1.087927684813298,undef
+8376240628,45.758915,4.83083,101, ,2011,7,14,14,18,-1.087914724410851,undef
+8376240610,45.758915,4.83083,101, ,2011,7,14,14,17,-1.0879154065372951,undef
+8375166801,45.758915,4.83083,101, ,2011,7,14,14,19,-1.0879140422844062,undef
+8375166675,45.758915,4.83083,101, ,2011,7,14,14,20,-1.0879133601579616,undef
+8376239958,45.758915,4.83083,101, ,2011,7,14,14,29,-1.0879072210199603,undef
+8376239844,45.758915,4.83083,101, ,2011,7,14,14,25,-1.0879099495257387,undef
+8375166181,45.758915,4.83083,101, ,2011,7,14,14,31,-1.087905856767071,undef
+8376239534,45.758915,4.83083,101, ,2011,7,14,14,35,-1.0879031282612928,undef
+8375165951,45.758915,4.83083,101, ,2011,7,14,14,36,-1.087902446134848,undef
+8376239352,45.758915,4.83083,101, ,2011,7,14,14,47,-1.0878949427439577,undef
+8376239060,45.758915,4.83083,101, ,2011,7,14,14,50,-1.0878928963646235,undef
+8375165575,45.758915,4.83083,101, ,2011,7,14,14,54,-1.0878901678588455,undef
+8375165577,45.758915,4.83083,101, ,2011,7,14,14,51,-1.0878922142381793,undef
+8376238770,45.758915,4.83083,101, ,2011,7,14,16,7,-1.0878403726283905,undef
+8376238470,45.758915,4.83083,101, ,2011,7,14,16,8,-1.0878396905019456,undef
+8375165167,45.758915,4.83083,101, ,2011,7,14,16,7,-1.0878403726283905,undef
+8376238288,45.758915,4.83083,101, ,2011,7,14,22,14,-1.0875900322232248,undef
+8375164789,45.758915,4.83083,101, ,2011,7,15,12,32,-1.0870047677337644,undef
+8376237922,45.758915,4.83083,101, ,2011,7,15,13,6,-1.086981575434648,undef
+8375164353,45.758915,4.83083,101, ,2011,7,15,13,6,-1.086981575434648,undef
+8342689986,45.758831,4.830831,101, ,2013,1,1,1,23,-0.5609686353309327,undef
+8271911137,45.758831,4.830831,101, ,2012,12,6,20,59,-0.5857052687176345,undef
+8561670491,45.758831,4.830831,101, ,2013,3,16,15,41,-0.487695976905697,undef
+9320978523,45.758795,4.830787,101,cathedral basilica hill france lyon cathedral geotagged basilica,2013,7,5,10,57,-0.3788586099122983,undef
+13712059205,45.758747,4.83078,101, uploadedbyflickrmobile flickriosappfilternofilter,2013,12,7,18,58,-0.2262798846594065,undef
+13712071723,45.75878,4.830794,101, uploadedbyflickrmobile flickriosappfilternofilter,2013,12,7,18,57,-0.2262805667858511,undef
+15168485567,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,16,0,0.0496143413733593,undef
+15168483317,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,16,0,0.0496143413733593,undef
+15354685392,45.758802,4.830819,101,dfil france dance europe mask lyon place danse lip biennale masque dfil lvres,2014,9,14,16,0,0.0496143413733593,undef
+15351813551,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,57,0.0496122949940256,undef
+15351811361,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,56,0.049611612867581,undef
+15168421468,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,55,0.0496109307411364,undef
+15325491145,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,49,0.0496068379824688,undef
+15138937467,45.758803,4.83082,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,47,0.0496054737295796,undef
+15138887078,45.758803,4.83082,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,46,0.049604791603135,undef
+15138932027,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,45,0.0496041094766905,undef
+15325481395,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,39,0.0496000167180229,undef
+15138878808,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,39,0.0496000167180229,undef
+15138756610,45.758803,4.83082,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,39,0.0496000167180229,undef
+15325149962,45.758803,4.83082,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,38,0.0495993345915783,undef
+15098552627,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,21,0.0495877384420202,undef
+15285117775,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,21,0.0495877384420202,undef
+15098404920,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,20,0.0495870563155756,undef
+15281572095,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,19,0.049586374189131,undef
+15094863920,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,18,0.0495856920626865,undef
+15094816860,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,18,0.0495856920626865,undef
+15258499066,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,18,0.0495856920626865,undef
+15094894958,45.758803,4.83082,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,17,0.0495850099362419,undef
+15281459665,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,16,0.0495843278097973,undef
+15094897757,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,16,0.0495843278097973,undef
+15278244771,45.758802,4.830819,101,dfil musician music france dance europe lyon place danse biennale dfil,2014,9,14,15,16,0.0495843278097973,undef
+15094640740,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,15,0.0495836456833527,undef
+15094636740,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,15,0.0495836456833527,undef
+15094581059,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,15,0.0495836456833527,undef
+15278113081,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,14,0.0495829635569081,undef
+15094481490,45.758802,4.830819,101,dfil woman france look dance europe lyon femme place danse biennale regard dfil,2014,9,14,15,13,0.0495822814304635,undef
+15088614817,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,12,0.0495815993040189,undef
+15275177035,45.758803,4.83082,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,12,0.0495815993040189,undef
+15088425269,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,12,0.0495815993040189,undef
+15088472760,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,12,0.0495815993040189,undef
+15275172755,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,12,0.0495815993040189,undef
+15272052501,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,11,0.0495809171775743,undef
+15085448099,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,10,0.0495802350511297,undef
+15269074721,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil guignol,2014,9,14,15,10,0.0495802350511297,undef
+15085441929,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil guignol,2014,9,14,15,10,0.0495802350511297,undef
+15085520367,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,0,0.0495734137866838,undef
+15085498798,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,0,0.0495734137866838,undef
+15074969560,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,16,3,0.0496163877526931,undef
+15074915909,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,16,3,0.0496163877526931,undef
+15258568571,45.758803,4.83082,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,16,2,0.0496157056262485,undef
+15258565551,45.758803,4.83082,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,16,2,0.0496157056262485,undef
+15074941147,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,54,0.0496102486146918,undef
+15238439246,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,53,0.0496095664882472,undef
+15074810628,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,53,0.0496095664882472,undef
+15074805317,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,52,0.0496088843618026,undef
+15074767068,45.758803,4.83082,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,50,0.0496075201089134,undef
+15260916302,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,50,0.0496075201089134,undef
+15238297526,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,49,0.0496068379824688,undef
+15074548670,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,49,0.0496068379824688,undef
+15074474509,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,48,0.0496061558560242,undef
+15261192585,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,48,0.0496061558560242,undef
+15074598857,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,48,0.0496061558560242,undef
+15074439130,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,47,0.0496054737295796,undef
+15074383479,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,47,0.0496054737295796,undef
+15238079066,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil accordon,2014,9,14,15,46,0.049604791603135,undef
+15074354550,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,46,0.049604791603135,undef
+15261029575,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,46,0.049604791603135,undef
+15247612501,45.758803,4.83082,101,dfil france girl dance europe lyon place danse biennale dfil,2014,9,14,15,6,0.0495775065453513,undef
+15260972405,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,46,0.049604791603135,undef
+15074369718,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,46,0.049604791603135,undef
+15074341937,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,46,0.049604791603135,undef
+15260515512,45.758802,4.830819,101,dfil france girl dance europe lyon place danse biennale pantyhose dfil collant,2014,9,14,15,45,0.0496041094766905,undef
+15251632105,45.758802,4.830819,101,dfil france look dance europe lyon place danse biennale regard dfil,2014,9,14,15,53,0.0496095664882472,undef
+15064937360,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,28,0.0495925133271324,undef
+15251245922,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,23,0.0495891026949094,undef
+15251242552,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,22,0.0495884205684648,undef
+15064928480,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,22,0.0495884205684648,undef
+15064852389,45.758803,4.83082,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,20,0.0495870563155756,undef
+15251232702,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,19,0.049586374189131,undef
+15065031147,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,18,0.0495856920626865,undef
+15064585958,45.758803,4.83082,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,13,0.0495822814304635,undef
+15064581108,45.758803,4.83082,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,13,0.0495822814304635,undef
+15064371759,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,13,0.0495822814304635,undef
+15250675692,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,12,0.0495815993040189,undef
+15064358030,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,11,0.0495809171775743,undef
+15227939506,45.758803,4.83082,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,11,0.0495809171775743,undef
+15250557882,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,11,0.0495809171775743,undef
+15250925685,45.758802,4.830819,101,guignol france dance europe lyon place danse biennale dfil guignol,2014,9,14,15,11,0.0495809171775743,undef
+15250812155,45.758803,4.83082,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,7,0.0495781886717959,undef
+15063898600,45.758802,4.830819,101,dfil man france look dance europe lyon place security danse biennale regard dfil,2014,9,14,15,1,0.0495740959131284,undef
+15250562085,45.758803,4.83082,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,0,0.0495734137866838,undef
+15227495456,45.758803,4.83082,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,0,0.0495734137866838,undef
+15250062232,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,54,0.0496102486146918,undef
+15227438386,45.758802,4.830819,101,dfil woman france smile dance europe lyon place danse biennale sourire dfil,2014,9,14,15,6,0.0495775065453513,undef
+15063741870,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,5,0.0495768244189068,undef
+15250357755,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,12,0.0495815993040189,undef
+15219271956,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,49,0.0496068379824688,undef
+15239189661,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,48,0.0496061558560242,undef
+15239117241,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,15,0.0495836456833527,undef
+15241814662,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,14,0.0495829635569081,undef
+15055579627,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,0,0.0495734137866838,undef
+15611198105,45.758803,4.83082,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,48,0.0496061558560242,undef
+15425077248,45.758803,4.83082,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,24,0.049589784821354,undef
+15587361886,45.758803,4.83082,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,13,0.0495822814304635,undef
+16743291770,45.758803,4.83082,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,38,0.0495993345915783,undef
+16930686245,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,38,0.0495993345915783,undef
+16929393262,45.758802,4.830819,101,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,37,0.0495986524651337,undef
+21419159680,45.75883,4.830923,101,marathon france europe lyon marathon place roller lugdunumrollercontest,2015,9,20,15,50,0.414026751868003,undef
+39658193304,45.758815,4.830866,101,photo shooting front blue door place bellecour lyon nyannuro cosplay europe france godox lyon placebellecour place yokochancosplay,2018,2,18,14,15,1.280317104603791,undef
+39658189184,45.758716,4.83087,101,photo shooting front blue door place bellecour lyon nyannuro cosplay europe france godox lyon placebellecour place yokochancosplay,2018,2,18,14,15,1.280317104603791,undef
+39658196794,45.758815,4.830866,101,photo shooting front blue door place bellecour lyon nyannuro cosplay europe france godox lyon placebellecour place yokochancosplay,2018,2,18,14,15,1.280317104603791,undef
+42007537535,45.75881,4.830753,101,marche firts lgbt europe france gay lgbt lesbi lesbian lyon place pride,2018,6,16,15,29,1.396274507425846,undef
+42007534265,45.75881,4.830753,101,marche firts lgbt europe france gay lgbt lesbi lesbian lyon place pride,2018,6,16,15,28,1.3962738252994014,undef

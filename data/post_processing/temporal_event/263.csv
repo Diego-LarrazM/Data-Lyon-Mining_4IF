@@ -1,0 +1,146 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+8487616201,45.733205,4.818631,263,apocalypse lyon muse confluence,2013,2,15,13,50,-0.5162572932672289,undef
+13946592753,45.733324,4.81862,263,muse confluence nikoncoolpixp lyon confluence pont raymondbarre mulatire rhne sane noiretblanc blackandwhite nb bnw bw monochrome monochromatic bridge muse,2014,4,16,19,51,-0.0985496615301298,undef
+15491725813,45.733442,4.818557,263, ,2014,12,26,16,20,0.1508009781642087,undef
+16085630556,45.733442,4.818557,263, ,2014,12,26,16,22,0.1508023424170979,undef
+15925657157,45.733442,4.818557,263, ,2014,12,26,16,28,0.1508064351757654,undef
+16109413871,45.733442,4.818557,263,muse confluence ,2014,12,26,14,50,0.1507395867841953,undef
+15491636853,45.733442,4.818557,263,muse confluence ,2014,12,26,15,45,0.1507771037386479,undef
+16732455819,45.73322,4.818577,263, france lyon muse confluence fourvire,2014,12,11,16,17,0.1360650005816772,undef
+16697506367,45.73322,4.818577,263, france lyon confluence,2014,12,11,16,9,0.1360595435701205,undef
+16705282040,45.73322,4.818577,263, france lyon confluence,2014,12,11,16,3,0.1360554508114529,undef
+16888970602,45.73322,4.818577,263, france lyon confluence,2014,12,11,16,3,0.1360554508114529,undef
+16701380139,45.73322,4.818577,263, france lyon muse confluence,2014,12,11,16,1,0.1360540865585637,undef
+16822754205,45.733474,4.818599,263,wedding dress ,2015,3,8,21,23,0.2217305322522691,undef
+16075703204,45.733414,4.818685,263,lyon muse confluence rhne musedesconfluences lyoon,2015,2,28,15,30,0.2136316449756225,undef
+16672078106,45.733414,4.818685,263,lyon muse confluence rhne musedesconfluences lyoon,2015,2,28,15,30,0.2136316449756225,undef
+16078063453,45.733414,4.818685,263,lyon muse confluence rhne musedesconfluences lyoon,2015,2,28,15,31,0.2136323271020671,undef
+16511887149,45.733414,4.818685,263,lyon muse confluence rhne musedesconfluences lyoon,2015,2,28,15,32,0.2136330092285117,undef
+16078061623,45.733414,4.818685,263,lyon muse confluence rhne musedesconfluences lyoon,2015,2,28,15,33,0.2136336913549563,undef
+17154741732,45.733324,4.81862,263,muse confluence france architecture lyon muse dtail confluence nikoncoolpixp,2015,4,14,17,10,0.2579016512296749,undef
+17156334915,45.733324,4.81862,263,muse confluence france architecture lyon muse dtail confluence nikoncoolpixp,2015,4,14,17,10,0.2579016512296749,undef
+17130393376,45.733324,4.81862,263,muse confluence france architecture lyon muse dtail confluence nikoncoolpixp,2015,4,14,17,9,0.2579009691032303,undef
+17130392956,45.733324,4.81862,263,muse confluence white black france architecture noir lyon muse blanc dtail confluence nikoncoolpixp,2015,4,14,17,8,0.2579002869767857,undef
+17043949823,45.733544,4.818688,263, ,2015,2,8,11,22,0.1938172360131,undef
+18651304393,45.733414,4.818685,263,lyon muse confluence france lyon rhne muse coophimmelblau rhnealpes panasoniclumix musedesconfluences charpentemtallique laconfluence dmcfz,2015,6,28,14,35,0.3314655776467515,undef
+19054100778,45.733414,4.818685,263,lyon muse confluence france lyon rhne muse coophimmelblau rhnealpes panasoniclumix musedesconfluences charpentemtallique laconfluence dmcfz,2015,6,28,15,1,0.3314833129343109,undef
+18649396834,45.733414,4.818685,263,lyon muse confluence france lyon rhne muse coophimmelblau rhnealpes panasoniclumix musedesconfluences charpentemtallique laconfluence dmcfz,2015,6,28,14,40,0.3314689882789745,undef
+19275739361,45.733414,4.818685,263,lyon muse confluence ,2015,6,28,15,8,0.331488087819423,undef
+18619231114,45.733414,4.818685,263,lyon muse confluence france lyon rhne muse coophimmelblau rhnealpes panasoniclumix musedesconfluences charpentemtallique laconfluence dmcfz,2015,6,28,14,34,0.3314648955203069,undef
+19241696105,45.733414,4.818685,263,lyon muse confluence france lyon rhne muse coophimmelblau rhnealpes panasoniclumix musedesconfluences charpentemtallique laconfluence dmcfz,2015,6,28,14,58,0.3314812665549771,undef
+19055545479,45.733414,4.818685,263,lyon muse confluence france lyon rhne muse coophimmelblau rhnealpes panasoniclumix musedesconfluences charpentemtallique laconfluence dmcfz,2015,6,28,15,0,0.3314826308078663,undef
+20114285845,45.733243,4.818584,263,butterfly collection ,2015,7,29,14,53,0.3619279804093627,undef
+19493210133,45.733243,4.818584,263,confluence water museum lyon confluence fleuve,2015,7,29,14,49,0.3619252519035844,undef
+19667185680,45.733414,4.818685,263,lyon muse confluence france lyon rhne muse sane rhnealpes confluence musedesconfluences laconfluence,2015,7,14,10,30,0.3470146499512372,undef
+19686924995,45.733414,4.818685,263,lyon street bike france lyon rhne muse mtb cannondale vtt vlo sane rhnealpes superv confluence musedesconfluences cyclocrampons laconfluence cannondalesv,2015,7,14,10,24,0.3470105571925697,undef
+19500269719,45.733414,4.818685,263,lyon street bike france lyon rhne muse mtb cannondale vtt vlo sane rhnealpes superv confluence musedesconfluences cyclocrampons laconfluence cannondalesv,2015,7,14,10,25,0.3470112393190142,undef
+19498873898,45.733414,4.818685,263,lyon street bike france lyon rhne muse mtb cannondale vtt vlo sane rhnealpes superv confluence musedesconfluences cyclocrampons laconfluence cannondalesv,2015,7,14,10,28,0.347013285698348,undef
+19500261779,45.733414,4.818685,263,lyon street bike france lyon rhne muse mtb cannondale vtt vlo sane rhnealpes superv confluence musedesconfluences cyclocrampons laconfluence cannondalesv,2015,7,14,10,28,0.347013285698348,undef
+19065977583,45.733414,4.818685,263,lyon street bike france lyon rhne muse mtb cannondale vtt vlo sane rhnealpes superv confluence musedesconfluences cyclocrampons laconfluence cannondalesv,2015,7,14,10,29,0.3470139678247926,undef
+20260656061,45.733243,4.818584,263,structurtown city france town lyon ville,2015,8,3,13,5,0.3667656211544126,undef
+21244029596,45.733489,4.818803,263,muse confluence canicule france museum landscape lyon rhne muse paysage confluent paysageurbain confluence musedesconfluences,2015,7,7,14,33,0.3403045721157809,undef
+25845821040,45.733474,4.818738,263,lyon muse confluence france lyon rhne pont musedesconfluences laconfluence pontraymondbarre rhnealpesauvergne musedesconfluenceslyonfrance architectecoophimmelblau,2016,3,28,12,12,0.6005078435435859,undef
+26026130432,45.733407,4.818727,263,lyon muse confluence france lyon rhne musedesconfluences laconfluence rhnealpesauvergne musedesconfluenceslyonfrance architectecoophimmelblau,2016,3,28,12,13,0.6005085256700305,undef
+26052298951,45.733407,4.818727,263,lyon muse confluence france lyon rhne musedesconfluences laconfluence rhnealpesauvergne musedesconfluenceslyonfrance architectecoophimmelblau,2016,3,28,12,22,0.6005146648080318,undef
+25883392261,45.733549,4.81877,263,coucou jean michel bw lyon nb,2016,3,7,18,39,0.5801443227931664,undef
+25720652035,45.733549,4.81877,263,space invader urban lyon confluence urbain,2016,3,7,18,44,0.5801477334253894,undef
+25679859205,45.733549,4.81877,263,paquebot urbain urban architecture confluence urbain,2016,3,7,18,43,0.5801470512989448,undef
+26274178955,45.733549,4.81877,263,ombres courbes longexposure bridge blackandwhite bw monochrome architecture noiretblanc nb pont poselongue,2016,3,30,17,33,0.6026913302927265,undef
+26188209516,45.733549,4.81877,263,sou pont longexposure bridge architecture pont poselongue,2016,3,30,17,11,0.6026763235109455,undef
+25604934113,45.733361,4.818672,263,flanc gauche muse confluence france lyon musee confluence rhnealpes igers igerslyon monlyon,2016,3,19,18,53,0.5919410175259489,undef
+27144526606,45.733407,4.818727,263,muse confluence nuit mus france lyon rhne musedesconfluences laconfluence rhnealpesauvergne musedesconfluenceslyonfrance architectecoophimmelblau,2016,5,21,19,6,0.6538323962231589,undef
+27177430555,45.733407,4.818727,263,muse confluence nuit mus france lyon rhne musedesconfluences laconfluence rhnealpesauvergne musedesconfluenceslyonfrance architectecoophimmelblau,2016,5,21,19,7,0.6538330783496035,undef
+27144522816,45.733407,4.818727,263,muse confluence nuit mus france lyon rhne musedesconfluences laconfluence rhnealpesauvergne musedesconfluenceslyonfrance architectecoophimmelblau,2016,5,21,19,10,0.6538351247289372,undef
+26565243613,45.733407,4.818727,263,muse confluence nuit mus france lyon rhne musedesconfluences laconfluence rhnealpesauvergne musedesconfluenceslyonfrance architectecoophimmelblau,2016,5,21,19,12,0.6538364889818264,undef
+26563707354,45.733407,4.818727,263,muse confluence nuit mus france lyon rhne musedesconfluences laconfluence rhnealpesauvergne musedesconfluenceslyonfrance architectecoophimmelblau,2016,5,21,19,27,0.6538467208784954,undef
+27131541626,45.733407,4.818727,263,muse confluence nuit mus france lyon rhne musedesconfluences laconfluence rhnealpesauvergne musedesconfluenceslyonfrance architectecoophimmelblau,2016,5,21,19,8,0.6538337604760481,undef
+26560235523,45.733407,4.818727,263,muse confluence nuit mus france lyon rhne musedesconfluences laconfluence rhnealpesauvergne musedesconfluenceslyonfrance architectecoophimmelblau,2016,5,21,19,3,0.6538303498438252,undef
+29019942944,45.733527,4.818597,263, ,2016,9,12,20,5,0.7658505188276923,undef
+29261509030,45.733333,4.818611,263,muse confluence ,2016,9,4,17,5,0.7578696394259602,undef
+30617701815,45.733324,4.81862,263,muse confluence nikoncoolpixp lyon nuit night noiretblanc nb bw bnw blackandwhite monochrome muse confluence pont bridge architecture monochromatic,2016,10,27,21,8,0.8100952864032948,undef
+30500566442,45.733324,4.81862,263,muse confluence nikoncoolpixp lyon nuit night muse confluence pont bridge architecture,2016,10,27,21,21,0.8101041540470744,undef
+30617699925,45.733324,4.81862,263,muse confluence nikoncoolpixp lyon nuit night muse confluence pont bridge architecture lumire verre glass rhne rhnealpes light,2016,10,27,21,8,0.8100952864032948,undef
+30578082376,45.733383,4.818591,263,lyonconfluence france lyon,2016,10,17,15,51,0.8000564315182271,undef
+30350556373,45.733324,4.81862,263,lyon muse confluence nikoncoolpixp lyon architecture muse museum musedesconfluences,2016,11,19,13,4,0.832357165049015,undef
+30790262680,45.733324,4.81862,263,muse confluence nikoncoolpixp lyon architecture muse museum musedesconfluences,2016,11,19,13,5,0.8323578471754597,undef
+30336674144,45.733324,4.81862,263,lyon muse confluence nikoncoolpixp lyon architecture muse museum musedesconfluences noiretblanc nb blackandwhite bw bnw monochrome geometry abstrait,2016,11,19,13,37,0.8323796752216867,undef
+31157993215,45.733324,4.81862,263,lyon muse confluence nikoncoolpixp lyon architecture muse museum musedesconfluences noiretblanc nb blackandwhite bw bnw monochrome,2016,11,19,13,36,0.832378993095242,undef
+31134258275,45.733397,4.818727,263,dsc dxo ,2015,4,18,15,44,0.2617720366762927,undef
+30243459234,45.733324,4.81862,263,muse confluence nikoncoolpixp confluence lyon nuit night light lumire muse musedesconfluences bleu blue,2016,11,8,17,49,0.8217466882033789,undef
+30243458914,45.733324,4.81862,263,muse confluence nikoncoolpixp confluence lyon nuit night light lumire muse musedesconfluences bleu blue pont bridge raymondbarre,2016,11,8,17,52,0.8217487345827127,undef
+30239929503,45.733324,4.81862,263,muse confluence nikoncoolpixp confluence lyon nuit night light lumire muse musedesconfluences bleu blue,2016,11,8,17,50,0.8217473703298236,undef
+30787055011,45.733324,4.81862,263,muse confluence nikoncoolpixp confluence lyon nuit night light lumire muse musedesconfluences,2016,11,8,17,47,0.8217453239504897,undef
+23180769494,45.73355,4.818755,263,da museum verschluckt seine besucher museum sepia architecture blackwhite frankreich outdoor architektur monochrom personen einfarbig,2015,12,8,11,17,0.4914392356854704,undef
+32954877926,45.733444,4.818706,263,muse confluence architecture france lyon musedesconfluences pentax pentaxk ii rhne city coucherdesoleil sunset urban urbanlandscape ville,2017,2,15,18,12,0.9190063230527094,undef
+32847851151,45.733444,4.818706,263,muse confluence architecture france lyon musedesconfluences pentax pentaxk ii rhne city coucherdesoleil sunset urban urbanlandscape ville,2017,2,15,17,55,0.9189947269031512,undef
+32918091296,45.733444,4.818706,263,muse confluence architecture france lyon musedesconfluences pentax pentaxk ii rhne city coucherdesoleil sunset urban urbanlandscape ville,2017,2,15,18,13,0.919007005179154,undef
+32803312322,45.733444,4.818706,263,muse confluence architecture france lyon musedesconfluences pentax pentaxk ii rhne bluehour city coucherdesoleil heurebleue sunset urban urbanlandscape ville,2017,2,15,18,29,0.9190179192022674,undef
+32914766866,45.733444,4.818706,263,muse confluence architecture france lyon musedesconfluences pentax pentaxk ii rhne bluehour city coucherdesoleil heurebleue sunset urban urbanlandscape ville,2017,2,15,18,29,0.9190179192022674,undef
+32096339904,45.733444,4.818706,263,muse confluence architecture france lyon musedesconfluences pentax pentaxk ii rhne city coucherdesoleil sunset urban urbanlandscape ville,2017,2,15,18,16,0.9190090515584876,undef
+32080776264,45.733444,4.818706,263,muse confluence architecture france lyon musedesconfluences pentax pentaxk ii rhne city coucherdesoleil sunset urban urbanlandscape ville,2017,2,15,18,0,0.9189981375353742,undef
+32733085202,45.733444,4.818706,263,muse confluence architecture france lyon musedesconfluences pentax pentaxk ii printemps rhne rhnealpes city cloud muse nuages urban ville,2016,6,3,18,22,0.6665717897023682,undef
+32053119853,45.733444,4.818706,263,muse confluence architecture france hdr lyon musedesconfluences pentax pentaxk ii printemps rhne rhnealpes city cloud muse nuages sigma f urban ville,2016,6,3,18,33,0.6665792930932587,undef
+32716290711,45.733549,4.81877,263,stanzinspiration ,2016,3,30,17,41,0.6026967873042832,undef
+32838748175,45.733444,4.818706,263,muse confluence architecture france lyon musedesconfluences pentax pentaxk ii rhne city coucherdesoleil sunset urban urbanlandscape ville,2017,2,8,17,49,0.9121147995829916,undef
+32672159172,45.733444,4.818706,263,muse confluence architecture france lyon musedesconfluences pentax pentaxk ii rhne city coucherdesoleil sunset urban urbanlandscape ville,2017,2,8,17,46,0.9121127532036576,undef
+32674175701,45.733444,4.818706,263,muse confluence architecture france lyon musedesconfluences pentax pentaxk ii rhne city coucherdesoleil sunset urban urbanlandscape ville,2017,2,8,17,56,0.9121195744681037,undef
+31830815434,45.73345,4.818611,263,arlequin ,2017,2,2,17,12,0.9061959884232624,undef
+33950256471,45.733425,4.818601,263,confluence instagramapp square squareformat iphoneography uploadedbyinstagram clarendon,2017,4,16,16,4,0.9778547356805922,undef
+33620947830,45.733324,4.818706,263,journe muse musee confluence lyon nb bw noiretblanc blackandwhite architecture moderne urban urbain ligne,2017,4,8,12,49,0.9698636243821912,undef
+34517515266,45.733324,4.81862,263,muse confluence muse musedesconfluences museum confluence lyon nikoncoolpixp architecture noiretblanc nb blackandwhite bnw bw monochrome monochromatic,2017,5,9,20,6,1.0006118381250868,undef
+33722894643,45.733324,4.81862,263,muse confluence nikoncoolpixp lyon muse museum musedesconfluences confluence architecture,2015,5,28,11,9,0.3008749351125569,undef
+34532970425,45.733324,4.81862,263,muse confluence nikoncoolpixp muse confluence lyon architecture musedesconfluences museum noiretblanc nb bnw bw blackandwhite monochrome monochromatic,2017,5,8,16,24,0.999478143974174,undef
+34827270823,45.733444,4.818706,263,lyon architecture architectureetbatiments batiments confluence muse paysage rhne ville city cityscape fil france lyon musedesconfluences pentax pentaxk ii urban urbanlandscape,2015,11,3,17,54,0.4573308670765124,undef
+35636013375,45.733444,4.818706,263,lyon architecture architectureetbatiments batiments confluence muse paysage rhne ville city cityscape fil france lyon musedesconfluences pentax pentaxk ii urban urbanlandscape,2015,11,3,17,50,0.457328138570734,undef
+35040174850,45.733444,4.818706,263,muse confluence architecture france lyon musedesconfluences pentax pentaxk ii rhne bluehour city heurebleue sunset urban urbanlandscape ville,2017,6,11,21,43,1.033092653037247,undef
+35338590955,45.733444,4.818706,263,muse confluence architecture france lyon musedesconfluences pentax pentaxk ii rhne city couchant coucherdesoleil sunset urban urbanlandscape ville,2017,6,11,20,57,1.033061275220796,undef
+35319130605,45.733444,4.818706,263,muse confluence architecture france lyon musedesconfluences pentax pentaxk ii rhne city couchant coucherdesoleil sunset urban urbanlandscape ville,2017,6,11,20,57,1.033061275220796,undef
+34461033514,45.733324,4.81862,263,muse confluence fujifilmxt lyon confluence musedesconfluences confluence museum noiretblanc nb blackandwhite bnw bw monochrome monochromatic architecture structure,2017,6,14,13,22,1.0356976939291458,undef
+34461033624,45.733324,4.81862,263,muse confluence fujifilmxt lyon confluence musedesconfluences confluence museum noiretblanc nb blackandwhite bnw bw monochrome monochromatic architecture structure,2017,6,14,13,24,1.0356990581820351,undef
+34482245303,45.733444,4.818706,263,muse confluence architecture france lyon musedesconfluences pentax pentaxk ii rhne bluehour city heurebleue sunset urban urbanlandscape ville,2017,6,11,21,22,1.0330783283819107,undef
+34256156274,45.733444,4.818706,263,muse confluence avantaprs musedesconfluences lyon,2017,5,17,0,6,1.0076513830332812,undef
+35537210130,45.733444,4.818706,263,muse confluence architecture france lyon musedesconfluences pentax pentaxk ii rhne blending city landscape paysage urban urbanlandscape ville,2017,7,11,17,31,1.0623886195796053,undef
+35108676713,45.733444,4.818706,263,muse confluence architecture france lyon musedesconfluences pentax pentaxk ii rhne blending city landscape paysage urban urbanlandscape ville,2017,7,11,17,46,1.062398851476274,undef
+35076624063,45.733444,4.818706,263,muse confluence architecture france lyon musedesconfluences pentax pentaxk ii rhne blending city landscape paysage urban urbanlandscape ville,2017,7,11,17,34,1.062390665958939,undef
+34848495653,45.733444,4.818706,263,muse confluence architecture architectureetbatiments batiments confluence muse paysage rhne ville city cityscape fil france lyon musedesconfluences pentax pentaxk ii urban urbanlandscape,2015,11,3,17,46,0.4573254100649556,undef
+35598872336,45.733444,4.818706,263,pont raymond barre architecture architectureetbatiments batiments confluence muse paysage pontraymondbarre rhne ville city cityscape fil france lyon musedesconfluences pentax pentaxk ii urban urbanlandscape,2015,11,3,17,47,0.4573260921914002,undef
+37411815441,45.733444,4.818706,263,muse confluence architecture france lyon musedesconfluences pentax pentaxk ii printemps rhne rhnealpes city cloud muse nuages sigma f urban ville,2016,7,2,20,6,0.695128331178788,undef
+37484853950,45.733444,4.818706,263,muse confluence architecture bw france lyon musedesconfluences nb noiretblanc paysage pentax pentaxk ii photographe rhne blending city confluence fineart urban ville,2016,7,2,19,26,0.6951010461210043,undef
+36858715944,45.733444,4.818706,263,muse confluence architecture bw france k ii lyon musedesconfluences nb noiretblanc pentax pentaxk ii rhne archi automobile autoroute blackandwhite blackwhite blending city couchant coucherdesoleil fil landscape lightstream longexposure nightlights poselongue sunset urban urbanlandscape ville voiture,2017,10,5,18,42,1.1469115894555046,undef
+37559398961,45.733444,4.818706,263,muse confluence architecture france k ii lyon musedesconfluences onlylyon pentax pentaxk ii rhne archi blending city confluence longexposure night nightlights nightshot nosturne nuit poselongue urban urbanlandscape ville,2017,10,5,19,32,1.1469456957777344,undef
+37511373976,45.733444,4.818706,263,muse confluence architecture france lyon musedesconfluences pentax pentaxk ii rhne automobile autoroute city couchant coucherdesoleil fil lightstream nightlights sunset urban urbanlandscape ville,2017,10,5,18,35,1.146906814570393,undef
+37555361501,45.733444,4.818706,263,muse confluence architecture france lyon musedesconfluences pentax pentaxk ii pontraymondbarre rhne automobile autoroute city couchant coucherdesoleil fil lightstream nightlights sunset urban urbanlandscape ville,2017,10,5,18,59,1.1469231856050628,undef
+37505923852,45.733444,4.818706,263,muse confluence architecture france lyon musedesconfluences pentax pentaxk ii rhne automobile autoroute city couchant coucherdesoleil fil lightstream nightlights sunset urban urbanlandscape ville,2017,10,5,18,42,1.1469115894555046,undef
+23576843248,45.733444,4.818706,263,muse confluence architecture bw france lyon musedesconfluences nb noiretblanc paysage pentax pentaxk ii photographe rhne blending city confluence fineart urban ville,2016,7,2,19,28,0.6951024103738934,undef
+38162417071,45.733392,4.818749,263,bonjour jms lyon pont bridge leverdesoleil confluence sunrise pontraymondbarre morning,2017,10,18,8,15,1.1592533032175163,undef
+24295113868,45.733444,4.818706,263,muse confluence architecture france lyon musedesconfluences pentax pentaxk ii rhne bluehour city coucherdesoleil heurebleue sunset urban urbanlandscape ville,2017,2,15,18,9,0.9190042766733756,undef
+39604710125,45.733459,4.818588,263,offset metal square geometry steel concrete shiny,2018,2,2,11,17,1.2644794928132426,undef
+40334955391,45.733444,4.818706,263,muse confluence architecture bw france lyon musedesconfluences nb noiretblanc paysage pentax pentaxk ii photographe rhne blending city confluence fineart urban ville,2016,7,2,19,28,0.6951024103738934,undef
+40224350392,45.733324,4.81862,263,dscf fujifilmxt lyon musedesconfluences muse museum,2018,2,14,19,13,1.2765913299634268,undef
+25397962227,45.733324,4.81862,263,dscf fujifilmxt lyon musedesconfluences muse museum,2018,2,14,19,8,1.2765879193312035,undef
+39976745792,45.733324,4.81862,263, fujifilmxt lyon musedesconfluences coucherdesoleil sunset,2018,1,31,18,58,1.2628294289437734,undef
+39653851902,45.733444,4.818706,263,muse confluence architecture france lyon musedesconfluences pentax pentaxk ii rhne bluehour city coucherdesoleil heurebleue sunset urban urbanlandscape ville,2017,2,15,18,27,0.9190165549493782,undef
+40770732602,45.733324,4.81862,263, fujifilmxt lyon confluence noiretblanc nb blackandwhite bnw bw monochrome monochromatic nuit night,2018,3,13,21,42,1.303214042969427,undef
+40795988381,45.733324,4.81862,263, fujifilmxt lyon nuit night pont bridge raymondbarre muse musedesconfluences museum rhne fleuve river,2018,3,13,22,45,1.3032570169354365,undef
+25942450707,45.733324,4.81862,263, fujifilmxt nuit night muse museum musedesconfluences lyon lumire light,2018,3,13,21,25,1.3032024468198689,undef
+39765754105,45.733324,4.81862,263,muse confluence fujifilmxt lyon musedesconfluences architecture muse museum confluence,2018,3,6,19,11,1.2962352073148011,undef
+40721250994,45.733324,4.81862,263, fujifilmxt lyon muse museum musedesconfluences nuit night,2018,4,12,21,3,1.3326553024444832,undef
+41393105102,45.733324,4.81862,263, fujifilmxt lyon muse museum musedesconfluences nuit night,2018,4,12,21,1,1.332653938191594,undef
+39626186960,45.733324,4.81862,263, fujifilmxt lyon muse museum musedesconfluences nuit night,2018,4,12,20,57,1.3326512096858156,undef
+27562379128,45.733324,4.81862,263, fujifilmxt lyon nuit night muse museum musedesconfluences rhne fleuve river pont bridge,2018,4,12,22,3,1.332696230031159,undef
+39625707080,45.733324,4.81862,263, fujifilmxt lyon nuit night muse museum musedesconfluences rhne fleuve river pont bridge,2018,4,12,22,0,1.332694183651825,undef
+26562417737,45.733324,4.81862,263, fujifilmxt lyon muse museum musedesconfluences confluence rhne fleuve river nuit night pont bridge raymondbarre poselongue longexposure,2018,4,12,21,16,1.3326641700882629,undef
+41797000850,45.733369,4.818567,263,entre muse confluence presqule confluence lyon auvergnerhnealpes france claudelina france auvergnerhnealpes lyon muse museum musedesconfluences exposition,2018,5,24,14,33,1.3736442805000455,undef
+31830202988,45.733219,4.818661,263, lyon,2018,11,1,18,55,1.5319671925428506,undef
+46974087684,45.733324,4.81862,263, fujifilmxt lyon musedesconfluences nuage cloud,2019,5,2,17,1,1.7106611287269655,undef
+46973919224,45.733324,4.81862,263, fujifilmxt lyon nuage cloud musedesconfluences noiretblanc nb blackandwhite bnw bw monochrome monochromatic,2019,5,2,17,2,1.7106618108534104,undef
+40796824903,45.733324,4.81862,263, fujifilmxt lyon nuage cloud musedesconfluences,2019,5,2,17,2,1.7106618108534104,undef
+46842691235,45.733324,4.81862,263, fujifilmxt lyon musedesconfluences noiretblanc nb blackandwhite bnw bw monochrome monochromatic,2019,5,2,17,7,1.7106652214856335,undef
+48088339732,45.733324,4.81862,263,muse confluence lyon fujifilmxt lyon muse musedesconfluences architecture moderne noiretblanc nb blackandwhite bnw bw monochrome monochromatic,2019,6,17,18,0,1.755885429877003,undef
+48088026082,45.733324,4.81862,263,muse confluence lyon fujifilmxt lyon muse musedesconfluences architecture moderne,2019,6,17,18,6,1.7558895226356706,undef
+48553201367,45.733269,4.818633,263,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso nik dxopl frankrijk franrijk jossaris jossarisfoto lr lyon nik rhne,2019,7,27,15,47,1.7950851902683995,undef
+48536644272,45.733269,4.818633,263,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,15,47,1.7950851902683995,undef
+48472841292,45.733269,4.818633,263,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,15,47,1.7950851902683995,undef
+48437594707,45.733324,4.81862,263,muse confluence lyon fujifilmxt lyon musedesconfluences muse museum architecture nisi filtrepolarisantcplpro,2019,8,1,20,16,1.8001799926830606,undef
+48437402936,45.733324,4.81862,263,muse confluence lyon fujifilmxt lyon musedesconfluences muse museum architecture nisi filtrepolarisantcplpro,2019,8,1,20,16,1.8001799926830606,undef
+48852454726,45.733444,4.818706,263,flash architecture canon dmarkii france irix mmf lyon muse musedesconfluences rhne city cityscape jardins landscape lumire reflet rembarde urban urbanlandscape ville,2019,10,1,18,47,1.860037270322496,undef

@@ -1,0 +1,95 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+4385726607,45.76381,4.828222,5, lyon,2009,8,7,15,11,145120260.0,undef,2009-08-07 15:11:00
+4386490834,45.76381,4.828222,5,liquid lyon,2009,8,7,15,7,145120020.0,undef,2009-08-07 15:07:00
+4385726281,45.76381,4.828222,5, lyon,2009,8,7,15,5,145119900.0,undef,2009-08-07 15:05:00
+4385726095,45.76381,4.828222,5, lyon,2009,8,7,15,3,145119780.0,undef,2009-08-07 15:03:00
+4386490126,45.76381,4.828222,5,banana lyon,2009,8,7,14,58,145119480.0,undef,2009-08-07 14:58:00
+4385725655,45.76381,4.828222,5,scarface lyon,2009,8,7,14,53,145119180.0,undef,2009-08-07 14:53:00
+4624399943,45.763735,4.828255,5,belle poque digital canon eos blackwhite lyon noiretblanc nicolas contraste noirblanc chalvet caneos,2010,5,10,14,56,168965760.0,undef,2010-05-10 14:56:00
+4101605232,45.76372,4.828319,5,atomic tom lyon puppet,2009,11,12,19,0,153514800.0,undef,2009-11-12 19:00:00
+4100848387,45.76372,4.828319,5,small soldier lyon puppet,2009,11,12,19,0,153514800.0,undef,2009-11-12 19:00:00
+5821822305,45.763789,4.828125,5,onglet plein dharicots uu square squareformat brannan iphoneography instagramapp uploadedbyinstagram foursquarevenue dea f e,2011,6,11,22,47,203294820.0,undef,2011-06-11 22:47:00
+5821786173,45.763789,4.828125,5,tartare saumon entre h square nashville squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue dea f e,2011,6,11,22,34,203294040.0,undef,2011-06-11 22:34:00
+5822283136,45.763789,4.828125,5,teste pique si jai encore faim vais commander pho namdo square squareformat brannan iphoneography instagramapp uploadedbyinstagram foursquarevenue dea f e,2011,6,11,22,10,203292600.0,undef,2011-06-11 22:10:00
+6317662673,45.763743,4.828158,5,dorotinha france geotagged lyon frana vieuxlyon christianbaudet dorotadugosz,2011,9,24,16,34,212344440.0,undef,2011-09-24 16:34:00
+6317655225,45.763743,4.828158,5,batoukailleurs france geotagged lyon frana vieuxlyon christianbaudet lesbatoukailleurs,2011,9,24,16,33,212344380.0,undef,2011-09-24 16:33:00
+6317647633,45.763743,4.828158,5,batoukailleurs france geotagged lyon frana vieuxlyon christianbaudet lesbatoukailleurs,2011,9,24,16,31,212344260.0,undef,2011-09-24 16:31:00
+5243466672,45.763788,4.828308,5,medieval busker luc arbogast musician busker lute lucarbogast lecapricorn,2010,4,11,15,21,166461660.0,undef,2010-04-11 15:21:00
+5242869939,45.763799,4.828276,5,guestbook luc arbogast lucarbogast,2010,4,11,15,24,166461840.0,undef,2010-04-11 15:24:00
+5242868263,45.763765,4.828308,5,luc arbogast pleases crowd ,2010,4,11,15,37,166462620.0,undef,2010-04-11 15:37:00
+7080014579,45.763755,4.828244,5,saucisson chaud andouillette vin rouge bouchon lyonnais square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue fc,2012,4,15,16,11,229968660.0,undef,2012-04-15 16:11:00
+7800713638,45.763743,4.828094,5,spiralling france stair spiral lyon step spiralstaircase traboule vieuxlyon mmvr nikond,2012,8,11,11,24,240146640.0,undef,2012-08-11 11:24:00
+8509286225,45.763666,4.828166,5,lyon ,2012,7,7,22,22,237162120.0,undef,2012-07-07 22:22:00
+8402135345,45.76372,4.828104,5,rue saintjean france mannequin window shop laughing lyon display vieuxlyon ruesaintjean,2012,12,11,11,45,250688700.0,undef,2012-12-11 11:45:00
+8722741991,45.76378,4.828308,5,crperie france reflection mm restaurant cafe nikon lyon gimp cider jug nikkor f crpes crperie cidre,2013,5,1,15,23,262884180.0,undef,2013-05-01 15:23:00
+9056337199,45.763788,4.828158,5,upload square squareformat earlybird iphoneography instagramapp uploadedbyinstagram foursquarevenue bd f e,2013,6,16,7,1,266828460.0,undef,2013-06-16 07:01:00
+8924271170,45.763788,4.828158,5,upload square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bd f e,2013,6,2,6,46,265617960.0,undef,2013-06-02 06:46:00
+9255903230,45.763875,4.828215,5,rue st jean square squareformat earlybird iphoneography instagramapp uploadedbyinstagram foursquarevenue fa e fb e,2013,7,10,6,1,268898460.0,undef,2013-07-10 06:01:00
+9527126916,45.763833,4.828166,5,lyon ,2013,7,18,22,35,269649300.0,undef,2013-07-18 22:35:00
+10019628333,45.763833,4.828166,5,lyon ,2013,9,11,15,55,274377300.0,undef,2013-09-11 15:55:00
+10019493184,45.763833,4.828166,5,lyon ,2013,9,11,14,51,274373460.0,undef,2013-09-11 14:51:00
+10019602923,45.763833,4.828166,5,frech people dressed like chicken dry humping punch judy guignol show ,2013,9,11,15,3,274374180.0,undef,2013-09-11 15:03:00
+12210914333,45.763747,4.828169,5,vieux lyon lyon vieux,2012,1,8,19,7,221512020.0,undef,2012-01-08 19:07:00
+13902494203,45.763745,4.828116,5,departure ,2014,4,6,14,57,292258620.0,undef,2014-04-06 14:57:00
+13712115325,45.763786,4.828175,5, uploadedbyflickrmobile flickriosappfilternofilter,2013,12,7,20,22,281910120.0,undef,2013-12-07 20:22:00
+14592937958,45.763739,4.828185,5,lyon lyon,2014,3,23,19,42,291066120.0,undef,2014-03-23 19:42:00
+14973711447,45.763672,4.82823,5, ,2014,9,5,12,15,305381700.0,undef,2014-09-05 12:15:00
+15420450521,45.763737,4.828102,5, lyon quenelles,2014,9,24,19,45,307050300.0,undef,2014-09-24 19:45:00
+15234462049,45.763687,4.82825,5, lyon bouchon,2014,9,24,20,39,307053540.0,undef,2014-09-24 20:39:00
+15234621538,45.763687,4.82825,5, lyon bouchon,2014,9,24,20,39,307053540.0,undef,2014-09-24 20:39:00
+15234663607,45.76362,4.82815,5, lyon bouchon,2014,9,24,20,39,307053540.0,undef,2014-09-24 20:39:00
+15689256939,45.763755,4.828266,5, ,2014,6,9,5,11,297753060.0,undef,2014-06-09 05:11:00
+15687840500,45.763755,4.828266,5, ,2014,6,9,5,11,297753060.0,undef,2014-06-09 05:11:00
+11350372923,45.763836,4.828186,5,general store france canon geotagged eos lyon generalstore rhnealpes cdlcreative geolon geolat,2013,12,6,11,37,281792220.0,undef,2013-12-06 11:37:00
+16786065826,45.763705,4.828212,5,lyon gangway france lyon,2013,3,2,13,41,257694060.0,undef,2013-03-02 13:41:00
+16188718372,45.763623,4.828233,5,lyon place gouvernement france architecture frankreich lyon lione frana rhne frankrijk francia renaissance francie frankrig lyon historicalbuilding frankrike vieuxlyon rhnealpes francja december,2014,12,21,13,48,314632080.0,undef,2014-12-21 13:48:00
+16535900110,45.763788,4.828201,5,place baleine ,2015,2,27,23,21,320541660.0,undef,2015-02-27 23:21:00
+16893902100,45.763743,4.82833,5,another bouchon france restaurant frankreich lyon bouchon,2015,3,21,16,58,322419480.0,undef,2015-03-21 16:58:00
+22460836615,45.763705,4.828252,5,place gouvernement france lyon vieuxlyon,2014,12,19,11,13,314449980.0,undef,2014-12-19 11:13:00
+22364066721,45.763644,4.828244,5,lyon october world france night french stand october lyon magic papa nuit franais barbe crpes barbepapa,2015,10,19,20,22,340748520.0,undef,2015-10-19 20:22:00
+25495381344,45.763712,4.828296,5,lyon mannequin vitrine mannequin lyon casquette homme rhone anne,2016,3,28,15,45,354642300.0,undef,2016-03-28 15:45:00
+26033790581,45.763712,4.828296,5,lyon mannequin vitrine mannequin lyon femme vitrine coiffure rhone rouleau anne,2016,3,28,15,46,354642360.0,undef,2016-03-28 15:46:00
+25827301270,45.763712,4.828296,5,lyon mannequin vitrine usa mannequin lyon femme lunette gi soldat rayban vitrine rhone blackwoman noire calot,2016,3,28,15,47,354642420.0,undef,2016-03-28 15:47:00
+25590052442,45.763833,4.828166,5,francia lione fete lumieres rue st jean vino caldo bar lione francia citta citt feste star personaggi festedelleluci,2009,12,6,17,33,155583180.0,undef,2009-12-06 17:33:00
+25685019696,45.763833,4.828166,5,francia lione fete lumieres rue st bar lione francia citta citt feste personaggi star festedelleluci,2009,12,6,17,32,155583120.0,undef,2009-12-06 17:32:00
+25084466833,45.763833,4.828166,5,francia lione fete lumieres lione francia citta citt feste star festedelleluci,2009,12,6,17,31,155583060.0,undef,2009-12-06 17:31:00
+25080653124,45.763833,4.828166,5,francia lione fete lumieres lione francia citta citt feste star festedelleluci,2009,12,6,17,31,155583060.0,undef,2009-12-06 17:31:00
+25084462653,45.763833,4.828166,5,francia lione fete lumieres antica casa lionese lione palazzo francia citta citt feste star festedelleluci,2009,12,6,17,28,155582880.0,undef,2009-12-06 17:28:00
+25711065305,45.763833,4.828166,5,francia lione fete lumieres antica casa lionese lione palazzo francia citta citt feste star festedelleluci,2009,12,6,17,27,155582820.0,undef,2009-12-06 17:27:00
+25080646554,45.763833,4.828166,5,francia lione fete lumieres lione palazzo francia citta citt feste star festedelleluci,2009,12,6,17,28,155582880.0,undef,2009-12-06 17:28:00
+25616015061,45.763833,4.828166,5,francia lione fete lumieres antica casa lionese lione palazzo francia citta citt feste star festedelleluci,2009,12,6,17,27,155582820.0,undef,2009-12-06 17:27:00
+25590035662,45.763833,4.828166,5,francia lione fete lumieres antica casa lionese lione palazzo francia citta citt feste star festedelleluci,2009,12,6,17,26,155582760.0,undef,2009-12-06 17:26:00
+25080638454,45.763833,4.828166,5,francia lione fete lumieres antica casa lionese lione palazzo francia citta citt feste star festedelleluci,2009,12,6,17,26,155582760.0,undef,2009-12-06 17:26:00
+27269937453,45.76375,4.828212,5,traboules lyon fance traboules line ligne courbes curve geometry gomtrie perspective urban urbain,2015,5,8,16,16,326564160.0,undef,2015-05-08 16:16:00
+26937567163,45.76371,4.828198,5,soldat place gouvernement nightandday double lyoncity lyon villedelyon mylyon monlyon onlylyon vieuxlyon vieuxlyonstjean saintjean igerslyon igersfrance france military retailer prisonbreak placedugouvernement square squareformat iphoneography instagramapp uploadedbyinstagram,2016,6,8,20,44,360881040.0,undef,2016-06-08 20:44:00
+31020447821,45.763686,4.82823,5,dsc dxo ,2015,4,19,11,45,324906300.0,undef,2015-04-19 11:45:00
+32805572665,45.763712,4.828296,5,lyon monte descaliers flashy vieux st jean lyon rhone vieuxlyon quartiersaintjean escaliers eclirage fuchsia leica q,2017,2,8,18,29,382040940.0,undef,2017-02-08 18:29:00
+31962744064,45.763712,4.828296,5,lyon magasin vieux st jean lyon rhone vieuxlyon quartiersaintjean magasin interieur rayon citron lemon lemonicello bouteilles bottle couleurs eclairage contrejour leica q,2017,2,8,18,39,382041540.0,undef,2017-02-08 18:39:00
+32679123866,45.76372,4.828244,5,lyon vieux lyon france lyon auvergnerhnealpes rhne muse musegadagne vieuxlyon,2017,1,22,14,18,380557080.0,undef,2017-01-22 14:18:00
+32596625081,45.76372,4.828244,5,lyon vieux lyon france lyon auvergnerhnealpes rhne muse musegadagne vieuxlyon,2017,1,22,14,18,380557080.0,undef,2017-01-22 14:18:00
+34716120203,45.763773,4.828265,5,place gouvernement vieux lyon road sign lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop placedugouvernement sign roadsign,2017,6,3,10,44,391949040.0,undef,2017-06-03 10:44:00
+35138895890,45.763773,4.828265,5,place gouvernement vieux lyon cockpit galerie licence iv lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop placedugouvernement tree tree galerielicenceiv cockpit,2017,6,3,10,48,391949280.0,undef,2017-06-03 10:48:00
+35394910321,45.763773,4.828265,5,place gouvernement vieux lyon sculpture lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop placedugouvernement sculpture,2017,6,3,10,49,391949340.0,undef,2017-06-03 10:49:00
+34716065683,45.763773,4.828265,5,place gouvernement vieux lyon plaque hostellerie gouvernement lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop placedugouvernement plaque villedelyon mmoiredelyon openplaquesid hostelleriedugouvernement thegovernorhotel,2017,6,3,10,49,391949340.0,undef,2017-06-03 10:49:00
+34684293724,45.763773,4.828265,5,place gouvernement vieux lyon hostellerie gouvernement lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop placedugouvernement tree tree openplaquesid hostelleriedugouvernement thegovernorhotel,2017,6,3,10,49,391949340.0,undef,2017-06-03 10:49:00
+35358259732,45.763773,4.828265,5,place gouvernement rue saintjean vieux lyon bouchon chez marie lyonnais lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop placedugouvernement restaurant bouchonchezmarielyonnais,2017,6,3,10,51,391949460.0,undef,2017-06-03 10:51:00
+34715924403,45.763646,4.828136,5,magic world place gouvernement vieux lyon lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop placedugouvernement magicworld,2017,6,3,10,48,391949280.0,undef,2017-06-03 10:48:00
+35394767781,45.763646,4.828136,5,magic world place gouvernement vieux lyon jurassic park arcade lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop placedugouvernement magicworld jurassicparkarcade,2017,6,3,10,48,391949280.0,undef,2017-06-03 10:48:00
+35358096912,45.763646,4.828136,5,magic world place gouvernement vieux lyon sega sonic hedgehog lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop placedugouvernement magicworld sega sonicthehedgehog,2017,6,3,10,52,391949520.0,undef,2017-06-03 10:52:00
+35780010921,45.763733,4.828212,5,take care tourist comin town lyon vieuxlyon lugdunum quartiersaintjean saintjean vieillespierres architecture ville ciudad stadt city town citinternationale patrimoinedelhumanit streetphotography photographiecontemporaine nikon luminar aurorahdr pascalreyphotographies aruba abw,2017,7,5,10,36,394713360.0,undef,2017-07-05 10:36:00
+35627344482,45.76377,4.828126,5,femme turqoise devant maison thomassin lyon lugdunum vieuxlyon vieillespierres quartiersaintjean saintjean rue ruelles traboules monte histoire photographiecontemporaine photograffik nikon rhnealpes rhnevalley rhne lerhne auvergnerhnealpes rgionlyonnaise aurora aurorahdr luminar pascalreyphotographies,2017,7,5,10,31,394713060.0,undef,2017-07-05 10:31:00
+37896663296,45.763788,4.828308,5, lyon auvergnerhnealpes frankreich fr france rhnealpes nikon v nikkor mmf vr nikkor,2017,4,15,11,20,387717600.0,undef,2017-04-15 11:20:00
+36867208163,45.76367,4.828217,5,wire wall exifaperture cameramodelxt geocountry geocity geostate exiflensxf mmf rlmoiswr geolat exiffocallength mm exifmodelxt geolon exifmakefujifilm geolocation exifisospeed cameramakefujifilm,2017,8,11,11,58,397915080.0,undef,2017-08-11 11:58:00
+37536568931,45.763723,4.828233,5,umbrella exiffocallength mm cameramodelxt geolon geocity geostate exiflensxf mmf rlmoiswr exifisospeed geocountry exifmodelxt geolocation exifmakefujifilm geolat cameramakefujifilm exifaperture,2017,8,11,11,49,397914540.0,undef,2017-08-11 11:49:00
+37505370062,45.763674,4.828201,5,scarf exifaperture exiffocallength mm geocountry geolat geostate exiflensxf mmf rlmoiswr geocity geolon exifmodelxt geolocation exifmakefujifilm cameramodelxt cameramakefujifilm exifisospeed,2017,8,11,11,48,397914480.0,undef,2017-08-11 11:48:00
+37505366462,45.763718,4.828193,5,scarf exifaperture cameramodelxt geocountry geocity geostate exiflensxf mmf rlmoiswr exiffocallength mm geolat exifmodelxt geolocation exifmakefujifilm geolon cameramakefujifilm exifisospeed,2017,8,11,11,47,397914420.0,undef,2017-08-11 11:47:00
+26563932268,45.763747,4.828216,5, ,2018,2,22,17,42,414783720.0,undef,2018-02-22 17:42:00
+40391318962,45.763783,4.828205,5, ,2018,2,22,17,42,414783720.0,undef,2018-02-22 17:42:00
+42995103875,45.763728,4.828158,5,moment convivialit traboule lyon auvergnerhnealpes france claudelina france auvergnerhnealpes lyon ville town city vieuxlyon,2018,5,25,14,6,422719560.0,undef,2018-05-25 14:06:00
+42972688295,45.763728,4.828158,5,vieux lyon lyon auvergnerhnealpes france claudelina france auvergnerhnealpes lyon ville town city vieuxlyon,2018,5,25,13,0,422715600.0,undef,2018-05-25 13:00:00
+45688098052,45.763733,4.828225,5,lyon france france auvergnerhnealpes auvergnerhonealpes rhnealpes rhonealpes rhne rhone lyon geotagged,2018,10,27,14,35,436113300.0,undef,2018-10-27 14:35:00
+46867240224,45.763838,4.828275,5, paris drance reims heg river rhone champageardenne marseille languedoc cote dazure ardeche lyon avignon perouges,2018,10,23,11,26,435756360.0,undef,2018-10-23 11:26:00
+46867240244,45.763838,4.828277,5, paris drance reims heg river rhone champageardenne marseille languedoc cote dazure ardeche lyon avignon perouges,2018,10,23,11,26,435756360.0,undef,2018-10-23 11:26:00
+33913569178,45.763712,4.828296,5,bleu blanc rouge bleu blanc rouge texaco essence gasoline,2019,5,6,20,58,452638680.0,undef,2019-05-06 20:58:00
+48600457411,45.763712,4.828296,5,lyon jeux darcade vieux lyon va gagner lyon rhone vieuxlyon jeux arcade enfants game,2019,8,21,18,16,461873760.0,undef,2019-08-21 18:16:00
+48518731312,45.763712,4.828296,5,lyon mannequin vitrine lyon rhone vitrine magasin mannequin tte lunette soleil,2019,8,10,16,53,460918380.0,undef,2019-08-10 16:53:00

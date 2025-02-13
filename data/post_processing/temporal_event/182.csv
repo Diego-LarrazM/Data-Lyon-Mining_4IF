@@ -1,0 +1,78 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+5024268576,45.760053,4.83128,182,clestins lyon theatre,2010,6,19,22,45,-1.4706510975865823,undef
+6180896386,45.759946,4.831441,182, architecture lyon,2011,7,21,17,9,-1.0809222462273331,undef
+6331949651,45.759985,4.831345,182,temp dautomne ,2011,11,10,22,22,-0.9706953876662996,undef
+6331947963,45.759985,4.831345,182,lecture apr course ,2011,11,10,22,21,-0.9706960697927444,undef
+6331946701,45.759985,4.831345,182,fontaine celestin ,2011,11,10,22,19,-0.9706974340456336,undef
+6331946097,45.759985,4.831345,182,fontaine celestin ,2011,11,10,22,19,-0.9706974340456336,undef
+6332696776,45.759985,4.831345,182,petite grandes ligne ,2011,11,10,22,18,-0.970698116172078,undef
+6860163688,45.759926,4.83128,182,fleurs printemps celestins lyon france ,2012,3,22,11,43,-0.8404904097960414,undef
+6860163270,45.759888,4.831366,182,fleurs printemps celestins lyon france ,2012,3,22,11,44,-0.8404897276695968,undef
+6860162790,45.759926,4.831409,182,fleurs printemps celestins lyon france ,2012,3,22,11,9,-0.8405136020951576,undef
+6860161426,45.759978,4.831237,182,fleurs printemps celestins lyon france ,2012,3,22,11,42,-0.8404910919224859,undef
+7006278941,45.759911,4.83143,182,fleurs printemps celestins lyon france ,2012,3,22,11,45,-0.8404890455431522,undef
+6860160610,45.759888,4.831323,182,fleurs printemps celestins lyon france ,2012,3,22,11,7,-0.8405149663480467,undef
+7006277619,45.759978,4.831302,182,fleurs printemps celestins lyon france ,2012,3,22,11,45,-0.8404890455431522,undef
+7006277225,45.759955,4.831387,182,fleurs printemps celestins lyon france ,2012,3,22,11,10,-0.8405129199687129,undef
+6860158974,45.759948,4.831259,182,fleurs printemps celestins lyon france ,2012,3,22,11,9,-0.8405136020951576,undef
+6860156242,45.75997,4.831302,182,fleurs printemps celestins lyon france ,2012,3,22,11,40,-0.8404924561753752,undef
+7006273423,45.759978,4.83128,182,fleurs printemps celestins lyon france flickraward,2012,3,22,11,44,-0.8404897276695968,undef
+6860154830,45.759926,4.831323,182,fleurs printemps celestins lyon france ,2012,3,22,11,41,-0.8404917740489306,undef
+7006272137,45.759993,4.831237,182,fleurs printemps celestins lyon france ,2012,3,22,11,8,-0.8405142842216021,undef
+6860153800,45.759955,4.831237,182,fleurs printemps celestins lyon france ,2012,3,22,11,37,-0.8404945025547089,undef
+7006270973,45.760008,4.831302,182,fleurs printemps celestins lyon france ,2012,3,22,11,42,-0.8404910919224859,undef
+7388766404,45.760113,4.831302,182,parking clstins lyon ,2012,6,17,15,22,-0.754884223126129,undef
+7369697420,45.759959,4.831371,182,cabaretnewburlesque clestins square squareformat earlybird iphoneography instagram instagramapp,2012,6,13,22,19,-0.7585288247195867,undef
+6486618627,45.759985,4.831345,182,thtre clestins ,2011,12,10,5,37,-0.9419130623367196,undef
+6486617655,45.759985,4.831345,182,thtre clestins ,2011,12,10,5,37,-0.9419130623367196,undef
+6486616445,45.759985,4.831345,182,thtre clestins ,2011,12,10,5,36,-0.9419137444631644,undef
+8375043394,45.76,4.831366,182,fte lumires france night lyon festivaloflights ftedeslumires,2012,12,9,19,24,-0.5828232844892313,undef
+8274250173,45.759959,4.831371,182,oh thtre square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue b caf e,2012,12,15,17,13,-0.5770190705721938,undef
+9521930741,45.759959,4.831371,182,upload square squareformat earlybird iphoneography instagramapp uploadedbyinstagram foursquarevenue b caf e,2013,8,16,7,30,-0.3377448027173754,undef
+9762759951,45.760166,4.831333,182, uploadedbyflickrmobile flickriosappfilternofilter,2013,9,14,11,36,-0.3090913992858235,undef
+9762699946,45.760166,4.831333,182, uploadedbyflickrmobile flickriosappfilternofilter,2013,9,14,11,36,-0.3090913992858235,undef
+9762701454,45.760166,4.831333,182, uploadedbyflickrmobile flickriosappfilternofilter,2013,9,14,11,36,-0.3090913992858235,undef
+9762347423,45.760166,4.831333,182, uploadedbyflickrmobile flickriosappfilternofilter,2013,9,14,11,35,-0.309092081412268,undef
+9762271275,45.760166,4.831333,182, uploadedbyflickrmobile flickriosappfilternofilter,2013,9,14,10,10,-0.3091500621600584,undef
+10503117705,45.760166,4.831333,182, uploadedbyflickrmobile flickriosappfilternofilter,2013,10,26,18,43,-0.267545123925029,undef
+10503307743,45.760166,4.831333,182, uploadedbyflickrmobile flickriosappfilternofilter,2013,10,26,14,58,-0.2676986023750622,undef
+10503111174,45.760166,4.831333,182, uploadedbyflickrmobile flickriosappfilternofilter,2013,10,26,22,24,-0.267394373980774,undef
+10503102225,45.760166,4.831333,182, uploadedbyflickrmobile flickriosappfilternofilter,2013,10,26,14,58,-0.2676986023750622,undef
+10489974916,45.760166,4.831333,182, uploadedbyflickrmobile flickriosappfilternofilter,2013,10,25,18,26,-0.2685389821548002,undef
+10043746144,45.760166,4.831333,182, uploadedbyflickrmobile flickriosappfilternofilter,2013,9,14,11,57,-0.309077074630487,undef
+10043733404,45.760166,4.831333,182, uploadedbyflickrmobile flickriosappfilternofilter,2013,9,14,11,59,-0.3090757103775978,undef
+10043858943,45.760166,4.831333,182, uploadedbyflickrmobile flickriosappfilternofilter,2013,9,14,12,0,-0.3090750282511533,undef
+10043714594,45.760166,4.831333,182, uploadedbyflickrmobile flickriosappfilternofilter,2013,9,14,11,59,-0.3090757103775978,undef
+10043747035,45.760166,4.831333,182, uploadedbyflickrmobile flickriosappfilternofilter,2013,9,14,12,0,-0.3090750282511533,undef
+10043752956,45.760166,4.831333,182, uploadedbyflickrmobile flickriosappfilternofilter,2013,9,14,12,5,-0.3090716176189303,undef
+12326684445,45.759959,4.831371,182, square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue b caf e,2014,2,5,19,27,-0.1673243781797226,undef
+14846262191,45.759981,4.831418,182,detail facade dtail faade square squareformat rise iphoneography instagramapp uploadedbyinstagram,2014,8,6,21,55,0.0115482751328757,undef
+14656094828,45.759981,4.831418,182,upload square squareformat hudson iphoneography instagramapp uploadedbyinstagram,2014,8,6,2,4,0.010735862537366,undef
+15208477845,45.759981,4.831418,182,upload square squareformat earlybird iphoneography instagramapp uploadedbyinstagram,2014,9,11,8,35,0.0463640088648762,undef
+16173844376,45.759981,4.831418,182,upload square squareformat crema iphoneography instagramapp uploadedbyinstagram,2015,1,4,14,37,0.1595710778623343,undef
+16168399176,45.760038,4.831291,182,lyon thtre clestins france architecture frankreich lyon theatre lione frana rhne frankrijk francia thtre francie frankrig lyon historicalbuilding frankrike secondempire eclecticism rhnealpes francja december,2014,12,21,16,0,0.1458760252342509,undef
+16010691235,45.760008,4.831302,182,lyon nuit thtre clestins ,2014,11,30,17,33,0.1253119593091213,undef
+19087081478,45.759942,4.831367,182,lyon onlylon igerslyon square squareformat iphoneography instagramapp uploadedbyinstagram,2015,6,29,12,57,0.3323809913353946,undef
+19914942322,45.759942,4.831367,182,lyon onlylon thtredescelestins igerslyon xphotographer xphotographe square squareformat iphoneography instagramapp uploadedbyinstagram,2015,7,22,12,35,0.3549580123985167,undef
+23790133441,45.759993,4.831367,182,thtre clestins longexposure monument architecture night nightlights place lyon rhne thatre extrieur nuit btiment faade arche clestins comdie poselongue lton pentaxk ii,2015,12,19,23,23,0.5027393423665896,undef
+23245811403,45.759993,4.831367,182,thtre clestins longexposure monument architecture night nightlights place lyon rhne thatre extrieur nuit btiment faade arche clestins comdie poselongue lton pentaxk ii,2015,12,19,23,22,0.5027386602401449,undef
+23872620815,45.759993,4.831367,182,thtre clestins longexposure monument architecture night nightlights place lyon rhne thatre extrieur nuit btiment faade arche clestins comdie poselongue lton pentaxk ii,2015,12,19,23,21,0.5027379781137004,undef
+27432972673,45.759993,4.831367,182,parking clestins city light urban france architecture lyon pentax lumire parking rhne miroir ville clestins parkingdesclestins pentaxk ii,2016,7,2,13,47,0.6948698052562874,undef
+30118127622,45.759959,4.831371,182,thtre theater night lyon shadow,2016,10,8,19,35,0.7913688691198972,undef
+32006769741,45.759948,4.831366,182, decembre celestins coeur decembre fete fetedeslumieres lumiere lumieres lyon place theatre france,2016,12,9,23,21,0.8524232786695922,undef
+33530079180,45.760008,4.831387,182,thtre clestins lyon thatre thtredesclestins lyon monochrome noiretblanc,2017,4,8,14,16,0.9699229693828708,undef
+35183948442,45.759993,4.831367,182,miroir clestins architecture france lesclestins lyon miroirdesclestins parkingdesclestins pentax pentaxk ii rhne city miroir puit urban urbanlandscape ville,2017,6,11,15,10,1.0328245773445224,undef
+35271775615,45.760005,4.83133,182,miroir clestins architecture france lesclestins lyon miroirdesclestins parkingdesclestins pentax pentaxk ii rhne city miroir puit urban urbanlandscape ville,2017,6,11,15,15,1.0328279879767452,undef
+40196670745,45.759948,4.831366,182, decembre celestins decembre fete fetedeslumieres lumiere lumieres lyon,2017,12,8,22,18,1.20992370190118,undef
+28037050228,45.760005,4.83133,182,thtre clestins france lyon paysage pentax pentaxk ii rhne sigma f blending bluehour cityscape heurebleue landscape nightlights nightshot promenade thatre thatredesclestins,2018,5,1,20,37,1.3513005466809742,undef
+28237675567,45.760005,4.83133,182,clestins architecture architectureetbatiments france lyon parkingdesclestins pentax pentaxk ii rhne sigma f blending creative fentre perspective photographie puits window,2018,6,23,15,40,1.4031578453782287,undef
+42062319715,45.759993,4.831387,182,bottomless hole parking lyon celestins reflection architecture indoor mirror light hole france window deepness wide angle car,2018,6,22,23,8,1.402481175945193,undef
+43114102380,45.760068,4.831345,182, ,2018,9,15,14,9,1.485605786609678,undef
+44876341762,45.760068,4.831345,182, ,2018,9,15,14,19,1.485612607874124,undef
+44013935345,45.760068,4.831345,182, ,2018,9,15,14,21,1.485613972127013,undef
+45118695541,45.760034,4.831355,182,lyon thtre clestins rhnealpesauvergne rhne lyonnais valledurhne valledelasane lyon thtre thtredesclestins,2018,9,27,19,59,1.4976316758278434,undef
+38881618352,45.76,4.83143,182,fte lumires lyon ftedeslumires lyon,2017,12,7,21,21,1.2089025586136253,undef
+25045598528,45.760005,4.83133,182,fte lumires architecture france ftedeslumires hiver k ii lesclestins lyon pentax pentaxk ii rhne city fil ftedeslumires illumination longexposure night nightlights nightshot nuit pont poselongue thatre thatredesclestins urban urbanlandscape ville,2017,12,5,18,34,1.206824119336952,undef
+32444828048,45.760005,4.83133,182,fte lumires canon f canon dmarkii france lyon paysage rhne blending city cityscape ftedeslumires illumination landscape promenade thatredesclestins ville,2018,12,4,22,22,1.5645230413639164,undef
+44412917870,45.760039,4.831334,182,fte lumires ftedeslumires,2018,12,7,18,52,1.5673265810511914,undef
+48088081013,45.760005,4.83133,182,parking clestins architecture canon f canon dmarkii france lyon parkingdesclestins rhne city cityscape fentres fils kalidoscope lumire miroir reflet urban urbanlandscape ville,2019,6,10,10,45,1.748712870312113,undef

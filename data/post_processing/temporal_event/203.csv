@@ -1,0 +1,82 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+6966904830,45.785175,4.857641,203,neelie kroes handcuff menottes european kroes commission handcuff menottes europeenne neelie,2012,4,25,17,53,230838780.0,undef,2012-04-25 17:53:00
+7916489472,45.785272,4.857523,203,orange man mobile phone sculpture france lyon mobilephone,2012,8,27,9,57,241523820.0,undef,2012-08-27 09:57:00
+7916487534,45.785272,4.85748,203,orange man mobile phone sculpture france lyon mobilephone,2012,8,27,9,57,241523820.0,undef,2012-08-27 09:57:00
+15659695005,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,18,1,304106460.0,undef,2014-08-21 18:01:00
+15659692165,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,18,1,304106460.0,undef,2014-08-21 18:01:00
+15039542313,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,18,0,304106400.0,undef,2014-08-21 18:00:00
+15038935304,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,18,0,304106400.0,undef,2014-08-21 18:00:00
+15474110430,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,18,0,304106400.0,undef,2014-08-21 18:00:00
+15660504462,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,18,0,304106400.0,undef,2014-08-21 18:00:00
+15473704617,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,18,0,304106400.0,undef,2014-08-21 18:00:00
+15659678535,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,17,59,304106340.0,undef,2014-08-21 17:59:00
+15474102460,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,17,59,304106340.0,undef,2014-08-21 17:59:00
+15473530038,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,17,59,304106340.0,undef,2014-08-21 17:59:00
+15039525453,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,17,59,304106340.0,undef,2014-08-21 17:59:00
+15039523273,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,17,58,304106280.0,undef,2014-08-21 17:58:00
+15659666215,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,17,58,304106280.0,undef,2014-08-21 17:58:00
+15473687717,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,17,57,304106220.0,undef,2014-08-21 17:57:00
+15656973621,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,17,49,304105740.0,undef,2014-08-21 17:49:00
+15660478572,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,17,49,304105740.0,undef,2014-08-21 17:49:00
+15038901244,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,17,41,304105260.0,undef,2014-08-21 17:41:00
+15659648645,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,20,16,47,304015620.0,undef,2014-08-20 16:47:00
+15473502988,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,20,16,46,304015560.0,undef,2014-08-20 16:46:00
+15659646415,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,20,16,46,304015560.0,undef,2014-08-20 16:46:00
+15659645535,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,19,16,44,303929040.0,undef,2014-08-19 16:44:00
+15473668277,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,19,16,44,303929040.0,undef,2014-08-19 16:44:00
+15660464022,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,19,16,44,303929040.0,undef,2014-08-19 16:44:00
+15472997049,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,19,16,44,303929040.0,undef,2014-08-19 16:44:00
+15659638445,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,19,11,39,303910740.0,undef,2014-08-19 11:39:00
+15473660857,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,19,11,39,303910740.0,undef,2014-08-19 11:39:00
+15473490338,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,19,11,38,303910680.0,undef,2014-08-19 11:38:00
+15473657227,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,19,10,44,303907440.0,undef,2014-08-19 10:44:00
+15635904106,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,19,10,43,303907380.0,undef,2014-08-19 10:43:00
+15656940471,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,18,19,2,303850920.0,undef,2014-08-18 19:02:00
+15038874294,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,18,19,2,303850920.0,undef,2014-08-18 19:02:00
+15472977259,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,18,18,31,303849060.0,undef,2014-08-18 18:31:00
+15472975319,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,18,18,31,303849060.0,undef,2014-08-18 18:31:00
+15473472608,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,18,18,16,303848160.0,undef,2014-08-18 18:16:00
+15656926191,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,18,18,16,303848160.0,undef,2014-08-18 18:16:00
+15039467903,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,18,18,16,303848160.0,undef,2014-08-18 18:16:00
+15660433802,45.785221,4.857586,203,eblida booth ifla wlic lyon france lyon library librarian ifla wlic eblida righttoeread,2014,8,18,13,53,303832380.0,undef,2014-08-18 13:53:00
+15472967159,45.785221,4.857586,203,klauspeter bttger eblida president jeanmarie reding albad luxembourg eblida booth ifla wlic lyon france lyon library librarian ifla wlic eblida righttoeread,2014,8,18,12,51,303828660.0,undef,2014-08-18 12:51:00
+15474035660,45.785221,4.857586,203,klauspeter bttger eblida president jeanmarie reding albad luxembourg eblida booth ifla wlic lyon france lyon library librarian ifla wlic eblida righttoeread,2014,8,18,12,51,303828660.0,undef,2014-08-18 12:51:00
+15038857524,45.785221,4.857586,203,eblida booth ifla wlic lyon france lyon library librarian ifla wlic eblida righttoeread,2014,8,18,12,39,303827940.0,undef,2014-08-18 12:39:00
+15473461998,45.785221,4.857586,203,klauspeter bttger eblida president vincent bonnet eblida director eblida booth ifla wlic lyoneblida booth ifla wlic lyon france lyon library librarian ifla wlic eblida righttoeread,2014,8,18,12,35,303827700.0,undef,2014-08-18 12:35:00
+15039460593,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,18,10,30,303820200.0,undef,2014-08-18 10:30:00
+15656914351,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,18,10,3,303818580.0,undef,2014-08-18 10:03:00
+15660423962,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,18,9,14,303815640.0,undef,2014-08-18 09:14:00
+15660422352,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,17,14,16,303747360.0,undef,2014-08-17 14:16:00
+15039452503,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,17,12,37,303741420.0,undef,2014-08-17 12:37:00
+15473451528,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,17,12,3,303739380.0,undef,2014-08-17 12:03:00
+15038844184,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,17,12,2,303739320.0,undef,2014-08-17 12:02:00
+15039447983,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,17,11,58,303739080.0,undef,2014-08-17 11:58:00
+15660413622,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,17,11,37,303737820.0,undef,2014-08-17 11:37:00
+15472945999,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,17,11,24,303737040.0,undef,2014-08-17 11:24:00
+15039442553,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,17,10,58,303735480.0,undef,2014-08-17 10:58:00
+15635858076,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,17,10,54,303735240.0,undef,2014-08-17 10:54:00
+15659580715,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,17,10,54,303735240.0,undef,2014-08-17 10:54:00
+15474004040,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,17,10,53,303735180.0,undef,2014-08-17 10:53:00
+15660398572,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,55,303681300.0,undef,2014-08-16 19:55:00
+15659572335,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,55,303681300.0,undef,2014-08-16 19:55:00
+15473997590,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,51,303681060.0,undef,2014-08-16 19:51:00
+15472925429,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,51,303681060.0,undef,2014-08-16 19:51:00
+15656876601,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,42,303680520.0,undef,2014-08-16 19:42:00
+15473417638,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,42,303680520.0,undef,2014-08-16 19:42:00
+15635832526,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,42,303680520.0,undef,2014-08-16 19:42:00
+15656868011,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,42,303680520.0,undef,2014-08-16 19:42:00
+15635827266,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,37,303680220.0,undef,2014-08-16 19:37:00
+15038800504,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,37,303680220.0,undef,2014-08-16 19:37:00
+15473973550,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,37,303680220.0,undef,2014-08-16 19:37:00
+15472900219,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,37,303680220.0,undef,2014-08-16 19:37:00
+15659539175,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,23,303679380.0,undef,2014-08-16 19:23:00
+15039392103,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,23,303679380.0,undef,2014-08-16 19:23:00
+15473957600,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,18,303679080.0,undef,2014-08-16 19:18:00
+15635802186,45.785221,4.857586,203,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,18,303679080.0,undef,2014-08-16 19:18:00
+16433273301,45.785287,4.85748,203,renzo piano cit internationale lyon architecture lyon renzopiano contemporaryarchitecture citinternationale,2014,12,25,18,25,314994300.0,undef,2014-12-25 18:25:00
+20810293009,45.785272,4.857673,203,xavier veilhan renzo piano lyon xavierveilhan citinternationaledelyon,2015,8,13,14,28,334938480.0,undef,2015-08-13 14:28:00
+15786872067,45.785283,4.857483,203,lyon france ,2014,6,22,20,22,298930920.0,undef,2014-06-22 20:22:00
+25739187776,45.785216,4.857552,203,lyon ,2016,3,5,13,49,352648140.0,undef,2016-03-05 13:49:00
+35144188784,45.785244,4.857613,203, ,2017,7,8,11,2,394974120.0,undef,2017-07-08 11:02:00
+35144188284,45.785313,4.857536,203, ,2017,7,8,11,2,394974120.0,undef,2017-07-08 11:02:00
+26096019817,45.785213,4.857491,203, ,2018,3,23,10,19,417262740.0,undef,2018-03-23 10:19:00

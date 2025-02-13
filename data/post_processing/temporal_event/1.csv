@@ -1,0 +1,63 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+4391330105,45.756744,4.839885,1,passerelle rendezvous bridge lyon rhne pont soe rendezvous naturesfinest blueribbonwinner supershot golddragon mywinners platinumphoto impressedbeauty aplusphoto diamondclassphotographer flickrdiamond citritgroup theunforgettablepictures platinumheartaward betterthangood theperfectphotographer goldstaraward goldstarawardgoldmedalwinner pontdelaguillotire vanagram artofimages,2009,8,22,12,36,146406960.0,undef,2009-08-22 12:36:00
+4386495316,45.756759,4.839917,1, lyon,2009,8,7,18,14,145131240.0,undef,2009-08-07 18:14:00
+4385730489,45.756759,4.839917,1, lyon,2009,8,7,18,10,145131000.0,undef,2009-08-07 18:10:00
+4385730295,45.756759,4.839917,1, lyon,2009,8,7,18,5,145130700.0,undef,2009-08-07 18:05:00
+4386494466,45.756759,4.839917,1, lyon,2009,8,7,18,3,145130580.0,undef,2009-08-07 18:03:00
+5684719403,45.756842,4.839906,1,dance ,2011,4,16,6,1,198396060.0,undef,2011-04-16 06:01:00
+5684712025,45.756842,4.839906,1,shaking ,2011,4,16,5,59,198395940.0,undef,2011-04-16 05:59:00
+5684705855,45.756842,4.839906,1,remember east ,2011,4,16,5,59,198395940.0,undef,2011-04-16 05:59:00
+5684699681,45.756842,4.839906,1,joy ,2011,4,16,5,58,198395880.0,undef,2011-04-16 05:58:00
+5684691441,45.756842,4.839906,1,looking water ,2011,4,16,5,56,198395760.0,undef,2011-04-16 05:56:00
+5684685023,45.756842,4.839906,1,little marmaid ,2011,4,16,5,56,198395760.0,undef,2011-04-16 05:56:00
+5877218463,45.756879,4.839842,1,ktm duke ambassador orange water fountain bike rouge nikon eau lyon duke ktm ambassador squad fontaine quai quentin rhone motobike rhonealpes hoteldieu readytorace onlylyon,2011,6,25,7,7,204448020.0,undef,2011-06-25 07:07:00
+5877217537,45.756812,4.83982,1,ktm duke ambassador orange water fountain bike rouge nikon eau lyon duke ktm ambassador squad fontaine quai quentin rhone motobike rhonealpes hoteldieu readytorace onlylyon,2011,6,25,7,18,204448680.0,undef,2011-06-25 07:18:00
+6035140748,45.756842,4.839906,1, ,2011,4,16,6,21,198397260.0,undef,2011-04-16 06:21:00
+6035137916,45.756842,4.839906,1, ,2011,4,16,6,21,198397260.0,undef,2011-04-16 06:21:00
+6034580871,45.756842,4.839906,1, ,2011,4,16,6,14,198396840.0,undef,2011-04-16 06:14:00
+6034578497,45.756842,4.839906,1, ,2011,4,16,6,1,198396060.0,undef,2011-04-16 06:01:00
+6035129554,45.756842,4.839906,1, ,2011,4,16,6,1,198396060.0,undef,2011-04-16 06:01:00
+6035126696,45.756842,4.839906,1, ,2011,4,16,6,1,198396060.0,undef,2011-04-16 06:01:00
+6124582911,45.756752,4.83982,1, ,2010,10,9,16,20,182103600.0,undef,2010-10-09 16:20:00
+6125101942,45.756752,4.83982,1, ,2010,10,9,16,40,182104800.0,undef,2010-10-09 16:40:00
+6124560099,45.756752,4.83982,1, ,2010,10,9,16,46,182105160.0,undef,2010-10-09 16:46:00
+6125101890,45.756752,4.83982,1, ,2010,10,9,16,59,182105940.0,undef,2010-10-09 16:59:00
+6124559963,45.756752,4.83982,1, ,2010,10,9,16,53,182105580.0,undef,2010-10-09 16:53:00
+6124559983,45.756752,4.83982,1, ,2010,10,9,16,55,182105700.0,undef,2010-10-09 16:55:00
+6124559933,45.756752,4.83982,1, ,2010,10,9,16,48,182105280.0,undef,2010-10-09 16:48:00
+6125101684,45.756752,4.83982,1, ,2010,10,9,16,46,182105160.0,undef,2010-10-09 16:46:00
+6125101622,45.756752,4.83982,1, ,2010,10,9,16,45,182105100.0,undef,2010-10-09 16:45:00
+6124559749,45.756752,4.83982,1, ,2010,10,9,16,45,182105100.0,undef,2010-10-09 16:45:00
+6124559721,45.756752,4.83982,1, ,2010,10,9,16,40,182104800.0,undef,2010-10-09 16:40:00
+6125101476,45.756752,4.83982,1, ,2010,10,9,16,38,182104680.0,undef,2010-10-09 16:38:00
+6125101136,45.756752,4.83982,1, ,2010,10,9,16,36,182104560.0,undef,2010-10-09 16:36:00
+6124559263,45.756752,4.83982,1, ,2010,10,9,16,35,182104500.0,undef,2010-10-09 16:35:00
+6124559295,45.756752,4.83982,1, ,2010,10,9,16,35,182104500.0,undef,2010-10-09 16:35:00
+6124559227,45.756752,4.83982,1, ,2010,10,9,16,35,182104500.0,undef,2010-10-09 16:35:00
+6125100980,45.756752,4.83982,1, ,2010,10,9,16,33,182104380.0,undef,2010-10-09 16:33:00
+6125100944,45.756752,4.83982,1, ,2010,10,9,16,29,182104140.0,undef,2010-10-09 16:29:00
+6124559131,45.756752,4.83982,1, ,2010,10,9,16,18,182103480.0,undef,2010-10-09 16:18:00
+6125100884,45.756752,4.83982,1, ,2010,10,9,16,26,182103960.0,undef,2010-10-09 16:26:00
+6125100850,45.756752,4.83982,1, ,2010,10,9,16,23,182103780.0,undef,2010-10-09 16:23:00
+6125100812,45.756752,4.83982,1, ,2010,10,9,16,19,182103540.0,undef,2010-10-09 16:19:00
+6544243513,45.756688,4.839941,1,berges rhne hospital htel dieu blue urban france water architecture hospital landscape europe lyon city bridge lifestyle river leisure freetime monument citycenter loisirs citycentre oldbuilding rhnealps riverrhne pontwilson presqule esagua esazul frcentreville frcoeurdelaville freau esurbano frurbain esciudades espaisajes frpaysages frvilles frscnedevie frrivrerhne frarchitecture eshospital espuentes esros francienimmeuble frblue frhpital frloisirs frmonuments frponts frrivires frtempslibre hpitaldelhteldieuetmusedeshospicescivils,2009,9,2,17,53,147376380.0,undef,2009-09-02 17:53:00
+8200398181,45.756774,4.839799,1,cygnedurhone ,2012,11,19,12,33,248790780.0,undef,2012-11-19 12:33:00
+8253333208,45.756864,4.839895,1,fte lumires lyon ftedelumires,2012,12,6,23,46,250299960.0,undef,2012-12-06 23:46:00
+11952270575,45.756668,4.839833,1,lyon january france lyon iphone carolechevallet cacolebn hipstamatic uploadedbyflickrmobile flickriosappfilternofilter,2014,1,11,18,47,284928420.0,undef,2014-01-11 18:47:00
+11952560003,45.756668,4.839833,1,lyon january france lyon iphone carolechevallet cacolebn hipstamatic uploadedbyflickrmobile flickriosappfilternofilter,2014,1,11,17,53,284925180.0,undef,2014-01-11 17:53:00
+11953092296,45.756668,4.839833,1,lyon january france lyon iphone carolechevallet cacolebn hipstamatic uploadedbyflickrmobile flickriosappfilternofilter,2014,1,11,17,11,284922660.0,undef,2014-01-11 17:11:00
+11952695494,45.756668,4.839833,1,lyon january france lyon iphone carolechevallet cacolebn hipstamatic uploadedbyflickrmobile flickriosappfilternofilter,2014,1,11,17,4,284922240.0,undef,2014-01-11 17:04:00
+11953083076,45.756668,4.839833,1,lyon january france lyon iphone carolechevallet cacolebn hipstamatic uploadedbyflickrmobile flickriosappfilternofilter,2014,1,11,15,12,284915520.0,undef,2014-01-11 15:12:00
+13192110803,45.756744,4.83987,1,mar lyon uploadedbyflickrmobile denimfilter flickriosappfilterdenim,2014,3,16,15,37,290446620.0,undef,2014-03-16 15:37:00
+13907836753,45.756699,4.839842,1,lyon berges rhne france lyon rhne rhnealpes bergesdurhne quaisdurhne onlylyon,2014,4,13,19,29,292879740.0,undef,2014-04-13 19:29:00
+15385341591,45.756699,4.839842,1,lyon hteldieu france lyon rhne reflets fleuve hteldieu rhnealpes yti laguillotire bergesdurhne quaisdurhne,2014,9,28,12,53,307371180.0,undef,2014-09-28 12:53:00
+15202013117,45.756699,4.839842,1,lyon quais rhne hteldieu fourvire france lyon rhne reflets fleuve hteldieu rhnealpes yti laguillotire bergesdurhne quaisdurhne,2014,9,28,12,54,307371240.0,undef,2014-09-28 12:54:00
+15201838060,45.756699,4.839842,1,lyon quais rhne hteldieu france lyon rhne reflets fleuve hteldieu rhnealpes yti laguillotire bergesdurhne quaisdurhne,2014,9,28,13,17,307372620.0,undef,2014-09-28 13:17:00
+15201837020,45.756699,4.839842,1,lyon quais rhne france lyon rhne reflets fleuve hteldieu rhnealpes yti laguillotire bergesdurhne quaisdurhne,2014,9,28,13,18,307372680.0,undef,2014-09-28 13:18:00
+15162754007,45.756812,4.839853,1,analog lyon bridge tree sky people cloud house france reflection green grass analog digital photoshop river architechture nikon frankreich lyon crane rhne pro nik nikkor frankrike riverscape photomatix vrii efex,2014,8,22,14,31,304180260.0,undef,2014-08-22 14:31:00
+17233892080,45.756811,4.839897,1,lyon apprivois france europe lyon rhne fr lieux rhnealpes bergesdurhne,2013,4,13,19,46,261344760.0,undef,2013-04-13 19:46:00
+19773448979,45.756699,4.839842,1,lyon quais rhne ,2015,7,14,11,52,332337120.0,undef,2015-07-14 11:52:00
+15366904943,45.756864,4.839895,1,mg jpg lyon ftedeslumires nuit,2014,12,6,19,56,313358160.0,undef,2014-12-06 19:56:00
+15799252100,45.756864,4.839895,1,mg jpg lyon ftedeslumires nuit,2014,12,6,19,55,313358100.0,undef,2014-12-06 19:55:00
+15366899693,45.756864,4.839895,1,mg jpg lyon ftedeslumires nuit,2014,12,6,19,53,313357980.0,undef,2014-12-06 19:53:00
+24198884759,45.756781,4.839787,1,route lyon,2016,1,23,18,1,349034460.0,undef,2016-01-23 18:01:00

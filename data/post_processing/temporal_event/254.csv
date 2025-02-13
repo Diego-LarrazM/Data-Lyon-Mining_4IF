@@ -1,0 +1,73 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+4513600213,45.756654,4.833619,254, street woman lyon femme streetphotography rue gen bellecour velov,2010,4,10,15,28,166375680.0,undef,2010-04-10 15:28:00
+5114120168,45.756714,4.833598,254,h lyon police violence francia violencia jovenes bellecour jeunes huelga manifestaciones disturbios pensiones incident retraites affrontements violence incidentes,2009,10,22,14,11,151683060.0,undef,2009-10-22 14:11:00
+5073498272,45.756572,4.833716,254, ,2010,8,27,12,28,178374480.0,undef,2010-08-27 12:28:00
+5073495098,45.756572,4.833716,254, ,2010,8,27,12,28,178374480.0,undef,2010-08-27 12:28:00
+5477810940,45.756666,4.833666,254,place bellecour lyon ,2010,12,1,15,10,186678600.0,undef,2010-12-01 15:10:00
+5857631287,45.756555,4.833719,254,mmorial lyonnais gnocide armniens olono hdr raw exp mmoriallyonnaisdugnocidedesarmniens,2011,6,19,22,59,203986740.0,undef,2011-06-19 22:59:00
+6001366223,45.756722,4.833673,254,place antoninponcet lyon frankrijk rhonealpes placeantoninponcet lapresquile,2011,7,22,10,39,206793540.0,undef,2011-07-22 10:39:00
+6001365841,45.756722,4.833673,254,lee lee lee lyon frankrijk rhonealpes placeantoninponcet lapresquile,2011,7,22,10,36,206793360.0,undef,2011-07-22 10:36:00
+5997747014,45.75661,4.833662,254,lyon place antonin poncet clochertour lancien hpital charit architecture place lyon charit croix antonin hpital poncet clochertour,2011,7,31,14,0,207583200.0,undef,2011-07-31 14:00:00
+8877088623,45.756566,4.833716,254,place bellecour ,2010,8,17,15,26,177521160.0,undef,2010-08-17 15:26:00
+8097355385,45.756527,4.833583,254, frankreich rhne reise kreuzfahrt arosaluna,2012,9,21,18,33,243714780.0,undef,2012-09-21 18:33:00
+10297793744,45.756691,4.833606,254,france lyon france,2013,10,14,12,26,277215960.0,undef,2013-10-14 12:26:00
+14163247813,45.756641,4.833698,254, ,2014,4,18,0,40,293244000.0,undef,2014-04-18 00:40:00
+14143181495,45.756641,4.833698,254, ,2014,4,18,0,40,293244000.0,undef,2014-04-18 00:40:00
+15139154422,45.75658,4.833638,254, ,2014,9,4,14,42,305304120.0,undef,2014-09-04 14:42:00
+16924851665,45.756619,4.8336,254,bell tower old hpital charit lyon lyon ougsmealps,2014,6,21,16,2,298828920.0,undef,2014-06-21 16:02:00
+24550491601,45.75658,4.833555,254,lyon lyon,2015,12,29,10,53,346848780.0,undef,2015-12-29 10:53:00
+24550457501,45.75658,4.833555,254,lyon lyon,2015,12,29,10,52,346848720.0,undef,2015-12-29 10:52:00
+24005833743,45.75658,4.833555,254,lyon lyon,2015,12,29,10,48,346848480.0,undef,2015-12-29 10:48:00
+23917699024,45.756687,4.833585,254,bell tower place antoninponcet travel france history clock architecture french nikon lyon tourist historic belltower clocktower unescoworldheritagesite unesco placebellecour ndarrondissement placeantoninponcet jackheald hotelroyallyon,2016,1,2,11,57,347198220.0,undef,2016-01-02 11:57:00
+28127025635,45.756588,4.833577,254, ,2016,6,26,18,40,362428800.0,undef,2016-06-26 18:40:00
+33907867636,45.756604,4.833572,254,clocher lhpital charit jacquesmeynierdemalviala lyon hpitaldelacharit clocher,2017,4,9,17,18,387220680.0,undef,2017-04-09 17:18:00
+35339993521,45.756505,4.833618,254,place bellecour lyon clocher charit lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite placebellecour laplacebellecour ainaydistrict presqule prdebellecour placeroyale placelouislegrand robertdecotte tree tree placedelafdration placedelgalit placebonaparte placenapolon placeantoninponcet quaidrgailleton leclocherdelacharit charitychurchtower belltoweroftheoldhpitaldelacharit jesuitarchitectetiennemartellange belltower placedelacharit laposte postoffice flag frenchflag franceflag,2017,6,3,10,12,391947120.0,undef,2017-06-03 10:12:00
+35297639211,45.756505,4.833618,254,place antonin poncet lyon clocher charit lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite placeantoninponcet quaidrgailleton leclocherdelacharit charitychurchtower belltoweroftheoldhpitaldelacharit jesuitarchitectetiennemartellange belltower placedelacharit tree tree laposte postoffice,2017,6,2,18,51,391891860.0,undef,2017-06-02 18:51:00
+35297618631,45.756505,4.833618,254,place antonin poncet lyon clocher charit plaque lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite placeantoninponcet quaidrgailleton leclocherdelacharit charitychurchtower belltoweroftheoldhpitaldelacharit jesuitarchitectetiennemartellange belltower placedelacharit openplaquesid villedelyon mmoiredelyon,2017,6,2,18,53,391891980.0,undef,2017-06-02 18:53:00
+34617618863,45.756505,4.833618,254,place antonin poncet lyon clocher charit plaque lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite placeantoninponcet quaidrgailleton leclocherdelacharit charitychurchtower belltoweroftheoldhpitaldelacharit jesuitarchitectetiennemartellange belltower placedelacharit openplaquesid,2017,6,2,18,53,391891980.0,undef,2017-06-02 18:53:00
+34465960304,45.756505,4.833618,254,bellecour lyon metro step near clocher lar charit charity church tower lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes lyonmetro metrosystemoflyon lyonunderground lyonsubwaysystem mtrodelyon placebellecour bellecour lyonmetrolinea lyonmetrolined sign step leclocherdelacharit charitychurchtower placeantoninponcet unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite,2017,6,4,10,53,392035980.0,undef,2017-06-04 10:53:00
+35269301716,45.756505,4.833618,254,bellecour lyon metro ticket machine lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes lyonmetro metrosystemoflyon lyonunderground lyonsubwaysystem mtrodelyon placebellecour bellecour lyonmetrolinea lyonmetrolined sign ticketmachines ticketmachine unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite,2017,6,4,10,53,392035980.0,undef,2017-06-04 10:53:00
+34921997420,45.756505,4.833618,254,bellecour lyon metro ticket barrier lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes lyonmetro metrosystemoflyon lyonunderground lyonsubwaysystem mtrodelyon placebellecour bellecour lyonmetrolinea lyonmetrolined ticketbarrier ticketbarriers turnstile turnstile unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite,2017,6,4,10,53,392035980.0,undef,2017-06-04 10:53:00
+34921782990,45.756505,4.833618,254,place bellecour lyon metro step near place antonin poncet lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes lyonmetro metrosystemoflyon lyonunderground lyonsubwaysystem mtrodelyon placebellecour bellecour lyonmetrolinea lyonmetrolined leclocherdelacharit charitychurchtower placeantoninponcet step laposte postoffice telegraphepostetelephone tree tree unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite,2017,6,2,18,52,391891920.0,undef,2017-06-02 18:52:00
+36879282193,45.756458,4.833563,254, ,2017,10,6,12,1,402753660.0,undef,2017-10-06 12:01:00
+37500752586,45.756458,4.833563,254, ,2017,10,6,12,1,402753660.0,undef,2017-10-06 12:01:00
+36861088343,45.756458,4.833563,254, ,2017,10,6,12,1,402753660.0,undef,2017-10-06 12:01:00
+37482512346,45.756458,4.833563,254, ,2017,10,6,12,1,402753660.0,undef,2017-10-06 12:01:00
+36860673763,45.756458,4.833563,254, ,2017,10,6,12,1,402753660.0,undef,2017-10-06 12:01:00
+37482179776,45.756458,4.833563,254, ,2017,10,6,12,1,402753660.0,undef,2017-10-06 12:01:00
+36820165874,45.756458,4.833563,254, ,2017,10,6,12,1,402753660.0,undef,2017-10-06 12:01:00
+37482063316,45.756458,4.833563,254, ,2017,10,6,12,1,402753660.0,undef,2017-10-06 12:01:00
+37497792192,45.756458,4.833563,254, ,2017,10,6,12,1,402753660.0,undef,2017-10-06 12:01:00
+31457460071,45.756625,4.833662,254,vol nuit ftedeslumires lyon dcembre saintexupery,2016,12,10,22,2,376869720.0,undef,2016-12-10 22:02:00
+39540364835,45.756527,4.833683,254, ilford delta skateboard film mm analog lyon france blackandwhite olympus,2018,2,23,11,53,414849180.0,undef,2018-02-23 11:53:00
+24972767327,45.756545,4.833668,254,grande roue bigwheel europe fourvire france granderoue lyon placebellecour place riesenrad,2018,1,20,17,53,411933180.0,undef,2018-01-20 17:53:00
+39426147531,45.756719,4.833641,254,fte lumires lyon lumire lumires spectacle canon canon dmarkiv canonef f lyon earrondissement auvergnerhnealpes france fr,2017,12,10,20,49,408401340.0,undef,2017-12-10 20:49:00
+27236670409,45.756594,4.833661,254,lyon fte lumires grande poste insert coin ,2017,12,10,20,32,408400320.0,undef,2017-12-10 20:32:00
+38127599975,45.756627,4.833638,254,lyon fte lumires grande poste insert coin ,2017,12,10,20,32,408400320.0,undef,2017-12-10 20:32:00
+38127579565,45.756461,4.833619,254,lyon fte lumires grande poste insert coin ,2017,12,10,20,35,408400500.0,undef,2017-12-10 20:35:00
+24150266107,45.75653,4.833622,254,lyon fte lumires grande poste insert coin ,2017,12,10,20,36,408400560.0,undef,2017-12-10 20:36:00
+25143617648,45.756541,4.833613,254,lyon fte lumires grande poste insert coin ,2017,12,10,20,36,408400560.0,undef,2017-12-10 20:36:00
+25143604128,45.756544,4.8336,254,lyon fte lumires grande poste insert coin ,2017,12,10,20,36,408400560.0,undef,2017-12-10 20:36:00
+25094743248,45.756617,4.833608,254, ftedeslumires fte lumires lyon,2017,12,7,21,29,408144540.0,undef,2017-12-07 21:29:00
+27188619149,45.756617,4.833608,254, ftedeslumires fte lumires lyon,2017,12,7,21,29,408144540.0,undef,2017-12-07 21:29:00
+25094742818,45.756617,4.833608,254, ftedeslumires fte lumires lyon,2017,12,7,21,29,408144540.0,undef,2017-12-07 21:29:00
+38965808101,45.756617,4.833608,254, ftedeslumires fte lumires lyon,2017,12,7,21,31,408144660.0,undef,2017-12-07 21:31:00
+27188618689,45.756617,4.833608,254, ftedeslumires fte lumires lyon,2017,12,7,21,30,408144600.0,undef,2017-12-07 21:30:00
+25094742418,45.756617,4.833608,254, ftedeslumires fte lumires lyon,2017,12,7,21,31,408144660.0,undef,2017-12-07 21:31:00
+27188618229,45.756617,4.833608,254, ftedeslumires fte lumires lyon,2017,12,7,21,31,408144660.0,undef,2017-12-07 21:31:00
+25094741908,45.756617,4.833608,254, ftedeslumires fte lumires lyon,2017,12,7,21,31,408144660.0,undef,2017-12-07 21:31:00
+25094741458,45.756617,4.833608,254, ftedeslumires fte lumires lyon,2017,12,7,21,31,408144660.0,undef,2017-12-07 21:31:00
+25094741108,45.756617,4.833608,254, ftedeslumires fte lumires lyon,2017,12,7,21,32,408144720.0,undef,2017-12-07 21:32:00
+24101184907,45.756617,4.833608,254, ftedeslumires fte lumires lyon,2017,12,7,21,33,408144780.0,undef,2017-12-07 21:33:00
+24101184457,45.756617,4.833608,254, ftedeslumires fte lumires lyon,2017,12,7,21,33,408144780.0,undef,2017-12-07 21:33:00
+38079595925,45.756617,4.833608,254, ftedeslumires fte lumires lyon,2017,12,7,21,33,408144780.0,undef,2017-12-07 21:33:00
+38079595505,45.756617,4.833608,254, ftedeslumires fte lumires lyon,2017,12,7,21,29,408144540.0,undef,2017-12-07 21:29:00
+44966563672,45.756617,4.833608,254, lyon place bellecour,2018,9,23,16,22,433182120.0,undef,2018-09-23 16:22:00
+44295473714,45.756617,4.833608,254, lyon place bellecour,2018,9,23,16,23,433182180.0,undef,2018-09-23 16:23:00
+44966563402,45.756617,4.833608,254, lyon place bellecour basilique fourvire,2018,9,23,16,23,433182180.0,undef,2018-09-23 16:23:00
+44295473164,45.756617,4.833608,254, lyon place bellecour,2018,9,23,16,24,433182240.0,undef,2018-09-23 16:24:00
+44966562062,45.756617,4.833608,254, lyon place bellecour basilique fourvire,2018,9,23,16,25,433182300.0,undef,2018-09-23 16:25:00
+44295472704,45.756617,4.833608,254, lyon place bellecour,2018,9,23,16,26,433182360.0,undef,2018-09-23 16:26:00
+44966561122,45.756617,4.833608,254, lyon place bellecour,2018,9,23,16,27,433182420.0,undef,2018-09-23 16:27:00
+31104078417,45.756693,4.833662,254,going ride french city lyon promenade lyon ,2018,11,14,18,34,437682840.0,undef,2018-11-14 18:34:00
+49142855712,45.756686,4.833622,254,quelle foire ,2019,11,29,18,50,470515800.0,undef,2019-11-29 18:50:00

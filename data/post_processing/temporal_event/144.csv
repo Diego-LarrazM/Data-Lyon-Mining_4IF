@@ -1,0 +1,73 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+4749937667,45.757796,4.833886,144,hold breath street light shadow white black france bus love night kiss noir place lyon lumire ombre walker amour lover nuit blanc passerby baiser amoureux bellecour embrasser,2009,12,3,18,59,155329140.0,undef,2009-12-03 18:59:00
+5113526493,45.757822,4.833877,144,h lyon police violence bellecour jeunes incident retraites affrontements violence,2009,10,22,16,53,151692780.0,undef,2009-10-22 16:53:00
+5104811922,45.757938,4.833946,144, lyon riot cr retraite meutes,2010,10,20,16,18,183053880.0,undef,2010-10-20 16:18:00
+5104204779,45.757938,4.833946,144, lyon riot cr retraite meutes,2010,10,20,15,56,183052560.0,undef,2010-10-20 15:56:00
+5543134503,45.757861,4.833913,144,lyon striker protest french pension reform france europe lyon protest strike citycenter fr citycentre centreville fra manifestation grve retraite placebellecour rhnealps civilconflict pensionreform coeurdelaville frcentreville frcoeurdelaville frgrve frmanifestation frretraite frrformeretraite rformeretraite,2010,10,19,13,24,182957040.0,undef,2010-10-19 13:24:00
+5543711774,45.757872,4.834008,144,lyon striker protest french pension reform france europe lyon protest strike citycenter fr citycentre centreville fra manifestation grve retraite placebellecour rhnealps civilconflict pensionreform coeurdelaville frcentreville frcoeurdelaville frgrve frmanifestation frretraite frrformeretraite rformeretraite,2010,10,19,13,24,182957040.0,undef,2010-10-19 13:24:00
+6501358025,45.757852,4.833957,144,louis vole king flight france statue balloon louis lyon xiv bellecour,2011,12,10,10,56,218976960.0,undef,2011-12-10 10:56:00
+6841980310,45.757964,4.833907,144,jade portrait nb portrait monochrome smile nikon wb nb sourire,2011,7,28,21,2,207349320.0,undef,2011-07-28 21:02:00
+6978989652,45.757964,4.833907,144,jade lyon rememberthatmomentlevel,2012,4,29,16,50,231180600.0,undef,2012-04-29 16:50:00
+7053769587,45.757964,4.833907,144,asmaa automne ,2011,10,30,15,13,215449980.0,undef,2011-10-30 15:13:00
+7053638849,45.757964,4.833907,144,jade surpris nb ,2012,4,1,16,32,228760320.0,undef,2012-04-01 16:32:00
+7216877710,45.757964,4.833907,144,naissance nature fleur rose proximacro,2012,5,17,14,39,232727940.0,undef,2012-05-17 14:39:00
+7001814918,45.757964,4.833907,144,dragon jade ,2011,11,27,15,21,217869660.0,undef,2011-11-27 15:21:00
+7650313970,45.757964,4.833907,144,gros plan portrait nikon nb grosplan,2012,7,9,19,45,237325500.0,undef,2012-07-09 19:45:00
+7648725164,45.757964,4.833907,144, smile nikon nb sourire portrait mm,2012,7,9,19,37,237325020.0,undef,2012-07-09 19:37:00
+7768218808,45.757964,4.833907,144,asmaa ,2012,8,5,13,35,239636100.0,undef,2012-08-05 13:35:00
+7768217276,45.757964,4.833907,144,jade ,2012,8,5,13,33,239635980.0,undef,2012-08-05 13:33:00
+7768215870,45.757964,4.833907,144,jade nb ,2012,8,5,13,33,239635980.0,undef,2012-08-05 13:33:00
+8230979612,45.757849,4.833894,144,hipstaprint sansflash hipstamatic objectifjane filminas,2012,11,29,21,55,249688500.0,undef,2012-11-29 21:55:00
+8412312538,45.757882,4.833941,144,rue rpublique ,2012,12,6,20,44,250289040.0,undef,2012-12-06 20:44:00
+8327458308,45.757964,4.833907,144,hypnotique granderoue bellecour,2012,12,29,18,52,252269520.0,undef,2012-12-29 18:52:00
+8326125873,45.757964,4.833907,144,pneu lyon granderoue bellecour poselongue,2012,12,29,18,53,252269580.0,undef,2012-12-29 18:53:00
+8258965791,45.758,4.834,144,street night lyon france art photography,2012,10,22,22,56,246408960.0,undef,2012-10-22 22:56:00
+13473500674,45.75785,4.834004,144, sun spring lyon rhne heat quais,2014,3,28,21,2,291502920.0,undef,2014-03-28 21:02:00
+13473498344,45.75785,4.834004,144, street people sun spring rhne skatepark biking quais,2014,3,28,21,5,291503100.0,undef,2014-03-28 21:05:00
+13473248833,45.75785,4.834004,144,quai rhne bridge sun spring lyon rhne quais,2014,3,28,13,11,291474660.0,undef,2014-03-28 13:11:00
+13473491394,45.75785,4.834004,144,bird bridge people sun bird spring lyon rhne,2014,3,28,21,6,291503160.0,undef,2014-03-28 21:06:00
+12971375325,45.757792,4.833898,144,ftes lumires lyon ftesdeslumires,2013,12,6,22,29,281831340.0,undef,2013-12-06 22:29:00
+12971795824,45.757792,4.833898,144,ftes lumires lyon ftesdeslumires,2013,12,6,22,29,281831340.0,undef,2013-12-06 22:29:00
+12971517703,45.757792,4.833898,144,ftes lumires lyon ftesdeslumires,2013,12,6,22,29,281831340.0,undef,2013-12-06 22:29:00
+12971517593,45.757792,4.833898,144,ftes lumires lyon ftesdeslumires,2013,12,6,22,31,281831460.0,undef,2013-12-06 22:31:00
+12971374655,45.757792,4.833898,144,ftes lumires lyon ftesdeslumires,2013,12,8,9,53,281958780.0,undef,2013-12-08 09:53:00
+12971512263,45.757792,4.833898,144,ftes lumires lyon ftesdeslumires,2013,12,6,22,29,281831340.0,undef,2013-12-06 22:29:00
+12971789294,45.757792,4.833898,144,ftes lumires lyon ftesdeslumires,2013,12,6,22,29,281831340.0,undef,2013-12-06 22:29:00
+12971788924,45.757792,4.833898,144,ftes lumires lyon ftesdeslumires,2013,12,6,22,30,281831400.0,undef,2013-12-06 22:30:00
+12971509783,45.757792,4.833898,144,ftes lumires lyon ftesdeslumires,2013,12,6,22,29,281831340.0,undef,2013-12-06 22:29:00
+12900977533,45.75783,4.834016,144,tt dimanche matin earlysundaymorning jacquesmeynierdemalviala ttundimanchematin,2014,3,2,7,30,289207800.0,undef,2014-03-02 07:30:00
+13718829065,45.75785,4.834004,144,lonely girl light sun water girl bright rhne quai,2014,4,8,8,40,292408800.0,undef,2014-04-08 08:40:00
+13718849553,45.75785,4.834004,144, bridge blue sky sun spring rhne quai,2014,4,8,17,12,292439520.0,undef,2014-04-08 17:12:00
+13718815595,45.75785,4.834004,144,lunch break old friend friend lunch place lyon bellecour,2014,4,8,16,56,292438560.0,undef,2014-04-08 16:56:00
+13718747785,45.75785,4.834004,144,sunset sunset sun lyon bellecour,2014,4,8,17,13,292439580.0,undef,2014-04-08 17:13:00
+13718765603,45.75785,4.834004,144, bridge sun france beautiful spring day lyon,2014,4,8,17,11,292439460.0,undef,2014-04-08 17:11:00
+14473128339,45.757927,4.833921,144,upload square squareformat unknown iphoneography instagramapp uploadedbyinstagram,2014,7,15,1,54,300851640.0,undef,2014-07-15 01:54:00
+14834561280,45.757927,4.833921,144,lyon rhnealpes francia france europa europe placebellecour bellecour presqule fourvire notredamedefourvire tourmtalliquedefourvire petitetoureiffel vieuxlyon square squareformat iphoneography instagramapp uploadedbyinstagram,2014,8,24,18,40,304368000.0,undef,2014-08-24 18:40:00
+15194454340,45.757934,4.833973,144,bellecour lyon city urban france lyon rhnealpes,2014,9,13,10,55,306068100.0,undef,2014-09-13 10:55:00
+15124245439,45.757927,4.833921,144,upload square toaster squareformat iphoneography instagramapp uploadedbyinstagram,2014,9,21,10,21,306757260.0,undef,2014-09-21 10:21:00
+15111238167,45.757927,4.833921,144,cet instant fais shopping femme tombes saint graal square squareformat rise iphoneography instagramapp uploadedbyinstagram,2014,9,20,16,36,306693360.0,undef,2014-09-20 16:36:00
+15233970571,45.757927,4.833921,144,biennaledeladanse square squareformat iphoneography instagramapp uploadedbyinstagram,2014,9,14,9,21,306148860.0,undef,2014-09-14 09:21:00
+15214032326,45.757927,4.833921,144,biennaledeladanse square squareformat iphoneography instagramapp uploadedbyinstagram,2014,9,14,9,20,306148800.0,undef,2014-09-14 09:20:00
+15050289049,45.757927,4.833921,144,biennaledeladanse square squareformat iphoneography instagramapp uploadedbyinstagram,2014,9,14,9,20,306148800.0,undef,2014-09-14 09:20:00
+15236663172,45.757927,4.833921,144,biennaledeladanse square squareformat iphoneography instagramapp uploadedbyinstagram,2014,9,14,9,20,306148800.0,undef,2014-09-14 09:20:00
+15050282409,45.757927,4.833921,144,biennaledeladanse square squareformat iphoneography instagramapp uploadedbyinstagram,2014,9,14,9,19,306148740.0,undef,2014-09-14 09:19:00
+15214015666,45.757927,4.833921,144,biennaledeladanse square squareformat iphoneography instagramapp uploadedbyinstagram,2014,9,14,9,19,306148740.0,undef,2014-09-14 09:19:00
+15233941551,45.757927,4.833921,144,biennaledeladanse square squareformat earlybird iphoneography instagramapp uploadedbyinstagram,2014,9,14,9,18,306148680.0,undef,2014-09-14 09:18:00
+15236642302,45.757927,4.833921,144,biennaledeladanse square squareformat earlybird iphoneography instagramapp uploadedbyinstagram,2014,9,14,9,18,306148680.0,undef,2014-09-14 09:18:00
+15235269052,45.757927,4.833921,144,biennaledeladanse valencia square squareformat iphoneography instagramapp uploadedbyinstagram,2014,9,14,7,7,306140820.0,undef,2014-09-14 07:07:00
+14942755828,45.757927,4.833921,144,upload square squareformat amaro iphoneography instagramapp uploadedbyinstagram,2014,9,3,9,18,305198280.0,undef,2014-09-03 09:18:00
+14942343739,45.757927,4.833921,144,force franaises lintrieur lyon libre valencia square squareformat iphoneography instagramapp uploadedbyinstagram,2014,9,3,8,47,305196420.0,undef,2014-09-03 08:47:00
+16224058105,45.757927,4.833921,144,love others radically wonder jefferson bethke inspiration photography onmywaybymarie square squareformat iphoneography instagramapp uploadedbyinstagram,2015,1,7,18,8,316116480.0,undef,2015-01-07 18:08:00
+15931803080,45.757927,4.833921,144,running sky lyon square squareformat iphoneography instagramapp uploadedbyinstagram,2014,12,27,14,33,315153180.0,undef,2014-12-27 14:33:00
+15356633704,45.757927,4.833921,144,thofdecember square squareformat iphoneography instagramapp uploadedbyinstagram,2014,12,8,23,14,313542840.0,undef,2014-12-08 23:14:00
+15968974731,45.757927,4.833921,144,another beautiful night lyon square squareformat kelvin iphoneography instagramapp uploadedbyinstagram,2014,12,8,0,13,313459980.0,undef,2014-12-08 00:13:00
+30491282991,45.757755,4.833977,144,hello lyon lyon france rhone streetart street art hunter sky sunset twilight alone dark obey tiki bridge panorama marianne view streetviews heart vsco vscocam vscofrance vscogram vscodaily vscolyon ville lion,2016,10,22,18,39,372623940.0,undef,2016-10-22 18:39:00
+30890693900,45.757875,4.833844,144,lyon mtro bellecour lyon mur peint mural fresque murale trompeloeil,2016,11,26,18,13,375646380.0,undef,2016-11-26 18:13:00
+31627654253,45.757827,4.834025,144, ,2017,1,21,11,39,380461140.0,undef,2017-01-21 11:39:00
+34626850834,45.757897,4.833865,144,place bellecour lyon ville lyon grand lyon police car lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite placebellecour coach laplacebellecour ainaydistrict presqule prdebellecour placeroyale placelouislegrand robertdecotte tree tree placedelafdration placedelgalit placebonaparte placenapolon villedelyon grandlyon basilicaofnotredamedefourvire labasiliquenotredamedefourvire pierrebossan romanesqueandbyzantinearchitecturestyle fourvire metallictoweroffourvire tourmtalliquedefourvire expositionuniverselleof inlyon policecar policemunicipale,2017,6,3,10,26,391947960.0,undef,2017-06-03 10:26:00
+35081689380,45.757897,4.833865,144,place bellecour lyon ville lyon grand lyon lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite placebellecour coach laplacebellecour ainaydistrict presqule prdebellecour placeroyale placelouislegrand robertdecotte tree tree placedelafdration placedelgalit placebonaparte placenapolon villedelyon grandlyon,2017,6,3,10,26,391947960.0,undef,2017-06-03 10:26:00
+37132747640,45.757838,4.833925,144, ,2017,9,29,11,35,402147300.0,undef,2017-09-29 11:35:00
+26863079109,45.75793,4.833902,144, ,2017,11,25,17,58,407095080.0,undef,2017-11-25 17:58:00
+24676293888,45.75793,4.833958,144, ,2017,11,20,20,43,406672980.0,undef,2017-11-20 20:43:00
+42883723452,45.757838,4.834015,144,marche firts lgbt bellecour europe france gay lgbt lesbi lesbian lyon placebellecour place pride,2018,6,16,17,36,424632960.0,undef,2018-06-16 17:36:00
+48610304297,45.757957,4.833877,144,lyon metro lyon metro transit train france mtrodelyon rapidtransit transportsencommunlyonnais lyonmetrolinea ligneadumtrodelyon,2019,4,17,18,11,450987060.0,undef,2019-04-17 18:11:00

@@ -1,0 +1,149 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+5510033126,45.761078,4.83224,217,clamp street bw film analog turn square clamp seagull epson rue argentique carr pince v tourne virela gardela virela gardela virela gardela virela virela virela virela gardela gardela virela virela virela gardela feelingexposition,2011,3,11,22,34,195345240.0,undef
+7851356238,45.761011,4.832471,217,ombre escalier blackandwhite noiretblanc,2012,8,21,15,53,241026780.0,undef
+8213513584,45.761011,4.832471,217,escaliers blackandwhite noiretblanc,2012,4,17,16,55,230144100.0,undef
+8582982845,45.761011,4.832471,217,tarte pommes manger recettes,2013,3,23,19,56,259530960.0,undef
+8692448171,45.761011,4.832471,217,anmones fleurs,2013,4,29,18,16,262721760.0,undef
+8693563290,45.761011,4.832471,217,anmones fleurs,2013,4,29,18,15,262721700.0,undef
+8692444033,45.761011,4.832471,217,anmones fleurs,2013,4,29,18,11,262721460.0,undef
+8693559394,45.761011,4.832471,217,anmones fleurs,2013,4,29,18,8,262721280.0,undef
+8692433473,45.761011,4.832471,217,anmones fleurs,2013,4,29,18,17,262721820.0,undef
+8646081670,45.761011,4.832471,217,diane fraise car fraise,2013,4,12,22,45,261269100.0,undef
+9107443834,45.761011,4.832471,217,mannequin dummy dummy,2013,6,21,21,54,267314040.0,undef
+9056965151,45.761011,4.832471,217,escaliers stair escalier,2013,6,16,14,10,266854200.0,undef
+9059184666,45.761011,4.832471,217,escaliers stair escalier,2013,6,16,14,9,266854140.0,undef
+9059180790,45.761011,4.832471,217,escaliers stair escalier,2013,6,16,14,7,266854020.0,undef
+9056952711,45.761011,4.832471,217,escaliers stair escalier,2013,6,16,14,10,266854200.0,undef
+9284585602,45.761011,4.832471,217,clafoutis cerise manger recettes,2013,7,14,11,51,269265060.0,undef
+12537622583,45.761011,4.832471,217,rose rose,2014,2,15,10,57,287924220.0,undef
+12537611503,45.761011,4.832471,217,rose rose queenrose,2014,2,15,9,42,287919720.0,undef
+12537974684,45.761011,4.832471,217,rose rose,2014,2,15,10,20,287922000.0,undef
+12537963934,45.761011,4.832471,217,rose rose,2014,2,15,10,32,287922720.0,undef
+12537960764,45.761011,4.832471,217,rose rose,2014,2,15,10,48,287923680.0,undef
+12537949934,45.761011,4.832471,217,rose rose,2014,2,15,10,52,287923920.0,undef
+12537448775,45.761011,4.832471,217,rose rose,2014,2,15,10,56,287924160.0,undef
+12389068455,45.761011,4.832471,217,citronnade coquillage stilllife citron coquillage citronvert citronnade,2014,2,8,17,44,287343840.0,undef
+12389206033,45.761011,4.832471,217,coquillage coquillage,2014,2,8,17,48,287344080.0,undef
+14381154921,45.761021,4.832477,217, france,2014,6,8,13,13,297695580.0,undef
+14725904433,45.761025,4.8323,217, ,2014,7,17,10,6,301053960.0,undef
+14725903923,45.761025,4.8323,217, ,2014,7,17,10,5,301053900.0,undef
+14519360810,45.761063,4.832202,217, ,2014,7,17,10,5,301053900.0,undef
+15726088658,45.761011,4.832471,217,rose blackandwhite rose noiretblanc,2014,11,30,12,45,312813900.0,undef
+15912907632,45.761011,4.832471,217,rose pink rose,2014,11,30,12,45,312813900.0,undef
+15721166547,45.761011,4.832471,217,coquillages shell coquillage,2014,11,29,17,44,312745440.0,undef
+15230256173,45.761011,4.832471,217,loeil blue eye oeil bleu,2014,11,21,16,31,312049860.0,undef
+15176366364,45.761011,4.832471,217,coloquinte pomme naturemorte,2014,11,15,18,53,311539980.0,undef
+15796315035,45.761011,4.832471,217,coloquintes naturemorte coloquinte,2014,11,15,18,38,311539080.0,undef
+15610900168,45.761011,4.832471,217,oignons naturemorte oignons,2014,11,15,18,45,311539500.0,undef
+15794433321,45.761011,4.832471,217,oignons chtaignes naturemorte oignons,2014,11,15,18,47,311539620.0,undef
+15796309255,45.761011,4.832471,217,oignons naturemorte oignons,2014,11,15,19,3,311540580.0,undef
+16306176200,45.761011,4.832471,217,citron lemon citron,2015,2,10,16,49,319049340.0,undef
+15871066254,45.761011,4.832471,217,citron lemon citron,2015,2,10,16,57,319049820.0,undef
+15831074638,45.761011,4.832471,217,rose rose fleurs,2014,11,30,12,49,312814140.0,undef
+16484642224,45.761011,4.832471,217,ttes dail garlic ail,2015,4,11,9,27,324206820.0,undef
+16899678837,45.761011,4.832471,217,ttes dail garlic ail,2015,4,11,9,12,324205920.0,undef
+16919512890,45.761011,4.832471,217,ttes dail fine herbes garlic ail,2015,4,11,9,11,324205860.0,undef
+16486936633,45.761011,4.832471,217,ttes dail fine herbes garlic ail,2015,4,11,9,25,324206700.0,undef
+17160908823,45.761011,4.832471,217,mauvaise ombre blue shadow stair bleu escalier rambarde,2015,5,17,18,34,327350040.0,undef
+17424457855,45.761011,4.832471,217,assiette fraise fruit strawberry fraise restaurantlille,2015,5,8,13,31,326554260.0,undef
+20363920144,45.761011,4.832471,217,rue lancienne prfecture lyon blackandwhite lyon noiretblanc,2015,8,29,8,50,336300600.0,undef
+21141464726,45.761011,4.832471,217,pierre portrait pierre,2015,8,30,9,44,336390240.0,undef
+22170091150,45.761101,4.832267,217,noix stilllife nut naturemorte noix,2015,10,21,12,48,340894080.0,undef
+22360746655,45.761101,4.832267,217,coloquinte jack little stilllife jack naturemorte coloquinte,2015,10,21,12,40,340893600.0,undef
+21735358854,45.761101,4.832267,217,racine dautomne stilllife rave naturemorte racine navet,2015,10,21,12,28,340892880.0,undef
+22063784836,45.761086,4.83246,217,prendre temp lyon,2015,10,10,19,41,339968460.0,undef
+21930640222,45.761041,4.832471,217,porte door porte,2015,10,4,14,22,339430920.0,undef
+24484588903,45.761071,4.832353,217,rose blackandwhite rose noiretblanc,2016,2,14,14,10,350921400.0,undef
+24994399256,45.761078,4.832439,217,rose rose,2016,2,14,14,1,350920860.0,undef
+24184718256,45.761078,4.832439,217,rose red rose rouge,2016,1,6,14,39,347553540.0,undef
+23438360534,45.761071,4.832375,217,pierre portrait pierre,2015,12,30,14,56,346949760.0,undef
+23420646303,45.761101,4.832267,217,pierre plein travail portrait pierre,2015,12,29,16,5,346867500.0,undef
+29274445443,45.761101,4.832289,217,chasselas chvre noix raisin fromage,2016,9,24,17,0,370198800.0,undef
+32458583610,45.761071,4.832342,217,crpes crpes food dessert pancake macrodessert,2017,2,11,16,0,382291200.0,undef
+32700417636,45.761058,4.832261,217,autoportrait autoportrait portrait face noiretblanc monochrome beard,2017,1,27,17,54,381002040.0,undef
+32576034246,45.761108,4.832364,217,lumire lumire light lampe ampoule filament,2017,1,30,21,39,381274740.0,undef
+32471467641,45.761108,4.832364,217,pierre pierre,2017,1,29,10,47,381149220.0,undef
+31949661970,45.761108,4.832364,217,clmenvilla clmenvilla orange,2017,1,15,17,17,379963020.0,undef
+31949652300,45.761108,4.832364,217,clmenvilla clmenvilla orange,2017,1,15,17,20,379963200.0,undef
+31792370492,45.760951,4.83245,217,maison house snow snowglobe,2016,12,27,22,24,378339840.0,undef
+33238360133,45.761086,4.832332,217,fraise myrtilles fraise strawberry framboise raspberry myrtilles blueberry,2017,4,15,15,5,387731100.0,undef
+34009576436,45.761086,4.832332,217,fruit madeleines fraise strawberry framboise raspberry myrtilles blueberry,2017,4,15,15,12,387731520.0,undef
+33935234204,45.761048,4.832417,217,mouill eau salledebains noiretblanc monochrome blackandwhite autoportrait portrait face visage,2017,5,20,17,19,390763140.0,undef
+35433144644,45.761136,4.8323,217,img jpg lyon auvergnerhnealpes frankreich fr,2017,7,25,12,53,396449580.0,undef
+35195258033,45.761041,4.832375,217,pches abricots pches abricots fruit stilllife peach apricot naturemorte composition fruit,2017,7,18,17,15,395860500.0,undef
+36127011150,45.761041,4.832375,217,prune prune fruit stilllife fruit,2017,8,12,14,40,398011200.0,undef
+35715143433,45.761041,4.832375,217,figues noix figues noix stilllife fruit,2017,8,12,14,56,398012160.0,undef
+35685754864,45.761041,4.832375,217,mres myrtilles mres cassis verres bleu blackberry glass blue myrtilles blueberry fruit,2017,8,12,14,30,398010600.0,undef
+37284095621,45.761003,4.83246,217,grenade grenade fruit,2017,9,24,14,17,401725020.0,undef
+37237307816,45.761003,4.83246,217,grenade grenade fruit,2017,9,24,14,21,401725260.0,undef
+37365920140,45.761101,4.832342,217,autoportrait autoportrait face black white noir blanc monochrome,2017,10,10,11,52,403098720.0,undef
+26412815339,45.761086,4.832342,217,bouquet tournesols fleurs flower tournesols soleil jaune yellow sunflower,2017,11,5,15,58,405359880.0,undef
+31450770526,45.761071,4.832407,217,lgumes dhiver bulbes racine stilllife naturemorte,2016,12,7,15,39,376587540.0,undef
+31372272891,45.761071,4.832407,217,intrieur chou chou cabbage,2016,12,7,16,4,376589040.0,undef
+31488171015,45.761071,4.832407,217,oignons onion oignons stilllife naturemorte,2016,12,7,15,49,376588140.0,undef
+30647166504,45.761071,4.832407,217,oignons chou oignons onion chou cabbage stilllife naturemorte,2016,12,7,16,2,376588920.0,undef
+39273290704,45.761101,4.832342,217,photo culinaires gastronomie cuisine,2018,1,30,4,13,412747980.0,undef
+41734442362,45.761108,4.832375,217,orange citron orange lemon citron stilllife naturemorte,2018,4,28,15,37,420392220.0,undef
+41720370352,45.761071,4.832471,217,orange citron orange lemon citron naturemorte stilllife,2018,4,28,15,57,420393420.0,undef
+42538463161,45.761111,4.832244,217,salade tomates mozzarella polenta grille sunday mozzarella salade food tomato,2018,6,3,12,34,423491640.0,undef
+41591882560,45.76108,4.832266,217,peu lisbonne maison lisbonne lisboa tramway,2018,7,8,20,6,426542760.0,undef
+30993354878,45.761086,4.832321,217,meringue lisianthus meringue lisianthus stilllife food naturemorte praline,2018,9,23,16,8,433181280.0,undef
+44865726001,45.761086,4.832321,217,meringue lisianthus meringue lisianthus food stilllife naturemorte,2018,9,23,16,27,433182420.0,undef
+44145062214,45.761086,4.832321,217,meringue lisianthus meringue lisianthus stilllife food naturemorte,2018,9,23,16,22,433182120.0,undef
+43690308464,45.761086,4.832321,217,raisin raisin fruit food stilllife grape,2018,9,1,18,18,431288280.0,undef
+30539528838,45.761086,4.832321,217,prune prune fruit food stilllife plum,2018,9,1,17,48,431286480.0,undef
+44586285255,45.761012,4.832385,217,coloquintes coloquinte colocynth autumn automne stilllife naturemorte,2018,10,22,17,20,435691200.0,undef
+44433602344,45.761079,4.832375,217,ttes dail blanc violet ail stilllife naturemorte composition garlic,2018,10,7,13,34,434381640.0,undef
+45155107481,45.761079,4.832375,217,coings coing naturemorte stilllife fruit quince,2018,10,7,13,22,434380920.0,undef
+30140116707,45.761086,4.832321,217,potimarron potimarron orange automne autumn stilllife pumpkin,2018,10,2,16,28,433960080.0,undef
+32206274478,45.761012,4.832385,217,confiture clmentine chambre confiture lyon lachambreauxconfitures jam marmelade clmentine fruit clementine,2018,11,27,19,59,438811140.0,undef
+40157910693,45.761071,4.832417,217,roquefort vieux berger crmerie saintantoine fromage cheese roquefort,2019,2,17,11,39,445865940.0,undef
+47122708821,45.761071,4.832417,217,roquefort vieux berger camembert chvre valenay crmerie saintantoine fromage cheese roquefort poire pear nut noix,2019,2,17,11,58,445867080.0,undef
+47122705651,45.761071,4.832417,217,roquefort vieux berger valenay crmerie saintantoine fromage cheese roquefort,2019,2,17,12,15,445868100.0,undef
+46326442051,45.761071,4.832407,217,pt crote happiness lapin pruneaux pistaches chez cmontaland charcutier traiteur lyon gastronomie ptencrote lyon food,2018,12,15,16,34,440354040.0,undef
+47507417391,45.761078,4.832332,217,guimauves dimanche aprsmidi guimauves marshmallow candy stilllife naturemorte,2019,3,31,16,41,449512860.0,undef
+47447986282,45.761078,4.832332,217,bonbon gypsophile bonbon candy gypsophile,2019,3,29,17,9,449341740.0,undef
+47480324181,45.761078,4.832332,217,fraise crme strawberry cream fraise crme fruit rouge,2019,3,27,18,15,449172900.0,undef
+33573214968,45.761041,4.832396,217,orange clmentines orange clementine citrus,2019,3,23,17,3,448822980.0,undef
+33545287248,45.761041,4.832396,217,miel pin comptoir miel lyon comptoirdumiel miel honey pine,2019,3,19,17,6,448477560.0,undef
+46344270145,45.761086,4.83231,217,artichauts artichauts artichoke vegetable lgumes,2019,3,2,17,8,447008880.0,undef
+47258778841,45.761086,4.83231,217,artichauts artichauts artichoke vegetable lgumes,2019,3,2,17,18,447009480.0,undef
+47258775221,45.761086,4.83231,217,artichauts artichauts artichoke vegetable lgumes,2019,3,2,17,13,447009180.0,undef
+47206900592,45.761086,4.83231,217,artichauts artichauts artichoke vegetable lgumes,2019,3,2,17,13,447009180.0,undef
+40294040573,45.761086,4.83231,217,artichauts artichauts artichoke vegetable lgumes,2019,3,2,17,3,447008580.0,undef
+33772162888,45.761086,4.832278,217,chocolat poche chocolatdepoche,2019,4,19,16,36,451154160.0,undef
+47596839472,45.761086,4.832278,217,bonbon violette berlingot lyon bonbon candy violetteetberlingot,2019,4,19,17,1,451155660.0,undef
+46925685134,45.761086,4.832278,217,chocolat poche chocolatdepoche,2019,4,19,16,35,451154100.0,undef
+46841927134,45.761078,4.832332,217,tea time mercredi biscuiterie lyon teatime gteaux petitsfours th mercredibiscuiterie,2019,4,7,15,29,450113340.0,undef
+47556852641,45.761078,4.832332,217,chocolat bonnat voiron chocolate chocolat voiron bonnat,2019,4,7,14,33,450109980.0,undef
+33680073948,45.761078,4.832332,217,chocolat bonnat voiron chocolate chocolat voiron bonnat,2019,4,7,14,52,450111120.0,undef
+47941820327,45.761093,4.83231,217,perles sucre bonbon candy,2019,5,26,14,15,454342500.0,undef
+47909423871,45.761078,4.832385,217,lait fraise sabls ptales rose mercredi biscuiterie cooky rose laitfraise mercredibiscuiterie milk strawberry,2019,5,22,17,14,454007640.0,undef
+46990610444,45.761086,4.832278,217,tea time lunette chez mercredi biscuiterie mercredibiscuiterie teatime food goter,2019,5,3,16,2,452361720.0,undef
+47752460401,45.761086,4.832278,217,asperges vertes asperges asparagus vegetable,2019,5,1,15,28,452186880.0,undef
+46963184894,45.761086,4.832278,217,asperges vertes asperges asparagus vegetable,2019,5,1,15,28,452186880.0,undef
+48120764666,45.761063,4.832439,217,composition fruit fruit fruit tomates tomato pear poires kiwi figues lime citronvert fig,2019,6,24,15,59,456854340.0,undef
+48120851522,45.761063,4.832439,217,composition fruit fruit fruit tomates tomato pear poires kiwi figues lime citronvert fig,2019,6,24,15,55,456854100.0,undef
+48093162552,45.761063,4.832439,217,chocolat noisettes chocolat poche chocolat chocolatdepoche chocolate hazelnut noisette liqueur dessin,2019,6,19,17,20,456427200.0,undef
+48073578458,45.761108,4.83231,217,oeuf coque pain graines lin oeuflacoque boiledegg stilllife naturemorte egg oeuf,2019,6,16,16,59,456166740.0,undef
+48025570306,45.761078,4.832299,217,premires cerise cerise cherry fruit fruit stilllife naturemorte,2019,6,8,18,43,455481780.0,undef
+48025656197,45.761078,4.832299,217,premires cerise cerise cherry stilllife naturemorte,2019,6,8,18,44,455481840.0,undef
+48242582421,45.761063,4.832396,217,chocolat ruby chocolat poche chocolatdepoche chocolate,2019,7,9,16,15,458151300.0,undef
+48216396921,45.761041,4.832407,217,rouge pepper poivron color red rouge vegetable,2019,7,6,16,4,457891440.0,undef
+48216394421,45.761041,4.832407,217,rouge pepper poivron color red rouge vegetable,2019,7,6,16,3,457891380.0,undef
+48216436247,45.761041,4.832407,217,rouge pepper poivron color red rouge vegetable,2019,7,6,15,52,457890720.0,undef
+48216434182,45.761041,4.832407,217,rouge pepper poivron color red rouge vegetable,2019,7,6,15,51,457890660.0,undef
+48216432162,45.761041,4.832407,217,rouge pepper poivron color red rouge vegetable,2019,7,6,15,41,457890060.0,undef
+48205900632,45.761063,4.832439,217,caf ligeois gaufres cafligeois icecream caf gaufres coffee waffle dessert yummy pornfood composition,2019,7,5,17,41,457810860.0,undef
+48610311208,45.761063,4.832396,217,chocolat poche ,2019,8,22,17,41,461958060.0,undef
+48610310223,45.761063,4.832396,217,chocolat poche ,2019,8,22,17,31,461957460.0,undef
+48595099332,45.761063,4.832396,217,violette berlingot lyon ,2019,8,21,18,1,461872860.0,undef
+48594962621,45.761063,4.832396,217,violette berlingot lyon ,2019,8,21,18,2,461872920.0,undef
+48764005158,45.761093,4.832267,217,raisin raisin fruit stillife naturemorte,2019,9,20,11,50,464442600.0,undef
+48764004138,45.761093,4.832267,217,pommes raisin pommes apple raison automne fruit stilllife naturemorte,2019,9,20,11,41,464442060.0,undef
+48722467547,45.761093,4.832267,217,biscuit comme palmiers fleurs biscuit cooky fleurs flower hortensia,2019,9,12,16,49,463769340.0,undef
+48683463688,45.761093,4.832267,217,oignons rouge romarin oignons rouge romarin onion rosemary naturemorte,2019,9,5,17,37,463167420.0,undef
+48678209472,45.761093,4.832267,217,radis beurre radis beurre radish butter bread,2019,9,4,15,51,463074660.0,undef
+48678037306,45.761093,4.832267,217,citronnade menthe madeleines citronnade menthe madeleine citron lime lemon drink ice,2019,9,4,17,1,463078860.0,undef
+48858585021,45.761041,4.832332,217,figues noires ,2019,10,6,15,17,465837420.0,undef
+48852970781,45.761041,4.832332,217,figues noires verre vin ,2019,10,6,15,9,465836940.0,undef

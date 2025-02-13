@@ -1,0 +1,355 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4204222307,45.767744,4.835228,33,fte lumires geotagged lyon ftedeslumires christianbaudet,2009,12,8,20,3,-1.66033818355175,undef
+4204978016,45.767744,4.835228,33,fte lumires geotagged lyon ftedeslumires christianbaudet,2009,12,8,19,59,-1.6603409120575283,undef
+4178006081,45.767672,4.8351,33,parure lhtel ville color night light december place lyon hoteldeville fte temp nuit festivaloflights couleur metronome dcoration centreville mairie lumires dcembre hteldeville dcor spectacle ftedeslumires placedesterreaux terreaux lugdunum mtronome rhonealpes jouonsavecletemps,2009,12,6,23,8,-1.6621765143199267,undef
+4178767114,45.767672,4.8351,33,parure lhtel ville color night light december place lyon hoteldeville fte temp nuit festivaloflights couleur metronome dcoration centreville mairie lumires dcembre hteldeville dcor spectacle ftedeslumires placedesterreaux terreaux lugdunum mtronome rhonealpes jouonsavecletemps,2009,12,6,23,14,-1.6621724215612592,undef
+4178004521,45.767672,4.8351,33,parure lhtel ville color fleur night fleurs light december place lyon hoteldeville fte temp nuit festivaloflights couleur metronome dcoration centreville mairie lumires dcembre hteldeville dcor spectacle ftedeslumires placedesterreaux terreaux lugdunum mtronome rhonealpes jouonsavecletemps,2009,12,6,23,18,-1.6621696930554808,undef
+4178765532,45.767672,4.8351,33,parure lhtel ville color night light december place lyon hoteldeville pluie fte temp nuit festivaloflights couleur metronome dcoration centreville mairie lumires dcembre hteldeville dcor spectacle ftedeslumires placedesterreaux terreaux lugdunum mtronome rhonealpes jouonsavecletemps,2009,12,6,23,17,-1.6621703751819252,undef
+4177016952,45.76768,4.834939,33,htel ville light france festival light europe lyon rhne fte premier festivaloflights lumires er december th ftedeslumires dcembre grandlyon rhnealpes december dec december erarrondissement thdecember premierarrondissement ftedeslumires,2009,12,7,19,50,-1.6613293132757427,undef
+4176256977,45.76768,4.834939,33,htel ville light france festival light europe lyon rhne fte premier festivaloflights lumires er december th ftedeslumires dcembre grandlyon rhnealpes december dec december erarrondissement thdecember premierarrondissement ftedeslumires,2009,12,7,19,49,-1.6613299954021874,undef
+4177014402,45.76768,4.834939,33,htel ville light france festival light europe lyon rhne fte premier festivaloflights lumires er december th ftedeslumires dcembre grandlyon rhnealpes december dec december erarrondissement thdecember premierarrondissement ftedeslumires,2009,12,7,19,49,-1.6613299954021874,undef
+4176254313,45.76768,4.834939,33,htel ville light france festival light europe lyon rhne fte premier festivaloflights lumires er december th ftedeslumires dcembre grandlyon rhnealpes december dec december erarrondissement thdecember premierarrondissement ftedeslumires,2009,12,7,19,48,-1.661330677528632,undef
+4176252997,45.76768,4.834939,33,htel ville light france festival light europe lyon rhne fte premier festivaloflights lumires er december th ftedeslumires dcembre grandlyon rhnealpes december dec december erarrondissement thdecember premierarrondissement ftedeslumires,2009,12,7,19,47,-1.6613313596550765,undef
+4176251793,45.76768,4.834939,33,htel ville light france festival light europe lyon rhne fte premier festivaloflights lumires er december th ftedeslumires dcembre grandlyon rhnealpes december dec december erarrondissement thdecember premierarrondissement ftedeslumires,2009,12,7,19,47,-1.6613313596550765,undef
+4876924858,45.767661,4.835035,33,fte lumires lyon lyon fte ville lumires dcembre htel,2009,2,25,16,2,-1.941429530965866,undef
+4876311139,45.767661,4.835035,33,fte lumires lyon lyon fte ville lumires dcembre htel,2009,2,25,16,2,-1.941429530965866,undef
+5048145782,45.767646,4.835314,33,face face ,2010,9,18,13,22,-1.3816492854754885,undef
+5187524367,45.767747,4.835035,33, light lyon hoteldeville mairie lumieres fetedeslumieres,2009,12,6,20,57,-1.6622658728841684,undef
+5188121634,45.767747,4.835035,33, light lyon hoteldeville mairie lumieres fetedeslumieres,2009,12,6,20,57,-1.6622658728841684,undef
+5187518853,45.767747,4.835035,33, light lyon hoteldeville mairie lumieres fetedeslumieres,2009,12,6,20,56,-1.6622665550106128,undef
+5188117846,45.767747,4.835035,33, light lyon hoteldeville mairie lumieres fetedeslumieres,2009,12,6,20,56,-1.6622665550106128,undef
+5187515611,45.767747,4.835035,33, light lyon hoteldeville mairie lumieres fetedeslumieres,2009,12,6,20,55,-1.6622672371370577,undef
+5187514337,45.767747,4.835035,33, light lyon hoteldeville mairie lumieres fetedeslumieres,2009,12,6,20,55,-1.6622672371370577,undef
+5188113032,45.767747,4.835035,33, light lyon hoteldeville mairie lumieres fetedeslumieres,2009,12,6,20,54,-1.662267919263502,undef
+5187509941,45.767747,4.835035,33, light lyon hoteldeville mairie lumieres fetedeslumieres,2009,12,6,20,54,-1.662267919263502,undef
+5187507739,45.767747,4.835035,33, light lyon hoteldeville mairie lumieres fetedeslumieres,2009,12,6,20,53,-1.6622686013899466,undef
+5188107120,45.767747,4.835035,33, light lyon hoteldeville mairie lumieres fetedeslumieres,2009,12,6,20,52,-1.6622692835163912,undef
+5188105682,45.767747,4.835035,33, light lyon hoteldeville mairie lumieres fetedeslumieres,2009,12,6,20,52,-1.6622692835163912,undef
+4167675488,45.767672,4.8351,33,cours lhotel ville color night light december lyon lumire illumination illumination vert bleu laser fte nuit festivaloflights couleur dcoration cours lumires immeuble dcembre dcor spectacle ftedeslumires dcembre lugdunum rhonealpes,2009,12,6,23,33,-1.6621594611588115,undef
+4163924661,45.767597,4.834949,33,fte lumires light party france lyon lumire fte fetedeslumieres,2009,12,6,22,30,-1.6622024351248212,undef
+4164682282,45.767597,4.834949,33,fte lumires light party france lyon lumire fte fetedeslumieres,2009,12,6,22,18,-1.6622106206421563,undef
+4164681760,45.767597,4.834949,33,fte lumires light party france lyon lumire fte fetedeslumieres,2009,12,6,22,13,-1.6622140312743792,undef
+4163923091,45.767597,4.834949,33,fte lumires light party france lyon lumire fte fetedeslumieres,2009,12,6,22,1,-1.6622222167917144,undef
+4164676420,45.767597,4.834949,33,fte lumires light party france lyon lumire fte fetedeslumieres,2009,12,6,22,4,-1.662220170412381,undef
+5300934459,45.76768,4.835008,33,fontaine bartholdi terreaux lyon lumires ftedeslumires dcembre,2010,12,11,22,24,-1.2987695582046124,undef
+5253935948,45.767638,4.835166,33,htel ville lyon france europe lyon place hteldeville ftedeslumires rhnealpes,2010,12,12,1,44,-1.298633132915694,undef
+5251119903,45.767661,4.83525,33,fte lumiresfestival light htel ville light france fountain festival nikon downtown lyon hoteldeville lumire fte fontaine centreville rhnealpes,2010,12,10,20,12,-1.2998418609755118,undef
+5251119397,45.767642,4.835175,33,fte lumiresfestival light htel ville light france festival nikon downtown lyon hoteldeville lumire fte centreville rhnealpes,2010,12,10,19,56,-1.2998527749986253,undef
+5247873700,45.767747,4.835035,33, france light lyon fete lumieres fetedeslumieres,2010,12,9,22,44,-1.300720439836147,undef
+5247872274,45.767747,4.835035,33, france light lyon fete lumieres fetedeslumieres,2010,12,9,22,43,-1.3007211219625914,undef
+5247268817,45.767747,4.835035,33, france light lyon fete lumieres fetedeslumieres,2010,12,9,22,42,-1.300721804089036,undef
+5247267599,45.767747,4.835035,33, france light lyon fete lumieres fetedeslumieres,2010,12,9,22,40,-1.3007231683419251,undef
+5247868328,45.767747,4.835035,33, france light lyon fete lumieres fetedeslumieres,2010,12,9,22,40,-1.3007231683419251,undef
+5500343861,45.767627,4.835207,33,eternal youth myth festival light lyon fete lumieres,2010,12,8,23,2,-1.3016904236403577,undef
+5500938618,45.767616,4.835196,33, festival light lyon fete lumieres,2010,12,8,23,1,-1.301691105766802,undef
+5648136690,45.767762,4.835067,33, ,2010,9,10,12,9,-1.3895571773476492,undef
+5700664573,45.767751,4.835239,33,day lyon ,2011,4,30,15,33,-1.1615332209434948,undef
+5700654263,45.767751,4.835239,33,day lyon ,2011,4,30,15,32,-1.1615339030699394,undef
+5942992547,45.76762,4.834987,33, square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue bc eb f,2011,7,16,18,20,-1.085785125650833,undef
+6037582642,45.76762,4.834987,33,objets utiles jour square squareformat brannan iphoneography instagramapp uploadedbyinstagram foursquarevenue bc eb f,2011,8,13,7,13,-1.0587367657434072,undef
+6011694679,45.767747,4.835035,33, france lyon,2011,8,5,18,51,-1.0661187381267871,undef
+6191641756,45.767605,4.835013,33,lyon hotel ville canon eos hotel lyon sigma style micro vote ville visite fauteuil patrimoine napolon mm journes,2011,9,17,18,8,-1.023910800114738,undef
+6788653798,45.76762,4.834987,33, square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue bc eb f,2012,2,27,12,46,-0.8640217257551484,undef
+6902916677,45.767627,4.834949,33,img ,2012,2,13,11,38,-0.8778197794763651,undef
+6902915335,45.767698,4.835212,33,img ,2012,2,13,11,35,-0.8778218258556989,undef
+6576232267,45.767652,4.835259,33,ceci nest fontaine bartholdi lyon ftedeslumires,2011,12,8,19,0,-0.9433298389621384,undef
+6549333777,45.767635,4.835148,33,bourrasque lyon hoteldeville dcembre fetedeslumires bourrasque courinterieure,2011,12,21,16,43,-0.9306538832422762,undef
+6491775505,45.767635,4.835175,33,fte lumires lyon france lyon fte ville lumires htel,2011,12,9,0,14,-0.9431156512585362,undef
+6491771051,45.767631,4.835089,33,fte lumires lyon france lyon fte ville lumires htel,2011,12,9,0,15,-0.9431149691320916,undef
+6493166909,45.767657,4.835057,33,lumires lyon nuit lumires ftedeslumires,2011,12,10,20,46,-0.9412930093985852,undef
+6912876088,45.767695,4.835078,33,knar rose street day nikon lyon hoteldeville nikkor knar streetday,2012,4,8,18,29,-0.8235150110959127,undef
+7058954807,45.767695,4.835078,33,knar souris verte street day nikon lyon hoteldeville nikkor knar streetday,2012,4,8,18,29,-0.8235150110959127,undef
+6912868598,45.767695,4.835078,33,knar aviateur street day nikon lyon hoteldeville nikkor knar streetday,2012,4,8,18,29,-0.8235150110959127,undef
+7058947725,45.767695,4.835078,33,hotel ville nikon hoteldeville nikkor,2012,4,8,18,15,-0.8235245608661371,undef
+7058883049,45.767695,4.835078,33,knar street day nikon lyon hoteldeville nikkor knar streetday,2012,4,8,17,23,-0.8235600314412559,undef
+7058880325,45.767695,4.835078,33,knar street day nikon lyon hoteldeville nikkor knar streetday,2012,4,8,17,22,-0.8235607135677004,undef
+6912793344,45.767695,4.835078,33,knar street day statue nikon lyon hoteldeville nikkor knar streetday,2012,4,8,17,21,-0.8235613956941451,undef
+7058872555,45.767695,4.835078,33,knar street day nikon lyon hoteldeville nikkor knar streetday,2012,4,8,17,15,-0.8235654884528126,undef
+6912788498,45.767695,4.835078,33,knar street day nikon lyon hoteldeville nikkor knar streetday,2012,4,8,17,13,-0.8235668527057018,undef
+6912784894,45.767695,4.835078,33,knar street day statue nikon lyon hoteldeville nikkor knar streetday,2012,4,8,17,9,-0.8235695812114802,undef
+7058863875,45.767695,4.835078,33,knar street day nikon lyon hoteldeville nikkor knar streetday,2012,4,8,17,7,-0.8235709454643694,undef
+6912778740,45.767695,4.835078,33,kube knar street day nikon lyon hoteldeville nikkor knar streetday,2012,4,8,17,5,-0.8235723097172586,undef
+6912776254,45.767695,4.835078,33,knar street day nikon lyon hoteldeville nikkor opra knar opradelyon streetday,2012,4,8,17,4,-0.8235729918437031,undef
+6912736462,45.767695,4.835078,33,knar street day nikon lyon hoteldeville nikkor knar streetday,2012,4,8,15,17,-0.8236459793732746,undef
+7058815527,45.767695,4.835078,33,knar street day statue nikon lyon hoteldeville nikkor knar streetday,2012,4,8,15,17,-0.8236459793732746,undef
+6912729784,45.767695,4.835078,33,knar street day nikon lyon hoteldeville nikkor knar streetday,2012,4,8,15,16,-0.8236466614997191,undef
+7058808795,45.767695,4.835078,33,knar street day nikon lyon hoteldeville nikkor knar streetday,2012,4,8,15,15,-0.8236473436261638,undef
+7058805695,45.767695,4.835078,33,knar street day nikon lyon hoteldeville nikkor knar streetday,2012,4,8,15,15,-0.8236473436261638,undef
+6912720086,45.767695,4.835078,33,knar street day nikon lyon hoteldeville nikkor knar streetday,2012,4,8,15,15,-0.8236473436261638,undef
+7058799521,45.767695,4.835078,33,knar sioux street day nikon lyon hoteldeville nikkor knar streetday,2012,4,8,15,14,-0.8236480257526083,undef
+6912714718,45.767695,4.835078,33,knar marin street day nikon lyon hoteldeville nikkor knar streetday,2012,4,8,15,13,-0.8236487078790529,undef
+6912712492,45.767695,4.835078,33,knar street day nikon lyon hoteldeville nikkor knar streetday,2012,4,8,15,13,-0.8236487078790529,undef
+7058792323,45.767695,4.835078,33,knar aviateur street day nikon lyon hoteldeville nikkor knar streetday,2012,4,8,15,12,-0.8236493900054975,undef
+7058770601,45.767695,4.835078,33,knar biscuit street day nikon lyon hoteldeville nikkor knar streetday,2012,4,8,14,59,-0.8236582576492772,undef
+6912685518,45.767695,4.835078,33,knar roquette street day nikon lyon hoteldeville nikkor knar streetday,2012,4,8,14,58,-0.8236589397757218,undef
+7058765433,45.767695,4.835078,33,knar sioux street day nikon lyon hoteldeville nikkor knar streetday,2012,4,8,14,58,-0.8236589397757218,undef
+6912680310,45.767695,4.835078,33,knar street day nikon lyon hoteldeville nikkor knar streetday,2012,4,8,14,57,-0.8236596219021664,undef
+7058758899,45.767695,4.835078,33,knar street day nikon lyon hoteldeville nikkor knar streetday,2012,4,8,14,57,-0.8236596219021664,undef
+7056562701,45.76762,4.834987,33,knar invasion square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue bc eb f,2012,4,8,14,34,-0.823675310810392,undef
+7173479877,45.767653,4.835298,33,lyon ,2012,6,4,14,5,-0.767706153905134,undef
+7779220504,45.767702,4.835186,33,lyon garonne bartholdi france rhne village tourisme villes filoer,2012,8,9,15,11,-0.702831836265721,undef
+7733745530,45.767747,4.835164,33,frankrike summer france lyon sommer july juli ete frankrike rhnealpes,2012,7,6,15,34,-0.7362130580847435,undef
+7733744386,45.767747,4.835164,33,frankrike summer france lyon sommer july juli ete frankrike rhnealpes,2012,7,6,15,34,-0.7362130580847435,undef
+8132591530,45.767677,4.835239,33, festival light lyon nuit ftedeslumires feuxdartifices placelouispradel,2009,12,6,0,17,-1.663111709675463,undef
+8132560233,45.767677,4.835239,33, festival light lyon nuit ftedeslumires cathdralestjean,2009,12,6,0,17,-1.663111709675463,undef
+8132556363,45.767677,4.835239,33, festival light lyon nuit ftedeslumires feuxdartifices,2009,12,6,0,12,-1.663115120307686,undef
+8132578968,45.767677,4.835239,33, festival light lyon mariage nuit ftedeslumires feuxdartifices,2009,12,6,0,12,-1.663115120307686,undef
+6486409659,45.767605,4.835175,33,fte lumires camera photoshop long exposure raw lyon fete lumiere alpha ssm,2011,12,9,21,12,-0.9422575361912388,undef
+6486344301,45.767577,4.834897,33,fte lumires france photoshop lyon sony fete alpha ssm lumieres fdl,2011,12,9,21,15,-0.9422554898119052,undef
+6486329383,45.767594,4.834886,33,fte lumires france photoshop lyon sony fete alpha ssm lumieres fdl,2011,12,9,21,2,-0.9422643574556848,undef
+8427511493,45.76768,4.834992,33,kokeshi soie lighting light blackandwhite bw night lyon hoteldeville noiretblanc nb kokeshi nuit soie japon lumires noirblanc ftedeslumires poupe japonaise,2012,12,9,20,58,-0.5827591646034396,undef
+8320181608,45.76762,4.834988,33,bag paris projet projet,2012,12,28,21,37,-0.56406958214805,undef
+8266873178,45.767597,4.835046,33,fte lumires kokeshi soie lyon fte kokeshi soie ville lumires htel,2012,12,7,19,7,-0.5847994047992157,undef
+8604652725,45.767612,4.8351,33,lyon htel ville ,2013,3,30,18,48,-0.4738167501375737,undef
+8559756249,45.76762,4.834987,33,upload square squareformat earlybird iphoneography instagramapp uploadedbyinstagram foursquarevenue bc eb f,2013,3,15,14,12,-0.4887389482394789,undef
+8733307416,45.76762,4.834988,33,hotel ville lyon france europe euro province ville terreaux merciere hteldevilledelyonplace bellecourlyonbellecourpresquilerhonehotel,2013,5,12,18,52,-0.4315767521826286,undef
+8733297538,45.76762,4.834988,33,hotel ville lyon france europe lyon hoteldeville euro province rhone bellecour terreaux presquile merciere hteldevilledelyonplacebellecour,2013,5,12,18,51,-0.4315774343090732,undef
+8970310645,45.767627,4.835293,33,e place terrreaux ,2013,6,4,21,21,-0.4088830874974812,undef
+8971345138,45.767811,4.835308,33,lyon lumires france festival lyon lumires preview rhone,2010,12,9,20,28,-1.3008132090326114,undef
+8971343838,45.767802,4.835036,33,lyon lumires france festival expo lyon lumires preview rhone,2010,12,9,20,26,-1.3008145732855003,undef
+8971343228,45.767763,4.83495,33,lyon lumires france festival lyon lumires preview rhone,2010,12,9,20,26,-1.3008145732855003,undef
+8971342598,45.767763,4.834972,33,lyon lumires france festival lyon lumires preview rhone,2010,12,9,20,26,-1.3008145732855003,undef
+8970149813,45.767686,4.835025,33,lyon lumires france festival lyon lumires preview rhone,2010,12,9,20,25,-1.3008152554119452,undef
+9402852478,45.767638,4.835125,33, united tourdefrance avondetappe,2013,7,13,23,20,-0.3704936933222607,undef
+9402366440,45.767638,4.835125,33, united tourdefrance avondetappe,2013,7,13,22,17,-0.37053666728827,undef
+9402364478,45.767638,4.835125,33, mm united tourdefrance mtz avondetappe,2013,7,13,22,12,-0.370540077920493,undef
+9399600159,45.767638,4.835125,33, mm united tourdefrance mtz avondetappe,2013,7,13,22,12,-0.370540077920493,undef
+9399598151,45.767638,4.835125,33, mm united tourdefrance mtz mmb mbj avondetappe,2013,7,13,22,11,-0.3705407600469376,undef
+9399595397,45.767638,4.835125,33, united tourdefrance avondetappe,2013,7,13,20,11,-0.3706226152202886,undef
+9402339986,45.767638,4.835125,33, united tourdefrance avondetappe,2013,7,13,17,6,-0.3707488086125383,undef
+9399569065,45.767638,4.835125,33, united tourdefrance avondetappe,2013,7,13,16,18,-0.3707815506818787,undef
+9390455003,45.767638,4.835125,33, mm united tourdefrance mtz mrb avondetappe mpbm,2013,7,13,22,11,-0.3705407600469376,undef
+9390461167,45.767638,4.835125,33, united tourdefrance avondetappe,2013,7,13,22,15,-0.3705380315411592,undef
+9393232158,45.767638,4.835125,33, mm united tourdefrance avondetappe,2013,7,13,22,15,-0.3705380315411592,undef
+9393221148,45.767638,4.835125,33, mm united tourdefrance avondetappe,2013,7,13,22,11,-0.3705407600469376,undef
+9990258525,45.76762,4.834987,33,upload square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue bc eb f,2013,9,28,17,51,-0.2950839327461168,undef
+9677224028,45.76762,4.834987,33,upload square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue bc eb f,2013,9,4,18,16,-0.3186411695101183,undef
+9663768543,45.76762,4.834987,33,upload square squareformat hudson iphoneography instagramapp uploadedbyinstagram foursquarevenue bc eb f,2013,9,3,11,8,-0.319915381708617,undef
+10584388314,45.76762,4.834987,33,cold brrr froid brrr lyon night hteldeville cold st saxotaz fall france picoftheday square squareformat hudson iphoneography instagramapp uploadedbyinstagram foursquarevenue bc eb f,2013,10,30,19,3,-0.2636024330752844,undef
+10386486005,45.76762,4.834987,33,upload valencia square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bc eb f,2013,10,20,11,17,-0.2737429248005963,undef
+10059991665,45.767612,4.835014,33,lyon laser nuit mairie,2009,12,7,22,6,-1.6612365440792782,undef
+11072277533,45.767611,4.835033,33,dsc jpg france lyon nuit rhnealpes villevillagearchitecture statuesculptureoeuvre fontainebassin,2012,12,9,20,47,-0.5827666679943301,undef
+8254925454,45.76759,4.83502,33,kokeshi soie hoteldeville lumire ftedeslumires poupe,2012,12,8,0,5,-0.5845961311187271,undef
+8252873885,45.76759,4.83502,33,kokeshi soie hoteldeville lumire ftedeslumires poupe,2012,12,8,0,14,-0.5845899919807258,undef
+11911983293,45.76762,4.834987,33,upload square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue bc eb f,2014,1,12,10,34,-0.1912622414998067,undef
+11571523434,45.76762,4.834987,33,upload square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue bc eb f,2013,12,26,12,43,-0.2078727025520783,undef
+11475311275,45.767777,4.835277,33, ,2013,12,9,20,9,-0.2242669295214141,undef
+13902514025,45.76753,4.835003,33,cour intrieure hotel ville lyon blackandwhite lyon noiretblanc,2014,4,12,11,5,-0.1028375083608382,undef
+13898278315,45.767672,4.835175,33,img hdr lyon hdr mairie er,2014,4,5,17,3,-0.1094691416551663,undef
+15353491042,45.767672,4.835175,33, lyon ville er journe patrimoine hotl,2014,9,20,15,23,0.0554826751761885,undef
+15330780376,45.767672,4.835175,33, lyon ville er journe patrimoine hotl,2014,9,20,15,22,0.0554819930497439,undef
+15350616551,45.767672,4.835175,33, lyon ville er journe patrimoine hotl,2014,9,20,15,21,0.0554813109232993,undef
+15330778316,45.767672,4.835175,33, lyon ville er journe patrimoine hotl,2014,9,20,15,20,0.0554806287968547,undef
+15167046329,45.767672,4.835175,33, lyon ville er journe patrimoine hotl,2014,9,20,15,20,0.0554806287968547,undef
+15167045069,45.767672,4.835175,33, lyon ville er journe patrimoine hotl,2014,9,20,15,19,0.0554799466704101,undef
+15167225988,45.767672,4.835175,33, lyon ville er journe patrimoine hotl,2014,9,20,15,17,0.0554785824175209,undef
+15167279787,45.767672,4.835175,33, lyon ville er journe patrimoine hotl,2014,9,20,15,17,0.0554785824175209,undef
+15350610671,45.767672,4.835175,33, lyon ville er journe patrimoine hotl,2014,9,20,15,16,0.0554779002910763,undef
+15353482932,45.767672,4.835175,33, lyon ville er journe patrimoine hotl,2014,9,20,15,14,0.0554765360381872,undef
+15167040889,45.767672,4.835175,33, lyon ville er journe patrimoine hotl,2014,9,20,15,12,0.055475171785298,undef
+15167221798,45.767672,4.835175,33, lyon ville er journe patrimoine hotl,2014,9,20,15,12,0.055475171785298,undef
+15167038609,45.767672,4.835175,33, lyon ville er journe patrimoine hotl,2014,9,20,15,10,0.0554738075324088,undef
+15167219368,45.767672,4.835175,33, lyon ville er journe patrimoine hotl,2014,9,20,15,9,0.0554731254059642,undef
+15353793725,45.767672,4.835175,33, lyon ville er journe patrimoine hotl,2014,9,20,15,8,0.0554724432795196,undef
+15353792395,45.767672,4.835175,33, lyon ville er journe patrimoine hotl,2014,9,20,15,8,0.0554724432795196,undef
+15167270367,45.767672,4.835175,33, lyon ville er journe patrimoine hotl,2014,9,20,15,5,0.0554703969001858,undef
+15353790495,45.767672,4.835175,33, lyon ville er journe patrimoine hotl,2014,9,20,15,5,0.0554703969001858,undef
+15167268657,45.767672,4.835175,33, lyon ville er journe patrimoine hotl,2014,9,20,15,4,0.0554697147737412,undef
+15330761706,45.767672,4.835175,33, lyon ville er journe patrimoine hotl,2014,9,20,15,3,0.0554690326472966,undef
+15353470912,45.767672,4.835175,33, lyon ville er journe patrimoine hotl,2014,9,20,15,3,0.0554690326472966,undef
+15350597531,45.767672,4.835175,33, lyon ville er journe patrimoine hotl,2014,9,20,15,0,0.0554669862679629,undef
+15353786185,45.767672,4.835175,33, lyon ville er journe patrimoine hotl,2014,9,20,15,0,0.0554669862679629,undef
+15167086110,45.767672,4.835175,33, lyon ville er journe patrimoine hotl,2014,9,20,14,59,0.0554663041415183,undef
+15353784185,45.767672,4.835175,33, lyon ville er journe patrimoine hotl,2014,9,20,14,59,0.0554663041415183,undef
+15353466042,45.767672,4.835175,33, lyon ville er journe patrimoine hotl,2014,9,20,14,59,0.0554663041415183,undef
+15330755936,45.767672,4.835175,33, lyon ville er journe patrimoine hotl,2014,9,20,14,58,0.0554656220150737,undef
+15167082730,45.767672,4.835175,33, lyon ville er journe patrimoine hotl,2014,9,20,14,54,0.0554628935092953,undef
+15350591131,45.767672,4.835175,33, lyon ville er journe patrimoine hotl,2014,9,20,14,54,0.0554628935092953,undef
+15330753386,45.767672,4.835175,33, lyon ville er journe patrimoine hotl,2014,9,20,14,53,0.0554622113828507,undef
+11380465526,45.76762,4.834987,33,quentins airbnb square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue bc eb f,2013,12,15,1,5,-0.2191537096927488,undef
+11373483463,45.767613,4.835236,33,lyon lumires light lyon lumire,2013,12,6,21,16,-0.2271680132902659,undef
+11373482793,45.767627,4.83518,33,lyon lumires light lyon lumire,2013,12,6,21,15,-0.2271686954167105,undef
+11373348885,45.76763,4.835177,33,lyon lumires light lyon lumire,2013,12,6,21,15,-0.2271686954167105,undef
+11373399164,45.767652,4.83515,33,lyon lumires light lyon lumire,2013,12,6,21,15,-0.2271686954167105,undef
+11373366416,45.767619,4.835138,33,lyon lumires light lyon lumire,2013,12,6,21,14,-0.2271693775431551,undef
+11373396734,45.767705,4.835144,33,lyon lumires light lyon lumire,2013,12,6,21,14,-0.2271693775431551,undef
+11373364296,45.767672,4.835044,33,lyon lumires light lyon lumire,2013,12,6,21,14,-0.2271693775431551,undef
+11373395454,45.767649,4.835019,33,lyon lumires light lyon lumire,2013,12,6,21,13,-0.2271700596695997,undef
+11370323256,45.767672,4.835175,33, festival light lyon fte festivaloflights lumires ftedeslumires,2013,12,9,20,51,-0.2242382802107412,undef
+11370354844,45.767672,4.835175,33, festival light lyon fte festivaloflights lumires ftedeslumires,2013,12,9,20,48,-0.224240326590075,undef
+11368569704,45.76771,4.835035,33,passants passent france lyon illumination lumires ftedeslumires dcembre fetedeslumieres fetedeslumires canoneos,2013,12,14,16,59,-0.2194852231448208,undef
+11368537476,45.76771,4.835035,33,zooming lhotel ville france lyon illumination lumires ftedeslumires dcembre fetedeslumieres fetedeslumires canoneos,2013,12,14,16,59,-0.2194852231448208,undef
+11338113833,45.767695,4.8351,33,htel ville ,2013,12,9,22,32,-0.2241693854398374,undef
+11320184053,45.767657,4.835132,33,fte lumires lost paradise lost paradise lyon fte ville lumires htel,2013,12,9,19,53,-0.2242778435445276,undef
+11297722323,45.767649,4.835308,33,fte lumires ,2013,12,8,19,54,-0.2252594234982962,undef
+11278035556,45.767754,4.835196,33,eroticart lyon hteldeville ftedeslumires castelbajac ftedeslumires,2013,12,7,22,46,-0.2261243598300394,undef
+11278109553,45.767754,4.835196,33,castelbajac installation lost paradise lyon hteldeville ftedeslumires castelbajac ftedeslumires,2013,12,7,22,45,-0.226125041956484,undef
+11266618646,45.76762,4.834987,33,fete lumires fete fetedeslumieres lyon igerslyon onlylyon lumiere light lightfest decembre rhone rhonealpes fest square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bc eb f,2013,12,8,10,45,-0.2256339109163774,undef
+15872196009,45.767738,4.835013,33,lyon fontaine ,2013,4,13,15,55,-0.4601830888895036,undef
+15870311650,45.767672,4.835175,33, lyon fte lumires ftedeslumires,2014,12,8,21,57,0.1333501373321991,undef
+15871826797,45.767672,4.835175,33, lyon fte lumires ftedeslumires,2014,12,8,21,56,0.1333494552057545,undef
+15871510539,45.767672,4.835175,33, lyon fte lumires ftedeslumires,2014,12,8,21,56,0.1333494552057545,undef
+15435275074,45.767672,4.835175,33, lyon fte lumires ftedeslumires,2014,12,8,21,55,0.1333487730793099,undef
+16592733913,45.767717,4.835271,33,guiding light muse architecture night landscape cityscape lyon,2015,3,14,21,35,0.2276322902508833,undef
+17025172198,45.767717,4.835271,33, architecture night landscape cityscape lyon,2015,3,14,21,36,0.2276329723773279,undef
+17212345501,45.767717,4.835271,33,killer whale smallpools architecture night landscape cityscape lyon,2015,3,14,21,37,0.2276336545037725,undef
+16590471624,45.767717,4.835271,33,take high kelly clarkson architecture night landscape cityscape lyon,2015,3,14,21,37,0.2276336545037725,undef
+17211231572,45.767717,4.835271,33,picture dark josh record architecture night landscape cityscape lyon,2015,3,14,21,38,0.2276343366302171,undef
+17211227402,45.767717,4.835271,33,time mikky ekko architecture night landscape cityscape lyon,2015,3,14,21,40,0.2276357008831063,undef
+17044669931,45.767665,4.835261,33,opra lyon light architecture opera lyon,2015,4,5,14,34,0.2489548807823998,undef
+18297174225,45.767777,4.835164,33,lyon lyon rhne rhnealpes martinesodaigui,2015,5,19,14,52,0.2921866905877824,undef
+18293296212,45.767777,4.835164,33,lyon lyon rhne rhnealpes martinesodaigui,2015,5,19,14,52,0.2921866905877824,undef
+17158476140,45.767792,4.835035,33,mai pluvieux lyon,2015,5,2,19,4,0.2756601310881956,undef
+19082295492,45.76775,4.834947,33,fete lumiere ,2014,12,7,0,20,0.1314831572533495,undef
+18357575591,45.76774,4.835132,33, ,2015,5,31,12,48,0.3038892518712111,undef
+18169878789,45.76774,4.835132,33, ,2015,5,31,12,49,0.3038899339976557,undef
+17733430174,45.76774,4.835132,33, ,2015,5,31,12,51,0.3038912982505448,undef
+19693677325,45.767647,4.835105,33, lyon lumires fete,2012,12,6,23,13,-0.5856138637740591,undef
+19686137602,45.767569,4.834969,33, lyon lumires fete,2012,12,9,21,59,-0.5827175548903194,undef
+20698670131,45.767628,4.83499,33,upload square squareformat iphoneography instagramapp uploadedbyinstagram,2015,8,18,17,31,0.3816809979918719,undef
+21469519416,45.767649,4.835102,33,refreshes stone beer cant reach stone bottle stripe empty artcontemporain buren bire vide rayures,2015,9,7,16,46,0.4012955439061288,undef
+20822871793,45.767649,4.835102,33, bw caf eau lyon noiretblanc terrasse fontaine gouttes,2015,9,7,16,56,0.4013023651705747,undef
+22110797786,45.767687,4.835014,33,place terreaux lyon fountain square lyon mmsummicron,2015,10,8,10,17,0.4314803212057909,undef
+22124347792,45.767687,4.835014,33,fontaine bartholdi lyon fountain lyon placedesterreaux mmsummicron frdricaugustebartholdi,2015,10,8,10,20,0.4314823675851247,undef
+22440435489,45.767735,4.835248,33,cha cha cha street boy people ballet france calle back dance kid strada gente lyon danza lione frana do espalda rua chico rue enfant francia menino gen ballo chachacha schiena ragazzo bambino bailo muchacho gosses,2015,11,6,21,8,0.4604099858474028,undef
+22180420523,45.76762,4.834987,33,trs belle rception dinauguration exposition soyeuxdestins lhtel ville lyon lyon soyeuxdestins,2015,11,5,13,3,0.4590968924415623,undef
+15799435460,45.767688,4.83488,33,hotel ville ,2014,12,6,0,47,0.1305193125871403,undef
+15800699069,45.767688,4.83488,33,hotel ville ,2014,12,6,0,47,0.1305193125871403,undef
+15800698459,45.767658,4.834888,33,hotel ville ,2014,12,6,0,46,0.1305186304606957,undef
+15983109382,45.767616,4.835249,33,lyon fte lumires france lyon rhne ftedeslumires lightfestival rhnealpes hteldeville festivaldelleluci,2014,12,5,21,45,0.1303951655742245,undef
+15798042137,45.767616,4.835249,33,lyon fte lumires france lyon rhne ftedeslumires lightfestival rhnealpes hteldeville festivaldelleluci,2014,12,5,21,45,0.1303951655742245,undef
+15957998146,45.767616,4.835249,33,lyon fte lumires france lyon rhne ftedeslumires lightfestival rhnealpes hteldeville festivaldelleluci,2014,12,5,21,44,0.1303944834477799,undef
+15790607038,45.767777,4.835057,33,njrd esprit nord lyon lumires ftes,2014,12,8,20,52,0.1333057991133006,undef
+15977319542,45.767777,4.835057,33,fontaine lyon lumires ftes,2014,12,8,20,51,0.133305116986856,undef
+15789306038,45.767702,4.835218,33,terreaux dance pentaxk pentaxart lumires,2014,12,7,22,58,0.1324094849651061,undef
+15789476380,45.767702,4.835218,33,place terreaux lyon lumires pentaxk pentaxart lumires,2014,12,7,22,53,0.1324060743328831,undef
+15350309963,45.767762,4.835164,33, lyon festivaloflights ftedeslumires,2014,12,7,18,28,0.1322253108250661,undef
+15778258448,45.76753,4.835003,33,fte lumires lyon lyon ftedeslumires,2014,12,6,21,6,0.1313508247230985,undef
+15939885706,45.76753,4.835003,33,fte lumires lyon lyon ftedeslumires,2014,12,6,21,4,0.1313494604702094,undef
+15965648915,45.76753,4.835003,33,fte lumires lyon lyon ftedeslumires,2014,12,6,21,7,0.1313515068495431,undef
+25031160092,45.76763,4.835052,33,lyon lyon,2012,6,2,17,22,-0.7695362991559757,undef
+23856462320,45.76768,4.835132,33,faits diver blackandwhite france lyon noiretblanc streetphotography rhne bistrot brumpicts frdricbrumby auvergnerhnealpes,2015,1,3,20,14,0.1588186923939488,undef
+23896039685,45.76768,4.835003,33,htel ville lyon light sunset france lamp light evening streetlight lyon dusk townhall hteldeville placedesterreaux terreaux presqule,2015,12,7,17,32,0.4907127710219794,undef
+25719778814,45.767702,4.835121,33,htel ville lyon blackandwhite monochrome lyon noiretblanc hoteldevilledelyon,2016,4,9,11,53,0.6122820281036968,undef
+25721872373,45.767702,4.835121,33,htel ville lyon blackandwhite monochrome lyon noiretblanc hoteldevilledelyon,2016,4,9,11,52,0.6122813459772523,undef
+26142165062,45.767628,4.83499,33,selfie rencard lhtel ville city hall date seflies wwwmonsieurbidulenet slack slackline slacker art arte artist artcontemporain contemporaryart artgay gayart instaart instagay instagram instamood onlyart onlylyon lyon miami square squareformat iphoneography instagramapp uploadedbyinstagram,2016,4,4,8,49,0.6072452064368259,undef
+27469015386,45.767703,4.83512,33,fte lumires lyon lumires ftedeslumires,2015,1,4,19,34,0.1597736694163782,undef
+27422258876,45.767703,4.83512,33,fte lumires lyon lumires ftedeslumires,2015,1,4,19,34,0.1597736694163782,undef
+27982813260,45.767812,4.835021,33, ,2016,7,12,15,26,0.7047599565764339,undef
+29678960533,45.767687,4.8351,33,lumire ,2014,12,7,22,36,0.1323944781833251,undef
+30848753546,45.767677,4.835033,33,p jpg nuit flaque reflets lyon hteldeville eau opra pluie,2016,10,21,19,38,0.8041403225420023,undef
+23228593844,45.767733,4.835038,33,place terreaux longexposure nightlights lyon hoteldeville ii fontaine nuit mairie k terreaux poselongue poselonguelong lightspentax exposureville lyonnuitnightnight,2015,12,19,23,44,0.502753667021926,undef
+31725373873,45.767632,4.834926,33, hbarrison harveybarrison france lyon,2016,8,22,11,44,0.7448812697944747,undef
+32414646381,45.767632,4.834926,33, hbarrison harveybarrison france lyon,2016,8,22,11,45,0.7448819519209193,undef
+32158320440,45.767632,4.834926,33, hbarrison harveybarrison france lyon,2016,8,22,11,45,0.7448819519209193,undef
+32496308376,45.767632,4.834926,33, hbarrison harveybarrison france lyon,2016,8,22,11,45,0.7448819519209193,undef
+32537459575,45.767632,4.834926,33, hbarrison harveybarrison france lyon,2016,8,22,11,46,0.7448826340473639,undef
+32496302456,45.767632,4.834926,33, hbarrison harveybarrison france lyon,2016,8,22,11,46,0.7448826340473639,undef
+31339714963,45.767657,4.834971,33,dsf jpg france lumires lyon hteldeville nuit rhne ftedeslumires,2016,12,10,23,5,0.853394626726692,undef
+31976609332,45.767687,4.835218,33,phm v decembre cours decembre fete fetedeslumieres hotel lumiere lumieres lustre lyon miroir reflet ville france,2016,12,11,0,13,0.8534410113249242,undef
+31976607082,45.767687,4.835218,33,phm v decembre cours decembre fete fetedeslumieres hotel lumiere lumieres lustre lyon miroir reflet ville france,2016,12,11,0,20,0.8534457862100363,undef
+31665479151,45.76768,4.835218,33,platonium htel ville ,2016,12,21,12,12,0.863754081040718,undef
+31744663226,45.76768,4.835218,33,platonium htel ville ,2016,12,21,12,10,0.8637527167878288,undef
+31600181762,45.767687,4.834907,33,fte lumires fontaine lhtel ville fte lumires lyon hteldeville platonium,2016,12,9,21,26,0.8523448341284641,undef
+34054336253,45.767687,4.835186,33,htel ville lyon fujifilmxt lyon hteldeville coucherdesoleil sunset beffroi,2017,5,17,20,29,1.008485623675018,undef
+31591173836,45.767695,4.83525,33,platonium europe france ftedeslumires hteldeville lyon night nuit place platonium,2016,12,10,23,43,0.8534205475315865,undef
+31590576086,45.767628,4.834941,33,platonium europe france ftedeslumires hteldeville lyon nacht night nuit place platonium,2016,12,10,23,33,0.8534137262671405,undef
+30817396363,45.767703,4.835026,33,platonium europe france ftedeslumires hteldeville lyon nacht night nuit place platonium,2016,12,10,23,28,0.8534103156349175,undef
+31605553565,45.767767,4.835305,33,lyon illumination cour lhtel ville lors fte lumires lyon rhone fetedeslumieres hoteldeville cour illumination foule nuit leica q,2016,12,8,23,48,0.8514594340033831,undef
+30764089604,45.767767,4.835305,33,lyon cour lhtel ville lors fte lumires lyon rhone fetedeslumieres hoteldeville cour illumination fontaine bassin nuit leica q,2016,12,9,0,0,0.8514676195207181,undef
+30795808583,45.767767,4.835305,33,lyon cour lhtel ville lors fte lumires lyon rhone fetedeslumieres hoteldeville cour reflets nuit spectateurs leica q,2016,12,8,23,52,0.8514621625091614,undef
+31458763062,45.767767,4.835305,33,lyon illumination dcoration cour lhtel ville lors fte lumires lyon rhone fetedeslumieres hoteldeville cour illumination clocher horloge leica q nuit,2016,12,8,23,59,0.8514669373942736,undef
+30763049023,45.767724,4.834995,33,ciel miroir ftedeslumires lyon dcembre,2016,12,10,20,19,0.8532813937368896,undef
+31200158590,45.767655,4.834918,33,maison maire ftedeslumires lyon dcembre,2016,12,10,20,20,0.8532820758633342,undef
+31570889855,45.767709,4.835124,33,youpi cest heures ftedeslumires lyon dcembre,2016,12,10,20,5,0.8532718439666652,undef
+31415740501,45.767687,4.835078,33,fte lumires lyon ftedeslumireslyon lyon lumires rhnealpes,2016,12,8,23,45,0.8514573876240492,undef
+30722189013,45.767687,4.835078,33,fte lumires lyon ftedeslumireslyon lyon lumires rhnealpes,2016,12,8,23,44,0.8514567054976047,undef
+30722181063,45.767687,4.835078,33,fte lumires lyon ftedeslumireslyon lyon lumires rhnealpes,2016,12,8,23,44,0.8514567054976047,undef
+31493378106,45.767687,4.835078,33,fte lumires lyon ftedeslumireslyon lyon lumires rhnealpes,2016,12,8,23,33,0.8514492021067142,undef
+31493364746,45.767687,4.835078,33,fte lumires lyon ftedeslumireslyon lyon lumires rhnealpes,2016,12,8,23,33,0.8514492021067142,undef
+31384493222,45.767687,4.835078,33,fte lumires lyon ftedeslumireslyon lyon lumires rhnealpes,2016,12,8,23,45,0.8514573876240492,undef
+31415722741,45.767687,4.835078,33,fte lumires lyon ftedeslumireslyon lyon lumires rhnealpes,2016,12,8,23,37,0.8514519306124925,undef
+31159958430,45.767687,4.835078,33,fte lumires lyon ftedeslumireslyon lyon lumires rhnealpes,2016,12,8,23,33,0.8514492021067142,undef
+31372751152,45.7675,4.835,33, ,2016,12,8,22,33,0.8514082745200386,undef
+30678798824,45.767777,4.835,33, ,2016,12,8,22,33,0.8514082745200386,undef
+31531286825,45.767687,4.835078,33,fte lumires lyon ftedeslumireslyon lyon lumires rhnealpes,2016,12,8,23,42,0.8514553412447154,undef
+30678799954,45.767777,4.835,33, ,2016,12,8,22,30,0.8514062281407048,undef
+40463127892,45.767648,4.835299,33,hotel ville ,2015,9,24,6,45,0.4175840412765528,undef
+27581692509,45.767641,4.835291,33,ephmres ,2017,12,9,20,28,1.2108309300724882,undef
+27581686639,45.767591,4.835283,33,ephmres ,2017,12,9,20,26,1.210829565819599,undef
+39358039251,45.767588,4.835272,33,ephmres ,2017,12,9,20,26,1.210829565819599,undef
+24493997537,45.767588,4.835194,33,ephmres ,2017,12,9,20,24,1.2108282015667098,undef
+24493984747,45.767569,4.835263,33,ephmres ,2017,12,9,20,25,1.2108288836931544,undef
+39012090351,45.767568,4.83502,33,ephmres europe france ftedeslumires hoteldeville lyon place,2017,12,9,21,58,1.2108923214525016,undef
+27218197448,45.767687,4.835218,33, decembre decembre fete fetedeslumieres hotel lumiere lumieres lyon ville,2017,12,9,21,56,1.2108909571996125,undef
+39282044640,45.767687,4.835218,33, decembre decembre fete fetedeslumieres hotel lumiere lumieres lyon ville,2017,12,9,21,57,1.210891639326057,undef
+27218197338,45.767687,4.835218,33, decembre decembre fete fetedeslumieres hotel lumiere lumieres lyon ville,2017,12,9,22,2,1.2108950499582798,undef
+41047645132,45.767687,4.835218,33, decembre decembre fete fetedeslumieres hotel lumiere lumieres lyon ville,2017,12,9,22,3,1.2108957320847245,undef
+27218197178,45.767687,4.835218,33, decembre decembre fete fetedeslumieres hotel lumiere lumieres lyon ville france,2017,12,9,22,5,1.2108970963376136,undef
+39282044500,45.767687,4.835218,33,phm decembre decembre fete fetedeslumieres hotel lumiere lumieres lyon ville france,2017,12,9,22,8,1.2108991427169475,undef
+27218197058,45.767687,4.835218,33, decembre decembre fete fetedeslumieres hotel lumiere lumieres lyon ville,2017,12,9,22,9,1.210899824843392,undef
+27218197028,45.767687,4.835218,33, decembre decembre fete fetedeslumieres hotel lumiere lumieres lyon ville,2017,12,9,22,9,1.210899824843392,undef
+27218196938,45.767687,4.835218,33, decembre decembre fete fetedeslumieres hotel lumiere lumieres lyon ville,2017,12,9,22,9,1.210899824843392,undef
+40381517714,45.767687,4.835218,33, decembre decembre fete fetedeslumieres hotel lumiere lumieres lyon ville,2018,3,29,11,32,1.3185141391216364,undef
+27218190198,45.767687,4.835218,33, decembre decembre fete fetedeslumieres hotel lumiere lumieres lyon ville,2018,3,29,11,32,1.3185141391216364,undef
+27218190158,45.767687,4.835218,33, decembre decembre fete fetedeslumieres hotel lumiere lumieres lyon ville,2018,3,29,11,32,1.3185141391216364,undef
+40381517534,45.767687,4.835218,33, decembre decembre fete fetedeslumieres hotel lumiere lumieres lyon ville,2017,12,9,22,8,1.2108991427169475,undef
+27218190248,45.767687,4.835218,33, decembre decembre fete fetedeslumieres hotel lumiere lumieres lyon ville,2017,12,9,21,58,1.2108923214525016,undef
+39906594440,45.767672,4.835083,33, ,2018,4,25,20,52,1.345417206096364,undef
+40930106874,45.767672,4.835083,33,lyon lyon,2018,4,20,0,18,1.339664151662671,undef
+40748756375,45.767672,4.835083,33,lyon lyon,2018,4,20,0,16,1.3396627874097815,undef
+40930104404,45.767672,4.835083,33,lyon lyon,2018,4,20,0,16,1.3396627874097815,undef
+40748755465,45.767672,4.835083,33,lyon lyon,2018,4,20,0,11,1.3396593767775589,undef
+39832769060,45.767672,4.835083,33,lyon lyon,2018,4,20,0,10,1.3396586946511142,undef
+40521297445,45.767672,4.835241,33, ,2018,4,8,14,30,1.3284581784309055,undef
+41936584262,45.767672,4.835067,33,open day lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,8,9,57,1.3577398203179272,undef
+41262608164,45.767672,4.835067,33,hotel ville lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,8,9,58,1.3577405024443718,undef
+41262607024,45.767672,4.835067,33,city hall fountain lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php yontu tng lione,2018,5,8,10,0,1.357741866697261,undef
+41081478485,45.767672,4.835067,33,main tower lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,8,10,1,1.3577425488237056,undef
+41081477015,45.767672,4.835067,33,theatre beyond lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,8,10,1,1.3577425488237056,undef
+41081475695,45.767672,4.835067,33,seal lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php yontu tng lione,2018,5,8,10,2,1.3577432309501505,undef
+41081474785,45.767672,4.835067,33,hotel ville lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,8,10,4,1.3577445952030394,undef
+41081473945,45.767672,4.835067,33,french architecture lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,8,10,4,1.3577445952030394,undef
+41081472985,45.767672,4.835067,33,fruitful man lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,8,10,5,1.357745277329484,undef
+41081471535,45.767672,4.835067,33,architectural detail lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,8,10,6,1.3577459594559285,undef
+41262594004,45.767672,4.835067,33,arch lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,8,10,6,1.3577459594559285,undef
+41262592044,45.767672,4.835067,33,tower lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,8,10,7,1.3577466415823731,undef
+28109772508,45.767672,4.835067,33,crest lyon lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,8,10,7,1.3577466415823731,undef
+27112188637,45.767672,4.835067,33,doorway lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,8,10,9,1.3577480058352625,undef
+27112187607,45.767672,4.835067,33,ailtireacht lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,8,10,9,1.3577480058352625,undef
+27112186727,45.767672,4.835067,33,chandelier lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,8,10,9,1.3577480058352625,undef
+40174451310,45.767672,4.835067,33,atlas lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,8,10,11,1.3577493700881516,undef
+41262582614,45.767672,4.835067,33,crystal lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,8,10,11,1.3577493700881516,undef
+41081461785,45.767672,4.835067,33,cherub lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,8,10,11,1.3577493700881516,undef
+41081461115,45.767672,4.835067,33,bite lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,8,10,11,1.3577493700881516,undef
+41981385421,45.767672,4.835067,33,main door lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,8,10,13,1.3577507343410409,undef
+41981360961,45.767672,4.835067,33,blue beam lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,8,10,10,1.357748687961707,undef
+41081397465,45.767672,4.835067,33,hotel ville lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,7,11,9,1.3568066713417246,undef
+41262502184,45.767672,4.835067,33,clock tower lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,7,11,36,1.3568250887557287,undef
+41262501104,45.767672,4.835067,33,city hall lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php yontu tng lione,2018,5,7,12,29,1.356861241457292,undef
+28109698688,45.767672,4.835067,33,golden window lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,7,12,30,1.3568619235837367,undef
+28109698088,45.767672,4.835067,33,vive france lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,7,12,31,1.3568626057101814,undef
+28109697518,45.767672,4.835067,33,woman lyon lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php yontu tng lione,2018,5,7,12,31,1.3568626057101814,undef
+41262499064,45.767672,4.835067,33,herculean lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php yontu tng lione,2018,5,7,12,32,1.3568632878366258,undef
+41262498144,45.767672,4.835067,33,lyon lion lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php yontu tng lione,2018,5,7,12,32,1.3568632878366258,undef
+40174086390,45.76771,4.835261,33,hotel ville lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,7,9,31,1.3567398229501546,undef
+41823411242,45.767747,4.834992,33,place lyon place rhne city auvergne france megapole patrimoine patrimony architecture mairie line building g g lumix geometry terreaux placedesterreaux louispradet monument histoire history sane paint painting,2018,4,29,14,52,1.3491006888971635,undef
+25063945968,45.767719,4.83515,33,lyon fte lumires htel ville ephmres ,2017,12,8,0,23,1.2090267056265411,undef
+27158334929,45.767691,4.835197,33,lyon fte lumires htel ville ephmres ,2017,12,8,0,23,1.2090267056265411,undef
+27158324669,45.767708,4.835183,33,lyon fte lumires htel ville ephmres ,2017,12,8,0,23,1.2090267056265411,undef
+25063930578,45.767725,4.835205,33,lyon fte lumires htel ville ephmres ,2017,12,8,0,23,1.2090267056265411,undef
+38219831644,45.767716,4.835186,33,lyon fte lumires htel ville ephmres ,2017,12,8,0,23,1.2090267056265411,undef
+38164725804,45.767772,4.835247,33, ,2017,12,6,19,16,1.207835030727838,undef
+27103515429,45.767619,4.83513,33, ,2017,12,6,19,22,1.2078391234865056,undef
+45365461465,45.767687,4.835186,33,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination nuit night hteldeville,2018,12,5,21,29,1.565469150742566,undef
+31309274267,45.76774,4.835143,33,fte lumires tricolore fte lumires tricolore lyon hteldeville,2018,12,6,21,3,1.56643367753522,undef
+46184016932,45.767687,4.835186,33,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination hteldeville laser noiretblanc nb blackandwhite bnw bw monochrome monochromatic,2018,12,5,21,29,1.565469150742566,undef
+31295878217,45.767687,4.835186,33,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination hteldeville laser,2018,12,5,21,29,1.565469150742566,undef
+44417499470,45.767687,4.835186,33,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination nuit night hteldeville,2018,12,5,21,28,1.5654684686161215,undef
+44412929040,45.767783,4.835033,33,fte lumires ftedeslumires lyon,2018,12,7,23,17,1.5675073445590084,undef
+45519210904,45.767875,4.835194,33,fte lumires ftedeslumires,2018,12,7,23,21,1.5675100730647868,undef
+44388685930,45.767687,4.835186,33,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination hteldeville laser,2018,12,5,21,30,1.5654698328690106,undef
+46205754911,45.767687,4.835186,33,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination hteldeville laser,2018,12,5,21,28,1.5654684686161215,undef
+40752047753,45.767747,4.834949,33,fontaine bartholdi lyon france europe fountain sculpture canon mm mm ultrawideangle opera square,2018,5,6,9,43,1.3557657463872763,undef
+32771737877,45.767767,4.835305,33,lyon cour lhtel ville fontaine lors fte lumire lyon rhone fetedeslumieres hoteldeville cour fontaine lumiere pourpre,2016,12,9,0,0,0.8514676195207181,undef
+48848957356,45.767642,4.834928,33,france auvergnerhnealpes lyon presqule town hall france auvergnerhnealpes lyon presqule townhall hoteldeville,2019,9,25,13,15,1.853917231861612,undef

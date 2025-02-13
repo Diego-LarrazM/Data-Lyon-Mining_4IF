@@ -1,0 +1,99 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken,year_month
+7670228154,45.759399,4.828969,338,rose nb flower nature fleur rose nikon nb x commentgroup,2012,7,28,16,10,238954200.0,Événement Temporaire,2012-07-28 16:10:00,2012-07
+7670172860,45.759399,4.828969,338,rose rose pink flower macro nature fleur rose nikon x,2012,7,28,16,10,238954200.0,Événement Temporaire,2012-07-28 16:10:00,2012-07
+7546183206,45.759454,4.828931,338,adoptez roux lyon,2012,7,9,14,35,237306900.0,Événement Temporaire,2012-07-09 14:35:00,2012-07
+7546177678,45.759454,4.828931,338,lyon pont bonaparte lyon,2012,7,9,14,34,237306840.0,Événement Temporaire,2012-07-09 14:34:00,2012-07
+7546172460,45.759454,4.828931,338,lyon pont bonaparte lyon,2012,7,9,14,34,237306840.0,Événement Temporaire,2012-07-09 14:34:00,2012-07
+7546143682,45.759454,4.828931,338,lyon pont bonaparte lyon,2012,7,9,14,28,237306480.0,Événement Temporaire,2012-07-09 14:28:00,2012-07
+7850366156,45.759399,4.828969,338, ,2012,8,15,12,24,240495840.0,Événement Temporaire,2012-08-15 12:24:00,2012-08
+7776427894,45.759399,4.828969,338, ,2012,8,5,13,34,239636040.0,Événement Temporaire,2012-08-05 13:34:00,2012-08
+7768213940,45.759399,4.828969,338,sucette ,2012,8,12,12,40,240237600.0,Événement Temporaire,2012-08-12 12:40:00,2012-08
+7767530550,45.759379,4.82892,338,lyon lyon vercors arles tournon royans,2012,8,11,9,3,240138180.0,Événement Temporaire,2012-08-11 09:03:00,2012-08
+7765126210,45.759274,4.829027,338, ,2012,8,7,12,32,239805120.0,Événement Temporaire,2012-08-07 12:32:00,2012-08
+7765122476,45.759349,4.829027,338, ,2012,8,7,12,31,239805060.0,Événement Temporaire,2012-08-07 12:31:00,2012-08
+8015124802,45.759399,4.828969,338,arlequin lyon nuit confluence,2012,9,22,21,17,243811020.0,Événement Temporaire,2012-09-22 21:17:00,2012-09
+8015124166,45.759399,4.828969,338,centre commercial lyon nuit confluence,2012,9,22,21,43,243812580.0,Événement Temporaire,2012-09-22 21:43:00,2012-09
+8015120079,45.759399,4.828969,338,patchwork lyon nuit confluence,2012,9,22,21,14,243810840.0,Événement Temporaire,2012-09-22 21:14:00,2012-09
+8015119261,45.759399,4.828969,338,arcenciel lyon nuit confluence rememberthatmomentlevel,2012,9,22,21,8,243810480.0,Événement Temporaire,2012-09-22 21:08:00,2012-09
+7957852340,45.759399,4.828969,338,cite inter ovni ,2012,9,8,19,38,242595480.0,Événement Temporaire,2012-09-08 19:38:00,2012-09
+7957850152,45.759399,4.828969,338,cite inter ovni lyon lugdunum citeinternationale,2012,9,8,19,35,242595300.0,Événement Temporaire,2012-09-08 19:35:00,2012-09
+7957845156,45.759399,4.828969,338,cite internatiolnale ,2012,9,8,19,19,242594340.0,Événement Temporaire,2012-09-08 19:19:00,2012-09
+7957842488,45.759399,4.828969,338,worldtradecenter ,2012,9,8,19,20,242594400.0,Événement Temporaire,2012-09-08 19:20:00,2012-09
+7938914660,45.759399,4.828969,338,matire ,2012,9,1,15,26,241975560.0,Événement Temporaire,2012-09-01 15:26:00,2012-09
+7938911954,45.759399,4.828969,338,danse ,2012,9,1,15,13,241974780.0,Événement Temporaire,2012-09-01 15:13:00,2012-09
+8127873216,45.759399,4.828969,338,feuilles bernard bernardgaillot brnrd color coolpix couleur couleurs europe feuille feuilles feuillage foliage france franais french gaillot image image light lumiere lumieres macro nature p nikon photo photo picture vert,2012,8,11,17,6,240167160.0,Événement Temporaire,2012-08-11 17:06:00,2012-08
+8108866973,45.759399,4.828969,338,zombie zombie sang cadavre zombieday x mm nikon zombiewalklyon,2012,10,13,17,27,245611620.0,Événement Temporaire,2012-10-13 17:27:00,2012-10
+8108866103,45.759399,4.828969,338,zombie bi zombie sang cadavre zombieday x mm nikon zombiewalklyon,2012,10,13,17,29,245611740.0,Événement Temporaire,2012-10-13 17:29:00,2012-10
+8108872804,45.759399,4.828969,338,zombie ter zombie sang cadavre zombieday x mm nikon zombiewalklyon,2012,10,13,17,29,245611740.0,Événement Temporaire,2012-10-13 17:29:00,2012-10
+8108864791,45.759399,4.828969,338,zombie zombie sang cadavre zombieday x mm nikon rememberthatmomentlevel zombiewalklyon,2012,10,13,17,29,245611740.0,Événement Temporaire,2012-10-13 17:29:00,2012-10
+8108864213,45.759399,4.828969,338,zombie zombie sang cadavre zombieday x mm nikon rememberthatmomentlevel rememberthatmomentlevel zombiewalklyon,2012,10,13,17,26,245611560.0,Événement Temporaire,2012-10-13 17:26:00,2012-10
+8102488787,45.759399,4.828969,338,zombie zombie sang cadavre zombieday x mm nikon zombiewalklyon,2012,10,13,17,26,245611560.0,Événement Temporaire,2012-10-13 17:26:00,2012-10
+8102500866,45.759399,4.828969,338,zombie zombie sang cadavre zombieday x mm nikon zombiewalklyon,2012,10,13,17,26,245611560.0,Événement Temporaire,2012-10-13 17:26:00,2012-10
+8100709077,45.759399,4.828969,338,zombie zombie sang maquillage cadavre x mm nikon zombiewalklyon,2012,10,13,17,13,245610780.0,Événement Temporaire,2012-10-13 17:13:00,2012-10
+8100717144,45.759399,4.828969,338,zombie zombie sang maquillage cadavre x mm nikon zombiewalklyon,2012,10,13,17,13,245610780.0,Événement Temporaire,2012-10-13 17:13:00,2012-10
+8100715822,45.759399,4.828969,338,zombie zombie sang maquillage cadavre x mm nikon zombiewalklyon,2012,10,13,17,14,245610840.0,Événement Temporaire,2012-10-13 17:14:00,2012-10
+8100714532,45.759399,4.828969,338,zombie zombie sang maquillage cadavre x mm nikon zombiewalklyon,2012,10,13,17,20,245611200.0,Événement Temporaire,2012-10-13 17:20:00,2012-10
+8097877677,45.759399,4.828969,338,zombie zombie sang cadavre zombieday x zombiewalklyon,2012,10,13,17,13,245610780.0,Événement Temporaire,2012-10-13 17:13:00,2012-10
+8097884138,45.759399,4.828969,338,zombie zombie sang cadavre zombieday x zombiewalklyon,2012,10,13,17,13,245610780.0,Événement Temporaire,2012-10-13 17:13:00,2012-10
+8097789160,45.759399,4.828969,338,zombie zombie zombieday x mm nikon zombiewalklyon,2012,10,13,17,12,245610720.0,Événement Temporaire,2012-10-13 17:12:00,2012-10
+8097779903,45.759399,4.828969,338,zombie zombie zombieday x mm nikon zombiewalklyon,2012,10,13,17,12,245610720.0,Événement Temporaire,2012-10-13 17:12:00,2012-10
+8097779127,45.759399,4.828969,338,zombie zombie zombieday x mm nikon zombiewalklyon,2012,10,13,17,12,245610720.0,Événement Temporaire,2012-10-13 17:12:00,2012-10
+8094910808,45.759399,4.828969,338,zombie zombie sang zombieday x mm nikon rememberthatmomentlevel zombiewalklyon,2012,10,13,17,10,245610600.0,Événement Temporaire,2012-10-13 17:10:00,2012-10
+8094864410,45.759399,4.828969,338,zombie zombie x mm nikon zombiewalklyon,2012,10,13,17,7,245610420.0,Événement Temporaire,2012-10-13 17:07:00,2012-10
+8093494785,45.759399,4.828969,338,zombie zombie sang cadavre zombieday zombiewalklyon,2012,10,13,17,6,245610360.0,Événement Temporaire,2012-10-13 17:06:00,2012-10
+8093500394,45.759399,4.828969,338,zombie zombie sang cadavre zombieday zombiewalklyon,2012,10,13,17,6,245610360.0,Événement Temporaire,2012-10-13 17:06:00,2012-10
+8091653823,45.759399,4.828969,338,zombie rouge zombie bebe precoce rememberthatmomentlevel zombiewalklyon sangenceinte,2012,10,13,17,5,245610300.0,Événement Temporaire,2012-10-13 17:05:00,2012-10
+8091458325,45.759399,4.828969,338,zombie lyon zombie sang zombiewalk mortvivant,2012,10,13,17,5,245610300.0,Événement Temporaire,2012-10-13 17:05:00,2012-10
+8091462892,45.759399,4.828969,338,zombie lyon zombie sang zombiewalk mortvivant,2012,10,13,17,5,245610300.0,Événement Temporaire,2012-10-13 17:05:00,2012-10
+8086179279,45.759399,4.828969,338,zombie zombie sang maquillage masque zombieday x mm nikon,2012,10,13,16,53,245609580.0,Événement Temporaire,2012-10-13 16:53:00,2012-10
+8086186803,45.759399,4.828969,338,zombie zombie sang maquillage masque zombieday x mm nikon,2012,10,13,16,48,245609280.0,Événement Temporaire,2012-10-13 16:48:00,2012-10
+8086184952,45.759399,4.828969,338,zombie zombie sang maquillage masque zombieday x mm nikon,2012,10,13,16,50,245609400.0,Événement Temporaire,2012-10-13 16:50:00,2012-10
+8086182908,45.759399,4.828969,338,zombie zombie sang maquillage masque zombieday x mm nikon,2012,10,13,16,51,245609460.0,Événement Temporaire,2012-10-13 16:51:00,2012-10
+8086181345,45.759399,4.828969,338,zombie zombie sang maquillage masque zombieday x mm nikon,2012,10,13,16,52,245609520.0,Événement Temporaire,2012-10-13 16:52:00,2012-10
+8086177943,45.759399,4.828969,338,zombie zombie sang maquillage masque zombieday x mm nikon,2012,10,13,16,55,245609700.0,Événement Temporaire,2012-10-13 16:55:00,2012-10
+8086176171,45.759399,4.828969,338,zombie zombie sang maquillage masque zombieday x mm nikon,2012,10,13,16,55,245609700.0,Événement Temporaire,2012-10-13 16:55:00,2012-10
+8086174699,45.759399,4.828969,338,zombie zombie sang maquillage masque zombieday x mm nikon,2012,10,13,17,0,245610000.0,Événement Temporaire,2012-10-13 17:00:00,2012-10
+8086173661,45.759399,4.828969,338,zombie zombie sang maquillage masque zombieday x mm nikon,2012,10,13,17,0,245610000.0,Événement Temporaire,2012-10-13 17:00:00,2012-10
+8086172449,45.759399,4.828969,338,zombie nb zombie sang maquillage masque zombieday x mm nikon flickrstruereflection flickrstruereflectionlevel,2012,10,13,17,1,245610060.0,Événement Temporaire,2012-10-13 17:01:00,2012-10
+8086170911,45.759399,4.828969,338,zombie zombie sang maquillage masque zombieday x mm nikon,2012,10,13,17,1,245610060.0,Événement Temporaire,2012-10-13 17:01:00,2012-10
+8086169159,45.759399,4.828969,338,zombie zombie sang maquillage masque zombieday x mm nikon,2012,10,13,17,2,245610120.0,Événement Temporaire,2012-10-13 17:02:00,2012-10
+8083728674,45.759399,4.828969,338,zombie nikon zombie cadavre x mm,2012,10,13,16,47,245609220.0,Événement Temporaire,2012-10-13 16:47:00,2012-10
+8082553920,45.759399,4.828969,338,dream sport concentration wb nb aikido x,2012,10,12,19,14,245531640.0,Événement Temporaire,2012-10-12 19:14:00,2012-10
+8083730492,45.759399,4.828969,338,zombie rouge nikon zombie sang monstre cadavre zombieday mortvivant x mm,2012,10,13,16,45,245609100.0,Événement Temporaire,2012-10-13 16:45:00,2012-10
+8083734713,45.759399,4.828969,338,zombie nikon zombie cadavre x mm,2012,10,13,16,45,245609100.0,Événement Temporaire,2012-10-13 16:45:00,2012-10
+8083734125,45.759399,4.828969,338,zombie nikon zombie cadavre x mm,2012,10,13,16,45,245609100.0,Événement Temporaire,2012-10-13 16:45:00,2012-10
+8057595182,45.759399,4.828969,338,chauffement sport kimono aikido,2012,10,5,19,40,244928400.0,Événement Temporaire,2012-10-05 19:40:00,2012-10
+8057594948,45.759399,4.828969,338,course sport,2012,10,5,19,50,244929000.0,Événement Temporaire,2012-10-05 19:50:00,2012-10
+8057594274,45.759399,4.828969,338,concentration sport,2012,10,5,20,15,244930500.0,Événement Temporaire,2012-10-05 20:15:00,2012-10
+8057593772,45.759399,4.828969,338,chute sport,2012,10,5,20,32,244931520.0,Événement Temporaire,2012-10-05 20:32:00,2012-10
+8196222578,45.759399,4.828969,338,lyon night nikon lyon lumire nuit quaidurhone x,2012,11,17,19,1,248641260.0,Événement Temporaire,2012-11-17 19:01:00,2012-11
+8153088988,45.759399,4.828969,338,asmaa carr portrait noiretblanc mm x,2012,11,1,13,16,247238160.0,Événement Temporaire,2012-11-01 13:16:00,2012-11
+8148539627,45.759399,4.828969,338,smile ,2012,11,1,13,16,247238160.0,Événement Temporaire,2012-11-01 13:16:00,2012-11
+8145793245,45.759399,4.828969,338,asmaa ,2012,11,1,13,16,247238160.0,Événement Temporaire,2012-11-01 13:16:00,2012-11
+8145790857,45.759399,4.828969,338,jade ,2012,11,1,13,0,247237200.0,Événement Temporaire,2012-11-01 13:00:00,2012-11
+8145793857,45.759399,4.828969,338,asmaa ,2012,11,1,13,0,247237200.0,Événement Temporaire,2012-11-01 13:00:00,2012-11
+8145823896,45.759399,4.828969,338,asmaa ,2012,11,1,13,16,247238160.0,Événement Temporaire,2012-11-01 13:16:00,2012-11
+8145791805,45.759399,4.828969,338,cygne noir ,2012,11,1,12,50,247236600.0,Événement Temporaire,2012-11-01 12:50:00,2012-11
+8145791261,45.759399,4.828969,338,jade ,2012,11,1,13,31,247239060.0,Événement Temporaire,2012-11-01 13:31:00,2012-11
+8145790263,45.759399,4.828969,338, ,2012,11,1,13,0,247237200.0,Événement Temporaire,2012-11-01 13:00:00,2012-11
+8445983518,45.759227,4.829,338,cold fire world city bridge sunset orange france church water river town twilight europe cityscape lyon cloudy dusk oldtown rhonealpes vieuxlyon sane rhnealpes pwwinter,2013,1,16,16,58,253817880.0,Événement Temporaire,2013-01-16 16:58:00,2013-01
+8351748630,45.759399,4.828969,338,vers centre commercial confluence france mm flickr lyon pentax nuit ville twitter paysageurbain pentaxk saone lyonconfluence,2012,9,25,22,21,244074060.0,Événement Temporaire,2012-09-25 22:21:00,2012-09
+8329025415,45.759399,4.828969,338,eclairage mauresque pastis lighting flickr iphone hipstamatic kaimalmarkiilens alfredinfraredfilm iphone byeflyfree,2012,12,31,13,21,252422460.0,Événement Temporaire,2012-12-31 13:21:00,2012-12
+8326871507,45.759399,4.828969,338,fenetre fin journee flickr iphone dcfilm hipstamatic dreampopflash iphone buckhorsth lens byeflyfree,2012,12,30,17,14,252350040.0,Événement Temporaire,2012-12-30 17:14:00,2012-12
+8327912510,45.759399,4.828969,338,bon cafe bon bouquin flickr johnslens hipstamatic inas film iphone byeflyfree,2012,12,30,15,51,252345060.0,Événement Temporaire,2012-12-30 15:51:00,2012-12
+8287532516,45.759229,4.829027,338,hdr sane ,2012,12,15,17,43,251055780.0,Événement Temporaire,2012-12-15 17:43:00,2012-12
+8583224010,45.759399,4.828969,338,francia campagna di lione france cloud lione francia nubi rodanoalpi,2012,8,6,16,9,239731740.0,Événement Temporaire,2012-08-06 16:09:00,2012-08
+8582122819,45.759399,4.828969,338,francia campagna di lione france cloud lione francia nubi rhonealpes rodanoalpi,2012,8,6,16,9,239731740.0,Événement Temporaire,2012-08-06 16:09:00,2012-08
+8582117343,45.759399,4.828969,338,francia campagna di lione sky france cloud alpes lione cielo francia rhone nubi rodanoalpi,2012,8,6,16,9,239731740.0,Événement Temporaire,2012-08-06 16:09:00,2012-08
+9510582430,45.7595,4.82893,338,camino frankreich wasser lyon stdte fra brcken vieuxlyon flsse rhnealpes bauwerke,2012,8,20,16,11,240941460.0,Événement Temporaire,2012-08-20 16:11:00,2012-08
+9965080906,45.759399,4.828969,338,ruelle poubelles france mm flickr lyon pentax nuit croixrousse paysageurbain project pentaxk projet,2012,10,18,22,40,246062400.0,Événement Temporaire,2012-10-18 22:40:00,2012-10
+10357810863,45.759399,4.828969,338,e alone lyon airport ,2012,12,8,9,40,250422000.0,Événement Temporaire,2012-12-08 09:40:00,2012-12
+8256219337,45.759399,4.828969,338,fanion lyon illumination ftesdeslumires,2012,12,7,20,30,250374600.0,Événement Temporaire,2012-12-07 20:30:00,2012-12
+8257291020,45.759399,4.828969,338,inconnus ,2012,12,7,21,23,250377780.0,Événement Temporaire,2012-12-07 21:23:00,2012-12
+8257290196,45.759399,4.828969,338,inconnus ,2012,12,7,21,23,250377780.0,Événement Temporaire,2012-12-07 21:23:00,2012-12
+8238180221,45.759399,4.828969,338,bambi animal lyon parc daim parcttedor,2012,12,2,15,33,249924780.0,Événement Temporaire,2012-12-02 15:33:00,2012-12
+8238860474,45.759399,4.828969,338,pense donc ,2012,12,2,15,47,249925620.0,Événement Temporaire,2012-12-02 15:47:00,2012-12
+8237794993,45.759399,4.828969,338,grand froid ,2012,12,2,15,37,249925020.0,Événement Temporaire,2012-12-02 15:37:00,2012-12
+8238862074,45.759399,4.828969,338,salut ,2012,12,2,15,38,249925080.0,Événement Temporaire,2012-12-02 15:38:00,2012-12
+8238861540,45.759399,4.828969,338,ouais ,2012,12,2,15,47,249925620.0,Événement Temporaire,2012-12-02 15:47:00,2012-12
+11425364266,45.759399,4.828969,338,lione festa della luce lyon lione festadellaluce,2012,10,30,20,0,247089600.0,Événement Temporaire,2012-10-30 20:00:00,2012-10

@@ -1,0 +1,66 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+4872164131,45.763518,4.836264,120,traffic auto street france car outdoors automobile europe traffic lyon pavement sidewalk walkway transportation vehicle motorcar,2010,7,26,16,51,175625460.0,undef,2010-07-26 16:51:00
+4872769628,45.763518,4.836264,120,glise saintbonaventure city house france building outdoors construction europe downtown lyon cloudy,2010,7,26,16,50,175625400.0,undef,2010-07-26 16:50:00
+4963210845,45.763526,4.836291,120,lyon rhne sane france rhne village tourisme villes filoer,2010,5,14,15,13,169312380.0,undef,2010-05-14 15:13:00
+4164667682,45.763669,4.836291,120,fte lumires light party france lyon lumire fte fetedeslumieres,2009,12,6,20,54,155595240.0,undef,2009-12-06 20:54:00
+5500921830,45.763619,4.836312,120, light france festival lyon fete lumieres,2010,12,8,20,40,187303200.0,undef,2010-12-08 20:40:00
+6786819354,45.763578,4.836333,120,lyon france reflection tower clock nikon torre lyon reflejo francia ruggerio rejor nikond ruggerio,2012,2,18,16,15,225044100.0,undef,2012-02-18 16:15:00
+6932932001,45.763559,4.836333,120, woman man france statue stone mujer nikon lyon escultura sculture marble estatua francia hombre marmol piedra ruggerio nikond ruggerio,2012,2,18,16,13,225043980.0,undef,2012-02-18 16:13:00
+6932690971,45.763541,4.836301,120,img ,2012,2,22,10,39,225369540.0,undef,2012-02-22 10:39:00
+6932689531,45.763541,4.836301,120,img ,2012,2,22,10,39,225369540.0,undef,2012-02-22 10:39:00
+6932688095,45.763541,4.836301,120,img ,2012,2,22,10,37,225369420.0,undef,2012-02-22 10:37:00
+6544264263,45.763686,4.836347,120,eglise saintbonaventure urban france church architecture europe lyon masonry city ciudades urbano citycenter glise citycentre oldbuilding centreville fra villes urbain rhnealps maonnerie placedescordeliers presqule coeurdelaville eglisesaintbonaventure frcentreville frcoeurdelaville esurbano frurbain esciudades frvilles francienimmeuble frmaonnerie ancienimmeuble frglise,2009,9,2,19,32,147382320.0,undef,2009-09-02 19:32:00
+6489943627,45.763646,4.83635,120,palais bourse light festival suomi hotel lyon chibi illumination amphitheatre lumiere fte dor parc quai morel lumires rousse tte dieu croix rhone sibylle siby terreaux gaules,2011,12,10,22,23,219018180.0,undef,2011-12-10 22:23:00
+6839523712,45.763674,4.836328,120,clock night france building clock night lyon rhne nuit nocturne faade boursedutravail,2012,3,8,19,53,226698780.0,undef,2012-03-08 19:53:00
+7663305576,45.76369,4.836355,120,p lyon chambredecommerceetdindustriedurhne,2012,7,27,19,47,238880820.0,undef,2012-07-27 19:47:00
+8108616121,45.763548,4.836248,120,reflection lyon france reflection building glass color night mirror lyon miroir couleur immeuble verre chamberofcommerce rflection chambredecommerce norcturne canonixus h,2012,10,17,23,55,245980500.0,undef,2012-10-17 23:55:00
+8060689691,45.763713,4.836312,120,palais bourse voyage trip travel flower france flores fleurs europa europe lyon frana viagem palaisdelabourse placedescordeliers,2011,8,27,15,16,209920560.0,undef,2011-08-27 15:16:00
+8060691990,45.763713,4.836312,120,palais bourse place cordeliers voyage trip travel france europa europe lyon frana viagem palaisdelabourse placedescordeliers,2011,8,27,15,15,209920500.0,undef,2011-08-27 15:15:00
+6485911447,45.763604,4.836366,120,palais bourse light lyon lumieres ftedeslumires,2011,12,8,23,0,218847600.0,undef,2011-12-08 23:00:00
+8801952182,45.763727,4.836297,120,chambre commerce dindustrie longexposure france architecture night building lyon wideangle cordeliers canoneos mmf fisheye michaelflocco,2013,5,1,21,28,262906080.0,undef,2013-05-01 21:28:00
+9405421683,45.763646,4.836344,120,grand frontage lyon lyon bourse chamberofcommerce thapril april,2013,4,30,16,20,262801200.0,undef,2013-04-30 16:20:00
+9422384194,45.763646,4.836344,120,bourse chamber commerce lyon lyon bourse chamberofcommerce stmay,2013,5,1,9,28,262862880.0,undef,2013-05-01 09:28:00
+9415049687,45.763646,4.836344,120,bourse chamber commerce lyon lyon bourse chamberofcommerce stmay,2013,5,1,8,23,262858980.0,undef,2013-05-01 08:23:00
+11623301054,45.763497,4.836327,120,lyon france fall lyon,2013,12,25,18,29,283458540.0,undef,2013-12-25 18:29:00
+13516582164,45.763586,4.836312,120,quand soleil lave tete ,2011,5,25,15,42,201800520.0,undef,2011-05-25 15:42:00
+16565049235,45.76368,4.836327,120,glise saintbonaventure france church facade lyon,2015,2,8,16,12,318874320.0,undef,2015-02-08 16:12:00
+20029953115,45.763631,4.836237,120,lyon france lyon rhne sane rhnealpes,2015,7,26,10,52,333370320.0,undef,2015-07-26 10:52:00
+24555269170,45.763722,4.836322,120,dsc jpg lyon,2016,1,29,15,39,349544340.0,undef,2016-01-29 15:39:00
+28767491702,45.763675,4.836302,120,lyon cci bibliothque france lyon voyage photo visitevilles rhnealpes fr cci nikoniste nikond,2015,7,29,22,24,333671040.0,undef,2015-07-29 22:24:00
+30422756123,45.763571,4.836258,120,lyon france charlessayerphotographies photography lyon france thephotographyblog thephoblographer city urban canon canonefs mm lightroom night nightphotography light lowspeed architecture,2016,8,31,23,3,368146980.0,undef,2016-08-31 23:03:00
+23226677203,45.763591,4.836344,120,lyon france france lyon,2014,5,29,16,42,296844120.0,undef,2014-05-29 16:42:00
+23853476155,45.763591,4.836344,120,lyon france france lyon,2014,5,29,16,42,296844120.0,undef,2014-05-29 16:42:00
+23225247874,45.763591,4.836297,120,lyon france france lyon,2014,5,29,16,43,296844180.0,undef,2014-05-29 16:43:00
+23557578810,45.763641,4.836338,120,lyon france france lyon,2014,5,29,16,43,296844180.0,undef,2014-05-29 16:43:00
+23826133346,45.763641,4.836338,120,lyon france france lyon,2014,5,29,16,43,296844180.0,undef,2014-05-29 16:43:00
+23770871291,45.763591,4.836297,120,lyon france france lyon,2014,5,29,16,43,296844180.0,undef,2014-05-29 16:43:00
+23485411489,45.763602,4.836316,120,lyon france france lyon,2014,5,29,16,43,296844180.0,undef,2014-05-29 16:43:00
+32577766070,45.763694,4.836283,120, ,2017,2,17,19,41,382822860.0,undef,2017-02-17 19:41:00
+34581606044,45.76375,4.836268,120,place cordeliers lyon palais bourse lyon lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite placedescordeliers palaisdelaboursedelyon monumenthistorique lyonstockexchange palaisducommerce lescordeliers chamberofcommerceandindustryoflyon ruedelamartinire ruevictorhugo claudemariusvasse salledelacorbeille,2017,6,2,19,15,391893300.0,undef,2017-06-02 19:15:00
+35257059562,45.76375,4.836268,120,place cordeliers lyon palais bourse lyon clock sculpture lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite placedescordeliers palaisdelaboursedelyon monumenthistorique lyonstockexchange palaisducommerce lescordeliers chamberofcommerceandindustryoflyon ruedelamartinire ruevictorhugo claudemariusvasse salledelacorbeille clock sculpture,2017,6,2,19,15,391893300.0,undef,2017-06-02 19:15:00
+35257050222,45.76375,4.836268,120,place cordeliers lyon palais bourse lyon sculpture rhone saone lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite placedescordeliers palaisdelaboursedelyon monumenthistorique lyonstockexchange palaisducommerce lescordeliers chamberofcommerceandindustryoflyon ruedelamartinire ruevictorhugo claudemariusvasse salledelacorbeille sculpture larhoneetlasaone,2017,6,2,19,15,391893300.0,undef,2017-06-02 19:15:00
+36993835330,45.763652,4.836355,120, ,2017,9,22,16,14,401559240.0,undef,2017-09-22 16:14:00
+37202260066,45.763652,4.836355,120, ,2017,9,22,16,14,401559240.0,undef,2017-09-22 16:14:00
+36489871933,45.763698,4.836226,120,palais bourse fujifilmxt lyon bourse palaisdelabourse toit roof,2017,9,17,20,25,401142300.0,undef,2017-09-17 20:25:00
+37146771611,45.763698,4.836226,120,reflection fujifilmxt lyon reflet bourse reflection nuit night palaisdelabourse,2017,9,17,20,31,401142660.0,undef,2017-09-17 20:31:00
+37760425361,45.763548,4.836237,120,lyon ii lyon reflets architecture cordeliers palaisdelabourse bourse palais,2017,9,21,18,0,401479200.0,undef,2017-09-21 18:00:00
+37217938672,45.763652,4.836355,120, ,2017,9,22,16,14,401559240.0,undef,2017-09-22 16:14:00
+37200329696,45.763652,4.836355,120, ,2017,9,22,16,14,401559240.0,undef,2017-09-22 16:14:00
+37246646281,45.763652,4.836355,120, ,2017,9,22,16,14,401559240.0,undef,2017-09-22 16:14:00
+37217117292,45.763652,4.836355,120, ,2017,9,22,16,14,401559240.0,undef,2017-09-22 16:14:00
+36576526443,45.763652,4.836355,120, ,2017,9,22,16,14,401559240.0,undef,2017-09-22 16:14:00
+36576526183,45.763652,4.836355,120, ,2017,9,22,16,14,401559240.0,undef,2017-09-22 16:14:00
+37246373741,45.763652,4.836355,120, ,2017,9,22,16,14,401559240.0,undef,2017-09-22 16:14:00
+36990960330,45.763652,4.836355,120, ,2017,9,22,16,14,401559240.0,undef,2017-09-22 16:14:00
+30678810433,45.763727,4.836338,120, ,2016,12,7,18,15,376596900.0,undef,2016-12-07 18:15:00
+25564782807,45.763552,4.836333,120,confluence france lyon,2018,2,21,14,49,414686940.0,undef,2018-02-21 14:49:00
+42102095781,45.763661,4.836374,120, ,2018,5,14,10,31,421756260.0,undef,2018-05-14 10:31:00
+41981010531,45.763698,4.836312,120,architecture lyon lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,7,9,23,421147380.0,undef,2018-05-07 09:23:00
+43115810421,45.763698,4.836226,120,palais bourse lyon fujifilmxt lyon palaisdelabourse escalier escaleras stair staircase escalera scala trap treppe,2018,6,30,23,3,425862180.0,undef,2018-06-30 23:03:00
+43065575182,45.763698,4.836226,120,palais bourse lyon fujifilmxt lyon palaisdelabourse escalier escaleras stair staircase escalera scala trap treppe,2018,6,30,23,4,425862240.0,undef,2018-06-30 23:04:00
+43109616621,45.763698,4.836226,120,herm hors murs fujifilmxt braceletmontre watchstrap herm,2018,6,30,12,25,425823900.0,undef,2018-06-30 12:25:00
+42390848734,45.763698,4.836226,120,palais bourse lyon fujifilmxt lyon palaisdelabourse plafond ceiling,2018,6,30,12,32,425824320.0,undef,2018-06-30 12:32:00
+43135906341,45.763698,4.836226,120,palais bourse lyon fujifilmxt lyon palaisdelabourse noiretblanc nb blackandwhite bnw bw monochrome monochromatic,2018,7,1,21,22,425942520.0,undef,2018-07-01 21:22:00
+43085799672,45.763698,4.836226,120,palais bourse lyon fujifilmxt lyon palaisdelabourse,2018,7,1,21,5,425941500.0,undef,2018-07-01 21:05:00
+29264337478,45.763698,4.836226,120,palais bourse lyon fujifilmxt lyon palaisdelabourse,2018,6,30,12,22,425823720.0,undef,2018-06-30 12:22:00
+48451546222,45.763644,4.836342,120,koci w bonawentury lyon francja france koci kosciol witynia swiatynia budynek architektura church temple building architecture,2019,5,30,15,9,454691340.0,undef,2019-05-30 15:09:00

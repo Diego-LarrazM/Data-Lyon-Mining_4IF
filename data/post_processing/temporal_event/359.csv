@@ -1,0 +1,73 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken,year_month
+43379774385,45.758181,4.831967,359,hauteur lyonnaise lyon partdieu rhne paysage landscapenaturanaturepanoramasunsetlightssunset sun soleil rhnealpes morninglight,2018,8,26,7,7,430729620.0,Événement Temporaire,2018-08-26 07:07:00,2018-08
+44896274492,45.758181,4.831967,359,tincelante tour incity lyon ngc lyon noirblanc blackwhite tour ville soleil urbain,2018,9,22,13,45,433086300.0,Événement Temporaire,2018-09-22 13:45:00,2018-09
+43769012915,45.758181,4.831967,359,lyon petit matin ngc lyon leverdesoleil soleil ville panorama paysage landscape ciel,2018,9,11,7,12,432112320.0,Événement Temporaire,2018-09-11 07:12:00,2018-09
+29733856497,45.758181,4.831967,359,lever soleil lyon ngc leverdesoleil soleil paysage landscape parc,2018,9,14,10,41,432384060.0,Événement Temporaire,2018-09-14 10:41:00,2018-09
+30768414828,45.758181,4.831967,359,lever soleil jardin curiosits lyon lyon soleil leverdesoleil paysage urbain landscape ngc ville,2018,9,11,7,51,432114660.0,Événement Temporaire,2018-09-11 07:51:00,2018-09
+44740747265,45.758181,4.831967,359,douceur matinale ngc lyon paysage landscape sun sunrise ville,2018,10,31,22,27,436487220.0,Événement Temporaire,2018-10-31 22:27:00,2018-10
+44872266624,45.758181,4.831967,359,seul soir ngc blackwhite noirblanc lyon urbain,2018,10,28,13,19,436195140.0,Événement Temporaire,2018-10-28 13:19:00,2018-10
+45533093991,45.758181,4.831967,359,lever soleil ngc lyon soleil paysage landscape leverdesoleil sunrise ville,2018,10,22,8,18,435658680.0,Événement Temporaire,2018-10-22 08:18:00,2018-10
+43656276170,45.758181,4.831967,359,lyon petit matin ngc lyon paysage landscape leverdesoleil soleil sunset sun,2018,10,21,18,9,435607740.0,Événement Temporaire,2018-10-21 18:09:00,2018-10
+45136409892,45.758181,4.831967,359,balade quais sane ngc lyon paysage landscape saone,2018,9,19,16,28,432836880.0,Événement Temporaire,2018-09-19 16:28:00,2018-09
+43336438370,45.758181,4.831967,359,lyon lyon ngc ville urbain panorama paysage landscape,2018,9,5,16,3,431625780.0,Événement Temporaire,2018-09-05 16:03:00,2018-09
+45110097391,45.758181,4.831967,359,tabac presse tabacpresseschildsignkioskzeitschriftennewspaperstabakshopladen press oldrottenverfallenalt,2018,10,4,15,44,434130240.0,Événement Temporaire,2018-10-04 15:44:00,2018-10
+45122093111,45.758181,4.831967,359,tour peut cacher autre ngc lyon paysage landscape ville urbain town tour,2018,9,28,14,15,433606500.0,Événement Temporaire,2018-09-28 14:15:00,2018-09
+45021073282,45.758181,4.831967,359,pink block lyonfrankreichfranxelichtlightblockblockshauswohnblocklichtbeleuchtet france,2018,10,2,21,25,433977900.0,Événement Temporaire,2018-10-02 21:25:00,2018-10
+43225472240,45.758181,4.831967,359,skyline lyonnaise ngc lyon paysage landscape ville urbain skyline tour,2018,9,28,14,16,433606560.0,Événement Temporaire,2018-09-28 14:16:00,2018-09
+44303855250,45.758181,4.831967,359,magnifique ciel nuageux lyon ngc lyon nuage cloud fleuve paysage landscape,2018,11,26,11,58,438695880.0,Événement Temporaire,2018-11-26 11:58:00,2018-11
+45285665204,45.758181,4.831967,359,lyon tour soleil ngc lyon ville urbain soleil sun sunrise leverdesoleil paysage landscape town,2018,10,22,8,25,435659100.0,Événement Temporaire,2018-10-22 08:25:00,2018-10
+45981001471,45.758181,4.831967,359,soleil levant ngc lyon paysage landscape sun leverdesoleil soleil sunrise,2018,10,22,8,28,435659280.0,Événement Temporaire,2018-10-22 08:28:00,2018-10
+45140487124,45.758181,4.831967,359,lever soleil lyon ngc lyon ville paysage landscape town leverdesoleil sunrise sun soleil,2018,10,22,7,44,435656640.0,Événement Temporaire,2018-10-22 07:44:00,2018-10
+45801249682,45.758181,4.831967,359,rouge automnal ngc lyon paysage landscape autumn,2018,11,2,17,29,436642140.0,Événement Temporaire,2018-11-02 17:29:00,2018-11
+30890297177,45.758181,4.831967,359,lyon petit matin ngc lyon ville paysage landscape nuit matin sunrise,2018,10,22,7,45,435656700.0,Événement Temporaire,2018-10-22 07:45:00,2018-10
+45773897032,45.758181,4.831967,359,automne confluence ngc lyon autumn automne ville confluence paysage landscape,2018,11,2,17,31,436642260.0,Événement Temporaire,2018-11-02 17:31:00,2018-11
+45796668661,45.758181,4.831967,359,balade confluence ngc lyon ville paysage landscape town confluence,2018,11,2,16,56,436640160.0,Événement Temporaire,2018-11-02 16:56:00,2018-11
+45046227214,45.758181,4.831967,359,couleurs automnales ngc lyon automne autumn paysage landscape,2018,11,2,17,33,436642380.0,Événement Temporaire,2018-11-02 17:33:00,2018-11
+31880692258,45.758181,4.831967,359,soleil lve lyon ngc lyon leverdesoleil soleil paysage landscape ville,2018,10,22,8,13,435658380.0,Événement Temporaire,2018-10-22 08:13:00,2018-10
+44962074364,45.758181,4.831967,359,reflets ngc lyon reflet paysage landscape nuages,2018,11,2,17,27,436642020.0,Événement Temporaire,2018-11-02 17:27:00,2018-11
+47231701851,45.758181,4.831967,359,vue lyon ngc lyon skyline,2019,2,25,16,53,446575980.0,Événement Temporaire,2019-02-25 16:53:00,2019-02
+40246690823,45.758181,4.831967,359,miroir deau ngc lyon reflet saone rivedesane,2019,2,25,17,21,446577660.0,Événement Temporaire,2019-02-25 17:21:00,2019-02
+46264688075,45.758181,4.831967,359,pont entre deux passerelles ngc lyon pont,2019,2,13,11,13,445518780.0,Événement Temporaire,2019-02-13 11:13:00,2019-02
+46446444044,45.758181,4.831967,359,rives sane ngc lyon rivedesane,2019,2,13,10,39,445516740.0,Événement Temporaire,2019-02-13 10:39:00,2019-02
+47107403322,45.758181,4.831967,359,rives sane ngc lyon noirblanc blackwhite rivedesane ville,2019,2,13,10,24,445515840.0,Événement Temporaire,2019-02-13 10:24:00,2019-02
+46403777804,45.758181,4.831967,359,pont masarik ngc lyon pontmasarik noirblanc blackwhite desaturation pont,2019,2,13,9,17,445511820.0,Événement Temporaire,2019-02-13 09:17:00,2019-02
+46392355974,45.758181,4.831967,359,pont masarik ngc lyon pont pontmasarik rivedesane,2019,2,13,9,11,445511460.0,Événement Temporaire,2019-02-13 09:11:00,2019-02
+46380752804,45.758181,4.831967,359,passerelle lhomme roche lyon ngc passerelle pont,2019,2,13,10,22,445515720.0,Événement Temporaire,2019-02-13 10:22:00,2019-02
+46170604305,45.758181,4.831967,359,pont robert schuman ngc lyon ville pontschuman,2019,2,13,8,53,445510380.0,Événement Temporaire,2019-02-13 08:53:00,2019-02
+46151217875,45.758181,4.831967,359,rives sane ngc lyon,2019,2,1,16,11,444499860.0,Événement Temporaire,2019-02-01 16:11:00,2019-02
+32115827607,45.758181,4.831967,359,rives sane ngc lyon ville rivedesane saone,2019,2,1,16,12,444499920.0,Événement Temporaire,2019-02-01 16:12:00,2019-02
+32104032147,45.758181,4.831967,359,nouveau site internet lyon siteinternet,2019,2,10,9,27,445253220.0,Événement Temporaire,2019-02-10 09:27:00,2019-02
+47030222231,45.758181,4.831967,359,weight oneself ngc lyon ville noirblanc blackwhite statue,2019,2,1,16,32,444501120.0,Événement Temporaire,2019-02-01 16:32:00,2019-02
+46966741042,45.758181,4.831967,359,reflets ngc reflet lyon,2019,2,1,15,24,444497040.0,Événement Temporaire,2019-02-01 15:24:00,2019-02
+32045251867,45.758181,4.831967,359,confluence ngc lyon ville urbain confluence noirblanc blackwhite,2019,1,24,9,18,443783880.0,Événement Temporaire,2019-01-24 09:18:00,2019-01
+32033348197,45.758181,4.831967,359,cathdrale saint jean basilique fourvire double ngc lyon reflet fourvire,2019,2,1,16,5,444499500.0,Événement Temporaire,2019-02-01 16:05:00,2019-02
+46899988632,45.758181,4.831967,359,htel dieu reflet ngc lyon reflet ville hteldieu,2019,2,1,15,20,444496800.0,Événement Temporaire,2019-02-01 15:20:00,2019-02
+46839335202,45.758181,4.831967,359,sasseoir banc contempler lyon rveiller ngc lyon matin ville sunrise,2019,1,16,9,5,443091900.0,Événement Temporaire,2019-01-16 09:05:00,2019-01
+39883986293,45.758181,4.831967,359,joggeuse rouge ngc lyon parcdelattedor noirblanc blackwhite joggeuse desaturation,2019,1,16,11,53,443101980.0,Événement Temporaire,2019-01-16 11:53:00,2019-01
+46105820264,45.758181,4.831967,359,geles matinales lyon ngc ville geles,2019,1,16,10,14,443096040.0,Événement Temporaire,2019-01-16 10:14:00,2019-01
+46049027254,45.758181,4.831967,359,grande roue ngc lyon ville soleil sun sunrise leverdesoleil paysage granderoue,2019,1,16,9,43,443094180.0,Événement Temporaire,2019-01-16 09:43:00,2019-01
+32852249178,45.758181,4.831967,359,loiseau pont ngc lyon rhone pont oiseau ville,2019,1,4,11,9,442062540.0,Événement Temporaire,2019-01-04 11:09:00,2019-01
+31776311227,45.758181,4.831967,359,lyon rveille ngc lyon paysage landscape leverdesoleil soleil sun sunrise ville,2019,1,4,9,4,442055040.0,Événement Temporaire,2019-01-04 09:04:00,2019-01
+46680094271,45.758181,4.831967,359,tag ville ngc tag lyon paysage landscape town ville,2019,1,4,10,38,442060680.0,Événement Temporaire,2019-01-04 10:38:00,2019-01
+32778303198,45.758181,4.831967,359,lyon avant lever soleil ngc soleil leverdesoleil lyon sun sunrise panorama landscape paysage,2019,1,4,8,55,442054500.0,Événement Temporaire,2019-01-04 08:55:00,2019-01
+32729482978,45.758181,4.831967,359,larbre soleil ngc leverdesoleil soleil paysage sunrise sun landscape lyon,2019,1,4,10,13,442059180.0,Événement Temporaire,2019-01-04 10:13:00,2019-01
+46410731151,45.758181,4.831967,359,basilique fourvire ngc lyon basilique fourvire paysage landscape basilic,2018,12,10,15,11,439917060.0,Événement Temporaire,2018-12-10 15:11:00,2018-12
+45484405455,45.758181,4.831967,359,passerelle sou pont ngc lyon paysage landscape blackwhite noirblanc pont,2018,12,10,16,15,439920900.0,Événement Temporaire,2018-12-10 16:15:00,2018-12
+46352367171,45.758181,4.831967,359,tour incity ngc lyon ville tour tourincity nuage cloud paysage landscape,2018,12,10,15,32,439918320.0,Événement Temporaire,2018-12-10 15:32:00,2018-12
+46279028062,45.758181,4.831967,359,passerelle palais justice ngc lyon paysage landscape pont,2018,12,10,15,57,439919820.0,Événement Temporaire,2018-12-10 15:57:00,2018-12
+46278277751,45.758181,4.831967,359,deux canard ngc lyon canard paysage landscape duck,2018,12,10,16,16,439920960.0,Événement Temporaire,2018-12-10 16:16:00,2018-12
+45541185674,45.758181,4.831967,359,berges rhne ngc lyon paysage landscape file,2018,11,26,12,54,438699240.0,Événement Temporaire,2018-11-26 12:54:00,2018-11
+46144146982,45.758181,4.831967,359,tour part dieu ngc lyon tourpartdieu ville nuit night tour tower,2018,12,4,17,31,439407060.0,Événement Temporaire,2018-12-04 17:31:00,2018-12
+45447202964,45.758181,4.831967,359,sou pont lyon ngc lyon ville paysage landscape town pont bridge,2018,11,26,12,44,438698640.0,Événement Temporaire,2018-11-26 12:44:00,2018-11
+45423567914,45.758181,4.831967,359,rhne scoule doucement sou ponts lyon ngc lyon ville paysage landscape town fleuve rhonealpes rhne,2018,11,26,12,37,438698220.0,Événement Temporaire,2018-11-26 12:37:00,2018-11
+47427126122,45.758181,4.831967,359,lugubre ambiance basilique fourvire ngc lyon basilique fourvire noirblanc blackwhite cloud nuages,2018,12,10,15,18,439917480.0,Événement Temporaire,2018-12-10 15:18:00,2018-12
+46732222784,45.758181,4.831967,359,passerelle ngc lyon confluence noirblanc blackwhite,2019,3,22,10,37,448713420.0,Événement Temporaire,2019-03-22 10:37:00,2019-03
+47376316362,45.758181,4.831967,359,palais justice lyon ngc lyon,2019,3,13,8,55,447929700.0,Événement Temporaire,2019-03-13 08:55:00,2019-03
+46481774835,45.758181,4.831967,359,fentre lyon ngc lyon sun sunset leverdesoleil soleil paysage cloud nuage landscape,2019,3,13,8,28,447928080.0,Événement Temporaire,2019-03-13 08:28:00,2019-03
+47330966662,45.758181,4.831967,359,reflets lyon ngc reflet pont,2019,3,13,9,0,447930000.0,Événement Temporaire,2019-03-13 09:00:00,2019-03
+47341426211,45.758181,4.831967,359,berges rhne ngc lyon bergesdurhne,2019,3,9,8,47,447583620.0,Événement Temporaire,2019-03-09 08:47:00,2019-03
+46336043115,45.758181,4.831967,359,passerelle saint vincent ngc lyon,2019,2,13,10,40,445516800.0,Événement Temporaire,2019-02-13 10:40:00,2019-02
+40622224333,45.758181,4.831967,359,lyon rveille ngc lyon sunrise matin,2019,1,4,8,52,442054320.0,Événement Temporaire,2019-01-04 08:52:00,2019-01
+40565367293,45.758181,4.831967,359,soleil brille pont raymond barre ngc lyon soleil pont confluence,2019,3,22,9,36,448709760.0,Événement Temporaire,2019-03-22 09:36:00,2019-03
+32920801937,45.758181,4.831967,359,optimiste lyon architecture,2018,12,26,10,5,441281100.0,Événement Temporaire,2018-12-26 10:05:00,2018-12
+48789863742,45.758181,4.831967,359,p ngc lyon noirblanc blackwhite,2018,9,11,7,31,432113460.0,Événement Temporaire,2018-09-11 07:31:00,2018-09

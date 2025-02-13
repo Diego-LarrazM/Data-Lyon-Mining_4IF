@@ -1,0 +1,13 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken,year_month
+22062184634,45.732336,4.817848,401,confluence lyon old artifact,2015,11,1,15,7,341852820.0,Événement Temporaire,2015-11-01 15:07:00,2015-11
+22684926305,45.732336,4.817848,401,mu confluence lyon old artifact,2015,11,1,15,32,341854320.0,Événement Temporaire,2015-11-01 15:32:00,2015-11
+22063753893,45.732336,4.817848,401,mu confluence lyon old artifact,2015,11,1,15,27,341854020.0,Événement Temporaire,2015-11-01 15:27:00,2015-11
+22658890396,45.732336,4.817848,401,mu confluence lyon old artifact,2015,11,1,15,17,341853420.0,Événement Temporaire,2015-11-01 15:17:00,2015-11
+22671327352,45.732336,4.817848,401,mu confluence lyon old artifact,2015,11,1,15,24,341853840.0,Événement Temporaire,2015-11-01 15:24:00,2015-11
+22684866585,45.732336,4.817848,401,mu confluence lyon old artifact,2015,11,1,15,41,341854860.0,Événement Temporaire,2015-11-01 15:41:00,2015-11
+22696028161,45.732336,4.817848,401,mu confluence lyon old artifact,2015,11,1,15,34,341854440.0,Événement Temporaire,2015-11-01 15:34:00,2015-11
+22062075114,45.732336,4.817848,401,confluence lyon old artifact,2015,11,1,15,8,341852880.0,Événement Temporaire,2015-11-01 15:08:00,2015-11
+22063664193,45.732336,4.817848,401,mu confluence lyon old artifact,2015,11,1,15,21,341853660.0,Événement Temporaire,2015-11-01 15:21:00,2015-11
+22658800326,45.732336,4.817848,401,mu confluence lyon old artifact,2015,11,1,15,19,341853540.0,Événement Temporaire,2015-11-01 15:19:00,2015-11
+22695969291,45.732336,4.817848,401,mu confluence lyon old artifact,2015,11,1,15,11,341853060.0,Événement Temporaire,2015-11-01 15:11:00,2015-11
+22496845660,45.732336,4.817848,401,mu confluence lyon old artifact,2015,11,1,15,9,341852940.0,Événement Temporaire,2015-11-01 15:09:00,2015-11

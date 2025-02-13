@@ -1,0 +1,27 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken,year_month
+44013580090,45.740378,4.819318,396, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,29,437329740.0,Événement Temporaire,2018-11-10 16:29:00,2018-11
+44013578910,45.740378,4.819318,396, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,26,437329560.0,Événement Temporaire,2018-11-10 16:26:00,2018-11
+45781117912,45.740378,4.819318,396, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,34,437330040.0,Événement Temporaire,2018-11-10 16:34:00,2018-11
+31959457938,45.740378,4.819318,396, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,34,437330040.0,Événement Temporaire,2018-11-10 16:34:00,2018-11
+45781117312,45.740378,4.819318,396, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,33,437329980.0,Événement Temporaire,2018-11-10 16:33:00,2018-11
+31959457228,45.740378,4.819318,396, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,32,437329920.0,Événement Temporaire,2018-11-10 16:32:00,2018-11
+45781116882,45.740378,4.819318,396, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,32,437329920.0,Événement Temporaire,2018-11-10 16:32:00,2018-11
+44013581290,45.740378,4.819318,396, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,31,437329860.0,Événement Temporaire,2018-11-10 16:31:00,2018-11
+30890519387,45.740378,4.819318,396, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,30,437329800.0,Événement Temporaire,2018-11-10 16:30:00,2018-11
+45781116342,45.740378,4.819318,396, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,31,437329860.0,Événement Temporaire,2018-11-10 16:31:00,2018-11
+45781115892,45.740378,4.819318,396, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,30,437329800.0,Événement Temporaire,2018-11-10 16:30:00,2018-11
+30890519007,45.740378,4.819318,396, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,29,437329740.0,Événement Temporaire,2018-11-10 16:29:00,2018-11
+44013579690,45.740378,4.819318,396, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,29,437329740.0,Événement Temporaire,2018-11-10 16:29:00,2018-11
+30890518587,45.740378,4.819318,396, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,29,437329740.0,Événement Temporaire,2018-11-10 16:29:00,2018-11
+45781114662,45.740378,4.819318,396, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,28,437329680.0,Événement Temporaire,2018-11-10 16:28:00,2018-11
+45781114322,45.740378,4.819318,396, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,26,437329560.0,Événement Temporaire,2018-11-10 16:26:00,2018-11
+44013579240,45.740378,4.819318,396, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,26,437329560.0,Événement Temporaire,2018-11-10 16:26:00,2018-11
+45830213431,45.740378,4.819318,396, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,25,437329500.0,Événement Temporaire,2018-11-10 16:25:00,2018-11
+45781113642,45.740378,4.819318,396, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,25,437329500.0,Événement Temporaire,2018-11-10 16:25:00,2018-11
+45105665024,45.740378,4.819318,396, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,25,437329500.0,Événement Temporaire,2018-11-10 16:25:00,2018-11
+45781113022,45.740378,4.819318,396, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,34,437330040.0,Événement Temporaire,2018-11-10 16:34:00,2018-11
+45105664734,45.740378,4.819318,396, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,35,437330100.0,Événement Temporaire,2018-11-10 16:35:00,2018-11
+45781112612,45.740378,4.819318,396, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,28,437329680.0,Événement Temporaire,2018-11-10 16:28:00,2018-11
+45105664494,45.740378,4.819318,396, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,32,437329920.0,Événement Temporaire,2018-11-10 16:32:00,2018-11
+45781112082,45.740378,4.819318,396, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,46,437330760.0,Événement Temporaire,2018-11-10 16:46:00,2018-11
+45781113982,45.740378,4.819318,396, lyon exposition lego rhne alpes auvergne site historiques rgion briques htel,2018,11,10,16,25,437329500.0,Événement Temporaire,2018-11-10 16:25:00,2018-11

@@ -1,0 +1,51 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken,year_month
+4176689227,45.765083,4.827289,42,tick tock light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,9,0,13,155779980.0,Site d'Intérêt,2009-12-09 00:13:00,2009-12
+4176688443,45.765083,4.827289,42,lhorloger saintpaul light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,9,0,13,155779980.0,Site d'Intérêt,2009-12-09 00:13:00,2009-12
+4784746509,45.765157,4.827396,42,alley old town lyon street urban france vanishingpoint alley lyon oldtown,2009,10,7,8,15,150365700.0,Site d'Intérêt,2009-10-07 08:15:00,2009-10
+4915742817,45.765247,4.827332,42,traboule lyon france street old city light blackandwhite bw white abstract black france color art monument fountain architecture contrast digital canon french photography restaurant blackwhite nice alley europe noir veil place lyon time dream photojournalism place medieval structure blanc vieux markii bouchon rhone traboule califoto califfoto beginnerstreetphotography dmarkii califfot,2010,7,19,10,51,174999060.0,Site d'Intérêt,2010-07-19 10:51:00,2010-07
+5773674916,45.765061,4.827397,42, france lyon,2011,5,27,18,40,201984000.0,Site d'Intérêt,2011-05-27 18:40:00,2011-05
+5839714817,45.765166,4.827333,42, ,2011,6,11,13,16,203260560.0,Site d'Intérêt,2011-06-11 13:16:00,2011-06
+6202578017,45.765207,4.827385,42,gargouille urban wall mur myphotoschool,2011,9,1,18,36,210364560.0,Site d'Intérêt,2011-09-01 18:36:00,2011-09
+6199071813,45.765207,4.827385,42,gargoyle wall window wall architecture lyon gargoyle mur fentre gargouille urbain contreplonge,2011,9,1,18,35,210364500.0,Site d'Intérêt,2011-09-01 18:35:00,2011-09
+6511134665,45.765113,4.827239,42, ,2011,12,5,9,25,218539500.0,Site d'Intérêt,2011-12-05 09:25:00,2011-12
+6988796957,45.765333,4.827333,42, ,2009,7,11,11,19,142773540.0,Site d'Intérêt,2009-07-11 11:19:00,2009-07
+6842672570,45.765,4.827333,42, ,2009,7,11,11,15,142773300.0,Site d'Intérêt,2009-07-11 11:15:00,2009-07
+6967287431,45.765116,4.827386,42,bout couloir lyon traboules kx,2011,9,24,12,34,212330040.0,Site d'Intérêt,2011-09-24 12:34:00,2011-09
+7606650618,45.765111,4.827419,42,lyon france rhnealpes,2012,5,22,10,48,233146080.0,Site d'Intérêt,2012-05-22 10:48:00,2012-05
+8148431370,45.765292,4.827332,42, france frankreich lyon rhne frankrig frankrike vieuxlyon rhnealpes,2012,9,1,11,6,241959960.0,Site d'Intérêt,2012-09-01 11:06:00,2012-09
+8148430670,45.765292,4.827332,42, france frankreich lyon rhne frankrig frankrike traboule vieuxlyon rhnealpes,2012,9,1,11,4,241959840.0,Site d'Intérêt,2012-09-01 11:04:00,2012-09
+8148430226,45.765292,4.827332,42, france frankreich lyon rhne frankrig frankrike traboule vieuxlyon rhnealpes,2012,9,1,11,3,241959780.0,Site d'Intérêt,2012-09-01 11:03:00,2012-09
+8146943017,45.765292,4.827332,42, france frankreich lyon rhne frankrig frankrike vieuxlyon rhnealpes ruejuiverie,2012,9,1,11,2,241959720.0,Site d'Intérêt,2012-09-01 11:02:00,2012-09
+8146942651,45.765292,4.827332,42, france frankreich lyon rhne frankrig frankrike traboule vieuxlyon rhnealpes ruejuiverie,2012,9,1,11,1,241959660.0,Site d'Intérêt,2012-09-01 11:01:00,2012-09
+8146942245,45.765292,4.827332,42, france frankreich lyon rhne frankrig frankrike traboule delorme vieuxlyon rhnealpes philibertdelorme ruejuiverie galeriephilibertdelorme,2012,9,1,10,59,241959540.0,Site d'Intérêt,2012-09-01 10:59:00,2012-09
+8146941809,45.765292,4.827332,42, france frankreich lyon rhne frankrig frankrike traboule vieuxlyon rhnealpes ruejuiverie,2012,9,1,10,58,241959480.0,Site d'Intérêt,2012-09-01 10:58:00,2012-09
+8146976496,45.765292,4.827332,42, france frankreich lyon rhne frankrig frankrike traboule vieuxlyon rhnealpes ruejuiverie,2012,9,1,10,55,241959300.0,Site d'Intérêt,2012-09-01 10:55:00,2012-09
+8463003738,45.765135,4.827343,42,vieuxlyon travel panorama france canon landscape eos lyon natura tour francia storvandre,2012,8,17,0,15,240624900.0,Site d'Intérêt,2012-08-17 00:15:00,2012-08
+8462983474,45.765135,4.827343,42,vieuxlyon travel panorama france canon landscape eos lyon natura tour francia storvandre,2012,8,17,0,15,240624900.0,Site d'Intérêt,2012-08-17 00:15:00,2012-08
+8461885145,45.765135,4.827343,42,vieuxlyon travel panorama france canon landscape eos lyon natura tour francia storvandre,2012,8,17,0,20,240625200.0,Site d'Intérêt,2012-08-17 00:20:00,2012-08
+8462982948,45.765135,4.827343,42,vieuxlyon travel panorama france canon landscape eos lyon natura tour francia storvandre,2012,8,17,0,22,240625320.0,Site d'Intérêt,2012-08-17 00:22:00,2012-08
+8322483535,45.765083,4.827407,42,liondelyon ,2012,12,24,15,19,251824740.0,Site d'Intérêt,2012-12-24 15:19:00,2012-12
+8265607826,45.76533,4.827375,42,rue lainerie particolare streetart france lyon lione chaplin,2012,12,11,13,52,250696320.0,Site d'Intérêt,2012-12-11 13:52:00,2012-12
+8651228133,45.765102,4.827297,42,vieux lyon nikon lyon,2013,4,13,17,31,261336660.0,Site d'Intérêt,2013-04-13 17:31:00,2013-04
+10494028915,45.765157,4.827343,42,rue juiverie lyon,2013,8,4,15,36,271092960.0,Site d'Intérêt,2013-08-04 15:36:00,2013-08
+22447256612,45.765091,4.827358,42,rue juiverie france lyon vieuxlyon,2014,12,19,12,1,314452860.0,Site d'Intérêt,2014-12-19 12:01:00,2014-12
+22225654271,45.764966,4.827312,42,ruelle punaise lyon ruelle sewer moyenge vieilleville gout,2015,9,7,13,1,337093260.0,Site d'Intérêt,2015-09-07 13:01:00,2015-09
+24866225243,45.76533,4.827289,42,ruelles vieux lyon old city november autumn france building architecture automne canon eos town alley novembre lyon district medieval ruelle renaissance btiment ville vieux quartier vieuxlyon mdival,2015,11,5,14,11,342195060.0,Site d'Intérêt,2015-11-05 14:11:00,2015-11
+26899799473,45.765157,4.827311,42,pasted paper la gatas streetart lyon france la streetart france pasteup collage paper europe lyon wheatpaste pasted lasgatas gatas wheatpaper,2016,5,26,17,3,359744580.0,Site d'Intérêt,2016-05-26 17:03:00,2016-05
+26877357683,45.765157,4.827311,42,pasted paper la gatas streetart lyon france la streetart france pasteup collage paper europe lyon wheatpaste pasted lasgatas gatas wheatpaper,2016,5,26,17,3,359744580.0,Site d'Intérêt,2016-05-26 17:03:00,2016-05
+26877357733,45.765157,4.827311,42,pasted paper la gatas streetart lyon france la streetart france pasteup collage paper europe lyon wheatpaste pasted lasgatas gatas wheatpaper,2016,5,26,17,3,359744580.0,Site d'Intérêt,2016-05-26 17:03:00,2016-05
+29576927155,45.765026,4.827344,42,dtails dune traboule vieux lyon traboule lyon rhne rhnealpes auvergnerhnealpes nelsandrine,2016,8,13,13,10,366556200.0,Site d'Intérêt,2016-08-13 13:10:00,2016-08
+29821295114,45.765213,4.827312,42,blason rue juiverie lyon rhne rhnealpes auvergnerhnealpes nelsandrine,2016,8,13,13,7,366556020.0,Site d'Intérêt,2016-08-13 13:07:00,2016-08
+31091879676,45.765213,4.827312,42,sou lumire lyonnaise lyon fourvire rhne auvergnerhnealpes rhnealpes basilique nelsandrine,2016,8,13,10,5,366545100.0,Site d'Intérêt,2016-08-13 10:05:00,2016-08
+30932426861,45.765213,4.827312,42,lyon lyon rhnealpes auvergnerhnealpes nelsandrine,2016,8,13,13,44,366558240.0,Site d'Intérêt,2016-08-13 13:44:00,2016-08
+35595293684,45.7653,4.827343,42,lion head lion leeuw lwe head tte kop kopf europa europe escultura sculpture facade faade gevel building btiment gebouw gebade lyon france frankrijk frankreich frana francia architecture architectuur rhnealpes,2017,7,21,11,6,396097560.0,Site d'Intérêt,2017-07-21 11:06:00,2017-07
+36224569421,45.765166,4.827377,42,france lyon ,2017,7,17,15,29,395767740.0,Site d'Intérêt,2017-07-17 15:29:00,2017-07
+36285603516,45.765162,4.827332,42,blue heart peter murphy streetart street streetphotography inthestreets strasse strassen strange urbanart urbanphotography arturbain popart pochoirs papiercoll lyon lugdunum vieuxlyon quartiersaintjean saintjean nikon luminar photographiecontemporaine photographie photography photograffik photographieurbaine urbaines pascalreyphotographies coeur heart herz herzenfrsigrid blue bleu hommages rocknrollstars rocknroll flickrunitedaward,2017,7,5,10,58,394714680.0,Site d'Intérêt,2017-07-05 10:58:00,2017-07
+36426938984,45.7653,4.827343,42,rue juiverie ruejuiverie house huizen maisons huser window fenster fentres ramen vensters lantern streetlight straatlantaarn oldlyon lyon france frankrijk frankreich francia frana rhnealpes,2017,7,21,11,4,396097440.0,Site d'Intérêt,2017-07-21 11:04:00,2017-07
+24075346558,45.765113,4.827364,42, lyon auvergnerhnealpes frankreich fr france rhnealpes nikon v nikkor mmf vr nikkor,2017,4,15,11,6,387716760.0,Site d'Intérêt,2017-04-15 11:06:00,2017-04
+37926316901,45.765113,4.827364,42, lyon auvergnerhnealpes frankreich fr france rhnealpes nikon v nikkor mmf vr nikkor,2017,4,15,11,6,387716760.0,Site d'Intérêt,2017-04-15 11:06:00,2017-04
+41234809305,45.765162,4.827311,42,vieux lyon borgonha frana vieux lyon velha borgonha frana,2015,8,17,15,23,335287380.0,Site d'Intérêt,2015-08-17 15:23:00,2015-08
+40328801860,45.765162,4.827311,42,vieux lyon borgonha frana vieux lyon velha borgonha frana,2011,7,5,11,13,205326780.0,Site d'Intérêt,2011-07-05 11:13:00,2011-07
+42181244160,45.765053,4.827311,42,rue juiverie lyon auvergnerhnealpes france claudelina france auvergnerhnealpes lyon ville town city vieuxlyon,2018,7,27,15,37,428168220.0,Site d'Intérêt,2018-07-27 15:37:00,2018-07
+42047289340,45.765262,4.827364,42,lhorloger saintpaul rue juiverie lyon auvergnerhnealpes france claudelina france auvergnerhnealpes lyon ville town city vieuxlyon,2018,7,24,18,44,427920240.0,Site d'Intérêt,2018-07-24 18:44:00,2018-07
+30248335957,45.765157,4.827311,42,word wall mosquita lyon france europe france lyon streetart word wall mosquita,2018,9,30,17,32,433791120.0,Site d'Intérêt,2018-09-30 17:32:00,2018-09

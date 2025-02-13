@@ -1,0 +1,31 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken,year_month
+48889776111,45.760412,4.820294,377, lyon lugdunum muse thtres romains antiquit,2019,9,21,16,11,464544660.0,Événement Temporaire,2019-09-21 16:11:00,2019-09
+48889956087,45.760412,4.820294,377, lyon lugdunum muse thtres romains jeux antiquit,2019,9,21,16,9,464544540.0,Événement Temporaire,2019-09-21 16:09:00,2019-09
+48889775941,45.760412,4.820294,377, lyon lugdunum muse thtres romains antiquit,2019,9,21,16,8,464544480.0,Événement Temporaire,2019-09-21 16:08:00,2019-09
+48889242143,45.760412,4.820294,377, lyon lugdunum muse thtres romains antiquit amphithtre gallo,2019,9,21,16,6,464544360.0,Événement Temporaire,2019-09-21 16:06:00,2019-09
+48889775801,45.760412,4.820294,377, lyon lugdunum muse thtres romains antiquit,2019,9,21,16,6,464544360.0,Événement Temporaire,2019-09-21 16:06:00,2019-09
+48889775741,45.760412,4.820294,377, lyon lugdunum muse thtres romains antiquit,2019,9,21,16,5,464544300.0,Événement Temporaire,2019-09-21 16:05:00,2019-09
+48889241928,45.760412,4.820294,377, lyon lugdunum muse thtres romains antiquit,2019,9,21,16,4,464544240.0,Événement Temporaire,2019-09-21 16:04:00,2019-09
+48889955592,45.760412,4.820294,377, lyon lugdunum muse thtres romains jeux antiquit,2019,9,21,16,3,464544180.0,Événement Temporaire,2019-09-21 16:03:00,2019-09
+48889775511,45.760412,4.820294,377, lyon lugdunum muse thtres romains jeux antiquit,2019,9,21,15,57,464543820.0,Événement Temporaire,2019-09-21 15:57:00,2019-09
+48889241693,45.760412,4.820294,377, lyon lugdunum muse thtres romains jeux antiquit,2019,9,21,15,49,464543340.0,Événement Temporaire,2019-09-21 15:49:00,2019-09
+48889955367,45.760412,4.820294,377, lyon lugdunum muse thtres romains jeux antiquit,2019,9,21,15,49,464543340.0,Événement Temporaire,2019-09-21 15:49:00,2019-09
+48889775266,45.760412,4.820294,377, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,48,464543280.0,Événement Temporaire,2019-09-21 15:48:00,2019-09
+48889241333,45.760412,4.820294,377, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,46,464543160.0,Événement Temporaire,2019-09-21 15:46:00,2019-09
+48889241208,45.760412,4.820294,377, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,44,464543040.0,Événement Temporaire,2019-09-21 15:44:00,2019-09
+48889774936,45.760412,4.820294,377, lyon lugdunum muse thtres romains antiquit amphithtre gallo,2019,9,21,15,43,464542980.0,Événement Temporaire,2019-09-21 15:43:00,2019-09
+48889954862,45.760412,4.820294,377, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,42,464542920.0,Événement Temporaire,2019-09-21 15:42:00,2019-09
+48889240903,45.760412,4.820294,377, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,41,464542860.0,Événement Temporaire,2019-09-21 15:41:00,2019-09
+48889774726,45.760412,4.820294,377, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,37,464542620.0,Événement Temporaire,2019-09-21 15:37:00,2019-09
+48889240688,45.760412,4.820294,377, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,35,464542500.0,Événement Temporaire,2019-09-21 15:35:00,2019-09
+48889954457,45.760412,4.820294,377, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,29,464542140.0,Événement Temporaire,2019-09-21 15:29:00,2019-09
+48889954402,45.760412,4.820294,377, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,27,464542020.0,Événement Temporaire,2019-09-21 15:27:00,2019-09
+48889954272,45.760412,4.820294,377, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,26,464541960.0,Événement Temporaire,2019-09-21 15:26:00,2019-09
+48889774251,45.760412,4.820294,377, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,25,464541900.0,Événement Temporaire,2019-09-21 15:25:00,2019-09
+48889774151,45.760412,4.820294,377, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,25,464541900.0,Événement Temporaire,2019-09-21 15:25:00,2019-09
+48889240173,45.760412,4.820294,377, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,23,464541780.0,Événement Temporaire,2019-09-21 15:23:00,2019-09
+48889773956,45.760412,4.820294,377, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,22,464541720.0,Événement Temporaire,2019-09-21 15:22:00,2019-09
+48889953792,45.760412,4.820294,377, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,21,464541660.0,Événement Temporaire,2019-09-21 15:21:00,2019-09
+48889773731,45.760412,4.820294,377, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,38,464542680.0,Événement Temporaire,2019-09-21 15:38:00,2019-09
+48889953607,45.760412,4.820294,377, lyon lugdunum muse thtres romains jeux antiquit,2019,9,21,15,49,464543340.0,Événement Temporaire,2019-09-21 15:49:00,2019-09
+48889239638,45.760412,4.820294,377, lyon lugdunum muse thtres romains antiquit,2019,9,21,15,40,464542800.0,Événement Temporaire,2019-09-21 15:40:00,2019-09

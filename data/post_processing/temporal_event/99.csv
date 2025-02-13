@@ -1,0 +1,105 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4996194761,45.773083,4.85475,99,fragile ,2010,9,16,0,28,-1.3841417755040295,undef
+5071641010,45.773248,4.854669,99,imprudence red plante rouge insecte,2010,10,9,13,38,-1.3610108677678985,undef
+4095364413,45.773089,4.854809,99,euphorbia milii christplant fleur lyon euphorbia dor parc tete crownofthorns euphorbiaceae tropicale milii christplant sebastiencheniclet,2009,11,9,17,28,-1.688929513476844,undef
+4095244813,45.773089,4.854809,99,fleur tropicale fleur lyon dor parc tete tropicale sebastiencheniclet,2009,11,9,17,25,-1.6889315598561778,undef
+4096001006,45.773089,4.854809,99,fleur tropicale fleur lyon dor parc tete tropicale sebastiencheniclet,2009,11,9,17,24,-1.6889322419826225,undef
+5632546449,45.773143,4.854809,99,ptard cest haut ,2011,4,16,15,9,-1.1753012611011495,undef
+6203545068,45.773097,4.854796,99,grande serre france lyon rhne grandeserre,2011,10,2,11,36,-1.0094442624778204,undef
+6203543930,45.773097,4.854796,99,dracnaces france lyon rhne grandeserre,2011,10,2,11,35,-1.009444944604265,undef
+6790422314,45.773204,4.854819,99, holga lomo lomography lyon holga bc,2012,1,31,10,55,-0.890618517956254,undef
+7225896450,45.773139,4.854755,99,serres bw nb serre parcdelattedor,2012,5,18,14,10,-0.7844011986365351,undef
+7736175582,45.773166,4.854833,99,flux photo ,2012,7,19,14,46,-0.7234763931113126,undef
+7736173096,45.773166,4.854833,99,flux photo ,2012,7,19,14,45,-0.7234770752377572,undef
+7736171062,45.773166,4.854833,99,flux photo ,2012,7,19,14,44,-0.7234777573642018,undef
+7736169504,45.773166,4.854833,99,flux photo ,2012,7,19,14,43,-0.7234784394906464,undef
+7736167434,45.773166,4.854833,99,flux photo ,2012,7,19,14,42,-0.7234791216170909,undef
+7736165024,45.773166,4.854833,99,flux photo ,2012,7,19,14,41,-0.7234798037435356,undef
+7736153650,45.773,4.854833,99,flux photo ,2012,7,19,14,33,-0.7234852607550923,undef
+7736150136,45.773,4.854833,99,flux photo ,2012,7,19,14,32,-0.7234859428815369,undef
+7736146908,45.773,4.854833,99,flux photo ,2012,7,19,14,32,-0.7234859428815369,undef
+7736144106,45.773166,4.854833,99,flux photo ,2012,7,19,14,31,-0.7234866250079816,undef
+9367636760,45.77306,4.854841,99,inspiration square squareformat hefe iphoneography instagramapp uploadedbyinstagram foursquarevenue f e e b e cf f,2013,7,25,20,0,-0.358842973648621,undef
+9591659507,45.773238,4.854636,99, tree sunset france nature lyon mmf lusm canoneos michaelflocco,2013,8,23,19,51,-0.3303635124604401,undef
+9665381712,45.773173,4.854626,99, plante lyon dor parc tte,2013,8,30,17,4,-0.3236015930151948,undef
+9662146911,45.773173,4.854626,99, fleur plante lyon dor parc tte,2013,8,30,17,0,-0.3236043215209732,undef
+9665379190,45.773173,4.854626,99, macro fleur plante lyon dor parc tte,2013,8,30,16,55,-0.3236077321531961,undef
+9662144237,45.773173,4.854626,99, lyon dor parc tte,2013,8,30,16,51,-0.3236104606589745,undef
+9665376818,45.773173,4.854626,99, lyon dor parc tte,2013,8,30,16,50,-0.3236111427854191,undef
+9665375776,45.773173,4.854626,99, lyon dor parc tte,2013,8,30,16,49,-0.3236118249118637,undef
+9662141031,45.773173,4.854626,99, macro fleur plante lyon dor parc insecte tte,2013,8,30,16,49,-0.3236118249118637,undef
+9665374250,45.773173,4.854626,99, plante lyon dor parc tte,2013,8,30,16,48,-0.3236125070383083,undef
+9665373442,45.773173,4.854626,99, plante lyon dor parc tte,2013,8,30,16,43,-0.3236159176705313,undef
+9665372444,45.773173,4.854626,99, fleur plante lyon dor parc tte,2013,8,30,16,41,-0.3236172819234205,undef
+9665371528,45.773173,4.854626,99, macro fleur plante lyon dor parc tte,2013,8,30,16,38,-0.3236193283027542,undef
+9662137037,45.773173,4.854626,99, macro fleur plante lyon dor parc insecte tte,2013,8,30,16,12,-0.3236370635903137,undef
+9662136257,45.773173,4.854626,99, macro fleur plante lyon dor parc tte,2013,8,30,16,12,-0.3236370635903137,undef
+9662135249,45.773173,4.854626,99, lyon dor parc tte,2013,8,30,15,46,-0.3236547988778731,undef
+14581195579,45.77309,4.854691,99,strelitzia reginae france lyon greenhouse serre parcdelattedor strelitziareginae grandesserres oiseaudeparadis ttedorpark,2012,11,19,17,18,-0.6025544740255135,undef
+14767813465,45.77309,4.854691,99,cycas thouarsii france lyon greenhouse serre parcdelattedor grandesserres cycasthouarsii ttedorpark,2012,11,19,16,52,-0.6025722093130729,undef
+14764621861,45.77309,4.854691,99,fleur tropicale france lyon greenhouse serre parcdelattedor grandesserres ttedorpark,2012,11,19,16,50,-0.6025735735659621,undef
+14412671008,45.77298,4.854763,99,lyon parc tte dor france plante lyon rhne rhnealpes parcdelattedor bromliaces sonydschx v feuillesvrieseasplendens,2014,6,29,13,44,-0.02611260799952,undef
+17769202641,45.77306,4.854841,99,parc tte dor lyon serre mexicaine opuntia paraguayensis sony xperia z iso f ,2015,5,17,12,14,0.2901143904491104,undef
+18609801438,45.77306,4.854841,99,parc tte dor lyon ,2015,6,14,11,54,0.3176040861661876,undef
+23930502679,45.773066,4.854815,99,meat naturaleza plant france planta nature purple lyon natureza lione natura jardimbotanico botanicalgarden francia jardinbotanico roxo pianta carnivorousplant prpura jardinbotanique plantacarnvora pourpre plantecarnivore porpora parcdelattedor giardinobotanico sarraceniapsittacina piantacarnivora franca,2016,1,10,19,52,0.5242051794514705,undef
+32651180690,45.773203,4.854755,99,parc tte dor parcdelattedor nikoncoolpixp parc park serre greenhouse glasshouse,2017,2,19,11,33,0.9226632029221696,undef
+26727633719,45.77315,4.854691,99,grande serre parc tte dor lyon parcdelattedor lyon serre groupenuagesetciel,2017,11,18,14,23,1.189954450235735,undef
+39088089540,45.772986,4.85473,99,beautiful camellia parc tte dor camellia lyon france,2018,3,13,13,19,1.3028709333677968,undef
+27291939728,45.773173,4.854776,99,lumire dedans lyon parcdelattedor,2018,4,1,15,37,1.3216280463412011,undef
+28109676368,45.773135,4.854712,99,greenhouse lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php park parc tte dor lione,2018,5,7,14,38,1.3569492357686446,undef
+28109674808,45.773135,4.854712,99,palm lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php park parc tte dor green vert verdr lunti grn xanhlcy yeil lione,2018,5,7,14,40,1.3569506000215337,undef
+28109674148,45.773135,4.854712,99,glorious green lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php park parc tte dor green vert verdr lunti grn xanhlcy yeil lione,2018,5,7,14,40,1.3569506000215337,undef
+28109673058,45.773135,4.854712,99,filtering light lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php park parc tte dor lione,2018,5,7,14,40,1.3569506000215337,undef
+28109672558,45.773135,4.854712,99,plantlife lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php park parc tte dor lione,2018,5,7,14,41,1.3569512821479783,undef
+41981252901,45.773135,4.854712,99,pale pink lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php park parc tte dor flower flower fleur fleurs blumen blte bulaklak hoa iek flores flor floare kwiat lione,2018,5,7,14,52,1.356958785538869,undef
+28109671278,45.773135,4.854712,99,greeeeeen lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php park parc tte dor green vert verdr lunti grn xanhlcy yeil lione,2018,5,7,14,42,1.356951964274423,undef
+28109670688,45.773135,4.854712,99,spanish moss lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php park parc tte dor lione,2018,5,7,14,42,1.356951964274423,undef
+28109670028,45.773135,4.854712,99,pathway lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php park parc tte dor lione,2018,5,7,14,43,1.3569526464008674,undef
+28109669498,45.773135,4.854712,99,mekale lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php park parc tte dor lione,2018,5,7,14,44,1.356953328527312,undef
+28109668678,45.773135,4.854712,99,light shadow lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php park parc tte dor green vert verdr lunti grn xanhlcy yeil lione,2018,5,7,14,45,1.3569540106537568,undef
+41081304975,45.773135,4.854712,99,going yellow lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php park parc tte dor green vert verdr lunti grn xanhlcy yeil lione,2018,5,7,14,45,1.3569540106537568,undef
+28109667978,45.773135,4.854712,99,fish lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php park parc tte dor lione,2018,5,7,14,46,1.3569546927802012,undef
+41981257271,45.773135,4.854712,99,thick bamboo lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php park parc tte dor lione,2018,5,7,14,47,1.356955374906646,undef
+41981256401,45.773135,4.854712,99,lone stalk lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php park parc tte dor lione,2018,5,7,14,47,1.356955374906646,undef
+41981255571,45.773135,4.854712,99,green leaf lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php park parc tte dor green vert verdr lunti grn xanhlcy yeil lione,2018,5,7,14,48,1.3569560570330903,undef
+41981253961,45.773135,4.854712,99,mekale lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php park parc tte dor green vert verdr lunti grn xanhlcy yeil lione,2018,5,7,14,51,1.3569581034124245,undef
+41981250481,45.773135,4.854712,99,mekale lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php park parc tte dor lione,2018,5,7,14,53,1.3569594676653134,undef
+41081290925,45.773135,4.854712,99,yellowy green lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php park parc tte dor green vert verdr lunti grn xanhlcy yeil lione,2018,5,7,14,54,1.356960149791758,undef
+41081289405,45.773135,4.854712,99,getting chlorophyll lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php park parc tte dor green vert verdr lunti grn xanhlcy yeil lione,2018,5,7,14,55,1.3569608319182027,undef
+28109663738,45.773135,4.854712,99,plant lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php park parc tte dor green vert verdr lunti grn xanhlcy yeil lione,2018,5,7,14,56,1.3569615140446472,undef
+41081252535,45.773135,4.854712,99,greenhouse lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php park parc tte dor lione,2018,5,7,14,52,1.356958785538869,undef
+40728393550,45.773135,4.854712,99,greenhouse lyon lione,2018,6,3,15,17,1.3834969148657394,undef
+41936451822,45.773135,4.854712,99,frond lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php park parc tte dor green vert verdr lunti grn xanhlcy yeil lione,2018,5,7,14,40,1.3569506000215337,undef
+41081288155,45.773135,4.854712,99,veiny lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php park parc tte dor green vert verdr lunti grn xanhlcy yeil lione,2018,5,7,14,55,1.3569608319182027,undef
+45453548885,45.773052,4.854752,99,lyon ,2016,12,10,15,53,0.853099948102628,undef
+46706159315,45.773216,4.854674,99,bouganvillea glabra botany serre botanicalgardens jardnbotanico greenhouse invernadero jardinbotanique lyon france botanicgarden botanicalgarden jardinbotanico jardnbotnico botanischergarten parcdelattedor tropicalplants hothouse jardinbotaniqueduparcdelattedor jardinbotaniquedelyon lyonbotanicgarden botanischegartenvonlyon frankreich gewchshus tropical,2019,4,16,13,30,1.694801006763746,undef
+48359846862,45.773153,4.854787,99,licuala elegans licualaelegans southeastasianplants serre botany fanpalm jardinbotaniquedelyon lyonbotanicgarden parcdelattedor arecaceae jardinbotanique jardnbotnico grandesserrestropicales greenhouse,2019,4,16,13,7,1.6947853178555203,undef
+48361905112,45.773131,4.854787,99, parcdelattedor lyon france grandesserres invernadero glasshouse hothouse lyonbotanicgarden serre jardinbotanico francia jardinbotaniquedelyon botany,2019,4,16,13,27,1.6947989603844122,undef
+48361904532,45.773131,4.854787,99, grandesserres greenhouse botanicalgarden lyon parcdelattedor france jardinbotaniquedelyon jardinbotanico conservatory botany lyonbotanicgarden,2019,4,16,13,27,1.6947989603844122,undef
+48361630482,45.773131,4.854787,99,dietes bicolor dietesbicolor flower botany africanplants africaniris fortnightlily iridaceae southafricanplants botanicgarden lyon france parcdelattedor serre flor invernadero grandesserres jardinbotaniquedelyon lyonbotanicgarden,2019,4,16,13,23,1.6947962318786338,undef
+48361629717,45.773131,4.854787,99, jardinbotaniquedelyon botanicgarden canonsx lyon toycamera parcdelattedor france filter edited botany lyonbotanicgarden,2019,4,16,13,27,1.6947989603844122,undef
+48360923642,45.773131,4.854787,99, jardinbotaniquedelyon spring flower printemps lyon frhling france parcdelattedor parque park primavera pink botany lyonbotanicgarden,2019,4,16,13,19,1.6947935033728554,undef
+48360785616,45.773131,4.854787,99, jardinbotaniquedelyon pink flower frhling lyon france park primavera parque parcdelattedor spring botany lyonbotanicgarden,2019,4,16,13,19,1.6947935033728554,undef
+48360784501,45.773131,4.854787,99, jardinbotaniquedelyon spring flower printemps frhling lyon france park primavera parque parcdelattedor pink botany lyonbotanicgarden,2019,4,16,13,22,1.6947955497521892,undef
+48360723791,45.773131,4.854787,99, pink flower spring primavera frhling printemps jardinbotaniquedelyon parcdelattedor lyon france park parque garden garten grandesserres greenhouse botany lyonbotanicgarden,2019,4,16,13,19,1.6947935033728554,undef
+48360654342,45.773131,4.854787,99, iris flower fleur printemps jardinbotaniquedelyon frhling parcdelattedor lyon botanicgarde park parque flor francia garden botany lyonbotanicgarden,2019,4,16,13,17,1.6947921391199663,undef
+48360516126,45.773131,4.854787,99,vlthemia capensis southafricanplants jardinbotaniquedelyon parcdelattedor lyon france botanicgarde park parque flower flor francia garden botany lyonbotanicgarden,2019,4,16,13,18,1.694792821246411,undef
+48359707721,45.773153,4.854787,99,pandanus utilis pandanaceae pandanusutilis jardinbotaniquedelyon lyonbotanicgarden jardinbotanique jardnbotnico serre grandesserrestropicales greenhouse,2019,4,16,13,6,1.6947846357290757,undef
+48359705791,45.773153,4.854787,99, jardinbotaniquedelyon lyonbotanicgarden jardinbotanique jardnbotnico serre grandesserrestropicales greenhouse,2019,4,16,13,7,1.6947853178555203,undef
+48359703926,45.773131,4.854787,99, iris flower grandesserrestropicales jardnbotnico jardinbotanique jardinbotaniquedelyon lyonbotanicgarden greenhouse serre botany parcdelattedor,2019,4,16,13,17,1.6947921391199663,undef
+48359299686,45.773153,4.854787,99,pitcairnia darblayana bromeliaceae pitcairnia tropicalplants pitcairniadarblayana newworldplants color flowerspike jardinbotaniquedelyon botany lyonbotanicgarden parcdelattedor greenhouse serre hothouse conservatory botanicgarden grandesserrestropicales france lyon jardinbotanique jardnbotnico botanischergarten gewchshaus,2019,4,16,13,3,1.694782589349742,undef
+48359298351,45.773153,4.854787,99,cycas thouarsii madagascar cycad cycasthouarsii madagascarcycad madagascarplants serre jardnbotnico jardin botanique cycad tropicalplants jardinbotaniquedelyon botany lyonbotanicgarden parcdelattedor greenhouse hothouse conservatory botanicgarden grandesserrestropicales france lyon jardinbotanique botanischergarten gewchshaus cycadales,2019,4,16,13,5,1.6947839536026312,undef
+48359297351,45.773153,4.854787,99, france lyon conservatory greenhouse botany botanicgarden hothouse jardinbotanique tropicalplants serre parcdelattedor jardinbotaniquedelyon grandesserrestropicales lyonbotanicgarden cycad,2019,4,16,13,3,1.694782589349742,undef
+48359180942,45.773153,4.854787,99, grandesserres jardinbotanique lyon france hothouse conservatory jardinbotaniquedelyon lyonbotanicgarden parcdelattedor greenhouse serre botanicgarden grandesserrestropicales,2019,4,16,13,0,1.694780542970408,undef
+48359044951,45.773153,4.854787,99,ficus lutea ficuslutea serre botanicgarden tropicalplants giantleavedfig lagosrubbertree africanplants moraceae jardinbotaniquedelyon botany lyonbotanicgarden parcdelattedor greenhouse hothouse conservatory grandesserrestropicales france lyon jardinbotanique,2019,4,16,13,1,1.6947812250968528,undef
+48357828857,45.773153,4.854787,99,adenanthos sericeus adenanthossericeus proteaceae serre botany australianplants lyonbotanicgarden greenhouse tropicalgreenhouse invernadero jardinbotaniquedelyon parcdelattedor grandesserrestropicales france lyon jardinbotanique hothouse conservatory botanicgarden,2019,4,16,12,55,1.6947771323381853,undef
+48357827287,45.773153,4.854787,99,adenanthos sericeus adenanthossericeus australianplants arbustowoolly proteaceae serre botany lyonbotanicgarden greenhouse tropicalgreenhouse invernadero jardinbotaniquedelyon parcdelattedor grandesserrestropicales france lyon jardinbotanique hothouse conservatory botanicgarden,2019,4,16,12,56,1.6947778144646295,undef
+48357692506,45.773153,4.854787,99,brahea armata palm palmtree botany jardnbotnico arecaceae braheaarmata bluehesperpalm mexicanplants mexicanbluepalm palmeraazul palmagris palmierbleudumexique france lyon conservatory greenhouse botanicgarden hothouse jardinbotanique serre invernadero parcdelattedor tropicalgreenhouse jardinbotaniquedelyon grandesserrestropicales lyonbotanicgarden,2019,4,16,12,56,1.6947778144646295,undef
+48357748562,45.773153,4.854787,99, jardinbotaniquedelyon grandesserres tropicalgreehouse tropicalplants parcdelattedor lyon france canonsx jardnbotnico botanischergarten jardimbotnico botanickzahrada gewchshaus invernadero conservatory hothouse greenhouse,2019,4,16,12,55,1.6947771323381853,undef
+48357545567,45.773216,4.854674,99, jardinbotaniquedelyon serre vine tropicalplants grandesserrestropicales conservatory jardinbotanique botany lyonbotanicgarden parcdelattedor greenhouse hothouse botanicgarden france lyon,2019,4,16,13,30,1.694801006763746,undef
+48354130787,45.773047,4.854766,99, grandesserrestropicales tropicalgreenhouse pink flower flores rosadas invernadero fleurs jardinbotaniquedelyon hothouse conservatory parcdelattedor lyon serre tropicalplants botanicgarden botanicalgarden greenhouse francia botaniskhave ortobotanico lyonbotanicgarden lyonbotanicalgarden france,2019,4,16,13,15,1.694790774867077,undef
+48353999446,45.773044,4.854852,99, pink flower flores fleurs lyon conservatory greenhouse botanicgarden botanicalgarden francia tropicalplants serre ortobotanico invernadero botaniskhave rosadas parcdelattedor tropicalgreenhouse jardinbotaniquedelyon grandesserrestropicales lyonbotanicalgarden lyonbotanicgarden france,2019,4,16,13,15,1.694790774867077,undef
+48353987242,45.773141,4.854738,99, jardinbotaniquedelyon serre greenhouse conservatory botanicalgarden botanicgarden lyon bw blackandwhite grandesserrestropicales jardinbotanique tropicalplants france parcdelattedor gewchshaus invernadero lyonbotanicgarden,2019,4,16,13,9,1.6947866821084094,undef
+48926452387,45.77295,4.854772,99, botanicgarden edited filter lyonbotanicgarden lyon serre gewchshaus,2019,4,16,13,14,1.6947900927406323,undef
+48926257321,45.77295,4.85478,99,encephalartos natalensis botanicgarden edited filter lyonbotanicgarden lyon serre gewchshaus encephalartosnatalensis,2019,4,16,13,12,1.6947887284877432,undef
+48900171381,45.773195,4.854648,99,lyb lyon onlylyon france,2019,10,13,9,40,1.871451292119862,undef

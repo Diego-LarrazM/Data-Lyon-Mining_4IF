@@ -1,0 +1,101 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+8529542364,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,17,12,257015520.0,undef,2013-02-22 17:12:00
+8529542106,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,17,12,257015520.0,undef,2013-02-22 17:12:00
+8528429741,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,17,257019420.0,undef,2013-02-22 18:17:00
+8528429437,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,18,257019480.0,undef,2013-02-22 18:18:00
+8529541252,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,20,257019600.0,undef,2013-02-22 18:20:00
+8529540878,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,22,257019720.0,undef,2013-02-22 18:22:00
+8529540646,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,26,257019960.0,undef,2013-02-22 18:26:00
+8528428303,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,29,257020140.0,undef,2013-02-22 18:29:00
+8528428061,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,29,257020140.0,undef,2013-02-22 18:29:00
+8528427837,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,30,257020200.0,undef,2013-02-22 18:30:00
+8529539732,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,35,257020500.0,undef,2013-02-22 18:35:00
+8529539464,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,36,257020560.0,undef,2013-02-22 18:36:00
+8529539140,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,36,257020560.0,undef,2013-02-22 18:36:00
+8529538952,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,36,257020560.0,undef,2013-02-22 18:36:00
+8529538744,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,36,257020560.0,undef,2013-02-22 18:36:00
+8528426567,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,36,257020560.0,undef,2013-02-22 18:36:00
+8528426267,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,36,257020560.0,undef,2013-02-22 18:36:00
+8528426039,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,37,257020620.0,undef,2013-02-22 18:37:00
+8528425767,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,40,257020800.0,undef,2013-02-22 18:40:00
+8528425583,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,41,257020860.0,undef,2013-02-22 18:41:00
+8529537366,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,41,257020860.0,undef,2013-02-22 18:41:00
+8529537158,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,42,257020920.0,undef,2013-02-22 18:42:00
+8528424815,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,44,257021040.0,undef,2013-02-22 18:44:00
+8529536604,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,45,257021100.0,undef,2013-02-22 18:45:00
+8529536374,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,46,257021160.0,undef,2013-02-22 18:46:00
+8528423971,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,47,257021220.0,undef,2013-02-22 18:47:00
+8529535826,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,48,257021280.0,undef,2013-02-22 18:48:00
+8528423455,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,51,257021460.0,undef,2013-02-22 18:51:00
+8528423185,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,53,257021580.0,undef,2013-02-22 18:53:00
+8528422901,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,54,257021640.0,undef,2013-02-22 18:54:00
+8528422639,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,54,257021640.0,undef,2013-02-22 18:54:00
+8528422353,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,54,257021640.0,undef,2013-02-22 18:54:00
+8529534328,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,55,257021700.0,undef,2013-02-22 18:55:00
+8529534090,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,56,257021760.0,undef,2013-02-22 18:56:00
+8528421615,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,18,59,257021940.0,undef,2013-02-22 18:59:00
+8528421359,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,19,2,257022120.0,undef,2013-02-22 19:02:00
+8529533418,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,19,2,257022120.0,undef,2013-02-22 19:02:00
+8528420923,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,19,3,257022180.0,undef,2013-02-22 19:03:00
+8529533008,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,19,3,257022180.0,undef,2013-02-22 19:03:00
+8528420575,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,19,4,257022240.0,undef,2013-02-22 19:04:00
+8528420327,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,19,5,257022300.0,undef,2013-02-22 19:05:00
+8528420073,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,19,6,257022360.0,undef,2013-02-22 19:06:00
+8528419837,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,19,7,257022420.0,undef,2013-02-22 19:07:00
+8528419527,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,19,8,257022480.0,undef,2013-02-22 19:08:00
+8528419271,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,19,9,257022540.0,undef,2013-02-22 19:09:00
+8528419033,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,19,11,257022660.0,undef,2013-02-22 19:11:00
+8529531248,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,19,11,257022660.0,undef,2013-02-22 19:11:00
+8529530990,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,19,12,257022720.0,undef,2013-02-22 19:12:00
+8529530752,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,19,12,257022720.0,undef,2013-02-22 19:12:00
+8528418023,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,19,24,257023440.0,undef,2013-02-22 19:24:00
+8529530278,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,19,27,257023620.0,undef,2013-02-22 19:27:00
+8529530000,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,19,28,257023680.0,undef,2013-02-22 19:28:00
+8529529682,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,19,28,257023680.0,undef,2013-02-22 19:28:00
+8528416923,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,19,30,257023800.0,undef,2013-02-22 19:30:00
+8528416647,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,19,30,257023800.0,undef,2013-02-22 19:30:00
+8528416453,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,19,32,257023920.0,undef,2013-02-22 19:32:00
+8529528644,45.732089,4.818009,240,p stitch lyon muse chantier confluence,2013,2,22,17,12,257015520.0,undef,2013-02-22 17:12:00
+8528415861,45.732089,4.818009,240,p stitch lyon muse chantier confluence,2013,2,22,17,48,257017680.0,undef,2013-02-22 17:48:00
+8529528094,45.732089,4.818009,240,p stitch lyon muse chantier confluence,2013,2,22,18,21,257019660.0,undef,2013-02-22 18:21:00
+8528415309,45.732089,4.818009,240,p stitch lyon muse chantier confluence,2013,2,22,18,26,257019960.0,undef,2013-02-22 18:26:00
+8529527528,45.732089,4.818009,240,p stitch lyon muse chantier confluence,2013,2,22,18,42,257020920.0,undef,2013-02-22 18:42:00
+8529527166,45.732089,4.818009,240,p stitch lyon muse chantier confluence,2013,2,22,18,43,257020980.0,undef,2013-02-22 18:43:00
+8529526934,45.732089,4.818009,240,p stitch lyon muse chantier confluence,2013,2,22,18,46,257021160.0,undef,2013-02-22 18:46:00
+8528414055,45.732089,4.818009,240,p stitch lyon muse chantier confluence,2013,2,22,18,50,257021400.0,undef,2013-02-22 18:50:00
+8529526300,45.732089,4.818009,240,p stitch lyon muse chantier confluence,2013,2,22,18,52,257021520.0,undef,2013-02-22 18:52:00
+8529525534,45.732089,4.818009,240,p stitch lyon muse chantier confluence,2013,2,22,18,57,257021820.0,undef,2013-02-22 18:57:00
+8528412687,45.732089,4.818009,240,p stitch lyon muse chantier confluence,2013,2,22,19,6,257022360.0,undef,2013-02-22 19:06:00
+8529524880,45.732089,4.818009,240,p stitch lyon muse chantier confluence,2013,2,22,19,9,257022540.0,undef,2013-02-22 19:09:00
+8528411863,45.732089,4.818009,240,p stitch lyon muse chantier confluence,2013,2,22,19,31,257023860.0,undef,2013-02-22 19:31:00
+8529524000,45.732089,4.818009,240,p lyon muse chantier confluence,2013,2,22,17,9,257015340.0,undef,2013-02-22 17:09:00
+9923664285,45.732141,4.818062,240,akhtiphoto couverture cover france akhti achti ilnarakhtiamov achtiphoto akhtiamovilnar akhtiphoto akhticom,2013,8,11,19,5,271710300.0,undef,2013-08-11 19:05:00
+19174320143,45.732024,4.81806,240,shade grey sky france architecture grey gris grigio lyon gray himmel grau minimal ciel cielo astratto francia architettura frankrig arkitektur gr coophimmelblau skyarchitecture shadesofgrey museedeconfluence,2015,6,25,11,48,330695280.0,undef,2015-06-25 11:48:00
+25512318283,45.732186,4.818041,240,petit chaperon ville people child,2016,3,27,16,55,354560100.0,undef,2016-03-27 16:55:00
+27844842635,45.732157,4.818018,240,contre poids muse confluence lyon minimalisme graphique urban samyang mmf nc serene olympusomdem olympus,2016,6,22,19,29,362086140.0,undef,2016-06-22 19:29:00
+28047985980,45.732157,4.818018,240,confluence france lyon confluence muse urban samyang mmf olympusomdem samyang mmf nc olympus,2016,6,22,19,24,362085840.0,undef,2016-06-22 19:24:00
+31023524781,45.732175,4.818074,240,muse confluence lyon archi muse,2016,11,20,10,13,375099180.0,undef,2016-11-20 10:13:00
+30189810134,45.732157,4.818018,240,confluence lyon confluence urbain urban samyang mmf nc olympus,2016,6,22,19,21,362085660.0,undef,2016-06-22 19:21:00
+34799159673,45.731962,4.817934,240,lyon france ch lyon france europe city urban dusk architecture bluehour,2017,6,22,21,6,393627960.0,undef,2017-06-22 21:06:00
+35160518860,45.732149,4.818062,240,confluence architecturale ,2017,6,7,13,0,392302800.0,undef,2017-06-07 13:00:00
+37725714852,45.732201,4.818105,240, lyon auvergnerhnealpes frankreich fr france rhnealpes nikon v nikkor mmf vr nikkor,2017,4,14,17,8,387652080.0,undef,2017-04-14 17:08:00
+30586515703,45.732157,4.818018,240,emergency exit olympus,2016,12,3,17,51,376249860.0,undef,2016-12-03 17:51:00
+25452824317,45.732216,4.818116,240,bridge pillar ,2018,2,4,1,4,413168640.0,undef,2018-02-04 01:04:00
+39767097012,45.732066,4.818084,240,monde lumiere lyon confluence,2017,9,29,14,10,402156600.0,undef,2017-09-29 14:10:00
+24751100687,45.731902,4.817997,240, ,2017,12,28,12,27,409926420.0,undef,2017-12-28 12:27:00
+29144574458,45.731941,4.817966,240, france,2018,6,18,16,48,424802880.0,undef,2018-06-18 16:48:00
+27669342787,45.732005,4.817988,240,dragon scale bw blackwhite europe france lyon rhne rhnealpes world abstract architecture building city monochrome auvergnerhnealpes fr,2018,1,7,9,21,410779260.0,undef,2018-01-07 09:21:00
+28666525218,45.732005,4.817988,240,dragon scale bw blackwhite europe france lyon rhne rhnealpes world abstract architecture building city monochrome auvergnerhnealpes fr,2018,1,7,9,22,410779320.0,undef,2018-01-07 09:22:00
+27669341887,45.732005,4.817988,240,dragon scale europe france lyon rhne rhnealpes world abstract architecture building city auvergnerhnealpes fr,2018,1,7,9,28,410779680.0,undef,2018-01-07 09:28:00
+42539923511,45.732005,4.817988,240,dragon scale bw blackwhite europe france lyon rhne rhnealpes world abstract architecture building city monochrome auvergnerhnealpes fr,2018,1,7,9,31,410779860.0,undef,2018-01-07 09:31:00
+28666522828,45.732005,4.817988,240,dragon scale bw blackwhite europe france lyon rhne rhnealpes world abstract architecture building city monochrome auvergnerhnealpes fr,2018,1,7,9,32,410779920.0,undef,2018-01-07 09:32:00
+27669339197,45.732005,4.817988,240,dragon scale bw blackwhite europe france lyon rhne rhnealpes world abstract architecture building city monochrome auvergnerhnealpes fr,2018,1,7,9,34,410780040.0,undef,2018-01-07 09:34:00
+28666521128,45.732005,4.817988,240,dragon scale europe france lyon rhne rhnealpes world abstract architecture building city auvergnerhnealpes fr,2018,1,7,9,35,410780100.0,undef,2018-01-07 09:35:00
+27669337477,45.732005,4.817988,240,dragon scale bw blackwhite europe france lyon rhne rhnealpes world abstract architecture building city monochrome auvergnerhnealpes fr,2018,1,7,9,36,410780160.0,undef,2018-01-07 09:36:00
+46099133031,45.732148,4.81809,240,charlotte in ad pro alamercery beauty broncolor charlotte confluence europe france girl in lyon makeupartist makeup manfrotto maquillage maquilleuse marion model museum musedesconfluences place shooting woman redlips,2018,11,10,14,57,437324220.0,undef,2018-11-10 14:57:00
+31955895077,45.732113,4.818072,240,er bal architecture gris lyon rhonealpes france confluence,2019,1,27,11,51,444052260.0,undef,2019-01-27 11:51:00
+48536503716,45.732036,4.818036,240,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,14,18,459699480.0,undef,2019-07-27 14:18:00
+48536650372,45.732208,4.818072,240,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,14,18,459699480.0,undef,2019-07-27 14:18:00
+48472707206,45.732036,4.818036,240,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,14,18,459699480.0,undef,2019-07-27 14:18:00
+48472852442,45.732208,4.818072,240,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,27,14,18,459699480.0,undef,2019-07-27 14:18:00
+49043116882,45.732111,4.817986,240, frankreich france architektur architecture lyon modern grafisch,2019,5,8,14,48,452789280.0,undef,2019-05-08 14:48:00

@@ -1,0 +1,72 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+6227214392,45.737892,4.814693,174,biennale lyon art biennaledelyon,2011,10,8,14,51,213547860.0,undef,2011-10-08 14:51:00
+6226677975,45.737892,4.814693,174,joana hadjithomas khalil joreige lebanese rocket society president album art biennaledelyon khaliljoreige joanahadjithomas,2011,10,8,15,41,213550860.0,undef,2011-10-08 15:41:00
+6226670935,45.737892,4.814693,174,joana hadjithomas khalil joreige lebanese rocket society president album art biennaledelyon khaliljoreige joanahadjithomas,2011,10,8,15,40,213550800.0,undef,2011-10-08 15:40:00
+6226651147,45.737892,4.814693,174,joana hadjithomas khalil joreige lebanese rocket society president album art biennaledelyon khaliljoreige joanahadjithomas,2011,10,8,15,40,213550800.0,undef,2011-10-08 15:40:00
+6227146488,45.737892,4.814693,174,joana hadjithomas khalil joreige lebanese rocket society president album dtail art biennaledelyon khaliljoreige joanahadjithomas,2011,10,8,15,40,213550800.0,undef,2011-10-08 15:40:00
+6227138022,45.737892,4.814693,174,joana hadjithomas khalil joreige lebanese rocket society president album dtail art biennaledelyon khaliljoreige joanahadjithomas,2011,10,8,15,40,213550800.0,undef,2011-10-08 15:40:00
+6226616445,45.737892,4.814693,174,joana hadjithomas khalil joreige lebanese rocket society president album art biennaledelyon khaliljoreige joanahadjithomas,2011,10,8,15,40,213550800.0,undef,2011-10-08 15:40:00
+6226587867,45.737892,4.814693,174,satno filko art biennaledelyon satnofilko,2011,10,8,15,34,213550440.0,undef,2011-10-08 15:34:00
+6227097864,45.737892,4.814693,174,satno filko art biennaledelyon satnofilko,2011,10,8,15,33,213550380.0,undef,2011-10-08 15:33:00
+6226529803,45.737892,4.814693,174,satno filko breathing celebration air installation art biennaledelyon satnofilko,2011,10,8,15,34,213550440.0,undef,2011-10-08 15:34:00
+6227041934,45.737892,4.814693,174,satno filko breathing celebration air installation art biennaledelyon satnofilko,2011,10,8,15,33,213550380.0,undef,2011-10-08 15:33:00
+6226516821,45.737892,4.814693,174,satno filko art biennaledelyon satnofilko,2011,10,8,15,33,213550380.0,undef,2011-10-08 15:33:00
+6227031974,45.737892,4.814693,174,satno filko breathing celebration air installation art biennaledelyon satnofilko,2011,10,8,15,32,213550320.0,undef,2011-10-08 15:32:00
+6227027104,45.737892,4.814693,174,satno filko breathing celebration air installation art biennaledelyon satnofilko,2011,10,8,15,32,213550320.0,undef,2011-10-08 15:32:00
+6227021402,45.737892,4.814693,174,satno filko breathing celebration air installation art biennaledelyon satnofilko,2011,10,8,15,31,213550260.0,undef,2011-10-08 15:31:00
+6226479575,45.737892,4.814693,174,robbie cornelissen het grote geheugen x capacious memory art biennaledelyon robbiecornelissen,2011,10,8,15,30,213550200.0,undef,2011-10-08 15:30:00
+6226994944,45.737892,4.814693,174,robbie cornelissen het grote geheugen x capacious memory dtail art biennaledelyon robbiecornelissen,2011,10,8,15,29,213550140.0,undef,2011-10-08 15:29:00
+6226987468,45.737892,4.814693,174,robbie cornelissen het grote geheugen x capacious memory dtail art biennaledelyon robbiecornelissen,2011,10,8,15,29,213550140.0,undef,2011-10-08 15:29:00
+6226464349,45.737892,4.814693,174,robbie cornelissen het grote geheugen x capacious memory dtail art biennaledelyon robbiecornelissen,2011,10,8,15,29,213550140.0,undef,2011-10-08 15:29:00
+6226433439,45.737892,4.814693,174,robbie cornelissen het grote geheugen x capacious memory art biennaledelyon robbiecornelissen,2011,10,8,15,28,213550080.0,undef,2011-10-08 15:28:00
+6226945060,45.737892,4.814693,174,robbie cornelissen het grote geheugen x capacious memory dtail art biennaledelyon robbiecornelissen,2011,10,8,15,28,213550080.0,undef,2011-10-08 15:28:00
+6226421759,45.737892,4.814693,174,robbie cornelissen het grote geheugen x capacious memory dtail art biennaledelyon robbiecornelissen,2011,10,8,15,28,213550080.0,undef,2011-10-08 15:28:00
+6226417271,45.737892,4.814693,174,robbie cornelissen het grote geheugen x capacious memory dtail art biennaledelyon robbiecornelissen,2011,10,8,15,27,213550020.0,undef,2011-10-08 15:27:00
+6226918690,45.737892,4.814693,174,robbie cornelissen het grote geheugen x capacious memory dtail art biennaledelyon robbiecornelissen,2011,10,8,15,27,213550020.0,undef,2011-10-08 15:27:00
+6226396283,45.737892,4.814693,174,robbie cornelissen het grote geheugen x capacious memory dtail art biennaledelyon robbiecornelissen,2011,10,8,15,27,213550020.0,undef,2011-10-08 15:27:00
+6226909496,45.737892,4.814693,174,robbie cornelissen het grote geheugen x capacious memory dtail art biennaledelyon robbiecornelissen,2011,10,8,15,27,213550020.0,undef,2011-10-08 15:27:00
+6226381677,45.737892,4.814693,174,robbie cornelissen het grote geheugen x capacious memory dtail art biennaledelyon robbiecornelissen,2011,10,8,15,27,213550020.0,undef,2011-10-08 15:27:00
+6226376463,45.737892,4.814693,174,robbie cornelissen het grote geheugen x capacious memory dtail art biennaledelyon robbiecornelissen,2011,10,8,15,26,213549960.0,undef,2011-10-08 15:26:00
+6226368355,45.737892,4.814693,174,robbie cornelissen het grote geheugen x capacious memory dtail art biennaledelyon robbiecornelissen,2011,10,8,15,26,213549960.0,undef,2011-10-08 15:26:00
+6226360101,45.737892,4.814693,174,robbie cornelissen het grote geheugen x capacious memory dtail art biennaledelyon robbiecornelissen,2011,10,8,15,26,213549960.0,undef,2011-10-08 15:26:00
+6226873108,45.737892,4.814693,174,robbie cornelissen het grote geheugen x capacious memory dtail art biennaledelyon robbiecornelissen,2011,10,8,15,26,213549960.0,undef,2011-10-08 15:26:00
+6226345539,45.737892,4.814693,174,robbie cornelissen het grote geheugen x capacious memory art biennaledelyon robbiecornelissen,2011,10,8,15,25,213549900.0,undef,2011-10-08 15:25:00
+6226820776,45.737892,4.814693,174,robert kumirowski stronghold installation art biennaledelyon robertkusmirowski,2011,10,8,15,21,213549660.0,undef,2011-10-08 15:21:00
+6226816476,45.737892,4.814693,174,robert kumirowski stronghold installation art biennaledelyon robertkusmirowski,2011,10,8,15,21,213549660.0,undef,2011-10-08 15:21:00
+6226289043,45.737892,4.814693,174,robert kumirowski stronghold installation art biennaledelyon robertkusmirowski,2011,10,8,15,17,213549420.0,undef,2011-10-08 15:17:00
+6226804018,45.737892,4.814693,174,robert kumirowski stronghold installation art biennaledelyon robertkusmirowski,2011,10,8,15,17,213549420.0,undef,2011-10-08 15:17:00
+6226790120,45.737892,4.814693,174,robert kumirowski stronghold installation art biennaledelyon robertkusmirowski,2011,10,8,15,17,213549420.0,undef,2011-10-08 15:17:00
+6226250527,45.737892,4.814693,174,robert kumirowski stronghold installation art biennaledelyon robertkusmirowski,2011,10,8,15,16,213549360.0,undef,2011-10-08 15:16:00
+6226731624,45.737892,4.814693,174,augusto campos cidadecitycit art biennaledelyon augustodecampos,2011,10,8,15,15,213549300.0,undef,2011-10-08 15:15:00
+6226202729,45.737892,4.814693,174,augusto campos cidadecitycit art biennaledelyon augustodecampos,2011,10,8,15,15,213549300.0,undef,2011-10-08 15:15:00
+6226188529,45.737892,4.814693,174,augusto campos cidadecitycit art biennaledelyon augustodecampos,2011,10,8,15,15,213549300.0,undef,2011-10-08 15:15:00
+6226156893,45.737892,4.814693,174,marina caro hombresemilla el mito lo posible sculpture pltre tricot art biennaledelyon marinadecaro,2011,10,8,15,20,213549600.0,undef,2011-10-08 15:20:00
+6226142071,45.737892,4.814693,174,marina caro hombresemilla el mito lo posible sculpture pltre tricot dtail art biennaledelyon marinadecaro,2011,10,8,15,20,213549600.0,undef,2011-10-08 15:20:00
+6226651678,45.737892,4.814693,174,marina caro hombresemilla el mito lo posible sculpture pltre tricot art biennaledelyon marinadecaro,2011,10,8,15,19,213549540.0,undef,2011-10-08 15:19:00
+6226648580,45.737892,4.814693,174,marina caro hombresemilla el mito lo posible sculpture pltre tricot dtail art biennaledelyon marinadecaro,2011,10,8,15,22,213549720.0,undef,2011-10-08 15:22:00
+6226642376,45.737892,4.814693,174,marina caro hombresemilla el mito lo posible sculpture pltre tricot art biennaledelyon marinadecaro,2011,10,8,15,19,213549540.0,undef,2011-10-08 15:19:00
+6226116847,45.737892,4.814693,174,marina caro hombresemilla el mito lo posible sculpture pltre tricot dtail art biennaledelyon marinadecaro,2011,10,8,15,19,213549540.0,undef,2011-10-08 15:19:00
+6226631736,45.737892,4.814693,174,marina caro hombresemilla el mito lo posible sculpture pltre tricot art biennaledelyon marinadecaro,2011,10,8,15,18,213549480.0,undef,2011-10-08 15:18:00
+6226625332,45.737892,4.814693,174,marina caro hombresemilla el mito lo posible sculpture pltre tricot art biennaledelyon marinadecaro,2011,10,8,15,18,213549480.0,undef,2011-10-08 15:18:00
+6226098753,45.737892,4.814693,174,marina caro hombresemilla el mito lo posible sculpture pltre tricot art biennaledelyon marinadecaro,2011,10,8,15,18,213549480.0,undef,2011-10-08 15:18:00
+6226614276,45.737892,4.814693,174,marina caro hombresemilla el mito lo posible sculpture pltre tricot art biennaledelyon marinadecaro,2011,10,8,15,14,213549240.0,undef,2011-10-08 15:14:00
+6226089041,45.737892,4.814693,174,marina caro hombresemilla el mito lo posible sculpture pltre tricot dtail art biennaledelyon marinadecaro,2011,10,8,15,14,213549240.0,undef,2011-10-08 15:14:00
+6226606292,45.737892,4.814693,174,marina caro hombresemilla el mito lo posible sculpture pltre tricot dtail art biennaledelyon marinadecaro,2011,10,8,15,13,213549180.0,undef,2011-10-08 15:13:00
+6226601610,45.737892,4.814693,174,marina caro hombresemilla el mito lo posible sculpture pltre tricot art biennaledelyon marinadecaro,2011,10,8,15,13,213549180.0,undef,2011-10-08 15:13:00
+6226597162,45.737892,4.814693,174,marina caro hombresemilla el mito lo posible sculpture pltre tricot art biennaledelyon marinadecaro,2011,10,8,15,13,213549180.0,undef,2011-10-08 15:13:00
+6226592378,45.737892,4.814693,174,marina caro hombresemilla el mito lo posible sculpture pltre tricot art biennaledelyon marinadecaro,2011,10,8,15,12,213549120.0,undef,2011-10-08 15:12:00
+6225566125,45.737892,4.814693,174,jakob macfarlane architect cube orange architecture jakob macfarlane jakobmacfarlane sucrire,2011,10,8,14,46,213547560.0,undef,2011-10-08 14:46:00
+6225564249,45.737892,4.814693,174,jakob macfarlane architect cube orange architecture jakob macfarlane jakobmacfarlane sucrire,2011,10,8,14,45,213547500.0,undef,2011-10-08 14:45:00
+6631303383,45.737877,4.814763,174,hole wall orange cube jakob macfarlane lyon france building architecture lyon jakob macfarlane canonefs mmf isusm orangecube canoneos flickraward confluances cubeorange,2011,11,12,23,40,216603600.0,undef,2011-11-12 23:40:00
+8657556211,45.737833,4.814666,174,photo confluence villedelyon lyoncity quartierdelaconfuence,2013,3,23,12,42,259504920.0,undef,2013-03-23 12:42:00
+16061402062,45.737952,4.814672,174,cube orange orange france building architecture lyon laconfluence,2014,9,28,12,6,307368360.0,undef,2014-09-28 12:06:00
+15868253680,45.737952,4.814672,174,silo trio france lyon silo laconfluence,2014,9,28,13,1,307371660.0,undef,2014-09-28 13:01:00
+16054853002,45.737952,4.814672,174,urban green france building green architecture lyon laconfluence,2014,9,28,12,53,307371180.0,undef,2014-09-28 12:53:00
+18243744106,45.737952,4.814672,174,orange abstraction orange france building architecture lyon laconfluence,2014,9,28,13,17,307372620.0,undef,2014-09-28 13:17:00
+18270185155,45.737952,4.814672,174,perforation france building green architecture lyon laconfluence,2014,9,28,12,49,307370940.0,undef,2014-09-28 12:49:00
+17196488479,45.737886,4.814802,174, blackandwhite france bike bicycle square skeleton lyon mmf lusm canoneos michaelflocco,2015,5,2,10,50,326026200.0,undef,2015-05-02 10:50:00
+20946012416,45.737952,4.814672,174,hole orange orange building architecture river rhne confluence lyon,2015,8,15,11,59,335102340.0,undef,2015-08-15 11:59:00
+15990811041,45.737952,4.814672,174,orange hole orange france building architecture lyon laconfluence,2014,9,28,13,16,307372560.0,undef,2014-09-28 13:16:00
+15990809781,45.737952,4.814672,174,left right france mural lyon right silo left gauche droite laconfluence,2014,9,28,12,59,307371540.0,undef,2014-09-28 12:59:00
+15982600282,45.737952,4.814672,174,green hole france building green architecture lyon explore laconfluence,2014,9,28,12,47,307370820.0,undef,2014-09-28 12:47:00
+15965972711,45.737952,4.814672,174,cube orange orange france building architecture river lyon laconfluence,2014,9,28,12,5,307368300.0,undef,2014-09-28 12:05:00

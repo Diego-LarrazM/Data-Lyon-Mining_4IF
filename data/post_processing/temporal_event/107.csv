@@ -1,0 +1,57 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken,year_month
+4474950581,45.759836,4.829864,107,larbre ,2010,3,14,15,46,164043960.0,Site d'Intérêt,2010-03-14 15:46:00,2010-03
+4522561053,45.759991,4.829835,107, france tree river flow stream lyon run willow tear runner weepingwillow quai jogger fleuve larme saule pleureur sane courrir saulepleureur,2010,4,13,18,53,166647180.0,Site d'Intérêt,2010-04-13 18:53:00,2010-04
+5100027185,45.759955,4.829928,107,tower france reflection church water night river cathedral lyon,2010,10,16,21,14,182726040.0,Site d'Intérêt,2010-10-16 21:14:00,2010-10
+4167578886,45.759862,4.829982,107,basilique fourvire lyon ville,2009,12,5,11,57,155476620.0,Site d'Intérêt,2009-12-05 11:57:00,2009-12
+5254237171,45.759833,4.829833,107,blue faith raw,2010,12,11,23,20,187572000.0,Site d'Intérêt,2010-12-11 23:20:00,2010-12
+5650137874,45.760083,4.82995,107,cathdrale saintjeanbaptiste basilique fourvire canon lyon vieuxlyon tamronspaf mmf xrdiiildasphericalif,2011,4,24,16,43,199125780.0,Site d'Intérêt,2011-04-24 16:43:00,2011-04
+5649573163,45.760083,4.82995,107,passerelle palais justice canon lyon vieuxlyon tamronspaf mmf xrdiiildasphericalif,2011,4,24,16,40,199125600.0,Site d'Intérêt,2011-04-24 16:40:00,2011-04
+6018695393,45.759888,4.829821,107,fourvire building nikon lyon saone fourviere,2010,11,7,17,10,184612200.0,Site d'Intérêt,2010-11-07 17:10:00,2010-11
+6019226556,45.759888,4.829821,107,fourvire fte lumires nikon jean lyon saone lumieres fete cathedrale fourviere,2010,12,8,23,43,187314180.0,Site d'Intérêt,2010-12-08 23:43:00,2010-12
+6704457043,45.759918,4.829923,107,lyon sane quai clestins pont bonaparte passerelle palais justice cathdrale saintjean fourvire lyon saintjean fourvire sane,2012,1,16,0,38,222136680.0,Site d'Intérêt,2012-01-16 00:38:00,2012-01
+8374200844,45.759886,4.830013,107,quartier st jean france canon eau lyon paysage fleuve rhone ftedeslumires rhonealpes vieuxlyon paysageurbain quaidesane basiliquedefourvire quartierstjean formatpanoramique canoneos efs mmf isusm sanefleuve,2012,12,9,20,57,250549020.0,Site d'Intérêt,2012-12-09 20:57:00,2012-12
+8373126283,45.759886,4.830013,107,palais justice france canon lyon paysage rhone ftedeslumires rhonealpes vieuxlyon paysageurbain quaidesane quartierstjean canoneos formatpaysage efs mmf isusm,2012,12,9,20,57,250549020.0,Site d'Intérêt,2012-12-09 20:57:00,2012-12
+8256529811,45.759978,4.829896,107, lyon lumires ftedeslumires,2012,12,8,22,20,250467600.0,Site d'Intérêt,2012-12-08 22:20:00,2012-12
+8257598558,45.759978,4.829896,107, lyon lumires ftedeslumires,2012,12,8,22,16,250467360.0,Site d'Intérêt,2012-12-08 22:16:00,2012-12
+8256527877,45.759978,4.829896,107, lyon lumires ftedeslumires,2012,12,8,22,17,250467420.0,Site d'Intérêt,2012-12-08 22:17:00,2012-12
+8256526935,45.759978,4.829896,107, lyon lumires ftedeslumires,2012,12,8,22,23,250467780.0,Site d'Intérêt,2012-12-08 22:23:00,2012-12
+8256526363,45.759978,4.829896,107, lyon lumires ftedeslumires,2012,12,8,22,21,250467660.0,Site d'Intérêt,2012-12-08 22:21:00,2012-12
+8256525413,45.759978,4.829896,107, lyon lumires ftedeslumires,2012,12,8,22,23,250467780.0,Site d'Intérêt,2012-12-08 22:23:00,2012-12
+8257593842,45.759978,4.829896,107, lyon lumires ftedeslumires,2012,12,8,22,23,250467780.0,Site d'Intérêt,2012-12-08 22:23:00,2012-12
+8257592806,45.759978,4.829896,107, lyon lumires ftedeslumires,2012,12,8,22,25,250467900.0,Site d'Intérêt,2012-12-08 22:25:00,2012-12
+8256521933,45.759978,4.829896,107, lyon lumires ftedeslumires,2012,12,8,22,27,250468020.0,Site d'Intérêt,2012-12-08 22:27:00,2012-12
+8256520065,45.759978,4.829896,107, lyon lumires ftedeslumires,2012,12,8,22,24,250467840.0,Site d'Intérêt,2012-12-08 22:24:00,2012-12
+8256519131,45.759978,4.829896,107, lyon lumires ftedeslumires,2012,12,8,22,23,250467780.0,Site d'Intérêt,2012-12-08 22:23:00,2012-12
+8256518115,45.759978,4.829896,107, lyon lumires ftedeslumires,2012,12,8,22,23,250467780.0,Site d'Intérêt,2012-12-08 22:23:00,2012-12
+8257586516,45.759978,4.829896,107, lyon lumires ftedeslumires,2012,12,8,22,19,250467540.0,Site d'Intérêt,2012-12-08 22:19:00,2012-12
+8246252823,45.759918,4.829923,107,pont bonaparte sane palais saintjean cathdrale saintjean fourvire lancien palais justice lyon fourvire cathdralesaintjean sane pontbonaparte palaissaintjean ancienpalaisdejustice,2012,12,5,13,33,250176780.0,Site d'Intérêt,2012-12-05 13:33:00,2012-12
+13962936879,45.75988,4.829973,107, ,2014,4,19,17,52,293392320.0,Site d'Intérêt,2014-04-19 17:52:00,2014-04
+14537677776,45.759886,4.829916,107, lyon eurobiketourday,2014,6,21,22,21,298851660.0,Site d'Intérêt,2014-06-21 22:21:00,2014-06
+14890616987,45.759853,4.829914,107,lyon night fr travel hdr topaz europe france rhnealpes rhne lyon summer night unesco canon vieuxlyon vieux old passerelledupalaisdejustice tthdr,2014,8,15,21,13,303599580.0,Site d'Intérêt,2014-08-15 21:13:00,2014-08
+14860548250,45.759853,4.829914,107,vieux lyon night fr travel europe france rhnealpes rhne lyon summer night unesco canon vieuxlyon vieux old bluehour light bridge panorama,2014,8,15,21,25,303600300.0,Site d'Intérêt,2014-08-15 21:25:00,2014-08
+14803867417,45.760033,4.829924,107,angrybird lyon france angrybirdtour,2014,8,21,12,18,304085880.0,Site d'Intérêt,2014-08-21 12:18:00,2014-08
+15321642466,45.760008,4.829971,107,batelier boat city france river boat frankreich lyon stadt schiff saone flu batelier,2014,9,13,19,13,306097980.0,Site d'Intérêt,2014-09-13 19:13:00,2014-09
+14973549939,45.760075,4.82995,107, ,2014,9,5,18,22,305403720.0,Site d'Intérêt,2014-09-05 18:22:00,2014-09
+15137252096,45.760075,4.82995,107, ,2014,9,5,18,23,305403780.0,Site d'Intérêt,2014-09-05 18:23:00,2014-09
+15480882377,45.760121,4.82995,107,lyon sane fourvire france night river lyon rivire nuit sane,2014,10,27,20,16,309903360.0,Site d'Intérêt,2014-10-27 20:16:00,2014-10
+16636168402,45.75993,4.82993,107,lescalier france monochrome architecture eau lyon noiretblanc fujifilm paysage nuit escalier fleuve rhone passerelle rhonealpes presqule poselongue paysageurbain quaidesane formatpaysage sanefleuve xf mmf rlmois fujifilmxt,2015,2,22,19,27,320095620.0,Site d'Intérêt,2015-02-22 19:27:00,2015-02
+15451803804,45.759896,4.829875,107,convergence show light bw ray lyon nb lumiere rayon convergence fourviere spectacle saintjean fetedeslumieres,2014,12,7,19,51,313444260.0,Site d'Intérêt,2014-12-07 19:51:00,2014-12
+19072537133,45.759955,4.829961,107, lyon lumires fete,2012,12,9,20,12,250546320.0,Site d'Intérêt,2012-12-09 20:12:00,2012-12
+19505422150,45.759902,4.829938,107, lyon lumires fete,2012,12,9,20,21,250546860.0,Site d'Intérêt,2012-12-09 20:21:00,2012-12
+19070815584,45.759938,4.829919,107, lyon lumires fete,2012,12,9,20,26,250547160.0,Site d'Intérêt,2012-12-09 20:26:00,2012-12
+19730766873,45.760005,4.829997,107,passerelle palais justice lyon france lyon pont rhnealpes passerelledupalaisdejustice,2015,5,24,11,16,327928560.0,Site d'Intérêt,2015-05-24 11:16:00,2015-05
+19643681064,45.759875,4.829986,107,basilique dame fourvire cathdrale saintjeanbaptiste lyon france lyon rhnealpes cathdralesaintjeanbaptiste labasiliquenotredamedefourvire,2015,5,23,20,2,327873720.0,Site d'Intérêt,2015-05-23 20:02:00,2015-05
+21997453233,45.760105,4.829938,107,lyon france p city longexposure trip travel light france monument night canon river eos town europe nightshot lyon dusk rhne bluehour dslr fluss ville fleuve rhone sane saone heurebleue cuida,2015,10,30,18,1,341690460.0,Site d'Intérêt,2015-10-30 18:01:00,2015-10
+15991101751,45.759978,4.829853,107,fte lumires ,2014,12,8,22,27,313540020.0,Site d'Intérêt,2014-12-08 22:27:00,2014-12
+15961615636,45.759978,4.829853,107,fte lumires lyon,2014,12,8,22,30,313540200.0,Site d'Intérêt,2014-12-08 22:30:00,2014-12
+15800114030,45.759978,4.829853,107,fte lumires lyon,2014,12,8,22,31,313540260.0,Site d'Intérêt,2014-12-08 22:31:00,2014-12
+15954456006,45.759896,4.830014,107,fte lumires lyon festivaloflights ftedeslumires,2014,12,9,3,28,313558080.0,Site d'Intérêt,2014-12-09 03:28:00,2014-12
+15980216195,45.759896,4.830014,107,fte lumires lyon firework festivaloflights ftedeslumires,2014,12,9,3,27,313558020.0,Site d'Intérêt,2014-12-09 03:27:00,2014-12
+26269972755,45.759858,4.829885,107,lyon riverfront street travel bridge france street reflection travelling church reflection river religious travel europe catholic cathedral lyon exploring traveller religion bridge church cathedral travelling wanderlust explore traveling streetscape traveler travelblog rhone travelphotography catholic catholism travelphotographer travelblogs travelblogger traveling travelbloggers travelphotographers travelblogging weekendwayfarers,2016,4,3,8,49,355135740.0,Site d'Intérêt,2016-04-03 08:49:00,2016-04
+30884936306,45.76,4.83,107, ,2016,10,29,17,33,373224780.0,Site d'Intérêt,2016-10-29 17:33:00,2016-10
+23666977342,45.759961,4.830033,107,hommage victimes lyon sony sigma hommage fte tamron lumires victimes attentats,2015,12,8,21,33,345072780.0,Site d'Intérêt,2015-12-08 21:33:00,2015-12
+33995166521,45.76003,4.829896,107,petit matin bords sane lyon sane,2017,4,18,22,5,388015500.0,Site d'Intérêt,2017-04-18 22:05:00,2017-04
+37078231030,45.75993,4.829944,107,quai sane lyon lyon nicolassavignat night nightscape nisi nisifiltersfrance nisinaturalnight auvergnerhnealpes france fr,2017,9,20,19,41,401398860.0,Site d'Intérêt,2017-09-20 19:41:00,2017-09
+27860723907,45.759926,4.829982,107,saintjean fourvire pont bonaparte ,2018,6,9,22,10,424044600.0,Site d'Intérêt,2018-06-09 22:10:00,2018-06
+38218960914,45.759936,4.829961,107,fte lumires fetedeslumieres fetedeslumieres lyon nicolassavignat auvergnerhnealpes france fr,2017,12,7,21,18,408143880.0,Site d'Intérêt,2017-12-07 21:18:00,2017-12
+32955597188,45.760068,4.830025,107,saintjean fourvire dusk saintjean lyon night long exposure light,2019,8,9,17,42,460834920.0,Site d'Intérêt,2019-08-09 17:42:00,2019-08

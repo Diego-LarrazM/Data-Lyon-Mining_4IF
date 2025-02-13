@@ -1,0 +1,63 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+5176521064,45.76405,4.828126,271,lamp travel france lyon rhne lamp vieuxlyon,2010,11,14,23,23,185239380.0,undef,2010-11-14 23:23:00
+5145151800,45.764,4.828167,271,breaking new shoe cobblestone street lyon france myfeet,2010,11,3,22,40,184286400.0,undef,2010-11-03 22:40:00
+5405204704,45.764136,4.828222,271,petite musique france st alpes canon eos jean lyon rhne age personne vieille boite clement age musqiue,2011,1,31,17,24,191957040.0,undef,2011-01-31 17:24:00
+5402071446,45.764136,4.828222,271,fond porte france alpes canon eos lyon rhne clement,2011,1,30,17,46,191871960.0,undef,2011-01-30 17:46:00
+6149204837,45.764,4.828167,271,watch pruppets dr brule ,2011,9,14,18,4,211485840.0,undef,2011-09-14 18:04:00
+6203581918,45.76413,4.828248,271,beaune fr beaune frbeaune,2011,7,9,14,50,205685400.0,undef,2011-07-09 14:50:00
+6903107129,45.764035,4.828281,271,img f ,2012,2,18,15,37,225041820.0,undef,2012-02-18 15:37:00
+6903067987,45.764106,4.828271,271,img f ,2012,2,18,14,11,225036660.0,undef,2012-02-18 14:11:00
+6903063323,45.763979,4.828239,271,img f ,2012,2,18,14,4,225036240.0,undef,2012-02-18 14:04:00
+6494651935,45.764038,4.82818,271, lyon ftesdeslumires,2011,12,9,15,6,218905560.0,undef,2011-12-09 15:06:00
+6494647009,45.764038,4.82818,271, lyon ftesdeslumires,2011,12,9,15,6,218905560.0,undef,2011-12-09 15:06:00
+6494644877,45.764038,4.82818,271, lyon ftesdeslumires,2011,12,9,15,4,218905440.0,undef,2011-12-09 15:04:00
+6494641341,45.764038,4.82818,271, lyon ftesdeslumires,2011,12,9,15,3,218905380.0,undef,2011-12-09 15:03:00
+8151727591,45.76405,4.82814,271,building france geotagged lyon rhne rhone rhonealpes rhnealpes geolat geolon,2012,11,3,13,17,247411020.0,undef,2012-11-03 13:17:00
+8403225382,45.764155,4.82818,271,rue saintjean france sign baker lyon display board chef figure bake vieuxlyon ruesaintjean bredz,2012,12,11,11,49,250688940.0,undef,2012-12-11 11:49:00
+9235109528,45.764042,4.828201,271,rue fronde lyon france france silver photography gold photographie lyon award lombard pierrealain masterpal,2013,5,4,22,3,263167380.0,undef,2013-05-04 22:03:00
+9547819720,45.764166,4.828166,271,montmartre ,2013,7,18,22,39,269649540.0,undef,2013-07-18 22:39:00
+9545028329,45.764166,4.828166,271,montmartre ,2013,7,18,22,38,269649480.0,undef,2013-07-18 22:38:00
+9532017616,45.764166,4.828166,271,lyon ,2013,7,18,22,39,269649540.0,undef,2013-07-18 22:39:00
+9532016678,45.764166,4.828166,271,lyon ,2013,7,18,22,38,269649480.0,undef,2013-07-18 22:38:00
+14361434436,45.764015,4.828244,271, france sil,2014,6,8,13,56,297698160.0,undef,2014-06-08 13:56:00
+14381171471,45.764015,4.828244,271, france,2014,6,8,13,50,297697800.0,undef,2014-06-08 13:50:00
+14551609588,45.764077,4.828172,271, ,2014,6,8,19,52,297719520.0,undef,2014-06-08 19:52:00
+14715246816,45.764077,4.828172,271, ,2014,6,8,19,12,297717120.0,undef,2014-06-08 19:12:00
+14737966192,45.764077,4.828172,271, ,2014,6,8,19,12,297717120.0,undef,2014-06-08 19:12:00
+14735889544,45.764077,4.828172,271, ,2014,6,8,19,12,297717120.0,undef,2014-06-08 19:12:00
+14715242646,45.764077,4.828172,271, ,2014,6,8,19,12,297717120.0,undef,2014-06-08 19:12:00
+14551579440,45.764077,4.828172,271, ,2014,6,8,19,11,297717060.0,undef,2014-06-08 19:11:00
+14551617589,45.764077,4.828172,271, ,2014,6,8,19,11,297717060.0,undef,2014-06-08 19:11:00
+14551616909,45.764077,4.828172,271, ,2014,6,8,19,11,297717060.0,undef,2014-06-08 19:11:00
+14507057199,45.764113,4.828126,271,laundry traboule france lyon vieuxlyon,2014,7,11,15,23,300554580.0,undef,2014-07-11 15:23:00
+15448470297,45.764127,4.828272,271,vecchia lione france lyon lione francia vieuxlyon,2014,10,3,22,58,307839480.0,undef,2014-10-03 22:58:00
+11326006385,45.764088,4.828252,271,vieux lyon france canon geotagged eos lyon vieux rhnealpes cdlcreative geolat geolon,2013,12,6,11,38,281792280.0,undef,2013-12-06 11:38:00
+19432910941,45.764012,4.828147,271, ,2015,7,4,16,49,331490940.0,undef,2015-07-04 16:49:00
+18806183304,45.764012,4.828147,271, ,2015,7,4,16,41,331490460.0,undef,2015-07-04 16:41:00
+20793987449,45.76405,4.828126,271,enjoying vieuxlyon lyon unescoworldheritage vieuxlyon,2015,8,13,9,41,334921260.0,undef,2015-08-13 09:41:00
+20760429010,45.76405,4.828201,271, ,2015,8,27,17,7,336157620.0,undef,2015-08-27 17:07:00
+26355531125,45.764012,4.828212,271,tarte fruites rouge food window dessert nikon berry lyon strawberry patisserie bakery pastry raspberry redfruittart tartefruitsrouge,2015,8,14,6,19,334995540.0,undef,2015-08-14 06:19:00
+26250713822,45.764038,4.828177,271,lyon thtre guignol france lyon rhne village tourisme villes guignol filoer,2016,4,10,11,50,355751400.0,undef,2016-04-10 11:50:00
+26701506242,45.764086,4.828202,271,enter risk france architecture fr rhonealpes lyon earrondissement,2015,7,11,12,23,332079780.0,undef,2015-07-11 12:23:00
+26469637310,45.764086,4.828202,271,old town courtyard france architecture fr rhonealpes lyon earrondissement,2015,7,11,12,13,332079180.0,undef,2015-07-11 12:13:00
+26675923061,45.764086,4.828202,271,old town courtyard france architecture fr rhonealpes lyon earrondissement,2015,7,11,12,13,332079180.0,undef,2015-07-11 12:13:00
+26675922221,45.764086,4.828202,271,old town courtyard france architecture fr rhonealpes lyon earrondissement,2015,7,11,12,19,332079540.0,undef,2015-07-11 12:19:00
+26138534923,45.764086,4.828202,271,old town courtyard france architecture fr rhonealpes lyon earrondissement,2015,7,11,12,19,332079540.0,undef,2015-07-11 12:19:00
+27832683295,45.764163,4.828227,271, ,2016,6,15,9,45,361446300.0,undef,2016-06-15 09:45:00
+30121810341,45.764102,4.82819,271,vieux lyon ,2016,10,6,10,57,371213820.0,undef,2016-10-06 10:57:00
+35344117482,45.76402,4.828222,271,rue saintjean vieux lyon boulangerie patisserie bredz sculpture lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop boulangeriepatisseriebredz sculpture breadshop,2017,6,3,10,43,391948980.0,undef,2017-06-03 10:43:00
+34669981334,45.76402,4.828222,271,rue saintjean vieux lyon boulangerie patisserie bredz lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop boulangeriepatisseriebredz sculpture breadshop bunting frenchflag franceflag balcony balcony,2017,6,3,10,43,391948980.0,undef,2017-06-03 10:43:00
+35124809100,45.76402,4.828222,271,rue saintjean vieux lyon guignol lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop guignol puppettheatre lepetitmusedeguignol thelittlemuseumofguignol laurentmourguet frenchpuppetshow workersinthesilkindustryoffrance polichinelle,2017,6,3,10,44,391949040.0,undef,2017-06-03 10:44:00
+34701536343,45.76402,4.828222,271,rue saintjean vieux lyon pirate candy lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop thepiratescandies,2017,6,3,10,44,391949040.0,undef,2017-06-03 10:44:00
+34669930834,45.76402,4.828222,271,subway rue saintjean vieux lyon lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop subway salade sandwich,2017,6,3,10,43,391948980.0,undef,2017-06-03 10:43:00
+35848760500,45.764199,4.828222,271,serious young man street straat rue strasse portrait portret ritratto retrato candid man male homme hombre uomo young jong jeune jung tanned handsome sunglass zonnebril lunettessolaires lyon france frankrijk frankreich frana francia europa europe rhnealpes portrt mand,2017,7,21,11,21,396098460.0,undef,2017-07-21 11:21:00
+36347078740,45.764087,4.828222,271,asian man glass europa europe france frankrijk frankreich frana francia lyon candid portrait portret ritratto retrato face gezicht gesicht visage man male homme hombre uomo bril lunette glass earring oorbel boucledoreille streetportrait rhnealpes portrt mand,2017,7,21,11,27,396098820.0,undef,2017-07-21 11:27:00
+36353852952,45.764087,4.828222,271,man blue shirt glass man male homme hombre uomo glass bril lunette brille lyon streetportrait portrait portret ritratto retrato shirt hemd overhemd chemise blue bleu blauw blau azul france frankrijk frankreich frana francia candid face gezicht visage gesicht rhnealpes portrt mand,2017,7,21,11,27,396098820.0,undef,2017-07-21 11:27:00
+35544650273,45.764125,4.828244,271,handsome bearded man man male homme hombre uomo face gezicht visage portrait portret ritratto retrato beard baard barbe profiel profile handsome lyon france frankrijk frankreich frana francia rhnealpes portrt mand,2017,7,21,11,29,396098940.0,undef,2017-07-21 11:29:00
+37169618446,45.76405,4.828147,271,corner cafe cobblestone statue cafe restaurant table chair menuboard plant lyon oldtown lamppost streetlamp,2017,6,5,16,8,392141280.0,undef,2017-06-05 16:08:00
+29107333887,45.763982,4.828137,271,immeubles traboule vieux lyon lyon auvergnerhnealpes france claudelina france auvergnerhnealpes lyon ville town city vieuxlyon traboule immeubles building,2018,7,23,17,2,427827720.0,undef,2018-07-23 17:02:00
+43202684544,45.764184,4.828212,271,vieux lyon lyon auvergnerhnealpes france claudelina france auvergnerhnealpes lyon ville town city vieuxlyon,2018,7,31,17,48,428521680.0,undef,2018-07-31 17:48:00
+43100432354,45.763982,4.828137,271,vieux lyon lyon auvergnerhnealpes france claudelina france auvergnerhnealpes lyon ville town city vieuxlyon,2018,5,25,14,20,422720400.0,undef,2018-05-25 14:20:00
+43675243701,45.764193,4.82822,271,vieuxlyon lyon francja france ulica street,2018,6,6,10,58,423745080.0,undef,2018-06-06 10:58:00
+33290156358,45.764002,4.828197,271,rue saint jean lyon ,2019,2,14,12,5,445608300.0,undef,2019-02-14 12:05:00
+46251160815,45.764202,4.828163,271,rue saint jean lyon ,2019,2,14,12,7,445608420.0,undef,2019-02-14 12:07:00

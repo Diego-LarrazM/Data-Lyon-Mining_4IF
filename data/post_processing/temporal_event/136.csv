@@ -1,0 +1,60 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4175221314,45.757403,4.833168,136, ,2009,12,7,23,53,-1.661163556549707,undef
+5468118672,45.757163,4.833115,136,lyon place bellecour ,2011,1,28,8,20,-1.252196693073616,undef
+5280724753,45.757399,4.833131,136,dsc ,2010,12,8,18,47,-1.3018643658837286,undef
+5249881359,45.757324,4.833158,136, france light lyon fete lumieres fetedeslumieres,2010,12,10,20,59,-1.299809801032616,undef
+5534273219,45.757328,4.833179,136,grande roue france geotagged frankreich lyon velo fahrrad mrz riesenrad frhling peekm,2011,3,9,11,43,-1.2127677381968365,undef
+5849030184,45.757178,4.833104,136,nature capitale lyon panorama france panoramique lyonnaturecapitale,2011,6,19,16,39,-1.1123750965874928,undef
+6004048699,45.757373,4.833158,136, ,2011,7,31,12,24,-1.0712940314619102,undef
+6229587181,45.757286,4.833105,136, france lyon,2011,8,15,14,55,-1.056457099165579,undef
+6230103960,45.757286,4.833105,136, france lyon,2011,8,15,13,24,-1.056519172672037,undef
+6230103258,45.757286,4.833105,136, france lyon,2011,8,15,13,24,-1.056519172672037,undef
+6230102738,45.757286,4.833105,136, france lyon,2011,8,15,13,24,-1.056519172672037,undef
+6230102296,45.757286,4.833105,136, france lyon,2011,8,15,13,24,-1.056519172672037,undef
+6230101736,45.757286,4.833105,136, france lyon,2011,8,15,13,24,-1.056519172672037,undef
+6229583885,45.757286,4.833105,136, france lyon,2011,8,15,13,24,-1.056519172672037,undef
+6230100696,45.757286,4.833105,136, france lyon,2011,8,15,13,4,-1.0565328152009288,undef
+6973264173,45.757277,4.833111,136,lyon france night angle minolta lyon sony grand uga alpha,2012,2,29,20,48,-0.8617284166484285,undef
+8332294025,45.757261,4.833136,136,sans titre blue light colour green k grande neon place lyon pentax perspective vert x ombre fete nuit lumieres eclairage manege roue bellecour kx nacelle graphism bleur,2009,2,9,12,28,-1.95729169930842,undef
+8718361844,45.757377,4.833125,136,louis xiv people horse france cheval louis europe king lyon place pferd personnes roi fourvire,2013,5,5,17,41,-0.4385010177216869,undef
+8715864355,45.757377,4.833125,136,manif tous famille people demonstration enfant personnes manifestation drapeau,2013,5,5,16,53,-0.4385337597910274,undef
+8714328705,45.757377,4.833125,136,frigide barjot people personnes barjot frigide,2013,5,5,17,51,-0.4384941964572409,undef
+8714323471,45.757377,4.833125,136,manif tous people girl hat chapeau personnes,2013,5,5,17,53,-0.4384928322043518,undef
+8715443064,45.757377,4.833125,136,louis xiv people horse cheval louis king pferd personnes roi,2013,5,5,17,42,-0.4385003355952423,undef
+9709523688,45.757188,4.833091,136,driving back lyon france lyon rhonealpes,2013,8,27,18,1,-0.3265094980484926,undef
+12495954845,45.757418,4.833179,136,alone city lyon bellecour,2011,1,6,16,57,-1.2734537994664514,undef
+14200277529,45.757305,4.833119,136,championnat ptanque france europe place lyon place chaise championnat placebellecour ptanque,2014,6,7,18,22,-0.0475327426126132,undef
+14519374219,45.757325,4.8331,136, ,2014,7,17,9,0,-0.008625614465947,undef
+15235759411,45.757418,4.833179,136,sun big wheel lyon panasonic placebellecour,2009,1,17,17,5,-1.9796947781281704,undef
+11297371646,45.757448,4.833126,136,fte lumires lyon france lyon fete lumieres rhone,2013,12,9,23,9,-0.2241441467613874,undef
+11279235076,45.757268,4.833136,136,fte lumires lyon fetedeslumires fujifilmx,2013,12,8,20,31,-0.2252341848198462,undef
+21873644459,45.757343,4.833126,136,place bellecour france square europa europe raw lyon frana f praa ue rhonealpes placebellecour bellecoursquare panasonicdmcgf amricoaperta p praabellecour,2015,5,29,15,11,0.3020222717923614,undef
+23150635835,45.757388,4.833126,136,installation mange granderoue,2015,11,18,17,39,0.4720545663830411,undef
+15801377619,45.757201,4.833115,136,fte lumires lyon canonef mmf,2014,12,8,21,50,0.133345362447087,undef
+15800114350,45.757201,4.833115,136,fte lumires lyon canonef mmf,2014,12,8,21,46,0.1333426339413086,undef
+15364107644,45.757418,4.833126,136,place bellecour fte lumires lyon france light light grande place lyon illumination fte lumires granderoue roue bellecour fetedeslumires,2014,12,5,23,20,0.1304599675864607,undef
+23995864604,45.757381,4.833158,136, grande roue,2015,2,14,14,38,0.1998445052775192,undef
+29587846094,45.757411,4.83319,136,lyon place bellecour france rhne villes village tourisme filoer,2016,9,24,17,6,0.7775155631566684,undef
+29587991333,45.757411,4.83319,136,lyon grande roue place bellecour france rhne villes village tourisme filoer,2015,12,8,21,9,0.4918430545406692,undef
+30514781614,45.757293,4.83311,136,lyon entre grande roue place bellecour lyon rhone granderoue placebellecour entre caisses lumires flashy leica q,2016,11,23,18,8,0.836493579809024,undef
+31193237662,45.757183,4.833117,136,lyon grande roue place bellecour lyon rhone granderoue placebellecour roue cercle rond nuit leica q,2016,11,23,18,16,0.8364990368205807,undef
+32967779371,45.757263,4.833186,136,rf nuit place bellecour fetedeslumieres lyon,2014,12,5,23,22,0.1304613318393499,undef
+33053021976,45.757263,4.833186,136,rf nuit place bellecour fetedeslumieres lyon,2014,12,5,23,16,0.1304572390806824,undef
+33094718325,45.757263,4.833186,136,rf nuit place bellecour fetedeslumieres lyon,2014,12,5,23,9,0.1304524641955702,undef
+32639255620,45.757397,4.833152,136,lyob place bellecour lyon auvergnerhnealpes francia france noria ferriswheel,2017,2,3,16,58,0.9071687007332512,undef
+32703081841,45.75735,4.833158,136,lyon place bellecour lyon rhnealpes france francia urban street plaza square wheel,2017,2,3,9,21,0.9068569689480726,undef
+35636138945,45.757327,4.833111,136, ,2017,6,30,19,40,1.0516717310086128,undef
+38605669156,45.757263,4.833104,136,faire roue bellecour lyon,2017,11,26,18,10,1.197967389580363,undef
+31232391500,45.757183,4.833117,136,lyon grande roue place bellecour lors illumination ,2016,12,8,22,59,0.851426009807598,undef
+39920889702,45.757183,4.833117,136,lyon grande roue place bellecour lyon rhone placebellecour granderoue nuit europarad reflets flaquedeau leica q,2018,1,27,18,11,1.2588683206800249,undef
+24150064517,45.757302,4.833105,136,lyon fte lumires place bellecour promenonsnous ,2017,12,10,19,57,1.211792046232919,undef
+41429893092,45.757403,4.833104,136,place bellecour france lyon citytrip nightphotography square statue fourvire basilica,2013,10,21,20,7,-0.2723991357047491,undef
+42852121324,45.757367,4.833156,136,place bellecour lyon francja france plac square,2018,6,3,16,21,1.3835405709581934,undef
+27110966279,45.757161,4.833119,136,ftes lumires fetedeslumieres fetedeslumieres lyon nicolassavignat auvergnerhnealpes france fr,2017,12,5,21,25,1.2069407629589772,undef
+40141363443,45.757183,4.833117,136,lyon grande roue place bellecour lyon rhne place bellecour granderoue rad wheel,2019,2,14,11,3,1.634782747283387,undef
+46382463434,45.757183,4.833117,136,lyon grande roue place bellecour lyon rhne place bellecour granderoue contrejour,2019,2,14,11,2,1.6347820651569422,undef
+46382463314,45.757183,4.833117,136,lyon grande roue place bellecour lyon rhne place bellecour granderoue noiretblanc bw rad wheel,2019,2,12,15,41,1.6330078542745572,undef
+31533120227,45.757193,4.833168,136,lyon dsc ,2018,12,22,16,26,1.5819609217934787,undef
+32562757228,45.757193,4.833168,136,lyon dsc ,2018,12,22,16,21,1.5819575111612556,undef
+46207208851,45.757193,4.833168,136,lyony lyon bellecour louis xiv,2018,12,5,19,35,1.5653913883278825,undef
+47763745492,45.757283,4.833126,136,lilyange rouge lyon lolitaisen robe gothique shooting amlia webserie fourvire lyonnaise,2017,2,25,18,29,0.9288405400043992,undef

@@ -1,0 +1,25 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+4175588923,45.760023,4.831495,268,lumignons coeur color night light december place lyon lumire illumination illumination fte nuit bougies festivaloflights couleur lampions dcoration lampion lumires bougie dcembre dcor spectacle ftedeslumires lugdunum placedesclestins rhonealpes lumingons,2009,12,6,22,23,155600580.0,undef,2009-12-06 22:23:00
+4879997893,45.759955,4.831506,268,thtre clestins lyon theatredescelestins,2010,8,10,21,36,176938560.0,undef,2010-08-10 21:36:00
+4879997351,45.759955,4.831506,268,thtre clestins lyon theatredescelestins,2010,8,10,21,40,176938800.0,undef,2010-08-10 21:40:00
+4880606886,45.759955,4.831506,268,thtre clestins lyon theatredescelestins,2010,8,10,21,42,176938920.0,undef,2010-08-10 21:42:00
+4880605848,45.759955,4.831506,268,thtre clestins ,2010,8,10,21,43,176938980.0,undef,2010-08-10 21:43:00
+4979320938,45.75996,4.831516,268,teatro france lyon lione francia rhnealpes unescu rodanoalpi,2010,8,12,10,44,177072240.0,undef,2010-08-12 10:44:00
+5399373102,45.759866,4.831538,268, lyon lumire fte,2010,12,8,23,22,187312920.0,undef,2010-12-08 23:22:00
+7006280447,45.759911,4.831495,268,fleurs printemps celestins lyon france ,2012,3,22,11,47,227879220.0,undef,2012-03-22 11:47:00
+8082105770,45.759985,4.831527,268, france lyon parking buren clestins,2012,9,10,16,46,242757960.0,undef,2012-09-10 16:46:00
+8082105688,45.759985,4.831527,268, france lyon parking buren clestins,2012,9,10,16,47,242758020.0,undef,2012-09-10 16:47:00
+8282662431,45.759955,4.831473,268,fte lumires ,2012,12,6,19,17,250283820.0,undef,2012-12-06 19:17:00
+8282662345,45.759955,4.831473,268,fte lumires ,2012,12,6,19,18,250283880.0,undef,2012-12-06 19:18:00
+8283721004,45.759955,4.831473,268,fte lumires ,2012,12,6,19,27,250284420.0,undef,2012-12-06 19:27:00
+8283720928,45.759955,4.831473,268,fte lumires ,2012,12,6,19,24,250284240.0,undef,2012-12-06 19:24:00
+8282662153,45.759955,4.831473,268,fte lumires ,2012,12,6,19,24,250284240.0,undef,2012-12-06 19:24:00
+8283720778,45.759955,4.831473,268,fte lumires ,2012,12,6,19,16,250283760.0,undef,2012-12-06 19:16:00
+13605243345,45.759933,4.831531,268,thtre clestins place clestins lyon thtre clestins lyon kalidoscope placedesclestins,2014,3,13,14,15,290182500.0,undef,2014-03-13 14:15:00
+25517716464,45.75996,4.83149,268,vieux port marseille france much like probably many century ago paintinglike scene waiting admired passerby marseille genuinely cultural capital europe assim como provavelmente foi sculos square lofi squareformat iphoneography instagramapp uploadedbyinstagram,2016,3,30,2,19,354766740.0,undef,2016-03-30 02:19:00
+33094681305,45.759958,4.83148,268,fantaisies chromatiques thatre clestins fetedeslumieres lyon,2014,12,7,22,48,313454880.0,undef,2014-12-07 22:48:00
+33094680015,45.759958,4.83148,268,fantaisies chromatiques thatre clestins fetedeslumieres lyon,2014,12,7,22,44,313454640.0,undef,2014-12-07 22:44:00
+32537810955,45.75993,4.831514,268, hbarrison harveybarrison france lyon,2016,8,22,13,10,367333800.0,undef,2016-08-22 13:10:00
+32537414525,45.75993,4.831514,268, hbarrison harveybarrison france lyon,2016,8,22,13,10,367333800.0,undef,2016-08-22 13:10:00
+27805896237,45.759955,4.831527,268,thtre clestins lyon france thtre culture,2015,1,1,0,0,315532800.0,undef,2015-01-01 00:00:00
+44966409641,45.759941,4.831486,268,lyon thtre clestins lyonfrankreich,2018,9,5,6,51,431592660.0,undef,2018-09-05 06:51:00

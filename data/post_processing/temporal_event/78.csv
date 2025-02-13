@@ -1,0 +1,135 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+4708746508,45.762888,4.827117,78,dscn ,2010,5,23,4,29,170051340.0,undef,2010-05-23 04:29:00
+4708745878,45.762888,4.827117,78,dscn ,2010,5,23,4,28,170051280.0,undef,2010-05-23 04:28:00
+4708103361,45.762888,4.827117,78,dscn ,2010,5,23,3,4,170046240.0,undef,2010-05-23 03:04:00
+4708744718,45.762888,4.827117,78,dscn ,2010,5,23,2,20,170043600.0,undef,2010-05-23 02:20:00
+4708101871,45.762888,4.827117,78,dscn ,2010,5,23,2,19,170043540.0,undef,2010-05-23 02:19:00
+4708743026,45.762888,4.827117,78,dscn ,2010,5,23,1,55,170042100.0,undef,2010-05-23 01:55:00
+4708742464,45.762888,4.827117,78,dscn ,2010,5,23,1,54,170042040.0,undef,2010-05-23 01:54:00
+4708100059,45.762888,4.827117,78,dscn ,2010,5,23,1,54,170042040.0,undef,2010-05-23 01:54:00
+4708099369,45.762888,4.827117,78,dsc mai leeloo,2010,5,22,23,25,170033100.0,undef,2010-05-22 23:25:00
+4708097099,45.762888,4.827117,78,dsc ,2010,5,22,23,22,170032920.0,undef,2010-05-22 23:22:00
+4708737112,45.762888,4.827117,78,dsc ,2010,5,22,23,21,170032860.0,undef,2010-05-22 23:21:00
+4708093205,45.762888,4.827117,78,dsc ,2010,5,22,23,21,170032860.0,undef,2010-05-22 23:21:00
+4708091539,45.762888,4.827117,78,dsc ,2010,5,22,23,21,170032860.0,undef,2010-05-22 23:21:00
+4708731772,45.762888,4.827117,78,dsc ,2010,5,22,23,20,170032800.0,undef,2010-05-22 23:20:00
+4708730176,45.762888,4.827117,78,dsc ,2010,5,22,23,19,170032740.0,undef,2010-05-22 23:19:00
+4708085899,45.762888,4.827117,78,dsc ,2010,5,22,23,18,170032680.0,undef,2010-05-22 23:18:00
+4708084385,45.762888,4.827117,78,dsc ,2010,5,22,23,4,170031840.0,undef,2010-05-22 23:04:00
+4708082851,45.762888,4.827117,78,dsc ,2010,5,22,23,2,170031720.0,undef,2010-05-22 23:02:00
+4708723606,45.762888,4.827117,78,dsc ,2010,5,22,22,59,170031540.0,undef,2010-05-22 22:59:00
+4708079929,45.762888,4.827117,78,dsc ,2010,5,22,22,57,170031420.0,undef,2010-05-22 22:57:00
+4708078457,45.762888,4.827117,78,dsc ,2010,5,22,22,56,170031360.0,undef,2010-05-22 22:56:00
+4708719718,45.762888,4.827117,78,dsc ,2010,5,22,22,55,170031300.0,undef,2010-05-22 22:55:00
+4708076129,45.762888,4.827117,78,dsc ,2010,5,22,22,55,170031300.0,undef,2010-05-22 22:55:00
+4708074835,45.762888,4.827117,78,dsc ,2010,5,22,22,55,170031300.0,undef,2010-05-22 22:55:00
+4708073691,45.762888,4.827117,78,dsc ,2010,5,22,22,54,170031240.0,undef,2010-05-22 22:54:00
+4708072993,45.762888,4.827117,78,dsc ,2010,5,22,22,23,170029380.0,undef,2010-05-22 22:23:00
+4708071235,45.762888,4.827117,78,dsc ,2010,5,22,22,23,170029380.0,undef,2010-05-22 22:23:00
+4708069995,45.762888,4.827117,78,dsc ,2010,5,22,22,22,170029320.0,undef,2010-05-22 22:22:00
+4708711092,45.762888,4.827117,78,dsc ,2010,5,22,22,21,170029260.0,undef,2010-05-22 22:21:00
+4708709836,45.762888,4.827117,78,dsc ,2010,5,22,22,21,170029260.0,undef,2010-05-22 22:21:00
+4708708534,45.762888,4.827117,78,dsc ,2010,5,22,22,16,170028960.0,undef,2010-05-22 22:16:00
+4708064377,45.762888,4.827117,78,dsc ,2010,5,22,22,16,170028960.0,undef,2010-05-22 22:16:00
+4708705878,45.762888,4.827117,78,dsc ,2010,5,22,22,15,170028900.0,undef,2010-05-22 22:15:00
+4708062189,45.762888,4.827117,78,dsc ,2010,5,22,22,13,170028780.0,undef,2010-05-22 22:13:00
+4708703656,45.762888,4.827117,78,dsc ,2010,5,22,22,13,170028780.0,undef,2010-05-22 22:13:00
+4708702726,45.762888,4.827117,78,dsc ,2010,5,22,22,12,170028720.0,undef,2010-05-22 22:12:00
+4708058733,45.762888,4.827117,78,dsc ,2010,5,22,22,11,170028660.0,undef,2010-05-22 22:11:00
+4708700026,45.762888,4.827117,78,dsc ,2010,5,22,22,11,170028660.0,undef,2010-05-22 22:11:00
+4708698716,45.762888,4.827117,78,dsc ,2010,5,22,22,10,170028600.0,undef,2010-05-22 22:10:00
+4708055107,45.762888,4.827117,78,dsc ,2010,5,22,22,10,170028600.0,undef,2010-05-22 22:10:00
+4708053737,45.762888,4.827117,78,dsc ,2010,5,22,22,8,170028480.0,undef,2010-05-22 22:08:00
+4708053031,45.762888,4.827117,78,dsc ,2010,5,22,22,7,170028420.0,undef,2010-05-22 22:07:00
+4708051035,45.762888,4.827117,78,dsc mai leeloo,2010,5,22,22,6,170028360.0,undef,2010-05-22 22:06:00
+4708691874,45.762888,4.827117,78,dsc mai leeloo,2010,5,22,22,5,170028300.0,undef,2010-05-22 22:05:00
+4708690992,45.762888,4.827117,78,dsc ,2010,5,22,22,4,170028240.0,undef,2010-05-22 22:04:00
+4708689556,45.762888,4.827117,78,dsc ,2010,5,22,21,5,170024700.0,undef,2010-05-22 21:05:00
+4708687802,45.762888,4.827117,78,dsc ,2010,5,22,20,31,170022660.0,undef,2010-05-22 20:31:00
+4708044077,45.762888,4.827117,78,dsc ,2010,5,22,20,25,170022300.0,undef,2010-05-22 20:25:00
+4708685428,45.762888,4.827117,78,dsc mai leeloo,2010,5,22,20,25,170022300.0,undef,2010-05-22 20:25:00
+4708042181,45.762888,4.827117,78,dsc ,2010,5,22,20,19,170021940.0,undef,2010-05-22 20:19:00
+4708040737,45.762888,4.827117,78,dsc ,2010,5,22,20,18,170021880.0,undef,2010-05-22 20:18:00
+4708681534,45.762888,4.827117,78,dsc ,2010,5,22,20,16,170021760.0,undef,2010-05-22 20:16:00
+4708680102,45.762888,4.827117,78,dsc ,2010,5,22,20,15,170021700.0,undef,2010-05-22 20:15:00
+4708035901,45.762888,4.827117,78,dsc mai leeloo,2010,5,22,20,13,170021580.0,undef,2010-05-22 20:13:00
+4708677854,45.762888,4.827117,78,dsc mai leeloo,2010,5,22,20,12,170021520.0,undef,2010-05-22 20:12:00
+4708034119,45.762888,4.827117,78,dsc mai leeloo,2010,5,22,20,11,170021460.0,undef,2010-05-22 20:11:00
+4708675434,45.762888,4.827117,78,dsc ,2010,5,22,20,4,170021040.0,undef,2010-05-22 20:04:00
+4708674226,45.762888,4.827117,78,dsc mai leeloo,2010,5,22,19,59,170020740.0,undef,2010-05-22 19:59:00
+4708030585,45.762888,4.827117,78,dsc mai leeloo,2010,5,22,19,58,170020680.0,undef,2010-05-22 19:58:00
+4708671868,45.762888,4.827117,78,dsc ,2010,5,22,19,58,170020680.0,undef,2010-05-22 19:58:00
+4708669846,45.762888,4.827117,78,dsc mai leeloo,2010,5,22,19,53,170020380.0,undef,2010-05-22 19:53:00
+4708668308,45.762888,4.827117,78,dsc ,2010,5,22,19,53,170020380.0,undef,2010-05-22 19:53:00
+4708667038,45.762888,4.827117,78,dsc ,2010,5,22,19,50,170020200.0,undef,2010-05-22 19:50:00
+4708666406,45.762888,4.827117,78,dsc ,2010,5,22,19,49,170020140.0,undef,2010-05-22 19:49:00
+4708664676,45.762888,4.827117,78,dsc ,2010,5,22,19,49,170020140.0,undef,2010-05-22 19:49:00
+4708662946,45.762888,4.827117,78,dsc ,2010,5,22,19,49,170020140.0,undef,2010-05-22 19:49:00
+4708661590,45.762888,4.827117,78,dsc ,2010,5,22,19,46,170019960.0,undef,2010-05-22 19:46:00
+4708017767,45.762888,4.827117,78,dsc ,2010,5,22,19,46,170019960.0,undef,2010-05-22 19:46:00
+4708657380,45.762888,4.827117,78,dsc ,2010,5,22,19,45,170019900.0,undef,2010-05-22 19:45:00
+4790816684,45.762882,4.827101,78,orthodox door letterboxes door blur lensbaby lyon ivy orthodox vieuxlyon tourrose lyon e lettereboxes,2010,6,1,14,16,170864160.0,undef,2010-06-01 14:16:00
+5477789642,45.762863,4.827193,78,french humour spelling ,2010,7,20,18,43,175113780.0,undef,2010-07-20 18:43:00
+5772232256,45.762826,4.82715,78, street door france lyon porte maison rue orthodoxe paroisse boeuf crible vieuxlyon,2010,7,21,7,48,175160880.0,undef,2010-07-21 07:48:00
+5768934849,45.762848,4.827085,78, street door france bike bicycle lyon minimal lone porte maison rue bicyclette seul boeuf crible vieuxlyon,2010,7,21,7,49,175160940.0,undef,2010-07-21 07:49:00
+5701176676,45.762867,4.827053,78,day lyon ,2011,4,30,15,8,199638480.0,undef,2011-04-30 15:08:00
+6085107521,45.762947,4.827188,78,traboule tour rose mar lyon passage traboule vieuxlyon tourrose quartierdestjean,2010,3,12,15,54,163871640.0,undef,2010-03-12 15:54:00
+5234676621,45.762947,4.827188,78,tour rose lyon france urban tower watercolor town sketch tour lyon aquarelle dessin ville croquis,2010,12,5,19,6,187038360.0,undef,2010-12-05 19:06:00
+6537421361,45.762882,4.827075,78,lyon promenade traboules ,2011,12,19,14,0,219765600.0,undef,2011-12-19 14:00:00
+7003143659,45.762893,4.826999,78,french life vie franaise city france restaurant town nikon lyon bouchon saintjean rhonealpes vieuxlyon tirebouchon oldlyon,2011,3,12,16,14,195408840.0,undef,2011-03-12 16:14:00
+6988794261,45.763,4.827166,78, ,2009,7,11,10,49,142771740.0,undef,2009-07-11 10:49:00
+6842663948,45.762833,4.827,78, ,2009,7,11,10,32,142770720.0,undef,2009-07-11 10:32:00
+7422478180,45.762833,4.827166,78,lyon france lyon rhnealpes,2012,6,22,15,12,235840320.0,undef,2012-06-22 15:12:00
+7389820236,45.76277,4.827075,78, ,2012,1,7,20,50,221431800.0,undef,2012-01-07 20:50:00
+7807321964,45.763054,4.827042,78,wall light hazel mmvr nikond,2012,8,9,13,56,239982960.0,undef,2012-08-09 13:56:00
+8035208152,45.763069,4.827096,78,cathdrale saintjeanbaptiste lyon church lyon,2012,9,29,2,42,244348920.0,undef,2012-09-29 02:42:00
+8479731872,45.762872,4.827061,78,tour rose close lyon escapade lightroom aat vieuxlyon courdelatourrose,2012,11,11,16,46,248114760.0,undef,2012-11-11 16:46:00
+9358452255,45.762833,4.827,78, lyon uploadedbyflickrmobile flickriosappfilternofilter,2013,7,24,19,55,270158100.0,undef,2013-07-24 19:55:00
+9640470990,45.762747,4.82716,78, ,2013,7,28,11,23,270472980.0,undef,2013-07-28 11:23:00
+13484943263,45.762732,4.827089,78,statue rue buf lyon statue lyon ox steer boeuf vieuxlyon,2014,3,13,11,11,290171460.0,undef,2014-03-13 11:11:00
+14176559531,45.762747,4.827139,78,lespagne lyon monument lyon couleurs pleinair,2014,5,11,15,12,295283520.0,undef,2014-05-11 15:12:00
+15131277895,45.762957,4.827117,78,tour rose ,2014,8,4,14,0,302623200.0,undef,2014-08-04 14:00:00
+14935379830,45.762807,4.827053,78,rue boeuf ,2014,8,4,13,59,302623140.0,undef,2014-08-04 13:59:00
+11293920836,45.76277,4.827032,78,quartier vieux lyon france lyon vieux,2013,12,7,16,10,281895000.0,undef,2013-12-07 16:10:00
+5687517260,45.762961,4.827021,78,tour rose city pink window wallpaper sky urban france color building rose architecture facade canon vintage building french geotagged town backyard frankreich europa europe day lyon style rhne medieval jour ciel francia btiment couleur height ville immeuble cour urbain fentres hauteur vieuxlyon rhnealpes fonddcran,2011,6,22,15,36,204219360.0,undef,2011-06-22 15:36:00
+6626343197,45.762961,4.827021,78,tour rose city pink window wallpaper urban france color building rose architecture facade canon vintage building french geotagged town frankreich europa europe day lyon rhne medieval jour francia btiment couleur ville immeuble urbain fentres vieuxlyon rhnealpes fonddcran,2012,1,2,12,59,220971540.0,undef,2012-01-02 12:59:00
+20933921698,45.762994,4.827085,78,tour rose fadeout france frankreich lyon altstadt oldtown vielleville vieuxlyon tourrose htelparticulier ruedubuf,2015,8,29,18,41,336336060.0,undef,2015-08-29 18:41:00
+20933919598,45.762994,4.827085,78,tour rose ground floor france frankreich lyon altstadt oldtown vielleville vieuxlyon tourrose htelparticulier ruedubuf,2015,8,29,18,40,336336000.0,undef,2015-08-29 18:40:00
+27136082614,45.762872,4.827016,78,visite maisonducrible fameuse tourrose mode mastuvu lyonnais plus belle fentresmeneaux plus beau puits plus belle tour plus belle traboules origine lexpressio square lofi squareformat iphoneography instagramapp uploadedbyinstagram,2016,6,18,16,21,361729260.0,undef,2016-06-18 16:21:00
+27453553775,45.762905,4.827088,78,img jpg shadow bw france silhouette architecture lyon traboule,2016,4,23,16,14,356890440.0,undef,2016-04-23 16:14:00
+28625611976,45.762772,4.827055,78,img export lyon lyonoldtown rhnerivercruise auvergnerhnealpes france,2016,7,10,11,34,363612840.0,undef,2016-07-10 11:34:00
+29993006205,45.762794,4.827128,78,lyon place neuve saintjean europe europa france francia frankreich frankrijk lyon rue street calle strasse strada via straat carrer ville city ciudad citta stadt,2011,1,1,0,0,189302400.0,undef,2011-01-01 00:00:00
+32492124040,45.762775,4.827133,78,vieux lyon lyon auvergnerhnealpes francia france,2017,2,3,15,3,381596580.0,undef,2017-02-03 15:03:00
+31956893703,45.762971,4.827049,78,lyon sculpture galerie lyon rhone vieuxlyon artgallery galeriedart vitrine sculpture archer bowman leica q,2017,2,7,17,42,381951720.0,undef,2017-02-07 17:42:00
+32730067876,45.762971,4.827049,78,lyon cour tour rose lyon rhone vieuxlyon cour courtyard latourrose renaissance leica q,2017,2,7,17,40,381951600.0,undef,2017-02-07 17:40:00
+33173598651,45.762947,4.827188,78,chez grandmre bouchon lyonnais recommand aruba abw restaurant bouchon lyon lugdunum saucisson charcuterie rhnealpes digikam linux ubuntu nourriture alimentatin food opensource freesoftware artculinaire couleurs alcools vin vino wine comptoir serveur patron,2017,2,19,14,31,382977060.0,undef,2017-02-19 14:31:00
+33258856855,45.762947,4.827188,78,lucifer pied tour rose rue boeuf lyon demon edgar broughton band lyon lugdunum vieuxlyon streetart streetphotography moisissure salptre devil shaytan satan lucifer blackwhite blancoynegro noirblanc noiretblanc schwarzundweiss nikon nb digikam digikamusers linux ubuntu opensource freesoftware city villes murs murales muros wall texture abstact abstraction art abstractionphotographiecontemporaine abstract abstraite artcontemporain photo photographie photography photographiecontemporaine pascalreyphotographies,2017,2,19,15,57,382982220.0,undef,2017-02-19 15:57:00
+35325201412,45.763024,4.827139,78,wine wine vin france lyon canon interieur rouge bokeh,2017,2,28,19,26,383772360.0,undef,2017-02-28 19:26:00
+35920069171,45.762861,4.827108,78,lyon silk ,2017,6,20,15,2,393433320.0,undef,2017-06-20 15:02:00
+35102617393,45.762947,4.827188,78,dsc lv lyon vieuxlyon lugdunum quartiersaintjean saintjean vieillespierres architecture ville ciudad stadt city town citinternationale patrimoinedelhumanit streetphotography photographiecontemporaine nikon luminar aurorahdr pascalreyphotographies aruba abw,2017,7,5,10,25,394712700.0,undef,2017-07-05 10:25:00
+35836816765,45.762947,4.827188,78,dsc lv lyon vieuxlyon lugdunum citinternationale patrimoine patrimoinedelhumanit ville vieillespierres ciudad town city citta stadt medival rueduboeuf streetphotography strasse street inthestreets via calle murs muros murales wall photographiecontemporaine photographieurbaine photo photographie photography photograffik nikon luminar pascalreyphotographies ruelles traboules cours,2017,7,5,10,14,394712040.0,undef,2017-07-05 10:14:00
+35836803915,45.762947,4.827188,78,dsc lv lyon vieuxlyon lugdunum citinternationale patrimoine patrimoinedelhumanit ville vieillespierres ciudad town city citta stadt medival rueduboeuf streetphotography strasse street inthestreets via calle murs muros murales wall photographiecontemporaine photographieurbaine photo photographie photography photograffik nikon luminar pascalreyphotographies ruelles traboules cours,2017,7,5,10,14,394712040.0,undef,2017-07-05 10:14:00
+35836792985,45.762947,4.827188,78,dsc lv lyon vieuxlyon lugdunum citinternationale patrimoine patrimoinedelhumanit ville vieillespierres ciudad town city citta stadt medival rueduboeuf streetphotography strasse street inthestreets via calle murs muros murales wall photographiecontemporaine photographieurbaine photo photographie photography photograffik nikon luminar pascalreyphotographies ruelles traboules cours,2017,7,5,10,15,394712100.0,undef,2017-07-05 10:15:00
+35796379786,45.762947,4.827188,78,tour rose rue boeuf lyon vieuxlyon lugdunum citinternationale patrimoine patrimoinedelhumanit ville vieillespierres ciudad town city citta stadt medival rueduboeuf streetphotography strasse street inthestreets via calle murs muros murales wall photographiecontemporaine photographieurbaine photo photographie photography photograffik nikon luminar pascalreyphotographies ruelles traboules cours,2017,7,5,10,23,394712580.0,undef,2017-07-05 10:23:00
+35027046553,45.762947,4.827188,78,dsc lv lyon vieuxlyon lugdunum citinternationale patrimoine patrimoinedelhumanit ville vieillespierres ciudad town city citta stadt medival rueduboeuf streetphotography strasse street inthestreets via calle murs muros murales wall photographiecontemporaine photographieurbaine photo photographie photography photograffik nikon luminar pascalreyphotographies ruelles traboules cours reflet reflction transparence,2017,7,5,10,24,394712640.0,undef,2017-07-05 10:24:00
+35964669413,45.762855,4.827091,78, ,2017,8,23,21,11,398985060.0,undef,2017-08-23 21:11:00
+36858316610,45.76278,4.827097,78,go mm lyon f canon eos candid street shot sunset summer auvergnerhnealpes france fr,2017,8,8,21,3,397688580.0,undef,2017-08-08 21:03:00
+26511504828,45.762894,4.827147,78,lyon france ,2018,1,21,6,40,411979200.0,undef,2018-01-21 06:40:00
+41183667265,45.76288,4.827119,78,fullsizeoutput ,2018,2,24,13,15,414940500.0,undef,2018-02-24 13:15:00
+28211227888,45.76288,4.827119,78,fullsizeoutput ,2018,2,24,13,15,414940500.0,undef,2018-02-24 13:15:00
+30649364958,45.762897,4.827025,78,g trabouleslyon lyon auvergnerhnealpes france europe europa eos dmarkiii ef mmf liiusm,2018,9,1,16,41,431282460.0,undef,2018-09-01 16:41:00
+31598672978,45.762897,4.827064,78,passage ,2018,10,21,11,19,435583140.0,undef,2018-10-21 11:19:00
+32297395417,45.76278,4.827083,78,lyon ,2019,2,22,13,15,446303700.0,undef,2019-02-22 13:15:00
+32297390947,45.762741,4.82708,78,lyon ,2019,2,22,13,15,446303700.0,undef,2019-02-22 13:15:00
+46553095404,45.762971,4.827049,78,lyon tour rose lyon rhne latourrose quartier vieuxlyon architecture renaissance,2019,3,4,9,10,447153000.0,undef,2019-03-04 09:10:00
+48022801256,45.762905,4.827025,78,lyon ,2019,6,4,17,16,455130960.0,undef,2019-06-04 17:16:00
+48022903222,45.76293,4.827016,78,lyon ,2019,6,4,17,16,455130960.0,undef,2019-06-04 17:16:00
+48022782936,45.762813,4.827113,78,lyon ,2019,6,4,17,18,455131080.0,undef,2019-06-04 17:18:00
+48436780641,45.762971,4.827049,78,vieux lyon tour rose rue boeuf milieu xvieme sicle lyon rhone vieuxlyon oldlyon tourrose pinktower rueduboeuf renaissance,2019,7,29,17,16,459882960.0,undef,2019-07-29 17:16:00
+48731713636,45.762747,4.827116,78,p france lyon,2019,7,8,14,6,458057160.0,undef,2019-07-08 14:06:00
+48731386663,45.762708,4.827144,78,p france lyon,2019,7,8,14,11,458057460.0,undef,2019-07-08 14:11:00
+48731896307,45.76275,4.827163,78,p france lyon,2019,7,8,14,18,458057880.0,undef,2019-07-08 14:18:00
+48731713521,45.762747,4.827169,78,p france lyon,2019,7,8,14,38,458059080.0,undef,2019-07-08 14:38:00
+48731880077,45.762727,4.827163,78,p france lyon,2019,7,8,14,12,458057520.0,undef,2019-07-08 14:12:00
+49012063252,45.762913,4.827083,78,francelyonsights ,2018,6,20,11,11,424955460.0,undef,2018-06-20 11:11:00
+49011320898,45.762963,4.82708,78,francelyonsights ,2018,6,20,11,12,424955520.0,undef,2018-06-20 11:12:00

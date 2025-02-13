@@ -1,0 +1,138 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4195390413,45.759446,4.829532,35, blackwhite lyon neige,2009,12,18,11,30,-1.650865493615694,undef
+4480390622,45.759402,4.829488,35,poids religion paysage lyonnais tarkastad lyon france,2010,3,26,17,54,-1.5543418732000789,undef
+4570385703,45.759566,4.829735,35,fourvire lyon france urban sketch lyon dessin ville croquis feutre,2010,5,2,14,39,-1.5181311908888868,undef
+4810888814,45.759484,4.829585,35,saone pedestrian bridge bridge france reflection water lyon suspensionbridge saoneriver vikingrivercruises portraitsofsouthernfrancecruise vikingneptune,2010,6,29,21,1,-1.460899417934688,undef
+5174848535,45.759506,4.829751,35,quai saone ,2010,11,7,21,1,-1.3322230854267616,undef
+4166521677,45.759437,4.829703,35,croix rousse lyon fetedeslumieres,2009,12,5,19,25,-1.663310890597284,undef
+5463413122,45.759611,4.829639,35, ,2010,12,9,0,38,-1.3016249395016766,undef
+5462810891,45.759611,4.829639,35, ,2010,12,9,0,32,-1.301629032260344,undef
+5447558486,45.759454,4.829671,35,basilica view ,2010,3,15,11,26,-1.5654114211429258,undef
+5411033147,45.759611,4.829639,35, ,2010,12,1,19,27,-1.308712915387437,undef
+5411644754,45.759611,4.829639,35, ,2010,12,1,19,27,-1.308712915387437,undef
+5411031017,45.759611,4.829639,35, ,2010,12,1,19,26,-1.3087135975138815,undef
+5411641988,45.759611,4.829639,35, ,2010,12,1,19,26,-1.3087135975138815,undef
+5411640652,45.759611,4.829639,35, ,2010,12,1,19,25,-1.3087142796403262,undef
+5411639392,45.759611,4.829639,35, ,2010,12,1,19,24,-1.3087149617667708,undef
+5255798838,45.759447,4.829548,35,lyon dcembre ,2010,12,8,21,24,-1.3017572720319277,undef
+5254843030,45.759667,4.829667,35,red faith raw,2010,12,11,21,57,-1.2987879756186165,undef
+5254212383,45.7595,4.829667,35,green faith raw,2010,12,11,21,55,-1.2987893398715056,undef
+5650138538,45.759574,4.829692,35,lombre canon lyon vieuxlyon tamronspaf mmf xrdiiildasphericalif,2011,4,24,16,44,-1.1673783624472078,undef
+5649573793,45.759574,4.829692,35,danger canon lyon vieuxlyon tamronspaf mmf xrdiiildasphericalif,2011,4,24,16,43,-1.1673790445736525,undef
+5782816097,45.75957,4.829757,35,arbre bord sane hdr eau lyon arbre hdr fleuve rhonealpes effetsspciaux,2011,5,31,22,31,-1.1307979676030466,undef
+5766699017,45.759428,4.829714,35,palais saintjean basilique notredamedefourvire blue france night river lyon basilica palace notredame hour palais nuit hdr heure bleue fleuve basilique saintjean fourvire sane,2010,7,20,16,15,-1.4404670024133648,undef
+5767231154,45.759447,4.829671,35,sane passerelle palais justice bridge light sunset sky france water river soleil justice eau lyon dusk lumire coucher ciel pont palais crpuscule fleuve passerelle sane,2010,7,20,16,6,-1.440473141551366,undef
+6165655989,45.759323,4.82959,35,rhne guignol jca rhne guignol,2011,8,14,11,35,-1.0575757865347108,undef
+6342422414,45.759525,4.829494,35,sane pont bonaparte cathdrale saintjean basilique notredame fourvire lyon saintjean notredamedefourvire sane,2011,11,14,0,49,-0.967648328838305,undef
+6903123743,45.759518,4.829676,35,img f ,2012,2,18,16,21,-0.8727154272914796,undef
+6902278913,45.759454,4.829628,35,fte lumires lyon france geotagged lyon frana ftedeslumires christianbaudet,2011,12,8,21,57,-0.9432091025814454,undef
+6867884215,45.759641,4.82966,35,sane gele quai saintjean photographe fourvire gele sane,2012,2,12,16,52,-0.8785878538529763,undef
+6662316481,45.759469,4.829607,35,char japonais lyon lumieres fete,2011,12,8,20,36,-0.9432643548234574,undef
+6601049063,45.759341,4.829608,35, lyon vieux,2011,12,30,13,26,-0.9219479034299424,undef
+6601035553,45.75935,4.82958,35, lyon vieux,2011,12,30,13,26,-0.9219479034299424,undef
+6571192721,45.759566,4.829649,35,lumires vin chaud lyon lumires,2011,12,8,20,55,-0.94325139442101,undef
+6510314577,45.759558,4.829675,35,saintjean basilique fourvire france night lyon lumire sony rhne nuit basilique saintjean ftedeslumires fourvire rhnealpes alpha,2011,12,8,19,26,-0.9433121036745789,undef
+6842683946,45.759333,4.829666,35, ,2009,7,11,12,23,-1.8079912737482395,undef
+6811040434,45.759589,4.829692,35,blue river night lyon rhne nuit patman lyonbynight,2010,8,12,22,55,-1.417602123990625,undef
+7039328467,45.759518,4.829676,35, france lyon,2012,3,21,18,14,-0.8412059604364189,undef
+6893231190,45.759518,4.829676,35, france lyon,2012,3,21,18,14,-0.8412059604364189,undef
+7039326373,45.759518,4.829676,35, france lyon,2012,3,21,18,14,-0.8412059604364189,undef
+6893229454,45.759518,4.829676,35, france lyon,2012,3,21,18,13,-0.8412066425628635,undef
+7039324703,45.759518,4.829676,35, france lyon,2012,3,21,18,8,-0.8412100531950865,undef
+6893227240,45.759518,4.829676,35, france lyon,2012,3,21,18,7,-0.841210735321531,undef
+7039322619,45.759518,4.829676,35, france lyon,2012,3,21,18,6,-0.8412114174479757,undef
+6893225308,45.759518,4.829676,35, france lyon,2012,3,21,18,4,-0.8412127817008649,undef
+7039320757,45.759518,4.829676,35, france lyon,2012,3,21,18,3,-0.8412134638273094,undef
+7214872102,45.759518,4.829676,35, france lyon,2012,4,3,11,58,-0.8286930329368144,undef
+7214871870,45.759518,4.829676,35, france lyon,2012,4,3,11,28,-0.8287134967301522,undef
+7389813020,45.759551,4.829757,35, ,2012,1,16,19,12,-0.9050134323164892,undef
+7765976422,45.759439,4.829692,35, lyon arles rhone saone croisiere,2012,8,7,11,49,-0.7049341499679551,undef
+7736073538,45.7595,4.829666,35,flux photo ,2012,7,16,19,5,-0.7262465086028027,undef
+8524023731,45.759589,4.829746,35,rives sane fte lumires lyon architecture canon lyon fete nuit lumires saone,2012,12,9,20,50,-0.5827646216149963,undef
+8524023449,45.759574,4.829746,35,rives sane fte lumires lyon architecture canon lyon fete nuit lumires sane,2012,12,9,20,57,-0.5827598467298841,undef
+9067814237,45.759562,4.829667,35,hipstaprint sansflash hipstamatic objectiffoxy filmw,2013,6,15,19,57,-0.398135503236482,undef
+9507818805,45.759394,4.829499,35,camino frankreich camino lyon nacht kultur kirchen stdte jakobsweg fra objekte historisches vieuxlyon rhnealpes bauwerke pilgern stimmungen chemindestjacques,2012,8,20,21,15,-0.6917786593575445,undef
+10019500056,45.7595,4.829666,35,lyon ,2013,9,11,11,53,-0.312026589376905,undef
+11826393885,45.759536,4.829574,35, lyon er sane,2014,1,4,17,28,-0.1988379377934508,undef
+11827176646,45.759536,4.829574,35, lyon er sane,2014,1,4,17,28,-0.1988379377934508,undef
+11826665233,45.759536,4.829574,35, lyon er sane,2014,1,4,17,27,-0.1988386199198954,undef
+11690379566,45.759349,4.829607,35,lyon ,2013,12,29,18,18,-0.2046974039525003,undef
+11476518263,45.759422,4.829555,35,vieux lyon france canon geotagged eos lyon hdr rhnealpes cdlcreative geolat geolon,2013,12,8,10,44,-0.225634593042822,undef
+13044414103,45.759476,4.829521,35, opera place jean lyon vieux rousse croix nouvel basilique fourviere rhone croixrousse bellecour traboules traboule saone terreaux,2014,3,1,12,54,-0.1440181639473311,undef
+14215411055,45.759413,4.829601,35,cathdrale saintjean basilique fourvire lyon mai morning nikon lyon urbanlandscape saintjean fourvire vieuxlyon sane mmf,2014,5,18,6,35,-0.0676602476132037,undef
+14208903482,45.759506,4.829703,35,mec bizarre lyon mai portrait blackandwhite back nikon lyon noiretblanc mm do urbanlandscape saintjean fourvire sane,2014,5,18,6,37,-0.0676588833603145,undef
+15217258665,45.759354,4.829528,35,passerelle palais justice ,2014,9,12,13,33,0.0475495446255779,undef
+11298745606,45.759514,4.829585,35,fte lumires lyon ftedeslumires,2013,12,9,21,33,-0.2242096309000683,undef
+11298819733,45.759514,4.829585,35,fte lumires lyon ftedeslumires,2013,12,9,21,32,-0.2242103130265129,undef
+11298745426,45.759514,4.829585,35,fte lumires lyon ftedeslumires,2013,12,9,21,35,-0.2242082666471791,undef
+11298745336,45.759514,4.829585,35,fte lumires lyon ftedeslumires,2013,12,9,21,35,-0.2242082666471791,undef
+11298717425,45.759514,4.829585,35,fte lumires lyon ftedeslumires,2013,12,9,21,36,-0.2242075845207345,undef
+21278289206,45.759613,4.829577,35, ,2015,9,10,16,33,0.4042334625029887,undef
+15977063095,45.759574,4.829682,35,p ,2014,12,7,18,31,0.1322273572043999,undef
+15357450483,45.759574,4.829682,35,p ,2014,12,7,18,31,0.1322273572043999,undef
+15976408532,45.759574,4.829682,35,p ,2014,12,7,18,31,0.1322273572043999,undef
+24199574579,45.759422,4.829669,35,lyonnais lyon,2016,1,23,18,29,0.5369179699993406,undef
+23993629750,45.759625,4.829741,35,lyon quai sane hauteur cathdrale st jean lyon quai sane,2015,10,11,16,40,0.4346883618747094,undef
+23921387789,45.759636,4.829736,35,lyon quai sane hauteur cathdrale st jean lyon quai sane,2015,10,11,16,41,0.434689044001154,undef
+25915918871,45.759342,4.829553,35,basilique fourvire cathdrale saintjean pentaxk,2016,2,24,19,8,0.5683769594975014,undef
+26269972415,45.759619,4.829628,35,lyon riverfront street travel bridge france street reflection travelling church reflection river religious travel europe catholic cathedral lyon exploring traveller religion bridge church cathedral travelling wanderlust explore traveling streetscape traveler travelblog rhone travelphotography catholic catholism travelphotographer travelblogs travelblogger traveling travelbloggers travelphotographers travelblogging weekendwayfarers,2016,4,3,8,50,0.6062636264830573,undef
+29757116505,45.759544,4.829596,35,france vieux lyon vu pont bonaparte surla cathdrale saintjean sane ,2016,9,6,15,14,0.7597584475510368,undef
+30920799875,45.759444,4.829722,35, ,2016,10,29,17,23,0.8119063321136878,undef
+23208381483,45.759461,4.829574,35,dame fourvire cathdrale saintjean mer architecture justice eau lyon palaisdejustice horizon front ciel palais paysage extrieur nuit btiment deau ville cours rivage saintjean fourvire sane littoral,2015,12,13,15,40,0.4965299453414641,undef
+23686736512,45.759461,4.829574,35,passerelle palais justice architecture justice eau lyon front pont palais paysage extrieur deau cours passerelle sane,2015,12,13,15,39,0.4965292632150195,undef
+23409198569,45.759461,4.829574,35,dame fourvire cathdrale saintjean longexposure mer architecture justice eau nightlights lyon front ciel palais paysage extrieur nuit deau cours rivage saintjean fourvire sane littoral poselongue,2015,12,13,18,15,0.4966356749403759,undef
+23459026980,45.759461,4.829574,35,passerelle palais justice domine fourvire cathdrale saintjean longexposure mer architecture justice eau nightlights lyon lac front ciel pont palais paysage extrieur nuit deau cours rivage saintjean fourvire passerelle sane littoral poselongue,2015,12,13,18,16,0.4966363570668206,undef
+23360906749,45.759461,4.829574,35,pont bonaparte vieux lyon pont bonaparte saintjean vieuxlyon,2015,12,13,15,44,0.4965326738472425,undef
+23640166391,45.759394,4.829516,35,lione e annecy trip travel bridge lake france annecy night canon river lago eos friend long exposure lyon lione pussy ponte filter panoramica nd audi francia cabrio hdr fede raclette ruota esposizione selfie saona pezzi pezzo fiumi umbe rodano traveladdicted g x wwwfacebookcomumbetraveladdicted umbetraveladdicted,2015,12,6,18,20,0.4897632510111067,undef
+23696610926,45.759394,4.829513,35,lione e annecy trip travel bridge lake france annecy night canon river lago eos friend long exposure lyon lione pussy ponte filter panoramica nd audi francia cabrio hdr fede raclette ruota esposizione selfie saona pezzi pezzo fiumi umbe rodano traveladdicted g x wwwfacebookcomumbetraveladdicted umbetraveladdicted,2015,12,6,18,18,0.4897618867582175,undef
+23332941400,45.759522,4.829702,35,saint george collge st vus depuis pont bonaparte ct presqule france lyon fr dcembre rhnealpes decembre,2015,12,8,22,52,0.4919133135644622,undef
+23602530306,45.759502,4.829683,35,saint george collge st vus depuis pont bonaparte ct presqule france lyon fr dcembre rhnealpes decembre,2015,12,8,22,52,0.4919133135644622,undef
+33737750355,45.759463,4.829702,35, ,2017,3,30,12,7,0.9609946163495998,undef
+33737747155,45.7594,4.829711,35, ,2017,3,30,12,7,0.9609946163495998,undef
+33492975001,45.759444,4.829722,35,lyon lyon auvergnerhnealpes france fr,2017,3,16,14,30,0.947340491308192,undef
+34751060471,45.759527,4.829752,35,img perl pt toolchain summit lyon touristic,2017,5,15,14,34,1.006278944626761,undef
+33757522134,45.759349,4.829499,35,lyon lyon rhone france projectweather river architecture city citylife cityscape,2017,4,8,13,57,0.9699100089804236,undef
+35577438375,45.759461,4.829574,35,primatiale saintjean architecture cathdrale fourvire france lyon notredamedefourvire pentax pentaxk ii primatialsaintjean rhne sanctuaire city faade urban urbanlandscape ville glise,2016,7,2,16,56,0.6949987271543154,undef
+34685053504,45.759486,4.829519,35,lyon river boat,2017,6,17,9,50,1.038499869363532,undef
+35572985730,45.759529,4.829758,35,rf voyage blackwhite canon dmarkii canonef f lyon noirblanc,2016,8,13,16,52,0.7362510060174906,undef
+35758826756,45.7594,4.829558,35,basilika cathedral rivercruise arosastella lyon france,2017,7,7,11,37,1.0582180984973668,undef
+35524476072,45.759536,4.829574,35, lyon sane,2016,8,21,15,14,0.7440422542676259,undef
+36590124432,45.759586,4.829697,35,view river sane fourvire hill hapephotographix x vrpanorama ricohthetas equirectangular europa europe france francia frankreich auvergnerhnealpes lyon sane notredamedefourvire primatialesaintjeandelyon kathedralevonlyon lyoncathedral catedraldelyon auvergnerhnealpes sane notredamedefourvire,2017,7,26,11,57,1.076894720550309,undef
+36701700620,45.759574,4.829521,35,amoureux bord sane amour amoureux amoureuse banc eau sane rivire quai monte dbordement dborde riseinthewaterlevel montedeseaux lampadaire streetlamp overflow quay bench river pluie rain,2012,11,9,16,58,-0.6123907373565372,undef
+37751073436,45.759425,4.829594,35,september lyon france ,2017,9,9,14,36,1.1212049722645925,undef
+37799281121,45.759452,4.829544,35,september lyon france ,2017,9,9,14,36,1.1212049722645925,undef
+23566291198,45.759461,4.829574,35,primatiale saintjean architecture basilique fourvire france lyon paysage pentax pentaxk ii pontbonaparte primatialesaintjean rhne saintjean vieuxlyon city cloud eau fleuve landscape nuages palaisdejustice passerelledupalaisdejustice urban urbanlandscape ville,2016,7,2,14,1,0.6948793550265118,undef
+31439910262,45.75955,4.829608,35,fte lumires cathedral cathdrale europe fourvire france ftedeslumires lyon nacht night nuit place saintjean sane,2016,12,9,22,50,0.8524021327498098,undef
+30776681853,45.759591,4.829596,35,fte lumires cathedral cathdrale europe fourvire france ftedeslumires lyon nacht night nuit place saintjean sane,2016,12,9,22,47,0.852400086370476,undef
+31439908422,45.759568,4.829598,35,fte lumires cathedral cathdrale europe fourvire france ftedeslumires lyon nacht night nuit place saintjean sane,2016,12,9,22,49,0.8524014506233653,undef
+39475156792,45.759421,4.829467,35,cathdrale saintjean lyon france december lyon france cathedral cathdrale saintjean saintetienne church river sane bridge basilica basilique fourvire vieux old town riverside bank,2017,12,31,10,24,1.2320286914646443,undef
+39505574271,45.759421,4.829467,35,basilique notredame fourvire lyon france december lyon france basilique notredame fourvire church,2017,12,31,10,25,1.2320293735910888,undef
+38249919174,45.759536,4.829574,35, ftedeslumires fte lumires lyon,2017,12,7,22,12,1.2089373470622995,undef
+24101181337,45.759536,4.829574,35, ftedeslumires fte lumires lyon,2017,12,7,22,12,1.2089373470622995,undef
+24101180277,45.759536,4.829574,35, ftedeslumires fte lumires lyon,2017,12,7,22,12,1.2089373470622995,undef
+24101179457,45.759536,4.829574,35, ftedeslumires fte lumires lyon,2017,12,7,22,12,1.2089373470622995,undef
+38079596815,45.759536,4.829574,35, ftedeslumires fte lumires lyon,2017,12,7,22,13,1.208938029188744,undef
+39809672855,45.759649,4.829692,35,best side lyon lyon vieilleville oldtown town sane river bridge church reflection night longexposure poselongue nikond nikkor mmf mmf rhonealpes,2017,11,8,21,48,1.180435375701447,undef
+26875410797,45.759561,4.829666,35,quais sane lyon lyon auvergnerhnealpes france fr quaisdesane,2018,4,27,9,23,1.346911745136466,undef
+41565617665,45.759405,4.829555,35,huawei p pro lyon auvergnerhnealpes france fr huaweip prozoom x,2018,5,20,20,51,1.3699730759752489,undef
+42417265492,45.759338,4.829658,35,huawei p pro lyon auvergnerhnealpes france fr huaweip prozoom x,2018,5,20,20,51,1.3699730759752489,undef
+42937885932,45.759372,4.829544,35,lyon vieux lyon lyonvieuxlyonoldlyonndcathedral,2018,6,24,9,42,1.4038959061912777,undef
+27668384067,45.759488,4.829613,35,croyances rflchies basiliquedefourvire cathdralesaintjean europe france lyon rhnealpes world basilica blue bluehour building cathedral church city cityscape dusk night nightscape town twilight rhonealpes,2013,1,16,18,2,-0.545553259809587,undef
+43889215731,45.759455,4.829619,35,lyon jpg lyon france,2018,6,30,22,56,1.4103310870695631,undef
+44521905914,45.759391,4.829536,35,onderdoorgang van brug ,2018,5,25,20,56,1.3748877970085378,undef
+45967887062,45.759425,4.829636,35,fetedeslumieres ,2016,12,9,21,42,0.8523557481515776,undef
+45105953025,45.759419,4.829644,35,fetedeslumieres ,2016,12,9,21,42,0.8523557481515776,undef
+45105948065,45.759433,4.829636,35,fetedeslumieres ,2016,12,9,21,42,0.8523557481515776,undef
+44201943190,45.759452,4.829627,35,fetedeslumieres ,2016,12,9,21,42,0.8523557481515776,undef
+45105940335,45.759463,4.829625,35,fetedeslumieres ,2016,12,9,21,42,0.8523557481515776,undef
+45964793192,45.759425,4.829636,35,fetedeslumieres ,2016,12,9,21,42,0.8523557481515776,undef
+45964784502,45.759419,4.829644,35,fetedeslumieres ,2016,12,9,21,42,0.8523557481515776,undef
+31075416797,45.759433,4.829636,35,fetedeslumieres ,2016,12,9,21,42,0.8523557481515776,undef
+46014145871,45.759452,4.829627,35,fetedeslumieres ,2016,12,9,21,42,0.8523557481515776,undef
+44032748320,45.759327,4.829564,35,lyon france ch mono monument monochrome longexposure wideangle urban lyon nisifilters canon canoneos dmarkiv ef mmf lisusm,2018,11,11,12,13,1.5415155985142563,undef
+46385416691,45.759421,4.82953,35,reflets france lyon rhone fete lumieres reflets colline fourviere,2018,12,6,22,13,1.5664814263863414,undef
+46334357892,45.759421,4.82953,35,reflets france lyon rhone fete lumieres reflets colline fourviere,2018,12,6,22,15,1.5664827906392305,undef
+45662114184,45.759421,4.82953,35,reflets france lyon rhone fete lumieres reflets colline fourviere,2018,12,6,22,16,1.5664834727656751,undef
+48660138277,45.759424,4.829478,35, lyon rhone panoramique fleuve pont dame fourviere basilique saint jean palais justice fujifilm x f graffyc foto saone sane rhne,2019,9,1,17,46,1.8305277982029804,undef
+48968235263,45.759408,4.829522,35,lyon auvergnerhnealpes flickrsyncpermpublic france lyon oldcity unescoworldheritagesite vieuxlyon rhnealpes,2015,9,20,9,47,0.4137791399686159,undef
+48996831176,45.759461,4.829574,35,fte lumires canon f canon dmarkii fourvire france lyon palaisdejustice paysage rhne sane blending city cityscape eau ftedeslumires illumination landscape passerelledupalaisdejustice promenade quaidesane river ville water,2018,12,5,18,32,1.5653484143618732,undef

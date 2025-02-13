@@ -1,0 +1,51 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+6073844737,45.75616,4.834713,218,fontaine place antonin poncet ,2011,8,23,20,57,209595420.0,undef,2011-08-23 20:57:00
+7826089598,45.756205,4.83462,218,place antoninponcet france alpes place lyon rhone antonin poncet,2012,7,3,18,43,236803380.0,undef,2012-07-03 18:43:00
+15413860565,45.756243,4.834681,218,evening light city france fountain lyon,2014,9,26,18,6,307217160.0,undef,2014-09-26 18:06:00
+15413858955,45.756243,4.834681,218,flower tree city sculpture france lyon flowertree,2014,9,26,18,6,307217160.0,undef,2014-09-26 18:06:00
+15227310147,45.756243,4.834681,218,flower tree sculpture city sculpture france fountain lyon flowertree,2014,9,26,18,2,307216920.0,undef,2014-09-26 18:02:00
+15390809396,45.756243,4.834681,218,lyon city france logo lyon,2014,9,26,18,0,307216800.0,undef,2014-09-26 18:00:00
+15227254738,45.756243,4.834681,218,lyon logo city france logo lyon,2014,9,26,17,59,307216740.0,undef,2014-09-26 17:59:00
+15855410110,45.756243,4.834681,218,number two shadow door shadow france lyon number shade,2014,9,27,15,8,307292880.0,undef,2014-09-27 15:08:00
+24774236872,45.756147,4.834627,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,37,313357020.0,undef,2014-12-06 19:37:00
+24798768441,45.756202,4.834655,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,41,313357260.0,undef,2014-12-06 19:41:00
+24264003044,45.756202,4.834655,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,41,313357260.0,undef,2014-12-06 19:41:00
+24798763431,45.756202,4.834655,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,41,313357260.0,undef,2014-12-06 19:41:00
+24596666520,45.756172,4.834661,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,42,313357320.0,undef,2014-12-06 19:42:00
+24265251203,45.756172,4.834661,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,42,313357320.0,undef,2014-12-06 19:42:00
+24774212812,45.756172,4.834661,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,42,313357320.0,undef,2014-12-06 19:42:00
+24263980124,45.756172,4.834661,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,42,313357320.0,undef,2014-12-06 19:42:00
+24774205612,45.756172,4.834661,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,42,313357320.0,undef,2014-12-06 19:42:00
+24524513359,45.756172,4.834661,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,43,313357380.0,undef,2014-12-06 19:43:00
+24596645110,45.756172,4.834661,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,43,313357380.0,undef,2014-12-06 19:43:00
+24265229413,45.756172,4.834661,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,43,313357380.0,undef,2014-12-06 19:43:00
+24596605180,45.756147,4.834627,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,37,313357020.0,undef,2014-12-06 19:37:00
+24865776586,45.756152,4.834622,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,38,313357080.0,undef,2014-12-06 19:38:00
+24596596020,45.756152,4.834622,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,38,313357080.0,undef,2014-12-06 19:38:00
+24524456199,45.756152,4.834622,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,38,313357080.0,undef,2014-12-06 19:38:00
+24263906624,45.756152,4.834622,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,39,313357140.0,undef,2014-12-06 19:39:00
+24524436979,45.756152,4.834622,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,39,313357140.0,undef,2014-12-06 19:39:00
+24596552740,45.756152,4.834622,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,39,313357140.0,undef,2014-12-06 19:39:00
+24892013275,45.756152,4.834622,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,39,313357140.0,undef,2014-12-06 19:39:00
+24865719236,45.756202,4.834655,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,40,313357200.0,undef,2014-12-06 19:40:00
+24865714656,45.756202,4.834655,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,40,313357200.0,undef,2014-12-06 19:40:00
+24865710026,45.756202,4.834655,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,40,313357200.0,undef,2014-12-06 19:40:00
+24798619031,45.756202,4.834655,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,40,313357200.0,undef,2014-12-06 19:40:00
+24774079162,45.756202,4.834655,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,41,313357260.0,undef,2014-12-06 19:41:00
+24774069242,45.756202,4.834655,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,41,313357260.0,undef,2014-12-06 19:41:00
+24865684976,45.756172,4.834661,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,42,313357320.0,undef,2014-12-06 19:42:00
+24524368879,45.756172,4.834661,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,43,313357380.0,undef,2014-12-06 19:43:00
+24891963275,45.756172,4.834661,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,43,313357380.0,undef,2014-12-06 19:43:00
+24596496820,45.756186,4.834575,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,45,313357500.0,undef,2014-12-06 19:45:00
+24892138055,45.756202,4.834655,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,41,313357260.0,undef,2014-12-06 19:41:00
+24892051725,45.756152,4.834622,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,38,313357080.0,undef,2014-12-06 19:38:00
+24865752596,45.756152,4.834622,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,39,313357140.0,undef,2014-12-06 19:39:00
+24263892584,45.756152,4.834622,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,39,313357140.0,undef,2014-12-06 19:39:00
+24865738776,45.756152,4.834622,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,39,313357140.0,undef,2014-12-06 19:39:00
+24596557780,45.756152,4.834622,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,39,313357140.0,undef,2014-12-06 19:39:00
+24265108383,45.756202,4.834655,218,francia lione festa delle lione luci festa festedelleluci,2014,12,6,19,41,313357260.0,undef,2014-12-06 19:41:00
+24864793626,45.756147,4.834627,218,francia lione festa delle ,2014,12,6,19,37,313357020.0,undef,2014-12-06 19:37:00
+27806398171,45.756269,4.83468,218, ,2014,6,6,13,12,297522720.0,undef,2014-06-06 13:12:00
+38190775701,45.756273,4.834671,218,bols chantants clinamen v biennale lyon biennaledelyon lyon dpartementdurhne clesteboursiermougenot richardbuckminsterfuller radome artcontemporain art,2017,11,5,12,29,405347340.0,undef,2017-11-05 12:29:00
+38994359562,45.756273,4.834671,218,bols chantants clinamen v biennale lyon lyon france biennaledelyon art artcontemporain lyon dpartementdurhne france europ europe clesteboursiermougenot richardbuckminsterfuller radome eau water reflet personnes,2017,11,5,12,37,405347820.0,undef,2017-11-05 12:37:00
+48238567586,45.756244,4.834677,218,lyon france clocherdelacharit lyon france francia torre tour europe europa,2018,9,14,16,42,432405720.0,undef,2018-09-14 16:42:00

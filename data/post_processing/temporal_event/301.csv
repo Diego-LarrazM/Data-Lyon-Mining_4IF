@@ -1,0 +1,51 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+6375694751,45.761056,4.853736,301,part dieu lyon auditorium rhonealpes partdieu nikond,2011,11,14,14,6,216741960.0,undef,2011-11-14 14:06:00
+6313248232,45.761055,4.853769,301,vieux lyon lyon france travel simplysuperb topazadjust prodigitalstareffects,2011,9,28,20,15,212703300.0,undef,2011-09-28 20:15:00
+8500368383,45.761013,4.853775,301,sunset lyon travel cityandarchitecture,2011,9,29,19,30,212787000.0,undef,2011-09-29 19:30:00
+8669990814,45.761041,4.853773,301,partdieu kodak trix pentaxz,2013,4,21,22,58,262047480.0,undef,2013-04-21 22:58:00
+9400138901,45.760994,4.853769,301, united tourdefrance avondetappe,2013,7,14,9,11,269255460.0,undef,2013-07-14 09:11:00
+9400134977,45.760994,4.853769,301, united tourdefrance avondetappe,2013,7,14,9,5,269255100.0,undef,2013-07-14 09:05:00
+9402894072,45.760994,4.853769,301, united tourdefrance avondetappe,2013,7,14,8,51,269254260.0,undef,2013-07-14 08:51:00
+9402891530,45.760994,4.853769,301, united tourdefrance avondetappe,2013,7,14,8,49,269254140.0,undef,2013-07-14 08:49:00
+9402888982,45.760994,4.853769,301, united tourdefrance avondetappe,2013,7,14,8,49,269254140.0,undef,2013-07-14 08:49:00
+9402886538,45.760994,4.853769,301, united tourdefrance avondetappe,2013,7,14,8,49,269254140.0,undef,2013-07-14 08:49:00
+9402884484,45.760994,4.853769,301, united tourdefrance avondetappe,2013,7,14,8,49,269254140.0,undef,2013-07-14 08:49:00
+9402866344,45.760994,4.853769,301, united tourdefrance avondetappe,2013,7,14,9,56,269258160.0,undef,2013-07-14 09:56:00
+9187452058,45.761097,4.853803,301, uploadedbyflickrmobile flickriosappfilternofilter radissonbluhotellyon,2013,7,1,19,27,268169220.0,undef,2013-07-01 19:27:00
+9625588365,45.761097,4.853803,301,radisson blu hotel lyon august hotelausblickammorgen originalfilter uploadedbyflickrmobile radissonbluhotellyon flickriosappfilteroriginal,2013,8,30,10,1,273319260.0,undef,2013-08-30 10:01:00
+15367102006,45.761122,4.853691,301,lyon saisi vol partdieu lyon rhone quartier partdieu saut garon auvol,2011,9,17,14,57,211733820.0,undef,2011-09-17 14:57:00
+15469721958,45.761097,4.853803,301,crayon ii architecture fuji lyon radisson crayon partdieu x,2014,10,29,3,44,310016640.0,undef,2014-10-29 03:44:00
+16636872765,45.761013,4.853775,301,sun gone travel topazadjust cityandarchitecture,2011,9,29,19,31,212787060.0,undef,2011-09-29 19:31:00
+16054469509,45.761108,4.853746,301,crayon bw skyscraper tour lyon nb crayon gratteciel partdieu creditlyonnais lcl,2015,1,2,2,19,315627540.0,undef,2015-01-02 02:19:00
+16012551859,45.76111,4.853703,301,lyon tour partdieu france tower architecture frankreich lyon lione frana rhne frankrijk francia francie frankrig lyon modernbuilding frankrike partdieu rhnealpes francja lecrayon thepencil tourpartdieu december araldocossuta,2014,12,22,13,11,314716260.0,undef,2014-12-22 13:11:00
+16011147158,45.76111,4.853703,301,lyon tour partdieu france tower architecture frankreich lyon lione frana rhne frankrijk francia francie frankrig lyon modernbuilding frankrike partdieu rhnealpes francja lecrayon thepencil tourpartdieu december araldocossuta,2014,12,22,13,10,314716200.0,undef,2014-12-22 13:10:00
+16197853085,45.76111,4.853703,301,lyon tour partdieu france tower architecture frankreich lyon lione frana rhne frankrijk francia francie frankrig lyon modernbuilding frankrike partdieu rhnealpes francja lecrayon thepencil tourpartdieu december araldocossuta,2014,12,22,13,7,314716020.0,undef,2014-12-22 13:07:00
+25810922763,45.761122,4.853691,301,lyon reflets partdieu architecture lyon abstraction reflets rhone graphisme gratteciel batiments deformation tourlcl surfacesvitrees,2016,4,13,22,40,356049600.0,undef,2016-04-13 22:40:00
+26413689205,45.761122,4.853691,301,lyon tour lcl partdieu architecture lyon abstraction surface vitres rhone graphisme gratteciel minimalisme tourlcl,2016,4,13,22,40,356049600.0,undef,2016-04-13 22:40:00
+27727310325,45.76111,4.853703,301,lyon tour partdieu france tower art architecture artwork frankreich lyon lione frana rhne frankrijk francia francie frankrig lyon modernbuilding frankrike partdieu rhnealpes francja lecrayon thepencil comby november tourpartdieu araldocossuta henricomby,2015,11,15,17,6,343069560.0,undef,2015-11-15 17:06:00
+30389937096,45.76108,4.853752,301, ,2016,10,19,12,12,372341520.0,undef,2016-10-19 12:12:00
+29793943224,45.761097,4.853677,301, ,2016,10,19,11,53,372340380.0,undef,2016-10-19 11:53:00
+30274897175,45.761101,4.853714,301,htel tour part dieu lyon lyon france hotel architecture blue radisson lecrayon tour tourpartdieu building city cityscape stair staircase tower dof,2016,10,8,17,50,371411400.0,undef,2016-10-08 17:50:00
+30217501086,45.761101,4.853703,301,inside crayon lyon architecture lyon crayon hotel france radisson blue tourpartdieu tower building lecrayon spiral city inside french canon canon lapartdieu staircase partdieu art tour structure light light high etage,2016,10,8,17,50,371411400.0,undef,2016-10-08 17:50:00
+32556321211,45.761147,4.853783,301, ,2017,2,2,21,6,381531960.0,undef,2017-02-02 21:06:00
+32556321081,45.761094,4.853722,301, ,2017,2,2,21,24,381533040.0,undef,2017-02-02 21:24:00
+32637602696,45.760977,4.853747,301, ,2017,2,2,21,44,381534240.0,undef,2017-02-02 21:44:00
+32556320271,45.761086,4.853813,301, ,2017,2,2,21,46,381534360.0,undef,2017-02-02 21:46:00
+32671263825,45.761155,4.853794,301, ,2017,2,2,20,47,381530820.0,undef,2017-02-02 20:47:00
+32630693586,45.761155,4.853794,301, ,2017,2,2,20,47,381530820.0,undef,2017-02-02 20:47:00
+32549165721,45.761088,4.853794,301, ,2017,2,2,21,2,381531720.0,undef,2017-02-02 21:02:00
+34890556326,45.761138,4.853705,301,rve ,2017,5,27,22,20,391386000.0,undef,2017-05-27 22:20:00
+34767333662,45.761097,4.853744,301,lintrieur lhtel radisson blu nuut ,2017,5,27,22,9,391385340.0,undef,2017-05-27 22:09:00
+34544039280,45.761138,4.853708,301,lyon night ,2017,5,27,22,11,391385460.0,undef,2017-05-27 22:11:00
+35200650172,45.761011,4.853799,301,radisson blu hotel tour partdieu seen quai jean moulin lyon lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes placedescordeliers quaijeanmoulin pontlafayette riverrhne tree tree office tourpartdieu tourducrditlyonnais lecrayon lapartdieu radissonbluhotellyon araldocossuttaassociates cossuttaassociates radissonbluhotel lamppost lamppost,2017,6,2,18,59,391892340.0,undef,2017-06-02 18:59:00
+34971719890,45.761011,4.853799,301,rue bonnel lyon radisson blu hotel tour partdieu lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes ruedebonnel rain raining office tourpartdieu tourducrditlyonnais lecrayon lapartdieu radissonbluhotellyon araldocossuttaassociates cossuttaassociates radissonbluhotel,2017,6,3,19,32,391980720.0,undef,2017-06-03 19:32:00
+36032735495,45.760975,4.853744,301, ,2017,7,19,19,49,395956140.0,undef,2017-07-19 19:49:00
+35643139970,45.761016,4.853805,301, ,2017,7,19,21,55,395963700.0,undef,2017-07-19 21:55:00
+36624822244,45.761101,4.853768,301,lyon iii lyon tour crayon lcl crditlyonnais noir blanc nb wb white black blanco negro carr square auvergne rhne alpes rhnealpes samsung minimalisme minimalism,2017,9,21,16,32,401473920.0,undef,2017-09-21 16:32:00
+31383636916,45.761122,4.853691,301,lyon tour crayon depuis centre commercial partdieu lyon rhone tour lapartdieu crayon toit architecture verrire rotonde olympus omdem creditlyonnais lcl pencil glassroof,2016,12,2,17,14,376161240.0,undef,2016-12-02 17:14:00
+38945739304,45.761101,4.853766,301,tour part dieu tour lecrayon tourpartdieu partdieu lyon rhne france europe europa europeonflickr minolta x minoltamd minoltax md argentique analog film x mm grandangle mm zoom ilfordhp ilford hp plus iso slr reflex vintagecamera scanner epsonv epson v darkroom noiretblanc nb blackandwhite bw architecture faade verre vitres building cityscape city ville urban dcembre hiver laurentlopez lla tower,2017,12,1,0,0,407548800.0,undef,2017-12-01 00:00:00
+45826628405,45.761101,4.853718,301,radisson blu architecture canon f canon dmarkii france lecrayon lyon partdieu radissonblu rhne city hotel landscape lumire urban urbanlandscape ville,2019,1,6,15,47,442252020.0,undef,2019-01-06 15:47:00
+31800607317,45.761101,4.853718,301,radisson blu architecture canon f canon dmarkii france lecrayon lyon partdieu radissonblu rhne city hotel landscape lumire urban urbanlandscape ville,2019,1,6,15,49,442252140.0,undef,2019-01-06 15:49:00
+33453238178,45.761122,4.853691,301,lyon reflet crayon lyon rhne tour crayon reflet baievitre noiretblanc bw monochrome partdieu immeuble architecture olympud em mk,2019,3,8,17,27,447528420.0,undef,2019-03-08 17:27:00
+46938090984,45.761131,4.853725,301,tour ronde lyon france monochrome immeuble building perspective line ligne courbes curve geometry gomtrie ciel sky people personne urban urbain,2019,4,18,12,8,451051680.0,undef,2019-04-18 12:08:00
+48198352367,45.761122,4.853691,301,lyon tour partdieu lyon rhone partdieu tour crayon,2019,7,4,19,53,457732380.0,undef,2019-07-04 19:53:00

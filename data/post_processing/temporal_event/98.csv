@@ -1,0 +1,267 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+5005901002,45.763964,4.83572,98, canon lyon danse biennale septembre defil biennaledeladanse,2010,9,12,15,9,-1.3874698704271962,undef
+5005287021,45.763964,4.83572,98, canon lyon danse biennale septembre defil biennaledeladanse,2010,9,12,14,46,-1.3874855593354218,undef
+5005273895,45.763964,4.83572,98, canon lyon danse biennale septembre defil biennaledeladanse,2010,9,12,14,39,-1.387490334220534,undef
+5865935193,45.764,4.835666,98,jour ni lheure joseph chinard buste juliette rcamier muse beauxarts lyon palais saintpierre vendredi juin sculpture smile statue head empire sourire sculptor tte buste consulat chateaubriand renaudcamus germainedestal mmercamier barante henrideprusse,2011,6,3,17,3,-1.1280749188362331,undef
+5866435578,45.764,4.835666,98,jour ni lheure sir thomas lawrence miss sweeting plus tard mr alnutt dt paysage muse beauxarts lyon palais saintpierre vendredi juin landscape peinture tableau paysage soir crpuscule regency sousbois peinting renaudcamus,2011,6,3,17,2,-1.128075600962678,undef
+5866407548,45.764,4.835666,98,jour ni lheure sir thomas lawrence miss sweeting plus tard mr alnutt dt gant muse beauxarts lyon palais saintpierre vendredi juin girl painting peinture glove tableau janeausten regency dtail jeunefille younglady gant jeunefemme renaudcamus,2011,6,3,17,1,-1.1280762830891224,undef
+5865784205,45.764,4.835666,98,jour ni lheure sir thomas lawrence miss sweeting plus tard mr alnutt muse beauxarts lyon palais saintpierre vendredi juin tableau peinture painting femme woman jeunefemme youngwoman jeunefille younglady regency janeausten angleterre england renaudcamus,2011,6,3,17,1,-1.1280762830891224,undef
+5866060528,45.764,4.835666,98,jour ni lheure artiste anonyme portrait saintjust larchange terreur muse beauxarts lyon palais saintpierre vendredi juin history histoire rvolution robespierre guillotine terreur thermidor chafaud renaudcamus archangedelaterreur,2011,6,3,16,16,-1.1281069787791291,undef
+5863372908,45.764,4.835666,98,jour ni lheure nicolastoussaint charlet pisode retraite russie dtail muse beauxarts lyon palais saintpierre vendredi juin sky painting peinture ciel tableau napolon renaudcamus brsina,2011,6,3,17,45,-1.1280462695255604,undef
+5862743161,45.764,4.835666,98,jour ni lheure jeanpaul laurens otages enfants ddouard iv dtail muse beauxarts lyon palais saintpierre vendredi juin history foot painting peinture footwear histoire tableau pieds toweroflondon chaussures peintre richardiii souliers prisonners prisonniers tourdelondres edwardiv chausses renaudcamus,2011,6,3,17,56,-1.12803876613467,undef
+5863178350,45.764,4.835666,98,jour ni lheure ernest meissonnier gnral championnet muse beauxarts lyon palais saintpierre vendredi juin horse beach cheval horseman naples histoire tableau plage cavalier renaudcamus rpubliqueparthnopenne,2011,6,3,18,1,-1.128035355502447,undef
+5862654112,45.764,4.835666,98,jour ni lheure antonio bellis actif entre saint sbastien soign saint irne dt muse beauxarts lyon palais saintpierre vendredi juin ,2011,6,3,15,8,-1.1281533633773615,undef
+5859439071,45.764,4.835666,98,jour ni lheure tintoret jacopo robusti vierge lenfant ste catherine st augustin st marc st jeanbaptiste dt roue supplice ste catherine muse lyon vendredi juin wheel peinture venise tintoretto supplice jacoporobusti renaudcamus colevnitienne,2011,6,3,14,56,-1.1281615488946966,undef
+5859327879,45.764,4.835666,98,jour ni lheure pierre puvis chabannes bois sacr dcor grand escalier muse beauxarts lyon palais saintpierre vendredi juin stair mus neoclassicism dcor antiquit noclassicisme renaudcamus,2011,6,3,14,39,-1.1281731450442547,undef
+5856161755,45.764,4.835666,98,jour ni lheure douard manet jeune femme plerine jeanne demarsy marsy dt muse beauxarts lyon palais saintpierre vendredi juin portrait woman painting femme peinture tableau regard renaudcamus jeannedemarsy femmelaplerine,2011,6,3,16,50,-1.128083786480013,undef
+5856683496,45.764,4.835666,98,jour ni lheure douard vuillard misia natanson godebska plus tard sert villeneuvesuryonne muse beauxarts lyon palais saintpierre vendredi juin painting interior peinture tableau intrieur nabi renaudcamus misiasert,2011,6,3,16,45,-1.128087197112236,undef
+5856533818,45.764,4.835666,98,jour ni lheure louis carrand valle lalbarine muse beauxarts lyon palais saintpierre vendredi juin river painting landscape rivire peinture valley tableau xixesicle renaudcamus colelyonnaise,2011,6,3,16,25,-1.1281008396411278,undef
+5855932737,45.764,4.835666,98,jour ni lheure franoisauguste ravier paysage muse beauxarts lyon palais saintpierre vendredi juin painting landscape pond tableau tang renaudcamus,2011,6,3,16,25,-1.1281008396411278,undef
+5855977258,45.764,4.835666,98,jour ni lheure franoisauguste ravier paysage muse beauxarts lyon palais saintpierre vendredi juin sunset landscape crpuscule marais marsh romantisme soleilcouchant romantism crmieux renaudcamus coledelyon primpressionnisme preimpressionnism,2011,6,3,16,24,-1.1281015217675725,undef
+5852238027,45.764,4.835666,98,jour ni lheure george michel paysage orageux dt muse beauxarts lyon palais saintpierre vendredi juin storm mill river painting landscape moulin rivire peinture tableau orage romantisme romantism renaudcamus,2011,6,3,16,33,-1.1280953826295712,undef
+5852234582,45.764,4.835666,98,jour ni lheure pierre cortone pietro berrettini csar replace cloptre trne dgypte dt guerriers suite csar muse beauxarts lyon palais saintpierre vendredi juin man painting beard soldier roman helmet peinture warrior tableau romain soldat barbe homme peintre casque pittore xvii renaudcamus xviiesicle,2011,6,3,15,11,-1.1281513169980275,undef
+5859289999,45.764,4.835666,98,jour ni lheure charles despiau mme paullouis weiler grecque muse beauxarts lyon palais saintpierre vendredi juin sculpture woman femme sculptor noclassique sculpteur greekwoman noclassicisme renaudcamus,2011,6,3,14,37,-1.1281745092971438,undef
+5852152637,45.764,4.835666,98,jour ni lheure pierre puvis chavannes jean cavalier jouant choral luther mre mourante muse beauxarts lyon palais saintpierre vendredi juin art painting mother peinture tableau protestantism violoncelle protestantisme renaudcamus camisard dragonnades rvocationdelditdenantes,2011,6,3,16,28,-1.128098793261794,undef
+5852110935,45.764,4.835666,98,jour ni lheure grco domenikos thotokopoulos partage tunique christ dt muse beauxarts lyon palais saintpierre vendredi juin art painting spain peinture tableau espagne jsuschrist dpouillement renaudcamus,2011,6,3,15,23,-1.128143131480693,undef
+5848247961,45.764,4.835666,98,jour ni lheure futur empereur commode dtail tableau deugne delacroix mort marcaurle marcaurle mourant recommande amis seon fils commode muse beauxarts lyon vendredi juin gay boy man painting death mort philosophy peinture tableau emperor homme philosopher garon fils pre marcusaurelius empereur homosexuality philosophie romanhistory commodus toge romantisme homoerotism homosexualit romantism renaudcamus histoireromaine homoerotisme,2011,6,3,17,40,-1.1280496801577835,undef
+5847873557,45.764,4.835666,98,jour ni lheure camille corot saint sbastien dt vendredi juin painting peinture martyr tableau paysage toile supplice martyre renaudcamus,2011,6,3,16,36,-1.1280933362502374,undef
+5845177178,45.764,4.835666,98,jour ni lheure henri fantinlatour lecture muse beauxarts lyon palais saintpierre vendredi juin flower fleurs painting table reading book woman tapis peinture vase tableau livre femmes renaudcamus,2011,6,3,16,39,-1.1280912898709037,undef
+5844588215,45.764,4.835666,98,jour ni lheure henri fantinlatour lecture dt muse beauxarts lyon palais saintpierre vendredi juin painting reading interior peinture tableau intrieure renaudcamus,2011,6,3,16,39,-1.1280912898709037,undef
+5845114062,45.764,4.835666,98,jour ni lheure henri fantinlatour lecture dt muse beauxarts lyon palais saintpierre vendredi juin painting book interior peinture tableau livre intrieur renaudcamus,2011,6,3,16,39,-1.1280912898709037,undef
+5844206053,45.764,4.835666,98,jour ni lheure henri fantinlatour lecture dt bouquet muse beauxarts lyon palais saintpierre vendredi juin flower fleurs painting book tapis peinture vase bouquet tableau livre nappe renaudcamus livrejaune yellownovel,2011,6,3,16,38,-1.128091971997348,undef
+5844524173,45.764,4.835666,98,jour ni lheure henri fantinlatour lecture dt vendredi juin fleurs painting table reading interior peinture bouquet lecture tableau intrieur nappe renaudcamus,2011,6,3,16,38,-1.128091971997348,undef
+5841807287,45.764,4.835666,98,jour ni lheure jean fautrier fair lady muse beauxarts lyon palais saintpierre vendredi juin painting peinture abstraction artbrut tableau renaudcamus,2011,6,3,18,43,-1.128006706191774,undef
+5842242026,45.764,4.835666,98,jour ni lheure serge poliakoff composition muse beauxarts lyon palais saintpierre vendredi juin red painting rouge abstraction tableaunoir renaudcamus coledeparis,2011,6,3,18,39,-1.1280094346975524,undef
+5841605261,45.764,4.835666,98,jour ni lheure douard vuillard fleurs chemine clayes muse beauxarts lyon palais saintpierre vendredi juin flower chimney window yellow jaune painting vase bouquet tableau fentre renaudcamus,2011,6,3,18,32,-1.1280142095826646,undef
+5841271963,45.764,4.835666,98,jour ni lheure henri matisse jeune femme blanc muse beauxarts lyon palais saintpierre vendredi juin woman painting womaninwhite tableaunoir renaudcamus,2011,6,3,18,33,-1.12801352745622,undef
+5841644861,45.764,4.835666,98,jour ni lheure andr masson niob muse beauxarts lyon palais saintpierre vendredi juin painting surrealism abstraction tableau niobe surralisme renaudcamus,2011,6,3,18,38,-1.128010116823997,undef
+5838707651,45.764,4.835666,98,jour ni lheure raoul dufy seine paris mer dt caftria muse beauxarts lyon palais saintpierre vendredi juin bridge river landscape rivire pont normandie paysage normandy renaudcamus,2011,6,3,14,6,-1.1281956552169263,undef
+5838638381,45.764,4.835666,98,jour ni lheure raoul dufy seine paris mer dt seine figure allgorique lyon caftria muse beauxarts palais saintpierre vendredi juin bridge woman port painting harbour femme rivire peinture pont allegory fleuve bl allgorie renaudcamus,2011,6,3,14,6,-1.1281956552169263,undef
+5838594331,45.764,4.835666,98,jour ni lheure raoul dufy seine paris mer dt grand panneaux muraux muse beauxarts lyon palais saintpierre caftria vendredi juin river landscape rainbow paysage arcenciel fleuve renaudcamus,2011,6,3,14,8,-1.128194290964037,undef
+5838707621,45.764,4.835666,98,jour ni lheure raoul dufy seine paris mer dt rocheguyon caftria muse beauxarts lyon palais saintpierre vendredi juin river painting ledefrance rivire normandie normandy renaudcamus peintureespagnole,2011,6,3,14,5,-1.1281963373433708,undef
+5836194404,45.764,4.835666,98,jour ni lheure michel duma autoportrait muse beauxarts lyon palais saintpierre vendredi juin portrait selfportrait museum peinture tableau bret renaudcamus colelyonnaise peintreslyonnais,2011,6,3,17,35,-1.1280530907900064,undef
+5835542681,45.764,4.835666,98,jour ni lheure camille corot saintsbastien dt muse beauxarts lyon palais saintpierre vendredi juin man painting noir sebastian arc pit archer tableau homme supplice martyre renaudcamus peinturereligieuse,2011,6,3,16,37,-1.1280926541237928,undef
+5835992270,45.764,4.835666,98,jour ni lheure thodore gricault portrait dun jeune homme flou redingote muse beauxarts lyon palais beauxarts vendredi juin museum youngman romantisme romantism renaudcamus ridingcoat,2011,6,3,17,9,-1.1280708260775658,undef
+5835893310,45.764,4.835666,98,jour ni lheure auguste rodin baiser dt muse beauxarts lyon palais saintpierre vendredi juin sculpture statue kiss hand femme main sculptor homme sculpteur renaudcamus,2011,6,3,16,50,-1.128083786480013,undef
+5832387684,45.764,4.835666,98,jour ni lheure louis janmot autoportrait muse beauxarts lyon palais saintpierre vendredi juin selfportrait lyon romantisme romantism nazarean renaudcamus nazaren coledelyon,2011,6,3,17,36,-1.1280524086635615,undef
+5831327179,45.764,4.835666,98,jour ni lheure antoine duclaux halte dartistes lyonnais lle barbe dt muse beauxarts lyon palais saintpierre vendredi juin painting parasol artist toile restauration tableaunoir calluire renaudcamus saintrambert saintrambertllebarbe runiondartistes,2011,6,3,17,15,-1.1280667333188985,undef
+5828619582,45.764,4.835666,98,jour ni lheure george michel moulin muse beauxarts lyon palais saintpierre vendredi juin landscape paysage colefranaise romantisme romantism renaudcamus,2011,6,3,16,32,-1.1280960647560156,undef
+5835488671,45.764,4.835666,98,jour ni lheure auguste rodin lge dairain dt muse beauxarts lyon palais saintpierre vendredi juin sculpture man bronze naked pit nuages brass sculptor homme jeunehomme sculpteur renaudcamus,2011,6,3,16,49,-1.1280844686064575,undef
+5831965189,45.764,4.835666,98,jour ni lheure alexe von jawlensky mduse muse beauxarts lyon palais saintpierre vendredi juin face painting peinture tableau medusa allemagne visage regard allemand allemande expressionnisme renaudcamus,2011,6,3,18,26,-1.1280183023413322,undef
+5828493010,45.764,4.835666,98,jour ni lheure girolamo forabosco portrait dun chanoine dt muse beauxarts lyon palais saintpierre vendredi juin painting book tableau livre surplis renaudcamus canonico,2011,6,3,15,6,-1.1281547276302506,undef
+5824611068,45.764,4.835666,98,jour ni lheure der rosige reiter filippo napoletano ladoration mages dt cavalier lescorte lyon muse beauxarts palais saintpierre vendredi juin painting peinture cavalier tableau manierism renaudcamus manirisme,2011,6,3,15,19,-1.1281458599864709,undef
+5824527204,45.764,4.835666,98,jour ni lheure gaudenzio ferrari saint paul mditation dt muse beauxarts lyon palais saintpierre rhne vendredi juin italien painting italian italia tableau renaissance italie pimont renaudcamus pimonte peintureespagnole,2011,6,3,14,54,-1.128162913147586,undef
+5824471554,45.764,4.835666,98,jour ni lheure portrait lcrivain christian combaz pierre paul rubens muse beauxarts lyon palais saintpierre vendredi juin portrait saint writer crivain renaudcamus,2011,6,3,15,41,-1.12813085320469,undef
+5823376409,45.764,4.835666,98,jour ni lheure jacob jordaens mercure argus dt chien muse beauxarts lyon palais saintpierre vendredi juin dog chien painting peinture tableau renaudcamus peinturehollandaise,2011,6,3,16,2,-1.1281165285493535,undef
+5823186403,45.764,4.835666,98,jour ni lheure philippe champaigne cne dt muse beauxarts lyon palais saintpierre vendredi juin painting table christ peinture tableau lastsupper nappe plis aiguire renaudcamus dernirecne,2011,6,3,15,48,-1.128126078319578,undef
+5821062670,45.764,4.835666,98,jour ni lheure pierre cortone pietro berrettini csar remet cloptre trne dgypte dt jeunes fille suite reine lyon muse beauxarts palais saintpierre vendredi juin italien painting caesar peinture maiden italie cleopatra classicism italienne jeunesfilles classicisme suivantes renaudcamus berettini,2011,6,3,15,11,-1.1281513169980275,undef
+5827559409,45.764,4.835666,98,jour ni lheure philippe champaigne cne dt muse beauxarts lyon palais saintpierre vendredi juin painting square peinture toile carr lastsupper nappe manzoni eucharistie renaudcamus,2011,6,3,15,46,-1.128127442572467,undef
+5817571747,45.764,4.835666,98,jour ni lheure jeune femme toilette dt nicolas rgnier muse beauxarts lyon palais saintpierre vendredi juin woman painting mirror miroir tableau youngwoman louisxiii colefranaise renaudcamus xviiesicle,2011,6,3,15,28,-1.1281397208484696,undef
+5797531227,45.764,4.835666,98,jour ni lheure francisco zurbaran saint franois dassise dt muse beauxarts lyon lyon vendredi juin painting bure peinture franciscan cordon sicledor franciscain renaudcamus peintureespagnole assisisanfrancescodeassisi,2011,6,3,15,25,-1.1281417672278031,undef
+5797449849,45.764,4.835666,98,jour ni lheure pierrepaul prudhon portrait mme george anthony deux fils dt muse beauxarts lyon palais saintpierre vendredi juin portrait painting gray peinture rvolution bonheur hapiness regard ruban jeunefemme renaudcamus matredeposte femmedumatredeposte,2011,6,3,17,11,-1.1280694618246767,undef
+5796106118,45.764,4.835666,98,jour ni lheure claude bonnefond plerine dfaillante soutenue capucin sic dt lyon muse beauxarts palais saintpierre vendredi juin painting monk peinture pilgrimage youngman jeunehomme moine youngmonk renaudcamus jeunemoine,2011,6,3,17,38,-1.1280510444106726,undef
+5796084534,45.764,4.835666,98,jour ni lheure jeanmarie jacomin classe rvoil lcole beauxarts lyon dt lyon muse beauxarts palais saintpierre vendredi juin boy painting studio student peinture tableau garon peintre restauration jeunehomme lve renaudcamus,2011,6,3,17,28,-1.1280578656751186,undef
+5795467799,45.764,4.835666,98,jour ni lheure george michel paysage orageux muse beauxarts lyon palais saintpierre vendredi juin sky storm mill landscape moulin ciel renaudcamus,2011,6,3,16,32,-1.1280960647560156,undef
+5795435163,45.764,4.835666,98,jour ni lheure peintre fleury richard buste pltre clmence sophie sermzy muse beauxarts lyon palais saintpierre vendredi juin portrait lyon bust painter buste peintre sculpteur renaudcamus sculptrice sermzy clmencesophiedesermzy fleuryrichard,2011,6,3,16,10,-1.1281110715377969,undef
+5795859120,45.764,4.835666,98,jour ni lheure autoportrait fond gris lyon toilette muse beauxarts vendredi juin selfportrait toilette appareil renaudcamus musemuseum,2011,6,3,18,47,-1.1280039776859958,undef
+5964312842,45.763991,4.835777,98,rve denfant lyon,2011,7,21,16,53,-1.0809331602504466,undef
+6491513519,45.764041,4.835661,98,application france automne lyon fr personnes gen saison rhnealpes,2011,10,8,14,50,-1.0034183574662905,undef
+7877283180,45.764042,4.835659,98,chilling foot hurt ,2012,8,8,16,6,-0.7037765813914816,undef
+7877282746,45.764042,4.835659,98,rhone ,2012,8,8,16,3,-0.7037786277708155,undef
+7877282332,45.764042,4.835659,98,skate park ,2012,8,8,16,2,-0.70377930989726,undef
+7877281816,45.764042,4.835659,98,rhone ,2012,8,8,16,1,-0.7037799920237046,undef
+7877281420,45.764042,4.835659,98,rhone ,2012,8,8,16,1,-0.7037799920237046,undef
+7877280756,45.764042,4.835659,98,something cant walk way ,2012,8,8,15,39,-0.7037949988054857,undef
+7877280066,45.764042,4.835659,98,grandlyon ,2012,8,8,15,18,-0.703809323460822,undef
+7877279546,45.764042,4.835659,98,lhotel ville ,2012,8,8,15,3,-0.703819555357491,undef
+7877278838,45.764042,4.835659,98,lhotel ville ,2012,8,8,15,3,-0.703819555357491,undef
+7877277970,45.764042,4.835659,98,lhotel ville ,2012,8,8,15,2,-0.7038202374839355,undef
+7877277508,45.764042,4.835659,98,opera ,2012,8,8,14,57,-0.7038236481161585,undef
+7877276988,45.764042,4.835659,98,lyon ,2012,8,8,14,56,-0.7038243302426032,undef
+7877276340,45.764042,4.835659,98,lyon ,2012,8,8,14,55,-0.7038250123690477,undef
+7877275918,45.764042,4.835659,98,parc tete dor ,2012,8,8,12,52,-0.7039089139217326,undef
+7877274974,45.764042,4.835659,98,parc tete dor ,2012,8,8,12,50,-0.7039102781746217,undef
+7877274474,45.764042,4.835659,98,parc tete dor ,2012,8,8,12,49,-0.7039109603010664,undef
+7877273626,45.764042,4.835659,98,parc tete dor ,2012,8,8,12,47,-0.7039123245539556,undef
+7877273166,45.764042,4.835659,98,parc tete dor ,2012,8,8,12,47,-0.7039123245539556,undef
+7877272380,45.764042,4.835659,98,part dieu ,2012,8,8,11,38,-0.7039593912786324,undef
+7789358094,45.764,4.835666,98,underground skylight ,2012,8,5,14,22,-0.7067943087823588,undef
+8171266638,45.764041,4.835658,98,lyon fr france institutlumiere institutlumieremuseelumiere lyon,2011,7,5,9,8,-1.096966542330593,undef
+8171236971,45.764041,4.835658,98,lyon fr france lyon window,2011,7,5,10,52,-1.0968956011803557,undef
+8171267254,45.764041,4.835658,98,lyon fr france institutlumiere light lyon,2011,7,5,9,31,-1.096950853422367,undef
+8171266992,45.764041,4.835658,98,lyon fr france institutlumiere light lyon,2011,7,5,9,29,-1.0969522176752566,undef
+8171236437,45.764041,4.835658,98,lyon fr france institutlumiere institutlumieremuseelumiere lyon sign,2011,7,5,9,24,-1.0969556283074795,undef
+8171236027,45.764041,4.835658,98,lyon fr ceiling france institutlumiere institutlumieremuseelumiere light lyon,2011,7,5,8,25,-1.0969958737677106,undef
+8171266282,45.764041,4.835658,98,lyon fr france halletonygarnier institut institutlumiere lyon lumiere,2011,7,5,8,20,-1.0969992843999334,undef
+8171266126,45.764041,4.835658,98,lyon fr france halletonygarnier lyon steel,2011,7,5,5,6,-1.0971316169301844,undef
+8171266010,45.764041,4.835658,98,lyon fr france halletonygarnier lyon steel,2011,7,5,5,6,-1.0971316169301844,undef
+8171235511,45.764041,4.835658,98,lyon fr france halletonygarnier lyon steel,2011,7,5,5,5,-1.097132299056629,undef
+8171235335,45.764041,4.835658,98,lyon fr france halletonygarnier lyon steel,2011,7,5,5,3,-1.097133663309518,undef
+8171265370,45.764041,4.835658,98,lyon fr france halletonygarnier lyon,2011,7,5,5,2,-1.0971343454359628,undef
+8171265230,45.764041,4.835658,98,lyon fr france halletonygarnier lyon steel,2011,7,5,4,58,-1.0971370739417412,undef
+8171265086,45.764041,4.835658,98,lyon fr france halletonygarnier lyon sign steel,2011,7,5,4,54,-1.0971398024475196,undef
+8171234647,45.764041,4.835658,98,lyon fr france halletonygarnier lyon steel,2011,7,5,3,5,-1.09721415422998,undef
+8464622435,45.763927,4.835736,98,crdit lyonnais lyon e france architecture lyon crditlyonnais rhnealpes gaspardandr,2013,2,8,18,12,-0.522954410700238,undef
+8465719944,45.763927,4.835736,98,crdit lyonnais lyon e france architecture lyon crditlyonnais rhnealpes gaspardandr,2013,2,8,18,11,-0.5229550928266826,undef
+8311497094,45.764,4.835667,98,lyonfdl ,2012,12,26,14,20,-0.5663321955647633,undef
+8310447623,45.764,4.835667,98,lyonfdl ,2012,12,26,14,20,-0.5663321955647633,undef
+8310447105,45.764,4.835667,98,lyonfdl ,2012,12,26,14,20,-0.5663321955647633,undef
+8310446577,45.764,4.835667,98,lyonfdl ,2012,12,26,14,20,-0.5663321955647633,undef
+8311494948,45.764,4.835667,98,lyonfdl ,2012,12,26,14,20,-0.5663321955647633,undef
+8311494202,45.764,4.835667,98,lyonfdl ,2012,12,26,14,20,-0.5663321955647633,undef
+8310444735,45.764,4.835667,98,lyonfdl ,2012,12,26,14,20,-0.5663321955647633,undef
+8311493078,45.764,4.835667,98,lyonfdl ,2012,12,26,14,20,-0.5663321955647633,undef
+8310443447,45.764,4.835667,98,lyonfdl ,2012,12,26,14,20,-0.5663321955647633,undef
+8310442625,45.764,4.835667,98,lyonfdl ,2012,12,26,14,20,-0.5663321955647633,undef
+8310441861,45.764,4.835667,98,lyonfdl ,2012,12,26,14,20,-0.5663321955647633,undef
+8311489980,45.764,4.835667,98,lyonfdl ,2012,12,26,14,20,-0.5663321955647633,undef
+8310440267,45.764,4.835667,98,lyonfdl ,2012,12,26,14,19,-0.5663328776912079,undef
+8311488554,45.764,4.835667,98,lyonfdl ,2012,12,26,14,19,-0.5663328776912079,undef
+8310438733,45.764,4.835667,98,lyonfdl ,2012,12,26,14,19,-0.5663328776912079,undef
+8310438027,45.764,4.835667,98,lyonfdl ,2012,12,26,14,19,-0.5663328776912079,undef
+8311486388,45.764,4.835667,98,lyonfdl ,2012,12,26,14,19,-0.5663328776912079,undef
+8311485772,45.764,4.835667,98,lyonfdl ,2012,12,26,14,19,-0.5663328776912079,undef
+8310435939,45.764,4.835667,98,lyonfdl ,2012,12,26,14,19,-0.5663328776912079,undef
+8311484374,45.764,4.835667,98,lyonfdl ,2012,12,26,14,19,-0.5663328776912079,undef
+8311483798,45.764,4.835667,98,lyonfdl ,2012,12,26,14,19,-0.5663328776912079,undef
+8310434099,45.764,4.835667,98,lyonfdl ,2012,12,26,14,19,-0.5663328776912079,undef
+8310433657,45.764,4.835667,98,lyonfdl ,2012,12,26,14,19,-0.5663328776912079,undef
+8311481990,45.764,4.835667,98,lyonfdl ,2012,12,26,14,19,-0.5663328776912079,undef
+8311481490,45.764,4.835667,98,lyonfdl ,2012,12,26,14,19,-0.5663328776912079,undef
+8310431793,45.764,4.835667,98,lyonfdl ,2012,12,26,14,19,-0.5663328776912079,undef
+8310430965,45.764,4.835667,98,lyonfdl ,2012,12,26,14,18,-0.5663335598176525,undef
+8311479572,45.764,4.835667,98,lyonfdl ,2012,12,26,14,18,-0.5663335598176525,undef
+8311478746,45.764,4.835667,98,lyonfdl ,2012,12,26,14,18,-0.5663335598176525,undef
+8310428833,45.764,4.835667,98,lyonfdl ,2012,12,26,14,18,-0.5663335598176525,undef
+8310427953,45.764,4.835667,98,lyonfdl ,2012,12,26,14,18,-0.5663335598176525,undef
+8311476284,45.764,4.835667,98,lyonfdl ,2012,12,26,14,18,-0.5663335598176525,undef
+8311475398,45.764,4.835667,98,lyonfdl ,2012,12,26,14,18,-0.5663335598176525,undef
+8311474788,45.764,4.835667,98,lyonfdl ,2012,12,26,14,18,-0.5663335598176525,undef
+8310424681,45.764,4.835667,98,lyonfdl ,2012,12,26,14,18,-0.5663335598176525,undef
+8310423887,45.764,4.835667,98,lyonfdl ,2012,12,26,14,18,-0.5663335598176525,undef
+8310423209,45.764,4.835667,98,lyonfdl ,2012,12,26,14,18,-0.5663335598176525,undef
+8310422473,45.764,4.835667,98,lyonfdl ,2012,12,26,14,18,-0.5663335598176525,undef
+8311470718,45.764,4.835667,98,lyonfdl ,2012,12,26,14,18,-0.5663335598176525,undef
+8311469958,45.764,4.835667,98,lyonfdl ,2012,12,26,14,18,-0.5663335598176525,undef
+8310420091,45.764,4.835667,98,lyonfdl ,2012,12,26,14,18,-0.5663335598176525,undef
+8310419585,45.764,4.835667,98,lyonfdl ,2012,12,26,14,18,-0.5663335598176525,undef
+8310418913,45.764,4.835667,98,lyonfdl ,2012,12,26,14,17,-0.5663342419440971,undef
+8310418193,45.764,4.835667,98,lyonfdl ,2012,12,26,14,17,-0.5663342419440971,undef
+8310417331,45.764,4.835667,98,lyonfdl ,2012,12,26,14,17,-0.5663342419440971,undef
+8310416499,45.764,4.835667,98,lyonfdl ,2012,12,26,14,17,-0.5663342419440971,undef
+8310415775,45.764,4.835667,98,lyonfdl ,2012,12,26,14,17,-0.5663342419440971,undef
+8310415057,45.764,4.835667,98,lyonfdl ,2012,12,26,14,17,-0.5663342419440971,undef
+8311463232,45.764,4.835667,98,lyonfdl ,2012,12,26,14,17,-0.5663342419440971,undef
+8310413677,45.764,4.835667,98,lyonfdl ,2012,12,26,14,17,-0.5663342419440971,undef
+8310413017,45.764,4.835667,98,lyonfdl ,2012,12,26,14,17,-0.5663342419440971,undef
+8311461156,45.764,4.835667,98,lyonfdl ,2012,12,26,14,17,-0.5663342419440971,undef
+8311460562,45.764,4.835667,98,lyonfdl ,2012,12,26,14,17,-0.5663342419440971,undef
+8311459990,45.764,4.835667,98,lyonfdl ,2012,12,26,14,17,-0.5663342419440971,undef
+8310410357,45.764,4.835667,98,lyonfdl ,2012,12,26,14,17,-0.5663342419440971,undef
+8311458700,45.764,4.835667,98,lyonfdl ,2012,12,26,14,17,-0.5663342419440971,undef
+8310409327,45.764,4.835667,98,lyonfdl ,2012,12,26,14,17,-0.5663342419440971,undef
+8310408401,45.764,4.835667,98,lyonfdl ,2012,12,26,14,17,-0.5663342419440971,undef
+8311456710,45.764,4.835667,98,lyonfdl ,2012,12,26,14,17,-0.5663342419440971,undef
+8310407033,45.764,4.835667,98,lyonfdl ,2012,12,26,14,16,-0.5663349240705416,undef
+8311454866,45.764,4.835667,98,lyonfdl ,2012,12,26,14,16,-0.5663349240705416,undef
+8311454280,45.764,4.835667,98,lyonfdl ,2012,12,26,14,16,-0.5663349240705416,undef
+8311453724,45.764,4.835667,98,lyonfdl ,2012,12,26,14,16,-0.5663349240705416,undef
+8310404273,45.764,4.835667,98,lyonfdl ,2012,12,26,14,16,-0.5663349240705416,undef
+8310403705,45.764,4.835667,98,lyonfdl ,2012,12,26,14,16,-0.5663349240705416,undef
+8310402827,45.764,4.835667,98,lyonfdl ,2012,12,26,14,16,-0.5663349240705416,undef
+8311451054,45.764,4.835667,98,lyonfdl ,2012,12,26,14,16,-0.5663349240705416,undef
+8311450374,45.764,4.835667,98,lyonfdl ,2012,12,26,14,16,-0.5663349240705416,undef
+8310400597,45.764,4.835667,98,lyonfdl ,2012,12,26,14,16,-0.5663349240705416,undef
+8611288242,45.763945,4.8357,98,lyon rue rpublique france lyon rhne rhnealpes lyonpresqule,2013,3,30,19,37,-0.4737833259417886,undef
+8610181957,45.763945,4.835743,98,lyon rue rpublique france lyon rhne rhnealpes lyonpresqule,2013,3,30,19,37,-0.4737833259417886,undef
+9178456892,45.76411,4.835733,98,flat eric pasted paper lyon france streetart france pasteup collage paper eric europe flat lyon wheatpaste pasted wheatpaper,2013,6,24,16,57,-0.38941792727459,undef
+9797066764,45.764166,4.835656,98,upload square squareformat hudson iphoneography instagramapp uploadedbyinstagram foursquarevenue e fbfa fa bf,2013,9,18,0,37,-0.3056118722919572,undef
+9797043705,45.764166,4.835656,98,fall upon u lautomne bien square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue e fbfa fa bf,2013,9,18,0,37,-0.3056118722919572,undef
+9698057077,45.764166,4.835656,98,soon history bientt quun lointain souvenir square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue e fbfa fa bf,2013,9,8,5,14,-0.3152455440689369,undef
+10046715633,45.763884,4.835654,98,upload square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue b e,2013,10,1,18,17,-0.2921194112179178,undef
+13092386134,45.764043,4.835658,98,louise ,2014,2,23,9,2,-0.1500699897637556,undef
+14072241908,45.764041,4.835658,98,tempus fugit lyon france urban blackandwhite bw france monochrome architecture eos lyon time noiretblanc ngc nb horloge moment heure noirblanc urbain jeanmi blackwhitephotos canonfrance simplysuperb streetpassionaward canonblackwhite guisiano canoncitylife canoncommons guisianojeanmichel fadiese lougabian,2010,10,7,17,0,-1.362837602386517,undef
+16317218350,45.764043,4.835658,98,view central lyon notredamedefourviere ,2014,6,21,11,44,-0.0340525598145765,undef
+16502943631,45.764043,4.835658,98,u guillaume mathilde lyon france oclock oncycleblog,2014,6,21,11,7,-0.0340777984930264,undef
+16031898927,45.764005,4.835604,98,lyon crdit lyonnais france architecture frankreich lyon lione frana bank rhne frankrijk francia francie neoclassical frankrig lyon historicalbuilding frankrike rhnealpes francja december,2014,12,22,17,1,0.1468998970275843,undef
+16967512145,45.763945,4.835743,98,lyon jaime banque france lyon rhne ruedelarpublique rhnealpes presqule,2015,3,28,17,0,0.2411963746016049,undef
+16966567511,45.763945,4.835743,98,lyon jaime banque france lyon rhne ruedelarpublique rhnealpes presqule,2015,3,28,17,0,0.2411963746016049,undef
+16347414843,45.763945,4.835743,98,lyon jaime banque france lyon rhne ruedelarpublique rhnealpes presqule,2015,3,28,17,1,0.2411970567280495,undef
+16966118592,45.763945,4.835743,98,lyon presqule france lyon rhne ruedelarpublique rhnealpes presqule,2015,3,28,16,57,0.2411943282222711,undef
+16624183869,45.764041,4.835744,98,time go people blackandwhite bw france monochrome nikon noiretblanc candid couple streetscenes songtitle scenesderue,2009,4,19,16,6,-1.889366912208789,undef
+18174298489,45.764041,4.835658,98,institut lumire ,2015,4,25,11,37,0.2684793860059705,undef
+18360542915,45.764041,4.835658,98,thtre dombres ,2015,4,25,10,46,0.2684445975572963,undef
+18174338709,45.764041,4.835658,98,lumire ,2015,4,25,10,44,0.2684432333044071,undef
+17737811574,45.764041,4.835658,98,institut lumire ,2015,4,25,10,41,0.2684411869250734,undef
+18331076636,45.764041,4.835658,98,thtres romains fourvire ,2015,4,24,15,25,0.2676526487551244,undef
+18171395719,45.764041,4.835658,98,thtres romains fourvire ,2015,4,24,15,41,0.2676635627782379,undef
+18170285280,45.764041,4.835658,98,muse miniature cinma ,2015,4,24,9,45,0.267420725763963,undef
+18359443201,45.764041,4.835658,98,nain jardin voyageur ,2015,4,24,8,58,0.2673886658210672,undef
+18358217755,45.764041,4.835658,98,quartier saintjean ,2015,4,24,8,55,0.2673866194417334,undef
+18170085390,45.764041,4.835658,98,livres ,2015,4,24,8,58,0.2673886658210672,undef
+18170406270,45.764041,4.835658,98,fourvire ,2015,4,24,8,50,0.2673832088095104,undef
+18362268951,45.764041,4.835658,98, ,2015,4,23,19,7,0.2668218187456108,undef
+26143916424,45.764041,4.835658,98,p lyon,2016,4,16,18,37,0.6194334417488044,undef
+26682925241,45.764041,4.835658,98,p lyon quaidesaone,2016,4,16,16,21,0.6193406725523398,undef
+26724532816,45.764041,4.835658,98,p lyon quaidesaone,2016,4,16,16,18,0.6193386261730061,undef
+26143845274,45.764041,4.835658,98,p lyon,2016,4,16,16,12,0.6193345334143385,undef
+26145873053,45.764041,4.835658,98,p lyon saintpaul,2016,4,16,16,11,0.619333851287894,undef
+26145841403,45.764041,4.835658,98,p lyon quaidesaone,2016,4,16,16,10,0.6193331691614493,undef
+26143741784,45.764041,4.835658,98,p lyon quaidesaone,2016,4,16,16,10,0.6193331691614493,undef
+26656426632,45.764041,4.835658,98,p lyon quaidesaone,2016,4,16,16,9,0.6193324870350048,undef
+26682791321,45.764041,4.835658,98,p lyon quaidesaone,2016,4,16,16,9,0.6193324870350048,undef
+26145761543,45.764041,4.835658,98,p lyon quaidesaone,2016,4,16,15,35,0.6193092947358886,undef
+26145741933,45.764041,4.835658,98,p lyon quaidesaone,2016,4,16,15,35,0.6193092947358886,undef
+26682720031,45.764041,4.835658,98,p lyon croixrousse traboules,2016,4,16,15,24,0.6193017913449981,undef
+26476833080,45.764041,4.835658,98,p lyon,2016,4,16,18,37,0.6194334417488044,undef
+26682274641,45.764041,4.835658,98,p lyon,2016,4,16,15,4,0.6192881488161063,undef
+26145201973,45.764041,4.835658,98,p lyon,2016,4,16,15,3,0.6192874666896616,undef
+26682190451,45.764041,4.835658,98,p lyon croixrousse fresquedescanuts,2016,4,16,14,43,0.6192738241607698,undef
+26682155331,45.764041,4.835658,98,p lyon croixrousse fresquedescanuts,2016,4,16,14,43,0.6192738241607698,undef
+26749021045,45.764041,4.835658,98,p lyon fourvire,2016,4,16,14,22,0.6192594995054334,undef
+26655610482,45.764041,4.835658,98,p lyon fourvire,2016,4,16,14,21,0.6192588173789888,undef
+26142836314,45.764041,4.835658,98,p lyon,2016,4,16,14,20,0.6192581352525441,undef
+26142802344,45.764041,4.835658,98,p lyon croixrousse,2016,4,16,14,18,0.619256770999655,undef
+26655555262,45.764041,4.835658,98,p lyon croixrousse,2016,4,16,14,18,0.619256770999655,undef
+26723436536,45.764041,4.835658,98,p lyon fourvire,2016,4,16,14,14,0.6192540424938766,undef
+26142736344,45.764041,4.835658,98,p lyon quaidesaone,2016,4,16,12,21,0.6191769622056377,undef
+26144897713,45.764041,4.835658,98,p lyon quaidesaone,2016,4,16,12,21,0.6191769622056377,undef
+26748867645,45.764041,4.835658,98,p lyon quaidesaone,2016,4,16,12,20,0.6191762800791931,undef
+26723345586,45.764041,4.835658,98,p lyon fresquedeslyonnais,2016,4,16,12,17,0.6191742336998592,undef
+26143205874,45.764041,4.835658,98,p lyon croixrousse traboules,2016,4,16,15,24,0.6193017913449981,undef
+26723846596,45.764041,4.835658,98,p lyon,2016,4,16,15,21,0.6192997449656643,undef
+26476388840,45.764041,4.835658,98,p lyon croixrousse traboules,2016,4,16,15,13,0.6192942879541076,undef
+26723809866,45.764041,4.835658,98,p lyon croixrousse traboules,2016,4,16,15,11,0.6192929237012184,undef
+26145180833,45.764041,4.835658,98,p lyon croixrousse,2016,4,16,14,46,0.6192758705401036,undef
+26723705846,45.764041,4.835658,98,p lyon croixrousse fresquedescanuts,2016,4,16,14,43,0.6192738241607698,undef
+26682131731,45.764041,4.835658,98,p lyon croixrousse fresquedescanuts,2016,4,16,14,42,0.6192731420343253,undef
+26682092001,45.764041,4.835658,98,p lyon croixrousse fresquedescanuts,2016,4,16,14,42,0.6192731420343253,undef
+26476532210,45.764041,4.835658,98,p lyon quaidesaone,2016,4,16,15,35,0.6193092947358886,undef
+26682429901,45.764041,4.835658,98,p lyon croixrousse traboules,2016,4,16,15,24,0.6193017913449981,undef
+26476496080,45.764041,4.835658,98,p lyon croixrousse traboules,2016,4,16,15,24,0.6193017913449981,undef
+26749207205,45.764041,4.835658,98,p lyon,2016,4,16,15,4,0.6192881488161063,undef
+26723314986,45.764041,4.835658,98,p lyon,2016,4,16,18,37,0.6194334417488044,undef
+30987285576,45.764041,4.835658,98,france lyon lyon auvergnerhnealpes france fr,2014,12,8,19,8,0.133234857963063,undef
+31023133555,45.764041,4.835658,98,france lyon lyon auvergnerhnealpes france fr,2014,12,7,23,1,0.1324115313444399,undef
+30987283796,45.764041,4.835658,98,france lyon lyon auvergnerhnealpes france fr,2014,12,7,22,4,0.1323726501370981,undef
+31023132995,45.764041,4.835658,98,france lyon lyon auvergnerhnealpes france fr,2014,12,7,18,3,0.1322082576639513,undef
+30721294550,45.764041,4.835658,98,france lyon lyon auvergnerhnealpes france fr,2014,12,6,23,24,0.1314449581724523,undef
+22844549608,45.764041,4.835658,98,france lyon lyon auvergnerhnealpes france fr,2014,12,6,22,39,0.1314142624824456,undef
+31023130175,45.764041,4.835658,98,france lyon lyon auvergnerhnealpes france fr,2014,12,8,22,8,0.1333576407230896,undef
+31246155903,45.764044,4.835658,98, lyon auvergnerhnealpes france,2016,12,23,10,46,0.8656599423269093,undef
+31215018784,45.764044,4.835658,98, lyon auvergnerhnealpes france,2016,12,22,15,40,0.8648782254214065,undef
+32055932935,45.764044,4.835658,98, lyon auvergnerhnealpes france,2016,12,22,11,29,0.8647070116838137,undef
+32055844605,45.764044,4.835658,98,nx k copy ,2016,12,20,17,37,0.8629935100549974,undef
+31907933582,45.764044,4.835658,98,nx k copy ,2016,12,20,7,10,0.8625658167742379,undef
+31680991120,45.764044,4.835658,98,nx k lyon auvergnerhnealpes france,2016,12,20,6,33,0.862540578095788,undef
+34600093034,45.764087,4.835678,98,rue rpublique lyon lcl lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite coach ruedelarpublique lcl bank ruedelapoulaillerie ruehenrigermain,2017,6,3,9,52,1.0247495644934366,undef
+45479838984,45.763878,4.835765,98,fte lumires ftedeslumires,2018,12,5,19,1,1.5653681960287664,undef
+48778470877,45.764041,4.835658,98,flight muc bio lyonsaint exupry airport ,2019,7,19,16,57,1.7872748424778155,undef
+48778469662,45.764041,4.835658,98,flight muc bio lyon ,2019,7,19,16,58,1.78727552460426,undef
+48778468132,45.764041,4.835658,98,flight muc bio lyon ,2019,7,19,16,58,1.78727552460426,undef
+48778466322,45.764041,4.835658,98,flight muc bio lyon ,2019,7,19,16,58,1.78727552460426,undef
+48777920493,45.764041,4.835658,98,flight muc bio lyon ,2019,7,19,16,58,1.78727552460426,undef
+48777919008,45.764041,4.835658,98,flight muc bio lyon ,2019,7,19,16,59,1.7872762067307046,undef
+48777917618,45.764041,4.835658,98,flight muc bio lyon ,2019,7,19,17,1,1.7872775709835935,undef
+48778460512,45.764041,4.835658,98,flight muc bio lyon ,2019,7,19,17,1,1.7872775709835935,undef
+48730629341,45.764014,4.835572,98,lion bar ,2019,9,1,16,41,1.8304834599840816,undef

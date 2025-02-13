@@ -1,0 +1,147 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4369963392,45.764184,4.836366,118,envahisseurs exposition observer,2010,2,15,11,55,-1.5928949777220016,undef
+4250764452,45.764184,4.836366,118,serpentaire secrtaire animal bizarre,2010,1,6,10,48,-1.6322311634023166,undef
+4250637990,45.764184,4.836366,118,phyllie gante animal bizarre,2010,1,6,9,17,-1.6322932369087744,undef
+4250637986,45.764184,4.836366,118,gupier deurope animal bizarre gupierdeurope,2010,1,6,9,17,-1.6322932369087744,undef
+4249798179,45.764184,4.836366,118,trilobite drotops animal bizarre,2010,1,6,8,29,-1.6323259789781148,undef
+4249798185,45.764184,4.836366,118,harfang neiges animal bizarre harfangdesneiges,2010,1,6,8,29,-1.6323259789781148,undef
+4249798171,45.764184,4.836366,118,chevalier combattant animal bizarre chevaliercombattant,2010,1,6,8,29,-1.6323259789781148,undef
+4249798175,45.764184,4.836366,118,diodon poisson hrisson animal bizarre,2010,1,6,8,29,-1.6323259789781148,undef
+4249798181,45.764184,4.836366,118,fennec renard sable animal bizarre,2010,1,6,8,29,-1.6323259789781148,undef
+4249798187,45.764184,4.836366,118,maki catta animal bizarre makicatta,2010,1,6,8,29,-1.6323259789781148,undef
+4191454558,45.76444,4.836462,118,anything maria rock lyon maria goth techno electronic anything nuits sonores fesrtival,2009,5,23,20,53,-1.855774231191943,undef
+4191454324,45.76444,4.836462,118,violaine fr rock lyon goth techno electronic fr violaine nuits sonores fesrtival,2009,5,23,19,51,-1.855816523031508,undef
+4190692375,45.76444,4.836462,118,tsugi garden party nuits sonores party rock garden lyon goth techno electronic nuits sonores tsugi fesrtival,2009,5,23,20,6,-1.8558062911348387,undef
+4190692099,45.76444,4.836462,118,tsugi garden party nuits sonores party rock garden lyon goth techno electronic nuits sonores tsugi fesrtival,2009,5,23,18,17,-1.8558806429172996,undef
+4190691861,45.76444,4.836462,118,tsugi garden party nuits sonores party rock garden lyon goth techno electronic nuits sonores tsugi fesrtival,2009,5,23,18,24,-1.8558758680321872,undef
+4191453372,45.76444,4.836462,118,violaine fr rock lyon goth techno electronic fr violaine nuits sonores fesrtival,2009,5,23,19,51,-1.855816523031508,undef
+4191453136,45.76444,4.836462,118,tsugi garden party nuits sonores party rock garden lyon goth techno electronic nuits sonores tsugi fesrtival,2009,5,23,20,6,-1.8558062911348387,undef
+4190691217,45.76444,4.836462,118,tsugi garden party nuits sonores party rock garden lyon goth techno electronic nuits sonores tsugi fesrtival,2009,5,23,20,6,-1.8558062911348387,undef
+4191452640,45.76444,4.836462,118,tsugi garden party nuits sonores party rock garden lyon goth techno electronic nuits sonores tsugi fesrtival,2009,5,23,20,5,-1.8558069732612836,undef
+4191452370,45.76444,4.836462,118,tsugi garden party nuits sonores party rock garden lyon goth techno electronic nuits sonores tsugi fesrtival,2009,5,23,20,5,-1.8558069732612836,undef
+4191452116,45.76444,4.836462,118,tsugi garden party nuits sonores party rock garden lyon goth techno electronic nuits sonores tsugi fesrtival,2009,5,23,20,3,-1.8558083375141723,undef
+4191451858,45.76444,4.836462,118,anything maria rock lyon maria goth techno electronic anything nuits sonores fesrtival,2009,5,23,20,53,-1.855774231191943,undef
+4191451596,45.76444,4.836462,118,violaine fr rock lyon goth techno electronic fr violaine nuits sonores fesrtival,2009,5,23,19,49,-1.855817887284397,undef
+4191451350,45.76444,4.836462,118,violaine fr rock lyon goth techno electronic fr violaine nuits sonores fesrtival,2009,5,23,19,48,-1.8558185694108416,undef
+4191451148,45.76444,4.836462,118,violaine fr rock lyon goth techno electronic fr violaine nuits sonores fesrtival,2009,5,23,19,48,-1.8558185694108416,undef
+4190689199,45.76444,4.836462,118,tsugi garden party nuits sonores party rock garden lyon goth techno electronic nuits sonores tsugi fesrtival,2009,5,23,19,43,-1.8558219800430644,undef
+4190689013,45.76444,4.836462,118,flair fr party rock garden lyon goth techno electronic fr nuits flair sonores tsugi fesrtival,2009,5,23,19,14,-1.8558417617099576,undef
+4190688793,45.76444,4.836462,118,flair fr party rock garden lyon goth techno electronic fr nuits flair sonores tsugi fesrtival,2009,5,23,19,14,-1.8558417617099576,undef
+4190688577,45.76444,4.836462,118,tsugi garden party nuits sonores party rock garden lyon goth techno electronic nuits sonores tsugi fesrtival,2009,5,23,18,32,-1.8558704110206303,undef
+4191449986,45.76444,4.836462,118,tsugi garden party nuits sonores party rock garden lyon goth techno electronic nuits sonores tsugi fesrtival,2009,5,23,18,32,-1.8558704110206303,undef
+4191449724,45.76444,4.836462,118,tsugi garden party nuits sonores party rock garden lyon goth techno electronic nuits sonores tsugi fesrtival,2009,5,23,18,24,-1.8558758680321872,undef
+4191449460,45.76444,4.836462,118,tsugi garden party nuits sonores party rock garden lyon goth techno electronic nuits sonores tsugi fesrtival,2009,5,23,18,24,-1.8558758680321872,undef
+4191449202,45.76444,4.836462,118,tsugi garden party nuits sonores party rock garden lyon goth techno electronic nuits sonores tsugi fesrtival,2009,5,23,18,23,-1.855876550158632,undef
+4190687331,45.76444,4.836462,118,tsugi garden party nuits sonores party rock garden lyon goth techno electronic nuits sonores tsugi fesrtival,2009,5,23,18,16,-1.855881325043744,undef
+4190687093,45.76444,4.836462,118,tsugi garden party nuits sonores party rock garden lyon goth techno electronic nuits sonores tsugi fesrtival,2009,5,23,18,16,-1.855881325043744,undef
+4191448566,45.76444,4.836462,118,tsugi garden party nuits sonores party rock garden lyon goth techno electronic nuits sonores tsugi fesrtival,2009,5,23,18,29,-1.8558724573999643,undef
+4176419568,45.764184,4.836366,118,muse confluence muse confluence,2009,12,11,10,54,-1.6577658847291916,undef
+4176419558,45.764184,4.836366,118,muse confluence muse confluence,2009,12,11,10,54,-1.6577658847291916,undef
+4176419566,45.764184,4.836366,118,muse confluence muse confluence,2009,12,11,10,54,-1.6577658847291916,undef
+4834732335,45.764446,4.836237,118,dsc jpg duchesssays ttt nuitssonores chob lastfmevent,2010,5,14,17,20,-1.5062342235687494,undef
+4835338870,45.764446,4.836237,118,dsc jpg duchesssays ttt nuitssonores chob lastfmevent,2010,5,14,17,20,-1.5062342235687494,undef
+4835336996,45.764446,4.836237,118,dsc jpg duchesssays ttt nuitssonores chob lastfmevent,2010,5,14,17,33,-1.5062253559249696,undef
+4835334330,45.764446,4.836237,118,dsc jpg duchesssays ttt nuitssonores chob lastfmevent,2010,5,15,16,59,-1.5052662861438726,undef
+5148452182,45.764342,4.836344,118,palais commerce france lyon fra rhnealpes,2010,10,26,15,1,-1.344255795909373,undef
+5252908632,45.7645,4.836333,118,lyon fte lumires hipstamatic jimmylens inas film,2010,12,11,18,39,-1.2989230366546456,undef
+5648191464,45.764372,4.836376,118,p lyon,2011,4,20,13,46,-1.171428829275198,undef
+5647626847,45.764372,4.836376,118,p lyon,2011,4,20,13,45,-1.1714295114016426,undef
+5648190732,45.764372,4.836376,118,p lyon,2011,4,20,13,45,-1.1714295114016426,undef
+5602524371,45.764274,4.836376,118,place bourselyon avril france architecture lyon printemps paysageurbain,2011,4,2,9,50,-1.189270528559959,undef
+5588180967,45.76439,4.836387,118,printemps printemps arbreenfleurs palaisducommerce lyonmagnolia,2013,3,1,0,0,-0.5030717890932562,undef
+5588179971,45.76439,4.836387,118,printemps ii fleur lyon printemps arbreenfleurs,2013,3,1,0,0,-0.5030717890932562,undef
+5588772490,45.76439,4.836387,118,srie noire polar gallimard romannoir lyonsrienoirequaisdupolar,2013,3,1,0,0,-0.5030717890932562,undef
+5588178355,45.76439,4.836387,118,arme crime gun revolver affiche arme lyonquaisdupolarpalaisducommerce,2013,3,1,0,0,-0.5030717890932562,undef
+5588771404,45.76439,4.836387,118, lyon quaisdupolar,2013,3,1,0,0,-0.5030717890932562,undef
+5588769826,45.76439,4.836387,118,quais polar palaisducommerce lyonquaisdupolar,2013,3,1,0,0,-0.5030717890932562,undef
+6043106562,45.764544,4.836355,118,impression lyonnais france frankreich lyon rhne sane rhnealpes chambredecommerce,2011,8,12,15,15,-1.0593902428773267,undef
+6409964011,45.764162,4.836371,118,march soy commerce lyon palais bourse soy,2011,11,24,16,40,-0.9571770057873658,undef
+7426547210,45.764473,4.836366,118,superbe merci davymourier monsieurpoulpe square nashville squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bec b fea,2012,6,23,18,53,-0.748846721965041,undef
+7426228638,45.764473,4.836366,118,prpuce cc davymourier monsieurpoulpe square squareformat brannan iphoneography instagramapp uploadedbyinstagram foursquarevenue bec b fea,2012,6,23,17,54,-0.7488869674252719,undef
+7422559636,45.7645,4.836333,118,lyon france lyon rhnealpes,2012,6,22,17,46,-0.7498746865170418,undef
+7422558894,45.7645,4.836333,118,lyon france lyon rhnealpes,2012,6,22,17,46,-0.7498746865170418,undef
+8032795267,45.764364,4.836323,118,lyon rain lyon,2012,9,26,19,3,-0.655525003080343,undef
+8060912590,45.764342,4.836366,118,place bourse voyage trip travel france europa europe lyon frana viagem placedelabourse,2011,8,27,15,20,-1.044652901041906,undef
+8060910357,45.764342,4.836366,118,palais bourse voyage trip travel france europa europe lyon frana viagem placedelabourse palaisdelabourse,2011,8,27,15,20,-1.044652901041906,undef
+8060910213,45.764342,4.836366,118,palais bourse voyage trip travel france europa europe lyon frana viagem placedelabourse palaisdelabourse,2011,8,27,15,19,-1.0446535831683508,undef
+8494247767,45.764544,4.836291,118, lyon,2013,2,17,19,12,-0.5140731243916438,undef
+8494247627,45.764544,4.836291,118, lyon,2013,2,17,19,13,-0.5140724422651992,undef
+8495344868,45.764544,4.836291,118, lyon,2013,2,17,19,13,-0.5140724422651992,undef
+8472541307,45.764473,4.836366,118,place bourse lyon igerslyon bnwlyon igers city cityscape square willow squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bec b fea,2013,2,14,14,0,-0.5172327340829962,undef
+8264459294,45.764409,4.83628,118,corazon ,2012,12,6,23,26,-0.5856049961302794,undef
+8263388597,45.764409,4.83628,118,corazon ,2012,12,6,23,26,-0.5856049961302794,undef
+8264456456,45.764409,4.83628,118,corazon ,2012,12,6,23,27,-0.5856043140038348,undef
+8263386157,45.764409,4.83628,118,corazon ,2012,12,6,23,28,-0.5856036318773903,undef
+8554335111,45.764333,4.836333,118,heart light uploadedbyflickrmobile flickriosappfiltertoucan toucanfilter,2012,12,5,19,2,-0.586767339591865,undef
+8636522755,45.764473,4.836366,118,place bourse fleurs lyon igerslyon igersfrance igers flower printemps spring square squareformat mayfair iphoneography instagramapp uploadedbyinstagram foursquarevenue bec b fea,2013,4,10,14,12,-0.4632001341539362,undef
+8803320848,45.764334,4.83628,118, ,2013,4,17,17,29,-0.4561899206828592,undef
+8755618732,45.764473,4.836366,118,upload square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bec b fea,2013,5,19,14,49,-0.4248666743471723,undef
+8754493383,45.764473,4.836366,118,upload square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bec b fea,2013,5,19,14,49,-0.4248666743471723,undef
+8755098674,45.764473,4.836366,118,upload square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bec b fea,2013,5,19,11,53,-0.4249867286014206,undef
+9816451425,45.764473,4.836366,118,upload square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue bec b fea,2013,9,19,3,58,-0.3044925027963809,undef
+9714791779,45.764473,4.836366,118,upload square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bec b fea,2013,9,10,5,44,-0.3132605561151728,undef
+9701240550,45.764473,4.836366,118,sad rainy day triste journe pluvieuse square squareformat sutro iphoneography instagramapp uploadedbyinstagram foursquarevenue bec b fea,2013,9,8,5,5,-0.3152516832069382,undef
+10216634803,45.764473,4.836366,118,winter close lhiver bientt lyon night square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bec b fea,2013,10,11,17,17,-0.2823377180024616,undef
+10185756773,45.764473,4.836366,118,upload square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bec b fea,2013,10,10,3,16,-0.2838936484225771,undef
+10612679606,45.764473,4.836366,118,walking around gnie balade gnie lyon night architecture historic sky black saxotaz fall france picoftheday instagood square sierra squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bec b fea,2013,11,1,10,52,-0.2619728329991529,undef
+12696924985,45.764473,4.836366,118,upload square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bec b fea,2014,2,22,6,52,-0.1511409282817659,undef
+11935736573,45.764473,4.836366,118,upload square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue bec b fea,2014,1,13,13,17,-0.1901687928091249,undef
+11894107044,45.764252,4.836376,118,test pws h france commerce lyon rhne chambre h placedelabourse lindustrie rhnealpes cordeliers presqule lescordeliers powershotsx palisdelabourse lyoncanoncanon,2014,12,11,12,32,0.1359115221316439,undef
+11894535216,45.764327,4.836376,118,test pws h france commerce lyon rhne chambre h placedelabourse lindustrie rhnealpes cordeliers presqule lescordeliers powershotsx palisdelabourse lyoncanoncanon,2014,12,11,12,32,0.1359115221316439,undef
+11859221654,45.764473,4.836366,118,picture filter mme photo sans filtre square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bec b fea,2014,1,9,11,41,-0.1941633252686585,undef
+11859033893,45.764473,4.836366,118,taken afternoon new camera prise cet aprsmidi nouvel appareil photo lyon afternoon art photography saxotaz winter instagood pictureoftheday followme square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue bec b fea,2014,1,9,11,38,-0.1941653716479923,undef
+11601331524,45.764473,4.836366,118,amazing nature merveilles nature lyon noon art photography tree mushroom saxotaz winter instagood picoftheday followme square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue bec b fea,2013,12,28,3,13,-0.2062969904650697,undef
+13065360603,45.764473,4.836366,118,lovely evening weather quelle belle soire art photography placedelabourse saxotaz winter france instagood pictureoftheday followme square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue bec b fea,2014,3,10,11,18,-0.1352432893640934,undef
+13895035245,45.764309,4.836401,118,lemon pie tarte citron valencia square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bec b fea,2014,4,16,7,18,-0.0990633027429079,undef
+14924643556,45.764252,4.836376,118,panasonic lumix dmcfz lumix panasonic panasoniclumixfz dmcfz,2014,8,11,20,56,0.0164193400737106,undef
+14947279452,45.764252,4.836376,118,panasonic lumix dmcfz lumix panasonic panasoniclumixfz dmcfz,2014,8,11,21,14,0.0164316183497133,undef
+14761078707,45.764252,4.836376,118,panasonic lumix dmcfz lumix panasonic panasoniclumixfz dmcfz,2014,8,11,21,16,0.0164329826026025,undef
+14761075337,45.764252,4.836376,118,panasonic lumix dmcfz lumix panasonic panasoniclumixfz dmcfz,2014,8,11,21,17,0.0164336647290471,undef
+14760946910,45.764252,4.836376,118,panasonic lumix dmcfz lumix panasonic panasoniclumixfz dmcfz,2014,8,11,21,18,0.0164343468554917,undef
+14861118635,45.764252,4.836376,118,panasonic lumix dmcfz france lumix lyon panasonic presqule panasoniclumixfz dmcfz,2014,8,4,16,52,0.0093770666597378,undef
+14674513298,45.764252,4.836376,118,panasonic lumix dmcfz france lumix lyon panasonic presqule panasoniclumixfz dmcfz,2014,8,4,16,52,0.0093770666597378,undef
+11354595516,45.764473,4.836366,118,walking around gnie balade gnie lyon sunset sky beauty cloud dramatic enigmatic beauty place dela bourse architecture historic saxotaz fall france picoftheday instagood followme square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bec b fea,2013,12,13,8,15,-0.2208249194820004,undef
+11309129756,45.764473,4.836366,118,late lunch djeuner tardif lyon afternoon lemyrliton rue neuve friend ilove withallmyheart saxotaz fall france picoftheday instagood followme square squareformat hudson iphoneography instagramapp uploadedbyinstagram foursquarevenue bec b fea,2013,12,10,7,36,-0.2237983086539791,undef
+11267101336,45.764473,4.836366,118,fete lumires fete fetedeslumieres lyon igerslyon onlylyon lumiere light lightfest decembre rhone rhonealpes fest square lumiere squareformat mayfair lumieres decembre fetedeslumieres iphoneography instagramapp,2013,12,8,11,28,-0.22560457947926,undef
+11266723043,45.764473,4.836366,118,fete lumires fete fetedeslumieres lyon igerslyon onlylyon lumiere light lightfest decembre rhone rhonealpes fest valencia square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bec b fea,2013,12,8,10,48,-0.2256318645370437,undef
+11234576643,45.764473,4.836366,118,going happen va passer ici magie arrive lyon morning art photography architecture historic sky place dela bourse light festival ftedeslumires preview ilovelyon proud tobe alyonnais saxotaz square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue bec b fea,2013,12,6,2,14,-0.2279470016899905,undef
+11225766073,45.764473,4.836366,118,upload square squareformat amaro iphoneography instagramapp uploadedbyinstagram foursquarevenue bec b fea,2013,12,5,11,35,-0.2285465908347873,undef
+16902603572,45.764416,4.836484,118,p lyon monument printemps augusteisaac,2015,3,23,16,19,0.2362570970163107,undef
+20035213391,45.764401,4.836344,118,lyon france lyon rhne sane rhnealpes,2015,7,26,10,52,0.3588168016955764,undef
+24856786806,45.764269,4.836363,118,francia lione festa delle lione evento luci festa francia festedelleluci,2014,12,5,20,15,0.1303337741942112,undef
+24789668331,45.764269,4.836363,118,francia lione festa delle lione evento luci festa francia festedelleluci,2014,12,5,20,15,0.1303337741942112,undef
+24856779016,45.764269,4.836363,118,francia lione festa delle lione evento luci festa francia festedelleluci,2014,12,5,20,16,0.1303344563206557,undef
+24254895144,45.764269,4.836363,118,francia lione festa delle lione evento luci festa francia bancarelle festedelleluci,2014,12,5,20,16,0.1303344563206557,undef
+24587587770,45.764269,4.836363,118,francia lione festa delle lione evento luci festa francia festedelleluci,2014,12,5,20,17,0.1303351384471003,undef
+24256074533,45.764269,4.836363,118,francia lione festa delle lione evento luci festa francia festedelleluci,2014,12,5,20,15,0.1303337741942112,undef
+24256069763,45.764269,4.836363,118,francia lione festa delle lione evento luci festa francia festedelleluci,2014,12,5,20,15,0.1303337741942112,undef
+24124044766,45.764282,4.836355,118,place bourse lyon france statue place lyon pentax statue horloge bourse toit nuit k fkg fkgphoto,2016,1,3,8,2,0.5168450351143176,undef
+34539168840,45.76443,4.836313,118, ,2017,5,27,16,57,1.018163633670896,undef
+35763186691,45.764361,4.836344,118,palais bourse lyon lyon france placedelabourse bourse palaisdelabourse,2017,7,13,2,33,1.0637405941927875,undef
+36498115192,45.764289,4.836355,118,palais bourse palaisdelabourse placedelabourse man male homme hombre uomo seminude seminu halfnaakt halfnaked torsenu torse torso chest barechested borstkas nipple tepels beard barbe baard europa europe escultura estatua sculpture statue statua beeld beeldhouwwerk monochrome monochroom monotone building gebouw gebade btiment portret portrait ritratto retrato face gezicht visage lyon france frankrijk frankreich frana francia rhnealpes portrt mand ttons,2017,7,21,8,45,1.0718524418718811,undef
+35652941044,45.764304,4.836344,118,palais bourse sculpture france men statue club beard frankreich europa europe nipple lyon barechested chest frana escultura torso frankrijk bellybutton navel estatua francia statua knot seminude hommes barbe mnner beeld halfnaked torse hombre placedelabourse uomini mannen nombril beeldhouwwerk torsenu baard borst tepels palaisdelabourse seminu halfnaakt rhnealpes building btiment gebude gebouw architecture arquitectura architektur architectuur mand ttons,2017,7,21,8,43,1.0718510776189922,undef
+36619945724,45.764469,4.836297,118, ,2017,9,26,10,41,1.137743127913737,undef
+36619693194,45.764469,4.836297,118, ,2017,9,26,10,41,1.137743127913737,undef
+36517232784,45.764213,4.836402,118, ,2017,9,21,16,21,1.1330637405038326,undef
+37061998544,45.764244,4.836376,118,autre regard ville lyon reflet lyon photoboillonchristophe city,2017,10,15,9,59,1.156377458127115,undef
+36659355653,45.764469,4.836297,118, ,2017,9,26,10,41,1.137743127913737,undef
+36619298414,45.764469,4.836297,118, ,2017,9,26,10,41,1.137743127913737,undef
+36659090163,45.764469,4.836297,118, ,2017,9,26,10,41,1.137743127913737,undef
+37071298840,45.764469,4.836297,118, ,2017,9,26,10,41,1.137743127913737,undef
+23475880858,45.764469,4.836297,118, ,2017,9,26,10,41,1.137743127913737,undef
+37280397196,45.764469,4.836297,118, ,2017,9,26,10,41,1.137743127913737,undef
+37549899174,45.764391,4.836308,118, ,2017,11,8,10,12,1.1799606156960107,undef
+38228924702,45.764411,4.836411,118, ,2017,11,8,10,9,1.179958569316677,undef
+37549899104,45.764391,4.836308,118, ,2017,11,8,10,12,1.1799606156960107,undef
+31599767166,45.764488,4.836363,118,magnolia city magnolia profondeur,2014,3,11,9,59,-0.134314915273003,undef
+31487763135,45.764408,4.836419,118, ,2016,12,7,18,23,0.8502554808286773,undef
+28392673129,45.764304,4.836344,118,palais bourse building gebouw gebude btiment architectuur architecture architektur arquitectura mannen men mnner hommes hombre uomini seminude seminu halfnaakt halfnaked beard baard barbe barba bart stone stein pierre steen lyon rhnealpes france frankrijk frankreich francia frana europa europe monochrome monochroom monotone sculpture escultura statue estatua statua beeld beeldhouwwerk mand,2017,7,21,8,42,1.0718503954925476,undef
+41081070375,45.764267,4.836344,118,cci lyon lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,7,9,25,1.356735730191487,undef
+41047889875,45.764259,4.836366,118,cci lyon lyon france french francia frana frankrijk francie frankrig frankreich franciaorszg francja fransa frana frankryk perancis pransiya php lione,2018,5,6,19,33,1.356168200989586,undef
+42666915115,45.764536,4.836312,118,passage largue ,2018,7,22,18,34,1.43176213570577,undef
+42166690910,45.764192,4.83643,118,symbole h jacquesmeynierdemalviala symbole toilette,2018,8,10,11,17,1.4501270259735335,undef
+30483132387,45.764289,4.836355,118,palais bourse clock horloge uhr klok building gebouw gebude btiment architectuur architecture architektur arquitectura lyon rhnealpes france frankrijk frankreich francia frana europa europe monochrome monochroom monotone night nacht nuit dark dunkel donker soir evening abend avond sculpture escultura statue estatua statua beeld beeldhouwwerk skulptur mannen men mnner hommes hombre uomini vrouwen femmes donne mujeres woman frau mand,2017,7,22,21,34,1.073359259187986,undef
+38050358845,45.764422,4.836483,118, ,2017,12,9,12,2,1.2104857740915245,undef
+44396313270,45.764438,4.836413,118, ,2018,12,6,23,0,1.5665134863292371,undef
+31274272927,45.764355,4.836322,118, ,2018,12,6,23,0,1.5665134863292371,undef
+45300510015,45.764405,4.836397,118, ,2018,12,6,22,57,1.5665114399499034,undef

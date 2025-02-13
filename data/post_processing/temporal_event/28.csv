@@ -1,0 +1,627 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4242086885,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,10,-1.6773183571369907,undef
+4242086277,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,10,-1.6773183571369907,undef
+4242084541,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,6,-1.677321085642769,undef
+4242079129,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,13,-1.677316310757657,undef
+4242078669,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,15,12,-1.6772351377107504,undef
+4242078401,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,15,12,-1.6772351377107504,undef
+4242850184,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,15,11,-1.677235819837195,undef
+4242848920,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,15,10,-1.6772365019636395,undef
+4242847854,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,15,9,-1.6772371840900842,undef
+4242847238,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,15,9,-1.6772371840900842,undef
+4242074883,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,15,-1.6773149465047676,undef
+4242073967,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,15,-1.6773149465047676,undef
+4242845024,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,12,-1.6773169928841014,undef
+4242841146,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,17,-1.6773135822518783,undef
+4242064675,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,51,-1.6772494623660867,undef
+4242836358,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,50,-1.6772501444925314,undef
+4242063929,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,50,-1.6772501444925314,undef
+4242059107,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,48,-1.6772515087454205,undef
+4242058767,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,48,-1.6772515087454205,undef
+4242830678,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,48,-1.6772515087454205,undef
+4242830324,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,47,-1.6772521908718652,undef
+4242057741,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,47,-1.6772521908718652,undef
+4242829676,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,46,-1.6772528729983098,undef
+4242057019,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,46,-1.6772528729983098,undef
+4242828648,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,46,-1.6772528729983098,undef
+4242056069,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,46,-1.6772528729983098,undef
+4242827822,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,46,-1.6772528729983098,undef
+4242055217,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,45,-1.6772535551247545,undef
+4242827116,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,45,-1.6772535551247545,undef
+4242826870,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,45,-1.6772535551247545,undef
+4242054485,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,44,-1.677254237251199,undef
+4242819674,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,52,-1.6772487802396423,undef
+4242047325,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,52,-1.6772487802396423,undef
+4242818688,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,52,-1.6772487802396423,undef
+4242818372,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,52,-1.6772487802396423,undef
+4242046041,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,51,-1.6772494623660867,undef
+4242045737,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,41,-1.6772562836305327,undef
+4242045393,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,41,-1.6772562836305327,undef
+4242045053,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,39,-1.677257647883422,undef
+4242811040,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,38,-1.6772583300098665,undef
+4242810566,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,38,-1.6772583300098665,undef
+4242038087,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,33,-1.6772617406420895,undef
+4242037841,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,32,-1.677262422768534,undef
+4242809576,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,31,-1.6772631048949789,undef
+4242037085,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,30,-1.677263787021423,undef
+4242033171,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,58,-1.6772446874809748,undef
+4242032849,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,36,-1.6772596942627558,undef
+4242032143,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,34,-1.6772610585156449,undef
+4242031925,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,30,-1.677263787021423,undef
+4242802922,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,29,-1.6772644691478678,undef
+4242023197,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,59,-1.67724400535453,undef
+4242022675,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,28,-1.6772651512743124,undef
+4242794176,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,25,-1.6772671976536462,undef
+4242793898,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,26,-1.6772665155272015,undef
+4242793570,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,25,-1.6772671976536462,undef
+4242793264,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,15,-1.677274018918092,undef
+4242792352,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,17,-1.677272654665203,undef
+4242019969,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,15,-1.677274018918092,undef
+4242791516,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,14,-1.6772747010445368,undef
+4242019263,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,16,-1.6772733367916477,undef
+4242018829,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,18,-1.6772719725387584,undef
+4242790250,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,13,-1.6772753831709812,undef
+4242017705,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,12,-1.677276065297426,undef
+4242789252,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,26,-1.6772665155272015,undef
+4242017039,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,12,-1.677276065297426,undef
+4242016765,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,11,-1.6772767474238706,undef
+4242016441,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,10,-1.6772774295503152,undef
+4242787682,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,7,-1.677279475929649,undef
+4242787324,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,7,-1.677279475929649,undef
+4242786922,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,6,-1.6772801580560934,undef
+4242786630,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,4,-1.6772815223089828,undef
+4242003831,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,22,-1.67726924403298,undef
+4242003347,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,2,-1.677282886561872,undef
+4242002923,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,2,-1.677282886561872,undef
+4242002529,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,1,-1.6772835686883163,undef
+4242774478,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,14,0,-1.677284250814761,undef
+4242773708,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,59,-1.6772849329412056,undef
+4242773284,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,57,-1.6772862971940947,undef
+4242772650,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,56,-1.6772869793205394,undef
+4242772238,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,56,-1.6772869793205394,undef
+4241999639,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,56,-1.6772869793205394,undef
+4241999181,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,55,-1.677287661446984,undef
+4241998865,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,55,-1.677287661446984,undef
+4241998173,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,54,-1.6772883435734285,undef
+4242769592,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,53,-1.6772890256998731,undef
+4241997027,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,52,-1.6772897078263178,undef
+4241996625,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,51,-1.6772903899527625,undef
+4241994861,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,50,-1.677291072079207,undef
+4241994369,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,50,-1.677291072079207,undef
+4242765822,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,49,-1.6772917542056516,undef
+4242765374,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,48,-1.6772924363320962,undef
+4241992617,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,47,-1.677293118458541,undef
+4242764612,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,47,-1.677293118458541,undef
+4241991545,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,46,-1.6772938005849851,undef
+4242763540,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,46,-1.6772938005849851,undef
+4241990499,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,46,-1.6772938005849851,undef
+4242762660,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,46,-1.6772938005849851,undef
+4241988819,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,44,-1.6772951648378744,undef
+4242760908,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,44,-1.6772951648378744,undef
+4242760374,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,41,-1.6772972112172082,undef
+4241987201,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,39,-1.6772985754700975,undef
+4242759088,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,30,-1.6773047146080988,undef
+4241986187,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,30,-1.6773047146080988,undef
+4242757928,45.736765,4.815123,28,biennale artcontemporain biennaledelyon,2009,11,21,13,28,-1.677306078860988,undef
+4104049586,45.736913,4.815002,28,palas por pistolas xe biennale lyon france lyon artcontemporain pedroreyes biennaledelyon sucrire dalbera anniedalbera,2009,11,13,19,45,-1.6849070138330822,undef
+4103281357,45.736913,4.815002,28,salle sucrire xe biennale lyon france lyon artcontemporain biennaledelyon sucrire danperjovschi dalbera,2009,11,13,16,56,-1.6850222932022183,undef
+4103279971,45.736913,4.815002,28,edinburgh castle xe biennale lyon france lyon artcontemporain biennaledelyon sucrire dalbera takahiroiwasaki anniedalbera,2009,11,13,17,30,-1.684999100903102,undef
+4104039660,45.736913,4.815002,28,sculpture xe biennale lyon france lyon artcontemporain biennaledelyon sucrire dalbera takahiroiwasaki,2009,11,13,16,20,-1.6850468497542237,undef
+4103291427,45.736913,4.815002,28,love xijing xe biennale lyon france lyon artcontemporain biennaledelyon sucrerie dalbera xijingmen,2009,11,13,19,48,-1.6849049674537482,undef
+4104050658,45.736913,4.815002,28,jardin pin xe biennale lyon france lyon artcontemporain biennaledelyon sucrire dalbera yangjianggroup,2009,11,13,19,16,-1.6849267954999751,undef
+4103289851,45.736913,4.815002,28,palas por pistolas xe biennale lyon france lyon artcontemporain pedroreyes biennaledelyon sucrire dalbera anniedalbera,2009,11,14,21,23,-1.6838579033612988,undef
+4103289125,45.736913,4.815002,28,cabanes dagns xe biennale lyon france lyon artcontemporain agnsvarda biennaledelyon sucrire dalbera,2009,11,13,19,10,-1.684930888258643,undef
+4103288583,45.736913,4.815002,28,cabanes dagns xe biennale lyon france lyon artcontemporain agnsvarda biennaledelyon sucrire dalbera,2009,11,13,19,8,-1.684932252511532,undef
+4103287603,45.736913,4.815002,28,cabanes dagns xe biennale lyon france lyon artcontemporain biennaledelyon sucrire dalbera anniedalbera,2009,11,13,20,31,-1.6848756360166308,undef
+4103286907,45.736913,4.815002,28,underground flower xe biennale lyon france lyon artcontemporain biennaledelyon sucrire dalbera yangjiechang,2009,11,13,18,49,-1.6849452129139793,undef
+4103286293,45.736913,4.815002,28,difference day made xe biennale lyon france lyon artcontemporain michaellin biennaledelyon sucrire dalbera,2009,11,13,17,46,-1.6849881868799883,undef
+4103285669,45.736913,4.815002,28,difference day made xe biennale lyon france lyon artcontemporain michaellin biennaledelyon sucrerie dalbera,2009,11,13,17,44,-1.6849895511328778,undef
+4103283773,45.736913,4.815002,28,difference day made xe biennale lyon france lyon artcontemporain michaellin biennaledelyon sucrire dalbera,2009,11,13,17,35,-1.6849956902708791,undef
+4104043128,45.736913,4.815002,28,installation xe biennale lyon france art lyon barrymcgee artcontemporain biennaledelyon sucrerie sucrire dalbera,2009,11,13,17,25,-1.685002511535325,undef
+4104042716,45.736913,4.815002,28,installation xe biennale lyon france art lyon barrymcgee artcontemporain biennaledelyon sucrerie sucrire dalbera,2009,11,13,17,23,-1.6850038757882142,undef
+4103282039,45.736913,4.815002,28,installation xe biennale lyon france lyon barrymcgee artcontemporain biennaledelyon sucrire dalbera,2009,11,13,17,22,-1.6850045579146589,undef
+4104040612,45.736913,4.815002,28,everyday drawing xe biennale lyon france lyon artcontemporain biennaledelyon sucrire danperjovschi dalbera,2009,11,13,17,5,-1.6850161540642168,undef
+4103279111,45.736913,4.815002,28,untitled xe biennale lyon france lyon artcontemporain sarahsze biennaledelyon sucrire dalbera anniedalbera,2009,11,13,18,29,-1.6849588554428712,undef
+4103278495,45.736913,4.815002,28,head xe biennale lyon france lyon artcontemporain non headon biennaledelyon sucrire adelabdessemed dalbera,2009,11,13,16,47,-1.6850284323402196,undef
+4103277793,45.736913,4.815002,28,city xe biennale lyon france lyon artcontemporain biennaledelyon sucrire dalbera lyonsucrerieart onlycity liuqingyuan yahlab,2009,11,13,16,34,-1.685037299983999,undef
+4103276351,45.736913,4.815002,28,city xe biennale lyon france lyon artcontemporain biennaledelyon sucrire dalbera anniedalbera onlycity liuqingyuan yahlab,2009,11,13,17,40,-1.684992279638656,undef
+4104036294,45.736913,4.815002,28,city xe biennale lyon france lyon artcontemporain biennaledelyon sucrire dalbera anniedalbera onlycity liuqingyuan yahlab,2009,11,13,17,37,-1.6849943260179898,undef
+4104035794,45.736913,4.815002,28,city xe biennale lyon france lyon artcontemporain biennaledelyon sucrire dalbera onlycity liuqingyuan yahlab,2009,11,13,16,19,-1.685047531880668,undef
+4103275221,45.736913,4.815002,28,city xe biennale lyon france lyon artcontemporain biennaledelyon sucrire dalbera onlycity liuqingyuan yahlab,2009,11,13,16,18,-1.6850482140071128,undef
+4103274633,45.736913,4.815002,28,sans titre shilpa gupta xe biennale lyon france lyon grille artcontemporain biennaledelyon sucrire dalbera shilpagupta,2009,11,13,15,42,-1.685072770559118,undef
+4103274079,45.736913,4.815002,28,faade sucrire xe biennale lyon france lyon artcontemporain biennaledelyon sucrire dalbera,2009,11,13,15,34,-1.6850782275706748,undef
+6086298036,45.737132,4.814876,28,chambre commerce lyon port rambaud city blue urban france color architecture port commerce lyon turquoise ufo bleu chambre quai catchy ville confluence ovni urbain rambaud,2010,7,23,9,5,-1.4378135305439002,undef
+6300538122,45.736889,4.815015,28,biennale dart contemporain square lyon squareformat rail biennale artcontemporain confluence lordkelvin passants lasucrire trotinettes iphoneography instagramapp uploadedbyinstagram foursquarevenue cbdbef bf,2011,11,1,0,8,-0.9804457030653048,undef
+6341279048,45.736889,4.815015,28,bibliothque abandonne square book lyon library squareformat bibliothque biennale artcontemporain hefe livres abandonne chaufferie iphoneography instagramapp uploadedbyinstagram foursquarevenue cbdbef bf,2011,11,13,18,56,-0.9678891194732462,undef
+6336964663,45.736889,4.815015,28, valencia square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue cbdbef bf,2011,11,12,17,19,-0.9689375478185848,undef
+6677555829,45.736664,4.815037,28,petit verre sucre window blackandwhite bw lyon noiretblanc entrance nb bn confluence entre fentres lasucrire ef mmf lisusm caoneos,2011,12,11,15,45,-0.9405160673781944,undef
+8000522797,45.737039,4.814822,28,lyon confluence bw lyon rhne nb grue confluence berges sane rambaud,2012,8,9,9,8,-0.7030794481651081,undef
+8057123221,45.736904,4.814876,28,dsc web simple,2012,6,2,16,18,-0.7695799552484296,undef
+8334453443,45.73689,4.815016,28,confluence dimanche testing flickr app filter architecture paysage lasucrire uploadedbyflickrmobile flickriosappfiltersalamander salamanderfilter,2012,12,30,15,52,-0.5623403916110081,undef
+8545496784,45.73708,4.815055,28, lyon artcontemporain confluence couch merde lightroom aat lasucrire quaisdesane musedelasucrire souilles,2012,12,30,14,32,-0.5623949617265755,undef
+8542313360,45.73708,4.815055,28,sou lyon nb artcontemporain confluence lightroom aat lasucrire pices quaisdesane soudes musedelasucrire,2012,12,30,14,19,-0.5624038293703552,undef
+8541202637,45.73708,4.815055,28,plastique lyon artcontemporain arbre confluence lightroom aat poupes lasucrire quaisdesane musedelasucrire,2012,12,30,14,6,-0.5624126970141349,undef
+8541191617,45.73708,4.815055,28,niche rai chien lyon artcontemporain confluence lightroom aat lasucrire quaisdesane musedelasucrire,2012,12,30,14,3,-0.5624147433934686,undef
+8542184874,45.73708,4.815055,28,shining mao statue rouge lyon mao confluence lightroom aat lasucrire quaisdesane musedelasucrire,2012,12,30,14,2,-0.5624154255199133,undef
+8658654070,45.737,4.815166,28,photo confluence villedelyon lyoncity quartierdelaconfuence,2013,3,23,13,10,-0.4809231434373382,undef
+9516664215,45.737159,4.814822,28,old sugar warehouse confluence district lyon sign lyon confluence ndmay portrambaud sugarwarehouse chambredecommercedelyon confluencecruise oldsugarwarehouse,2013,5,2,15,56,-0.4415194272390086,undef
+10007954116,45.737099,4.814908,28,bl france lyon,2013,9,28,18,9,-0.2950716544701141,undef
+10007881994,45.737099,4.814908,28,bl france lyon,2013,9,28,18,9,-0.2950716544701141,undef
+10008013393,45.737099,4.814908,28,bl france lyon,2013,9,28,18,8,-0.2950723365965587,undef
+10007910285,45.737099,4.814908,28,bl france lyon,2013,9,28,18,10,-0.2950709723436695,undef
+10007953506,45.737099,4.814908,28,bl france lyon,2013,9,28,18,6,-0.2950737008494479,undef
+10008012933,45.737099,4.814908,28,bl france lyon,2013,9,28,18,5,-0.2950743829758925,undef
+10007953316,45.737099,4.814908,28,bl people france lyon,2013,9,28,17,44,-0.2950887076312289,undef
+10007953026,45.737099,4.814908,28,bl france lyon,2013,9,28,18,6,-0.2950737008494479,undef
+10007880914,45.737099,4.814908,28,bl france lyon,2013,9,28,18,6,-0.2950737008494479,undef
+10007952856,45.737099,4.814908,28,bl france lyon,2013,9,28,18,7,-0.2950730187230033,undef
+10007880224,45.737099,4.814908,28,bl france lyon,2013,9,28,17,43,-0.2950893897576735,undef
+10007908735,45.737099,4.814908,28,bl people france lyon,2013,9,28,18,7,-0.2950730187230033,undef
+10007952386,45.737099,4.814908,28,bl people france lyon,2013,9,28,17,46,-0.2950873433783397,undef
+10007879864,45.737099,4.814908,28,bl france lyon,2013,9,28,17,48,-0.2950859791254506,undef
+10007952156,45.737099,4.814908,28,bl france lyon,2013,9,28,17,50,-0.2950846148725614,undef
+10007908085,45.737099,4.814908,28,bl france lyon,2013,9,28,17,16,-0.2951078071716775,undef
+10008011133,45.737099,4.814908,28,bl france lyon,2013,9,28,17,54,-0.295081886366783,undef
+10007879234,45.737099,4.814908,28,bl france lyon,2013,9,28,17,16,-0.2951078071716775,undef
+10007907805,45.737099,4.814908,28,bl france lyon,2013,9,28,17,18,-0.2951064429187883,undef
+10007907455,45.737099,4.814908,28,bl france lyon,2013,9,28,17,18,-0.2951064429187883,undef
+10007951206,45.737099,4.814908,28,bl people france lyon,2013,9,28,17,43,-0.2950893897576735,undef
+10008010193,45.737099,4.814908,28,bl france lyon,2013,9,28,17,43,-0.2950893897576735,undef
+10007950826,45.737099,4.814908,28,bl france lyon,2013,9,28,17,16,-0.2951078071716775,undef
+9757105902,45.737,4.814833,28,pellicule lyon iphone,2013,9,14,17,24,-0.3088540192831053,undef
+10827072654,45.736913,4.815002,28,crepusculum sculpture biennale lyon france lyon biennale artcontemporain biennaledelyon gabrielafridriksdottir dalbera,2013,11,1,18,18,-0.2616686046048647,undef
+10787327105,45.736913,4.815002,28,jardin zen biennale lyon france lyon biennale artcontemporain tarvel biennaledelyon dalbera jardinzen anniedalbera maideincompany,2013,11,1,15,41,-0.2617756984566657,undef
+10787512893,45.736913,4.815002,28,fitness culturel biennale lyon france lyon biennale artcontemporain biennaledelyon xuzhen dalbera madeincompany fitnessculturel,2013,11,1,16,13,-0.2617538704104388,undef
+10783977835,45.736913,4.815002,28,fitness culturel biennale lyon france lyon biennale artcontemporain biennaledelyon xuzhen dalbera fitnessculturel maideincompany,2013,11,1,15,52,-0.2617681950657752,undef
+10804582506,45.736913,4.815002,28,longue vie grande union biennale lyon france lyon biennale artcontemporain biennaledelyon sucrire dalbera citimpriale,2013,11,1,14,14,-0.2618350434573452,undef
+10804712004,45.736913,4.815002,28,longue vie grande union biennale lyon france lyon biennale artcontemporain biennaledelyon sucrire dalbera citimpriale,2013,11,1,14,6,-0.261840500468902,undef
+10688557473,45.736889,4.815015,28,upload square squareformat earlybird iphoneography instagramapp uploadedbyinstagram foursquarevenue cbdbef bf,2013,11,5,3,40,-0.2583384633023642,undef
+10640945836,45.737001,4.814876,28,revitaliser confluence lyon confluence photohdr,2013,10,27,12,0,-0.2668377588019865,undef
+12609474894,45.736755,4.815145,28,biennale antiquefilter lesucre uploadedbyflickrmobile flickriosappfilterantique,2013,11,23,15,48,-0.2401611578068636,undef
+14409481310,45.736703,4.815201,28,upload square squareformat sutro iphoneography instagramapp uploadedbyinstagram foursquarevenue ea ebbe,2014,7,7,15,33,-0.0181801595753539,undef
+14616740460,45.736703,4.815201,28,sucre rooftop club old chambre commerce building lyon graffiti square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue ea ebbe,2014,8,1,11,5,0.0061935825428247,undef
+15394228792,45.736994,4.81494,28,labyrinth memory chiharu shiota sucrire lyon lasucrire chiharushiota labyrinthofmemory,2014,9,7,8,56,0.0424492851993599,undef
+15271802578,45.736979,4.814929,28,sucrire lyon pentaxlx kodakportra smcpentaxm mmf,2014,10,3,13,59,0.0681947835976141,undef
+15234877617,45.737068,4.815076,28, lyon boottocht,2014,9,25,16,39,0.0604458271870434,undef
+15234673219,45.737068,4.815076,28, lyon boottocht,2014,9,25,16,39,0.0604458271870434,undef
+15421424925,45.737068,4.815076,28, lyon boottocht,2014,9,25,16,38,0.0604451450605988,undef
+15418242091,45.737068,4.815076,28, lyon boottocht,2014,9,25,16,38,0.0604451450605988,undef
+15234830078,45.737068,4.815076,28, lyon boottocht,2014,9,25,16,38,0.0604451450605988,undef
+15230647424,45.736873,4.814984,28,upload square squareformat sutro iphoneography instagramapp uploadedbyinstagram,2014,11,22,10,19,0.1171578197904627,undef
+15609300188,45.736956,4.814972,28,matre yoda star war identity lyon starwars yoda,2014,11,15,14,37,0.1104579738516753,undef
+15608938749,45.736956,4.814972,28,faucon millenium star war identity lyon starwars,2014,11,15,14,42,0.1104613844838982,undef
+11408156486,45.737016,4.814962,28, art lyon biennale confluence e lasucrire,2013,12,15,18,21,-0.218447026696151,undef
+11408174614,45.737016,4.814962,28, art lyon biennale confluence e lasucrire,2013,12,15,18,12,-0.2184531658341523,undef
+11408289913,45.737016,4.814962,28, art lyon biennale confluence e lasucrire,2013,12,15,18,5,-0.2184579407192645,undef
+11408152026,45.737016,4.814962,28, art lyon biennale confluence e lasucrire,2013,12,15,17,26,-0.2184845436506036,undef
+11408169384,45.737016,4.814962,28, art lyon biennale confluence e lasucrire,2013,12,15,17,24,-0.2184859079034928,undef
+11408149255,45.737016,4.814962,28, art lyon biennale confluence e lasucrire,2013,12,15,17,13,-0.2184934112943833,undef
+11369342376,45.736889,4.815015,28,ici duvel crpes bb robot dinosaures square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue cbdbef bf,2013,12,14,17,55,-0.2194470240639236,undef
+11166166264,45.737031,4.815198,28,autour biennale ,2013,11,30,17,33,-0.2332136999686891,undef
+16416655319,45.736949,4.814983,28,yoda yoda lyon jedi pentaxk pentaxart starwarsidentities,2015,2,20,19,38,0.205942715692176,undef
+15982722263,45.736949,4.814983,28,po robot lyon po pentaxk pentaxart starwarsidentities,2015,2,20,19,12,0.2059249804046166,undef
+16335858459,45.737144,4.814983,28,pod racer ,2015,2,11,13,44,0.1968608842088717,undef
+15901965463,45.737144,4.814983,28,carbonite han ,2015,2,11,13,52,0.1968663412204284,undef
+16520431681,45.737144,4.814983,28,carbonite han ,2015,2,11,13,52,0.1968663412204284,undef
+15899559594,45.737144,4.814983,28,sand people jawa ,2015,2,11,13,52,0.1968663412204284,undef
+15899559044,45.737144,4.814983,28,leia outfit ,2015,2,11,13,53,0.196867023346873,undef
+15901963833,45.737144,4.814983,28,jabbas eye ,2015,2,11,13,55,0.1968683875997622,undef
+16334673950,45.737144,4.814983,28,jabba model ,2015,2,11,13,55,0.1968683875997622,undef
+15901963273,45.737144,4.814983,28,yoda ,2015,2,11,14,0,0.1968717982319852,undef
+16334428558,45.737144,4.814983,28,wing cruiser b wing snowspeeder ,2015,2,11,14,0,0.1968717982319852,undef
+16496121326,45.737144,4.814983,28,star destroyer shuttle ,2015,2,11,14,1,0.1968724803584297,undef
+16522149625,45.737144,4.814983,28,chewbacca ,2015,2,11,14,1,0.1968724803584297,undef
+16496120616,45.737144,4.814983,28,chewbacca sketch ,2015,2,11,14,1,0.1968724803584297,undef
+15899556634,45.737144,4.814983,28,chewbacca sketch ,2015,2,11,14,2,0.1968731624848743,undef
+16522148705,45.737144,4.814983,28,chewbacca sketch ,2015,2,11,14,2,0.1968731624848743,undef
+16522148385,45.737144,4.814983,28,chewbacca ,2015,2,11,14,3,0.1968738446113189,undef
+16336210647,45.737144,4.814983,28,han leia ,2015,2,11,14,4,0.1968745267377635,undef
+16522147785,45.737144,4.814983,28,lando ,2015,2,11,14,4,0.1968745267377635,undef
+15899555194,45.737144,4.814983,28,spaceship ,2015,2,11,14,4,0.1968745267377635,undef
+16522146865,45.737144,4.814983,28,millenium falcon ,2015,2,11,14,4,0.1968745267377635,undef
+16336209217,45.737144,4.814983,28,millenium falcon ,2015,2,11,14,4,0.1968745267377635,undef
+15899554654,45.737144,4.814983,28,speed chart ,2015,2,11,14,6,0.1968758909906527,undef
+16496117356,45.737144,4.814983,28,queen amadala ,2015,2,11,14,14,0.1968813480022095,undef
+15901958653,45.737144,4.814983,28,anakin ,2015,2,11,14,16,0.1968827122550986,undef
+15899553374,45.737144,4.814983,28,darth vader sketch ,2015,2,11,14,21,0.1968861228873216,undef
+16496116336,45.737144,4.814983,28,darth vader mask ,2015,2,11,14,21,0.1968861228873216,undef
+16522144905,45.737144,4.814983,28,darth maul otther sith jedis ,2015,2,11,14,25,0.1968888513931,undef
+16496115746,45.737144,4.814983,28,darth vader ,2015,2,11,14,26,0.1968895335195446,undef
+16335849109,45.737144,4.814983,28,darth vader ,2015,2,11,14,26,0.1968895335195446,undef
+16521093982,45.737144,4.814983,28,darth vader ,2015,2,11,14,27,0.1968902156459891,undef
+16334421808,45.737144,4.814983,28,character ,2015,2,11,14,28,0.1968908977724338,undef
+15901955863,45.737144,4.814983,28,stormtrooper ,2015,2,11,13,34,0.1968540629444257,undef
+16496113696,45.737144,4.814983,28,canteen artwork ,2015,2,11,13,38,0.1968567914502041,undef
+16520421681,45.737144,4.814983,28,boba fett ,2015,2,11,13,38,0.1968567914502041,undef
+16334420278,45.737144,4.814983,28,jar jar binks model ,2015,2,11,13,39,0.1968574735766487,undef
+15901954413,45.737144,4.814983,28,droids ,2015,2,11,13,40,0.1968581557030933,undef
+16496112176,45.737144,4.814983,28,p ,2015,2,11,13,40,0.1968581557030933,undef
+16496111646,45.737144,4.814983,28,r ,2015,2,11,13,40,0.1968581557030933,undef
+16167713170,45.736911,4.815085,28,upload square squareformat amaro iphoneography instagramapp uploadedbyinstagram,2015,1,24,15,32,0.1792538364210504,undef
+16031191809,45.73703,4.815037,28,lyon sucrire france architecture frankreich lyon artgallery lione frana rhne warehouse frankrijk francia francie confluence frankrig lyon historicalbuilding concerthall frankrike salledexposition salledeconcert rhnealpes entrept exhibitionhall francja lasucrire galeriedart december,2014,12,22,15,48,0.146850101797129,undef
+16191426396,45.73703,4.815037,28,lyon sucrire france architecture frankreich lyon artgallery lione frana rhne warehouse frankrijk francia francie confluence frankrig lyon historicalbuilding concerthall frankrike salledexposition salledeconcert rhnealpes entrept exhibitionhall francja lasucrire galeriedart december,2014,12,22,15,50,0.1468514660500182,undef
+15597433623,45.73703,4.815037,28,lyon sucrire france architecture frankreich lyon artgallery lione frana rhne warehouse frankrijk francia francie confluence frankrig lyon historicalbuilding concerthall frankrike salledexposition salledeconcert rhnealpes entrept exhibitionhall francja lasucrire galeriedart december,2014,12,22,15,47,0.1468494196706844,undef
+15597369243,45.73703,4.815037,28,lyon sucrire france architecture frankreich lyon artgallery lione frana rhne warehouse frankrijk francia francie confluence frankrig lyon historicalbuilding concerthall frankrike salledexposition salledeconcert rhnealpes entrept exhibitionhall francja lasucrire galeriedart december,2014,12,22,15,47,0.1468494196706844,undef
+15575391474,45.736762,4.815069,28,boba fett star war identity lyon france bobafett starwarsidentities starwars,2014,12,27,16,9,0.1517757368535313,undef
+16628443068,45.73683,4.815166,28,id dart uploadedbyflickrmobile flickriosappfilternofilter,2015,3,14,18,33,0.2275081432379675,undef
+16768188005,45.737,4.814972,28, ,2015,3,8,16,50,0.2215443117328954,undef
+16768131115,45.7369,4.815216,28, ,2015,3,8,16,59,0.2215504508708967,undef
+16767064642,45.736888,4.815208,28, ,2015,3,8,17,0,0.2215511329973413,undef
+16145805384,45.736891,4.815252,28, ,2015,3,8,17,40,0.221578418055125,undef
+16581916009,45.73688,4.815252,28, ,2015,3,8,17,48,0.2215838750666817,undef
+17097194047,45.736786,4.815178,28,oh sugar light way lacuisineduweb lcdwbanquet square willow squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue ea ebbe,2015,4,28,23,8,0.2718975216198235,undef
+16681221724,45.736786,4.815178,28,base lcdwbanquet lacuisineduweb square slumber squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue ea ebbe,2015,4,28,21,19,0.2718231698373629,undef
+17095145277,45.736786,4.815178,28,place lcdwbanquet lacuisineduweb unepetitemousse petitemousse square slumber squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue ea ebbe,2015,4,28,19,16,0.271739268284678,undef
+16680077884,45.736786,4.815178,28,place lcdwbanquet lacuisineduweb square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue ea ebbe,2015,4,28,19,10,0.2717351755260105,undef
+17091052388,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,12,2,0.2596560804451667,undef
+17091051428,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,12,1,0.2596553983187221,undef
+17071395537,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,12,1,0.2596553983187221,undef
+17071394787,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,12,0,0.2596547161922776,undef
+17252853576,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,12,0,0.2596547161922776,undef
+16658589943,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,59,0.259654034065833,undef
+17277018412,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,59,0.259654034065833,undef
+17278317941,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,59,0.259654034065833,undef
+17277015722,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,58,0.2596533519393884,undef
+16656369084,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,58,0.2596533519393884,undef
+17071387237,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,57,0.2596526698129438,undef
+17091279790,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,57,0.2596526698129438,undef
+17071385947,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,57,0.2596526698129438,undef
+17091039588,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,56,0.2596519876864992,undef
+17252843836,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,56,0.2596519876864992,undef
+16658579573,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,54,0.25965062343361,undef
+16658579213,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,53,0.2596499413071654,undef
+17277008942,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,53,0.2596499413071654,undef
+17277008642,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,51,0.2596485770542762,undef
+17277007752,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,47,0.2596458485484978,undef
+17092607829,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,47,0.2596458485484978,undef
+17278801355,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,46,0.2596451664220532,undef
+17092605729,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,44,0.2596438021691641,undef
+17252836866,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,43,0.2596431200427195,undef
+17252836106,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,38,0.2596397094104965,undef
+17278798655,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,37,0.2596390272840519,undef
+17092603479,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,37,0.2596390272840519,undef
+16658571713,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,34,0.2596369809047181,undef
+17071374197,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,34,0.2596369809047181,undef
+16656354164,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,33,0.2596362987782736,undef
+17071372297,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,32,0.259635616651829,undef
+17278300201,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,32,0.259635616651829,undef
+17071370607,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,32,0.259635616651829,undef
+17278791985,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,31,0.2596349345253844,undef
+17091261970,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,31,0.2596349345253844,undef
+17091261150,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,30,0.2596342523989398,undef
+17278295861,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,11,30,0.2596342523989398,undef
+17091260030,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,10,55,0.259610377973379,undef
+17252825676,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,12,4,0.2596574446980559,undef
+17071365137,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,12,5,0.2596581268245005,undef
+17276992922,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,12,7,0.2596594910773897,undef
+17071364367,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,12,11,0.2596622195831681,undef
+17252824096,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,12,11,0.2596622195831681,undef
+17091256180,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,12,12,0.2596629017096127,undef
+16656343804,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,12,12,0.2596629017096127,undef
+17278784395,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,12,12,0.2596629017096127,undef
+17278289261,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,12,12,0.2596629017096127,undef
+16656341244,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,12,12,0.2596629017096127,undef
+17278287691,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,12,13,0.2596635838360572,undef
+16656339814,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,12,16,0.2596656302153911,undef
+16656339444,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,12,19,0.2596676765947248,undef
+17092585389,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,12,0,0.2596547161922776,undef
+17278285641,45.737016,4.814962,28, star lyon muse exposition war identity sucrire,2015,4,16,12,20,0.2596683587211694,undef
+17557369033,45.737109,4.815047,28,barnt nuits sonores lyon france show music france festival concert europe lyon live confluence musique nuits sucriere sonores barnt nsday,2015,5,15,16,1,0.2883047089916065,undef
+17991347829,45.737109,4.815047,28,barnt nuits sonores lyon france show music france festival concert europe lyon gare live march confluence musique nuits sonores barnt nsday,2015,5,15,15,40,0.2882903843362701,undef
+17945681578,45.737109,4.815047,28,salle nuits sonores lyon france show music france festival concert europe lyon live confluence musique nuits sucrire sonores nsday,2015,5,14,16,3,0.2873238111642825,undef
+17945681608,45.737109,4.815047,28,ben klock nuits sonores lyon france show music france festival concert europe dj lyon ben live confluence musique nuits sucrire klock sonores nsday,2015,5,14,16,4,0.2873244932907272,undef
+17945681468,45.737109,4.815047,28,music musician nuits sonores lyon france show music france festival musician concert europe lyon live reich confluence musique nuits sucrire sonores nsday,2015,5,14,15,20,0.2872944797271651,undef
+19199236441,45.737133,4.814983,28,lyon euronews building building modern euronews lyon france confluence television channel paneuropean urbanredevelopment lyonconfluencedistrict newschannel saoneriver rhoneriver river headquarters architecture waterfront urban neon light night luminous,2015,5,27,11,46,0.2999179117107936,undef
+19363736998,45.737094,4.814908,28,onlylon lyon igerslyon xphotographe xphotographer fujifimco fujifilmfr valencia square squareformat iphoneography instagramapp uploadedbyinstagram,2015,7,9,7,22,0.3419750997785879,undef
+21552004295,45.736904,4.815047,28,boulets lyon biennale exposition,2015,9,9,18,13,0.4033194130672348,undef
+22279991248,45.737175,4.815016,28,costume france starwars lyon starwarsidentities,2014,12,19,16,15,0.1439217329704935,undef
+22279688100,45.737175,4.815016,28,protojet danakin skywalker france starwars lyon starwarsidentities,2014,12,19,16,23,0.1439271899820502,undef
+22280819109,45.737175,4.815016,28,panneau interactif france starwars lyon starwarsidentities,2014,12,19,16,32,0.1439333291200515,undef
+22454276112,45.737175,4.815016,28,mannequin yoda france starwars lyon starwarsidentities,2014,12,19,16,50,0.1439456073960542,undef
+22279926658,45.737175,4.815016,28,dessin france starwars lyon starwarsidentities,2014,12,19,17,1,0.1439531107869447,undef
+22478575291,45.737175,4.815016,28,panneau interactif france starwars lyon starwarsidentities,2014,12,19,16,16,0.1439224150969381,undef
+22454239442,45.737175,4.815016,28,costume france starwars lyon starwarsidentities,2014,12,19,16,16,0.1439224150969381,undef
+22441575436,45.737175,4.815016,28,androides droides france starwars lyon starwarsidentities,2014,12,19,16,20,0.1439251436027164,undef
+21844833584,45.737175,4.815016,28,protojet danakin skywalker france starwars lyon starwarsidentities,2014,12,19,16,28,0.1439306006142732,undef
+22279580610,45.737175,4.815016,28,panneau interactif france starwars lyon starwarsidentities,2014,12,19,17,33,0.1439749388331717,undef
+22467536225,45.737175,4.815016,28,maquette awing france starwars lyon starwarsidentities,2014,12,19,17,9,0.1439585677985015,undef
+21844801704,45.737175,4.815016,28,maquettes vaisseaux france starwars lyon starwarsidentities,2014,12,19,17,3,0.1439544750398339,undef
+22467513735,45.737175,4.815016,28,exposition star war identity france starwars lyon starwarsidentities,2015,12,19,16,0,0.5024371603516351,undef
+21846318013,45.737175,4.815016,28,han solo pig carbonite france starwars lyon starwarsidentities,2014,12,19,16,39,0.1439381040051637,undef
+22280663029,45.737175,4.815016,28,costume tusken france starwars lyon starwarsidentities,2014,12,19,16,40,0.1439387861316083,undef
+22279776438,45.737175,4.815016,28,dessin france starwars lyon starwarsidentities,2014,12,19,16,42,0.1439401503844974,undef
+22467455565,45.737175,4.815016,28,storyboard france starwars lyon starwarsidentities,2014,12,19,16,48,0.143944243143165,undef
+22441431176,45.737175,4.815016,28,maquettes vaisseaux france starwars lyon starwarsidentities,2014,12,19,16,59,0.1439517465340555,undef
+21844707044,45.737175,4.815016,28,maquettes vaisseaux france starwars lyon starwarsidentities,2014,12,19,17,3,0.1439544750398339,undef
+22279738518,45.737175,4.815016,28,maquette faucon millenium france starwars lyon starwarsidentities,2014,12,19,17,5,0.1439558392927231,undef
+22467409125,45.737175,4.815016,28,maquettes vaisseaux france starwars lyon starwarsidentities,2014,12,19,17,9,0.1439585677985015,undef
+21846217473,45.737175,4.815016,28,panneau interactif france starwars lyon starwarsidentities,2014,12,19,17,22,0.1439674354422812,undef
+22467397085,45.737175,4.815016,28,costume damidala france starwars lyon starwarsidentities,2014,12,19,17,23,0.1439681175687258,undef
+21846188553,45.737175,4.815016,28,costume damidala france starwars lyon starwarsidentities,2014,12,19,17,23,0.1439681175687258,undef
+22478319221,45.737175,4.815016,28,costume jedi france starwars lyon starwarsidentities,2014,12,19,17,31,0.1439735745802825,undef
+22453984672,45.737175,4.815016,28,panneau interactif france starwars lyon starwarsidentities,2014,12,19,17,33,0.1439749388331717,undef
+22280512249,45.737175,4.815016,28,costume jedis france starwars lyon starwarsidentities,2014,12,19,17,36,0.1439769852125055,undef
+22279630248,45.737175,4.815016,28,dessin france starwars lyon starwarsidentities,2014,12,19,17,37,0.14397766733895,undef
+21846117583,45.737175,4.815016,28,masque dark vador france starwars lyon starwarsidentities,2014,12,19,17,38,0.1439783494653946,undef
+21844557514,45.737175,4.815016,28,costume jedis france starwars lyon starwarsidentities,2014,12,19,17,41,0.1439803958447284,undef
+22478236271,45.737175,4.815016,28,dessin france starwars lyon starwarsidentities,2014,12,19,17,42,0.143981077971173,undef
+21846069083,45.737175,4.815016,28,dark vador france starwars lyon starwarsidentities,2014,12,19,17,44,0.1439824422240622,undef
+21991165612,45.73703,4.81493,28,vie moderne france europe lyon place biennale confluence sucrire laviemoderne,2015,9,27,17,5,0.4209537459128397,undef
+22681684610,45.737094,4.814908,28,tete today french lyon sucriere cool beau art predator square squareformat iphoneography instagramapp uploadedbyinstagram,2015,11,8,12,36,0.4620252612681979,undef
+22464357829,45.737094,4.814908,28,tete today french lyon sucriere cool beau art square squareformat iphoneography instagramapp uploadedbyinstagram,2015,11,7,22,20,0.4614413610316267,undef
+22427777878,45.737094,4.814908,28,deux fille france belle sucriere cool today beau square squareformat iphoneography instagramapp uploadedbyinstagram,2015,11,7,12,25,0.4610354957970942,undef
+23419112523,45.737094,4.814908,28,leon latralisation lyon confluence igers square squareformat juno iphoneography instagramapp uploadedbyinstagram,2015,12,29,15,52,0.5122543241422102,undef
+23962665871,45.737094,4.814908,28,retour source pull time michel blazy biennalelyon nofilter square squareformat iphoneography instagramapp uploadedbyinstagram,2015,12,29,15,7,0.5122236284522035,undef
+23417892903,45.737094,4.814908,28,permanent residence marble element andreas lolis square squareformat iphoneography instagramapp uploadedbyinstagram,2015,12,29,14,30,0.5121983897737535,undef
+23417509403,45.737094,4.814908,28,cest presque lt ici igers biennalelyon laviemoderne square squareformat lark iphoneography instagramapp uploadedbyinstagram,2015,12,29,14,2,0.512179290233305,undef
+23748570500,45.737094,4.814908,28,ciel gris invitation entrer biennalelyon igers square squareformat clarendon iphoneography instagramapp uploadedbyinstagram,2015,12,29,13,59,0.5121772438539712,undef
+23711870780,45.737094,4.814908,28,lyon france tonight balade quai dock lumiere soir light cool square squareformat ludwig iphoneography instagramapp uploadedbyinstagram,2015,12,27,19,19,0.5104310001558144,undef
+23633704429,45.737094,4.814908,28,lyon france nuit night tonight light soir lumiere quai dock square squareformat ludwig iphoneography instagramapp uploadedbyinstagram,2015,12,27,13,7,0.510177249118426,undef
+23306170044,45.737177,4.815049,28, ,2015,12,23,12,48,0.506235240395126,undef
+26189966626,45.736919,4.8153,28,garon sauvage square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue ea ebbe,2016,4,3,12,0,0.6063932305075299,undef
+27113082204,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse architecture design lyonbiennal biennal,2015,11,14,19,35,0.4682046447297612,undef
+27447383300,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse yuangoangming goangming lyonbiennal biennal,2015,11,14,19,32,0.4682025983504274,undef
+27447381740,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon bar caf lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse yuangoangming goangming lyonbiennal biennal,2015,11,14,19,22,0.4681957770859815,undef
+27447379200,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon liuwei wei lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,19,21,0.4681950949595369,undef
+27725483965,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon liuwei wei lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,19,21,0.4681950949595369,undef
+27447377370,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon liuwei wei lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,19,20,0.4681944128330923,undef
+27725479885,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon michelblazy blazy lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,19,6,0.468184863062868,undef
+27725478935,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon michelblazy blazy lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,19,5,0.4681841809364234,undef
+27691542706,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon michelblazy blazy lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,19,5,0.4681841809364234,undef
+27624792992,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon michelblazy blazy lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,19,5,0.4681841809364234,undef
+27725415375,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon klausweber weber lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,18,10,0.4681466639819708,undef
+27725392425,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon liuwei wei lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,17,56,0.4681371142117465,undef
+27447375760,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon tatianatrouv trouv lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,19,10,0.4681875915686463,undef
+27447375040,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon tatianatrouv trouv lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,19,8,0.4681862273157572,undef
+27114943993,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon tatianatrouv trouv lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,19,7,0.4681855451893126,undef
+27624785852,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon michelblazy blazy lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,19,3,0.4681828166835342,undef
+27624782752,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon michelblazy blazy lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,19,3,0.4681828166835342,undef
+27624774142,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon ninacanell canell lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,18,55,0.4681773596719775,undef
+27650922551,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon alexdacorte dacorte lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,18,54,0.4681766775455329,undef
+27691525196,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon alexdacorte dacorte lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,18,51,0.4681746311661991,undef
+27650920991,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon andraursuta ursuta lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,18,49,0.4681732669133099,undef
+27691517706,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon andraursuta ursuta lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,18,48,0.4681725847868653,undef
+27650916931,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon andraursuta ursuta lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,18,47,0.4681719026604207,undef
+27447336700,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon mohamedbourouissa bourouissa lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,18,44,0.468169856281087,undef
+27447319830,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon mikenelson nelson lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,18,38,0.4681657635224194,undef
+27114906393,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon mikenelson nelson lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,18,37,0.4681650813959748,undef
+27114905913,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon mikenelson nelson lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,18,37,0.4681650813959748,undef
+27447317210,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon mikenelson nelson lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,18,37,0.4681650813959748,undef
+27114905103,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon guanxiao xiao lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,18,29,0.4681596243844181,undef
+27447315770,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon guanxiao xiao lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,18,29,0.4681596243844181,undef
+27447312970,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon guanxiao xiao lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,18,27,0.4681582601315289,undef
+27447311260,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse architecture design lyonbiennal biennal,2015,11,14,18,27,0.4681582601315289,undef
+27624729372,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon simondenny denny lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,18,23,0.4681555316257505,undef
+27624727122,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon simondenny denny lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,18,23,0.4681555316257505,undef
+27624717602,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon otobongnkanga nkanga lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,18,17,0.468151438867083,undef
+27650879051,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon clesteboursiermougenot boursiermougenot lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,18,3,0.4681418890968586,undef
+27691471936,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon liuwei wei lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennalhaegueyang yang,2015,11,14,18,2,0.468141206970414,undef
+27725402225,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon liuwei wei lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennalhaegueyang yang,2015,11,14,18,0,0.4681398427175249,undef
+27447286010,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon liuwei wei lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse december lyonbiennal biennal mondesflottants ebiennaledelyon,2015,11,14,17,59,0.4681391605910803,undef
+27725397935,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon liuwei wei lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,17,59,0.4681391605910803,undef
+27112983504,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon liuwei wei lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,17,57,0.4681377963381911,undef
+27725394225,45.73703,4.815037,28,e biennale lyon vie moderne lyon lyon france rhne rhnealpes november lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo viemoderne ebiennaledelyon liuwei wei lasucrire sucrire exhibitioncentre centredexposition artgallery exhibitionhall concerthall galeriedart salledeconcert salledexposition confluence entrept warehouse lyonbiennal biennal,2015,11,14,17,56,0.4681371142117465,undef
+29537173174,45.737094,4.814908,28,sucrire bonjour goodmorning buongiorno lyon villedelyon lyoncity monlyon mylyon onlylyon ilovelyon igerslyon bloginlyon france francia igersfrance matin morning mattina confluence sucrire photodujour picoftheday photooftheda instagramapp square squareformat iphoneography uploadedbyinstagram,2016,10,7,8,46,0.7899439069771435,undef
+23126175234,45.736649,4.815155,28,pasted paper lyon france streetart france pasteup collage paper skeleton europe lyon wheatpaste pasted confluence squelette wheatpaper,2015,12,11,19,23,0.4947175353781819,undef
+23599544312,45.737099,4.814908,28, france lyon,2015,12,5,17,35,0.4887502932408868,undef
+23599543192,45.737099,4.814908,28, people france lyon,2015,12,5,17,9,0.4887325579533274,undef
+23708051395,45.737099,4.814908,28, sculpture france lyon,2015,12,5,17,36,0.4887509753673314,undef
+23682007306,45.737099,4.814908,28, sculpture france lyon,2015,12,5,17,19,0.4887393792177734,undef
+23412405230,45.737099,4.814908,28, sculpture france lyon,2015,12,5,17,24,0.4887427898499963,undef
+23599540912,45.737099,4.814908,28, people sculpture france lyon,2015,12,5,17,25,0.4887434719764409,undef
+23708048695,45.737099,4.814908,28, people sculpture france lyon,2015,12,5,17,25,0.4887434719764409,undef
+23081010663,45.737099,4.814908,28, people sculpture france lyon,2015,12,5,17,24,0.4887427898499963,undef
+23682003656,45.737099,4.814908,28, people sculpture france lyon,2015,12,5,17,30,0.4887468826086639,undef
+23079938614,45.737099,4.814908,28, sculpture france lyon,2015,12,5,17,9,0.4887325579533274,undef
+23708046535,45.737099,4.814908,28, people sculpture france lyon,2015,12,5,17,27,0.4887448362293301,undef
+23682002186,45.737099,4.814908,28, people france lyon,2015,12,5,17,45,0.4887571145053327,undef
+23708045775,45.737099,4.814908,28, people france lyon,2015,12,5,17,30,0.4887468826086639,undef
+23081008263,45.737099,4.814908,28, france lyon,2015,12,5,17,33,0.4887489289879976,undef
+23682000896,45.737099,4.814908,28, friend france lyon,2015,12,5,17,41,0.4887543859995544,undef
+32994581636,45.736807,4.81509,28,exposition costume arme franaise costume lyon arme franaise exposition vitrine guerre sucrire,2016,11,24,15,29,0.8373673837845469,undef
+32721148802,45.736754,4.815144,28,sucre quai sane rive gauche ,2017,2,12,23,43,0.91628532066523,undef
+34057065325,45.736891,4.8151,28, ,2017,4,15,17,32,0.9769325007275032,undef
+34057065265,45.736777,4.814936,28, ,2017,4,15,17,22,0.9769256794630572,undef
+34016719276,45.736891,4.81508,28, ,2017,4,15,17,27,0.9769290900952804,undef
+34016718906,45.736941,4.814994,28, ,2017,4,15,17,14,0.9769202224515006,undef
+33214778174,45.736919,4.815094,28, ,2017,4,15,17,39,0.9769372756126152,undef
+33214777894,45.736933,4.815108,28, ,2017,4,15,17,40,0.97693795773906,undef
+33900426912,45.736855,4.815047,28, ,2017,4,15,17,18,0.9769229509572788,undef
+34012291046,45.736891,4.81508,28, ,2017,4,15,17,27,0.9769290900952804,undef
+34012286606,45.736891,4.8151,28, ,2017,4,15,17,32,0.9769325007275032,undef
+33241115163,45.736777,4.814936,28, ,2017,4,15,17,22,0.9769256794630572,undef
+33241114613,45.736941,4.814994,28, ,2017,4,15,17,14,0.9769202224515006,undef
+33668072350,45.736919,4.815094,28, ,2017,4,15,17,39,0.9769372756126152,undef
+33210289964,45.736933,4.815108,28, ,2017,4,15,17,40,0.97693795773906,undef
+34012249176,45.736855,4.815047,28, ,2017,4,15,17,18,0.9769229509572788,undef
+33046854284,45.736891,4.815144,28, ,2017,4,7,11,58,0.968846573853304,undef
+33077162433,45.736983,4.815169,28, ,2017,4,7,10,55,0.9688035998872946,undef
+33890519165,45.736866,4.8151,28, ,2017,4,7,10,54,0.96880291776085,undef
+33733946422,45.736869,4.815075,28, ,2017,4,7,10,54,0.96880291776085,undef
+34396956961,45.737054,4.814908,28,lyon confluence ,2017,4,6,13,50,0.9679407099348852,undef
+36902800620,45.736769,4.814952,28, ,2017,9,18,11,35,1.1299218661000396,undef
+37127847922,45.736927,4.815261,28, ,2017,9,18,11,40,1.1299252767322627,undef
+37127847452,45.736769,4.814952,28, ,2017,9,18,11,36,1.1299225482264843,undef
+37127847222,45.736961,4.81518,28, ,2017,9,18,11,46,1.1299293694909305,undef
+37301421565,45.736938,4.815127,28, ,2017,9,18,11,39,1.129924594605818,undef
+37157657321,45.736983,4.815152,28, ,2017,9,18,11,41,1.1299259588587072,undef
+37301420305,45.736961,4.81518,28, ,2017,9,18,11,46,1.1299293694909305,undef
+37127845092,45.736922,4.815183,28, ,2017,9,18,11,45,1.1299286873644856,undef
+37127844942,45.736755,4.81503,28, ,2017,9,18,11,33,1.1299205018471503,undef
+37127844742,45.73698,4.815188,28, ,2017,9,18,11,39,1.129924594605818,undef
+37127844572,45.736769,4.814952,28, ,2017,9,18,11,35,1.1299218661000396,undef
+37127844222,45.736977,4.815175,28, ,2017,9,18,11,45,1.1299286873644856,undef
+36486462713,45.736988,4.815075,28, ,2017,9,18,11,26,1.1299157269620383,undef
+36486462723,45.736836,4.814994,28, ,2017,9,18,11,31,1.1299191375942612,undef
+36462934694,45.736983,4.815072,28, ,2017,9,18,11,26,1.1299157269620383,undef
+37301219755,45.737,4.815088,28, ,2017,9,18,11,26,1.1299157269620383,undef
+26821195539,45.736944,4.814999,28,lara almarcegui mchefer lasucrire artcontemporain mondesflottants mebiennaledelyon macdelyon musedartcontemporaindelyon mac muse laraalmarcegui mchefer mchefer,2017,11,17,19,22,1.189176143962455,undef
+37773402254,45.736882,4.815101,28,han haacke wide white flow lasucrire artcontemporain mondesflottants mebiennaledelyon macdelyon musedartcontemporaindelyon mac muse hanshaacke widewhiteflow,2017,11,17,13,53,1.188951724362184,undef
+38456730362,45.736882,4.815101,28,han haacke wide white flow lasucrire artcontemporain mondesflottants mebiennaledelyon macdelyon musedartcontemporaindelyon mac muse hanshaacke widewhiteflow,2017,11,17,13,51,1.188950360109295,undef
+38432720976,45.736882,4.815101,28,han haacke wide white flow lasucrire artcontemporain mondesflottants mebiennaledelyon macdelyon musedartcontemporaindelyon mac muse hanshaacke widewhiteflow,2017,11,17,13,47,1.1889476316035166,undef
+38306965021,45.73695,4.815136,28, ,2017,11,3,15,32,1.1752675857572144,undef
+26490093228,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse,2017,12,29,13,47,1.2302026389724705,undef
+39463939405,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse philippequesne quesne,2017,12,29,13,53,1.2302067317311378,undef
+26490092188,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse juliencreuzet creuzet,2017,12,29,14,4,1.2302142351220282,undef
+26490091098,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse bergerberger,2017,12,29,14,9,1.2302176457542513,undef
+39463938395,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse,2017,12,29,14,20,1.2302251491451417,undef
+25487621657,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse robertbreer breer,2017,12,29,13,29,1.2301903606964677,undef
+40359203871,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse marcogodinho godinho,2017,12,29,13,0,1.2301705790295745,undef
+40315587852,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse philippequesne quesne,2017,12,29,13,53,1.2302067317311378,undef
+40313974412,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse hanshaacke haacke,2017,12,29,12,55,1.2301671683973514,undef
+25487634657,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse davidmedalla medalla,2017,12,29,12,53,1.2301658041444623,undef
+25487633717,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse hanshaacke haacke,2017,12,29,12,56,1.230167850523796,undef
+39462220745,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse hanshaacke haacke,2017,12,29,12,57,1.2301685326502405,undef
+25487632437,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse hanshaacke haacke,2017,12,29,12,58,1.2301692147766852,undef
+40359207801,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse laraalmarcegui almarcegui,2017,12,29,12,59,1.2301698969031298,undef
+25487630917,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse damianortega ortega,2017,12,29,13,1,1.230171261156019,undef
+40359207421,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse damianortega ortega,2017,12,29,13,3,1.230172625408908,undef
+25487629827,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse dianathater thater,2017,12,29,13,3,1.230172625408908,undef
+25487628737,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse dougaitken aitken,2017,12,29,13,8,1.2301760360411311,undef
+40359207071,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse susannafritscher fritscher,2017,12,29,13,5,1.2301739896617974,undef
+40359206691,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse dougaitken aitken,2017,12,29,13,8,1.2301760360411311,undef
+25487627727,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse dougaitken aitken,2017,12,29,13,8,1.2301760360411311,undef
+40359206261,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse dougaitken aitken,2017,12,29,13,9,1.2301767181675756,undef
+25487626537,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse dougaitken aitken,2017,12,29,13,9,1.2301767181675756,undef
+40359205991,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse dougaitken aitken,2017,12,29,13,17,1.2301821751791324,undef
+25487625417,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse tomassaraceno saraceno,2017,12,29,13,18,1.230182857305577,undef
+40359205611,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse tomassaraceno saraceno,2017,12,29,13,19,1.2301835394320215,undef
+25487623957,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse dougaitken aitken,2017,12,29,13,23,1.2301862679378,undef
+40359205201,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse hectorzamora zamora,2017,12,29,13,26,1.2301883143171335,undef
+39462217285,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse hectorzamora zamora,2017,12,29,13,27,1.2301889964435784,undef
+40359204821,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse hectorzamora zamora,2017,12,29,13,27,1.2301889964435784,undef
+39462216695,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse hanshaacke haacke,2017,12,29,13,29,1.2301903606964677,undef
+25487620877,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse matthieubriand briand,2017,12,29,13,30,1.230191042822912,undef
+40359204251,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse davidmedalla medalla,2017,12,29,13,29,1.2301903606964677,undef
+25487618537,45.73703,4.815037,28,e biennale lyon mondes flottants lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse dougaitken aitken,2017,12,29,13,13,1.230179446673354,undef
+25486702327,45.73703,4.815037,28,lyon sucrire lyon lyon france rhne rhnealpes december lione francia frana frankrijk frankreich frankrig frankrike francja francie biennale biennaledelyon art artwork artcontemporain contemporaryart exhibition exposition expo mondesflottants ebiennaledelyon lyonbiennal biennal lasucrire sucrire exhibitioncentercentre dexpositionart galleryexhibition hallconcert hallgalerie dartsalle concertsalle dexposition confluence entrept warehouse marcogodinho godinho,2017,12,29,11,20,1.2301023663851152,undef
+27994714869,45.736944,4.815277,28,hector zamora synclasticanticlastic ,2017,12,29,17,35,1.2303581638018373,undef
+39063443414,45.736944,4.814999,28,dario vilalba ,2017,12,29,17,20,1.2303479319051684,undef
+39063442264,45.736944,4.814999,28,dario vilalba ,2017,12,29,17,23,1.2303499782845022,undef
+38874424175,45.736944,4.814999,28,carole douillard dog life unfolded picture ,2017,12,29,17,24,1.2303506604109469,undef
+24834497277,45.736944,4.814999,28,marcelo brodsky ensemble photo ,2017,12,29,17,21,1.2303486140316129,undef
+38805404905,45.736944,4.814999,28,marcelo brodsky ensemble photo ,2017,12,29,17,21,1.2303486140316129,undef
+39703218801,45.736944,4.814999,28,marcelo brodsky ensemble photo ,2017,12,29,17,22,1.2303492961580575,undef
+38805401565,45.736944,4.814999,28,marcelo brodsky ensemble photo ,2017,12,29,17,22,1.2303492961580575,undef
+38804109504,45.736944,4.814999,28,melik ohanian borderland walked far piece ,2017,12,29,16,58,1.2303329251233874,undef
+24644925857,45.736944,4.814999,28,anawana haloba likuta za mazwahule legkotha ,2017,12,29,17,1,1.2303349715027212,undef
+38804107394,45.736944,4.815277,28,dominique blais sans titre cive ,2017,12,29,17,15,1.2303445212729454,undef
+39467109202,45.736944,4.814999,28,julien creuzet ,2017,12,29,16,52,1.23032883236472,undef
+39467106042,45.736944,4.814999,28,julien creuzet ,2017,12,29,16,53,1.2303295144911643,undef
+39427657032,45.737144,4.814951,28,mondes flottants biennale lyon dalbera biennaledelyon mondesflottants sucrire lyon france artcontemporain emmalavigne musedartcontemporain mac,2017,12,30,16,5,1.2312790345020372,undef
+27680715009,45.737144,4.814951,28,mondes flottants biennale lyon dalbera biennaledelyon mondesflottants sucrire lyon france artcontemporain emmalavigne musedartcontemporain mac,2017,12,30,14,34,1.2312169609955792,undef
+38579146895,45.737144,4.814951,28,mondes flottants biennale lyon dalbera biennaledelyon mondesflottants sucrire lyon france artcontemporain emmalavigne,2017,12,30,13,22,1.2311678478915686,undef
+27680396399,45.737144,4.814951,28,mondes flottants biennale lyon dalbera biennaledelyon mondesflottants sucrire lyon france artcontemporain emmalavigne,2017,12,30,11,59,1.2311112313966674,undef
+24630097767,45.736944,4.814999,28,berger berger tear creature night ,2017,12,29,16,56,1.230331560870498,undef
+24630096457,45.736944,4.814999,28,berger berger tear creature night ,2017,12,29,17,3,1.2303363357556103,undef
+27720315699,45.736944,4.814999,28,ari benjamin meyers art france lyon rhne mebiennaledelyon mondesflottants mac musedartcontemporaindelyon artcontemporain lasucrire oceanofsound theart aribenjaminmeyers,2017,12,29,16,49,1.230326785985386,undef
+38579142455,45.737144,4.814951,28,mondes flottants biennale lyon dalbera biennaledelyon mondesflottants sucrire lyon france artcontemporain emmalavigne toiledaraigne araigne,2017,12,30,13,36,1.2311773976617928,undef
+38568161785,45.737174,4.814951,28,mondes flottants biennale lyon dalbera biennaledelyon mondesflottants sucrire lyon france artcontemporain emmalavigne,2017,12,30,12,46,1.2311432913395632,undef
+24580348297,45.737174,4.814951,28,mondes flottants biennale lyon dalbera biennaledelyon mondesflottants sucrire lyon france artcontemporain emmalavigne,2017,12,30,14,26,1.2312115039840226,undef
+24571167477,45.737174,4.814951,28,mondes flottants biennale lyon dalbera biennaledelyon mondesflottants sucrire lyon france artcontemporain emmalavigne vido susannafritscher,2018,1,1,14,16,1.2331692068800029,undef
+39434037581,45.737174,4.814951,28,mondes flottants biennale lyon dalbera biennaledelyon mondesflottants sucrire lyon france artcontemporain emmalavigne,2017,12,30,15,14,1.231244246053363,undef
+24567850727,45.737174,4.814951,28,mondes flottants biennale lyon dalbera biennaledelyon mondesflottants sucrire lyon france artcontemporain emmalavigne phasme,2017,12,30,14,53,1.2312299213980265,undef
+24567708227,45.737174,4.814951,28,mondes flottants biennale lyon dalbera biennaledelyon mondesflottants sucrire lyon france artcontemporain emmalavigne,2017,12,30,15,19,1.231247656685586,undef
+38717733374,45.737174,4.814929,28,mondes flottants biennale lyon dalbera biennaledelyon mondesflottants sucrire lyon france artcontemporain emmalavigne,2017,12,30,14,55,1.2312312856509156,undef
+27648410869,45.737174,4.814929,28,mondes flottants sucrire biennale lyon dalbera biennaledelyon mondesflottants sucrire lyon france artcontemporain emmalavigne,2017,12,30,14,31,1.2312149146162454,undef
+39084630251,45.736944,4.815277,28,damian ortega hollowstuffed market law ,2017,11,17,19,30,1.189181600974012,undef
+38142809685,45.736944,4.814999,28,david medalla cloud canyon france lyon rhne mebiennaledelyon mondesflottants mac musedartcontemporaindelyon artcontemporain davidmedalla cloudcanyons lasucrire,2017,11,17,18,56,1.1891584086748956,undef
+24164962287,45.736944,4.814999,28,marco godinho forever immigrant france lyon rhne mebiennaledelyon mondesflottants mac musedartcontemporaindelyon artcontemporain marcogodinho foreverimmigrant lasucrire,2017,11,17,19,1,1.1891618193071187,undef
+38142804625,45.736944,4.814999,28,richard buchminster fuller dme recration france lyon rhne mebiennaledelyon mondesflottants mac musedartcontemporaindelyon artcontemporain archipeldelasensation richardbuchminsterfuller dmerecration,2017,11,17,19,2,1.1891625014335634,undef
+25158157018,45.736944,4.814999,28,han haacke together france lyon rhne mebiennaledelyon mondesflottants mac musedartcontemporaindelyon artcontemporain archipeldelasensation hanshaacke together lasucrire,2017,11,17,19,18,1.1891734154566769,undef
+38933648452,45.737099,4.814908,28, lyon onlylyon france,2017,12,9,16,57,1.2106870013926792,undef
+38933647922,45.737099,4.814908,28, lyon onlylyon france,2017,12,9,16,58,1.2106876835191238,undef
+25098950868,45.737099,4.814908,28, lyon onlylyon france,2017,12,9,16,58,1.2106876835191238,undef
+25098950058,45.737099,4.814908,28, lyon onlylyon france,2017,12,9,16,58,1.2106876835191238,undef
+38933647342,45.737099,4.814908,28, lyon onlylyon france,2017,12,9,16,58,1.2106876835191238,undef
+25098949388,45.737099,4.814908,28, lyon onlylyon france,2017,12,9,16,56,1.2106863192662345,undef
+38933646822,45.737099,4.814908,28, lyon onlylyon france,2017,12,9,16,56,1.2106863192662345,undef
+25098948808,45.737099,4.814908,28, lyon onlylyon france,2017,12,9,16,55,1.21068563713979,undef
+38933646452,45.737099,4.814908,28, lyon onlylyon france,2017,12,9,16,55,1.21068563713979,undef
+25098948208,45.737099,4.814908,28, lyon onlylyon france people,2017,12,9,16,53,1.2106842728869007,undef
+38933645932,45.737099,4.814908,28, lyon onlylyon france people,2017,12,9,16,52,1.2106835907604565,undef
+38933644722,45.737099,4.814908,28, lyon onlylyon france,2017,12,9,16,45,1.210678815875344,undef
+38253994154,45.737099,4.814908,28, lyon onlylyon france people,2017,12,9,16,49,1.2106815443811223,undef
+38933644202,45.737099,4.814908,28, lyon onlylyon france,2017,12,9,16,44,1.2106781337488994,undef
+38933643782,45.737099,4.814908,28, lyon onlylyon france,2017,12,9,16,26,1.2106658554728968,undef
+38933643712,45.737099,4.814908,28, lyon onlylyon france people,2017,12,9,16,23,1.210663809093563,undef
+38933643722,45.737099,4.814908,28, lyon onlylyon france people,2017,12,9,16,25,1.2106651733464522,undef
+38933643372,45.737099,4.814908,28, lyon onlylyon france people,2017,12,9,16,23,1.210663809093563,undef
+38933643142,45.737099,4.814908,28, lyon onlylyon france people,2017,12,9,16,23,1.210663809093563,undef
+38933643022,45.737099,4.814908,28, lyon onlylyon france sculpture,2017,12,9,16,12,1.2106563057026725,undef
+38933642902,45.737099,4.814908,28, lyon onlylyon france sculpture,2017,12,9,16,21,1.2106624448406738,undef
+38933642732,45.737099,4.814908,28, lyon onlylyon france sculpture,2017,12,9,16,19,1.2106610805877849,undef
+38970371051,45.737099,4.814908,28, lyon onlylyon france,2017,12,9,16,18,1.21066039846134,undef
+38933642532,45.737099,4.814908,28, lyon onlylyon france sculpture,2017,12,9,16,17,1.2106597163348956,undef
+38933642322,45.737099,4.814908,28, lyon onlylyon france,2017,12,9,16,16,1.210659034208451,undef
+38970370731,45.737099,4.814908,28, lyon onlylyon france,2017,12,9,16,12,1.2106563057026725,undef
+27192546099,45.737099,4.814908,28, lyon onlylyon france,2017,12,9,16,15,1.2106583520820062,undef
+40890125594,45.7369,4.815183,28, ,2018,4,21,14,21,1.3412214463356755,undef
+41600666911,45.7369,4.815183,28, ,2018,4,21,14,21,1.3412214463356755,undef
+40889974994,45.736897,4.815191,28, ,2018,4,21,14,33,1.3412296318530108,undef
+40889964174,45.736969,4.815277,28, ,2018,4,21,14,22,1.3412221284621202,undef
+41560473302,45.736897,4.815191,28, ,2018,4,21,14,32,1.341228949726566,undef
+27524850508,45.736897,4.815305,28, ,2018,4,11,19,31,1.3316102847313676,undef
+41298499111,45.73683,4.815016,28, ,2018,4,7,16,42,1.3275659570413787,undef
+41255747742,45.736891,4.815061,28, ,2018,4,7,17,10,1.3275850565818272,undef
+27425962228,45.736922,4.815094,28, ,2018,4,7,16,55,1.3275748246851584,undef
+26426401997,45.736922,4.815094,28, ,2018,4,7,16,55,1.3275748246851584,undef
+41298495801,45.736869,4.815075,28, ,2018,4,7,16,42,1.3275659570413787,undef
+26426399827,45.736983,4.815172,28, ,2018,4,7,16,59,1.3275775531909366,undef
+28458158188,45.736958,4.815008,28, ,2018,2,7,17,4,1.269627501090582,undef
+28458157718,45.736958,4.815008,28, ,2018,2,7,17,4,1.269627501090582,undef
+41428415705,45.736958,4.815005,28, ,2018,2,5,19,5,1.2677455142299514,undef
+28109684977,45.736851,4.815178,28,lyon quartier confluence reflets surface vitre sol lyon quartier confluence surface vitre vitre reflets lumire ligne graphisme,2018,6,22,17,46,1.4022615312300342,undef
+28109685087,45.736851,4.815178,28,lyon quartier confluence reflets surface vitre lyon quartier confluence surface vitre vitre arbres,2018,6,22,18,25,1.402288134161373,undef
+28109684857,45.736851,4.815178,28,lyon quartier confluence reflets surface vitre lyon quartier confluence surface vitre vitre reflets,2018,6,22,17,42,1.4022588027242555,undef
+46364923721,45.736851,4.815178,28,lyon jeu courbes confluence lyon rhone confluence architecture batiment courbes graphisme olympus em markii,2018,12,17,16,33,1.5770543862775248,undef
+46314050872,45.736851,4.815178,28,lyon reflets confluence lyon rhone confluence reflets baievitre concave dformation paysage saone quai reflection,2018,12,17,16,23,1.5770475650130789,undef
+48128255583,45.736851,4.815178,28,lyon carrs jaunes confluence lyon rhone confluence immeuble passage murs jaunes ombres carrs lumire,2019,6,25,22,3,1.7639092832447445,undef
+48054775941,45.736892,4.815078,28,exposition lonard vinci sketch pencildrawing croquis leonarddevinci lyon,2019,6,13,4,34,1.7514065876418088,undef
+48183187067,45.736851,4.815178,28,lyon faade confluence lyon rhone confluence faade immeuble graphisme,2019,7,2,17,14,1.7705879832637494,undef
+48943124693,45.73688,4.815144,28, ,2019,7,17,13,19,1.785161614752468,undef
+48943430321,45.736866,4.815077,28, ,2019,7,17,13,14,1.785158204120245,undef
+48942880578,45.73688,4.815116,28, ,2019,7,17,13,15,1.7851588862466896,undef
+48943620027,45.736886,4.81513,28, ,2019,7,17,13,12,1.7851568398673558,undef
+48943619937,45.73683,4.814999,28, ,2019,7,17,13,12,1.7851568398673558,undef
+48943619562,45.736916,4.815155,28, ,2019,7,17,13,16,1.7851595683731345,undef
+48942879888,45.736888,4.815175,28, ,2019,7,17,13,18,1.7851609326260234,undef
+48943619392,45.7369,4.815102,28, ,2019,7,17,13,15,1.7851588862466896,undef
+48943428976,45.73688,4.815133,28, ,2019,7,17,13,16,1.7851595683731345,undef
+48942730276,45.736916,4.815236,28, ,2019,7,17,13,40,1.7851759394078044,undef
+48942180703,45.736916,4.815219,28, ,2019,7,17,13,31,1.785169800269803,undef
+48942919412,45.736886,4.815161,28, ,2019,7,17,13,19,1.785161614752468,undef
+48942919287,45.736916,4.815222,28, ,2019,7,17,13,20,1.7851622968789125,undef
+48942729931,45.736919,4.815238,28, ,2019,7,17,13,20,1.7851622968789125,undef
+48942180228,45.736927,4.815219,28, ,2019,7,17,13,21,1.7851629790053571,undef
+48942919202,45.736919,4.815238,28, ,2019,7,17,13,20,1.7851622968789125,undef
+48942919007,45.736911,4.815205,28, ,2019,7,17,13,21,1.7851629790053571,undef
+48942918957,45.736927,4.815233,28, ,2019,7,17,13,23,1.7851643432582462,undef
+48942179723,45.736922,4.815152,28, ,2019,7,17,13,22,1.7851636611318018,undef
+48942729256,45.736933,4.815258,28, ,2019,7,17,13,24,1.785165025384691,undef
+48942918312,45.736941,4.815302,28, ,2019,7,17,13,28,1.7851677538904691,undef
+48942728866,45.736919,4.815216,28, ,2019,7,17,13,25,1.7851657075111356,undef
+48942179148,45.736927,4.815258,28, ,2019,7,17,13,28,1.7851677538904691,undef
+48942179098,45.736902,4.815213,28, ,2019,7,17,13,26,1.78516638963758,undef
+48942917887,45.736941,4.815258,28, ,2019,7,17,13,28,1.7851677538904691,undef
+48942504157,45.736916,4.815238,28, ,2019,7,17,13,31,1.785169800269803,undef
+48941765978,45.736902,4.815219,28, ,2019,7,17,13,34,1.7851718466491369,undef
+48942312051,45.736891,4.815113,28, ,2019,7,17,13,34,1.7851718466491369,undef
+48942502872,45.736886,4.815172,28, ,2019,7,17,13,38,1.7851745751549153,undef
+48942502757,45.736908,4.815225,28, ,2019,7,17,13,40,1.7851759394078044,undef
+48942311116,45.7369,4.815208,28, ,2019,7,17,13,38,1.7851745751549153,undef
+48941764883,45.736922,4.815261,28, ,2019,7,17,13,37,1.7851738930284706,undef
+48941764818,45.736922,4.815261,28, ,2019,7,17,13,37,1.7851738930284706,undef
+48941764663,45.736908,4.815216,28, ,2019,7,17,13,38,1.7851745751549153,undef
+48942310561,45.736902,4.815222,28, ,2019,7,17,13,34,1.7851718466491369,undef
+49132258006,45.736886,4.815158,28, ,2019,7,17,13,45,1.7851793500400273,undef
+49131761178,45.736886,4.815158,28, ,2019,7,17,13,45,1.7851793500400273,undef
+49132441107,45.736922,4.815211,28, ,2019,7,17,13,46,1.785180032166472,undef
+49131760233,45.736877,4.815127,28, ,2019,7,17,13,49,1.7851820785458057,undef
+49132440652,45.736747,4.815152,28, ,2019,7,17,13,49,1.7851820785458057,undef
+49132440112,45.736866,4.815097,28, ,2019,7,17,13,51,1.785183442798695,undef
+49132209921,45.736891,4.815163,28, ,2019,7,17,13,46,1.785180032166472,undef
+49132209831,45.736902,4.815175,28, ,2019,7,17,13,46,1.785180032166472,undef
+49132371512,45.736888,4.815161,28, ,2019,7,17,13,45,1.7851793500400273,undef
+49131689428,45.736886,4.81513,28, ,2019,7,17,13,45,1.7851793500400273,undef
+49091044742,45.737215,4.815026,28,expo imagine picasso lexposition immersive sucrire lyon france imaginepicassolexpositionimmersive lyon lasucrire art france europe dpartementdurhne peinture,2019,11,16,14,55,1.905063072677157,undef

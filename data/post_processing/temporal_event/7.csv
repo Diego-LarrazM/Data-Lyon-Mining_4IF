@@ -1,0 +1,289 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4386487564,45.76399,4.827568,7,scary lyon,2009,8,7,13,12,-1.7814367733866985,undef
+4386487362,45.76399,4.827568,7, lyon,2009,8,7,13,11,-1.7814374555131431,undef
+4385723217,45.76399,4.827568,7, lyon,2009,8,7,13,11,-1.7814374555131431,undef
+4386487080,45.76399,4.827568,7,fishface lyon,2009,8,7,13,10,-1.7814381376395876,undef
+4385722893,45.76399,4.827568,7,clamhead lyon,2009,8,7,13,10,-1.7814381376395876,undef
+4385722751,45.76399,4.827568,7, lyon,2009,8,7,13,10,-1.7814381376395876,undef
+4386486460,45.76399,4.827568,7,dracula lyon,2009,8,7,13,4,-1.781442230398255,undef
+4386486340,45.76399,4.827568,7, lyon,2009,8,7,13,3,-1.7814429125246998,undef
+4176956290,45.764158,4.827439,7,mus gadagne light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,6,23,49,-1.6621485471356985,undef
+4176197715,45.764158,4.827439,7,mus gadagne light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,6,23,49,-1.6621485471356985,undef
+4176197009,45.764158,4.827439,7,mus gadagne light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,6,23,49,-1.6621485471356985,undef
+4176954340,45.764158,4.827439,7,mus gadagne light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,6,23,49,-1.6621485471356985,undef
+4176195657,45.764158,4.827439,7,mus gadagne light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,6,23,49,-1.6621485471356985,undef
+4176953104,45.764158,4.827439,7,mus gadagne europe france rhnealpes rhne grandlyon lyon ftedeslumires fte lumires festivaloflights festival light light december thdecember december th december dcembre dec ftedeslumires e cinquime earrondissement mearrondissement cinquimearrondissement,2009,12,6,23,48,-1.662149229262143,undef
+4176952472,45.764158,4.827439,7,mus gadagne light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,6,23,48,-1.662149229262143,undef
+4176193773,45.764158,4.827439,7,mus gadagne light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,6,23,47,-1.6621499113885876,undef
+4176193099,45.764158,4.827439,7,mus gadagne light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,6,23,45,-1.662151275641477,undef
+4176192415,45.764158,4.827439,7,mus gadagne light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,6,23,44,-1.6621519577679214,undef
+4171960093,45.763863,4.827632,7,certain soir lyon fete lumiere eclairage decembre fetelumiere evenement lugdunum sanggi fetelumieres,2009,12,8,0,47,-1.6611267217216987,undef
+4551611864,45.764024,4.827611,7,sighted red plant green window ferrari hidden shrubbery,2010,3,29,18,49,-1.5513575700049869,undef
+4609920498,45.764129,4.827723,7,sketchcrawl muse gadagne lyon france urban outside sketch lyon dessin extrieur ville croquis feutre,2010,5,15,22,39,-1.5050343631527112,undef
+4801946773,45.7643,4.827461,7,tour rose rose tour lyon,2010,2,21,12,58,-1.5869584312747134,undef
+4862169205,45.763986,4.827622,7, bw white black france europe noir photographie lyon jeremy nb girard blanc rhone rhonealpes rhnealpes cavo photograhe,2010,4,14,15,8,-1.535792126665831,undef
+4859696682,45.763986,4.827622,7, france europe photographie lyon jeremy muse girard escalier cercle rhone photographe rhnealpes cavo gadagne rhnealpes,2010,4,14,15,7,-1.5357928087922754,undef
+4950612141,45.764087,4.827504,7,lyon muse gadagne petite plante panorama france lyon pentax planet polar hdr x x hugin photomatix littleplanet photoassembly k smcpdafisheye mmf edif pentaxk polarview musegadagne,2010,8,14,11,10,-1.416118498973636,undef
+4950612025,45.764098,4.827471,7,lyon muse gadagne equirectagulaire autostitch panorama france lyon pentax hdr x x hugin equirectangular photomatix k equirectangulaire smcpdafisheye mmf edif pentaxk musegadagne,2010,8,14,11,10,-1.416118498973636,undef
+5417924687,45.764132,4.827482,7,pierrot lyon muse pierrot marionette masque gadagne,2011,1,28,15,54,-1.2518870076677708,undef
+5666464679,45.763833,4.827666,7,p ,2011,4,25,19,1,-1.1663026490440855,undef
+5771020315,45.764132,4.827654,7, lyon vieux,2011,5,13,16,55,-1.148707879532267,undef
+5771562498,45.764132,4.827654,7, lyon vieux,2011,5,13,16,55,-1.148707879532267,undef
+5771019975,45.763919,4.827493,7, muse gadagne,2011,5,13,16,52,-1.1487099259116007,undef
+5771019857,45.763919,4.827493,7,terrasse muse gadagne muse gadagne,2011,5,13,16,47,-1.1487133365438236,undef
+5716927958,45.764087,4.827665,7,dtour rue boeuf canon lyon tamronspaf mmf xrdiiildasphericalif,2011,5,13,16,55,-1.148707879532267,undef
+5716364171,45.764087,4.827665,7,dtour rue boeuf canon lyon tamronspaf mmf xrdiiildasphericalif,2011,5,13,16,54,-1.1487085616587114,undef
+5810762463,45.763908,4.827461,7, ,2011,6,7,23,20,-1.1238887088457692,undef
+5915886042,45.764129,4.827723,7,lyon rhne france lyon rhne gadagne htelgadagne,2011,7,5,11,12,-1.0968819586514635,undef
+6055988576,45.764012,4.827611,7,dsc ly mm nikon lyon muse g gadagne mesdixths,2011,8,7,10,13,-1.0645075554646597,undef
+6206830990,45.7641,4.827664,7,rosace urban dark darkness sombre pesant lourd,2011,9,1,18,31,-1.0396113044899231,undef
+6206314995,45.7641,4.827664,7,door urban dark darkness sombre pesant lourd,2011,9,1,18,30,-1.0396119866163676,undef
+6202577891,45.7641,4.827664,7,autel urban wall mur,2011,9,1,18,27,-1.0396140329957015,undef
+6988794535,45.764,4.8275,7, ,2009,7,11,11,3,-1.8080458438638067,undef
+8032724655,45.764099,4.827332,7,gadagne window shadow red people france bicycle sign architecture facade corner building dark walking europe lyon september pedestrian oldcity rhonealpes vieuxlyon pedestrianzone gadagne rhonealpesregion,2012,9,16,18,19,-0.6653776374460368,undef
+8032722203,45.764095,4.827675,7,temple change door people france building clock church window sign architecture facade religious beige europe arch lyon entrance september column oldcity protestant stockexchange rhonealpes vieuxlyon tharrondissement templeduchange logeduchange rhonealpesregion,2012,9,16,18,22,-0.6653755910667031,undef
+8046890259,45.763975,4.827622,7,narrow alley vieux lyon france building broken wall architecture dark alley europe lyon pavement path gray pipe september drain arrow narrow slope raindrain rhonealpesregion rhonealples,2012,9,17,15,22,-0.6645161117465165,undef
+8180253764,45.76393,4.82745,7,lyon ,2012,8,5,13,11,-0.7068427397599248,undef
+8478619913,45.763813,4.827583,7,meneaux lyon escapade lightroom fentres aat vieuxlyon meneaux,2012,11,11,16,36,-0.6104412199778918,undef
+8357236353,45.764111,4.827686,7, ,2012,12,25,11,30,-0.5674304191405573,undef
+8357235683,45.764111,4.827686,7, ,2012,12,25,11,23,-0.5674351940256693,undef
+8358297940,45.764111,4.827686,7, ,2012,12,25,11,23,-0.5674351940256693,undef
+8358297054,45.764111,4.827686,7,guignol ,2012,12,25,11,23,-0.5674351940256693,undef
+8358296240,45.764111,4.827686,7, ,2012,12,25,11,22,-0.567435876152114,undef
+8358295350,45.764111,4.827686,7, ,2012,12,25,11,21,-0.5674365582785585,undef
+8357231933,45.764111,4.827686,7, ,2012,12,25,11,19,-0.5674379225314478,undef
+8358294094,45.764111,4.827686,7, ,2012,12,25,11,17,-0.567439286784337,undef
+8357230209,45.764111,4.827686,7, ,2012,12,25,11,12,-0.5674426974165598,undef
+9235721427,45.764,4.827333,7, ,2013,6,19,10,43,-0.3945843529659335,undef
+9238132088,45.764,4.827333,7, ,2013,6,19,10,43,-0.3945843529659335,undef
+9609596454,45.764125,4.827643,7,traboule france architecture town,2013,8,1,0,0,-0.3527856908206397,undef
+9606364369,45.76396,4.827708,7,gargoyle france detail architecture,2013,8,1,0,0,-0.3527856908206397,undef
+9537939309,45.764199,4.827353,7,medieval sculpted relief musee histoire lyon sculpture plaque lyon relief relief medievalsculpture rdmay museedelahistoiredelyon,2013,5,3,14,12,-0.4406081063090331,undef
+9540712782,45.764199,4.827353,7,medieval sculpture musee histoire lyon sculpture lyon medievalsculpture rdmay museedelahistoiredelyon,2013,5,3,14,17,-0.4406046956768101,undef
+9537907695,45.764199,4.827353,7,vierge lenfant bateau musee histoire lyon sculpture plaque lyon relief relief medievalsculpture rdmay museedelahistoiredelyon viergealenfantsurunbateau,2013,5,3,14,30,-0.4405958280330304,undef
+9537890669,45.764199,4.827353,7,model hotel ville musee histoire lyon model lyon hoteldeville rdmay museedelahistoiredelyon,2013,5,3,14,48,-0.4405835497570278,undef
+9540674136,45.764199,4.827353,7,medieval bust musee histoire lyon sculpture lyon medievalsculpture rdmay museedelahistoiredelyon,2013,5,3,14,49,-0.4405828676305832,undef
+9537880681,45.764199,4.827353,7,gedagne builiding lyon corner turret lyon rdmay gedagnebuiliding,2013,5,3,15,59,-0.4405351187794617,undef
+9540657850,45.764199,4.827353,7,medieval bust musee histoire lyon sculpture lyon medievalsculpture rdmay museedelahistoiredelyon,2013,5,3,14,49,-0.4405828676305832,undef
+9530743734,45.764169,4.8273,7,medieval sculpted relief musee histoire lyon sculpture museum plaque lyon relief relief medievalsculpture rdmay museedelahistoiredelyon,2013,5,3,13,8,-0.440651762401487,undef
+9527952253,45.764169,4.8273,7,medieval sculpted relief musee histoire lyon sculpture museum plaque lyon relief relief medievalsculpture rdmay,2013,5,3,13,9,-0.4406510802750424,undef
+9530718206,45.764169,4.8273,7,medieval sculpted relief musee histoire lyon sculpture museum plaque lyon relief relief medievalsculpture rdmay museedelahistoiredelyon,2013,5,3,14,10,-0.4406094705619223,undef
+9527922599,45.764169,4.8273,7,medieval sculpted relief musee histoire lyon sculpture museum plaque lyon relief elephant relief medievalsculpture rdmay museedelahistoiredelyon,2013,5,3,14,10,-0.4406094705619223,undef
+9527911465,45.764169,4.8273,7,medieval sculpted relief musee histoire lyon sculpture museum plaque lyon relief relief medievalsculpture rdmay museedelahistoiredelyon,2013,5,3,14,11,-0.4406087884354777,undef
+9530689430,45.764169,4.8273,7,medieval sculpted capital musee histoire lyon sculpture museum lyon capital medievalsculpture rdmay,2013,5,3,14,11,-0.4406087884354777,undef
+9530681422,45.764169,4.8273,7,medieval sculpture musee histoire lyon sculpture museum lyon medievalsculpture rdmay,2013,5,3,14,11,-0.4406087884354777,undef
+9527888381,45.764169,4.8273,7,medieval sculpted capital musee histoire lyon sculpture museum lyon capital medievalsculpture rdmay,2013,5,3,14,11,-0.4406087884354777,undef
+9530662020,45.764169,4.8273,7,medieval sculpted relief musee histoire lyon sculpture museum lyon relief medievalsculpture rdmay museedelahistoiredelyon,2013,5,3,14,11,-0.4406087884354777,undef
+9521123571,45.764207,4.827482,7,gedagne building courtyard lyon lyon courtyard rdmay,2013,5,3,13,49,-0.4406237952172587,undef
+9523890170,45.764207,4.827482,7,gedagne building courtyard lyon lyon courtyard rdmay gedagnebuilding,2013,5,3,12,44,-0.4406681334361572,undef
+9523921658,45.764207,4.827482,7,gedagne building courtyard lyon lyon courtyard rdmay gedagnebuilding,2013,5,3,13,49,-0.4406237952172587,undef
+9509261087,45.764095,4.827439,7,demolition quartier st paul frankreich france lyon tourisme vacances vieuxlyon gadagne tableau peinture rhne rhnealpes muse,2013,8,8,11,31,-0.3454385068859341,undef
+9512049902,45.764147,4.827386,7,attelage chevaux frankreich france lyon tourisme vacances vieuxlyon gadagne tableau peinture rhne rhnealpes muse,2013,8,8,11,46,-0.3454282749892652,undef
+9512046978,45.764147,4.827439,7,louise labbe frankreich france lyon tourisme vacances vieuxlyon gadagne vitraux peinture rhne rhnealpes muse,2013,8,8,11,53,-0.345423500104153,undef
+9509252287,45.764132,4.827396,7,alcove dune chambre coucher frankreich france lyon tourisme vacances gadagne vieuxlyon chambre rhne rhnealpes muse,2013,8,8,12,0,-0.3454187252190409,undef
+9508971987,45.764132,4.827396,7,cles ville frankreich france lyon tourisme vacances vieuxlyon gadagne rhne rhnealpes cl muse,2013,8,8,12,4,-0.3454159967132625,undef
+9511760748,45.764095,4.827396,7,metier grande tire frankreich france lyon tourisme vacances gadagne vieuxlyon rhne rhnealpes mtieratisser muse,2013,8,8,11,57,-0.3454207715983747,undef
+9511757846,45.76411,4.827461,7,buffet deux corp frankreich france lyon tourisme vacances vieuxlyon gadagne buffet rhne rhnealpes muse,2013,8,8,11,39,-0.3454330498743773,undef
+9511755102,45.76408,4.827461,7,cour musee gadagne frankreich france lyon tourisme vacances gadagne vieuxlyon histoire rhne rhnealpes muse,2013,8,8,16,17,-0.3452434187227806,undef
+10383071435,45.764155,4.827418,7, lyon vieux traboule,2013,10,19,17,23,-0.2744755286020886,undef
+10383046074,45.764155,4.827418,7, lyon vieux traboule,2013,10,19,17,22,-0.2744762107285332,undef
+10383089036,45.763893,4.827622,7, lyon vieux,2013,10,19,17,21,-0.2744768928549778,undef
+11742383936,45.763979,4.827643,7,cour loge rue boeuf place petit collge lyon france old city france caf night restaurant frankreich place lyon pavement muse rue francia nuit vieux petit cour pavs boeuf collge greatphotographers loge geottagged gadagne,2014,1,2,19,16,-0.2007287922978612,undef
+11683243443,45.76395,4.827422,7, flickr,2013,12,29,17,9,-0.2047444706771772,undef
+13236376793,45.764086,4.827552,7,lyon france lyon francja,2014,3,12,12,22,-0.1332351091112131,undef
+13236235695,45.764086,4.827552,7,lyon france lyon francja,2014,3,12,12,36,-0.1332255593409888,undef
+14609812902,45.763919,4.827691,7,lyon muse miniature ,2014,7,6,12,50,-0.0192736082660357,undef
+14789003866,45.763847,4.827636,7,img france lyon rhonealpes,2014,6,29,14,9,-0.0260955548384051,undef
+14820222363,45.764119,4.827622,7,building lyon history museum old town lyon france lyon fr,2014,7,30,12,51,0.0043013637855251,undef
+14777384426,45.764119,4.827622,7,building lyon history museum old town lyon france lyon fr,2014,7,30,12,50,0.0043006816590805,undef
+15418029701,45.764125,4.827444,7, lyon museedesmarionnettes,2014,9,24,17,52,0.0595133603372855,undef
+15398161486,45.764125,4.827444,7, lyon museedesmarionnettes,2014,9,24,17,52,0.0595133603372855,undef
+15398159396,45.764125,4.827444,7, lyon museedesmarionettes,2014,9,24,17,52,0.0595133603372855,undef
+15418024001,45.764125,4.827444,7, lyon museedesmarionettes,2014,9,24,17,51,0.0595126782108409,undef
+15234434269,45.764125,4.827444,7, lyon gadagne,2014,9,24,15,47,0.0594280945317114,undef
+16894837851,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,13,23,0.2351547806818492,undef
+16869914666,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,13,24,0.2351554628082938,undef
+16894834431,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,13,21,0.2351534164289601,undef
+16869912266,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,13,21,0.2351534164289601,undef
+16894596502,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,13,23,0.2351547806818492,undef
+16688369987,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,13,18,0.2351513700496263,undef
+16708035168,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,13,14,0.2351486415438479,undef
+16709491269,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,13,17,0.2351506879231817,undef
+16709423619,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,13,17,0.2351506879231817,undef
+16894546031,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,13,15,0.2351493236702925,undef
+16707814358,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,13,14,0.2351486415438479,undef
+16709126659,45.764087,4.827536,7, france lyon muse histoire tableau historique guignol vieuxlyon marionnettes architequture marionnettiste histoiredelyon monlyon musesgadagne,2015,3,22,13,14,0.2351486415438479,undef
+16272888544,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,13,36,0.2351636483256289,undef
+16707536380,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,13,8,0.2351445487851803,undef
+16707291228,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,13,14,0.2351486415438479,undef
+16707231968,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,13,12,0.2351472772909587,undef
+16687524377,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,13,12,0.2351472772909587,undef
+16893806051,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,13,8,0.2351445487851803,undef
+16893572242,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,13,7,0.2351438666587358,undef
+16272403644,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,13,6,0.2351431845322912,undef
+16707124048,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,13,5,0.2351425024058466,undef
+16893544092,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,13,4,0.235141820279402,undef
+16868833486,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,13,4,0.235141820279402,undef
+16868812996,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,13,3,0.2351411381529574,undef
+16707281380,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,12,59,0.235138409647179,undef
+16687348037,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,13,2,0.2351404560265128,undef
+16707192740,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,12,59,0.235138409647179,undef
+16708423289,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,12,50,0.2351322705091777,undef
+16894575725,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,12,58,0.2351377275207344,undef
+16893579871,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,12,53,0.2351343168885115,undef
+16893306632,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,12,48,0.2351309062562885,undef
+16706870878,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,12,49,0.2351315883827331,undef
+16706843948,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,12,48,0.2351309062562885,undef
+16708312399,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,12,47,0.2351302241298439,undef
+16893461371,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,12,33,0.2351206743596196,undef
+16893430461,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,12,38,0.2351240849918426,undef
+16893390301,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,12,34,0.2351213564860642,undef
+16868440056,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,12,35,0.2351220386125088,undef
+16893312951,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,12,31,0.2351193101067304,undef
+16893080502,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,12,32,0.235119992233175,undef
+16893262481,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,12,30,0.2351186279802858,undef
+16686888077,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,12,30,0.2351186279802858,undef
+16868303986,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,12,20,0.2351118067158399,undef
+16271809174,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,12,24,0.2351145352216183,undef
+16706711420,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,12,27,0.235116581600952,undef
+16274096173,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,12,19,0.2351111245893953,undef
+16868172856,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,12,24,0.2351145352216183,undef
+16868097846,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,12,14,0.2351077139571724,undef
+16894005675,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,12,2,0.2350995284398372,undef
+16892991561,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,12,3,0.2351002105662818,undef
+16892979051,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,12,1,0.2350988463133926,undef
+16892953441,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,11,50,0.2350913429225021,undef
+16271571324,45.764087,4.827536,7, france lyon muse histoire historique vieuxlyon architequture histoiredelyon monlyon musesgadagne,2015,3,22,11,48,0.2350899786696129,undef
+16522548369,45.764095,4.827675,7,lyon vers gadagne france lyon vieuxlyon gadagne zeiss,2014,11,21,17,21,0.1164634150698675,undef
+18806142234,45.76399,4.827632,7, ,2015,7,4,11,57,0.3372513741497849,undef
+19241090468,45.76399,4.827632,7, ,2015,7,4,11,56,0.3372506920233404,undef
+20257339105,45.763961,4.827535,7,hand carpenter shadow sculpture france detail stair pattern hand lyon interieur main ombra ombre treppe mano scala inside rathaus statua escalier mairie frankrig scultura particolare rdhus doubleshadow francio handofacarpenter,2015,6,24,11,55,0.327427389094764,undef
+21547482811,45.763952,4.82757,7,fragment lyonnais sunshine wall soleil lyon couleurs ombre mur vieilleville,2015,9,7,12,40,0.4011277408007591,undef
+22273718229,45.764038,4.82748,7,muse cadagne france lyon vieuxlyon,2014,12,19,12,31,0.1437689366469047,undef
+22258523126,45.764095,4.827675,7,rue boeuf city lyon,2015,10,18,18,56,0.4416569656326662,undef
+22740307640,45.764044,4.827665,7,biduleofficiel jaime gen font mtier bouche like people involved food wwwmonsieurbidulenet art artwork artcontemporain performance performanceart lyon igerslyon travelgram lecabaretier bouchonlyonnais onlylyo square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue,2015,11,10,13,49,0.4640395806590794,undef
+24671366554,45.763891,4.827613,7,vieux lyon france architecture stair lyon escalier batiment iphone vieuxlyon instagram,2016,2,21,17,22,0.5653578678537351,undef
+9558359742,45.763908,4.827632,7,stille nacht street city wallpaper urban france night geotagged light frankreich europa europe lyon facade rhne rue francia nuit lumires urbain saintjean vieuxlyon rhnealpes fonddcran,2013,8,20,19,45,-0.3333143914597473,undef
+26682205801,45.764004,4.827631,7,museum exterior square squareformat iphoneography instagramapp uploadedbyinstagram,2016,5,1,20,10,0.6342308107113492,undef
+26723690746,45.764004,4.827631,7,museum interior square squareformat iphoneography instagramapp uploadedbyinstagram,2016,5,1,20,10,0.6342308107113492,undef
+26143000694,45.764004,4.827631,7,museum interior square squareformat iphoneography instagramapp uploadedbyinstagram,2016,5,1,20,9,0.6342301285849047,undef
+26749110625,45.764004,4.827631,7,rama cambodia square squareformat iphoneography instagramapp uploadedbyinstagram,2016,5,1,20,9,0.6342301285849047,undef
+26682176951,45.764004,4.827631,7,java puppet square squareformat iphoneography instagramapp uploadedbyinstagram,2016,5,1,20,8,0.63422944645846,undef
+26682166701,45.764004,4.827631,7,italian chinese square squareformat iphoneography instagramapp uploadedbyinstagram,2016,5,1,20,8,0.63422944645846,undef
+26682148411,45.764004,4.827631,7,roland legend square squareformat iphoneography instagramapp uploadedbyinstagram,2016,5,1,20,7,0.6342287643320155,undef
+26145077303,45.764004,4.827631,7,face body square squareformat iphoneography instagramapp uploadedbyinstagram,2016,5,1,20,5,0.6342274000791263,undef
+26145062613,45.764004,4.827631,7,theater square squareformat iphoneography instagramapp uploadedbyinstagram,2016,5,1,20,4,0.6342267179526817,undef
+26476148610,45.764004,4.827631,7,anglais pierrot square squareformat iphoneography instagramapp uploadedbyinstagram,2016,5,1,20,3,0.634226035826237,undef
+26682085311,45.764004,4.827631,7,pucinella square squareformat iphoneography instagramapp uploadedbyinstagram,2016,5,1,20,3,0.634226035826237,undef
+26145018763,45.764004,4.827631,7,credit lyonnais notice square squareformat iphoneography instagramapp uploadedbyinstagram,2016,5,1,20,1,0.6342246715733479,undef
+26655593912,45.764004,4.827631,7,steam railway square squareformat iphoneography instagramapp uploadedbyinstagram,2016,5,1,19,59,0.6342233073204587,undef
+26476059270,45.764004,4.827631,7,mariner cross square squareformat iphoneography instagramapp uploadedbyinstagram,2016,5,1,19,58,0.6342226251940142,undef
+26655558192,45.764004,4.827631,7,church souvenir square squareformat iphoneography instagramapp uploadedbyinstagram,2016,5,1,19,57,0.6342219430675695,undef
+26476034480,45.764004,4.827631,7,industrial loom square squareformat iphoneography instagramapp uploadedbyinstagram,2016,5,1,19,56,0.634221260941125,undef
+26476028660,45.764004,4.827631,7,key city given napoleon square squareformat iphoneography instagramapp uploadedbyinstagram,2016,5,1,19,56,0.634221260941125,undef
+26142728624,45.764004,4.827631,7,early loom square squareformat iphoneography instagramapp uploadedbyinstagram,2016,5,1,19,54,0.6342198966882358,undef
+26476005140,45.764004,4.827631,7,th century merchant scale square squareformat iphoneography instagramapp uploadedbyinstagram,2016,5,1,19,54,0.6342198966882358,undef
+26475989900,45.764004,4.827631,7,bridge tariff royal privilege square squareformat iphoneography instagramapp uploadedbyinstagram,2016,5,1,19,53,0.6342192145617912,undef
+26475947800,45.764004,4.827631,7,th century card square squareformat iphoneography instagramapp uploadedbyinstagram,2016,5,1,19,51,0.634217850308902,undef
+26723344176,45.764004,4.827631,7,charlemagne square squareformat iphoneography instagramapp uploadedbyinstagram,2016,5,1,19,51,0.634217850308902,undef
+27776265411,45.763984,4.827632,7,htel gadagne lyon rhne ,2016,6,22,23,31,0.6854455462977976,undef
+27671678801,45.764004,4.827631,7,comobilit lyonnaise entre tradition modernit urban gyroo rouelectrique inmotionfrancebelgique bespokewheeler square squareformat clarendon iphoneography instagramapp uploadedbyinstagram,2016,6,18,13,55,0.6811235931448597,undef
+28041711783,45.764111,4.827436,7,img export lyon lyonoldtown rhnerivercruise auvergnerhnealpes france,2016,7,10,11,22,0.7026289935635269,undef
+28551210582,45.764213,4.827494,7,img export lyon auvergnerhnealpes france,2016,7,10,11,21,0.7026283114370824,undef
+28579326791,45.764166,4.827447,7,img export lyon lyonoldtown rhnerivercruise auvergnerhnealpes france,2016,7,10,11,21,0.7026283114370824,undef
+28262105416,45.764103,4.827466,7, ,2016,7,13,17,35,0.7058302129679995,undef
+28217234721,45.764103,4.827466,7, ,2016,7,13,17,20,0.7058199810713306,undef
+28014140630,45.764103,4.827466,7, ,2016,7,13,16,45,0.7057961066457699,undef
+28295245045,45.764103,4.827466,7, ,2016,7,13,16,35,0.7057892853813239,undef
+28013711220,45.764103,4.827466,7, ,2016,7,13,16,40,0.7057926960135469,undef
+27679527363,45.764103,4.827466,7, ,2016,7,13,16,40,0.7057926960135469,undef
+27679259483,45.764103,4.827466,7, ,2016,7,13,16,38,0.7057913317606577,undef
+28012938650,45.764103,4.827466,7, ,2016,7,13,16,27,0.7057838283697672,undef
+28215835891,45.764195,4.82734,7, ,2016,7,13,16,26,0.7057831462433226,undef
+27678153094,45.764188,4.82744,7, ,2016,7,13,16,21,0.7057797356110996,undef
+28294019295,45.76415,4.827555,7, ,2016,7,13,16,17,0.7057770071053213,undef
+27678320193,45.764166,4.827483,7, ,2016,7,13,16,18,0.7057776892317659,undef
+28259591236,45.764146,4.827473,7, ,2016,7,13,16,12,0.7057735964730983,undef
+28214288071,45.764122,4.827443,7, ,2016,7,13,15,54,0.7057613181970956,undef
+28214231691,45.76415,4.827447,7, ,2016,7,13,15,49,0.7057579075648727,undef
+28188734002,45.764132,4.827466,7, ,2016,7,13,15,48,0.7057572254384281,undef
+28011243810,45.764108,4.827462,7, ,2016,7,13,15,47,0.7057565433119835,undef
+28188580152,45.764148,4.82745,7, ,2016,7,13,15,36,0.705749039921093,undef
+28258491236,45.764144,4.827447,7, ,2016,7,13,15,36,0.705749039921093,undef
+27676457994,45.764184,4.827503,7, ,2016,7,13,15,25,0.7057415365302024,undef
+28213973731,45.764184,4.827503,7, ,2016,7,13,15,25,0.7057415365302024,undef
+29128665606,45.764109,4.827508,7,muse gadagne film ilford leicam muse gadagne,2016,8,22,21,1,0.7452612142241127,undef
+30990624272,45.763919,4.82768,7,dsc dxo ,2015,4,19,12,4,0.2626042309386955,undef
+23486353319,45.763838,4.827616,7,lyon france france lyon,2014,5,29,15,54,-0.0564740560483315,undef
+23854281455,45.763838,4.827616,7,lyon france france lyon,2014,5,29,15,54,-0.0564740560483315,undef
+23854266815,45.764236,4.827502,7,lyon france france lyon,2014,5,29,15,54,-0.0564740560483315,undef
+23558516560,45.764244,4.827494,7,lyon france france lyon,2014,5,29,15,54,-0.0564740560483315,undef
+23854171415,45.764255,4.827566,7,lyon france france lyon,2014,5,29,15,58,-0.0564713275425531,undef
+23854162175,45.764255,4.827566,7,lyon france france lyon,2014,5,29,15,58,-0.0564713275425531,undef
+32077694494,45.763885,4.827547,7,lyony ,2017,2,7,16,36,0.911082742272323,undef
+32656143386,45.764057,4.82745,7,lyon muse gadagne france lyon auvergnerhnealpes rhne muse musegadagne vieuxlyon mtiertisser francmaonnerie,2017,1,22,13,33,0.8952417198495517,undef
+32317499640,45.764057,4.82745,7,lyon muse gadagne france lyon auvergnerhnealpes rhne muse musegadagne vieuxlyon mtiertisser,2017,1,22,13,40,0.8952464947346639,undef
+32317496690,45.764057,4.82745,7,lyon muse gadagne france lyon auvergnerhnealpes rhne muse musegadagne vieuxlyon,2017,1,22,13,42,0.8952478589875531,undef
+32317495200,45.764057,4.82745,7,lyon muse gadagne france lyon auvergnerhnealpes rhne muse musegadagne vieuxlyon,2017,1,22,13,43,0.8952485411139977,undef
+31865573143,45.764057,4.82745,7,lyon muse gadagne mtier grande tire france lyon auvergnerhnealpes rhne muse musegadagne vieuxlyon mtiertisser,2017,1,22,13,3,0.8952212560562139,undef
+31865570793,45.764057,4.82745,7,lyon muse gadagne france lyon auvergnerhnealpes rhne muse musegadagne vieuxlyon mtiertisser,2017,1,22,13,22,0.8952342164586612,undef
+32525068852,45.764057,4.82745,7,lyon muse gadagne france lyon auvergnerhnealpes rhne muse musegadagne vieuxlyon mtiertisser,2017,1,22,13,24,0.8952355807115504,undef
+31834856484,45.764057,4.82745,7,lyon muse gadagne cl ville france lyon auvergnerhnealpes rhne muse musegadagne vieuxlyon mtiertisser,2017,1,22,13,23,0.8952348985851059,undef
+32412357282,45.764102,4.82745,7,lyon htel gadagne ,2017,1,22,12,28,0.8951973816306532,undef
+31753413883,45.764102,4.82745,7,lyon htel gadagne ,2017,1,22,12,31,0.895199428009987,undef
+31721216714,45.764102,4.82745,7,lyon htel gadagne ,2017,1,22,12,35,0.8952021565157654,undef
+32186109060,45.764102,4.82745,7,lyon htel gadagne ,2017,1,22,12,48,0.8952110241595451,undef
+32269353276,45.763885,4.827547,7,lyon dsc ,2017,1,12,15,17,0.8854900401976575,undef
+32006790991,45.76414,4.827439,7, decembre cours cristal decembre fete fetedeslumieres gadagne lumiere lumieres lyon musee vieux vieuxlyon france,2016,12,10,23,40,0.8534185011522527,undef
+32125202165,45.76414,4.827439,7, decembre cours cristal decembre fete fetedeslumieres gadagne lumiere lumieres lyon musee vieux vieuxlyon france,2016,12,10,23,40,0.8534185011522527,undef
+31750103690,45.76414,4.827439,7, decembre cours cristal decembre fete fetedeslumieres gadagne lumiere lumieres lyon musee vieux vieuxlyon france,2016,12,10,23,37,0.8534164547729188,undef
+32006757321,45.76414,4.827439,7, decembre cours cristal decembre fete fetedeslumieres gadagne lumiere lumieres lyon musee vieux vieuxlyon france,2016,12,10,23,40,0.8534185011522527,undef
+31686935036,45.763825,4.827611,7,bad boy lyon fdl supermimil,2016,12,11,0,23,0.8534478325893702,undef
+31351176280,45.76411,4.827611,7,prisme lyon fdl supermimil,2016,12,11,0,43,0.853461475118262,undef
+31608612771,45.76396,4.827665,7,fractale lyon fdl supermimil france light illumination,2016,12,11,0,21,0.853446468336481,undef
+24183493758,45.764169,4.827611,7,old lyon typical building france ch ,2017,8,6,8,51,1.0875727279139598,undef
+37216601784,45.763967,4.827686,7, lyon auvergnerhnealpes frankreich fr france rhnealpes nikon v nikkor mmf vr nikkor,2017,4,15,11,1,0.9766657892876676,undef
+37194469114,45.763967,4.827686,7, lyon auvergnerhnealpes frankreich fr france rhnealpes nikon v nikkor mmf vr nikkor,2017,4,15,11,0,0.976665107161223,undef
+37505358822,45.763961,4.827608,7,inner courtyard exifaperture cameramodelxt geocountry geocity geostate exiflensxf mmf rlmoiswr exifisospeed geolon exifmodelxt geolocation exifmakefujifilm geolat exiffocallength mm cameramakefujifilm,2017,8,11,11,11,1.0925795360172688,undef
+24629014788,45.764125,4.827482,7,mus gadagne pentax k automne lyon rhne saone confluence rhnealpes ville city samyang fisheye aspherical mm urban muse arcade archi architecture btiment citybreak onlylyon arch gadagne villedelyon vieuxlyon tourisme vacances tourism holiday,2017,11,1,17,20,1.173376731252804,undef
+31155586950,45.764057,4.827547,7,fte lumires crystallised fte lumires crystallized lyon gadagne,2016,12,8,22,15,0.851395996244036,undef
+24636851817,45.76405,4.827429,7,courtyard muse gadagne lyon france december lyon france courtyard museum muse gadagne vieux oldtown lantern yard,2017,12,30,14,3,1.231195815075797,undef
+38796132074,45.76405,4.827429,7,head henri iv muse gadagne lyon france december lyon france muse gadagne henriiv head bust masonry museum,2017,12,30,13,39,1.2311794440411266,undef
+42596835062,45.764163,4.827508,7,musee gadagne lyon france ,2018,6,6,11,9,1.3862745337481202,undef
+28773500118,45.763961,4.827494,7,marionette lyon france ,2018,6,6,11,14,1.386277944380343,undef
+42794183715,45.764057,4.827538,7,lyon lheure lapritif lyon terrasse caf bistrot heure apritif noiretblanc bw monochrome,2013,9,17,18,0,-0.3058826764904604,undef
+27094173259,45.764105,4.827383,7, ,2017,12,2,16,3,1.2037743320031788,undef
+38840414252,45.763808,4.827661,7, ,2017,12,2,16,3,1.2037743320031788,undef
+47388799622,45.76402,4.827332,7,muse art marionnette fujifilmxt muse museum musedesartsdelamarionnette marionnette puppet puppetry mam lyon gadagne,2019,3,21,20,9,1.6695343611295956,undef
+47388798632,45.76402,4.827332,7,muse art marionnette fujifilmxt muse museum musedesartsdelamarionnette marionnette puppet puppetry mam lyon gadagne,2019,3,21,20,19,1.6695411823940416,undef
+47388797952,45.76402,4.827332,7,muse art marionnette fujifilmxt muse museum musedesartsdelamarionnette marionnette puppet puppetry mam lyon gadagne,2019,3,21,20,12,1.6695364075089294,undef
+47388797242,45.76402,4.827332,7,muse art marionnette fujifilmxt muse museum musedesartsdelamarionnette marionnette puppet puppetry mam lyon gadagne,2019,3,21,20,10,1.6695350432560403,undef
+47388796902,45.76402,4.827332,7,muse art marionnette fujifilmxt muse museum musedesartsdelamarionnette marionnette puppet puppetry mam lyon gadagne,2019,3,21,20,10,1.6695350432560403,undef
+47388794602,45.76402,4.827332,7,muse art marionnette fujifilmxt muse museum musedesartsdelamarionnette marionnette puppet puppetry mam lyon gadagne,2019,3,21,20,6,1.669532314750262,undef
+47388793612,45.76402,4.827332,7,muse art marionnette fujifilmxt muse museum musedesartsdelamarionnette marionnette puppet puppetry mam lyon gadagne,2019,3,21,20,2,1.6695295862444834,undef
+47388793282,45.76402,4.827332,7,muse art marionnette fujifilmxt muse museum musedesartsdelamarionnette marionnette puppet puppetry mam lyon gadagne,2019,3,21,20,2,1.6695295862444834,undef
+47388792912,45.76402,4.827332,7,muse art marionnette fujifilmxt muse museum musedesartsdelamarionnette marionnette puppet puppetry mam lyon gadagne,2019,3,21,20,2,1.6695295862444834,undef
+47388792732,45.76402,4.827332,7,muse art marionnette fujifilmxt muse museum musedesartsdelamarionnette marionnette puppet puppetry mam lyon gadagne,2019,3,21,20,1,1.669528904118039,undef
+47388792382,45.76402,4.827332,7,muse art marionnette fujifilmxt muse museum musedesartsdelamarionnette marionnette puppet puppetry mam lyon gadagne,2019,3,21,20,0,1.6695282219915943,undef
+47388792232,45.76402,4.827332,7,muse art marionnette fujifilmxt muse museum musedesartsdelamarionnette marionnette puppet puppetry mam lyon gadagne,2019,3,21,19,59,1.6695275398651497,undef
+47388792152,45.76402,4.827332,7,muse art marionnette fujifilmxt muse museum musedesartsdelamarionnette marionnette puppet puppetry mam lyon gadagne,2019,3,21,20,0,1.6695282219915943,undef
+46526379505,45.76402,4.827332,7,muse art marionnette fujifilmxt muse museum musedesartsdelamarionnette marionnette puppet puppetry mam lyon gadagne,2019,3,21,19,58,1.6695268577387052,undef
+46526378955,45.76402,4.827332,7,muse art marionnette fujifilmxt muse museum musedesartsdelamarionnette marionnette puppet puppetry mam lyon gadagne,2019,3,21,19,57,1.6695261756122606,undef
+47441687661,45.76402,4.827332,7,muse art marionnette fujifilmxt muse museum musedesartsdelamarionnette marionnette puppet puppetry mam lyon gadagne,2019,3,21,19,57,1.6695261756122606,undef
+46526378615,45.76402,4.827332,7,muse art marionnette fujifilmxt muse museum musedesartsdelamarionnette marionnette puppet puppetry mam lyon gadagne,2019,3,21,19,56,1.669525493485816,undef
+47441687351,45.76402,4.827332,7,muse art marionnette fujifilmxt muse museum musedesartsdelamarionnette marionnette puppet puppetry mam lyon gadagne,2019,3,21,19,55,1.6695248113593717,undef
+46526378135,45.76402,4.827332,7,muse art marionnette fujifilmxt muse museum musedesartsdelamarionnette marionnette puppet puppetry mam lyon gadagne,2019,3,21,19,55,1.6695248113593717,undef
+47441686861,45.76402,4.827332,7,muse art marionnette fujifilmxt muse museum musedesartsdelamarionnette marionnette puppet puppetry mam lyon gadagne,2019,3,21,19,55,1.6695248113593717,undef
+46526377275,45.76402,4.827332,7,muse art marionnette fujifilmxt muse museum musedesartsdelamarionnette marionnette puppet puppetry mam lyon gadagne,2019,3,21,19,55,1.6695248113593717,undef
+47441686521,45.76402,4.827332,7,muse art marionnette fujifilmxt muse museum musedesartsdelamarionnette marionnette puppet puppetry mam lyon gadagne,2019,3,21,19,54,1.6695241292329268,undef
+47441686111,45.76402,4.827332,7,muse art marionnette fujifilmxt muse museum musedesartsdelamarionnette marionnette puppet puppetry mam lyon gadagne,2019,3,21,19,52,1.6695227649800377,undef
+47441685701,45.76402,4.827332,7,muse art marionnette fujifilmxt muse museum musedesartsdelamarionnette marionnette puppet puppetry mam lyon gadagne,2019,3,21,19,49,1.669520718600704,undef
+47441685601,45.76402,4.827332,7,muse art marionnette fujifilmxt muse museum musedesartsdelamarionnette marionnette puppet puppetry mam lyon gadagne,2019,3,21,19,39,1.669513897336258,undef
+46526375315,45.76402,4.827332,7,muse art marionnette fujifilmxt muse museum musedesartsdelamarionnette marionnette puppet puppetry mam lyon gadagne,2019,3,21,19,33,1.6695098045775905,undef
+46526375115,45.76402,4.827332,7,muse art marionnette fujifilmxt muse museum musedesartsdelamarionnette marionnette puppet puppetry mam lyon gadagne,2019,3,21,19,23,1.6695029833131445,undef
+47441685321,45.76402,4.827332,7,muse art marionnette fujifilmxt muse museum musedesartsdelamarionnette marionnette puppet puppetry mam lyon gadagne,2019,3,21,19,23,1.6695029833131445,undef
+45523554164,45.764184,4.827461,7,fontaine st jean vieuxlyon saintjean,2018,12,9,11,58,1.5690087048635566,undef
+45523552434,45.764125,4.827654,7,st jean dimanche matin ,2018,12,9,12,7,1.569014844001558,undef
+46714584455,45.763988,4.827639,7,tower lyon france building renaissance street,2018,12,13,3,39,1.5725973720885575,undef
+40926941023,45.763967,4.827697,7,pasted paper magrite lyon france europe france lyon streetart wheatpaste wheatpaper collage pasted paper pasteup magrite,2019,5,6,16,30,1.7145690311280362,undef
+48238150357,45.764057,4.82745,7,lyon muse gadagne france rhne lyon vieuxlyon unesco patrimoinemondialdelunesco classmh mh monumenthistorique,2019,7,7,12,32,1.7753069340074403,undef

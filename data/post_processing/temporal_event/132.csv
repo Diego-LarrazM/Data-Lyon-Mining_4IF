@@ -1,0 +1,91 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4385722093,45.763369,4.827976,132, lyon,2009,8,7,12,25,-1.7814688333295945,undef
+4286936450,45.763408,4.827905,132,petite rue ramassac street pink portrait urban blackandwhite bw woman streetart girl wall poster photography mural lyon exhibition mur streetexhibition alicedodgson,2010,1,19,2,5,-1.6198185084900671,undef
+4168468013,45.76329,4.828104,132,lyon france lyon rhne rhnealpes,2009,4,1,0,0,-1.9077065637981028,undef
+5076002931,45.763279,4.828099,132,day ,2010,10,1,0,0,-1.3694269438412805,undef
+5401470797,45.763286,4.828008,132,chocolat dhiver france alpes canon eos lyon rhne clement,2011,1,30,18,3,-1.249834489195992,undef
+5401469045,45.763286,4.828008,132,lyonnaise france alpes canon eos lyon rhne clement,2011,1,30,17,37,-1.2498522244835517,undef
+5335965242,45.763279,4.828104,132,quintessential street france film rollei rolleiflex mediumformat lyon kodak stranger mf vc portra quintessential,2010,10,31,20,58,-1.3391009663675877,undef
+5839761649,45.763333,4.827999,132, ,2011,6,11,15,20,-1.120287081218321,undef
+5839760093,45.763333,4.827999,132, ,2011,6,11,15,20,-1.120287081218321,undef
+6196802469,45.763351,4.827986,132,wall roof roof sky wall lyon ciel toit mur urbain gouttiere,2011,9,1,17,54,-1.039636543168373,undef
+6230331896,45.763331,4.827997,132,fella france film mm lyon dilosep,2011,9,23,11,47,-1.0182771178088486,undef
+6880655032,45.763256,4.827965,132,old lyon city france canon blackwhite lyon noiretblanc ville oldlyon ef mmf liiusm eos dmkii,2012,3,24,14,0,-0.8384324343127059,undef
+6880654902,45.763208,4.827954,132,old bike old lyon city france canon lyon ville motorcyle ef mmf liiusm eos dmkii,2012,3,24,13,58,-0.8384337985655951,undef
+6880654750,45.763211,4.827954,132,cap tank city france canon lyon ville tankcap ef mmf liiusm eos dmkii,2012,3,24,13,57,-0.8384344806920396,undef
+7099359127,45.763301,4.827911,132,peugeot bicycle lyon,2011,4,17,18,46,-1.1741709775824598,undef
+7099359113,45.763301,4.827911,132,maitre boef lyon,2011,4,17,18,45,-1.1741716597089042,undef
+7099359059,45.763301,4.827911,132,pommes rouge pommes vertes pommes jaunes lyon,2011,4,17,18,45,-1.1741716597089042,undef
+6953233834,45.763301,4.827911,132,lost lyon,2011,4,17,18,39,-1.174175752467572,undef
+7797977990,45.763339,4.828029,132,puppet france lyon vieuxlyon mmvr nikond,2012,8,9,13,26,-0.7029034595424033,undef
+8509691229,45.763333,4.827999,132, ,2012,7,7,16,37,-0.735187822038521,undef
+8509690609,45.763333,4.827999,132, ,2012,7,7,16,37,-0.735187822038521,undef
+8509690073,45.763333,4.827999,132, ,2012,7,7,16,37,-0.735187822038521,undef
+8507655877,45.763344,4.828036,132,frenchcuisine old travel summer vacation food france history window kitchen canon geotagged cuisine google flickr lyon antique streetphotography tool frame culinary preparation smugmug facebook saintjean vieuxlyon px ef f lisusm canoneos dmarkii dmk alexstoen alexstoenphotography summer,2012,8,14,13,1,-0.6980092023024521,undef
+8508755666,45.763344,4.828036,132,heurtoirs saintjean old travel summer vacation france history canon geotagged google flickr lyon antique streetphotography doorknocker smugmug facebook saintjean vieuxlyon picaporte px ef f lisusm canoneos dmarkii dmk alexstoen alexstoenphotography summer,2012,8,14,12,51,-0.6980160235668981,undef
+8508759820,45.763344,4.828036,132,heurtoirs saintjean old travel summer vacation france history canon geotagged google flickr lyon antique streetphotography doorknocker smugmug facebook saintjean vieuxlyon picaporte px ef f lisusm canoneos dmarkii dmk alexstoen alexstoenphotography summer,2012,8,14,12,51,-0.6980160235668981,undef
+8507645525,45.763344,4.828036,132,heurtoirs saintjean old travel summer vacation france history canon geotagged google flickr lyon antique streetphotography doorknocker smugmug facebook saintjean vieuxlyon picaporte px ef f lisusm canoneos dmarkii dmk alexstoen alexstoenphotography summer,2012,8,14,12,50,-0.6980167056933427,undef
+8508745018,45.763344,4.828036,132,tour rose old travel summer vacation france history color canon geotagged google flickr shadow lyon antique streetphotography hdr highdynamicrange smugmug facebook saintjean naturallighting vieuxlyon latourrose px ef f lisusm altorangodinamico canoneos dmarkii dmk alexstoen alexstoenphotography summer,2012,8,14,12,48,-0.6980180699462318,undef
+8504001430,45.763167,4.828,132, photostream,2012,10,29,11,51,-0.623405033057372,undef
+8407966595,45.763234,4.828104,132,lamphitryon france restaurant lyon beef steak meal serving vieuxlyon ruesaintjean lamphitryon maincource,2012,12,11,16,40,-0.5809706290657181,undef
+8403224672,45.763369,4.827901,132,rue saintjean sculpture france statue lyon niche stjohn vieuxlyon ruesaintjean,2012,12,11,9,51,-0.5812496187815563,undef
+8518478169,45.763344,4.828036,132,laccordeoniste street travel light summer vacation musician music france art history canon geotagged google flickr lyon antique streetphotography smugmug facebook saintjean accordionist vieuxlyon frenchmusic creativelight px ef f lisusm canoneos dmarkii dmk alexstoen alexstoenphotography summer,2012,8,14,13,8,-0.69800442741734,undef
+8518474821,45.763344,4.828036,132,rue fronde travel light summer vacation france history broken line statue canon geotagged google flickr lyon antique streetphotography unesco slice smugmug facebook antiquity saintjean vieuxlyon creativelight px ef f lisusm canoneos dmarkii dmk alexstoen alexstoenphotography summer ruedelafronde,2012,8,14,13,7,-0.6980051095437846,undef
+8518473339,45.763344,4.828036,132,culinary art door travel summer vacation sculpture france art history utensil fashion canon geotagged handle cuisine google flickr silverware lyon antique streetphotography fork culinary smugmug facebook saintjean poigne vieuxlyon px ef f lisusm canoneos dmarkii dmk alexstoen alexstoenphotography summer,2012,8,14,13,5,-0.6980064737966738,undef
+10383212933,45.763369,4.827933,132, lyon vieux,2013,10,19,16,44,-0.2745021315334277,undef
+10247062316,45.76321,4.827985,132,lunch djeuner valencia square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue cb e e,2013,10,13,7,30,-0.280773602065011,undef
+10244931873,45.76321,4.827985,132,indian lunch djeuner indien square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue cb e e,2013,10,13,5,24,-0.2808595499970297,undef
+10244069265,45.76321,4.827985,132,vieux lyon square squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue cb e e,2013,10,13,4,34,-0.2808936563192593,undef
+10614303414,45.76321,4.827985,132,love dead end jadore cette impasse lyon night vieuxlyon historic impasse deadend saxotaz fall france valencia square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue cb e e,2013,11,1,12,40,-0.2618991633431369,undef
+12595224694,45.763316,4.828011,132,street vieux lyon france europe lyon,2013,10,25,12,56,-0.2687640838815157,undef
+12192017325,45.763334,4.828018,132,bouchon lyonnais street city urban france restaurant lyon rhne bouchon saintjean vieuxlyon rhnealpes paysageurbain bouchonlyonnais mygearandme mygearandmepremium yolandamiel,2014,1,16,18,40,-0.187001679726882,undef
+11755169044,45.763384,4.827954,132,chopped france lyon rhone vieuxlyon,2013,12,1,12,28,-0.2324394864540767,undef
+13494849094,45.763331,4.82799,132,maison thomassin place change lyon lyon traboule quartiersaintjean vieuxlyon tourelle,2014,3,11,19,51,-0.1339110964178043,undef
+13494783014,45.763286,4.828033,132,temple change place change lyon temple nightshot lyon bourse quartiersaintjean vieuxlyon soufflot templeduchange,2014,3,12,23,14,-0.1327903626693388,undef
+13494411945,45.763331,4.828033,132,maison thomassin place change lyon lyon quartiersaintjean vieuxlyon,2014,3,12,23,17,-0.132788316290005,undef
+15192234688,45.763316,4.827901,132,window art city france art lyon oldtown vieuxlyon rhnealpes,2014,9,12,14,14,0.0475775118098062,undef
+15030677518,45.763339,4.828008,132,new delhi ,2014,9,12,13,13,0.047535902096686,undef
+16338863756,45.763333,4.827999,132, ,2012,12,25,11,28,-0.5674317833934465,undef
+16146835191,45.763247,4.827974,132,plantes rares ,2014,12,30,16,3,0.1547184303355033,undef
+17066820480,45.76333,4.828093,132,lyon lyon rhne bynight vieuxlyon denuit rhnealpes,2015,4,24,14,13,0.2676035356511138,undef
+17059293801,45.763451,4.827965,132,eclectic taste france art frame frankreich gallery lyon drawing kunst schaufenster tableau windowshopping cadre rahmen zeichnung gallerie gemlde,2015,3,21,16,56,0.2343178115343342,undef
+15971931032,45.763277,4.827961,132,lyon france ,2014,6,22,19,15,-0.0327626587078521,undef
+15970618881,45.763277,4.827961,132,lyon france ,2014,6,22,19,15,-0.0327626587078521,undef
+25410261280,45.763166,4.827999,132,francia lione fete lumieres rue st lione francia citta citt feste star festedelleluci,2009,12,6,14,7,-1.6625455447264512,undef
+25084394713,45.763166,4.827999,132,francia lione fete lumieres rue st lione francia citta citt bancarella feste star festedelleluci,2009,12,6,14,7,-1.6625455447264512,undef
+26115141022,45.763375,4.828072,132,pause crme glace france rhnealpes lyon earrondissement,2016,3,19,17,59,0.5919041826979409,undef
+25602840594,45.763363,4.828055,132,place baleine france rhnealpes lyon earrondissement,2016,3,19,18,6,0.5919089575830531,undef
+27884838205,45.763202,4.82803,132,wp projpg lyon auvergnerhnealpes france fr,2016,6,16,12,56,0.6791188235242024,undef
+27798377876,45.763313,4.827974,132, ,2016,6,15,3,14,0.6777395638532363,undef
+28478230471,45.763263,4.82808,132,lyonnaise omdem markii vscofilm panasonic mmf mft vscofilm omd olympus lyon auvergnerhnealpes france fr,2016,6,24,18,54,0.6872211214330719,undef
+29415686242,45.76345,4.828055,132,proeurope feeling midst euro despite postbrexit ,2016,6,16,16,14,0.6792538845602316,undef
+30420566955,45.763186,4.828011,132, ,2016,6,17,12,22,0.6800778933052993,undef
+32206310233,45.763346,4.827965,132,vieux lyon lyon auvergnerhnealpes francia france street vieuxlyon oldtown oldquarter viejolyon calle,2017,2,3,12,38,0.9069913478576572,undef
+32826534035,45.7633,4.828033,132,lyon lyon rhnealpes france francia urban street,2017,2,5,15,44,0.909082747536778,undef
+34747572352,45.763297,4.827974,132,wp rich ,2017,2,10,12,3,0.9138433079935888,undef
+34747571832,45.763297,4.827974,132,wp rich ,2017,2,10,12,3,0.9138433079935888,undef
+34685272784,45.763301,4.82805,132,rue saintjean vieux lyon mother child sculpture lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop statue sculpture motherandchildsculpture,2017,6,3,10,53,1.0247911742065563,undef
+35139750170,45.763301,4.82805,132,rue saintjean vieux lyon new delhi sign lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop sign sign newdelhi placedelabaleine,2017,6,3,10,53,1.0247911742065563,undef
+34716909753,45.763301,4.82805,132,rue saintjean vieux lyon new delhi lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop newdelhi placedelabaleine,2017,6,3,10,53,1.0247911742065563,undef
+35395679581,45.763301,4.82805,132,rue saintjean vieux lyon place baleine lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop placedelabaleine,2017,6,3,10,53,1.0247911742065563,undef
+26157358289,45.763226,4.827922,132,rue saintjean vieux lyon ,2017,10,22,12,5,1.1633392406206255,undef
+24629018888,45.763354,4.827965,132,fisheye party pentax k automne lyon rhne saone confluence rhnealpes ville city samyang fisheye aspherical mm nb bw noiretblanc blackwhite cour traboule archi view vue sphere onlylyon citybreak etages balcons tourisme vacances tourism holiday,2017,11,1,17,2,1.1733644529768013,undef
+24629100398,45.763458,4.827965,132,maison chamarier pentax k automne lyon rhne saone confluence rhnealpes ville city tourisme vacances tourism holiday maisonduchamarier chamarier tamron onlylyon citybreak cour porte door fenetre window balcon,2017,10,31,15,24,1.172315342505018,undef
+37614576865,45.763458,4.827965,132,rue bombarde pentax k automne lyon rhne saone confluence rhnealpes ville city tourisme vacances tourism holiday citybreak onlylyon aspherical fisheye mm samyang bombarde ruedelabombarde muse cinma miniature arcade arch archi batiment faade place,2017,10,31,15,28,1.1723180710107963,undef
+38469279352,45.763458,4.827965,132,fisheye party pentax k automne lyon rhne saone confluence rhnealpes ville city tourisme vacances tourism holiday citybreak onlylyon aspherical fisheye mm samyang cour traboule muse miniature cinma bombarde ruedelabombarde arch arcade archi sky blue,2017,10,31,15,28,1.1723180710107963,undef
+37785980384,45.763354,4.827965,132,fisheye party pentax k automne lyon rhne saone confluence rhnealpes ville city samyang fisheye aspherical mm cour traboule tour citybreak onlylyon vue view archi architecture sphere vieuxlyon tourisme vacances tourism holiday,2017,11,1,17,15,1.173373320620581,undef
+24628986868,45.763354,4.827965,132,traboule pentax k automne lyon rhne saone confluence rhnealpes ville city samyang fisheye aspherical mm arcade arch traboule longue cour citybreak onlylyon vieuxlyon light lumire jaune yellow tourisme vacances tourism holiday,2017,11,1,17,0,1.1733630887239122,undef
+39340506962,45.763369,4.827976,132,ruestjean lyon ,2016,11,13,8,35,0.8262801005541406,undef
+40298037015,45.763256,4.827933,132,trop bon lyon france totalphoto monochrome street rue urban urbain restaurant bouchonlyonnais lelaurencin bouchon letter lettre mot word sign texte text criture chaise chair terrasse table people personnes human humain gen glass vitree reflet reflection,2018,4,2,11,55,1.3224588763507148,undef
+41900211204,45.76333,4.828102,132, lyon france lyon earrondissement auvergnerhnealpes fr,2017,9,15,13,50,1.12706716692942,undef
+28758176717,45.763196,4.827976,132,vieux lyon lyon auvergnerhnealpes france claudelina france auvergnerhnealpes lyon maisons house vieuxlyon,2018,5,25,13,20,1.3745767473498036,undef
+43959711932,45.763399,4.828062,132,vieux lyon lyon auvergnerhnealpes france claudelina france auvergnerhnealpes lyon ville town city vieuxlyon,2018,5,25,14,0,1.3746040324075872,undef
+43629517825,45.763354,4.827975,132,mosaic installation mifamosa lyon france europe france lyon stjean streetart wall mur installation mosaic mosaique baleine mifamosa,2018,8,21,17,11,1.4611733816172645,undef
+31866989528,45.763269,4.828094,132,lyon france france auvergnerhnealpes auvergnerhonealpes rhnealpes rhonealpes rhne rhone lyon geotagged,2018,10,27,14,43,1.5268839862777477,undef
+47609439722,45.763256,4.827933,132,authentique friterie belge lyon france monochrome line ligne courbe curve geometry gomtrie urban urbain street rue magasin,2019,4,19,12,1,1.697687083750817,undef
+32719687047,45.763256,4.827933,132,chaussainjean lyon france line ligne courbes curve geometry gomtrie,2019,4,19,11,57,1.6976843552450385,undef
+47662201361,45.763256,4.827933,132,saint jean chaussures lyon france urban urbain shoe chaussures hang suspendu fil line ligne btiment sky ciel rue street,2019,4,19,11,55,1.6976829909921491,undef
+48415547287,45.763365,4.828057,132,lyon bleu blanc rouge baiser lyon rhone marchand chapeau beret levres rouge vitrine magasin,2019,7,29,16,42,1.7970872313832784,undef
+48415395911,45.763365,4.828057,132,lyon chapeau paille lyon rhone vieuxlyon marchand chapeau paille strawhats,2019,7,29,16,41,1.7970865492568338,undef
+48645913553,45.763365,4.828057,132,vieux lyon lyon rhone vieuxlyon magasin mannequin chapeau foulard,2019,8,29,17,46,1.8275810119623408,undef
+48678563527,45.763211,4.828075,132, france francia frankreich frankrijk fhrainc lyon lione,2019,9,3,20,34,1.8326069196060983,undef

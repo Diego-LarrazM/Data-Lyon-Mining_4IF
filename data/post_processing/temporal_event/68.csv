@@ -1,0 +1,60 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+4263206535,45.777841,4.846577,68,img parcsousla neige lyon neige parcdelattedor,2010,1,10,13,5,158591100.0,undef,2010-01-10 13:05:00
+4642762371,45.77782,4.846515,68,parc tte dor ,2010,5,25,16,17,170266620.0,undef,2010-05-25 16:17:00
+4643360492,45.77782,4.846515,68,oies ,2010,5,25,16,11,170266260.0,undef,2010-05-25 16:11:00
+5255163771,45.77782,4.84658,68,lyon dcembre ,2010,12,11,19,39,187558740.0,undef,2010-12-11 19:39:00
+5253517641,45.777865,4.846494,68,fte lumires light lyon illumination fte lumires,2010,12,11,21,15,187564500.0,undef,2010-12-11 21:15:00
+5253517145,45.777865,4.846494,68,fte lumires light lyon illumination fte lumires,2010,12,11,21,11,187564260.0,undef,2010-12-11 21:11:00
+5253516723,45.777865,4.846494,68,fte lumires light lyon illumination fte lumires,2010,12,11,21,4,187563840.0,undef,2010-12-11 21:04:00
+5254124728,45.777865,4.846494,68,fte lumires light lyon illumination fte lumires,2010,12,11,20,56,187563360.0,undef,2010-12-11 20:56:00
+5253515895,45.777865,4.846494,68,fte lumires light lyon illumination fte lumires,2010,12,11,20,54,187563240.0,undef,2010-12-11 20:54:00
+5254123896,45.777865,4.846494,68,fte lumires light lyon illumination fte lumires,2010,12,11,20,54,187563240.0,undef,2010-12-11 20:54:00
+5254123456,45.777865,4.846494,68,fte lumires light lyon illumination fte lumires,2010,12,11,20,52,187563120.0,undef,2010-12-11 20:52:00
+5254123140,45.777865,4.846494,68,fte lumires light lyon illumination fte lumires,2010,12,11,20,51,187563060.0,undef,2010-12-11 20:51:00
+5254122620,45.777865,4.846494,68,fte lumires light festival lyon illumination fte nuit feu lumires,2010,12,11,20,51,187563060.0,undef,2010-12-11 20:51:00
+5254122206,45.777865,4.846494,68,fte lumires light lyon illumination fte lumires,2010,12,11,20,48,187562880.0,undef,2010-12-11 20:48:00
+5254121814,45.777865,4.846494,68,fte lumires light festival fire lyon illumination fte feu lumires,2010,12,11,20,47,187562820.0,undef,2010-12-11 20:47:00
+6524551327,45.77773,4.846491,68,royaume chimres fe ftedeslumires,2011,12,9,19,23,218920980.0,undef,2011-12-09 19:23:00
+7628377874,45.777675,4.846544,68,fte lumires france lyon lumire fr nuit feu rhnealpes canoneos dmarkiii,2010,12,11,22,29,187568940.0,undef,2010-12-11 22:29:00
+8131126675,45.777763,4.846451,68, ,2012,10,21,16,15,246298500.0,undef,2012-10-21 16:15:00
+6486388993,45.7778,4.846558,68,fte lumires france photoshop lyon sony fete alpha ssm lumieres fdl,2011,12,9,22,51,218933460.0,undef,2011-12-09 22:51:00
+6486387559,45.777797,4.846558,68,fte lumires france photoshop lyon sony fete alpha ssm lumieres fdl,2011,12,9,22,50,218933400.0,undef,2011-12-09 22:50:00
+6486385155,45.777794,4.846558,68,fte lumires france photoshop lyon sony fete alpha ssm lumieres fdl,2011,12,9,22,49,218933340.0,undef,2011-12-09 22:49:00
+10513014633,45.777895,4.846537,68,lyon tree red orange rouge arbres parcdelattedor onlylyon,2013,10,27,12,26,278339160.0,undef,2013-10-27 12:26:00
+10270962013,45.777827,4.846537,68,love lyon lion amour mariage dayafter marie trashthedress onlylyon,2013,10,14,16,41,277231260.0,undef,2013-10-14 16:41:00
+12028446036,45.777766,4.846516,68,dsc jpg france lyon parc rhnealpes statuesculptureoeuvre,2013,10,24,16,32,278094720.0,undef,2013-10-24 16:32:00
+11903216044,45.77767,4.846547,68, lyon dor crpuscule parc tte,2014,1,11,16,53,284921580.0,undef,2014-01-11 16:53:00
+24923069260,45.777754,4.846471,68,fte lumires lyon lumires ftedeslumires,2014,12,22,21,41,314746860.0,undef,2014-12-22 21:41:00
+24588019134,45.777754,4.846471,68,fte lumires lyon lumires ftedeslumires,2014,12,22,21,41,314746860.0,undef,2014-12-22 21:41:00
+25125461641,45.777754,4.846471,68,fte lumires lyon lumires ftedeslumires,2014,12,22,21,40,314746800.0,undef,2014-12-22 21:40:00
+25125456941,45.777754,4.846471,68,fte lumires lyon lumires ftedeslumires,2014,12,22,21,39,314746740.0,undef,2014-12-22 21:39:00
+24591856073,45.777754,4.846471,68,fte lumires lyon lumires ftedeslumires,2014,12,22,21,38,314746680.0,undef,2014-12-22 21:38:00
+25100403252,45.777754,4.846471,68,fte lumires lyon lumires ftedeslumires,2014,12,22,21,38,314746680.0,undef,2014-12-22 21:38:00
+24923056530,45.777754,4.846471,68,fte lumires lyon lumires ftedeslumires,2014,12,22,21,38,314746680.0,undef,2014-12-22 21:38:00
+25016836835,45.777754,4.846471,68,fte lumires lyon lumires ftedeslumires,2014,12,21,12,18,314626680.0,undef,2014-12-21 12:18:00
+24721316730,45.777754,4.846471,68,fte lumires lyon lumires ftedeslumires,2014,12,21,12,13,314626380.0,undef,2014-12-21 12:13:00
+24923542871,45.777754,4.846471,68,fte lumires lyon lumires ftedeslumires,2014,12,21,12,13,314626380.0,undef,2014-12-21 12:13:00
+25865130030,45.777754,4.846471,68,fte lumires lyon lumires ftedeslumires,2014,12,25,16,16,314986560.0,undef,2014-12-25 16:16:00
+25705010735,45.777754,4.846471,68,fte lumires lyon lumires ftedeslumires,2014,12,22,21,37,314746620.0,undef,2014-12-22 21:37:00
+25404213250,45.777754,4.846471,68,fte lumires lyon lumires ftedeslumires,2014,12,22,21,32,314746320.0,undef,2014-12-22 21:32:00
+25704978755,45.777754,4.846471,68,fte lumires lyon lumires ftedeslumires,2014,12,22,21,44,314747040.0,undef,2014-12-22 21:44:00
+25259456950,45.777754,4.846471,68,fte lumires lyon lumires ftedeslumires,2014,12,22,21,44,314747040.0,undef,2014-12-22 21:44:00
+25436518082,45.777754,4.846471,68,fte lumires lyon lumires ftedeslumires,2014,12,22,21,20,314745600.0,undef,2014-12-22 21:20:00
+25259455890,45.777754,4.846471,68,fte lumires lyon lumires ftedeslumires,2014,12,24,17,42,314905320.0,undef,2014-12-24 17:42:00
+36604781962,45.777865,4.846494,68, fujifilmxt lyon parcdelattedor parc park herbe,2017,8,19,20,14,398636040.0,undef,2017-08-19 20:14:00
+37743693316,45.777865,4.846494,68, fujifilmxt lyon parcdelattedor automne autumn fall arbre tree,2017,10,14,8,54,403433640.0,undef,2017-10-14 08:54:00
+36982341444,45.777865,4.846494,68, fujifilmxt lyon parcdelattedor nature animal cureuil squirrel,2017,10,14,9,57,403437420.0,undef,2017-10-14 09:57:00
+36981974654,45.777865,4.846494,68, fujifilmxt lyon parcdelattedor cureuil squirrel,2017,10,14,9,56,403437360.0,undef,2017-10-14 09:56:00
+36980970934,45.777865,4.846494,68, fujifilmxt lyon parcdelattedor nature arbre tree,2017,10,14,9,12,403434720.0,undef,2017-10-14 09:12:00
+37432537860,45.777865,4.846494,68, fujifilmxt lyon parcdelattedor,2017,10,14,8,47,403433220.0,undef,2017-10-14 08:47:00
+37655366112,45.777865,4.846494,68, fujifilmxt lyon parcdelattedor arbre tree automne autumn fall floudirectionnel,2017,10,14,8,53,403433580.0,undef,2017-10-14 08:53:00
+39203684894,45.777865,4.846494,68,parc tte dor fujifilmxt lyon parcdelattedor arbre tree automne autumn fall,2017,10,14,9,3,403434180.0,undef,2017-10-14 09:03:00
+37658478282,45.777865,4.846494,68, fujifilmxt lyon parcdelattedor automne autumn fall,2017,10,14,8,51,403433460.0,undef,2017-10-14 08:51:00
+45365938405,45.777865,4.846494,68,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination nuit night parcdelattedor,2018,12,6,21,15,439593300.0,undef,2018-12-06 21:15:00
+32406425848,45.777865,4.846494,68,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination nuit night prsages parcdelattedor,2018,12,6,21,31,439594260.0,undef,2018-12-06 21:31:00
+32406424868,45.777865,4.846494,68,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination nuit night prsages parcdelattedor,2018,12,6,21,14,439593240.0,undef,2018-12-06 21:14:00
+32406424418,45.777865,4.846494,68,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination nuit night prsages parcdelattedor,2018,12,6,21,15,439593300.0,undef,2018-12-06 21:15:00
+44417402150,45.777865,4.846494,68,fte lumires fujifilmxt lyon ftedeslumires festivaloflights illumination nuit night parcdelattedor,2018,12,6,21,7,439592820.0,undef,2018-12-06 21:07:00
+48928768498,45.777865,4.846494,68,parc tte dor lyon fujifilmxt lyon parcdelattedor sunrise leverdusoleil lac lake,2019,10,20,7,18,467018280.0,undef,2019-10-20 07:18:00
+48929246011,45.777865,4.846494,68,parc tte dor lyon fujifilmxt lyon parcdelattedor sunrise leverdusoleil lac lake,2019,10,20,7,10,467017800.0,undef,2019-10-20 07:10:00
+48929113626,45.777865,4.846494,68,parc tte dor lyon fujifilmxt sunrise leverdusoleil parcdelattedor lyon statue centauresseetfaune sculpture augustincourtet,2019,10,20,7,0,467017200.0,undef,2019-10-20 07:00:00

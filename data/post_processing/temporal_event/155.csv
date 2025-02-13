@@ -1,0 +1,246 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+5628245124,45.723708,4.832096,155,lou oyonnax gerland vivement top lan prochain square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue,2011,4,17,19,15,-1.1741511959155666,undef
+8003034059,45.723738,4.832203,155,tournoi webstagram ol lyon soccer football foot championnatdeuropedefoot espaa campeon demifinale semifinal square lofi squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue b aef f f fe,2012,9,19,6,46,-0.6629035648314999,undef
+8003035940,45.723738,4.832203,155, square squareformat earlybird iphoneography instagramapp uploadedbyinstagram foursquarevenue b aef f f fe,2012,9,19,6,45,-0.6629042469579445,undef
+8288548960,45.723738,4.832203,155,acheumeuneu ,2012,9,28,16,42,-0.6536566587486041,undef
+8734098033,45.723799,4.832246,155,match titre stadedegerland uploadedbyflickrmobile flickriosappfilterwallaby wallabyfilter,2013,5,12,22,54,-0.4314116775830372,undef
+9691611613,45.723798,4.832246,155,first people stadium square squareformat amaro iphoneography instagramapp uploadedbyinstagram foursquarevenue cf ada aaa,2013,9,7,11,58,-0.3159522270655347,undef
+15175471836,45.723799,4.832246,155,nuages samsung galaxykzoom,2014,9,10,15,31,0.0456655113856134,undef
+21600487129,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,14,27,0.4208459699345941,undef
+21599177760,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,15,43,0.4208978115443831,undef
+21600273129,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,16,7,0.4209141825790533,undef
+21164669404,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,14,33,0.4208500626932616,undef
+21796836571,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,14,33,0.4208500626932616,undef
+21761234746,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,14,34,0.4208507448197062,undef
+21600456479,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,14,35,0.4208514269461508,undef
+21796816601,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,14,40,0.4208548375783738,undef
+21599484818,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,14,41,0.4208555197048184,undef
+21796805501,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,14,45,0.4208582482105967,undef
+21787323705,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,15,2,0.4208698443601548,undef
+21166258233,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,15,14,0.4208780298774899,undef
+21599454618,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,15,16,0.4208793941303791,undef
+21599449018,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,15,17,0.4208800762568237,undef
+21787296145,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,15,17,0.4208800762568237,undef
+21775552082,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,15,20,0.4208821226361575,undef
+21599256610,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,15,24,0.4208848511419358,undef
+21164565454,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,15,24,0.4208848511419358,undef
+21166195223,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,15,26,0.420886215394825,undef
+21775509122,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,15,29,0.4208882617741588,undef
+21166172463,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,15,33,0.4208909902799372,undef
+21787223295,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,15,36,0.4208930366592709,undef
+21761089216,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,15,40,0.4208957651650493,undef
+21787207895,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,15,40,0.4208957651650493,undef
+21787186885,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,15,48,0.4209012221766061,undef
+21166113783,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,16,6,0.4209135004526087,undef
+21761034876,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,16,10,0.4209162289583871,undef
+21761028026,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,16,21,0.4209237323492776,undef
+21775409412,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,16,22,0.4209244144757222,undef
+21599282668,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,16,24,0.4209257787286114,undef
+21599234338,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,16,40,0.4209366927517249,undef
+21599275258,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,16,25,0.420926460855056,undef
+21166062693,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,16,25,0.420926460855056,undef
+21600220379,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,16,25,0.420926460855056,undef
+21775372662,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,16,33,0.4209319178666127,undef
+21164397274,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,16,37,0.4209346463723911,undef
+21599067990,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,16,40,0.4209366927517249,undef
+21166021363,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,16,40,0.4209366927517249,undef
+21599045490,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,16,40,0.4209366927517249,undef
+21600170909,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,16,40,0.4209366927517249,undef
+21599031150,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,16,40,0.4209366927517249,undef
+21796526211,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,16,44,0.4209394212575033,undef
+21599019450,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,16,47,0.420941467636837,undef
+21796514931,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,16,50,0.4209435140161708,undef
+21600142869,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,16,51,0.4209441961426154,undef
+21599180118,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,16,51,0.4209441961426154,undef
+21165972113,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,16,51,0.4209441961426154,undef
+21775290032,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,16,52,0.42094487826906,undef
+21775286762,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,16,52,0.42094487826906,undef
+21796493071,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,16,58,0.4209489710277275,undef
+21775279862,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,16,58,0.4209489710277275,undef
+21760886066,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,17,0,0.4209503352806167,undef
+21164305594,45.723806,4.832117,155,lyon lyon psg footfminin,2015,9,27,17,1,0.4209510174070613,undef
+33184377226,45.723835,4.832203,155,olympique lyonnais v ranger olympique lyonnais lyon france champion league uefa glasgow ranger programme,2017,3,3,10,21,0.9344012347807172,undef
+34057180375,45.723763,4.832188,155, ,2017,4,15,20,38,0.9770593762461974,undef
+37276725575,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation baptisteserin bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,17,26,1.1281967683216654,undef
+37104189942,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,17,29,1.1281988147009991,undef
+37104190122,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,17,15,1.1281892649307748,undef
+37276725705,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,17,13,1.1281879006778857,undef
+37104189712,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,17,34,1.128202225333222,undef
+37276725385,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,17,30,1.1281994968274436,undef
+37276725185,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,17,33,1.1282015432067771,undef
+37104189802,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,17,32,1.128200861080333,undef
+37276725015,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation baptisteserin bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,17,36,1.128203589586111,undef
+37104189512,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation baptisteserin bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,17,37,1.1282042717125558,undef
+37276724885,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation baptisteserin bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,17,37,1.1282042717125558,undef
+37276724705,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,17,38,1.1282049538390004,undef
+37104189322,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,17,39,1.128205635965445,undef
+37104189382,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,17,38,1.1282049538390004,undef
+37276724585,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,17,39,1.128205635965445,undef
+37276724385,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation baptisteserin bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,17,40,1.1282063180918895,undef
+36461903473,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,17,44,1.128209046597668,undef
+37104189032,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,17,53,1.1282151857356693,undef
+37276724215,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,17,42,1.1282076823447789,undef
+37276723955,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation baptisteserin bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,17,45,1.1282097287241126,undef
+37276723595,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,17,56,1.128217232115003,undef
+37104188782,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation baptisteserin bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,17,59,1.1282192784943368,undef
+37276723785,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,17,53,1.1282151857356693,undef
+36878791520,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,18,2,1.1282213248736706,undef
+37276722985,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,18,1,1.128220642747226,undef
+37276723005,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation baptisteserin bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,18,2,1.1282213248736706,undef
+37104188582,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,18,1,1.128220642747226,undef
+37276722545,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,18,4,1.12822268912656,undef
+36878791450,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation baptisteserin bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,18,4,1.12822268912656,undef
+37276722475,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,18,5,1.1282233712530043,undef
+37276722745,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation alexispalisson bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,18,3,1.1282220070001152,undef
+36438927544,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,18,4,1.12822268912656,undef
+37276722725,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,18,3,1.1282220070001152,undef
+36438927354,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut pierremignoni ubb rugby,2017,9,16,18,6,1.128224053379449,undef
+36878791310,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby auvergnerhnealpes france fr,2017,9,16,18,8,1.128225417632338,undef
+36438927064,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,18,19,1.1282329210232287,undef
+36878791210,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,18,13,1.1282288282645612,undef
+36878791070,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,18,30,1.128240424414119,undef
+36438926884,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,18,29,1.1282397422876749,undef
+37276721245,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,18,31,1.1282411065405638,undef
+37276721455,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,18,31,1.1282411065405638,undef
+36438926684,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation alexandreroumat bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,18,33,1.128242470793453,undef
+36878790870,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland jeanbaptispepoux lou lyon matmut ubb rugby,2017,9,16,18,36,1.1282445171727868,undef
+37276721095,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,18,37,1.1282451992992313,undef
+37276720605,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,18,37,1.1282451992992313,undef
+36878790770,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation baptistecouilloud bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,18,40,1.128247245678565,undef
+36438926344,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,18,45,1.128250656310788,undef
+37276720465,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,18,39,1.1282465635521206,undef
+37276720105,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,3,1.1282629345867907,undef
+37104186822,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,5,1.12826429883968,undef
+37276720285,45.723794,4.832152,155,lou ubb envracaclasser lyon auvergnerhnealpes france fr,2017,9,16,18,42,1.1282486099314544,undef
+36878790590,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,3,1.1282629345867907,undef
+36878790510,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation baptistecouilloud bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,7,1.1282656630925691,undef
+37276719765,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation baptistecouilloud bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,5,1.12826429883968,undef
+37276719575,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,9,1.1282670273454585,undef
+37085948896,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,10,1.128267709471903,undef
+36878790390,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,16,1.1282718022305704,undef
+37276719165,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,16,1.1282718022305704,undef
+36878790300,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,17,1.128272484357015,undef
+36438925204,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,17,1.128272484357015,undef
+37085948346,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,22,1.128275894989238,undef
+37276718115,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,22,1.128275894989238,undef
+37276717615,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,22,1.128275894989238,undef
+37276717915,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,22,1.128275894989238,undef
+37276717405,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,22,1.128275894989238,undef
+37276717185,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation alexandreroumat bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,26,1.1282786234950164,undef
+37276717235,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,23,1.1282765771156826,undef
+37276716755,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,27,1.128279305621461,undef
+37276717065,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,27,1.128279305621461,undef
+37085947716,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,27,1.128279305621461,undef
+37276716535,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,33,1.1282833983801286,undef
+37276716475,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,31,1.1282820341272393,undef
+37276716245,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,34,1.128284080506573,undef
+36438923684,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,37,1.128286126885907,undef
+37276715985,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,37,1.128286126885907,undef
+36438923364,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,37,1.128286126885907,undef
+36438923514,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,37,1.128286126885907,undef
+36438923134,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation baptisteserin bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,52,1.1282963587825758,undef
+36438923294,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,51,1.1282956766561312,undef
+36438922954,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,54,1.128297723035465,undef
+37276715065,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,55,1.1282984051619096,undef
+37276714775,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation baptistecouilloud bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,57,1.1282997694147987,undef
+36438922804,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation baptisteserin bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,56,1.1282990872883545,undef
+37276714955,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation baptistecouilloud bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,56,1.1282990872883545,undef
+36878790940,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation baptistecouilloud bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,18,34,1.1282431529198975,undef
+37276717035,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,27,1.128279305621461,undef
+36438923804,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,34,1.128284080506573,undef
+37276715635,45.723794,4.832155,155,lou ubb louubb loveubb envracaclasser accrditation bordeaux gerland lou lyon matmut ubb rugby,2017,9,16,19,37,1.128286126885907,undef
+38637710606,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,17,33,1.1979421509019132,undef
+37805972165,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,17,37,1.1979448794076917,undef
+37805971985,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,17,52,1.1979551113043605,undef
+37805971805,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,10,1.197967389580363,undef
+37805971885,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,7,1.197965343201029,undef
+38637710276,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,7,1.197965343201029,undef
+37805971715,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,11,1.1979680717068075,undef
+38637710116,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,19,1.1979735287183644,undef
+38661539482,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,10,1.197967389580363,undef
+38661539342,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,12,1.1979687538332522,undef
+37805971645,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,13,1.1979694359596968,undef
+38661539192,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,13,1.1979694359596968,undef
+37805971575,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,17,1.1979721644654753,undef
+38661538932,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,20,1.197974210844809,undef
+38661539042,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,17,1.1979721644654753,undef
+38637709816,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,21,1.1979748929712537,undef
+38661538692,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,33,1.1979830784885888,undef
+38661538772,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,26,1.1979783036034766,undef
+38637709746,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,33,1.1979830784885888,undef
+38661538432,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,49,1.1979939925117022,undef
+38637709636,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,34,1.1979837606150334,undef
+37975972964,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,27,1.1979789857299212,undef
+37975973254,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,25,1.197977621477032,undef
+37975972664,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,33,1.1979830784885888,undef
+37975972424,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,48,1.1979933103852576,undef
+37975972384,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,34,1.1979837606150334,undef
+38694342861,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,50,1.197994674638147,undef
+37805967305,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,54,1.197997403143925,undef
+38661531832,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,54,1.197997403143925,undef
+38694342551,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,54,1.197997403143925,undef
+38694341991,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,57,1.1979994495232589,undef
+38661531802,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,54,1.197997403143925,undef
+37805967055,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,9,1.1980076350405942,undef
+38694341681,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,58,1.1980001316497035,undef
+38694341501,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,0,1.1980014959025926,undef
+38694341691,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,0,1.1980014959025926,undef
+38661531592,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,2,1.198002860155482,undef
+24821106538,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,11,1.1980089992934833,undef
+38694340881,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,19,1.19801445630504,undef
+38694341061,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,16,1.198012409925706,undef
+24821106218,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,20,1.1980151384314843,undef
+24821105748,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,31,1.1980226418223752,undef
+24821105888,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,31,1.1980226418223752,undef
+38694340311,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,22,1.1980165026843737,undef
+38694340071,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,31,1.1980226418223752,undef
+24821105638,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,32,1.1980233239488196,undef
+24821105508,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,32,1.1980233239488196,undef
+38694339591,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,32,1.1980233239488196,undef
+38694339841,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,32,1.1980233239488196,undef
+38694339471,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,35,1.1980253703281534,undef
+38694339211,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,40,1.1980287809603765,undef
+24821105408,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,39,1.1980280988339318,undef
+38694338921,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,40,1.1980287809603765,undef
+24821105328,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,40,1.1980287809603765,undef
+24821105128,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,41,1.198029463086821,undef
+38694338651,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,43,1.1980308273397102,undef
+24821104988,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,43,1.1980308273397102,undef
+24821104938,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,44,1.1980315094661549,undef
+24821104818,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,44,1.1980315094661549,undef
+38694338331,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,43,1.1980308273397102,undef
+38694338051,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,44,1.1980315094661549,undef
+37975966254,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,18,1.19797284659192,undef
+38694336951,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,3,1.197962614695251,undef
+24821104288,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,13,1.1979694359596968,undef
+38637702536,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,23,1.1979762572241428,undef
+24821104118,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,31,1.1979817142356994,undef
+37975966194,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,48,1.1979933103852576,undef
+37975966224,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,34,1.1979837606150334,undef
+24821103998,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,51,1.1979953567645911,undef
+24821103858,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,11,1.1980089992934833,undef
+37975965984,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,38,1.1980274167074871,undef
+37975966014,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,16,1.198012409925706,undef
+37975965944,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,42,1.1980301452132656,undef
+24821103708,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,43,1.1980308273397102,undef
+37975965754,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,45,1.198032191592599,undef
+38637711346,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,16,23,1.1978944020507918,undef
+37805972825,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,16,22,1.1978937199243471,undef
+37805972765,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,16,40,1.1979059982003497,undef
+37805972725,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,16,42,1.197907362453239,undef
+38637711016,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,16,44,1.197908726706128,undef
+37805972615,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,16,54,1.197915547970574,undef
+37805972515,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,17,3,1.1979216871085754,undef
+38637710856,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,17,14,1.197929190499466,undef
+38637710946,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,17,2,1.1979210049821307,undef
+37805972455,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,17,18,1.1979319190052442,undef
+38637710726,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,17,19,1.1979326011316889,undef
+37805972335,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,17,24,1.1979360117639115,undef
+38637703116,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,16,41,1.1979066803267944,undef
+38694337511,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,17,2,1.1979210049821307,undef
+38637702976,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,17,8,1.1979250977407985,undef
+38694337821,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,16,25,1.1978957663036809,undef
+24821104678,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,16,45,1.1979094088325728,undef
+38694337221,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,17,31,1.197940786649024,undef
+24821104578,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,17,22,1.1979346475110226,undef
+37975966384,45.723819,4.832208,155,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,7,1.197965343201029,undef

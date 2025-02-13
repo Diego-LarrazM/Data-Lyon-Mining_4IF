@@ -1,0 +1,81 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+4261497909,45.765999,4.827075,24,gare saintpaul schnee snow france frankreich europa europe lyon gare bahnhof rhne railwaystation neige saintpaul vieuxlyon grandlyon rhnealpes,2010,1,9,17,31,158520660.0,undef,2010-01-09 17:31:00
+4260270279,45.766003,4.827139,24,momentanement indisponible winter snow lyon hiver stpaul neige janvier froid vieuxlyon velov sanggi,2010,1,9,16,54,158518440.0,undef,2010-01-09 16:54:00
+4176687607,45.765999,4.827075,24,gare saintpaul light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,9,0,11,155779860.0,undef,2009-12-09 00:11:00
+4177445484,45.765999,4.827075,24,gare saintpaul light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,9,0,5,155779500.0,undef,2009-12-09 00:05:00
+4177444734,45.765999,4.827075,24,gare saintpaul light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,9,0,4,155779440.0,undef,2009-12-09 00:04:00
+4176684843,45.765999,4.827075,24,place saintpaul light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,9,0,3,155779380.0,undef,2009-12-09 00:03:00
+4176684177,45.765999,4.827075,24,place saintpaul light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,9,0,3,155779380.0,undef,2009-12-09 00:03:00
+4177442094,45.765999,4.827075,24,place saintpaul light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,9,0,3,155779380.0,undef,2009-12-09 00:03:00
+4177441386,45.765999,4.827075,24,place saintpaul light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,9,0,2,155779320.0,undef,2009-12-09 00:02:00
+4176682049,45.765999,4.827075,24,place saintpaul light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,9,0,2,155779320.0,undef,2009-12-09 00:02:00
+4177439948,45.765999,4.827075,24,place saintpaul light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,9,0,1,155779260.0,undef,2009-12-09 00:01:00
+4177439370,45.765999,4.827075,24,place saintpaul light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,9,0,1,155779260.0,undef,2009-12-09 00:01:00
+4176191047,45.765999,4.827075,24,gare saintpaul light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,6,23,38,155605080.0,undef,2009-12-06 23:38:00
+4176190397,45.765999,4.827075,24,gare saintpaul light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,6,23,36,155604960.0,undef,2009-12-06 23:36:00
+4176189753,45.765999,4.827075,24,arbre devant gare saintpaul light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,6,23,31,155604660.0,undef,2009-12-06 23:31:00
+4171925285,45.766003,4.827139,24,gare rose tendance lyon fete lumiere eclairage decembre fetelumiere evenement lugdunum sanggi fetelumieres,2009,12,8,0,26,155694360.0,undef,2009-12-08 00:26:00
+4411469261,45.766026,4.827096,24,gare st paul saint paul lyon gare aquarelle eglise,2010,3,6,23,39,163381140.0,undef,2010-03-06 23:39:00
+4750075396,45.765962,4.827107,24,lord night yellow team pi trax vallat mal,2010,6,30,0,28,173320080.0,undef,2010-06-30 00:28:00
+4772723306,45.765962,4.827107,24,senvoyer pastille pi trax vallat mal,2010,6,30,0,3,173318580.0,undef,2010-06-30 00:03:00
+4766392589,45.765962,4.827107,24,reflctions anarchiques pi trax vallat mal,2010,6,30,0,7,173318820.0,undef,2010-06-30 00:07:00
+4758370700,45.765962,4.827107,24,regarder face laraigne lon plafond pi trax vallat mal,2010,6,30,0,2,173318520.0,undef,2010-06-30 00:02:00
+4752868842,45.766048,4.827139,24,alice cest cinma soir city urban night dark lyon bokeh sombre ruelle rue nuit lanuit urbain thedigitalfly lotfidakhli ruellesombre grandanglephotocom wwwgrandanglephotocom lotfidakhlistreet lyonlanuitnight,2010,6,29,21,11,173308260.0,undef,2010-06-29 21:11:00
+4752713972,45.765962,4.827107,24,gare rouet sy piquer endore quelques anne pi trax vallat mal,2010,6,29,23,59,173318340.0,undef,2010-06-29 23:59:00
+5277029872,45.765981,4.827273,24,lyon fte lumires gare saintpaul france lyon rhne village tourisme villes ftedeslumires filoer,2010,12,11,19,8,187556880.0,undef,2010-12-11 19:08:00
+6498176245,45.765996,4.82716,24,lyon faade gare saintpaul france rhne village villes filoer ftesdeslumires,2011,12,10,19,18,219007080.0,undef,2011-12-10 19:18:00
+7510750406,45.765977,4.82715,24,lampadaire bw cityscape lyon noiretblanc saintpaul ville lampadaire,2012,7,1,19,17,236632620.0,undef,2012-07-01 19:17:00
+7495618566,45.766149,4.827182,24,sou dluge ,2012,7,1,19,37,236633820.0,undef,2012-07-01 19:37:00
+7495613632,45.766149,4.827182,24,saut ,2012,7,1,19,36,236633760.0,undef,2012-07-01 19:36:00
+9285117112,45.765958,4.827141,24,happy face france smile lyon sourire happyface rhnealpes,2013,6,16,11,49,266845740.0,undef,2013-06-16 11:49:00
+12225327776,45.765876,4.827117,24,lyon gare saintpaul ,2013,6,1,16,2,265564920.0,undef,2013-06-01 16:02:00
+11475333904,45.766111,4.827222,24, ,2013,12,6,22,11,281830260.0,undef,2013-12-06 22:11:00
+12971371015,45.766145,4.827171,24,ftes lumires lyon ftesdeslumires,2013,12,8,18,41,281990460.0,undef,2013-12-08 18:41:00
+14316719109,45.765913,4.827075,24,banister ocean show park street new old city nyc newyorkcity trip travel flower blue autumn winter friend light sunset red sea summer vacation portrait sky people urban blackandwhite bw woman sun white house lake holiday snow newyork black france flower color macro tree green art fall love beach nature water girl fashion yellow rock architecture night cloud vintage river garden square landscape geotagged fun photography photo spring model nikon europe raw day photo live squareformat,2014,6,20,18,4,298749840.0,undef,2014-06-20 18:04:00
+11247696244,45.766123,4.827246,24,fte lumires lyon ftedeslumireslyon,2013,12,7,7,53,281865180.0,undef,2013-12-07 07:53:00
+16248725644,45.766007,4.827215,24,fte lumires lyon lumires ftedeslumires,2013,12,8,18,28,281989680.0,undef,2013-12-08 18:28:00
+16871088515,45.766007,4.827215,24,fte lumires lyon lumires ftedeslumires,2013,12,8,18,28,281989680.0,undef,2013-12-08 18:28:00
+16663781967,45.766007,4.827215,24,fte lumires lyon lumires ftedeslumires,2013,12,8,18,30,281989800.0,undef,2013-12-08 18:30:00
+16663781667,45.766007,4.827215,24,fte lumires lyon lumires ftedeslumires,2013,12,8,18,28,281989680.0,undef,2013-12-08 18:28:00
+16869926032,45.766007,4.827215,24,fte lumires lyon lumires ftedeslumires,2013,12,8,18,25,281989500.0,undef,2013-12-08 18:25:00
+16667404740,45.766007,4.827215,24,fte lumires lyon lumires ftedeslumires,2013,12,8,18,22,281989320.0,undef,2013-12-08 18:22:00
+16667194878,45.766007,4.827215,24,fte lumires lyon lumires ftedeslumires,2013,12,8,18,24,281989440.0,undef,2013-12-08 18:24:00
+16854790575,45.766007,4.827215,24,fte lumires lyon lumires ftedeslumires,2013,12,8,18,23,281989380.0,undef,2013-12-08 18:23:00
+16232419514,45.766007,4.827215,24,fte lumires lyon lumires ftedeslumires,2013,12,8,18,20,281989200.0,undef,2013-12-08 18:20:00
+25043271136,45.766071,4.827203,24, lyon chaise alignement scintillement glis dmcfz,2015,9,7,10,34,337084440.0,undef,2015-09-07 10:34:00
+24222633750,45.766071,4.827203,24, window lyon faades fentres dmcfz,2015,9,10,15,41,337362060.0,undef,2015-09-10 15:41:00
+24222621550,45.766071,4.827203,24, window lyon faades fentres dmcfz,2015,9,10,15,43,337362180.0,undef,2015-09-10 15:43:00
+24050077155,45.766071,4.827203,24, corner coin angle lyon mur ocre minimaliste dmcfz,2015,9,7,11,39,337088340.0,undef,2015-09-07 11:39:00
+23423271203,45.766071,4.827203,24, station train lyon gare quai dmcfz,2015,9,7,12,12,337090320.0,undef,2015-09-07 12:12:00
+25616168681,45.766,4.827166,24,francia lione fete lumieres eglise st lione campanile francia citta citt feste star festedelleluci,2009,12,6,19,32,155590320.0,undef,2009-12-06 19:32:00
+25080797224,45.766,4.827166,24,francia lione fete lumieres place st monumento lione piazza francia originale citta citt curiosita feste curiosit star festedelleluci,2009,12,6,19,32,155590320.0,undef,2009-12-06 19:32:00
+25590190602,45.766,4.827166,24,francia lione fete lumieres place st monumento lione campanile piazza francia originale citta citt curiosita feste curiosit star festedelleluci,2009,12,6,19,32,155590320.0,undef,2009-12-06 19:32:00
+25410473710,45.766,4.827166,24,francia lione fete lumieres place st monumento lione piazza francia originale citta citt curiosita feste curiosit star festedelleluci,2009,12,6,19,31,155590260.0,undef,2009-12-06 19:31:00
+25084605873,45.766,4.827166,24,francia lione fete lumieres place st monumento lione piazza francia originale citta citt curiosita feste curiosit star festedelleluci,2009,12,6,19,31,155590260.0,undef,2009-12-06 19:31:00
+25410471640,45.766,4.827166,24,francia lione fete lumieres place st monumento lione piazza francia originale citta citt curiosita feste curiosit star festedelleluci,2009,12,6,19,31,155590260.0,undef,2009-12-06 19:31:00
+25685153196,45.766,4.827166,24,francia lione fete lumieres place st monumento lione piazza francia originale citta citt curiosita feste curiosit star festedelleluci,2009,12,6,19,31,155590260.0,undef,2009-12-06 19:31:00
+25080785904,45.766,4.827166,24,francia lione fete lumieres place st lione francia citta citt feste fuochidartificio star festedelleluci,2009,12,6,19,21,155589660.0,undef,2009-12-06 19:21:00
+25590180572,45.766,4.827166,24,francia lione fete lumieres place st monumento lione piazza francia originale citta citt curiosita feste curiosit star festedelleluci,2009,12,6,19,30,155590200.0,undef,2009-12-06 19:30:00
+25711205205,45.766,4.827166,24,francia lione fete lumieres place st lione francia citta citt feste fuochidartificio star festedelleluci,2009,12,6,19,21,155589660.0,undef,2009-12-06 19:21:00
+25590175392,45.766,4.827166,24,francia lione fete lumieres place st lione francia citta citt feste fuochidartificio star festedelleluci,2009,12,6,19,20,155589600.0,undef,2009-12-06 19:20:00
+25616150801,45.766,4.827166,24,francia lione fete lumieres place st lione francia citta citt feste fuochidartificio star festedelleluci,2009,12,6,19,20,155589600.0,undef,2009-12-06 19:20:00
+25711201165,45.766,4.827166,24,francia lione fete lumieres place st lione francia citta citt feste fuochidartificio star festedelleluci,2009,12,6,19,19,155589540.0,undef,2009-12-06 19:19:00
+25084590393,45.766,4.827166,24,francia lione fete lumieres place st lione francia citta citt feste fuochidartificio star festedelleluci,2009,12,6,19,19,155589540.0,undef,2009-12-06 19:19:00
+25084587973,45.766,4.827166,24,francia lione fete lumieres place st lione francia citta citt feste fuochidartificio star festedelleluci,2009,12,6,19,19,155589540.0,undef,2009-12-06 19:19:00
+25590165392,45.766,4.827166,24,francia lione fete lumieres place st lione francia citta citt feste fuochidartificio star festedelleluci,2009,12,6,19,19,155589540.0,undef,2009-12-06 19:19:00
+25685135736,45.766,4.827166,24,francia lione fete lumieres place st lione francia citta citt feste fuochidartificio star festedelleluci,2009,12,6,19,15,155589300.0,undef,2009-12-06 19:15:00
+25080765704,45.766,4.827166,24,francia lione fete lumieres place st lione francia citta citt feste fuochidartificio star festedelleluci,2009,12,6,19,8,155588880.0,undef,2009-12-06 19:08:00
+25410441920,45.766,4.827166,24,francia lione fete lumieres place st lione francia citta citt feste fuochidartificio star festedelleluci,2009,12,6,19,7,155588820.0,undef,2009-12-06 19:07:00
+25080760944,45.766,4.827166,24,francia lione fete lumieres place st lione francia citta citt feste star festedelleluci,2009,12,6,19,6,155588760.0,undef,2009-12-06 19:06:00
+25685127376,45.766,4.827166,24,francia lione fete lumieres place st lione francia citta citt feste fuochidartificio star festedelleluci,2009,12,6,19,6,155588760.0,undef,2009-12-06 19:06:00
+25685140436,45.766,4.827166,24,francia lione fete lumieres place st lione francia citta citt feste fuochidartificio star festedelleluci,2009,12,6,19,19,155589540.0,undef,2009-12-06 19:19:00
+25080764594,45.766,4.827166,24,francia lione fete lumieres place st lione francia citta citt feste fuochidartificio star festedelleluci,2009,12,6,19,8,155588880.0,undef,2009-12-06 19:08:00
+23030079974,45.766071,4.827203,24, station train lyon gare quai dmcfz,2015,9,7,12,12,337090320.0,undef,2015-09-07 12:12:00
+33170794045,45.766048,4.827278,24,serge jeunes amis lama serge youth lyon street streetphotography streetphoto streetphotographers streetphotographer streetlife animal animal streetanimals kid student endofschoolyear streettogs fujifilm fuji fujix fujifilmx fujifilmfrance fujifilmxseries fujixseries,2016,6,7,14,25,360771900.0,undef,2016-06-07 14:25:00
+36928023226,45.766147,4.827255,24, ,2017,9,8,19,40,400362000.0,undef,2017-09-08 19:40:00
+31576767406,45.766011,4.82716,24,lyon lumires voyage ,2016,12,9,20,47,376778820.0,undef,2016-12-09 20:47:00
+30804251633,45.766011,4.82716,24,lyon lumires voyage ,2016,12,9,20,48,376778880.0,undef,2016-12-09 20:48:00
+30804247383,45.766011,4.82716,24,lyon lumires voyage ,2016,12,9,20,49,376778940.0,undef,2016-12-09 20:49:00
+31241449950,45.766011,4.82716,24,lyon lumires voyage ,2016,12,9,20,50,376779000.0,undef,2016-12-09 20:50:00
+31241446990,45.766011,4.82716,24,lyon lumires voyage ,2016,12,9,20,51,376779060.0,undef,2016-12-09 20:51:00
+31576751776,45.766011,4.82716,24,lyon lumires voyage ,2016,12,9,20,53,376779180.0,undef,2016-12-09 20:53:00

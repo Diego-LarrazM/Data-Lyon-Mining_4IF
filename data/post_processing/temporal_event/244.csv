@@ -1,0 +1,58 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+6758952381,45.739061,4.814479,244,grue leut cru sky blackandwhite bw cloud lyon noiretblanc crane nb bn ciel nuages grue confluence ef mmf lisusm canoneos,2011,12,11,16,5,219081900.0,undef,2011-12-11 16:05:00
+7426468894,45.739293,4.814522,244,jakob macfarlane city light urban orange france color architecture night dock lyon lumire quay architect jakob nuit quai hdr ville confluence urbain architecte macfarlane rambaud couileur,2012,1,28,14,23,223222980.0,undef,2012-01-28 14:23:00
+8545656860,45.739305,4.814513,244,peninsular overdrive orange lyon bleu confluence immeuble lightroom aat quaisdesane,2012,12,30,14,52,252341520.0,undef,2012-12-30 14:52:00
+8887024698,45.73918,4.814479,244, orange france lyon cube confluence jakobmacfarlane,2013,5,11,15,3,263746980.0,undef,2013-05-11 15:03:00
+8887023628,45.73918,4.814479,244, orange france lyon cube confluence jakobmacfarlane,2013,5,11,15,2,263746920.0,undef,2013-05-11 15:02:00
+8856184417,45.73918,4.814479,244, orange france lyon cube confluence jakobmacfarlane,2013,5,11,15,3,263746980.0,undef,2013-05-11 15:03:00
+8838484753,45.739135,4.8145,244, orange france lyon cube confluence jakobmacfarlane,2013,5,11,14,59,263746740.0,undef,2013-05-11 14:59:00
+8979964928,45.739135,4.814479,244, orange white black france lyon nb cube confluence jakobmacfarlane,2013,5,11,15,2,263746920.0,undef,2013-05-11 15:02:00
+8978769681,45.739135,4.814479,244, orange white black france lyon nb cube confluence jakobmacfarlane,2013,5,11,15,1,263746860.0,undef,2013-05-11 15:01:00
+8978768571,45.739135,4.814479,244, orange white black france lyon nb cube confluence jakobmacfarlane,2013,5,11,15,0,263746800.0,undef,2013-05-11 15:00:00
+8950946426,45.73918,4.814479,244, orange france lyon cube confluence jacobmacfarlane,2013,5,11,15,3,263746980.0,undef,2013-05-11 15:03:00
+9614969035,45.739188,4.814468,244,lyon confluence city urban orange france building texture architecture project hole lyon architect chemistry ville confluence trou immeuble urbain projet chimie efs mmf isusm canoneos,2013,8,15,18,26,272053560.0,undef,2013-08-15 18:26:00
+9614958927,45.739188,4.814468,244,lyon confluence city urban orange france building texture architecture project hole lyon architect chemistry ville confluence trou immeuble urbain projet chimie efs mmf isusm canoneos,2013,8,15,17,56,272051760.0,undef,2013-08-15 17:56:00
+9502019634,45.739195,4.814457,244,orange cube building lyon confluence saone riversaone ndmay orangecube confluencecruise,2013,5,2,15,8,262969680.0,undef,2013-05-02 15:08:00
+9499203867,45.739195,4.814457,244,orange cube building lyon confluence saone riversaone ndmay orangecube confluencecruise orangecubebuilding,2013,5,2,15,9,262969740.0,undef,2013-05-02 15:09:00
+9501966798,45.739195,4.814457,244,orange cube building lyon confluence saone riversaone ndmay orangecube confluencecruise,2013,5,2,14,3,262965780.0,undef,2013-05-02 14:03:00
+10749324816,45.73924,4.814479,244,pavillon salins lyon confluence france architecture lyon confluence dalbera jakobmcfarlane,2013,11,1,12,3,278769780.0,undef,2013-11-01 12:03:00
+10749554883,45.73924,4.814479,244,pavillon salins lyon confluence france architecture lyon confluence dalbera anniedalbera jakobmcfarlane,2013,11,2,13,15,278860500.0,undef,2013-11-02 13:15:00
+10749553433,45.73924,4.814479,244,pavillon salins lyon confluence france architecture lyon confluence dalbera jakobmcfarlane,2013,11,2,11,21,278853660.0,undef,2013-11-02 11:21:00
+10641139196,45.739173,4.814532,244,petits trous encore petits trous lyon confluence photohdr cubeorange,2013,10,27,12,0,278337600.0,undef,2013-10-27 12:00:00
+10640938654,45.739173,4.814532,244,intimit cube lyon confluence cubeorange,2013,10,27,12,0,278337600.0,undef,2013-10-27 12:00:00
+16029386458,45.739165,4.814511,244,lyon bureau salins france architecture frankreich lyon lione frana rhne frankrijk francia francie confluence frankrig lyon modernbuilding frankrike rhnealpes francja salinsdumidi jakobmcfarlane cubeorange december,2014,12,22,15,42,314725320.0,undef,2014-12-22 15:42:00
+16216090172,45.739165,4.814511,244,lyon bureau salins france architecture frankreich lyon lione frana rhne frankrijk francia francie confluence frankrig lyon modernbuilding frankrike rhnealpes francja salinsdumidi jakobmcfarlane cubeorange december,2014,12,22,15,40,314725200.0,undef,2014-12-22 15:40:00
+16031010527,45.739165,4.814511,244,lyon bureau salins france architecture frankreich lyon lione frana rhne frankrijk francia francie confluence frankrig lyon modernbuilding frankrike rhnealpes francja salinsdumidi jakobmcfarlane cubeorange december,2014,12,22,15,39,314725140.0,undef,2014-12-22 15:39:00
+15576246593,45.739128,4.814532,244,orange cube confluence lyon france architecture modern contemporary lyon france confluence moderne contemporain cubeorange orangecube jakob macfarlane,2014,12,27,18,1,315165660.0,undef,2014-12-27 18:01:00
+29758096543,45.739173,4.81449,244,lyon lyon france,2016,10,5,13,33,371136780.0,undef,2016-10-05 13:33:00
+31690489131,45.739161,4.814405,244, ,2016,12,22,18,11,377892660.0,undef,2016-12-22 18:11:00
+37006395334,45.739225,4.8145,244,lyon ii cube orange confluence lyon architecture sony sigma jakobmacfarlane,2017,9,19,10,9,401278140.0,undef,2017-09-19 10:09:00
+26487541728,45.739165,4.814511,244,lyon cube orange lyon lyon france rhne rhnealpes december architecture cubeorange salinsdumidi groupecardinal jakobmcfarlane confluence lione francia frana frankrijk frankreich frankrig frankrike francja francie,2017,12,29,11,27,410009220.0,undef,2017-12-29 11:27:00
+25486700107,45.739165,4.814511,244,lyon cube orange lyon lyon france rhne rhnealpes december architecture cubeorange salinsdumidi groupecardinal jakobmcfarlane confluence lione francia frana frankrijk frankreich frankrig frankrike francja francie,2017,12,29,11,27,410009220.0,undef,2017-12-29 11:27:00
+26487541018,45.739165,4.814511,244,lyon cube orange lyon lyon france rhne rhnealpes december architecture cubeorange salinsdumidi groupecardinal jakobmcfarlane confluence lione francia frana frankrijk frankreich frankrig frankrike francja francie,2017,12,29,11,27,410009220.0,undef,2017-12-29 11:27:00
+39031588582,45.739216,4.81445,244, ,2017,12,14,21,1,408747660.0,undef,2017-12-14 21:01:00
+39062582491,45.73923,4.814519,244, ,2017,12,14,21,1,408747660.0,undef,2017-12-14 21:01:00
+39019402900,45.73927,4.8145,244,lyon confluence orange lyon confluence architecture building modern architecte graphique graphic effect urban urbanisme city cit city cityscape line ligne angle orange cube world f psp,2018,2,19,16,4,414518640.0,undef,2018-02-19 16:04:00
+28109685197,45.739154,4.814571,244,lyon quartier confluence cube orange lyon quartier confluence cubeorange immeuble batiment architecture ciel graphisme architectes jakob macfarlane,2018,6,22,18,47,425155620.0,undef,2018-06-22 18:47:00
+43700850532,45.739167,4.814521,244,cube orange architecture lyon confluence rhne auvergnerhnealpes quartier quai rambaud cube orange jacob macfarlane bureau,2018,7,7,9,54,426419640.0,undef,2018-07-07 09:54:00
+41940665840,45.739167,4.814521,244,cube orange architecture lyon confluence rhne auvergnerhnealpes quartier quai rambaud cube orange jacob macfarlane bureau,2018,7,7,11,1,426423660.0,undef,2018-07-07 11:01:00
+41940665020,45.739167,4.814521,244,cube orange architecture lyon confluence rhne auvergnerhnealpes quartier quai rambaud cube orange jacob macfarlane bureau,2018,7,7,11,1,426423660.0,undef,2018-07-07 11:01:00
+43700848762,45.739167,4.814521,244,cube orange architecture lyon confluence rhne auvergnerhnealpes quartier quai rambaud cube orange jacob macfarlane bureau,2018,7,7,11,2,426423720.0,undef,2018-07-07 11:02:00
+41940664120,45.739167,4.814521,244,cube orange architecture lyon confluence rhne auvergnerhnealpes quartier quai rambaud cube orange jacob macfarlane bureau,2018,7,7,11,3,426423780.0,undef,2018-07-07 11:03:00
+41940663100,45.739167,4.814521,244,cube orange architecture lyon confluence rhne auvergnerhnealpes quartier quai rambaud cube orange jacob macfarlane bureau,2018,7,7,11,3,426423780.0,undef,2018-07-07 11:03:00
+41940662080,45.739167,4.814521,244,cube orange architecture lyon confluence rhne auvergnerhnealpes quartier quai rambaud cube orange jacob macfarlane bureau,2018,7,7,11,3,426423780.0,undef,2018-07-07 11:03:00
+41940661080,45.739167,4.814521,244,cube orange architecture lyon confluence rhne auvergnerhnealpes quartier quai rambaud cube orange jacob macfarlane bureau,2018,7,7,11,6,426423960.0,undef,2018-07-07 11:06:00
+43700845132,45.739167,4.814521,244,cube orange architecture lyon confluence rhne auvergnerhnealpes quartier quai rambaud cube orange jacob macfarlane bureau,2018,7,7,11,6,426423960.0,undef,2018-07-07 11:06:00
+41940659730,45.739167,4.814521,244,cube orange architecture lyon confluence rhne auvergnerhnealpes quartier quai rambaud cube orange jacob macfarlane bureau,2018,7,7,11,6,426423960.0,undef,2018-07-07 11:06:00
+43700844292,45.739167,4.814521,244,cube orange architecture lyon confluence rhne auvergnerhnealpes quartier quai rambaud cube orange jacob macfarlane bureau,2018,7,7,11,8,426424080.0,undef,2018-07-07 11:08:00
+41940659160,45.739167,4.814521,244,cube orange architecture lyon confluence rhne auvergnerhnealpes quartier quai rambaud cube orange jacob macfarlane bureau,2018,7,7,11,8,426424080.0,undef,2018-07-07 11:08:00
+41940658850,45.739167,4.814521,244,cube orange architecture lyon confluence rhne auvergnerhnealpes quartier quai rambaud cube orange jacob macfarlane bureau,2018,7,7,11,8,426424080.0,undef,2018-07-07 11:08:00
+41940658500,45.739167,4.814521,244,cube orange architecture lyon confluence rhne auvergnerhnealpes quartier quai rambaud cube orange jacob macfarlane bureau,2018,7,7,11,8,426424080.0,undef,2018-07-07 11:08:00
+41940656820,45.739167,4.814521,244,cube orange architecture lyon confluence rhne auvergnerhnealpes quartier quai rambaud cube orange jacob macfarlane bureau,2018,7,7,11,8,426424080.0,undef,2018-07-07 11:08:00
+41940655980,45.739167,4.814521,244,cube orange architecture lyon confluence rhne auvergnerhnealpes quartier quai rambaud cube orange jacob macfarlane bureau,2018,7,7,11,8,426424080.0,undef,2018-07-07 11:08:00
+41940655030,45.739167,4.814521,244,cube orange architecture lyon confluence rhne auvergnerhnealpes quartier quai rambaud cube orange jacob macfarlane bureau,2018,7,7,11,9,426424140.0,undef,2018-07-07 11:09:00
+41940654590,45.739167,4.814521,244,cube orange architecture lyon confluence rhne auvergnerhnealpes quartier quai rambaud cube orange jacob macfarlane bureau,2018,7,7,11,9,426424140.0,undef,2018-07-07 11:09:00
+41940654120,45.739167,4.814521,244,cube orange architecture lyon confluence rhne auvergnerhnealpes quartier quai rambaud cube orange jacob macfarlane bureau,2018,7,7,11,9,426424140.0,undef,2018-07-07 11:09:00
+43700838292,45.739167,4.814521,244,cube orange architecture lyon confluence rhne auvergnerhnealpes quartier quai rambaud cube orange jacob macfarlane bureau,2018,7,7,11,3,426423780.0,undef,2018-07-07 11:03:00
+41940653050,45.739167,4.814521,244,cube orange architecture lyon confluence rhne auvergnerhnealpes quartier quai rambaud cube orange jacob macfarlane bureau,2018,7,7,11,11,426424260.0,undef,2018-07-07 11:11:00
+49053789828,45.73927,4.8145,244,stairway lyon confluence psp architecture structure city cityscape cityview shadow light bw bnw blackandwhite nb stair staircase stairway caillebotis duckboard,2019,5,31,14,54,454776840.0,undef,2019-05-31 14:54:00

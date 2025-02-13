@@ -1,0 +1,561 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4340639810,45.772275,4.831752,41,going stair lyon dailypicture croixrousse,2009,7,26,13,13,144076380.0,undef
+4177607072,45.772828,4.831817,41,dessus ville sanggi,2009,12,11,17,17,156014220.0,undef
+4175218912,45.772372,4.831774,41, ,2009,12,7,23,8,155689680.0,undef
+4564405337,45.772758,4.831769,41,spectator concert dailypicture spectator,2009,7,26,13,18,144076680.0,undef
+4612543028,45.77226,4.831801,41,vue croix rousse lyon sketchcrawl,2010,5,16,10,48,169469280.0,undef
+4609913402,45.772514,4.831742,41,sketchcrawl monte grande cte lyon france urban outside sketch lyon dessin extrieur ville croquis feutre,2010,5,15,22,36,169425360.0,undef
+4682470923,45.772885,4.831945,41, ,2010,5,30,15,16,170694960.0,undef
+4678581933,45.772488,4.83172,41,pentes croix rousse lyon pentax croixrousse fabien k drugeon justpentax pentaxk djustpentax hayateballade,2010,6,7,15,32,171387120.0,undef
+4823317684,45.772877,4.831914,41,fte lumires light lyon celebration lumieres ftedeslumires montedelagrancecte,2009,12,6,23,27,155604420.0,undef
+4823317636,45.772877,4.831914,41,fte lumires light lyon celebration lumieres ftedeslumires montedelagrancecte,2009,12,6,23,34,155604840.0,undef
+4823317588,45.772877,4.831914,41,fte lumires light lyon celebration lumieres ftedeslumires montedelagrancecte,2009,12,6,23,27,155604420.0,undef
+4757087416,45.772885,4.831945,41, lyon sigma kermesse main foveon croixrousse mille pentes,2010,7,2,20,46,173565960.0,undef
+4757086802,45.772885,4.831945,41, lyon sigma kermesse main foveon croixrousse mille pentes,2010,7,2,20,47,173566020.0,undef
+4757085296,45.772885,4.831945,41, lyon sigma kermesse main foveon croixrousse mille pentes,2010,7,2,20,44,173565840.0,undef
+4757085084,45.772885,4.831945,41, lyon sigma kermesse main foveon croixrousse mille pentes,2010,7,2,20,45,173565900.0,undef
+4757084026,45.772885,4.831945,41, lyon sigma kermesse main foveon croixrousse mille pentes,2010,7,2,20,45,173565900.0,undef
+5000573631,45.772735,4.831843,41, flower yellow night canon eos mm garbage f sigma,2010,9,15,21,19,180047940.0,undef
+5068269052,45.772619,4.831913,41,tag lyon nuit fetedeslumieres,2009,12,7,21,47,155684820.0,undef
+4101091535,45.772828,4.831817,41,monte grande cte stair lyon nb escaliers grandecote sanggi,2009,11,13,17,17,153595020.0,undef
+4101838776,45.772828,4.831817,41,monte grande cte autumn automne lyon montee grandecote sanggi,2009,11,13,17,15,153594900.0,undef
+5458431646,45.7725,4.831833,41, ,2011,2,9,17,5,192733500.0,undef
+5457280388,45.77235,4.831683,41,coming nowhere stencil pavement lyon france streetart france stencil europe lyon pavement nowhere coming pochoir croixrousse,2011,2,11,14,42,192897720.0,undef
+5416100559,45.772559,4.831736,41,pasted wallpaper painted lyon france wallpaper streetart france collage wall paper europe lyon wheatpaste journal pasted mur peint croixrousse wheatpaper,2011,1,12,13,57,190303020.0,undef
+5302239900,45.772539,4.831794,41,fte lumires lyon art apple design lyon nuit eclairage spectacle vido ftedeslumires graphisme miseenscne sonetlumires brunovitasse iphone g chupacabraart,2009,12,6,19,41,155590860.0,undef
+5278001772,45.772806,4.831978,41,presqule lyon hiver matin,2010,12,13,10,21,187698060.0,undef
+5264135649,45.772915,4.831967,41,fte lumires croix rousse ,2010,12,12,1,8,187578480.0,undef
+5254006744,45.772683,4.831736,41,ecoenvahisseurs france art lyon culture ftedeslumires fetedeslumieres vnement,2010,12,11,19,5,187556700.0,undef
+5247441067,45.772918,4.83202,41,fourvire light festival lyon illumination fete lumiere eglise morel lumires cathedrale basilique sibylle fourvire siby,2009,12,9,23,42,155864520.0,undef
+5557941845,45.7724,4.831791,41,fte lumires lighting city light france festival europe lyon illumination spaceinvaders illuminated animation citycenter citycentre centreville fra croixrousse ftedeslumires familyevent rhnealps pentesdelacroixrousse jardindelagrandecte montedelagrandecte coeurdelaville frcentreville frcoeurdelaville,2010,12,11,18,22,187554120.0,undef
+5557941495,45.7724,4.831791,41,fte lumires lighting city light france festival europe lyon illumination spaceinvaders illuminated animation citycenter citycentre centreville fra croixrousse ftedeslumires familyevent rhnealps pentesdelacroixrousse jardindelagrandecte montedelagrandecte coeurdelaville frcentreville frcoeurdelaville,2010,12,11,18,20,187554000.0,undef
+5558524626,45.7724,4.831791,41,fte lumires lighting city light france festival europe lyon illumination spaceinvaders illuminated animation citycenter citycentre centreville fra croixrousse ftedeslumires familyevent rhnealps pentesdelacroixrousse jardindelagrandecte montedelagrandecte coeurdelaville frcentreville frcoeurdelaville,2010,12,11,18,19,187553940.0,undef
+5558524244,45.7724,4.831791,41,fte lumires lighting city light france festival europe lyon illumination spaceinvaders illuminated animation citycenter citycentre centreville fra croixrousse ftedeslumires familyevent rhnealps pentesdelacroixrousse jardindelagrandecte montedelagrandecte coeurdelaville frcentreville frcoeurdelaville,2010,12,11,18,19,187553940.0,undef
+5538431312,45.772409,4.831768,41,pasted paper wallace paris streetart france pasteup collage wall paper europe lyon wheatpaste finger pasted wallace mur croixrousse wheatpaper,2011,3,4,15,10,194713800.0,undef
+5652824153,45.772828,4.831817,41,del pentes lyon pentes sanggi,2011,4,21,16,28,198865680.0,undef
+5595800163,45.772477,4.831774,41,fte lumires lyon h lyon lumires,2009,12,6,14,34,155572440.0,undef
+5746219177,45.772993,4.831924,41, france church cathedral lyon basilica religion neige eglise cathedrale basilique fourvire,2009,12,19,12,14,156687240.0,undef
+5746215017,45.772993,4.831924,41, france lyon neige,2009,12,19,12,14,156687240.0,undef
+5692008224,45.772623,4.831811,41,pasted paper lyon france streetart france pasteup collage paper grande europe lyon wheatpaste cte pasted monte croixrousse wheatpaper,2011,4,4,15,58,197395080.0,undef
+5849235099,45.772503,4.831774,41,lyon vu jardin grande cte canon lyon croixrousse tamronspaf mmf xrdiiildasphericalif,2011,6,19,18,31,203970660.0,undef
+5849789834,45.772503,4.831774,41,lyon fourvire vus jardin grande cte canon lyon croixrousse tamronspaf mmf xrdiiildasphericalif,2011,6,19,18,30,203970600.0,undef
+5813312762,45.772881,4.831956,41,pasted paper thtf lyon france streetart france pasteup collage paper europe lyon wheatpaste pasted croixrousse thtf wheatpaper,2011,5,24,12,20,201702000.0,undef
+5910356576,45.772885,4.831951,41,pasted paper lyon france streetart france pasteup collage paper europe lyon wheatpaste pasted croixrousse wheatpaper,2011,6,15,13,54,203608440.0,undef
+6127347433,45.772443,4.831817,41,sortez couverts white black france love rain nikon noir lyon plateau pluie lover amour blanc rousse croix rhone amants,2011,6,4,15,10,202662600.0,undef
+6281723508,45.772469,4.831645,41,zombie walk zombie zombiewalk dmii,2011,10,22,15,14,214758840.0,undef
+6272295081,45.772379,4.831679,41,zombie day lyon zombieday lyon,2011,10,22,22,43,214785780.0,undef
+6272294333,45.772379,4.831679,41,zombie day lyon ,2011,10,22,22,32,214785120.0,undef
+6272819256,45.772379,4.831679,41,zombie day lyon ,2011,10,22,22,31,214785060.0,undef
+6272290577,45.772379,4.831679,41,zombie day lyon ,2011,10,22,22,30,214785000.0,undef
+6272815506,45.772379,4.831679,41,zombie day lyon ,2011,10,22,22,29,214784940.0,undef
+6272286957,45.772379,4.831679,41,zombie day lyon ,2011,10,22,22,29,214784940.0,undef
+6272285875,45.772379,4.831679,41,zombie day lyon ,2011,10,22,22,28,214784880.0,undef
+6272811454,45.772379,4.831679,41,zombie day lyon ,2011,10,22,22,27,214784820.0,undef
+6272808630,45.772379,4.831679,41,zombie day lyon ,2011,10,22,22,12,214783920.0,undef
+6272280953,45.772379,4.831679,41,zombie day lyon ,2011,10,22,22,8,214783680.0,undef
+6272806208,45.772379,4.831679,41,zombie day lyon ,2011,10,22,22,8,214783680.0,undef
+6272805166,45.772379,4.831679,41,zombie day lyon ,2011,10,22,22,7,214783620.0,undef
+6272278209,45.772379,4.831679,41,zombie day lyon ,2011,10,22,22,7,214783620.0,undef
+6272277383,45.772379,4.831679,41,zombie day lyon ,2011,10,22,22,5,214783500.0,undef
+6272274821,45.772379,4.831679,41,zombie day lyon ,2011,10,22,22,5,214783500.0,undef
+6272273913,45.772379,4.831679,41,zombie day lyon ,2011,10,22,22,5,214783500.0,undef
+6272273185,45.772379,4.831679,41,zombie day lyon ,2011,10,22,22,4,214783440.0,undef
+6272798718,45.772379,4.831679,41,zombie day lyon ,2011,10,22,22,4,214783440.0,undef
+6272271865,45.772379,4.831679,41,zombie day lyon ,2011,10,22,22,4,214783440.0,undef
+6272797134,45.772379,4.831679,41,zombie day lyon ,2011,10,22,22,4,214783440.0,undef
+6272269189,45.772379,4.831679,41,zombie day lyon ,2011,10,22,22,4,214783440.0,undef
+6272793036,45.772379,4.831679,41,zombie day lyon ,2011,10,22,22,4,214783440.0,undef
+6272266037,45.772379,4.831679,41,zombie day lyon ,2011,10,22,22,3,214783380.0,undef
+6272790800,45.772379,4.831679,41,zombie day lyon ,2011,10,22,22,1,214783260.0,undef
+6272261753,45.772379,4.831679,41,zombie day lyon ,2011,10,22,22,0,214783200.0,undef
+6272260993,45.772379,4.831679,41,zombie day lyon ,2011,10,22,22,0,214783200.0,undef
+6272259885,45.772379,4.831679,41,zombie day lyon ,2011,10,22,21,59,214783140.0,undef
+6272785770,45.772379,4.831679,41,zombie day lyon ,2011,10,22,21,58,214783080.0,undef
+6272257427,45.772379,4.831679,41,zombie day lyon ,2011,10,22,21,55,214782900.0,undef
+6272255749,45.772379,4.831679,41,zombie day lyon ,2011,10,22,21,54,214782840.0,undef
+6272254895,45.772379,4.831679,41,zombie day lyon ,2011,10,22,21,53,214782780.0,undef
+6272780598,45.772379,4.831679,41,zombie day lyon ,2011,10,22,21,49,214782540.0,undef
+6272252843,45.772379,4.831679,41,zombie day lyon ,2011,10,22,21,42,214782120.0,undef
+6272777630,45.772379,4.831679,41,zombie day lyon ,2011,10,22,21,39,214781940.0,undef
+6272776908,45.772379,4.831679,41,zombie day lyon ,2011,10,22,21,39,214781940.0,undef
+6272248369,45.772379,4.831679,41,zombie day lyon ,2011,10,22,21,37,214781820.0,undef
+6272774612,45.772379,4.831679,41,zombie day lyon ,2011,10,22,21,35,214781700.0,undef
+6272247203,45.772379,4.831679,41,zombie day lyon ,2011,10,22,21,35,214781700.0,undef
+6272246243,45.772379,4.831679,41,zombie day lyon ,2011,10,22,21,35,214781700.0,undef
+6272771142,45.772379,4.831679,41,zombie day lyon ,2011,10,22,21,35,214781700.0,undef
+6272770494,45.772379,4.831679,41,zombie day lyon ,2011,10,22,21,33,214781580.0,undef
+6272768892,45.772379,4.831679,41,zombie day lyon ,2011,10,22,21,17,214780620.0,undef
+6272239455,45.772379,4.831679,41,zombie day lyon ,2011,10,22,21,14,214780440.0,undef
+6272236923,45.772379,4.831679,41,zombie day lyon ,2011,10,22,21,12,214780320.0,undef
+6272234863,45.772379,4.831679,41,zombie day lyon ,2011,10,22,21,12,214780320.0,undef
+6272232433,45.772379,4.831679,41,zombie day lyon ,2011,10,22,21,11,214780260.0,undef
+6272231743,45.772379,4.831679,41,zombie day lyon ,2011,10,22,21,9,214780140.0,undef
+6272229531,45.772379,4.831679,41,zombie day lyon ,2011,10,22,21,6,214779960.0,undef
+6272756220,45.772379,4.831679,41,zombie day lyon ,2011,10,22,21,5,214779900.0,undef
+6272754252,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,59,214779540.0,undef
+6272753332,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,57,214779420.0,undef
+6272752340,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,57,214779420.0,undef
+6272222453,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,57,214779420.0,undef
+6272219597,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,57,214779420.0,undef
+6272746116,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,57,214779420.0,undef
+6272745168,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,56,214779360.0,undef
+6272744204,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,55,214779300.0,undef
+6272214683,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,55,214779300.0,undef
+6272213791,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,54,214779240.0,undef
+6272740480,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,53,214779180.0,undef
+6272738018,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,52,214779120.0,undef
+6272736414,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,51,214779060.0,undef
+6272207161,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,51,214779060.0,undef
+6272732464,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,49,214778940.0,undef
+6272731516,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,47,214778820.0,undef
+6272729498,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,47,214778820.0,undef
+6272727446,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,47,214778820.0,undef
+6272726294,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,47,214778820.0,undef
+6272196733,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,47,214778820.0,undef
+6272196091,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,47,214778820.0,undef
+6272195495,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,46,214778760.0,undef
+6272194865,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,45,214778700.0,undef
+6272720602,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,45,214778700.0,undef
+6272720118,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,45,214778700.0,undef
+6272192187,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,44,214778640.0,undef
+6272191503,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,44,214778640.0,undef
+6272190707,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,44,214778640.0,undef
+6272189647,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,43,214778580.0,undef
+6272714756,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,43,214778580.0,undef
+6272185325,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,41,214778460.0,undef
+6272183309,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,40,214778400.0,undef
+6272708988,45.772379,4.831679,41,zombie day lyon zombieday lyon,2011,10,22,20,40,214778400.0,undef
+6272180075,45.772379,4.831679,41,zombie day lyon ,2011,10,22,20,40,214778400.0,undef
+6272178953,45.772379,4.831679,41,zombie day lyon rveillon,2011,10,22,20,39,214778340.0,undef
+6269000131,45.772279,4.831731,41,saw man butcher lady france lumix lyon zombie zombiewalk zombieday,2011,10,22,14,54,214757640.0,undef
+6269525408,45.772279,4.831731,41,puppet couple france lumix lyon zombie zombiewalk zombieday,2011,10,22,14,56,214757760.0,undef
+6269524958,45.772279,4.831731,41,voodoo doll france lumix lyon zombie zombiewalk zombieday,2011,10,22,14,58,214757880.0,undef
+6269524452,45.772279,4.831731,41,pain brain france lumix lyon zombie zombiewalk zombieday,2011,10,22,15,13,214758780.0,undef
+6269524008,45.772279,4.831731,41,cleanup crew france lumix lyon zombie zombiewalk zombieday,2011,10,22,15,18,214759080.0,undef
+6268997771,45.772279,4.831731,41,zombie lord france lumix lyon zombie zombiewalk zombieday,2011,10,22,15,27,214759620.0,undef
+6269523010,45.772279,4.831731,41,walking dead france lumix lyon zombie zombiewalk zombieday,2011,10,22,15,37,214760220.0,undef
+6215078505,45.772473,4.831779,41,streetart lyon france streetart france europe lyon croixrousse,2011,9,11,13,2,211208520.0,undef
+5242825343,45.772503,4.831849,41,monte grande cote scenic overlook,2010,4,13,14,40,166632000.0,undef
+6897714635,45.772634,4.831865,41,lumires lyon dcembre ,2011,12,9,20,40,218925600.0,undef
+6842503283,45.772941,4.831935,41,lyon street blackandwhite bw sun white man black france monochrome contrast photography nikon europe lyon candid lonely,2012,2,8,20,6,224193960.0,undef
+6832487073,45.772439,4.831784,41,crativit vient nuit passe quelque chose nuit nergie diffrente nuit vide lequel peux crer grace jones france robin photography photo photographie lyon photographe photography lyonnais favier,2011,11,9,20,34,216333240.0,undef
+6767526121,45.772877,4.831914,41,fte lumires light lyon celebration lumieres ftedeslumires montedelagrandecte,2011,12,9,21,42,218929320.0,undef
+6732383801,45.772484,4.831763,41,met m orange woman man nikon couple photographer lyon candid damien m mohamed peruvian mm caron simma fabricedrevon,2011,12,29,16,10,220637400.0,undef
+6630352137,45.772484,4.831763,41,lyon fourvire sunset mamiya film zeiss diy scenery kodak perspective damien jena processing portra mohamed internal mm fourvire caron simma biometar fabricedrevon,2012,1,2,0,41,220927260.0,undef
+6492861789,45.772447,4.831924,41,fil lumire fil bubble bulles ledftedeslumireslyon,2011,12,10,23,14,219021240.0,undef
+6492459727,45.772402,4.831645,41, lyon lumires ftes,2011,12,9,22,18,218931480.0,undef
+6492457591,45.772402,4.831645,41, lyon lumires ftes,2011,12,9,22,15,218931300.0,undef
+6971061487,45.772589,4.831779,41,hypnotisor waldo lyon france streetart france wall grande europe lyon mosaic cte installation mur waldo mosaique monte croixrousse hypnotisor,2012,3,7,16,41,226600860.0,undef
+7225466308,45.772653,4.831715,41,supa five lyon rus plot monsta nuitssonores ekiem extrasonore,2012,5,19,8,20,232878000.0,undef
+7225311430,45.772843,4.831913,41,lyon nuits sonores ,2012,5,17,19,22,232744920.0,undef
+7428503308,45.772484,4.831688,41,monochromatic mural street blackandwhite white streetart black france building art car sign building french graffiti artwork mural paint lyon painted streetsign creative common renault cc creativecommons graff lyon,2012,6,6,10,55,234442500.0,undef
+7428424846,45.772484,4.831688,41,descending croixrousse city tree people france building tree green building french view lyon path hill creative common cc sidewalk walkway creativecommons colline rousse croix lyon croixrousse soane,2012,6,6,10,57,234442620.0,undef
+7428310870,45.772484,4.831688,41,white rose flower rose plant white plant france flower rose french lyon creative common cc creativecommons lyon,2012,6,6,10,59,234442740.0,undef
+7428233744,45.772484,4.831688,41,choisir blackandwhite black france price menu french restaurant chalk cafe lyon board creative common sandwich cc creativecommons chalkboard blackboard price lyon,2012,6,6,11,2,234442920.0,undef
+7422285088,45.772484,4.831688,41,cathedral old city france alp building church saint st architecture alpes building john river french jean cathedral lyon basilica hill creative church cathedral common notredame hill cc creativecommons dame eglise ville stjean vieux colline rousse croix lyon fleuve fourviere rhone croixrousse saintjean collines soane rhonealpes eglises notredamedefourviere,2012,6,6,10,54,234442440.0,undef
+7422210748,45.772484,4.831688,41,vieux lyon old city bridge france alp building church saint st architecture alpes building john river french jean cathedral lyon basilica hill creative church cathedral common hill cc creativecommons pont eglise ville stjean vieux colline rousse croix lyon fleuve fourviere rhone croixrousse saintjean collines soane rhonealpes eglises,2012,6,6,10,54,234442440.0,undef
+7421251694,45.772484,4.831688,41,hilltop basilica old city france alp building church architecture alpes building french cathedral lyon basilica hill creative church cathedral common notredame hill cc creativecommons dame eglise ville vieux colline rousse croix lyon fourviere rhone croixrousse collines rhonealpes eglises notredamedefourviere,2012,6,6,10,53,234442380.0,undef
+7421002934,45.772484,4.831688,41,panoramic view lyon croixrousse old city panorama france alp building tower church saint st architecture alpes building john river french jean cathedral lyon basilica hill creative church cathedral common panoramic notredame hill cc creativecommons dame eglise ville stjean vieux colline rousse croix lyon fleuve fourviere rhone croixrousse saintjean collines soane rhonealpes eglises notredamedefourviere,2012,6,6,10,52,234442320.0,undef
+7420802460,45.772484,4.831688,41,faux tiltshift lyon old city bridge tree france alp building tree car car architecture alpes building river french miniature model apartment apartment lyon hill creative fake shift common mini hill cc creativecommons faux pont tilt effect ville vieux colline rousse croix lyon fleuve fourviere rhone croixrousse collines tiltshift soane rhonealpes,2012,6,6,10,54,234442440.0,undef
+7549731760,45.772402,4.831881,41,lyon croixrousse ,2012,7,11,21,43,237505380.0,undef
+8136221211,45.772776,4.831935,41,nadya ,2012,10,29,13,42,246980520.0,undef
+8087782589,45.772477,4.831613,41,stencil dex sakkaos lyon france streetart france stencil europe lyon dex pochoir croixrousse sakkaos dexsakkaos,2012,9,28,15,8,244307280.0,undef
+8151748898,45.77243,4.83193,41,fourvire france geotagged lyon rhne rhone rhonealpes rhnealpes geolat geolon,2012,11,3,12,46,247409160.0,undef
+6479628425,45.772529,4.831774,41,monte grande cte fte lumires ,2011,12,9,2,35,218860500.0,undef
+8481136000,45.772761,4.83186,41,american france ,2010,9,19,7,30,180343800.0,undef
+8432117317,45.772333,4.831833,41, france lyon,2013,1,31,14,6,255103560.0,undef
+8432114411,45.772333,4.831833,41, france lyon,2013,1,31,14,6,255103560.0,undef
+8433196230,45.772333,4.831833,41, france lyon,2013,1,31,14,7,255103620.0,undef
+8399279426,45.772447,4.831849,41,lyon france town,2013,1,13,14,22,253549320.0,undef
+8399278824,45.772462,4.831849,41,fourvire france architecture town,2013,1,13,14,43,253550580.0,undef
+8398193041,45.772447,4.831849,41,vieux lyon sane france water town,2013,1,13,14,43,253550580.0,undef
+8392348775,45.772333,4.831833,41, uploadedbyflickrmobile flickriosappfilternofilter,2012,12,24,14,39,251822340.0,undef
+8377299622,45.772937,4.831929,41,street street art painting graffiti montana paint lyon tag graph graff,2013,1,13,16,0,253555200.0,undef
+8348905539,45.772387,4.831904,41,fourvire france watercolor lyon aquarelle sketchbook rhne neocolor croquis croixrousse urbansketchers,2013,1,3,13,14,252681240.0,undef
+8325288289,45.772427,4.831945,41, square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue b fd f,2012,12,30,7,49,252316140.0,undef
+8272381847,45.772267,4.831624,41,lfl lyon france friend family,2012,12,8,23,21,250471260.0,undef
+8272381783,45.772267,4.831624,41,lfl france lyon,2012,12,8,23,23,250471380.0,undef
+8272381535,45.772267,4.831624,41,lfl france lyon,2012,12,8,23,25,250471500.0,undef
+8272381467,45.772267,4.831624,41,lfl france lyon,2012,12,8,23,16,250470960.0,undef
+8273446638,45.772267,4.831624,41,lfl france lyon,2012,12,8,23,12,250470720.0,undef
+8273446574,45.772267,4.831624,41,lfl france lyon,2012,12,8,23,21,250471260.0,undef
+8269781063,45.772828,4.831935,41,lyon lumires ,2012,12,9,21,22,250550520.0,undef
+8270845906,45.772739,4.831935,41,lyon lumires france lyon rhne ftedeslumires rhnealpes lumires lyonlumires,2012,12,9,21,32,250551120.0,undef
+8268229450,45.772492,4.831581,41,lyon lumires france lyon rhne ftedeslumires rhnealpes lumires lyonlumires,2012,12,9,21,15,250550100.0,undef
+8268178050,45.772464,4.831677,41,fte lumires ,2012,12,8,23,17,250471020.0,undef
+8264330358,45.773023,4.831967,41,gaphique thur ,2012,12,9,0,32,250475520.0,undef
+8543057416,45.7725,4.831666,41,lyon vue sommet monte grande cte croixrousse france lyon croixrousse flickrandroidappfilternone,2013,3,9,14,37,258302220.0,undef
+8541955705,45.7725,4.831666,41,lyon vue sommet monte grande cte croixrousse france lyon croixrousse flickrandroidappfilternone,2013,3,9,14,38,258302280.0,undef
+8877657388,45.772408,4.831636,41, ,2009,7,23,16,5,143827500.0,undef
+8877641694,45.77243,4.831863,41,jardin grande cte ,2013,4,24,10,36,262262160.0,undef
+8765301526,45.772333,4.831833,41, uploadedbyflickrmobile flickriosappfilternofilter,2012,12,9,10,9,250510140.0,undef
+8718099409,45.772372,4.831784,41,stencil kilroy lyon france streetart france stencil europe lyon kilroy pochoir croixrousse comportements initiateur,2013,4,19,15,0,261846000.0,undef
+8718099355,45.772402,4.831683,41,pasted paper hopnn lyon france streetart france pasteup collage paper europe lyon wheatpaste pasted yuri croixrousse romagnoli hopnn wheatpaper,2013,4,19,15,0,261846000.0,undef
+9143690710,45.772784,4.83187,41,lyon panorama taken croix rousse ,2013,6,26,14,41,267720060.0,undef
+9109924486,45.772427,4.831945,41,upload square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue b fd f,2013,6,22,9,54,267357240.0,undef
+9311236812,45.772777,4.831944,41,grande cte croixrousse france lyon croixrousse flickrandroidappfilternone,2013,4,14,12,12,261403920.0,undef
+9284800906,45.772713,4.831913,41,vue lyonnaise france lyon paysage rhnealpes,2013,6,15,15,24,266772240.0,undef
+9284784960,45.772672,4.831869,41,basilique dame fourvire france lyon paysage rhnealpes,2013,6,15,15,24,266772240.0,undef
+9606361337,45.772417,4.831886,41,vieux lyon france town,2013,8,1,0,0,270777600.0,undef
+9470651575,45.772484,4.831688,41,city light old city morning light panorama france night dark french dawn light early lyon creative common cc nighttime creativecommons lit vieux rousse croix lyon fourviere croixrousse fourvire vieuxlyon lyonnais,2012,7,12,23,29,237598140.0,undef
+9470651065,45.772484,4.831688,41,st jean early morning old morning light france church saint st night john dark french dawn light early jean cathedral lyon gothic creative common cc nighttime creativecommons baptist lit vieux lyon baptiste vieuxlyon lyonnais oldlyon,2012,7,12,23,30,237598200.0,undef
+9473434856,45.772484,4.831688,41,croixrousse sunrise morning light sky cloud france night cloud sunrise dark french dawn light early lyon cloudy creative common cc nighttime creativecommons lit lyon lyonnais,2012,7,12,23,31,237598260.0,undef
+9470650133,45.772484,4.831688,41,distant body morning light moon france night dark star french dawn light star early lyon creative common crescent cc nighttime creativecommons planet lit lyon lyonnais,2012,7,12,23,32,237598320.0,undef
+9473433774,45.772484,4.831688,41,graffiti van street morning blue light france art night truck dark french dawn light graffiti early artwork paint lyon painted creative common cc nighttime creativecommons parked lit van graff lyon lyonnais,2012,7,12,23,34,237598440.0,undef
+9464787229,45.77235,4.831731,41,view croixrousse lyon lyon lacroixrousse ndmay monteedelagrandecote jardindelagrandecote,2013,5,2,9,5,262947900.0,undef
+9467551546,45.77235,4.831731,41,angela phtographs view croixrousse lyon lyon angela lacroixrousse ndmay monteedelagrandecote jardindelagrandecote,2013,5,2,10,10,262951800.0,undef
+9467525046,45.77235,4.831731,41,view croixrousse lyon lyon lacroixrousse ndmay monteedelagrandecote jardindelagrandecote,2013,5,2,10,11,262951860.0,undef
+9467493724,45.77235,4.831731,41,lyon view basilica tour metallique lyon basilica notredamedefourvire lacroixrousse basilicaofnotredamedefourvire tourmetallique ndmay notredamedefourvirelyon basilicadenotredamedefourvire basilicadenotredamedefourvirelyon basilicaofnotredamedefourvirelyon,2013,5,2,10,12,262951920.0,undef
+9464673283,45.77235,4.831731,41,view across lyon croixrousse lyon lacroixrousse ndmay jardindelagrandecote,2013,5,2,9,7,262948020.0,undef
+9877376373,45.772469,4.831699,41, lyon croixrousse,2013,9,21,14,56,275237760.0,undef
+9877158445,45.772469,4.831699,41, lyon croixrousse,2013,9,21,14,56,275237760.0,undef
+9877169954,45.772469,4.831699,41, lyon croixrousse,2013,9,21,15,1,275238060.0,undef
+9877166524,45.772469,4.831699,41, lyon croixrousse,2013,9,21,15,2,275238120.0,undef
+9862554333,45.772413,4.831929,41,historic site lyon france europe lyon unescoworldheritagesite unesco croixrousse fourvire notredamedefourvire vieuxlyon cathdralesaintjeanbaptiste tourmtalliquedefourvire mmf gvr mmvr,2013,8,1,16,6,270835560.0,undef
+11072180464,45.77233,4.831763,41,dsc jpg france lyon nuit rhnealpes villevillagearchitecture statuesculptureoeuvre,2012,12,6,18,37,250281420.0,undef
+11072229493,45.77233,4.831763,41,dsc jpg france lyon nuit rhnealpes villevillagearchitecture statuesculptureoeuvre,2012,12,6,18,31,250281060.0,undef
+11055865123,45.77233,4.831763,41,dsc jpg france lyon nuit rhnealpes villevillagearchitecture statuesculptureoeuvre,2011,12,11,18,35,219090900.0,undef
+10860602993,45.772423,4.831838,41,view lyon croixrousse,2013,10,27,0,20,278295600.0,undef
+10860246895,45.772458,4.831855,41,taime mean love graffiti lyon clint manola croixrousse,2013,10,26,16,17,278266620.0,undef
+12618615133,45.772469,4.831742,41,lyon haut colline croix rousse street city sky urban blackandwhite bw cloud white black france monochrome cloud town blackwhite europe lyon noiretblanc streetphotography rhne nb ciel nuage nuages rue ville urbain rhone urbanlife croixrousse rhonealpes photoderue rhnealpes blackwhitephotos urbanlifecandid,2014,2,9,14,18,287417880.0,undef
+12594463025,45.772469,4.831742,41,lyon croix rousse street city sky urban blackandwhite bw cloud white black france monochrome cloud town blackwhite europe lyon noiretblanc streetphotography rhne nb ciel nuage nuages rue ville urbain rhone urbanlife croixrousse rhonealpes photoderue rhnealpes blackwhitephotos urbanlifecandid,2014,2,9,14,17,287417820.0,undef
+12344278924,45.772427,4.831945,41,lombre fourviere flotte lyon square lofi squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue b fd f,2014,2,6,15,23,287162580.0,undef
+12027462835,45.77233,4.831763,41,dsc jpg france lyon nuit rhnealpes villevillagearchitecture statuesculptureoeuvre,2012,12,6,21,30,250291800.0,undef
+11809854984,45.772427,4.831945,41,upload square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue b fd f,2014,1,6,17,14,284490840.0,undef
+11760352095,45.772761,4.831854,41,mandela stencil kilroy lyon france streetart france europe lyon mandela pochoir croixroussestencil,2013,12,10,16,5,282153900.0,undef
+11753322424,45.772427,4.831945,41,upload square sierra squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue b fd f,2014,1,4,6,51,284280660.0,undef
+11752527795,45.772896,4.831896,41,upload valencia square squareformat iphoneography instagramapp uploadedbyinstagram,2014,1,4,6,30,284279400.0,undef
+11735410844,45.772567,4.83179,41,pasted paper lyon france streetart france pasteup collage paper europe lyon wheatpaste pasted croixrousse wheatpaper,2013,11,15,16,13,279994380.0,undef
+11691042703,45.772469,4.831699,41, lyon nuages,2013,12,29,16,40,283797600.0,undef
+11690796185,45.772469,4.831699,41, lyon nuages,2013,12,29,16,41,283797660.0,undef
+11504388286,45.772888,4.83194,41,pasted paper lyon france streetart france pasteup collage paper europe lyon wheatpaste pasted croixrousse wheatpaper,2013,11,15,16,2,279993720.0,undef
+13236382173,45.772494,4.831922,41,lyon france lyon francja,2014,3,9,10,56,289824960.0,undef
+13044040655,45.772417,4.831817,41, opera place jean lyon vieux rousse croix nouvel basilique fourviere rhone croixrousse bellecour traboules traboule saone terreaux,2014,3,3,11,5,289307100.0,undef
+14004816223,45.772455,4.831652,41,hello world bonjour plante square squareformat unknown iphoneography instagramapp uploadedbyinstagram,2014,4,23,9,50,293709000.0,undef
+13972301494,45.772469,4.831699,41, urban lyon course trail pieds er,2014,4,13,9,42,292844520.0,undef
+13991843233,45.772469,4.831699,41, urban lyon course trail pieds er,2014,4,13,9,39,292844340.0,undef
+13968672352,45.772469,4.831699,41, urban lyon course trail pieds er,2014,4,13,9,39,292844340.0,undef
+13972295904,45.772469,4.831699,41, urban lyon course trail pieds er,2014,4,13,9,37,292844220.0,undef
+13972292134,45.772469,4.831699,41, urban lyon course trail pieds er,2014,4,13,9,37,292844220.0,undef
+13971843825,45.772469,4.831699,41, urban lyon course trail pieds er,2014,4,13,9,36,292844160.0,undef
+13968656531,45.772469,4.831699,41, urban lyon course trail pieds er,2014,4,13,9,36,292844160.0,undef
+13991827333,45.772469,4.831699,41, urban lyon course trail pieds er,2014,4,13,9,36,292844160.0,undef
+13971836085,45.772469,4.831699,41, urban lyon course trail pieds er,2014,4,13,9,35,292844100.0,undef
+13948740236,45.772469,4.831699,41, urban lyon course trail pieds er,2014,4,13,9,33,292843980.0,undef
+13959280449,45.772469,4.831742,41,lyon croix rousse monte grande cte street city urban blackandwhite bw white black france monochrome town blackwhite europe lyon noiretblanc streetphotography rhne nb rue ville rhone urbanlife croixrousse rhonealpes photoderue rhnealpes blackwhitephotos urbanlifecandid,2014,3,23,14,32,291047520.0,undef
+14125729914,45.772978,4.831843,41,pasted paper agrume lyon france streetart france pasteup collage paper europe lyon wheatpaste pasted croixrousse agrume wheatpaper,2014,4,18,17,20,293304000.0,undef
+14305357179,45.772492,4.831677,41, lyon basilique fourvire,2014,4,27,16,1,294076860.0,undef
+14488584041,45.772492,4.831677,41, lyon basilique fourvire,2014,5,4,16,2,294681720.0,undef
+14276140847,45.772427,4.831945,41,sweet dream dear friend douce nuit chers amis square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue b fd f,2014,6,19,18,11,298663860.0,undef
+14427889274,45.772469,4.831699,41, close lyon er proche,2014,4,26,15,4,293987040.0,undef
+14242411998,45.772469,4.831699,41, close lyon er proche,2014,4,26,15,3,293986980.0,undef
+14242410620,45.772469,4.831699,41, close lyon er proche,2014,4,26,15,1,293986860.0,undef
+14242409760,45.772469,4.831699,41, close lyon er proche,2014,4,26,15,0,293986800.0,undef
+14449188153,45.772469,4.831699,41, close lyon er proche,2014,4,26,14,59,293986740.0,undef
+14581484828,45.772499,4.83172,41,escalier croixrousse france lyon croixrousse,2012,11,21,11,41,248960460.0,undef
+15039783840,45.772492,4.831677,41, lyon er,2014,8,31,15,36,304961760.0,undef
+15426713851,45.772369,4.831811,41,lyon france sept france lyon,2014,9,17,20,21,306447660.0,undef
+15429553102,45.772313,4.831755,41,lyon france sept france lyon,2014,9,17,20,22,306447720.0,undef
+15243197590,45.772336,4.831774,41,lyon france sept france lyon,2014,9,17,20,23,306447780.0,undef
+15243348877,45.772455,4.83183,41,lyon france sept france lyon,2014,9,17,20,24,306447840.0,undef
+15690682968,45.772469,4.831742,41,lyon croix rousse dessus toits street city sky urban blackandwhite bw cloud white black france monochrome cloud town blackwhite europe lyon noiretblanc streetphotography rhne nb ciel nuage nuages rue ville rhone urbanlife croixrousse rhonealpes photoderue rhnealpes scenederue blackwhitephotos photosderue scenesderue urbanlifecandid,2014,1,4,15,0,284310000.0,undef
+15631424239,45.772828,4.831935,41,lyon croixrousse face colline prie france lyon rhne panasonic croixrousse fourvire rhnealpes collinedefourvire basiliquedefourvire panasonicdmcfz,2014,11,16,16,4,311616240.0,undef
+15193382134,45.772836,4.83187,41,lyon grande rue croix rousse alpes graffiti place lyon graf cx spray ruelle graff aerosol rue gaulois bellevue eglise chapelle colbert rousse bombe pasteur fourviere graffiti patrimoine fresque rhone croixrousse gaule amphiteatre graffs rhonealpes saone fantasque bombes bonpasteur fantasques,2014,8,15,13,52,303573120.0,undef
+11388658435,45.772469,4.831784,41,stair ex stair canon lens photography eos dc december photographie lyon sigma croixrousse corentin f hsm gouchon,2013,12,14,18,17,282507420.0,undef
+11370247376,45.772469,4.831699,41, festival light lyon fte festivaloflights lumires ftedeslumires,2013,12,7,19,25,281906700.0,undef
+11370241094,45.772469,4.831699,41, festival light lyon fte festivaloflights lumires er ftedeslumires,2013,12,7,17,24,281899440.0,undef
+11370173695,45.772469,4.831699,41, festival light lyon fte festivaloflights lumires er ftedeslumires,2013,12,7,17,19,281899140.0,undef
+11370237064,45.772469,4.831699,41, festival light lyon fte festivaloflights lumires er ftedeslumires,2013,12,7,17,16,281898960.0,undef
+11370201896,45.772469,4.831699,41, festival light lyon fte festivaloflights lumires er ftedeslumires,2013,12,7,17,16,281898960.0,undef
+11370200096,45.772469,4.831699,41, festival light lyon fte festivaloflights lumires er ftedeslumires,2013,12,7,17,14,281898840.0,undef
+11370254123,45.772305,4.831892,41,long way freedom ex canon way lens photography eos freedom dc long photographie lyon rip sigma nelson mandela croixrousse corentin f hsm dcember gouchon,2013,12,14,18,18,282507480.0,undef
+11338042986,45.772911,4.83186,41,monte grande cte croixrousse ,2013,12,9,23,30,282094200.0,undef
+11337976515,45.772911,4.83186,41,monte grande cte croixrousse ,2013,12,9,23,31,282094260.0,undef
+11338042256,45.772911,4.83186,41,monte grande cte croixrousse ,2013,12,9,23,33,282094380.0,undef
+11338110223,45.772911,4.83186,41,monte grande cte croixrousse ,2013,12,9,23,36,282094560.0,undef
+11330634573,45.772806,4.831795,41,lph people france lyon,2013,12,8,11,22,281964120.0,undef
+11330482455,45.772806,4.831795,41,lph france lyon,2013,12,8,11,16,281963760.0,undef
+16417727692,45.772379,4.831679,41,plonge lyon plonge populaire pentes lyon saintpaul paysage plonge urbain croixrousse fourvire saintjust,2015,1,31,17,11,318186660.0,undef
+16418665675,45.772379,4.831679,41,plonge lyon pentes croix rousse lyon saintpaul paysage plonge urbain croixrousse fourvire saintjust,2015,1,31,17,11,318186660.0,undef
+16356914695,45.772394,4.831925,41, ,2015,1,24,15,2,317574120.0,undef
+15700288293,45.772469,4.831742,41,lyon croix rousse monte grande cte street city shadow urban blackandwhite bw white black france monochrome town blackwhite europe lyon noiretblanc streetphotography rhne nb ombre rue ville ombres rhone urbanlife croixrousse rhonealpes photoderue rhnealpes scenederue blackwhitephotos photosderue scenesderue urbanlifecandid,2015,1,17,15,27,316970820.0,undef
+15627060463,45.772905,4.831869,41,lyon croixrousse cequisepassedanslafentre square squareformat iphoneography instagramapp uploadedbyinstagram,2015,1,10,9,30,316344600.0,undef
+15627045003,45.772905,4.831869,41,lyon croixrousse cequisepassedanslafentre square squareformat crema iphoneography instagramapp uploadedbyinstagram,2015,1,10,9,27,316344420.0,undef
+15578780023,45.772469,4.831677,41,p jpg lyon montedelagrandecte,2014,12,23,14,38,314807880.0,undef
+15576190824,45.772469,4.831677,41,monte grandecte lyon montedelagrandecte,2014,12,23,14,36,314807760.0,undef
+16007489087,45.772918,4.831881,41, ,2014,12,5,22,28,313280880.0,undef
+16031595886,45.772492,4.831677,41, lyon fte lumires er ftedeslumires,2014,12,5,22,32,313281120.0,undef
+15871303609,45.772492,4.831677,41, lyon fte lumires er ftedeslumires,2014,12,5,22,31,313281060.0,undef
+15869884428,45.772986,4.831881,41, lyon fte lumires er ftedeslumires,2014,12,5,22,31,313281060.0,undef
+15835180719,45.772244,4.831797,41,lumignons darbre france night nikon lyon nikkor nuit festivaloflights croixrousse ftedeslumires rhnealpes fetedeslumieres fetedeslumires,2014,12,8,13,3,313506180.0,undef
+15995427326,45.772252,4.831652,41,jardin grande cte france night nikon lyon nikkor nuit festivaloflights croixrousse ftedeslumires rhnealpes fetedeslumieres fetedeslumires,2014,12,8,12,56,313505760.0,undef
+15835270157,45.772302,4.831772,41,passage france night nikon lyon nikkor nuit festivaloflights croixrousse ftedeslumires rhnealpes fetedeslumieres fetedeslumires,2014,12,7,11,3,313412580.0,undef
+15401381033,45.7723,4.831769,41,lumignons france night nikon lyon nikkor nuit festivaloflights croixrousse ftedeslumires rhnealpes fetedeslumieres fetedeslumires,2014,12,7,10,59,313412340.0,undef
+16632858490,45.772877,4.831914,41,fte lumires lyon lumires ftedeslumires,2013,12,8,17,21,281985660.0,undef
+17037312846,45.772855,4.831892,41, france night lumix europa europe lyon mm olympus rhne nuit lla stphotographia laurentlopez,2014,12,5,20,23,313273380.0,undef
+17030657431,45.772469,4.831742,41,lyon croix rousse lecture street city urban blackandwhite bw white black france monochrome town blackwhite europe lyon noiretblanc streetphotography rhne nb rue ville rhone urbanlife rhonealpes photoderue rhnealpes scenederue blackwhitephotos photosderue scenesderue urbanlifecandid,2015,3,28,16,23,323022180.0,undef
+17012162272,45.772761,4.831854,41,stencil lyon france streetart france girl wall stencil europe lyon mur pochoir croixrousse,2015,4,1,16,15,323367300.0,undef
+17812733349,45.772328,4.831892,41,lyon fourvire square squareformat iphoneography instagramapp uploadedbyinstagram,2015,5,23,12,45,327847500.0,undef
+17806905938,45.772328,4.831892,41,lyon matin square squareformat iphoneography instagramapp uploadedbyinstagram,2015,5,23,9,38,327836280.0,undef
+17755563319,45.772402,4.831683,41,sticker lyon france streetart france sticker europe lyon croixrousse,2015,5,20,15,52,327599520.0,undef
+17207089649,45.772502,4.831827,41,hanzalikdanielle studentambassadors bearsabroad,2014,9,13,17,29,306091740.0,undef
+21304602425,45.772411,4.831755,41, ,2015,9,10,15,19,337360740.0,undef
+21304600115,45.77238,4.831875,41, ,2015,9,10,15,20,337360800.0,undef
+21278332436,45.772455,4.831794,41, ,2015,9,10,15,20,337360800.0,undef
+21116702128,45.772377,4.831755,41, ,2015,9,10,15,23,337360980.0,undef
+21278264896,45.772461,4.831872,41, ,2015,9,10,15,17,337360620.0,undef
+21293901132,45.772452,4.831777,41, ,2015,9,10,15,19,337360740.0,undef
+21988921193,45.772477,4.831742,41, leica france mm nikon frankreich lyon summicron f leitz rhnealpes summicronr summicronr mmf leitax,2015,6,27,13,17,330873420.0,undef
+22205619542,45.772624,4.831796,41, lyon couleurs faades peinturelhuile,2015,9,7,15,48,337103280.0,undef
+22344537674,45.772477,4.831742,41, france nikon frankreich lyon nikkor v rhnealpes nikkor mmf vr,2015,6,27,21,9,330901740.0,undef
+22757742450,45.772477,4.831742,41, france nikon frankreich lyon nikkor v rhnealpes nikkor mmf vr,2015,6,27,21,6,330901560.0,undef
+22945720015,45.772477,4.831742,41, leica france mm nikon frankreich lyon summicron f leitz rhnealpes summicronr summicronr mmf leitax,2015,6,27,19,57,330897420.0,undef
+22919710006,45.772477,4.831742,41, leica france mm nikon frankreich lyon summicron f leitz rhnealpes summicronr summicronr mmf leitax,2015,6,27,22,2,330904920.0,undef
+22322935164,45.772477,4.831742,41, leica france mm nikon frankreich lyon summicron f leitz rhnealpes summicronr summicronr mmf leitax,2015,6,27,19,58,330897480.0,undef
+15803628167,45.772205,4.831738,41,fte lumires lyon ,2014,12,8,22,44,313541040.0,undef
+15367105744,45.772472,4.831888,41,fte lumires lyon ,2014,12,8,22,38,313540680.0,undef
+15989334315,45.772258,4.83178,41,fte lumires lyon ,2014,12,8,22,42,313540920.0,undef
+16071640062,45.772472,4.831741,41,sweet city france architecture canon lyon paysage nuit rhone croixrousse ftedeslumires rhonealpes paysageurbain ef mmf lisusm canoneos formatpaysage,2014,12,7,21,9,313448940.0,undef
+15958039875,45.77232,4.831602,41,fete lumieres lumignons jardin grand cte canon lyon ftesdeslumires,2014,12,5,23,19,313283940.0,undef
+24737364734,45.772447,4.831666,41,nice toy nicetoys jacquesmeynierdemalviala dontplayrocknroll,2016,2,19,22,18,351382680.0,undef
+25099206136,45.772477,4.83172,41,lyon jour ,2015,12,29,18,37,346876620.0,undef
+24829896330,45.772477,4.83172,41,lyon jour ,2015,12,29,18,48,346877280.0,undef
+24689818370,45.772761,4.831854,41,iggy pop stencil dav lyon france life streetart france stencil europe iggy lyon pop lust dav pochoir croixrousse,2016,2,10,15,39,350581140.0,undef
+24826580772,45.772761,4.831854,41,pasted paper manyoly lyon france streetart france pasteup collage paper europe lyon wheatpaste pasted croixrousse wheatpaper manyoly,2016,2,10,15,38,350581080.0,undef
+24826580752,45.772888,4.831902,41,pasted paper lyon france streetart france pasteup collage paper europe lyon wheatpaste pasted popo croixrousse wheatpaper,2016,2,10,15,38,350581080.0,undef
+24826580812,45.772761,4.831854,41,stencil dav lyon france streetart france stencil europe lyon dav pochoir croixrousse,2016,2,10,15,39,350581140.0,undef
+26467454892,45.772397,4.831852,41,snuffleupagus france graffiti lyon fr rhnealpes,2015,7,10,15,39,332005140.0,undef
+26448783302,45.772397,4.831852,41,thats tailpipe france lyon fr rhnealpes,2015,7,10,15,36,332004960.0,undef
+26268231080,45.772397,4.831852,41,thats tailpipe france lyon fr rhnealpes,2015,7,10,15,36,332004960.0,undef
+26346684006,45.772877,4.831914,41,fte lumires lyon lumires ftedeslumires,2015,1,3,18,37,315772620.0,undef
+26269596781,45.772761,4.831854,41,pasted paper lyon france streetart france pasteup collage paper europe lyon wheatpaste pasted croixrousse wheatpaper,2016,4,3,17,10,355165800.0,undef
+26333371185,45.772761,4.831854,41,pasted paper lyon france streetart france pasteup collage paper europe lyon wheatpaste free pasted fings croixrousse wheatpaper frifings,2016,4,1,17,30,354994200.0,undef
+26333371145,45.772761,4.831854,41,pasted paper lyon france streetart france pasteup collage paper europe lyon wheatpaste free pasted fings croixrousse wheatpaper freefings frifing,2016,4,1,17,28,354994080.0,undef
+26219500042,45.772463,4.831762,41,fte lumires lyon lumires ftedeslumires,2015,1,3,18,34,315772440.0,undef
+26311909475,45.772877,4.831914,41,fte lumires lyon lumires ftedeslumires,2015,1,3,19,31,315775860.0,undef
+26186275662,45.772761,4.831854,41,pasted paper free fings lyon france streetart france pasteup collage paper europe lyon wheatpaste free keith pasted fings fri fing haring croixrousse wheatpaper frifing,2016,4,1,17,26,354993960.0,undef
+26186275652,45.772761,4.831854,41,pasted paper lyon france streetart france pasteup collage paper europe lyon wheatpaste free pasted fing croixrousse wheatpaper frifing frifings freefing,2016,4,3,16,53,355164780.0,undef
+26186275632,45.772761,4.831854,41,pasted paper lyon france streetart france pasteup collage paper europe lyon wheatpaste pasted avril croixrousse morue wheatpaper,2016,4,1,17,25,354993900.0,undef
+26995639455,45.772761,4.831854,41,wall installation znl lyon france streetart france wall europe lyon installation mur croixrousse znl,2016,5,9,16,33,358273980.0,undef
+26813595472,45.77279,4.831793,41,lyon monte grande cte lyon rhone montee grandecote croixrousse escalier pluie orage stair hill,2016,3,27,11,59,354542340.0,undef
+27626634192,45.772269,4.831752,41,lyon jardin grandecte france architecture garden frankreich lyon lione jardin frana rhne frankrijk francia francie frankrig lyon frankrike croixrousse rhnealpes francja jardindelagrandecte november,2015,11,15,15,17,343063020.0,undef
+27231825430,45.772761,4.831854,41,pasted paper lyon france streetart france pasteup collage paper europe lyon wheatpaste pasted croixrousse wheatpaper,2016,5,26,17,36,359746560.0,undef
+28280853811,45.772969,4.831987,41, ,2016,7,16,12,45,364135500.0,undef
+28255847912,45.773031,4.831945,41, ,2016,7,16,12,44,364135440.0,undef
+28107332435,45.772608,4.8317,41,lyon nuit debout mar film ilford leicam nuitdebout lyon croixrousse esplanade grandecte,2016,7,5,18,12,363204720.0,undef
+28956566081,45.772761,4.831854,41,stencil dav lyon france europe france lyon croixrousse streetart stencil pochoir dav,2016,7,16,20,37,364163820.0,undef
+29834846342,45.772761,4.831854,41,stencil lyon france europe france lyon croixrousse streetart stencil pochoir,2016,9,25,16,17,370282620.0,undef
+28979548374,45.772454,4.831838,41,colline prie lyon fourvire basilique glise religion sunny,2016,9,10,10,41,368966460.0,undef
+30157684315,45.772761,4.831854,41,pasted paper lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup girl wall,2016,10,6,14,3,371224980.0,undef
+31165477716,45.772761,4.831854,41,stencil lyon france europe france lyon croixrousse streetart stencil pochoir,2016,11,21,16,9,375206940.0,undef
+32923771635,45.772761,4.831854,41,pasted paper dav lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup dav,2017,2,12,17,6,382381560.0,undef
+32519819102,45.772761,4.831854,41,pasted paper snem lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup snem,2017,1,30,17,25,381259500.0,undef
+32654424425,45.772761,4.831854,41,pasted paper lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup,2017,1,30,17,24,381259440.0,undef
+31245794904,45.772761,4.831854,41,pasted paper lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup,2016,12,24,16,39,378059940.0,undef
+31245794884,45.772761,4.831854,41,wall installation intra larue lyon france europe france lyon croixrousse streetart wall mur installation intra larue intralarue,2016,12,24,16,39,378059940.0,undef
+31181160433,45.772355,4.831902,41,basilique dame fourvire canoneos dmkii france canonef mmf lisusm lyon lyon erarrondissement auvergnerhnealpes fr,2016,12,29,17,49,378496140.0,undef
+31181140743,45.772338,4.831675,41,traboules canonefs mmf usm lyon canoneos dmkii lens france lyon erarrondissement auvergnerhnealpes fr,2016,12,29,17,58,378496680.0,undef
+33704323526,45.772761,4.831854,41,stencil dav lyon france europe france lyon croixrousse streetart stencil pochoir dav,2017,3,29,16,19,386266740.0,undef
+33608149445,45.772499,4.831742,41,lyon france cloud city trip rhne heurebleue cityscape urban travel europe france dusk bluehour lyon,2017,3,21,19,13,385585980.0,undef
+34185949355,45.772761,4.831854,41,mosaic installation woup lyon france europe france lyon croixrousse streetart mur wall installation mosaic mosaique woup inthewoup,2017,4,20,18,36,388175760.0,undef
+35366649062,45.772761,4.831854,41,pasted paper lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup,2017,6,23,16,38,393698280.0,undef
+34500910333,45.772761,4.831854,41,pavement installation patte blanche lyon france europe france lyon croixrousse streetart pavement patte blanche patteblanche,2017,6,14,16,37,392920620.0,undef
+34266394254,45.772463,4.831762,41,fte lumires ftedeslumires lumires lyon,2017,6,3,12,49,391956540.0,undef
+35068097295,45.772463,4.831762,41,fte lumires ftedeslumires lumires lyon,2017,6,3,12,41,391956060.0,undef
+35068097055,45.772463,4.831762,41,fte lumires ftedeslumires lumires lyon,2017,6,3,12,36,391955760.0,undef
+35709881205,45.772492,4.831677,41, lyon basilique fourvire,2017,4,30,16,27,389032020.0,undef
+35541258272,45.772492,4.831677,41, lyon basilique fourvire,2017,4,17,16,21,387908460.0,undef
+35654516696,45.772492,4.831677,41, lyon,2016,11,26,18,5,375645900.0,undef
+34852801244,45.772492,4.831677,41, lyon fourvire,2016,11,26,18,4,375645840.0,undef
+35629571136,45.772462,4.831731,41,lyon lyon,2017,6,16,14,31,393085860.0,undef
+36803112855,45.772761,4.831854,41,stencil dav lyon france europe france lyon croixrousse streetart stencil pochoir dav,2017,8,22,16,54,398883240.0,undef
+36694710156,45.772761,4.831854,41,pasted paper ghostsurfer lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup ghostsurfer,2017,8,9,17,34,397762440.0,undef
+35821241454,45.77238,4.831755,41, ,2017,5,26,16,16,391277760.0,undef
+36646264063,45.772601,4.83175,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,41,401647260.0,undef
+37286410582,45.772565,4.831711,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,40,401647200.0,undef
+37059815280,45.772603,4.831736,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,37,401647020.0,undef
+37286398132,45.772693,4.831686,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,36,401646960.0,undef
+37458609295,45.77272,4.83176,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,36,401646960.0,undef
+36606407854,45.772695,4.831731,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,35,401646900.0,undef
+36606380234,45.772556,4.831688,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,32,401646720.0,undef
+37458562785,45.772643,4.831735,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,29,401646540.0,undef
+36606366444,45.772643,4.831735,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,29,401646540.0,undef
+37315838291,45.772643,4.831735,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,29,401646540.0,undef
+36646216913,45.77267,4.831795,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,27,401646420.0,undef
+36646213953,45.77267,4.831795,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,27,401646420.0,undef
+37059736290,45.772625,4.831721,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,27,401646420.0,undef
+36606332784,45.772605,4.831791,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,26,401646360.0,undef
+36646201833,45.77268,4.83182,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,25,401646300.0,undef
+37315810671,45.772583,4.83169,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,24,401646240.0,undef
+37286311112,45.772686,4.83182,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,22,401646120.0,undef
+37315792451,45.772915,4.83199,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,22,401646120.0,undef
+37268564116,45.772711,4.831826,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,22,401646120.0,undef
+37059698460,45.772443,4.831716,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,21,401646060.0,undef
+37286292482,45.772506,4.831755,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,21,401646060.0,undef
+37286285892,45.772373,4.831736,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,20,401646000.0,undef
+37268528866,45.772373,4.831736,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,20,401646000.0,undef
+36605602144,45.772393,4.831681,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,18,401645880.0,undef
+36645478493,45.772393,4.831681,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,18,401645880.0,undef
+37058903660,45.77247,4.831641,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,16,401645760.0,undef
+37285494822,45.77247,4.831641,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,15,401645700.0,undef
+37058891660,45.77247,4.831641,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,15,401645700.0,undef
+37267661956,45.77247,4.831641,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,15,401645700.0,undef
+36605486224,45.77247,4.831641,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,14,401645640.0,undef
+37457684485,45.77247,4.831641,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,14,401645640.0,undef
+36605468144,45.77247,4.831641,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,14,401645640.0,undef
+37457674955,45.77247,4.831641,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,14,401645640.0,undef
+36605454284,45.77247,4.831641,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,14,401645640.0,undef
+37267636216,45.772638,4.831785,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,12,401645520.0,undef
+36605438994,45.772633,4.831753,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,12,401645520.0,undef
+36645325553,45.772606,4.83178,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,12,401645520.0,undef
+37267618566,45.772486,4.831825,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,11,401645460.0,undef
+37267611696,45.772625,4.831685,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,9,401645340.0,undef
+36605416404,45.772716,4.831741,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,9,401645340.0,undef
+37285399472,45.772703,4.8317,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,9,401645340.0,undef
+37457618795,45.772703,4.8317,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,8,401645280.0,undef
+37457613275,45.772588,4.831675,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,7,401645220.0,undef
+36605383934,45.772588,4.831675,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,7,401645220.0,undef
+36645275413,45.772615,4.831811,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,7,401645220.0,undef
+37267575676,45.772615,4.831811,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,7,401645220.0,undef
+37058425470,45.772646,4.831823,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,7,401645220.0,undef
+37058419320,45.772646,4.831823,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,7,401645220.0,undef
+37267221836,45.772616,4.831701,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,7,401645220.0,undef
+36604953504,45.772513,4.831853,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,5,401645100.0,undef
+37267211386,45.772513,4.831853,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,5,401645100.0,undef
+36644849203,45.77258,4.831741,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,5,401645100.0,undef
+37267201686,45.77254,4.831735,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,4,401645040.0,undef
+37457241675,45.77262,4.831803,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,4,401645040.0,undef
+36604928044,45.772551,4.831803,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,3,401644980.0,undef
+37272548422,45.772551,4.831803,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,3,401644980.0,undef
+37272547152,45.77258,4.831736,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,3,401644980.0,undef
+36625813253,45.772325,4.83181,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,19,401645940.0,undef
+37272545902,45.772568,4.831758,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,3,401644980.0,undef
+37302008581,45.772596,4.831766,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,2,401644920.0,undef
+36592437164,45.772596,4.831766,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,2,401644920.0,undef
+37302001981,45.772488,4.831711,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,1,401644860.0,undef
+37301999111,45.772603,4.831856,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,1,401644860.0,undef
+37301995051,45.772503,4.831758,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,15,57,401644620.0,undef
+37301990301,45.772543,4.831763,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,15,56,401644560.0,undef
+36592424264,45.772543,4.831735,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,15,56,401644560.0,undef
+36592421284,45.772476,4.831755,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,15,53,401644380.0,undef
+36592417014,45.772493,4.831843,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,15,53,401644380.0,undef
+37254708716,45.772493,4.831843,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,15,53,401644380.0,undef
+37444682745,45.772531,4.831823,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,15,53,401644380.0,undef
+37249232916,45.772618,4.831838,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,15,51,401644260.0,undef
+37267004932,45.772618,4.831838,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,15,51,401644260.0,undef
+37040578190,45.772638,4.831886,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,15,47,401644020.0,undef
+37040572770,45.77265,4.831811,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,15,46,401643960.0,undef
+37040568960,45.772543,4.831906,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,15,46,401643960.0,undef
+37040565060,45.772543,4.831906,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,15,45,401643900.0,undef
+36626435453,45.772401,4.83182,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,15,43,401643780.0,undef
+36626433523,45.772506,4.831833,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,15,41,401643660.0,undef
+36626431663,45.772506,4.831833,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,15,41,401643660.0,undef
+36586379934,45.772506,4.831833,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,15,41,401643660.0,undef
+37249200346,45.772506,4.831833,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,15,40,401643600.0,undef
+37249196126,45.772506,4.831833,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,15,40,401643600.0,undef
+37266961342,45.772506,4.831833,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,15,39,401643540.0,undef
+37266956282,45.772506,4.831833,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,15,38,401643480.0,undef
+37040510600,45.772506,4.831833,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,15,38,401643480.0,undef
+37266580442,45.772523,4.831941,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,15,38,401643480.0,undef
+37266575622,45.772523,4.831941,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,15,38,401643480.0,undef
+37266570512,45.772551,4.831776,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,15,37,401643420.0,undef
+37438460185,45.772611,4.831903,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,15,37,401643420.0,undef
+36626016923,45.77263,4.831895,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,15,36,401643360.0,undef
+37295807721,45.772788,4.831933,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,15,35,401643300.0,undef
+37040011170,45.772788,4.831933,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,15,35,401643300.0,undef
+37039999820,45.772746,4.831981,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,15,35,401643300.0,undef
+36891718510,45.772761,4.831854,41,pasted paper lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup,2017,9,17,18,33,401135580.0,undef
+24211677978,45.772477,4.831742,41, lyon auvergnerhnealpes frankreich fr france rhnealpes nikon v nikkor mmf vr nikkor,2017,4,16,11,36,387804960.0,undef
+37965405256,45.772813,4.831869,41,see eat lyon auvergnerhnealpes france fr croixrousse zombiewalk eos patman photomobile,2017,9,23,15,52,401644320.0,undef
+24154255728,45.772838,4.831849,41,grandecte sergepapin papouli lyon croixrousse france,2017,10,29,7,50,404725800.0,undef
+37878038506,45.772563,4.83173,41,beast lyon auvergnerhnealpes france fr croixrousse zombiewalk eos patman photomobile,2017,9,23,14,32,401639520.0,undef
+36645320593,45.772606,4.83178,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,12,401645520.0,undef
+37058415440,45.772646,4.831823,41,zombie walk revolution croixrousse europe france lyon place revolution walk zombie,2017,9,23,16,7,401645220.0,undef
+26568518579,45.772761,4.831854,41,stencil dav lyon france europe france lyon croixrousse streetart stencil pochoir dav,2017,11,6,16,29,405448140.0,undef
+37843915276,45.772433,4.83195,41, ,2017,8,28,16,47,399401220.0,undef
+37181251874,45.772433,4.83195,41, ,2017,8,28,16,47,399401220.0,undef
+24039012038,45.772433,4.83195,41, ,2017,8,28,16,47,399401220.0,undef
+31185205620,45.772761,4.831854,41,stencil dav lyon france europe france lyon croixrousse streetart stencil pochoir dav,2016,12,9,16,19,376762740.0,undef
+30591965524,45.772477,4.83172,41,lyon paris novembre jour lyon paris novembre jour,2016,11,25,17,52,375558720.0,undef
+31377145026,45.772477,4.83172,41,lyon paris novembre jour lyon paris novembre jour,2016,11,25,18,10,375559800.0,undef
+31043936980,45.772477,4.83172,41,lyon paris novembre jour lyon paris novembre jour,2016,11,25,18,12,375559920.0,undef
+31376822696,45.772477,4.83172,41,lyon paris novembre jour lyon paris novembre jour,2016,11,25,18,15,375560100.0,undef
+40269744441,45.772851,4.831924,41,stencil adelsa lyon france europe france lyon croixrousse streetart stencil pochoir adelsa,2018,1,29,16,9,412704540.0,undef
+40269744231,45.772851,4.831924,41,stencil dav lyon france europe france lyon croixrousse streetart stencil dav pochoir,2018,1,29,15,54,412703640.0,undef
+39042368094,45.772761,4.831854,41,pasted paper adelsa lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup adelsa,2018,1,9,15,46,410975160.0,undef
+38815543365,45.772761,4.831854,41,stencil adelsa lyon france europe france lyon croixrousse streetart stencil pochoir rose adelsa pine,2018,1,9,15,43,410974980.0,undef
+39448516131,45.7725,4.831666,41,lyon croixrousse pentes ,2018,1,1,12,12,410271120.0,undef
+39448513291,45.7725,4.831666,41,lyon croixrousse pentes ,2018,1,1,12,14,410271240.0,undef
+25567300298,45.772761,4.831854,41,stencil dav lyon france europe france lyon croixrousse stencil pochoir dav,2017,12,23,15,53,409506780.0,undef
+38547304345,45.7725,4.831666,41,lyon monte grandcte lyon france croixrousse montedelagrandecte streetart pochoir macron,2018,1,1,12,14,410271240.0,undef
+39270545311,45.772613,4.83188,41,genius scala lyon ftedeslumires,2017,12,8,20,49,408228540.0,undef
+38059182725,45.772761,4.831854,41,pasted paper adelsa lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup adelsa garcia lorca,2017,12,4,15,0,407862000.0,undef
+40372307744,45.772851,4.831924,41,pasted paper parvati lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup parvati,2018,3,17,17,6,416768760.0,undef
+41781888431,45.772397,4.831777,41, ,2018,4,14,18,58,419194680.0,undef
+41781866491,45.772819,4.832036,41, ,2018,4,21,21,11,419807460.0,undef
+27913662238,45.772408,4.83188,41, ,2018,4,14,18,57,419194620.0,undef
+41592507382,45.772851,4.831924,41,stencil adelsa lyon france europe france lyon croixrousse streetart stencil pochoir adelsa,2018,3,25,17,53,417462780.0,undef
+40743449974,45.772851,4.831924,41,pasted paper adelsa lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup adelsa,2018,4,2,15,55,418146900.0,undef
+40132135425,45.772481,4.831731,41,trader jacquesmeynierdemalviala trader,2018,3,25,20,56,417473760.0,undef
+42151464642,45.772851,4.831924,41,pasted paper bonno lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup bonno,2018,5,1,18,55,420663300.0,undef
+28264246808,45.772851,4.831924,41,pasted paper lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup,2018,5,1,18,54,420663240.0,undef
+28264246848,45.772851,4.831924,41,pasted paper omalley lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup omalley,2018,5,1,17,51,420659460.0,undef
+28693239608,45.772851,4.831924,41,pasted paper lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup,2018,5,18,17,49,422128140.0,undef
+27668368267,45.772341,4.831788,41,voie trace croixrousse europe france jardindelagrandecte lyon rhnealpes world blue bluehour city cityscape dusk night nightphotography nightscape park town tree twilight rhonealpes,2013,7,20,21,54,269819640.0,undef
+44311923932,45.772797,4.831755,41, ,2018,8,24,18,36,430598160.0,undef
+42387828160,45.772658,4.831841,41, ,2018,7,29,9,31,428319060.0,undef
+30019576518,45.772436,4.831669,41,lyon jpg lyon france,2018,7,2,11,28,425993280.0,undef
+44255752464,45.772851,4.831924,41,wall installation lyon france europe france lyon croixrousse streetart wall mur installation,2018,9,26,13,46,433431960.0,undef
+44771127001,45.772851,4.831924,41,pasted paper loul lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup loul fleurs flower,2018,9,10,16,58,432061080.0,undef
+29810494617,45.772851,4.831924,41,wall installation spirale art lyon france europe france lyon croixrousse streetart wall mur installation spirale art,2018,9,7,17,7,431802420.0,undef
+29726195077,45.772851,4.831924,41,pasted paper big mask lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup big mask bigmaske,2018,8,31,16,27,431195220.0,undef
+29642787187,45.772851,4.831924,41,pasted paper opaf lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup opaf,2018,8,25,17,7,430679220.0,undef
+44677115655,45.772608,4.831852,41,sneaker luv ,2018,10,28,3,38,436160280.0,undef
+44488519784,45.772851,4.831924,41,pasted paper blackmomille lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup black foujita momille blackmomille,2018,10,8,16,13,434477580.0,undef
+27158273829,45.772447,4.831861,41,lyon fte lumires jardin grande cte genius scala ,2017,12,7,23,6,408150360.0,undef
+24070598897,45.772444,4.831861,41,lyon fte lumires jardin grande cte genius scala ,2017,12,7,23,6,408150360.0,undef
+38935436421,45.772444,4.831863,41,lyon fte lumires jardin grande cte genius scala ,2017,12,7,23,6,408150360.0,undef
+38935424881,45.772444,4.831863,41,lyon fte lumires jardin grande cte genius scala ,2017,12,7,23,6,408150360.0,undef
+47013178212,45.772851,4.831924,41,pasted paper maudite marde lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup maudite marde,2019,1,27,15,52,444066720.0,undef
+33134419228,45.772851,4.831924,41,pasted paper karayaga lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup karayaga,2019,1,16,16,20,443118000.0,undef
+39933652433,45.772851,4.831924,41,pasted paper omalley lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup omalley,2019,1,18,16,13,443290380.0,undef
+46769767731,45.772851,4.831924,41,pasted paper omalley lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup omalley,2019,1,13,17,0,442861200.0,undef
+44701292850,45.772851,4.831924,41,pasted paper theo hagga lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup theo hagga,2018,12,28,16,28,441476880.0,undef
+31515924077,45.7725,4.831666,41,lyon croixrousse streetart omalley lyon streetart lyonstreetart pastedpaper collage omalley,2018,12,16,15,26,440436360.0,undef
+46385452901,45.772851,4.831924,41,pasted paper erpi x black messenger lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup erpi black messenger blkm,2018,12,12,16,24,440094240.0,undef
+31419145687,45.772851,4.831924,41,pasted paper omalley lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup omalley,2018,12,12,16,24,440094240.0,undef
+31419145597,45.772851,4.831924,41,pasted paper culkeeen lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup culkeeen,2018,12,12,16,25,440094300.0,undef
+46227995642,45.772851,4.831924,41,pasted paper omalley lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup omalley,2018,12,7,15,21,439658460.0,undef
+47488447191,45.772851,4.831924,41,wall installation yp lyon france europe france lyon croixrousse streetart wall mur installation yep,2019,3,2,17,0,447008400.0,undef
+47488447211,45.772851,4.831924,41,pasted paper ghostsurfer lyon france europe france lyon croixrousse streetart pasted paper pastedup collage wheatpaste wheatpaper ghostsurfer,2019,3,2,17,0,447008400.0,undef
+46730354325,45.772851,4.831924,41,wall installation spirale art lyon france europe france lyon croixrousse streetart wall mur installation spirale art,2019,3,25,17,2,448995720.0,undef
+47961224328,45.772851,4.831924,41,pasted paper nino x adelsa lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup adelsa,2019,5,20,18,6,453837960.0,undef
+47961248686,45.772851,4.831924,41,pasted paper barclay lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup barclay,2019,5,20,18,4,453837840.0,undef
+46994780245,45.772851,4.831924,41,pasted paper maudite marde lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup maudite marde,2019,5,10,19,25,452978700.0,undef
+47113290044,45.772851,4.831924,41,pasted paper maudite marde lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup maudite marde,2019,5,10,19,26,452978760.0,undef
+47830895982,45.77238,4.831755,41, ,2017,5,26,16,16,391277760.0,undef
+32892070897,45.772851,4.831924,41,wall installation barclay lyon france europe france lyon croixrousse streetart wall mur installation barclay,2019,4,28,17,6,451933560.0,undef
+32892070747,45.772851,4.831924,41,pasted paper maudite marde lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup maudite marde,2019,4,28,17,3,451933380.0,undef
+47031443174,45.772851,4.831924,41,pasted paper maudite marde lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup maudite marde,2019,4,13,16,46,450636360.0,undef
+47029569944,45.772447,4.831808,41,p jpg extrieur vuepanoramique ciel lyon rhne france,2019,5,2,14,21,452269260.0,undef
+48069090943,45.772851,4.831924,41,sticker lyon france europe france lyon croixrousse streetart sticker,2019,6,9,18,53,455568780.0,undef
+48302783457,45.772851,4.831924,41,pasted paper maudite marde lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup maudite marde,2019,6,26,18,34,457036440.0,undef
+48293305811,45.772851,4.831924,41,pasted paper maudite marde lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup maudite marde,2019,6,26,18,33,457036380.0,undef
+48284429477,45.772851,4.831924,41,pasted paper maudite marde lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup maudite marde,2019,6,26,18,28,457036080.0,undef
+48632569561,45.772851,4.831924,41,wall installation mateo lyon france europe france lyon croixrousse streetart wall mur mateo installation,2019,7,10,18,35,458246100.0,undef
+48612801612,45.772971,4.831978,41, rue street ville city lyon france nb bw monochrome mur wall femme woman canon mm,2019,7,16,10,30,458735400.0,undef
+48604556812,45.772777,4.831944,41,lyon streetart pentes croixrousse totold france pastedpaper collage rhne lyoncroixrousse pentesdelacroixrousse streetart urbanart streetartlyon loopcolors graffiti streetartcity facade spraypaint facadelovers cityinstreet facadeporn streetsstorytelling facadehunters urbanphotography urbanpoetry urbanexploration urbanromantix streetartphotography mural muralsdaily streetartofficial lifeisstreet fromstreetswithlove capturestreets streetexploration streetartpicture,2019,8,16,15,8,461430480.0,undef
+48451818297,45.772877,4.831914,41,fte lumires ftedeslumires lumires lyon,2019,8,4,9,42,460374120.0,undef
+48800384321,45.772851,4.831924,41,pasted paper line street lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup line street,2019,8,11,19,22,461013720.0,undef
+48800036163,45.772851,4.831924,41,eye wall lyon france europe france lyon croixrousse streetart eye wall mur,2019,8,11,19,27,461014020.0,undef
+48761226996,45.772851,4.831924,41,pasted paper line street lyon france europe france lyon streetart wheatpaste wheatpaper collage pasted paper pasteup line street,2019,8,11,18,44,461011440.0,undef
+48761226941,45.772851,4.831924,41,pasted paper polka lyon france europe france lyon streetart wheatpaste wheatpaper collage pasted paper pasteup polka,2019,8,11,18,41,461011260.0,undef
+48661664558,45.772851,4.831924,41,pasted paper heho lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup heho,2019,7,12,15,52,458409120.0,undef
+48915703617,45.772851,4.831924,41,pasted paper heho lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup heho club,2019,9,9,18,22,463515720.0,undef
+48904938613,45.772851,4.831924,41,pasted papoer adelsa lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup adelsa,2019,9,15,18,21,464034060.0,undef
+48857616313,45.772441,4.83186,41,france lyon view croix rousse france lyon sketch drawing dessin croquis urbansketch urbansketcher urbansketchers carnetdevoyage,2019,2,24,10,23,446466180.0,undef
+49086751011,45.772851,4.831924,41,pasted paper lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup,2019,10,12,16,18,466359480.0,undef
+49086965572,45.772851,4.831924,41,pasted paper fontencomble lyon france europe france lyon croixrousse streetart wheatpaste wheatpaper collage pasted paper pasteup fontencomble,2019,10,12,15,59,466358340.0,undef
+49063586343,45.7725,4.831944,41,lyon streetart ,2019,11,10,15,4,468860640.0,undef
+49063586093,45.7725,4.831944,41,lyon streetart ,2019,11,10,15,4,468860640.0,undef
+49044110682,45.7725,4.831944,41,lyon streetart ,2019,11,10,15,3,468860580.0,undef

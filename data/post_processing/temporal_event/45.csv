@@ -1,0 +1,56 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+4471093068,45.766172,4.827096,45,bike tarkastad lyon france vlo,2010,3,26,18,32,165090720.0,undef,2010-03-26 18:32:00
+4772112562,45.766246,4.827075,45,lev dclairage public street city night dark lyon bokeh sombre ruelle rue nuit urbain thedigitalfly lotfidakhli ruellesombre,2010,6,29,21,8,173308080.0,undef,2010-06-29 21:08:00
+5161572847,45.766265,4.827053,45,lyon irisbus cristalis saint paul ,2010,11,9,20,23,184796580.0,undef,2010-11-09 20:23:00
+6842674262,45.766333,4.827,45, ,2009,7,11,11,25,142773900.0,undef,2009-07-11 11:25:00
+6988798261,45.766333,4.827,45, ,2009,7,11,11,25,142773900.0,undef,2009-07-11 11:25:00
+6988797919,45.766333,4.827,45, ,2009,7,11,11,25,142773900.0,undef,2009-07-11 11:25:00
+6988797617,45.766333,4.827,45, ,2009,7,11,11,25,142773900.0,undef,2009-07-11 11:25:00
+11777929716,45.766241,4.827052,45,lyon church structure structuresarchitecture lyon rhonealpes france,2013,7,14,12,5,269265900.0,undef,2013-07-14 12:05:00
+14592925850,45.766276,4.827037,45,lyon lyon,2014,3,21,17,52,290886720.0,undef,2014-03-21 17:52:00
+23232565584,45.766266,4.827094,45,lyon france france lyon,2014,5,30,10,19,296907540.0,undef,2014-05-30 10:19:00
+31284050674,45.76616,4.827075,45, decembre decembre fete fetedeslumieres gare lumiere lumieres lyon paul saint saintpaul france,2016,12,10,0,27,376792020.0,undef,2016-12-10 00:27:00
+31315250163,45.76616,4.827075,45, decembre decembre fete fetedeslumieres gare lumiere lumieres lyon paul saint saintpaul france,2016,12,10,0,28,376792080.0,undef,2016-12-10 00:28:00
+31976623172,45.76616,4.827075,45, decembre decembre fete fetedeslumieres gare lumiere lumieres lyon paul saint saintpaul france,2016,12,10,0,26,376791960.0,undef,2016-12-10 00:26:00
+32125210915,45.76616,4.827075,45, decembre decembre fete fetedeslumieres gare lumiere lumieres lyon paul saint saintpaul france,2016,12,10,0,28,376792080.0,undef,2016-12-10 00:28:00
+32086249756,45.76616,4.827075,45, decembre decembre fete fetedeslumieres gare lumiere lumieres lyon paul saint saintpaul france,2016,12,10,0,28,376792080.0,undef,2016-12-10 00:28:00
+31750109860,45.76616,4.827075,45, decembre decembre fete fetedeslumieres gare lumiere lumieres lyon paul saint saintpaul france,2016,12,10,0,30,376792200.0,undef,2016-12-10 00:30:00
+31315249553,45.76616,4.827075,45, decembre decembre fete fetedeslumieres gare lumiere lumieres lyon paul saint saintpaul france,2016,12,10,0,30,376792200.0,undef,2016-12-10 00:30:00
+32086249146,45.76616,4.827075,45, decembre decembre fete fetedeslumieres gare lumiere lumieres lyon paul saint saintpaul france,2016,12,10,0,32,376792320.0,undef,2016-12-10 00:32:00
+31976620942,45.76616,4.827075,45, decembre decembre fete fetedeslumieres gare lumiere lumieres lyon paul saint saintpaul france,2016,12,10,0,31,376792260.0,undef,2016-12-10 00:31:00
+32086248346,45.76616,4.827075,45, decembre decembre fete fetedeslumieres gare lumiere lumieres lyon paul saint saintpaul france,2016,12,10,0,32,376792320.0,undef,2016-12-10 00:32:00
+31750109360,45.76616,4.827075,45, decembre decembre fete fetedeslumieres gare lumiere lumieres lyon paul saint saintpaul france,2016,12,10,0,32,376792320.0,undef,2016-12-10 00:32:00
+31315249013,45.76616,4.827075,45, decembre decembre fete fetedeslumieres gare lumiere lumieres lyon paul saint saintpaul france,2016,12,10,0,32,376792320.0,undef,2016-12-10 00:32:00
+31315239583,45.76616,4.827075,45, decembre decembre fete fetedeslumieres gare lumiere lumieres lyon paul saint saintpaul france,2016,12,10,0,30,376792200.0,undef,2016-12-10 00:30:00
+32086238626,45.76616,4.827075,45, decembre decembre fete fetedeslumieres gare lumiere lumieres lyon paul saint saintpaul france,2016,12,10,0,32,376792320.0,undef,2016-12-10 00:32:00
+38629741522,45.766203,4.82716,45,rue lanternes lyon,2017,11,26,17,28,407179680.0,undef,2017-11-26 17:28:00
+27218198358,45.76616,4.827075,45, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,9,408316140.0,undef,2017-12-09 21:09:00
+39282045920,45.76616,4.827075,45, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,9,408316140.0,undef,2017-12-09 21:09:00
+40196669345,45.76616,4.827075,45, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,3,408315780.0,undef,2017-12-09 21:03:00
+27218198408,45.76616,4.827075,45, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul,2017,12,9,21,9,408316140.0,undef,2017-12-09 21:09:00
+41047646262,45.76616,4.827075,45, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,8,408316080.0,undef,2017-12-09 21:08:00
+27218198298,45.76616,4.827075,45, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul,2017,12,9,21,12,408316320.0,undef,2017-12-09 21:12:00
+41047646082,45.76616,4.827075,45, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul,2017,12,9,21,11,408316260.0,undef,2017-12-09 21:11:00
+39282045650,45.76616,4.827075,45, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,12,408316320.0,undef,2017-12-09 21:12:00
+41047645652,45.76616,4.827075,45, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul,2018,3,29,11,33,417785580.0,undef,2018-03-29 11:33:00
+41047645362,45.76616,4.827075,45, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul,2018,3,29,11,33,417785580.0,undef,2018-03-29 11:33:00
+27218198138,45.76616,4.827075,45, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,14,408316440.0,undef,2017-12-09 21:14:00
+27218198208,45.76616,4.827075,45, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,13,408316380.0,undef,2017-12-09 21:13:00
+41047645912,45.76616,4.827075,45, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,14,408316440.0,undef,2017-12-09 21:14:00
+27218198058,45.76616,4.827075,45, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,15,408316500.0,undef,2017-12-09 21:15:00
+39282045010,45.76616,4.827075,45, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul,2017,12,9,21,16,408316560.0,undef,2017-12-09 21:16:00
+27218197778,45.76616,4.827075,45, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,17,408316620.0,undef,2017-12-09 21:17:00
+40381518894,45.76616,4.827075,45, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul,2018,3,29,11,32,417785520.0,undef,2018-03-29 11:32:00
+27218190848,45.76616,4.827075,45, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul,2017,12,9,21,9,408316140.0,undef,2017-12-09 21:09:00
+27218190708,45.76616,4.827075,45, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,13,408316380.0,undef,2017-12-09 21:13:00
+40381518794,45.76616,4.827075,45, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,14,408316440.0,undef,2017-12-09 21:14:00
+40381519074,45.76616,4.827075,45, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,8,408316080.0,undef,2017-12-09 21:08:00
+40381518574,45.76616,4.827075,45, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,15,408316500.0,undef,2017-12-09 21:15:00
+27218190598,45.76616,4.827075,45, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,15,408316500.0,undef,2017-12-09 21:15:00
+27218190518,45.76616,4.827075,45, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,16,408316560.0,undef,2017-12-09 21:16:00
+40381518384,45.76616,4.827075,45, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul,2017,12,9,21,16,408316560.0,undef,2017-12-09 21:16:00
+27218190458,45.76616,4.827075,45, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,17,408316620.0,undef,2017-12-09 21:17:00
+40381518184,45.76616,4.827075,45, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul,2017,12,9,21,18,408316680.0,undef,2017-12-09 21:18:00
+39282045430,45.76616,4.827075,45, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,14,408316440.0,undef,2017-12-09 21:14:00
+27218197898,45.76616,4.827075,45, decembre decembre fete fetedeslumieres lumiere lumieres lyon saintpaul france,2017,12,9,21,16,408316560.0,undef,2017-12-09 21:16:00
+43586121044,45.766183,4.827155,45, ,2018,8,26,17,2,430765320.0,undef,2018-08-26 17:02:00

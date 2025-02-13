@@ -1,0 +1,63 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken,year_month
+4175319526,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,23,58,155519880.0,Événement Temporaire,2009-12-05 23:58:00,2009-12
+4174558891,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,23,56,155519760.0,Événement Temporaire,2009-12-05 23:56:00,2009-12
+4175317050,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,23,56,155519760.0,Événement Temporaire,2009-12-05 23:56:00,2009-12
+4175315676,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,23,54,155519640.0,Événement Temporaire,2009-12-05 23:54:00,2009-12
+4175313344,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,23,48,155519280.0,Événement Temporaire,2009-12-05 23:48:00,2009-12
+4175310646,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,23,19,155517540.0,Événement Temporaire,2009-12-05 23:19:00,2009-12
+4175304134,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,22,52,155515920.0,Événement Temporaire,2009-12-05 22:52:00,2009-12
+4175302634,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,22,48,155515680.0,Événement Temporaire,2009-12-05 22:48:00,2009-12
+4174541061,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,22,46,155515560.0,Événement Temporaire,2009-12-05 22:46:00,2009-12
+4175298032,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,22,45,155515500.0,Événement Temporaire,2009-12-05 22:45:00,2009-12
+4174536313,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,22,43,155515380.0,Événement Temporaire,2009-12-05 22:43:00,2009-12
+4174534291,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,22,41,155515260.0,Événement Temporaire,2009-12-05 22:41:00,2009-12
+4174530361,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,22,10,155513400.0,Événement Temporaire,2009-12-05 22:10:00,2009-12
+4175286508,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,22,10,155513400.0,Événement Temporaire,2009-12-05 22:10:00,2009-12
+4174524289,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,22,9,155513340.0,Événement Temporaire,2009-12-05 22:09:00,2009-12
+4175280152,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,22,9,155513340.0,Événement Temporaire,2009-12-05 22:09:00,2009-12
+4175276840,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,22,7,155513220.0,Événement Temporaire,2009-12-05 22:07:00,2009-12
+4175273494,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,22,6,155513160.0,Événement Temporaire,2009-12-05 22:06:00,2009-12
+4175270144,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,22,6,155513160.0,Événement Temporaire,2009-12-05 22:06:00,2009-12
+4174507613,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,22,5,155513100.0,Événement Temporaire,2009-12-05 22:05:00,2009-12
+4174504455,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,22,4,155513040.0,Événement Temporaire,2009-12-05 22:04:00,2009-12
+4174492453,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,21,55,155512500.0,Événement Temporaire,2009-12-05 21:55:00,2009-12
+4174489875,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,21,55,155512500.0,Événement Temporaire,2009-12-05 21:55:00,2009-12
+4175247060,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,21,54,155512440.0,Événement Temporaire,2009-12-05 21:54:00,2009-12
+4175240954,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,21,49,155512140.0,Événement Temporaire,2009-12-05 21:49:00,2009-12
+4175238558,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,21,47,155512020.0,Événement Temporaire,2009-12-05 21:47:00,2009-12
+4175236270,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,21,40,155511600.0,Événement Temporaire,2009-12-05 21:40:00,2009-12
+4174475507,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,21,39,155511540.0,Événement Temporaire,2009-12-05 21:39:00,2009-12
+4174473477,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,21,39,155511540.0,Événement Temporaire,2009-12-05 21:39:00,2009-12
+4174471439,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,21,36,155511360.0,Événement Temporaire,2009-12-05 21:36:00,2009-12
+4175227412,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,21,23,155510580.0,Événement Temporaire,2009-12-05 21:23:00,2009-12
+4175225078,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,21,22,155510520.0,Événement Temporaire,2009-12-05 21:22:00,2009-12
+4174464585,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,20,47,155508420.0,Événement Temporaire,2009-12-05 20:47:00,2009-12
+4174462363,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,20,47,155508420.0,Événement Temporaire,2009-12-05 20:47:00,2009-12
+4175217752,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,20,44,155508240.0,Événement Temporaire,2009-12-05 20:44:00,2009-12
+4175215412,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,20,43,155508180.0,Événement Temporaire,2009-12-05 20:43:00,2009-12
+4175208408,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,19,59,155505540.0,Événement Temporaire,2009-12-05 19:59:00,2009-12
+4175205544,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,19,58,155505480.0,Événement Temporaire,2009-12-05 19:58:00,2009-12
+4175165804,45.757568,4.832739,335,lyon fte lumies ,2009,12,5,18,54,155501640.0,Événement Temporaire,2009-12-05 18:54:00,2009-12
+5090542349,45.757687,4.832782,335,lyon fourvire depuis bellecour ,2009,12,5,17,32,155496720.0,Événement Temporaire,2009-12-05 17:32:00,2009-12
+5737585524,45.757519,4.832831,335,ghost france silhouette place lyon ghost fantome bellecour vaporeux,2009,12,7,1,11,155610660.0,Événement Temporaire,2009-12-07 01:11:00,2009-12
+25684778416,45.757666,4.832666,335,francia lione fete lumieres dame fourviere panorama lione chiesa vista francia citta citt feste star festedelleluci,2009,12,6,11,58,155563080.0,Événement Temporaire,2009-12-06 11:58:00,2009-12
+25409995860,45.757666,4.832666,335,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,7,155506020.0,Événement Temporaire,2009-12-05 20:07:00,2009-12
+25710733175,45.757666,4.832666,335,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,7,155506020.0,Événement Temporaire,2009-12-05 20:07:00,2009-12
+25615683241,45.757666,4.832666,335,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,5,155505900.0,Événement Temporaire,2009-12-05 20:05:00,2009-12
+25684677746,45.757666,4.832666,335,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,6,155505960.0,Événement Temporaire,2009-12-05 20:06:00,2009-12
+25409977950,45.757666,4.832666,335,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,4,155505840.0,Événement Temporaire,2009-12-05 20:04:00,2009-12
+25409971780,45.757666,4.832666,335,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,2,155505720.0,Événement Temporaire,2009-12-05 20:02:00,2009-12
+25615524401,45.757666,4.832666,335,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star festedelleluci,2009,12,5,16,39,155493540.0,Événement Temporaire,2009-12-05 16:39:00,2009-12
+25083965513,45.757666,4.832666,335,francia lione fete lumieres place bellecour lione piazza francia citta citt feste star festedelleluci,2009,12,5,16,38,155493480.0,Événement Temporaire,2009-12-05 16:38:00,2009-12
+25083963633,45.757666,4.832666,335,francia lione fete lumieres place bellecour lione piazza francia citta citt feste star festedelleluci,2009,12,5,16,36,155493360.0,Événement Temporaire,2009-12-05 16:36:00,2009-12
+25589530622,45.757666,4.832666,335,francia lione fete lumieres place bellecour lione piazza francia citta citt feste star festedelleluci,2009,12,5,16,33,155493180.0,Événement Temporaire,2009-12-05 16:33:00,2009-12
+25589701982,45.757666,4.832666,335,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,5,155505900.0,Événement Temporaire,2009-12-05 20:05:00,2009-12
+25710725205,45.757666,4.832666,335,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,4,155505840.0,Événement Temporaire,2009-12-05 20:04:00,2009-12
+25409984050,45.757666,4.832666,335,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,5,155505900.0,Événement Temporaire,2009-12-05 20:05:00,2009-12
+25710724565,45.757666,4.832666,335,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,4,155505840.0,Événement Temporaire,2009-12-05 20:04:00,2009-12
+25710718155,45.757666,4.832666,335,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,4,155505840.0,Événement Temporaire,2009-12-05 20:04:00,2009-12
+25710717245,45.757666,4.832666,335,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,4,155505840.0,Événement Temporaire,2009-12-05 20:04:00,2009-12
+25684661196,45.757666,4.832666,335,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,3,155505780.0,Événement Temporaire,2009-12-05 20:03:00,2009-12
+25684658856,45.757666,4.832666,335,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,2,155505720.0,Événement Temporaire,2009-12-05 20:02:00,2009-12
+25409966500,45.757666,4.832666,335,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,1,155505660.0,Événement Temporaire,2009-12-05 20:01:00,2009-12
+25080142514,45.757666,4.832666,335,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,16,34,155493240.0,Événement Temporaire,2009-12-05 16:34:00,2009-12

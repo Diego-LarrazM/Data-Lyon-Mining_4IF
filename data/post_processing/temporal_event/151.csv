@@ -1,0 +1,173 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+5494264843,45.761975,4.821291,151,imag lyon ,2011,2,24,11,29,-1.225546695009832,undef
+5242851953,45.761819,4.821249,151,notredame fourviere rooftop notredamedefourviere,2010,4,12,12,6,-1.537880797839173,undef
+8468180021,45.762115,4.821324,151, france lyon,2012,12,9,9,54,-0.5832120965626489,undef
+8927141905,45.762044,4.821327,151,basilica notredame fourvire france lyon basilicaofnotredamedefourvire nikond ragavannatarajan,2013,6,1,12,48,-0.4121798046041967,undef
+9545074173,45.762166,4.821333,151,montmartre ,2013,7,19,9,29,-0.365166967916438,undef
+9532226812,45.762166,4.821333,151,lyon ,2013,7,19,9,29,-0.365166967916438,undef
+13236243865,45.762033,4.821213,151,lyon france lyon francja,2014,3,9,12,23,-0.136181213225408,undef
+14988578995,45.761999,4.821302,151,basilique france europe lyon fourvire,2014,8,17,11,9,0.0219125043320139,undef
+14988216392,45.761999,4.821302,151,basilique france europe lyon fourvire,2014,8,19,11,39,0.023897492285778,undef
+14988570215,45.761999,4.821302,151,basilique france europe lyon fourvire,2014,8,17,11,24,0.0219227362286828,undef
+14983387505,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,40,0.022138288185174,undef
+14796708210,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,40,0.022138288185174,undef
+14796697450,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,42,0.0221396524380632,undef
+14796753138,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,42,0.0221396524380632,undef
+14796673030,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,44,0.0221410166909524,undef
+14796728528,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,44,0.0221410166909524,undef
+14960321306,45.761999,4.821302,151,basilique fourvire france europe lyon basilique arche fourvire basiliquedefourvire,2014,8,17,16,45,0.022141698817397,undef
+14980203411,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,46,0.0221423809438416,undef
+14796609380,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,46,0.0221423809438416,undef
+14796726327,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,48,0.0221437451967308,undef
+14982902642,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,48,0.0221437451967308,undef
+14960245416,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,48,0.0221437451967308,undef
+14796554190,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,49,0.0221444273231753,undef
+14960209026,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,50,0.0221451094496199,undef
+14980102691,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,50,0.0221451094496199,undef
+14983183265,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,50,0.0221451094496199,undef
+14982821602,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,51,0.0221457915760645,undef
+14796490730,45.761999,4.821302,151,basilique fourvire france europe lyon basilique arche fourvire basiliquedefourvire,2014,8,17,16,51,0.0221457915760645,undef
+14983147465,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,51,0.0221457915760645,undef
+14796588047,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,52,0.0221464737025091,undef
+14980021001,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,53,0.0221471558289537,undef
+14982752232,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,55,0.0221485200818429,undef
+14983096105,45.761999,4.821302,151,basilique fourvire france europe lyon basilique arche fourvire basiliquedefourvire,2014,8,17,16,56,0.0221492022082875,undef
+14982734632,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,56,0.0221492022082875,undef
+14983076385,45.761999,4.821302,151,basilique fourvire france europe lyon basilique arche fourvire basiliquedefourvire,2014,8,17,16,57,0.0221498843347321,undef
+14979973351,45.761999,4.821302,151,basilique fourvire france europe lyon basilique arche fourvire basiliquedefourvire,2014,8,17,16,58,0.0221505664611767,undef
+14982704372,45.761999,4.821302,151,basilique fourvire france europe lyon basilique arche fourvire basiliquedefourvire,2014,8,17,16,59,0.0221512485876213,undef
+14796376420,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,59,0.0221512485876213,undef
+14979943881,45.761999,4.821302,151,fourvire france europe lyon fourvire,2014,8,17,16,36,0.0221355596793956,undef
+14796486787,45.761999,4.821302,151,fourvire france europe lyon fourvire,2014,8,17,16,55,0.0221485200818429,undef
+14982670142,45.761999,4.821302,151,panorama lyon france europe lyon fourvire,2014,8,17,17,26,0.0221696660016253,undef
+14796342820,45.761999,4.821302,151,panorama lyon france europe lyon fourvire,2014,8,17,17,26,0.0221696660016253,undef
+14796461127,45.761999,4.821302,151,panorama lyon france europe lyon fourvire,2014,8,17,17,26,0.0221696660016253,undef
+14796450307,45.761999,4.821302,151,panorama lyon france europe lyon fourvire,2014,8,17,17,26,0.0221696660016253,undef
+14796310360,45.761999,4.821302,151,panorama lyon france europe lyon fourvire,2014,8,17,17,27,0.0221703481280699,undef
+14959974926,45.761999,4.821302,151,panorama lyon france europe lyon fourvire,2014,8,17,17,27,0.0221703481280699,undef
+14796415847,45.761999,4.821302,151,panorama lyon france europe lyon fourvire,2014,8,17,17,28,0.0221710302545145,undef
+14796272039,45.761999,4.821302,151,panorama lyon france europe lyon fourvire,2014,8,17,17,28,0.0221710302545145,undef
+14796336648,45.761999,4.821302,151,panorama lyon france europe lyon fourvire,2014,8,17,17,29,0.022171712380959,undef
+14796250099,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,17,0,0.0221519307140659,undef
+14982563752,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,17,1,0.0221526128405105,undef
+14796307098,45.761999,4.821302,151,basilique fourvire france europe lyon collection multiple basilique accumulation fourvire rptitions basiliquedefourvire,2014,8,17,17,2,0.0221532949669551,undef
+14796225809,45.761999,4.821302,151,basilique fourvire france europe lyon basilique arche fourvire basiliquedefourvire,2014,8,17,17,2,0.0221532949669551,undef
+14780752179,45.761999,4.821302,151,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,17,49,0.0221853549098509,undef
+14967095272,45.761999,4.821302,151,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,17,49,0.0221853549098509,undef
+14780884267,45.761999,4.821302,151,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,17,47,0.0221839906569617,undef
+14780753380,45.761999,4.821302,151,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,17,47,0.0221839906569617,undef
+14964324771,45.761999,4.821302,151,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,17,47,0.0221839906569617,undef
+14780818348,45.761999,4.821302,151,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,17,47,0.0221839906569617,undef
+14780810948,45.761999,4.821302,151,funiculaire france europe lyon rhne rhnealpes,2014,8,17,17,47,0.0221839906569617,undef
+14780722809,45.761999,4.821302,151,funiculaire france europe lyon rhne rhnealpes,2014,8,17,17,47,0.0221839906569617,undef
+14967400015,45.761999,4.821302,151,funiculaire france europe lyon rhne rhnealpes,2014,8,17,17,47,0.0221839906569617,undef
+14944416386,45.761999,4.821302,151,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,17,47,0.0221839906569617,undef
+14780846877,45.761999,4.821302,151,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,17,47,0.0221839906569617,undef
+14967047222,45.761999,4.821302,151,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,17,47,0.0221839906569617,undef
+14967378585,45.761999,4.821302,151,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,17,45,0.0221826264040725,undef
+14967036312,45.761999,4.821302,151,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,17,46,0.0221833085305171,undef
+14780633787,45.761999,4.821302,151,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,17,44,0.0221819442776279,undef
+14780500520,45.761999,4.821302,151,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,16,33,0.0221335133000619,undef
+14780480689,45.761999,4.821302,151,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,16,30,0.0221314669207281,undef
+14964063631,45.761999,4.821302,151,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,15,21,0.0220844001960512,undef
+14780558608,45.761999,4.821302,151,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,15,18,0.0220823538167174,undef
+14966807252,45.761999,4.821302,151,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,15,22,0.0220850823224958,undef
+14780474700,45.761999,4.821302,151,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,16,27,0.0221294205413943,undef
+14775210418,45.761999,4.821302,151,basilique fourvire europe france lyon fourvire basilique basiliquedefourvire art architecture patrimoine,2014,8,17,17,24,0.0221683017487361,undef
+14775270037,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,17,24,0.0221683017487361,undef
+14938801236,45.761999,4.821302,151,basilique fourvire europe france lyon fourvire basilique basiliquedefourvire art architecture patrimoine,2014,8,17,17,23,0.0221676196222915,undef
+14775253427,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,17,5,0.0221553413462888,undef
+14938778456,45.761999,4.821302,151,basilique fourvire europe france lyon fourvire basilique basiliquedefourvire art architecture patrimoine,2014,8,17,17,14,0.0221614804842902,undef
+14961777715,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,17,14,0.0221614804842902,undef
+14961413792,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,17,4,0.0221546592198442,undef
+14958160761,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,17,3,0.0221539770933996,undef
+14960874542,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,38,0.0221369239322848,undef
+14774622358,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,39,0.0221376060587294,undef
+14958104751,45.761999,4.821302,151,basilique fourvire europe france lyon fourvire basilique basiliquedefourvire sculpture statue art patrimoine histoire,2014,8,17,16,38,0.0221369239322848,undef
+14957894851,45.761999,4.821302,151,basilique fourvire france europe lyon basilique arche fourvire basiliquedefourvire,2014,8,17,16,35,0.0221348775529511,undef
+14960944515,45.761999,4.821302,151,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,37,0.0221362418058402,undef
+14732564817,45.762058,4.821371,151,damme lyon ,2014,8,12,7,55,0.0168688614006971,undef
+15689185699,45.761927,4.821194,151, ,2014,6,9,3,56,-0.0461589399532039,undef
+17735706634,45.762025,4.82133,151,croixrousse ,2015,4,25,13,40,0.2685632875586554,undef
+18358420515,45.762025,4.82133,151,croixrousse ,2015,4,25,13,38,0.2685619233057663,undef
+18357738425,45.762025,4.82133,151,croixrousse ,2015,4,25,13,36,0.268560559052877,undef
+18359223341,45.762025,4.82133,151,croixrousse ,2015,4,25,13,35,0.2685598769264324,undef
+25522011644,45.762156,4.821367,151, travel viaje outside lyon par prpura,2015,12,9,9,25,0.4923450996038892,undef
+25503159540,45.762036,4.82127,151,basilique fourvire city november autumn france building church architecture automne canon eos town novembre lyon basilica hill glise btiment ville colline basilique fourviere fourvire,2015,11,5,15,6,0.4591807939942472,undef
+26638385242,45.762164,4.821345,151,funicular saintjean saintjust lyon france france iphone france vacation,2016,4,30,16,16,0.6330889310431014,undef
+26193693022,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,18,58,0.6096251456020091,undef
+25683400213,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,19,3,0.6096285562342321,undef
+26219868741,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,19,5,0.6096299204871213,undef
+26219868411,45.761999,4.821302,151,fourvire basilique europe france rhne lyon art architecture patrimoine,2016,4,6,18,48,0.6096183243375631,undef
+26286128335,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,18,49,0.6096190064640078,undef
+25681280834,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,19,7,0.6096312847400104,undef
+26219866941,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,19,6,0.6096306026135658,undef
+26286126565,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,18,51,0.6096203707168969,undef
+26260179156,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,18,51,0.6096203707168969,undef
+26260178856,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,19,8,0.609631966866455,undef
+26013257970,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,18,41,0.609613549452451,undef
+25681278544,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,19,11,0.6096340132457888,undef
+26193686962,45.761999,4.821302,151,fourvire basilique europe france rhne lyon sculpture art patrimoine histoire,2016,4,6,19,0,0.6096265098548983,undef
+26013255920,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,19,2,0.6096278741077875,undef
+26193685832,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,19,4,0.6096292383606766,undef
+25681275674,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,19,14,0.6096360596251226,undef
+25681275664,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,18,45,0.6096162779582294,undef
+25681275034,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,18,49,0.6096190064640078,undef
+26286120925,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,19,5,0.6096299204871213,undef
+25683391123,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,19,6,0.6096306026135658,undef
+25681274364,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,19,7,0.6096312847400104,undef
+26219859941,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,18,50,0.6096196885904523,undef
+26260172896,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,18,51,0.6096203707168969,undef
+26193681782,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,18,55,0.6096230992226753,undef
+26286118035,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,19,9,0.6096326489928996,undef
+25683388553,45.761999,4.821302,151,fourvire basilique europe france rhne lyon art architecture patrimoine,2016,4,6,19,1,0.6096271919813429,undef
+25681270554,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,18,41,0.609613549452451,undef
+25681270624,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,19,11,0.6096340132457888,undef
+26260170136,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,19,3,0.6096285562342321,undef
+26260168216,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,18,48,0.6096183243375631,undef
+25683384733,45.761999,4.821302,151,fourvire basilique europe france rhne lyon art architecture patrimoine,2016,4,6,19,16,0.6096374238780118,undef
+26219853661,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,19,6,0.6096306026135658,undef
+26193676582,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,19,4,0.6096292383606766,undef
+25681266284,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,18,49,0.6096190064640078,undef
+26193675392,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,18,50,0.6096196885904523,undef
+26286111755,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,19,7,0.6096312847400104,undef
+26013244170,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,19,10,0.6096333311193441,undef
+26013243870,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,19,6,0.6096306026135658,undef
+25683380243,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,18,51,0.6096203707168969,undef
+26219848521,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,19,12,0.6096346953722334,undef
+26219848301,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,19,2,0.6096278741077875,undef
+26219848231,45.761999,4.821302,151,fourvire basilique france europe lyon rhne,2016,4,6,18,45,0.6096162779582294,undef
+28032755064,45.761991,4.82135,151,dsc dsc ,2016,7,23,12,28,0.7154434209516414,undef
+28610931675,45.761924,4.821259,151,pillar world ,2016,5,28,16,18,0.6605936335419597,undef
+29782323392,45.761999,4.821217,151,lyon lyon,2016,9,22,18,33,0.7756103839969216,undef
+23771355441,45.761905,4.821369,151,basilique dame fourviere france france basiliquedenotredamedefourviere,2014,5,29,14,42,-0.0565231691523422,undef
+23226993293,45.761905,4.821369,151,basilique dame fourviere france france basiliquedenotredamedefourviere,2014,5,29,14,42,-0.0565231691523422,undef
+23745414612,45.761905,4.821369,151,basilique dame fourviere france france basiliquedenotredamedefourviere,2014,5,29,14,42,-0.0565231691523422,undef
+23853768155,45.761905,4.821369,151,basilique dame fourviere france france basiliquedenotredamedefourviere,2014,5,29,14,42,-0.0565231691523422,undef
+23226930753,45.761905,4.821369,151,basilique dame fourviere france france basiliquedenotredamedefourviere,2014,5,29,14,42,-0.0565231691523422,undef
+23225681584,45.761905,4.821369,151,basilique dame fourviere france france basiliquedenotredamedefourviere,2014,5,29,14,42,-0.0565231691523422,undef
+23557985540,45.761905,4.821369,151,basilique dame fourviere france france basiliquedenotredamedefourviere,2014,5,29,14,42,-0.0565231691523422,undef
+23485763339,45.761905,4.821369,151,basilique dame fourviere france france basiliquedenotredamedefourviere,2014,5,29,14,42,-0.0565231691523422,undef
+32399693876,45.761894,4.821238,151,lyon basilique basiliquedefourvire bellecour emvaphotographie emvaphotography fourvire lyon nikond partdieu sane bleu blue ciel city cloud color couleurs hdr landscape nuages panorama panoramique paysage sky ville,2016,4,10,13,25,0.6133270458168125,undef
+31884584615,45.761909,4.821238,151,lyon france ,2016,12,12,9,57,0.8548216352487794,undef
+33342762270,45.762111,4.821313,151,lyon basilique dame fourvire ,2017,3,24,17,29,0.9553206885834796,undef
+33382678324,45.76213,4.821346,151, fourvire lyon france ville rhonealpes auvergnerhonealpes basilique arbres,2017,4,19,13,11,0.9806835140463172,undef
+33715498681,45.762194,4.821295,151,lyon desde la alturas lyon notredamedefourvire,2017,4,3,14,42,0.9650293942693644,undef
+37546492581,45.761969,4.821252,151,lyon rhne france rhne lyon fourvire basilique tourmtallique architecture rue voiture automobile,2017,10,6,12,13,1.1476285043487715,undef
+37256592810,45.762001,4.821216,151,basilique dame fourvire geolat cameramakefujifilm cameramodelxt geocity exiffocallength mm exiflensxf mmf rlmoiswr geocountry geostate exifmodelxt exifisospeed exifmakefujifilm geolocation geolon exifaperture,2017,8,11,9,21,1.0925045021083637,undef
+38550845220,45.762021,4.821302,151,something air ,2014,7,31,19,49,0.0055687547195779,undef
+38705461214,45.762019,4.821294,151,db eb bc e ee e ,2017,2,18,13,52,0.9217757564177548,undef
+27636387959,45.761969,4.821288,151,ec b ade da bb bb ,2017,2,18,13,53,0.9217764385441994,undef
+44099796394,45.762133,4.821341,151,lyon france lyon france francia europe europa city ciudad,2018,9,14,10,8,1.484459132056318,undef
+44277223835,45.76205,4.821294,151, ,2018,9,29,16,50,1.4994672780902418,undef
+46085082601,45.762134,4.821217,151,lyon fourvire lyon monochrome noiretblanc blackandwhite rhnealpes glise basilique fourvire arcade vote,2018,9,7,13,11,1.477708126634186,undef
+44508546050,45.762097,4.821281,151,basilica notredame fourvire lyon france basilique dame fourvire lyon ,2018,11,15,12,38,1.5454616999962238,undef
+45601774054,45.762097,4.821281,151,basilica notredame fourvire lyon france basilique dame fourvire lyon ,2018,11,15,12,58,1.5454753425251158,undef
+46325105411,45.762097,4.821281,151,basilica notredame fourvire lyon france basilique dame fourvire lyon ,2018,11,15,12,43,1.545465110628447,undef
+32453213458,45.762097,4.821281,151,basilica notredame fourvire lyon france basilique dame fourvire lyon ,2018,11,15,12,37,1.5454610178697792,undef
+46938195044,45.762111,4.821356,151,perspective funiculaire lyon france monochrome line ligne courbe curve geometry gomtrie urban urbain,2019,4,19,10,42,1.697633195761694,undef
+48536457136,45.761958,4.821288,151,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,12,8,1.7939535424968205,undef
+48462563146,45.761958,4.821288,151,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,12,8,1.7939535424968205,undef
+48795753018,45.761863,4.821244,151, ,2019,8,18,12,5,1.81654352396239,undef
+48838200211,45.762141,4.821324,151,fourvire lyon lyon fourvire basiliquedefourviere basilique canon canon dmk,2019,8,31,21,29,1.8296976503199116,undef
+49046354857,45.762097,4.821325,151, ,2019,11,7,9,28,1.895999658607856,undef

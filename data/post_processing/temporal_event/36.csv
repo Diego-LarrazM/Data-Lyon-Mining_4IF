@@ -1,0 +1,147 @@
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
+4318594794,45.759462,4.828504,36,dscn pola lyon scooter poladroid,2010,1,30,23,57,-1.6081186757124168,undef
+4196147202,45.759544,4.828685,36, blackwhite lyon neige,2009,12,18,11,29,-1.6508661757421386,undef
+4584620732,45.759462,4.828504,36, lyon stgeorge hdr saone,2010,5,5,15,21,-1.5151557553375743,undef
+4872682652,45.759488,4.828721,36,pont bonaparte bridge france water river outdoors europe lyon cloudy overpass waterway watercourse saone,2010,7,26,16,20,-1.4345700192998627,undef
+4872680490,45.759488,4.828721,36,pont bonaparte france water river outdoors europe lyon cloudy waterway watercourse saone,2010,7,26,16,19,-1.4345707014263074,undef
+4872665704,45.759488,4.828721,36,sane france water river outdoors europe lyon cloudy waterway watercourse saone,2010,7,26,16,16,-1.4345727478056411,undef
+5126593487,45.759536,4.828619,36,midnight river moon france tower church night river lyon,2010,10,16,21,19,-1.3538205729154489,undef
+5094803546,45.759536,4.828619,36,sane bridge france reflection water night river lyon sane,2010,10,16,21,16,-1.3538226192947826,undef
+5062300393,45.759666,4.828666,36,lyon octobre lyon,2010,10,5,23,19,-1.364543600624443,undef
+5174852359,45.759473,4.828721,36,saone ,2010,11,7,21,2,-1.3322224033003172,undef
+4166518601,45.75957,4.828491,36,sane color luz photography photo reflex foto shot lyon sony picture fotografia alpha amateur francia ftedelumire davidcordova deividcordova,2009,12,5,22,34,-1.663181968699256,undef
+5436682039,45.759447,4.828748,36,sane croixrousse city bridge sky urban france river town photo frankreich europa europe flickr lyon himmel ciudad rhne rivire ponte ciel cielo stadt pont bonaparte fluss francia ville citt urbain croixrousse sane grandlyon rhnealpes francja brck pontbonaparte cxrousse rotdenken julesrigobert,2011,1,29,13,45,-1.25099273989891,undef
+5411036631,45.759544,4.828587,36, ,2010,12,1,19,30,-1.3087108690081033,undef
+5869430502,45.759529,4.828748,36, lyon pont bonaparte bateau ov,2011,6,23,20,37,-1.108283702172827,undef
+6071057417,45.75955,4.828813,36,lyon world trip travel france tourism photo nikon europe tour lyon map tourist gps traveler,2010,9,19,16,29,-1.3805394657501366,undef
+6071601830,45.759588,4.828694,36,lyon world trip travel france tourism photo nikon europe tour lyon map tourist gps traveler,2010,9,19,16,28,-1.380540147876581,undef
+6064532071,45.759379,4.828662,36,ponts lyon france cityscape lyon paysage urbain,2011,8,21,3,38,-1.051025326287289,undef
+6336076362,45.759596,4.828598,36,img nb lyon nuit,2011,11,11,0,47,-0.9705964793318336,undef
+6335316185,45.759596,4.828598,36,img nb lyon nuit,2011,11,11,0,47,-0.9705964793318336,undef
+6336064176,45.759596,4.828598,36,img nb lyon nuit,2011,11,11,0,54,-0.9705917044467216,undef
+6336058534,45.759596,4.828598,36,img nb lyon nuit,2011,11,11,0,53,-0.9705923865731662,undef
+6336055868,45.759596,4.828598,36,img nb lyon nuit,2011,11,11,0,34,-0.9706053469756134,undef
+6335894948,45.759596,4.828598,36, lyon nuit,2011,11,11,0,54,-0.9705917044467216,undef
+6335136187,45.759596,4.828598,36, lyon nuit,2011,11,11,0,52,-0.9705930686996108,undef
+6335132629,45.759596,4.828598,36, lyon nuit,2011,11,11,0,52,-0.9705930686996108,undef
+6335884104,45.759596,4.828598,36, lyon nuit,2011,11,11,0,51,-0.9705937508260554,undef
+6335125003,45.759596,4.828598,36, lyon nuit,2011,11,11,0,48,-0.9705957972053892,undef
+6335879100,45.759596,4.828598,36, lyon nuit,2011,11,11,0,47,-0.9705964793318336,undef
+6335120353,45.759596,4.828598,36, lyon nuit,2011,11,11,0,37,-0.9706033005962796,undef
+6335874428,45.759596,4.828598,36, lyon nuit,2011,11,11,0,34,-0.9706053469756134,undef
+6694560201,45.759499,4.828566,36, france lyon festivaloflights fetedeslumieres,2011,12,11,20,52,-0.9403066545597044,undef
+6601141085,45.759588,4.82873,36, lyon vieux,2011,12,30,13,29,-0.9219458570506084,undef
+6550113029,45.759574,4.828534,36,quais sane lyon fte lumires,2011,12,11,13,38,-0.9406026974366576,undef
+6550100141,45.759574,4.828534,36,sane lyon fte lumires,2011,12,8,16,14,-0.9434430719519408,undef
+6493461141,45.759488,4.828695,36,basilique fourvire france december lyon illumination fte parc lumires rousse tte croix dcembre bellecour terreaux,2011,12,8,23,26,-0.9431483933278768,undef
+6844302840,45.759506,4.828652,36, square squareformat normal iphoneography instagramapp uploadedbyinstagram foursquarevenue bf e cf,2012,3,17,19,17,-0.8450920347912623,undef
+7056283235,45.759439,4.82878,36,croix rousse city france canon lyon sigma ville saone sigma mmf exdg eos dmkii coirxrousse,2012,3,25,13,44,-0.8374610862556061,undef
+7146508551,45.75945,4.82873,36,desafio lugarvolta ao mundo lyon ponte vam voltaaomundo sane zwigmar pontebonaparte riosane,2012,5,5,20,19,-0.7969189010212517,undef
+7412652410,45.759469,4.828657,36,pont bonaparte lyon france city longexposure travel bridge blue france water night river landscape light march lyon pont bonaparte sfist saone feidoy,2012,6,21,0,9,-0.7515779562491892,undef
+7826096556,45.759409,4.828677,36, france alpes lyon ville vieux rhone saone presquile,2012,7,3,18,8,-0.7390547968529158,undef
+7817290048,45.759376,4.828677,36,lyon st george lumires france night nikon lyon fr lumires rhnealpes tamron mmf,2011,12,11,20,10,-0.9403353038703772,undef
+8016601163,45.759394,4.828716,36,sunlight playing river road blue sky sunlight france reflection building water cloud river outdoors europe lyon path bluesky quay september riverbank footpath saone saoneriver riversaone pontbonaparte rhonealpesregion bonapartebridge,2012,9,16,17,16,-0.6654206114120461,undef
+8108613333,45.759454,4.828802,36,saintgeorges ,2012,10,20,18,41,-0.6319657199370077,undef
+8151222333,45.759424,4.828544,36,saintgeorges turner saint lyon george sane,2012,10,20,18,41,-0.6319657199370077,undef
+6484316555,45.759555,4.82878,36,fte lumires light france festival lyon fete lumieres rhone ftedeslumires,2011,12,9,18,44,-0.9423584909050386,undef
+6597009327,45.759551,4.828689,36,lumires lyon nuit lumires ftedeslumires,2011,12,9,20,35,-0.9422827748696888,undef
+8424410326,45.7595,4.8285,36, france lyon,2013,1,28,15,31,-0.5338691159401623,undef
+8571926162,45.759424,4.828716,36,river rhone ,2013,3,15,12,31,-0.4888078430103827,undef
+9323829442,45.759514,4.828662,36,sane river cloud france geotagged lyon,2013,7,5,10,59,-0.3788572456594091,undef
+9320977675,45.759514,4.828662,36,sane river bridge france river geotagged lyon,2013,7,5,10,59,-0.3788572456594091,undef
+9877191266,45.759529,4.828619,36, lyon,2013,9,21,13,32,-0.3021364380567585,undef
+10233004764,45.759506,4.828652,36,nice superbe lyon night square squareformat hudson iphoneography instagramapp uploadedbyinstagram foursquarevenue bf e cf,2013,10,12,14,9,-0.2814836956938318,undef
+10801764165,45.759469,4.828566,36,basilique notredame fourvire france church lyon notredame lysen basiliquedefourvire lysn,2013,10,21,16,30,-0.2725471571432257,undef
+10793677786,45.759506,4.828652,36,picture got lost cloud yesterday cette photo cest perdue nuages hier lyon afternoon weekend art architecture historic sky cloud dramatic enigmatic ilovelyon passerelle dutribunal saxotaz fall square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue bf e cf,2013,11,10,22,1,-0.252676131685802,undef
+13902460773,45.759531,4.828642,36,manif ,2014,4,6,14,32,-0.1085898806680866,undef
+13712065635,45.759586,4.828661,36, uploadedbyflickrmobile flickriosappfilternofilter,2013,12,7,19,34,-0.2262553281074012,undef
+14079665378,45.759506,4.828652,36,mai pont bonaparte,2014,5,24,15,25,-0.0614051481162906,undef
+13964829399,45.759528,4.828613,36, ,2014,4,19,11,43,-0.0959357529944514,undef
+14510048873,45.759544,4.828609,36,passerelle saintgeorges lyon passerelle sane passerellesaintgeorges passerellepaulcouturier,2009,5,6,22,8,-1.8724215270722224,undef
+14514938237,45.759577,4.828763,36,hdr ,2014,7,19,22,13,-0.0061201640349588,undef
+14732653300,45.759421,4.828625,36,lyon ,2014,8,11,20,16,0.0163920550159269,undef
+15030582820,45.759569,4.828677,36,p ,2014,9,12,13,21,0.0475413591082428,undef
+14973765067,45.759547,4.828727,36,cloud saone morning bridge blue water cloud river day lyon cloudy sane,2014,9,6,8,25,0.0414458771993643,undef
+14954266149,45.759421,4.828525,36,bridge bridge france lafayette lyon rhne pont,2014,9,4,19,56,0.0399527024121514,undef
+14909388353,45.759574,4.828684,36, travel bridge bw sun white black x film girl analog square leg nb medium format mf kiev ilford caffenol,2014,10,13,23,50,0.0784205411285,undef
+15778986795,45.759499,4.828727,36, ,2014,11,11,16,5,0.1065889526579467,undef
+15075216663,45.759507,4.828652,36, ,2014,11,2,15,35,0.0977281301426903,undef
+11373402756,45.759533,4.828752,36,lyon lumires light lyon lumire,2013,12,6,22,31,-0.2271168538069215,undef
+11373401756,45.759533,4.828752,36,lyon lumires light lyon lumire,2013,12,6,22,31,-0.2271168538069215,undef
+11373381155,45.759533,4.828752,36,lyon lumires light lyon lumire,2013,12,6,22,31,-0.2271168538069215,undef
+11330628263,45.759491,4.828759,36,lph france river lyon,2013,12,7,15,10,-0.2264354094887736,undef
+11330542056,45.759491,4.828759,36,lph france river lyon,2013,12,7,15,11,-0.226434727362329,undef
+11275486746,45.759476,4.828695,36,gewitter lyon ,2013,12,6,16,54,-0.2273467304187492,undef
+16317727001,45.759521,4.828619,36,lyon st jean pont bonaparte lyon lumire nuit ville stjean pontbonaparte,2015,1,7,19,57,0.1627361445652434,undef
+16029204972,45.759529,4.828609,36,light lyon longexposure bridge light water night lyon,2014,12,8,18,32,0.1332103014110577,undef
+15843305027,45.759551,4.828609,36,fte lumires light night dark lyon lumire rivire cathdrale reflet fte nuit quai,2014,12,8,18,54,0.1332253081928387,undef
+15401658803,45.759529,4.828609,36,saone night city longexposure light night lyon sane,2014,12,8,18,36,0.133213029916836,undef
+16021064675,45.759505,4.828591,36,way france night nikon lyon nikkor nuit festivaloflights ftedeslumires rhnealpes fetedeslumieres fetedeslumires,2014,12,7,13,14,0.1320111231214641,undef
+15995275976,45.75938,4.828677,36,vieux lyon sud france night nikon lyon nikkor nuit festivaloflights fleuve ftedeslumires rhnealpes fetedeslumieres fetedeslumires,2014,12,7,13,10,0.1320083946156857,undef
+16010508161,45.759559,4.828619,36, ,2014,12,6,23,48,0.1314613292071225,undef
+15826426339,45.759559,4.828619,36, ,2014,12,6,23,48,0.1314613292071225,undef
+15390189324,45.759559,4.828619,36, ,2014,12,6,23,48,0.1314613292071225,undef
+15825187830,45.759559,4.828619,36, ,2014,12,6,23,50,0.1314626934600117,undef
+16010495351,45.759559,4.828619,36, ,2014,12,6,23,50,0.1314626934600117,undef
+15826416379,45.759559,4.828619,36, ,2014,12,6,23,50,0.1314626934600117,undef
+15390181744,45.759559,4.828619,36, ,2014,12,6,23,50,0.1314626934600117,undef
+15825170340,45.759559,4.828619,36, ,2014,12,6,23,50,0.1314626934600117,undef
+17823143889,45.759458,4.828711,36,pont bonaparte france lyon centreville rhnealpes,2015,5,19,21,24,0.2924540841540626,undef
+17386733864,45.759458,4.828711,36,pont bonaparte france lyon centreville rhnealpes,2015,5,19,21,22,0.2924527199011735,undef
+17337228174,45.759532,4.828624,36, ,2015,5,16,15,52,0.2892808319338184,undef
+19641055618,45.759559,4.828491,36,lyon vaporetto pont bonaparte france rhne village tourisme villes sane filoer,2015,7,18,11,13,0.3509730297092074,undef
+19377670545,45.759551,4.828558,36,jour ni lheure souvenir lyon sane samedi juin lyon rhne pont croixrousse quais sane rhnealpes renaudcamus juin,2015,6,20,16,31,0.3236866076726188,undef
+21788362521,45.759619,4.82877,36,lyon ,2014,3,1,21,54,-0.1436498156672512,undef
+21591021468,45.759604,4.828598,36,lyon ,2014,3,2,11,43,-0.143084332844684,undef
+21591017218,45.759604,4.828598,36,lyon ,2014,3,2,11,43,-0.143084332844684,undef
+21752748616,45.759604,4.828598,36,lyon ,2014,3,2,11,43,-0.143084332844684,undef
+22408221246,45.759642,4.828598,36,lyon pont bonaparte sane france lyon pont sane rhnealpes,2015,8,9,15,1,0.3727383203032644,undef
+22916598509,45.759594,4.828761,36,lyon france city travel bridge sky building water building river french landscape cityscape lyon riverfront passerelle vieuxlyon saone saoneriver mobilephotography saintgeorgesbridge stockimo vanyabovajo sonariver,2015,11,7,17,33,0.4612455907420286,undef
+22656155564,45.759594,4.828761,36,lyon old lyon city travel bridge sky building water architecture building river french landscape cityscape lyon riverfront passerelle vieuxlyon saone saoneriver oldlyon mobilephotography saintgeorgesbridge stockimo vanyabovajo,2015,11,7,17,33,0.4612455907420286,undef
+15798017117,45.759441,4.828722,36,lyon fte lumires france lyon rhne ftedeslumires lightfestival rhnealpes pontbonaparte festivaldelleluci,2014,12,5,19,38,0.1303085355157612,undef
+15957972896,45.759441,4.828722,36,lyon fte lumires france lyon rhne ftedeslumires lightfestival rhnealpes pontbonaparte festivaldelleluci,2014,12,5,19,38,0.1303085355157612,undef
+15361484814,45.759441,4.828722,36,lyon fte lumires france lyon rhne ftedeslumires lightfestival rhnealpes pontbonaparte festivaldelleluci,2014,12,5,19,37,0.1303078533893166,undef
+24750090736,45.759574,4.828813,36,foggy morning france rio fog sepia river puente lyon lione foggy nebbia francia niebla fleuve foggymorning quais vieuxlyon sane presquile quaisdesane pontbonaparte rodanoalpi,2015,12,27,10,20,0.5100633340021791,undef
+24244582559,45.759536,4.828563,36,lyon ,2015,4,12,14,47,0.2558395829876718,undef
+26034629783,45.759483,4.82863,36,lyon bords sane flickr lyon,2016,3,5,9,52,0.5778203179964398,undef
+26034623983,45.759483,4.82863,36,lyon bords sane flickr lyon,2016,3,5,9,56,0.5778230465022183,undef
+29586515975,45.759559,4.828717,36,dame fourvire cathdrale saintjean architecture architectureetbatiments cathdralesaintjean edificesreligieux eglise notredamedefourvire ouvragesdart palaisdejustice pont pontbonaparte quai rhne ville city cityscape feux fil france longexposure lyon night nightlights pentax pentaxk ii poselongue urban urbanlandscape,2015,12,13,18,15,0.4966356749403759,undef
+29983667443,45.759574,4.828512,36,dscn nikoncoolpixp lyon nuit night noiretblanc nb bw bnw blackandwhite monochrome pont bridge,2016,10,27,18,31,0.8099881925514937,undef
+30388495171,45.759636,4.82855,36, ,2016,10,21,12,6,0.8038320013890465,undef
+23770727171,45.75943,4.82878,36,road river cruise france france rivercruise ontheroad,2014,5,29,12,3,-0.0566316272570324,undef
+23726388972,45.759559,4.828717,36,primatiale saintjean lheure dore cathdrale bateau goldenhour saintjean vieuxlyon sane passerelledupalaisdejustice navigationfluviale,2015,12,13,15,44,0.4965326738472425,undef
+23409386759,45.759559,4.828717,36,passerelle eglise st george longexposure night nightlights lyon nuit eglise saintgeorges passerelle poselongue,2015,12,13,18,22,0.4966404498254881,undef
+23126017764,45.759559,4.828717,36,passerelle palais justice longexposure mer architecture justice eau nightlights lyon lac front pont palais paysage extrieur nuit deau cours rivage passerelle sane littoral poselongue,2015,12,13,18,9,0.4966315821817084,undef
+23740230295,45.759559,4.828717,36,passerelle palais justice croixrousse mer justice eau lyon front pont palais extrieur passerelle sane,2015,12,13,15,45,0.4965333559736871,undef
+23094589944,45.759355,4.828733,36,lione e annecy trip travel bridge lake france annecy night canon river lago eos friend long exposure lyon lione pussy ponte filter panoramica nd audi francia cabrio hdr fede raclette ruota esposizione selfie saona pezzi pezzo fiumi umbe rodano traveladdicted g x wwwfacebookcomumbetraveladdicted umbetraveladdicted,2015,12,6,18,26,0.4897673437697742,undef
+23095650213,45.759355,4.828733,36,lione e annecy trip travel bridge lake france annecy night canon river lago eos friend long exposure lyon lione pussy ponte filter panoramica nd audi francia cabrio hdr fede raclette ruota esposizione selfie saona pezzi pezzo fiumi umbe rodano traveladdicted g x wwwfacebookcomumbetraveladdicted umbetraveladdicted,2015,12,6,18,24,0.489765979516885,undef
+31010161064,45.759527,4.828641,36,pont bonaparte france lyon vieuxlyon architecture nightphotography auvergnerhnealpes fr olympus,2015,9,29,21,20,0.4230922123166371,undef
+31010151204,45.759527,4.828641,36,pont bonaparte france lyon vieuxlyon architecture nightphotography auvergnerhnealpes fr olympus,2015,9,29,21,8,0.423084026799302,undef
+31734120891,45.759527,4.828641,36,pont bonaparte france lyon vieuxlyon architecture auvergnerhnealpes fr olympus,2015,9,29,17,1,0.4229155415674877,undef
+31697537632,45.759559,4.828717,36,passerelle glise saintgeorge architecture architectureetbatiments edificesreligieux eglise ouvragesdart pont quai rhne ville city cityscape feux fil france longexposure lyon night nightlights passerellesaintgeorge pentax pentaxk ii poselongue urban urbanlandscape,2015,12,13,18,22,0.4966404498254881,undef
+33260543732,45.759491,4.828598,36,pont bonaparte lasoane lyon soaneriver oldlyon river bridge france part,2013,1,15,3,37,-0.5471255612643727,undef
+33978835330,45.759544,4.828609,36,croisillons lyon vieuxlyon passerellesaintgeorges pont sane,2017,4,30,14,42,0.9915504704351202,undef
+34806963845,45.759559,4.828577,36,lyon sane sane lyon,2017,5,21,12,51,1.0121022580842471,undef
+34493369322,45.759593,4.828536,36,lyon canon eos efsis mmf longexposure expositionlongue night nuit lumire light lyon,2017,5,10,21,47,1.0016629949762037,undef
+35191172931,45.759444,4.828611,36,lyon lyon,2017,4,1,15,31,0.963098294304723,undef
+35217974836,45.759574,4.828512,36, fujifilmxt lyon confluence vaporetto basilique fourvire cathdrale saintjean sane fleuve river bateau boat palaisdejustice water eau quai noiretblanc nb blackandwhite bnw bw monochrome monochromatic,2017,6,11,11,13,1.032662913377154,undef
+35525054672,45.759529,4.828619,36, ftedeslumires lyon sane,2016,12,8,23,44,0.8514567054976047,undef
+23561335648,45.759559,4.828717,36,quais sane architecture basilique france lyon paysage pentax pentaxk ii rhne saintjean vieuxlyon city cloud eau fleuve landscape nuages passerelledupalaisdejustice urban urbanlandscape ville,2016,7,2,14,1,0.6948793550265118,undef
+40463165012,45.759425,4.82871,36,lyon riverfront ,2015,9,24,6,51,0.4175881340352204,undef
+24650973697,45.759476,4.82863,36,couple pont bonaparte lyon lyon animal pont lasane rivire ville paysage rhne glise pigeon saariysqualitypictures v,2017,12,9,13,57,1.2105642186326526,undef
+38324906614,45.759491,4.828759,36, france lyon,2017,12,9,22,10,1.2109005069698366,undef
+38933520020,45.759455,4.828766,36, ,2017,12,19,21,36,1.2206999354728525,undef
+41905365191,45.759559,4.828717,36,saintgeorges france lyon paysage pentax pentaxk ii rhne saintgeorges sane sigma f blending bluehour cityscape eau heurebleue landscape nightlights nightshot passerellesaintgeorges promenade quaidesane river water,2018,5,1,20,26,1.3512930432900836,undef
+41870502181,45.759559,4.828717,36,saintjean fourvire france lyon palaisdejustice paysage pentax pentaxk ii rhne sane sigma f banc blending bluehour eau heurebleue landscape passerelledupalaisdejustice promenade quaidesane river water,2018,5,1,20,17,1.3512869041520823,undef
+28026211417,45.759491,4.828823,36,beau lieu commun lyon france ville,2018,6,19,11,14,1.3990473514231143,undef
+42803187761,45.759491,4.828759,36,lyn lyon onlylyon france river,2018,6,4,18,15,1.3846005954530902,undef
+42645346872,45.759438,4.828513,36,lyon der sane eglise saint george lyon auvergnerhnealpes frankreich fra,2018,6,5,11,8,1.3852915895414624,undef
+44285467771,45.759544,4.828555,36,first ,2018,5,4,20,53,1.3542582469447273,undef
+29638843657,45.759574,4.828791,36,lyon novembre ,2016,11,12,13,27,0.8254970193957485,undef
+43689935251,45.75968,4.828628,36,dwa kocioy lyon francja france katedra koci kosciol witynia swiatynia budynek architektura cathedral church temple building architecture,2018,6,6,11,26,1.386286129897678,undef
+23976123777,45.759604,4.828598,36,pont bonaparte saone saone bridge river water pont night landscape lyon france,2017,8,4,15,50,1.0858940147338176,undef
+48311963022,45.759377,4.828616,36,p italy,2019,6,18,11,36,1.7566057554024928,undef
+48905614558,45.759514,4.828705,36,sane ,2019,6,10,15,59,1.748927058015715,undef
+49044141122,45.759472,4.828694,36,sunset sane ,2019,9,29,19,43,1.8581109452429667,undef
+49043938351,45.759472,4.828694,36,st george church night ,2019,9,29,20,5,1.858125952024748,undef
+49043430768,45.759472,4.828694,36,sunset sane ,2019,9,29,20,0,1.8581225413925249,undef
