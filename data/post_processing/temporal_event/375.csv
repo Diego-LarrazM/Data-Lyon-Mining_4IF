@@ -1,72 +1,28 @@
 id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken,year_month
-15659695005,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,18,1,304106460.0,Événement Temporaire,2014-08-21 18:01:00,2014-08
-15659692165,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,18,1,304106460.0,Événement Temporaire,2014-08-21 18:01:00,2014-08
-15039542313,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,18,0,304106400.0,Événement Temporaire,2014-08-21 18:00:00,2014-08
-15038935304,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,18,0,304106400.0,Événement Temporaire,2014-08-21 18:00:00,2014-08
-15474110430,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,18,0,304106400.0,Événement Temporaire,2014-08-21 18:00:00,2014-08
-15660504462,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,18,0,304106400.0,Événement Temporaire,2014-08-21 18:00:00,2014-08
-15473704617,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,18,0,304106400.0,Événement Temporaire,2014-08-21 18:00:00,2014-08
-15659678535,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,17,59,304106340.0,Événement Temporaire,2014-08-21 17:59:00,2014-08
-15474102460,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,17,59,304106340.0,Événement Temporaire,2014-08-21 17:59:00,2014-08
-15473530038,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,17,59,304106340.0,Événement Temporaire,2014-08-21 17:59:00,2014-08
-15039525453,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,17,59,304106340.0,Événement Temporaire,2014-08-21 17:59:00,2014-08
-15039523273,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,17,58,304106280.0,Événement Temporaire,2014-08-21 17:58:00,2014-08
-15659666215,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,17,58,304106280.0,Événement Temporaire,2014-08-21 17:58:00,2014-08
-15473687717,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,17,57,304106220.0,Événement Temporaire,2014-08-21 17:57:00,2014-08
-15656973621,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,17,49,304105740.0,Événement Temporaire,2014-08-21 17:49:00,2014-08
-15660478572,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,17,49,304105740.0,Événement Temporaire,2014-08-21 17:49:00,2014-08
-15038901244,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,21,17,41,304105260.0,Événement Temporaire,2014-08-21 17:41:00,2014-08
-15659648645,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,20,16,47,304015620.0,Événement Temporaire,2014-08-20 16:47:00,2014-08
-15473502988,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,20,16,46,304015560.0,Événement Temporaire,2014-08-20 16:46:00,2014-08
-15659646415,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,20,16,46,304015560.0,Événement Temporaire,2014-08-20 16:46:00,2014-08
-15659645535,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,19,16,44,303929040.0,Événement Temporaire,2014-08-19 16:44:00,2014-08
-15473668277,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,19,16,44,303929040.0,Événement Temporaire,2014-08-19 16:44:00,2014-08
-15660464022,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,19,16,44,303929040.0,Événement Temporaire,2014-08-19 16:44:00,2014-08
-15472997049,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,19,16,44,303929040.0,Événement Temporaire,2014-08-19 16:44:00,2014-08
-15659638445,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,19,11,39,303910740.0,Événement Temporaire,2014-08-19 11:39:00,2014-08
-15473660857,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,19,11,39,303910740.0,Événement Temporaire,2014-08-19 11:39:00,2014-08
-15473490338,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,19,11,38,303910680.0,Événement Temporaire,2014-08-19 11:38:00,2014-08
-15473657227,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,19,10,44,303907440.0,Événement Temporaire,2014-08-19 10:44:00,2014-08
-15635904106,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,19,10,43,303907380.0,Événement Temporaire,2014-08-19 10:43:00,2014-08
-15656940471,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,18,19,2,303850920.0,Événement Temporaire,2014-08-18 19:02:00,2014-08
-15038874294,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library ifla wlic eblida librarion,2014,8,18,19,2,303850920.0,Événement Temporaire,2014-08-18 19:02:00,2014-08
-15472977259,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,18,18,31,303849060.0,Événement Temporaire,2014-08-18 18:31:00,2014-08
-15472975319,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,18,18,31,303849060.0,Événement Temporaire,2014-08-18 18:31:00,2014-08
-15473472608,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,18,18,16,303848160.0,Événement Temporaire,2014-08-18 18:16:00,2014-08
-15656926191,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,18,18,16,303848160.0,Événement Temporaire,2014-08-18 18:16:00,2014-08
-15039467903,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,18,18,16,303848160.0,Événement Temporaire,2014-08-18 18:16:00,2014-08
-15660433802,45.785221,4.857586,375,eblida booth ifla wlic lyon france lyon library librarian ifla wlic eblida righttoeread,2014,8,18,13,53,303832380.0,Événement Temporaire,2014-08-18 13:53:00,2014-08
-15472967159,45.785221,4.857586,375,klauspeter bttger eblida president jeanmarie reding albad luxembourg eblida booth ifla wlic lyon france lyon library librarian ifla wlic eblida righttoeread,2014,8,18,12,51,303828660.0,Événement Temporaire,2014-08-18 12:51:00,2014-08
-15474035660,45.785221,4.857586,375,klauspeter bttger eblida president jeanmarie reding albad luxembourg eblida booth ifla wlic lyon france lyon library librarian ifla wlic eblida righttoeread,2014,8,18,12,51,303828660.0,Événement Temporaire,2014-08-18 12:51:00,2014-08
-15038857524,45.785221,4.857586,375,eblida booth ifla wlic lyon france lyon library librarian ifla wlic eblida righttoeread,2014,8,18,12,39,303827940.0,Événement Temporaire,2014-08-18 12:39:00,2014-08
-15473461998,45.785221,4.857586,375,klauspeter bttger eblida president vincent bonnet eblida director eblida booth ifla wlic lyoneblida booth ifla wlic lyon france lyon library librarian ifla wlic eblida righttoeread,2014,8,18,12,35,303827700.0,Événement Temporaire,2014-08-18 12:35:00,2014-08
-15039460593,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,18,10,30,303820200.0,Événement Temporaire,2014-08-18 10:30:00,2014-08
-15656914351,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,18,10,3,303818580.0,Événement Temporaire,2014-08-18 10:03:00,2014-08
-15660423962,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,18,9,14,303815640.0,Événement Temporaire,2014-08-18 09:14:00,2014-08
-15660422352,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,17,14,16,303747360.0,Événement Temporaire,2014-08-17 14:16:00,2014-08
-15039452503,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,17,12,37,303741420.0,Événement Temporaire,2014-08-17 12:37:00,2014-08
-15473451528,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,17,12,3,303739380.0,Événement Temporaire,2014-08-17 12:03:00,2014-08
-15038844184,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,17,12,2,303739320.0,Événement Temporaire,2014-08-17 12:02:00,2014-08
-15039447983,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,17,11,58,303739080.0,Événement Temporaire,2014-08-17 11:58:00,2014-08
-15660413622,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,17,11,37,303737820.0,Événement Temporaire,2014-08-17 11:37:00,2014-08
-15472945999,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,17,11,24,303737040.0,Événement Temporaire,2014-08-17 11:24:00,2014-08
-15039442553,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,17,10,58,303735480.0,Événement Temporaire,2014-08-17 10:58:00,2014-08
-15635858076,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,17,10,54,303735240.0,Événement Temporaire,2014-08-17 10:54:00,2014-08
-15659580715,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,17,10,54,303735240.0,Événement Temporaire,2014-08-17 10:54:00,2014-08
-15474004040,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,17,10,53,303735180.0,Événement Temporaire,2014-08-17 10:53:00,2014-08
-15660398572,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,55,303681300.0,Événement Temporaire,2014-08-16 19:55:00,2014-08
-15659572335,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,55,303681300.0,Événement Temporaire,2014-08-16 19:55:00,2014-08
-15473997590,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,51,303681060.0,Événement Temporaire,2014-08-16 19:51:00,2014-08
-15472925429,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,51,303681060.0,Événement Temporaire,2014-08-16 19:51:00,2014-08
-15656876601,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,42,303680520.0,Événement Temporaire,2014-08-16 19:42:00,2014-08
-15473417638,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,42,303680520.0,Événement Temporaire,2014-08-16 19:42:00,2014-08
-15635832526,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,42,303680520.0,Événement Temporaire,2014-08-16 19:42:00,2014-08
-15656868011,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,42,303680520.0,Événement Temporaire,2014-08-16 19:42:00,2014-08
-15635827266,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,37,303680220.0,Événement Temporaire,2014-08-16 19:37:00,2014-08
-15038800504,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,37,303680220.0,Événement Temporaire,2014-08-16 19:37:00,2014-08
-15473973550,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,37,303680220.0,Événement Temporaire,2014-08-16 19:37:00,2014-08
-15472900219,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,37,303680220.0,Événement Temporaire,2014-08-16 19:37:00,2014-08
-15659539175,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,23,303679380.0,Événement Temporaire,2014-08-16 19:23:00,2014-08
-15039392103,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,23,303679380.0,Événement Temporaire,2014-08-16 19:23:00,2014-08
-15473957600,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,18,303679080.0,Événement Temporaire,2014-08-16 19:18:00,2014-08
-15635802186,45.785221,4.857586,375,eblida ifla world library information congress lyon france france lyon library librarian ifla wlic eblida,2014,8,16,19,18,303679080.0,Événement Temporaire,2014-08-16 19:18:00,2014-08
+9479909835,45.74532,4.870483,375, ,2013,7,27,11,40,270387600.0,Événement Temporaire,2013-07-27 11:40:00,2013-07
+9482700534,45.74532,4.870483,375, ,2013,7,27,11,36,270387360.0,Événement Temporaire,2013-07-27 11:36:00,2013-07
+9479908805,45.74532,4.870483,375, ,2013,7,27,11,35,270387300.0,Événement Temporaire,2013-07-27 11:35:00,2013-07
+9479907979,45.74532,4.870483,375, ,2013,7,27,11,4,270385440.0,Événement Temporaire,2013-07-27 11:04:00,2013-07
+9479907527,45.74532,4.870483,375, ,2013,7,27,11,4,270385440.0,Événement Temporaire,2013-07-27 11:04:00,2013-07
+9482698492,45.74532,4.870483,375, ,2013,7,27,11,3,270385380.0,Événement Temporaire,2013-07-27 11:03:00,2013-07
+9479906627,45.74532,4.870483,375, ,2013,7,27,11,3,270385380.0,Événement Temporaire,2013-07-27 11:03:00,2013-07
+9482697568,45.74532,4.870483,375, ,2013,7,27,11,3,270385380.0,Événement Temporaire,2013-07-27 11:03:00,2013-07
+9479905699,45.74532,4.870483,375, ,2013,7,27,11,2,270385320.0,Événement Temporaire,2013-07-27 11:02:00,2013-07
+9479905299,45.74532,4.870483,375, ,2013,7,27,11,2,270385320.0,Événement Temporaire,2013-07-27 11:02:00,2013-07
+9479904703,45.74532,4.870483,375, ,2013,7,27,10,59,270385140.0,Événement Temporaire,2013-07-27 10:59:00,2013-07
+9479904113,45.74532,4.870483,375, ,2013,7,27,10,53,270384780.0,Événement Temporaire,2013-07-27 10:53:00,2013-07
+9479903643,45.74532,4.870483,375, ,2013,7,27,10,45,270384300.0,Événement Temporaire,2013-07-27 10:45:00,2013-07
+9479903137,45.74532,4.870483,375,lumiere ,2013,7,27,10,45,270384300.0,Événement Temporaire,2013-07-27 10:45:00,2013-07
+9482694132,45.74532,4.870483,375, ,2013,7,27,10,45,270384300.0,Événement Temporaire,2013-07-27 10:45:00,2013-07
+9479902351,45.74532,4.870483,375, ,2013,7,27,10,45,270384300.0,Événement Temporaire,2013-07-27 10:45:00,2013-07
+9482693016,45.74532,4.870483,375, ,2013,7,27,10,45,270384300.0,Événement Temporaire,2013-07-27 10:45:00,2013-07
+9482692510,45.74532,4.870483,375, ,2013,7,27,10,44,270384240.0,Événement Temporaire,2013-07-27 10:44:00,2013-07
+9479900665,45.74532,4.870483,375, ,2013,7,27,10,44,270384240.0,Événement Temporaire,2013-07-27 10:44:00,2013-07
+9482691276,45.74532,4.870483,375, ,2013,7,27,10,44,270384240.0,Événement Temporaire,2013-07-27 10:44:00,2013-07
+9482690802,45.74532,4.870483,375, ,2013,7,27,10,44,270384240.0,Événement Temporaire,2013-07-27 10:44:00,2013-07
+9482690356,45.74532,4.870483,375, ,2013,7,27,10,43,270384180.0,Événement Temporaire,2013-07-27 10:43:00,2013-07
+9482689972,45.74532,4.870483,375, ,2013,7,27,10,37,270383820.0,Événement Temporaire,2013-07-27 10:37:00,2013-07
+9479898145,45.74532,4.870483,375, ,2013,7,27,10,37,270383820.0,Événement Temporaire,2013-07-27 10:37:00,2013-07
+9482689000,45.74532,4.870483,375,e old mirror lumiere villa ,2013,7,27,10,36,270383760.0,Événement Temporaire,2013-07-27 10:36:00,2013-07
+9479897295,45.74532,4.870483,375, ,2013,7,27,10,36,270383760.0,Événement Temporaire,2013-07-27 10:36:00,2013-07
+9479896889,45.74532,4.870483,375, ,2013,7,27,10,36,270383760.0,Événement Temporaire,2013-07-27 10:36:00,2013-07

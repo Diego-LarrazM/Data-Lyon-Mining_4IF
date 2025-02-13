@@ -1,108 +1,45 @@
 id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken,year_month
-6817379549,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,51,220467060.0,Événement Temporaire,2011-12-27 16:51:00,2011-12
-6817378051,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,51,220467060.0,Événement Temporaire,2011-12-27 16:51:00,2011-12
-6817374243,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,51,220467060.0,Événement Temporaire,2011-12-27 16:51:00,2011-12
-6817369837,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,47,220466820.0,Événement Temporaire,2011-12-27 16:47:00,2011-12
-6817367877,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,31,220465860.0,Événement Temporaire,2011-12-27 16:31:00,2011-12
-6817359463,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,30,220465800.0,Événement Temporaire,2011-12-27 16:30:00,2011-12
-6817357223,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,51,220467060.0,Événement Temporaire,2011-12-27 16:51:00,2011-12
-6817355887,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,51,220467060.0,Événement Temporaire,2011-12-27 16:51:00,2011-12
-6817352863,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,51,220467060.0,Événement Temporaire,2011-12-27 16:51:00,2011-12
-6817350917,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,51,220467060.0,Événement Temporaire,2011-12-27 16:51:00,2011-12
-6817347041,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,51,220467060.0,Événement Temporaire,2011-12-27 16:51:00,2011-12
-6817342945,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,46,220466760.0,Événement Temporaire,2011-12-27 16:46:00,2011-12
-6817339185,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,44,220466640.0,Événement Temporaire,2011-12-27 16:44:00,2011-12
-6817337063,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,43,220466580.0,Événement Temporaire,2011-12-27 16:43:00,2011-12
-6817333791,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,43,220466580.0,Événement Temporaire,2011-12-27 16:43:00,2011-12
-6817330729,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,43,220466580.0,Événement Temporaire,2011-12-27 16:43:00,2011-12
-6817327933,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,42,220466520.0,Événement Temporaire,2011-12-27 16:42:00,2011-12
-6817325885,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,42,220466520.0,Événement Temporaire,2011-12-27 16:42:00,2011-12
-6817323875,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,41,220466460.0,Événement Temporaire,2011-12-27 16:41:00,2011-12
-6817319511,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,40,220466400.0,Événement Temporaire,2011-12-27 16:40:00,2011-12
-6817317973,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,40,220466400.0,Événement Temporaire,2011-12-27 16:40:00,2011-12
-6817316045,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,39,220466340.0,Événement Temporaire,2011-12-27 16:39:00,2011-12
-6817312811,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,38,220466280.0,Événement Temporaire,2011-12-27 16:38:00,2011-12
-6817311267,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,38,220466280.0,Événement Temporaire,2011-12-27 16:38:00,2011-12
-6817308581,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,38,220466280.0,Événement Temporaire,2011-12-27 16:38:00,2011-12
-6817306999,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,37,220466220.0,Événement Temporaire,2011-12-27 16:37:00,2011-12
-6817301047,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,36,220466160.0,Événement Temporaire,2011-12-27 16:36:00,2011-12
-6817297803,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,35,220466100.0,Événement Temporaire,2011-12-27 16:35:00,2011-12
-6817296115,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,34,220466040.0,Événement Temporaire,2011-12-27 16:34:00,2011-12
-6817293409,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,33,220465980.0,Événement Temporaire,2011-12-27 16:33:00,2011-12
-6817291503,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,33,220465980.0,Événement Temporaire,2011-12-27 16:33:00,2011-12
-6817290229,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,31,220465860.0,Événement Temporaire,2011-12-27 16:31:00,2011-12
-6817286413,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,31,220465860.0,Événement Temporaire,2011-12-27 16:31:00,2011-12
-6817283829,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,30,220465800.0,Événement Temporaire,2011-12-27 16:30:00,2011-12
-6817281679,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,29,220465740.0,Événement Temporaire,2011-12-27 16:29:00,2011-12
-6817279421,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,29,220465740.0,Événement Temporaire,2011-12-27 16:29:00,2011-12
-6817278215,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,29,220465740.0,Événement Temporaire,2011-12-27 16:29:00,2011-12
-6817277011,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,28,220465680.0,Événement Temporaire,2011-12-27 16:28:00,2011-12
-6817275309,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,28,220465680.0,Événement Temporaire,2011-12-27 16:28:00,2011-12
-6816945537,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,51,220467060.0,Événement Temporaire,2011-12-27 16:51:00,2011-12
-6816943969,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,51,220467060.0,Événement Temporaire,2011-12-27 16:51:00,2011-12
-6816942469,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,54,220467240.0,Événement Temporaire,2011-12-27 16:54:00,2011-12
-6816941231,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,54,220467240.0,Événement Temporaire,2011-12-27 16:54:00,2011-12
-6816939187,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,54,220467240.0,Événement Temporaire,2011-12-27 16:54:00,2011-12
-6816938151,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,54,220467240.0,Événement Temporaire,2011-12-27 16:54:00,2011-12
-6816937003,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,53,220467180.0,Événement Temporaire,2011-12-27 16:53:00,2011-12
-6816935327,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,53,220467180.0,Événement Temporaire,2011-12-27 16:53:00,2011-12
-6816932705,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,53,220467180.0,Événement Temporaire,2011-12-27 16:53:00,2011-12
-6816931335,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,52,220467120.0,Événement Temporaire,2011-12-27 16:52:00,2011-12
-6816929797,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,51,220467060.0,Événement Temporaire,2011-12-27 16:51:00,2011-12
-6816928001,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,51,220467060.0,Événement Temporaire,2011-12-27 16:51:00,2011-12
-6816925497,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,50,220467000.0,Événement Temporaire,2011-12-27 16:50:00,2011-12
-6816924165,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,50,220467000.0,Événement Temporaire,2011-12-27 16:50:00,2011-12
-6816922397,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,50,220467000.0,Événement Temporaire,2011-12-27 16:50:00,2011-12
-6816920119,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,50,220467000.0,Événement Temporaire,2011-12-27 16:50:00,2011-12
-6816918335,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,47,220466820.0,Événement Temporaire,2011-12-27 16:47:00,2011-12
-6816916395,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,46,220466760.0,Événement Temporaire,2011-12-27 16:46:00,2011-12
-6816914655,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,45,220466700.0,Événement Temporaire,2011-12-27 16:45:00,2011-12
-6816913501,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,45,220466700.0,Événement Temporaire,2011-12-27 16:45:00,2011-12
-6816912039,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,45,220466700.0,Événement Temporaire,2011-12-27 16:45:00,2011-12
-6816908995,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,44,220466640.0,Événement Temporaire,2011-12-27 16:44:00,2011-12
-6816907539,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,44,220466640.0,Événement Temporaire,2011-12-27 16:44:00,2011-12
-6816906083,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,42,220466520.0,Événement Temporaire,2011-12-27 16:42:00,2011-12
-6816903409,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,39,220466340.0,Événement Temporaire,2011-12-27 16:39:00,2011-12
-6816901205,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,39,220466340.0,Événement Temporaire,2011-12-27 16:39:00,2011-12
-6816898165,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,31,220465860.0,Événement Temporaire,2011-12-27 16:31:00,2011-12
-6816893509,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,30,220465800.0,Événement Temporaire,2011-12-27 16:30:00,2011-12
-6816892467,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,30,220465800.0,Événement Temporaire,2011-12-27 16:30:00,2011-12
-6816890807,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,27,220465620.0,Événement Temporaire,2011-12-27 16:27:00,2011-12
-6816887985,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,27,220465620.0,Événement Temporaire,2011-12-27 16:27:00,2011-12
-6816884635,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,27,220465620.0,Événement Temporaire,2011-12-27 16:27:00,2011-12
-6816881751,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,27,220465620.0,Événement Temporaire,2011-12-27 16:27:00,2011-12
-6816880681,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,26,220465560.0,Événement Temporaire,2011-12-27 16:26:00,2011-12
-6816879349,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,26,220465560.0,Événement Temporaire,2011-12-27 16:26:00,2011-12
-6816877545,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,25,220465500.0,Événement Temporaire,2011-12-27 16:25:00,2011-12
-6816876213,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,25,220465500.0,Événement Temporaire,2011-12-27 16:25:00,2011-12
-6816872523,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,24,220465440.0,Événement Temporaire,2011-12-27 16:24:00,2011-12
-6816870983,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,24,220465440.0,Événement Temporaire,2011-12-27 16:24:00,2011-12
-6816868645,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,24,220465440.0,Événement Temporaire,2011-12-27 16:24:00,2011-12
-6816865419,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,24,220465440.0,Événement Temporaire,2011-12-27 16:24:00,2011-12
-6816862999,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,24,220465440.0,Événement Temporaire,2011-12-27 16:24:00,2011-12
-6816861517,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,23,220465380.0,Événement Temporaire,2011-12-27 16:23:00,2011-12
-6816860305,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,23,220465380.0,Événement Temporaire,2011-12-27 16:23:00,2011-12
-6816859375,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,23,220465380.0,Événement Temporaire,2011-12-27 16:23:00,2011-12
-6816857927,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,22,220465320.0,Événement Temporaire,2011-12-27 16:22:00,2011-12
-6816853809,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,22,220465320.0,Événement Temporaire,2011-12-27 16:22:00,2011-12
-6816852859,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,22,220465320.0,Événement Temporaire,2011-12-27 16:22:00,2011-12
-6816850523,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,22,220465320.0,Événement Temporaire,2011-12-27 16:22:00,2011-12
-6816849511,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,21,220465260.0,Événement Temporaire,2011-12-27 16:21:00,2011-12
-6816845093,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,21,220465260.0,Événement Temporaire,2011-12-27 16:21:00,2011-12
-6816842773,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,21,220465260.0,Événement Temporaire,2011-12-27 16:21:00,2011-12
-6816841265,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,20,220465200.0,Événement Temporaire,2011-12-27 16:20:00,2011-12
-6816839463,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,19,220465140.0,Événement Temporaire,2011-12-27 16:19:00,2011-12
-6816838553,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,19,220465140.0,Événement Temporaire,2011-12-27 16:19:00,2011-12
-6816837461,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,19,220465140.0,Événement Temporaire,2011-12-27 16:19:00,2011-12
-6816835619,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,19,220465140.0,Événement Temporaire,2011-12-27 16:19:00,2011-12
-6816831831,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,19,220465140.0,Événement Temporaire,2011-12-27 16:19:00,2011-12
-6816829541,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,19,220465140.0,Événement Temporaire,2011-12-27 16:19:00,2011-12
-6816826909,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,19,220465140.0,Événement Temporaire,2011-12-27 16:19:00,2011-12
-6816825327,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,18,220465080.0,Événement Temporaire,2011-12-27 16:18:00,2011-12
-6816823225,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,18,220465080.0,Événement Temporaire,2011-12-27 16:18:00,2011-12
-6816822017,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,18,220465080.0,Événement Temporaire,2011-12-27 16:18:00,2011-12
-6816820883,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,18,220465080.0,Événement Temporaire,2011-12-27 16:18:00,2011-12
-6816818181,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,16,220464960.0,Événement Temporaire,2011-12-27 16:16:00,2011-12
-6816816005,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,16,220464960.0,Événement Temporaire,2011-12-27 16:16:00,2011-12
-6816814481,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,16,220464960.0,Événement Temporaire,2011-12-27 16:16:00,2011-12
-6816812609,45.753683,4.827182,334,lyon rhne basilique stmartin dainay ,2011,12,27,16,15,220464900.0,Événement Temporaire,2011-12-27 16:15:00,2011-12
+8069151713,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,23,1,244940460.0,Événement Temporaire,2012-10-05 23:01:00,2012-10
+8069144905,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,59,244940340.0,Événement Temporaire,2012-10-05 22:59:00,2012-10
+8069133937,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,57,244940220.0,Événement Temporaire,2012-10-05 22:57:00,2012-10
+8069128315,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,56,244940160.0,Événement Temporaire,2012-10-05 22:56:00,2012-10
+8069115856,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,56,244940160.0,Événement Temporaire,2012-10-05 22:56:00,2012-10
+8069113169,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,51,244939860.0,Événement Temporaire,2012-10-05 22:51:00,2012-10
+8069099229,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,50,244939800.0,Événement Temporaire,2012-10-05 22:50:00,2012-10
+8069089158,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,49,244939740.0,Événement Temporaire,2012-10-05 22:49:00,2012-10
+8069086621,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,49,244939740.0,Événement Temporaire,2012-10-05 22:49:00,2012-10
+8069074372,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,49,244939740.0,Événement Temporaire,2012-10-05 22:49:00,2012-10
+8069071405,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,47,244939620.0,Événement Temporaire,2012-10-05 22:47:00,2012-10
+8069052210,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,46,244939560.0,Événement Temporaire,2012-10-05 22:46:00,2012-10
+8069044346,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,42,244939320.0,Événement Temporaire,2012-10-05 22:42:00,2012-10
+8069038924,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,38,244939080.0,Événement Temporaire,2012-10-05 22:38:00,2012-10
+8069031684,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,35,244938900.0,Événement Temporaire,2012-10-05 22:35:00,2012-10
+8069021064,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,33,244938780.0,Événement Temporaire,2012-10-05 22:33:00,2012-10
+8069018149,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,32,244938720.0,Événement Temporaire,2012-10-05 22:32:00,2012-10
+8069007872,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,31,244938660.0,Événement Temporaire,2012-10-05 22:31:00,2012-10
+8069005903,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,27,244938420.0,Événement Temporaire,2012-10-05 22:27:00,2012-10
+8068996978,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,27,244938420.0,Événement Temporaire,2012-10-05 22:27:00,2012-10
+8068988032,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,26,244938360.0,Événement Temporaire,2012-10-05 22:26:00,2012-10
+8068985461,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,26,244938360.0,Événement Temporaire,2012-10-05 22:26:00,2012-10
+8068974149,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,25,244938300.0,Événement Temporaire,2012-10-05 22:25:00,2012-10
+8068968103,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,24,244938240.0,Événement Temporaire,2012-10-05 22:24:00,2012-10
+8068960589,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,22,244938120.0,Événement Temporaire,2012-10-05 22:22:00,2012-10
+8068954227,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,22,244938120.0,Événement Temporaire,2012-10-05 22:22:00,2012-10
+8068941872,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,21,244938060.0,Événement Temporaire,2012-10-05 22:21:00,2012-10
+8068936041,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,21,244938060.0,Événement Temporaire,2012-10-05 22:21:00,2012-10
+8068923246,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,18,244937880.0,Événement Temporaire,2012-10-05 22:18:00,2012-10
+8068916953,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,16,244937760.0,Événement Temporaire,2012-10-05 22:16:00,2012-10
+8068907432,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,14,244937640.0,Événement Temporaire,2012-10-05 22:14:00,2012-10
+8068902258,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,11,244937460.0,Événement Temporaire,2012-10-05 22:11:00,2012-10
+8068898163,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,11,244937460.0,Événement Temporaire,2012-10-05 22:11:00,2012-10
+8068889302,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,10,244937400.0,Événement Temporaire,2012-10-05 22:10:00,2012-10
+8068887693,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,10,244937400.0,Événement Temporaire,2012-10-05 22:10:00,2012-10
+8068879265,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,10,244937400.0,Événement Temporaire,2012-10-05 22:10:00,2012-10
+8068871215,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,9,244937340.0,Événement Temporaire,2012-10-05 22:09:00,2012-10
+8068859319,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,8,244937280.0,Événement Temporaire,2012-10-05 22:08:00,2012-10
+8068855075,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,22,7,244937220.0,Événement Temporaire,2012-10-05 22:07:00,2012-10
+8068844771,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,21,58,244936680.0,Événement Temporaire,2012-10-05 21:58:00,2012-10
+8068837217,45.768862,4.832482,334,concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,21,57,244936620.0,Événement Temporaire,2012-10-05 21:57:00,2012-10
+8068828443,45.768862,4.832482,334,bar capucins concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,21,51,244936260.0,Événement Temporaire,2012-10-05 21:51:00,2012-10
+8068811140,45.768862,4.832482,334,seb production bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,21,50,244936200.0,Événement Temporaire,2012-10-05 21:50:00,2012-10
+8068809743,45.768862,4.832482,334,bar capucins concert bye bye theresa music rock bar concert nikon lyon nikkor musique rockgarage lescapucins byebyetheresa sebproduction,2012,10,5,21,49,244936140.0,Événement Temporaire,2012-10-05 21:49:00,2012-10

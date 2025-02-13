@@ -1,102 +1,52 @@
 id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken,year_month
-15168485567,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,16,0,306172800.0,Événement Temporaire,2014-09-14 16:00:00,2014-09
-15168483317,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,16,0,306172800.0,Événement Temporaire,2014-09-14 16:00:00,2014-09
-15354685392,45.758802,4.830819,345,dfil france dance europe mask lyon place danse lip biennale masque dfil lvres,2014,9,14,16,0,306172800.0,Événement Temporaire,2014-09-14 16:00:00,2014-09
-15351813551,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,57,306172620.0,Événement Temporaire,2014-09-14 15:57:00,2014-09
-15351811361,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,56,306172560.0,Événement Temporaire,2014-09-14 15:56:00,2014-09
-15168421468,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,55,306172500.0,Événement Temporaire,2014-09-14 15:55:00,2014-09
-15325491145,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,49,306172140.0,Événement Temporaire,2014-09-14 15:49:00,2014-09
-15138937467,45.758803,4.83082,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,47,306172020.0,Événement Temporaire,2014-09-14 15:47:00,2014-09
-15138887078,45.758803,4.83082,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,46,306171960.0,Événement Temporaire,2014-09-14 15:46:00,2014-09
-15138932027,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,45,306171900.0,Événement Temporaire,2014-09-14 15:45:00,2014-09
-15325481395,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,39,306171540.0,Événement Temporaire,2014-09-14 15:39:00,2014-09
-15138878808,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,39,306171540.0,Événement Temporaire,2014-09-14 15:39:00,2014-09
-15138756610,45.758803,4.83082,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,39,306171540.0,Événement Temporaire,2014-09-14 15:39:00,2014-09
-15325149962,45.758803,4.83082,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,38,306171480.0,Événement Temporaire,2014-09-14 15:38:00,2014-09
-15098552627,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,21,306170460.0,Événement Temporaire,2014-09-14 15:21:00,2014-09
-15285117775,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,21,306170460.0,Événement Temporaire,2014-09-14 15:21:00,2014-09
-15098404920,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,20,306170400.0,Événement Temporaire,2014-09-14 15:20:00,2014-09
-15281572095,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,19,306170340.0,Événement Temporaire,2014-09-14 15:19:00,2014-09
-15094863920,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,18,306170280.0,Événement Temporaire,2014-09-14 15:18:00,2014-09
-15094816860,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,18,306170280.0,Événement Temporaire,2014-09-14 15:18:00,2014-09
-15258499066,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,18,306170280.0,Événement Temporaire,2014-09-14 15:18:00,2014-09
-15094894958,45.758803,4.83082,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,17,306170220.0,Événement Temporaire,2014-09-14 15:17:00,2014-09
-15281459665,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,16,306170160.0,Événement Temporaire,2014-09-14 15:16:00,2014-09
-15094897757,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,16,306170160.0,Événement Temporaire,2014-09-14 15:16:00,2014-09
-15278244771,45.758802,4.830819,345,dfil musician music france dance europe lyon place danse biennale dfil,2014,9,14,15,16,306170160.0,Événement Temporaire,2014-09-14 15:16:00,2014-09
-15094640740,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,15,306170100.0,Événement Temporaire,2014-09-14 15:15:00,2014-09
-15094636740,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,15,306170100.0,Événement Temporaire,2014-09-14 15:15:00,2014-09
-15094581059,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,15,306170100.0,Événement Temporaire,2014-09-14 15:15:00,2014-09
-15278113081,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,14,306170040.0,Événement Temporaire,2014-09-14 15:14:00,2014-09
-15094481490,45.758802,4.830819,345,dfil woman france look dance europe lyon femme place danse biennale regard dfil,2014,9,14,15,13,306169980.0,Événement Temporaire,2014-09-14 15:13:00,2014-09
-15088614817,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,12,306169920.0,Événement Temporaire,2014-09-14 15:12:00,2014-09
-15275177035,45.758803,4.83082,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,12,306169920.0,Événement Temporaire,2014-09-14 15:12:00,2014-09
-15088425269,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,12,306169920.0,Événement Temporaire,2014-09-14 15:12:00,2014-09
-15088472760,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,12,306169920.0,Événement Temporaire,2014-09-14 15:12:00,2014-09
-15275172755,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,12,306169920.0,Événement Temporaire,2014-09-14 15:12:00,2014-09
-15272052501,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,11,306169860.0,Événement Temporaire,2014-09-14 15:11:00,2014-09
-15085448099,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,10,306169800.0,Événement Temporaire,2014-09-14 15:10:00,2014-09
-15269074721,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil guignol,2014,9,14,15,10,306169800.0,Événement Temporaire,2014-09-14 15:10:00,2014-09
-15085441929,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil guignol,2014,9,14,15,10,306169800.0,Événement Temporaire,2014-09-14 15:10:00,2014-09
-15085520367,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,0,306169200.0,Événement Temporaire,2014-09-14 15:00:00,2014-09
-15085498798,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,0,306169200.0,Événement Temporaire,2014-09-14 15:00:00,2014-09
-15074969560,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,16,3,306172980.0,Événement Temporaire,2014-09-14 16:03:00,2014-09
-15074915909,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,16,3,306172980.0,Événement Temporaire,2014-09-14 16:03:00,2014-09
-15258568571,45.758803,4.83082,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,16,2,306172920.0,Événement Temporaire,2014-09-14 16:02:00,2014-09
-15258565551,45.758803,4.83082,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,16,2,306172920.0,Événement Temporaire,2014-09-14 16:02:00,2014-09
-15074941147,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,54,306172440.0,Événement Temporaire,2014-09-14 15:54:00,2014-09
-15238439246,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,53,306172380.0,Événement Temporaire,2014-09-14 15:53:00,2014-09
-15074810628,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,53,306172380.0,Événement Temporaire,2014-09-14 15:53:00,2014-09
-15074805317,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,52,306172320.0,Événement Temporaire,2014-09-14 15:52:00,2014-09
-15074767068,45.758803,4.83082,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,50,306172200.0,Événement Temporaire,2014-09-14 15:50:00,2014-09
-15260916302,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,50,306172200.0,Événement Temporaire,2014-09-14 15:50:00,2014-09
-15238297526,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,49,306172140.0,Événement Temporaire,2014-09-14 15:49:00,2014-09
-15074548670,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,49,306172140.0,Événement Temporaire,2014-09-14 15:49:00,2014-09
-15074474509,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,48,306172080.0,Événement Temporaire,2014-09-14 15:48:00,2014-09
-15261192585,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,48,306172080.0,Événement Temporaire,2014-09-14 15:48:00,2014-09
-15074598857,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,48,306172080.0,Événement Temporaire,2014-09-14 15:48:00,2014-09
-15074439130,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,47,306172020.0,Événement Temporaire,2014-09-14 15:47:00,2014-09
-15074383479,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,47,306172020.0,Événement Temporaire,2014-09-14 15:47:00,2014-09
-15238079066,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil accordon,2014,9,14,15,46,306171960.0,Événement Temporaire,2014-09-14 15:46:00,2014-09
-15074354550,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,46,306171960.0,Événement Temporaire,2014-09-14 15:46:00,2014-09
-15261029575,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,46,306171960.0,Événement Temporaire,2014-09-14 15:46:00,2014-09
-15247612501,45.758803,4.83082,345,dfil france girl dance europe lyon place danse biennale dfil,2014,9,14,15,6,306169560.0,Événement Temporaire,2014-09-14 15:06:00,2014-09
-15260972405,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,46,306171960.0,Événement Temporaire,2014-09-14 15:46:00,2014-09
-15074369718,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,46,306171960.0,Événement Temporaire,2014-09-14 15:46:00,2014-09
-15074341937,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,46,306171960.0,Événement Temporaire,2014-09-14 15:46:00,2014-09
-15260515512,45.758802,4.830819,345,dfil france girl dance europe lyon place danse biennale pantyhose dfil collant,2014,9,14,15,45,306171900.0,Événement Temporaire,2014-09-14 15:45:00,2014-09
-15251632105,45.758802,4.830819,345,dfil france look dance europe lyon place danse biennale regard dfil,2014,9,14,15,53,306172380.0,Événement Temporaire,2014-09-14 15:53:00,2014-09
-15064937360,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,28,306170880.0,Événement Temporaire,2014-09-14 15:28:00,2014-09
-15251245922,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,23,306170580.0,Événement Temporaire,2014-09-14 15:23:00,2014-09
-15251242552,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,22,306170520.0,Événement Temporaire,2014-09-14 15:22:00,2014-09
-15064928480,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,22,306170520.0,Événement Temporaire,2014-09-14 15:22:00,2014-09
-15064852389,45.758803,4.83082,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,20,306170400.0,Événement Temporaire,2014-09-14 15:20:00,2014-09
-15251232702,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,19,306170340.0,Événement Temporaire,2014-09-14 15:19:00,2014-09
-15065031147,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,18,306170280.0,Événement Temporaire,2014-09-14 15:18:00,2014-09
-15064585958,45.758803,4.83082,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,13,306169980.0,Événement Temporaire,2014-09-14 15:13:00,2014-09
-15064581108,45.758803,4.83082,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,13,306169980.0,Événement Temporaire,2014-09-14 15:13:00,2014-09
-15064371759,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,13,306169980.0,Événement Temporaire,2014-09-14 15:13:00,2014-09
-15250675692,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,12,306169920.0,Événement Temporaire,2014-09-14 15:12:00,2014-09
-15064358030,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,11,306169860.0,Événement Temporaire,2014-09-14 15:11:00,2014-09
-15227939506,45.758803,4.83082,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,11,306169860.0,Événement Temporaire,2014-09-14 15:11:00,2014-09
-15250557882,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,11,306169860.0,Événement Temporaire,2014-09-14 15:11:00,2014-09
-15250925685,45.758802,4.830819,345,guignol france dance europe lyon place danse biennale dfil guignol,2014,9,14,15,11,306169860.0,Événement Temporaire,2014-09-14 15:11:00,2014-09
-15250812155,45.758803,4.83082,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,7,306169620.0,Événement Temporaire,2014-09-14 15:07:00,2014-09
-15063898600,45.758802,4.830819,345,dfil man france look dance europe lyon place security danse biennale regard dfil,2014,9,14,15,1,306169260.0,Événement Temporaire,2014-09-14 15:01:00,2014-09
-15250562085,45.758803,4.83082,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,0,306169200.0,Événement Temporaire,2014-09-14 15:00:00,2014-09
-15227495456,45.758803,4.83082,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,0,306169200.0,Événement Temporaire,2014-09-14 15:00:00,2014-09
-15250062232,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,54,306172440.0,Événement Temporaire,2014-09-14 15:54:00,2014-09
-15227438386,45.758802,4.830819,345,dfil woman france smile dance europe lyon place danse biennale sourire dfil,2014,9,14,15,6,306169560.0,Événement Temporaire,2014-09-14 15:06:00,2014-09
-15063741870,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,5,306169500.0,Événement Temporaire,2014-09-14 15:05:00,2014-09
-15250357755,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale marionette dfil,2014,9,14,15,12,306169920.0,Événement Temporaire,2014-09-14 15:12:00,2014-09
-15219271956,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,49,306172140.0,Événement Temporaire,2014-09-14 15:49:00,2014-09
-15239189661,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,48,306172080.0,Événement Temporaire,2014-09-14 15:48:00,2014-09
-15239117241,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,15,306170100.0,Événement Temporaire,2014-09-14 15:15:00,2014-09
-15241814662,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,14,306170040.0,Événement Temporaire,2014-09-14 15:14:00,2014-09
-15055579627,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,0,306169200.0,Événement Temporaire,2014-09-14 15:00:00,2014-09
-15611198105,45.758803,4.83082,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,48,306172080.0,Événement Temporaire,2014-09-14 15:48:00,2014-09
-15425077248,45.758803,4.83082,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,24,306170640.0,Événement Temporaire,2014-09-14 15:24:00,2014-09
-15587361886,45.758803,4.83082,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,13,306169980.0,Événement Temporaire,2014-09-14 15:13:00,2014-09
-16743291770,45.758803,4.83082,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,38,306171480.0,Événement Temporaire,2014-09-14 15:38:00,2014-09
-16930686245,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,38,306171480.0,Événement Temporaire,2014-09-14 15:38:00,2014-09
-16929393262,45.758802,4.830819,345,dfil france dance europe lyon place danse biennale dfil,2014,9,14,15,37,306171420.0,Événement Temporaire,2014-09-14 15:37:00,2014-09
+31943865370,45.766063,4.827375,345, ,2016,12,25,10,53,378125580.0,Événement Temporaire,2016-12-25 10:53:00,2016-12
+31273675504,45.766026,4.827439,345,gare stpaul illumine lors fte lumires lyon evenement edificeremarquable ftedeslumires gare garestpaul lyon longexposure longueexposition monument night nuit theme auvergnerhnealpes france,2016,12,9,21,7,376780020.0,Événement Temporaire,2016-12-09 21:07:00,2016-12
+31613847112,45.765928,4.827412,345,voyage gare saintpaul ,2016,12,20,10,17,377691420.0,Événement Temporaire,2016-12-20 10:17:00,2016-12
+31388441930,45.765928,4.827412,345,voyage gare saintpaul ,2016,12,20,10,17,377691420.0,Événement Temporaire,2016-12-20 10:17:00,2016-12
+31644517641,45.765928,4.827412,345,voyage gare saintpaul ,2016,12,20,10,16,377691360.0,Événement Temporaire,2016-12-20 10:16:00,2016-12
+31613742302,45.765928,4.827412,345,voyage gare saintpaul ,2016,12,20,10,16,377691360.0,Événement Temporaire,2016-12-20 10:16:00,2016-12
+31723283496,45.765928,4.827412,345,voyage gare saintpaul ,2016,12,20,10,15,377691300.0,Événement Temporaire,2016-12-20 10:15:00,2016-12
+31613673352,45.765928,4.827412,345,voyage gare saintpaul ,2016,12,20,10,15,377691300.0,Événement Temporaire,2016-12-20 10:15:00,2016-12
+30918939264,45.765928,4.827412,345,voyage gare saintpaul ,2016,12,20,10,14,377691240.0,Événement Temporaire,2016-12-20 10:14:00,2016-12
+31723193996,45.765928,4.827412,345,voyage gare saintpaul ,2016,12,20,10,14,377691240.0,Événement Temporaire,2016-12-20 10:14:00,2016-12
+30918890124,45.765928,4.827412,345,voyage gare saintpaul ,2016,12,20,10,13,377691180.0,Événement Temporaire,2016-12-20 10:13:00,2016-12
+30918866314,45.765928,4.827412,345,voyage gare saintpaul ,2016,12,20,10,13,377691180.0,Événement Temporaire,2016-12-20 10:13:00,2016-12
+30950816213,45.765928,4.827412,345,voyage gare saintpaul ,2016,12,20,10,12,377691120.0,Événement Temporaire,2016-12-20 10:12:00,2016-12
+31760478085,45.765928,4.827412,345,voyage gare saintpaul ,2016,12,20,10,11,377691060.0,Événement Temporaire,2016-12-20 10:11:00,2016-12
+31760438185,45.765928,4.827412,345,voyage gare saintpaul ,2016,12,20,10,11,377691060.0,Événement Temporaire,2016-12-20 10:11:00,2016-12
+30918750434,45.765928,4.827412,345,voyage gare saintpaul ,2016,12,20,10,10,377691000.0,Événement Temporaire,2016-12-20 10:10:00,2016-12
+31722975186,45.765928,4.827412,345,voyage gare saintpaul ,2016,12,20,10,9,377690940.0,Événement Temporaire,2016-12-20 10:09:00,2016-12
+30950612643,45.765928,4.827412,345,voyage gare saintpaul ,2016,12,14,13,28,377184480.0,Événement Temporaire,2016-12-14 13:28:00,2016-12
+31722920136,45.765928,4.827412,345,voyage gare saintpaul ,2016,12,14,13,24,377184240.0,Événement Temporaire,2016-12-14 13:24:00,2016-12
+31679769695,45.766041,4.827579,345,img jpg ftedeslumitres lyon ftedeslumires dcembre illumination illumination spectacle rue couleurs,2016,12,9,22,43,376785780.0,Événement Temporaire,2016-12-09 22:43:00,2016-12
+31564360171,45.766041,4.827579,345,img jpg ftedeslumitres lyon ftedeslumires dcembre illumination illumination spectacle rue couleurs,2016,12,9,22,41,376785660.0,Événement Temporaire,2016-12-09 22:41:00,2016-12
+31533774842,45.766041,4.827579,345,img jpg ftedeslumitres lyon ftedeslumires dcembre illumination illumination spectacle rue couleurs,2016,12,9,22,40,376785600.0,Événement Temporaire,2016-12-09 22:40:00,2016-12
+35654643646,45.76616,4.827504,345, ftedeslumires lyon gare saint paul,2016,12,9,0,28,376705680.0,Événement Temporaire,2016-12-09 00:28:00,2016-12
+35654643086,45.76616,4.827504,345, ftedeslumires lyon gare saint paul,2016,12,9,0,29,376705740.0,Événement Temporaire,2016-12-09 00:29:00,2016-12
+35525078232,45.76616,4.827504,345, ftedeslumires lyon gare saint paul,2016,12,9,0,28,376705680.0,Événement Temporaire,2016-12-09 00:28:00,2016-12
+35525077922,45.76616,4.827504,345, ftedeslumires lyon gare saint paul,2016,12,9,0,29,376705740.0,Événement Temporaire,2016-12-09 00:29:00,2016-12
+35654642146,45.76616,4.827504,345, ftedeslumires lyon gare saint paul,2016,12,9,0,30,376705800.0,Événement Temporaire,2016-12-09 00:30:00,2016-12
+35525077592,45.76616,4.827504,345, ftedeslumires lyon gare saint paul,2016,12,9,0,30,376705800.0,Événement Temporaire,2016-12-09 00:30:00,2016-12
+35525077232,45.76616,4.827504,345, ftedeslumires lyon gare saint paul,2016,12,9,0,31,376705860.0,Événement Temporaire,2016-12-09 00:31:00,2016-12
+35654641636,45.76616,4.827504,345, ftedeslumires lyon gare saint paul,2016,12,9,0,31,376705860.0,Événement Temporaire,2016-12-09 00:31:00,2016-12
+35525076892,45.76616,4.827504,345, ftedeslumires lyon gare saint paul,2016,12,9,0,31,376705860.0,Événement Temporaire,2016-12-09 00:31:00,2016-12
+35654641006,45.76616,4.827504,345, ftedeslumires lyon gare saint paul,2016,12,9,0,31,376705860.0,Événement Temporaire,2016-12-09 00:31:00,2016-12
+35654640156,45.76616,4.827504,345, ftedeslumires lyon gare saint paul,2016,12,9,0,32,376705920.0,Événement Temporaire,2016-12-09 00:32:00,2016-12
+35525076492,45.76616,4.827504,345, ftedeslumires lyon gare saint paul,2016,12,9,0,31,376705860.0,Événement Temporaire,2016-12-09 00:31:00,2016-12
+35525075932,45.76616,4.827504,345, ftedeslumires lyon gare saint paul,2016,12,9,0,32,376705920.0,Événement Temporaire,2016-12-09 00:32:00,2016-12
+35525075512,45.76616,4.827504,345, ftedeslumires lyon gare saint paul,2016,12,9,0,27,376705620.0,Événement Temporaire,2016-12-09 00:27:00,2016-12
+35693822745,45.76616,4.827504,345, ftedeslumires lyon gare saint paul,2016,12,9,0,26,376705560.0,Événement Temporaire,2016-12-09 00:26:00,2016-12
+34852911544,45.76616,4.827504,345, ftedeslumires lyon gare saint paul,2016,12,9,0,28,376705680.0,Événement Temporaire,2016-12-09 00:28:00,2016-12
+35525074682,45.76616,4.827504,345, ftedeslumires lyon gare saint paul,2016,12,9,0,30,376705800.0,Événement Temporaire,2016-12-09 00:30:00,2016-12
+35525074982,45.76616,4.827504,345, ftedeslumires lyon gare saint paul,2016,12,9,0,28,376705680.0,Événement Temporaire,2016-12-09 00:28:00,2016-12
+35525074412,45.76616,4.827504,345, ftedeslumires lyon gare saint paul,2016,12,9,0,27,376705620.0,Événement Temporaire,2016-12-09 00:27:00,2016-12
+31404051201,45.766111,4.8275,345, ,2016,12,8,23,17,376701420.0,Événement Temporaire,2016-12-08 23:17:00,2016-12
+31519507085,45.765833,4.8275,345, ,2016,12,8,23,25,376701900.0,Événement Temporaire,2016-12-08 23:25:00,2016-12
+31404048241,45.765833,4.8275,345, ,2016,12,8,23,26,376701960.0,Événement Temporaire,2016-12-08 23:26:00,2016-12
+30678781754,45.766111,4.8275,345, ,2016,12,8,23,29,376702140.0,Événement Temporaire,2016-12-08 23:29:00,2016-12
+31404047371,45.765833,4.8275,345, ,2016,12,8,23,29,376702140.0,Événement Temporaire,2016-12-08 23:29:00,2016-12
+31519511645,45.765833,4.8275,345, ,2016,12,8,23,17,376701420.0,Événement Temporaire,2016-12-08 23:17:00,2016-12
+31519510185,45.765833,4.8275,345, ,2016,12,8,23,17,376701420.0,Événement Temporaire,2016-12-08 23:17:00,2016-12
+31404050301,45.765833,4.8275,345, ,2016,12,8,23,19,376701540.0,Événement Temporaire,2016-12-08 23:19:00,2016-12
+31519508595,45.766111,4.8275,345, ,2016,12,8,23,24,376701840.0,Événement Temporaire,2016-12-08 23:24:00,2016-12
+31404049441,45.765833,4.8275,345, ,2016,12,8,23,25,376701900.0,Événement Temporaire,2016-12-08 23:25:00,2016-12

@@ -1,64 +1,38 @@
 id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken,year_month
-7035216329,45.758863,4.826002,346,bal masqu oy oy carnaval dragon stgeorges lyon ,2012,3,31,15,49,228671340.0,Événement Temporaire,2012-03-31 15:49:00,2012-03
-7035225811,45.758863,4.826002,346,pilote char carnaval dragon stpaul lyon ,2012,3,31,15,51,228671460.0,Événement Temporaire,2012-03-31 15:51:00,2012-03
-6889128282,45.758863,4.826002,346,ca va finir apn carnaval dragon stgeorges lyon ,2012,3,31,15,51,228671460.0,Événement Temporaire,2012-03-31 15:51:00,2012-03
-7035219901,45.758863,4.826002,346,petit escargot carnaval dragon stgeorges lyon ,2012,3,31,15,51,228671460.0,Événement Temporaire,2012-03-31 15:51:00,2012-03
-7035214679,45.758863,4.826002,346,tentative druidesque desses carnaval dragon stgeorges lyon ,2012,3,31,15,37,228670620.0,Événement Temporaire,2012-03-31 15:37:00,2012-03
-6889117732,45.758863,4.826002,346,priv carnavalsnif carnaval dragon carnaval dragon stgeorges lyon ,2012,3,31,15,33,228670380.0,Événement Temporaire,2012-03-31 15:33:00,2012-03
-7035207981,45.758863,4.826002,346,abeille organisatrice carnaval dragon stgeorges lyon ,2012,3,31,15,26,228669960.0,Événement Temporaire,2012-03-31 15:26:00,2012-03
-7035206003,45.758863,4.826002,346,chef bruit lambiance carnaval dragon stgeorges lyon ,2012,3,31,15,26,228669960.0,Événement Temporaire,2012-03-31 15:26:00,2012-03
-7035203473,45.758863,4.826002,346,legion carnaval dragon stgeorges lyon ,2012,3,31,15,25,228669900.0,Événement Temporaire,2012-03-31 15:25:00,2012-03
-6889041852,45.758863,4.826002,346,dcouverte carnaval dragon stgeorges lyon ,2012,3,31,14,32,228666720.0,Événement Temporaire,2012-03-31 14:32:00,2012-03
-6889108442,45.758863,4.826002,346,masqu carnaval dragon stgeorges lyon ,2012,3,31,15,23,228669780.0,Événement Temporaire,2012-03-31 15:23:00,2012-03
-6889106996,45.758863,4.826002,346,descente ski carnaval dragon stgeorges lyon ,2012,3,31,15,23,228669780.0,Événement Temporaire,2012-03-31 15:23:00,2012-03
-7035196875,45.758863,4.826002,346,machine sou enfantine carnaval dragon stgeorges lyon ,2012,3,31,15,22,228669720.0,Événement Temporaire,2012-03-31 15:22:00,2012-03
-6889102782,45.758863,4.826002,346,petite princesse carnaval dragon stgeorges lyon ,2012,3,31,15,21,228669660.0,Événement Temporaire,2012-03-31 15:21:00,2012-03
-6889100528,45.758863,4.826002,346,want doudou carnaval dragon stgeorges lyon ,2012,3,31,15,20,228669600.0,Événement Temporaire,2012-03-31 15:20:00,2012-03
-6889098718,45.758863,4.826002,346,tout monde lve bra mme fourvire carnaval dragon stgeorges lyon ,2012,3,31,15,17,228669420.0,Événement Temporaire,2012-03-31 15:17:00,2012-03
-7035189307,45.758863,4.826002,346,dentition prohminente carnaval dragon stgeorges lyon ,2012,3,31,15,14,228669240.0,Événement Temporaire,2012-03-31 15:14:00,2012-03
-7035187875,45.758863,4.826002,346,djette herbe carnaval dragon stgeorges lyon ,2012,3,31,15,13,228669180.0,Événement Temporaire,2012-03-31 15:13:00,2012-03
-6889092836,45.758863,4.826002,346,djette herbe carnaval dragon stgeorges lyon ,2012,3,31,15,13,228669180.0,Événement Temporaire,2012-03-31 15:13:00,2012-03
-7035183863,45.758863,4.826002,346,char tte envahi petite ttes carnaval dragon stgeorges lyon ,2012,3,31,15,13,228669180.0,Événement Temporaire,2012-03-31 15:13:00,2012-03
-7035180465,45.758863,4.826002,346,entre faire fte organiser carnaval dragon stgeorges lyon ,2012,3,31,15,8,228668880.0,Événement Temporaire,2012-03-31 15:08:00,2012-03
-7035178873,45.758863,4.826002,346,pleine enqute carnaval dragon stgeorges lyon ,2012,3,31,15,8,228668880.0,Événement Temporaire,2012-03-31 15:08:00,2012-03
-6889083580,45.758863,4.826002,346,oldie carnaval dragon stgeorges lyon ,2012,3,31,15,4,228668640.0,Événement Temporaire,2012-03-31 15:04:00,2012-03
-6889082174,45.758863,4.826002,346,dfil pointe pique vers ballons carnaval dragon stgeorges lyon ,2012,3,31,15,2,228668520.0,Événement Temporaire,2012-03-31 15:02:00,2012-03
-6889080786,45.758863,4.826002,346,petite duchesse carnaval dragon stgeorges lyon ,2012,3,31,15,0,228668400.0,Événement Temporaire,2012-03-31 15:00:00,2012-03
-7035171651,45.758863,4.826002,346,assortiment masque chapeau carnaval dragon stgeorges lyon ,2012,3,31,14,58,228668280.0,Événement Temporaire,2012-03-31 14:58:00,2012-03
-6889077464,45.758863,4.826002,346,mascotte carnaval dragon stgeorges lyon ,2012,3,31,14,57,228668220.0,Événement Temporaire,2012-03-31 14:57:00,2012-03
-7035166919,45.758863,4.826002,346,takalikatia poum tchak carnaval dragon stgeorges lyon ,2012,3,31,14,56,228668160.0,Événement Temporaire,2012-03-31 14:56:00,2012-03
-7035165459,45.758863,4.826002,346,fanfare carnaval dragon stgeorges lyon ,2012,3,31,14,56,228668160.0,Événement Temporaire,2012-03-31 14:56:00,2012-03
-7035163799,45.758863,4.826002,346,ordres chef carnaval dragon stgeorges lyon ,2012,3,31,14,55,228668100.0,Événement Temporaire,2012-03-31 14:55:00,2012-03
-7035162335,45.758863,4.826002,346,marionette carnaval dragon stgeorges lyon ,2012,3,31,14,54,228668040.0,Événement Temporaire,2012-03-31 14:54:00,2012-03
-7035160393,45.758863,4.826002,346,petite princess carnaval dragon stgeorges lyon ,2012,3,31,14,49,228667740.0,Événement Temporaire,2012-03-31 14:49:00,2012-03
-7035157439,45.758863,4.826002,346,desse carnaval dragon stgeorges lyon ,2012,3,31,14,48,228667680.0,Événement Temporaire,2012-03-31 14:48:00,2012-03
-6889062202,45.758863,4.826002,346,tte domino carnaval dragon stgeorges lyon ,2012,3,31,14,46,228667560.0,Événement Temporaire,2012-03-31 14:46:00,2012-03
-6889059636,45.758863,4.826002,346,salut camel carnaval dragon stgeorges lyon ,2012,3,31,14,43,228667380.0,Événement Temporaire,2012-03-31 14:43:00,2012-03
-7035151419,45.758863,4.826002,346,petit chiot souriant carnaval dragon stgeorges lyon ,2012,3,31,14,43,228667380.0,Événement Temporaire,2012-03-31 14:43:00,2012-03
-6889055996,45.758863,4.826002,346,femme domino carnaval dragon stgeorges lyon ,2012,3,31,14,37,228667020.0,Événement Temporaire,2012-03-31 14:37:00,2012-03
-6889054322,45.758863,4.826002,346,dindon fte carnaval dragon stgeorges lyon ,2012,3,31,14,37,228667020.0,Événement Temporaire,2012-03-31 14:37:00,2012-03
-6889052324,45.758863,4.826002,346,cabriolet fantasy carnaval dragon stgeorges lyon ,2012,3,31,14,36,228666960.0,Événement Temporaire,2012-03-31 14:36:00,2012-03
-7035143363,45.758863,4.826002,346,entre enfer cieux carnaval dragon stgeorges lyon ,2012,3,31,14,35,228666900.0,Événement Temporaire,2012-03-31 14:35:00,2012-03
-6889048626,45.758863,4.826002,346,petite force obscure carnaval dragon stgeorges lyon ,2012,3,31,14,34,228666840.0,Événement Temporaire,2012-03-31 14:34:00,2012-03
-7035139283,45.758863,4.826002,346,desse athna carnaval dragon stgeorges lyon ,2012,3,31,14,34,228666840.0,Événement Temporaire,2012-03-31 14:34:00,2012-03
-6889044638,45.758863,4.826002,346,dieu grec zeus personne carnaval dragon stgeorges lyon ,2012,3,31,14,34,228666840.0,Événement Temporaire,2012-03-31 14:34:00,2012-03
-7035136259,45.758863,4.826002,346,triplette lolympe carnaval dragon stgeorges lyon ,2012,3,31,14,33,228666780.0,Événement Temporaire,2012-03-31 14:33:00,2012-03
-7035133013,45.758863,4.826002,346,fanfare carnaval dragon stgeorges lyon ,2012,3,31,14,32,228666720.0,Événement Temporaire,2012-03-31 14:32:00,2012-03
-7035131989,45.758863,4.826002,346,fanfare carnaval dragon stgeorges lyon ,2012,3,31,14,32,228666720.0,Événement Temporaire,2012-03-31 14:32:00,2012-03
-6889036960,45.758863,4.826002,346,fanfare carnaval dragon stgeorges lyon ,2012,3,31,14,31,228666660.0,Événement Temporaire,2012-03-31 14:31:00,2012-03
-6889035788,45.758863,4.826002,346,triplette carnaval dragon stgeorges lyon ,2012,3,31,14,30,228666600.0,Événement Temporaire,2012-03-31 14:30:00,2012-03
-7035126583,45.758863,4.826002,346,petit matelot carnaval dragon stgeorges lyon ,2012,3,31,14,30,228666600.0,Événement Temporaire,2012-03-31 14:30:00,2012-03
-7035125599,45.758863,4.826002,346,bonne douche carnaval dragon stgeorges lyon ,2012,3,31,14,28,228666480.0,Événement Temporaire,2012-03-31 14:28:00,2012-03
-6889031072,45.758863,4.826002,346,dtective carnaval dragon stgeorges lyon ,2012,3,31,14,26,228666360.0,Événement Temporaire,2012-03-31 14:26:00,2012-03
-7035122091,45.758863,4.826002,346,bronzage olympique carnaval dragon stgeorges lyon ,2012,3,31,14,26,228666360.0,Événement Temporaire,2012-03-31 14:26:00,2012-03
-6889027170,45.758863,4.826002,346,trs petite diablesse carnaval dragon stgeorges lyon ,2012,3,31,14,26,228666360.0,Événement Temporaire,2012-03-31 14:26:00,2012-03
-6889025302,45.758863,4.826002,346,petite diablesse carnaval dragon stgeorges lyon ,2012,3,31,14,26,228666360.0,Événement Temporaire,2012-03-31 14:26:00,2012-03
-7035117109,45.758863,4.826002,346,mascotte carnaval dragon stpaul lyon ,2012,3,31,14,24,228666240.0,Événement Temporaire,2012-03-31 14:24:00,2012-03
-6889021678,45.758863,4.826002,346,dcouverte carnaval dragon stpaul lyon ,2012,3,31,14,24,228666240.0,Événement Temporaire,2012-03-31 14:24:00,2012-03
-6889019582,45.758863,4.826002,346,avant carnaval dragon stpaul lyon ,2012,3,31,14,23,228666180.0,Événement Temporaire,2012-03-31 14:23:00,2012-03
-7035111491,45.758863,4.826002,346,grard colomb maire lyon carnaval dragon stgeorges lyon ,2012,3,31,14,18,228665880.0,Événement Temporaire,2012-03-31 14:18:00,2012-03
-6889011448,45.758863,4.826002,346,carnaval dragon stgeorges lyon ,2012,3,31,14,3,228664980.0,Événement Temporaire,2012-03-31 14:03:00,2012-03
-6889016360,45.758863,4.826002,346,carnaval dragon stgeorges lyon ,2012,3,31,14,16,228665760.0,Événement Temporaire,2012-03-31 14:16:00,2012-03
-7035108309,45.758863,4.826002,346,carnaval dragon stgeorges lyon ,2012,3,31,14,14,228665640.0,Événement Temporaire,2012-03-31 14:14:00,2012-03
-6889013688,45.758863,4.826002,346,carnaval dragon stgeorges lyon ,2012,3,31,14,9,228665340.0,Événement Temporaire,2012-03-31 14:09:00,2012-03
-6889012430,45.758863,4.826002,346,carnaval dragon stgeorges lyon ,2012,3,31,14,7,228665220.0,Événement Temporaire,2012-03-31 14:07:00,2012-03
+14226753022,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,19,43,279920580.0,Événement Temporaire,2013-11-14 19:43:00,2013-11
+14229066245,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,20,16,279922560.0,Événement Temporaire,2013-11-14 20:16:00,2013-11
+14042414079,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,19,44,279920640.0,Événement Temporaire,2013-11-14 19:44:00,2013-11
+14042413999,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,20,14,279922440.0,Événement Temporaire,2013-11-14 20:14:00,2013-11
+14042496267,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,20,17,279922620.0,Événement Temporaire,2013-11-14 20:17:00,2013-11
+14042496187,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,20,18,279922680.0,Événement Temporaire,2013-11-14 20:18:00,2013-11
+14042411708,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,20,20,279922800.0,Événement Temporaire,2013-11-14 20:20:00,2013-11
+14042496037,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,20,21,279922860.0,Événement Temporaire,2013-11-14 20:21:00,2013-11
+14249246343,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,20,29,279923340.0,Événement Temporaire,2013-11-14 20:29:00,2013-11
+14042452540,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,20,27,279923220.0,Événement Temporaire,2013-11-14 20:27:00,2013-11
+14042452500,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,20,35,279923700.0,Événement Temporaire,2013-11-14 20:35:00,2013-11
+14249246263,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,19,24,279919440.0,Événement Temporaire,2013-11-14 19:24:00,2013-11
+14226752392,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,20,10,279922200.0,Événement Temporaire,2013-11-14 20:10:00,2013-11
+14226752432,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,22,10,279929400.0,Événement Temporaire,2013-11-14 22:10:00,2013-11
+14042411348,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,20,19,279922740.0,Événement Temporaire,2013-11-14 20:19:00,2013-11
+14042452390,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,20,14,279922440.0,Événement Temporaire,2013-11-14 20:14:00,2013-11
+14042413209,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,20,26,279923160.0,Événement Temporaire,2013-11-14 20:26:00,2013-11
+14249246143,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,20,17,279922620.0,Événement Temporaire,2013-11-14 20:17:00,2013-11
+14042413119,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,20,41,279924060.0,Événement Temporaire,2013-11-14 20:41:00,2013-11
+14042495437,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,20,55,279924900.0,Événement Temporaire,2013-11-14 20:55:00,2013-11
+14205925246,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,20,38,279923880.0,Événement Temporaire,2013-11-14 20:38:00,2013-11
+14249246013,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,21,18,279926280.0,Événement Temporaire,2013-11-14 21:18:00,2013-11
+14042413039,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,21,6,279925560.0,Événement Temporaire,2013-11-14 21:06:00,2013-11
+14226751992,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,21,24,279926640.0,Événement Temporaire,2013-11-14 21:24:00,2013-11
+14226751932,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,21,25,279926700.0,Événement Temporaire,2013-11-14 21:25:00,2013-11
+14205925006,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,21,24,279926640.0,Événement Temporaire,2013-11-14 21:24:00,2013-11
+14228844134,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,21,25,279926700.0,Événement Temporaire,2013-11-14 21:25:00,2013-11
+14042451930,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,21,28,279926880.0,Événement Temporaire,2013-11-14 21:28:00,2013-11
+14249245803,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,21,57,279928620.0,Événement Temporaire,2013-11-14 21:57:00,2013-11
+14249245883,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,21,26,279926760.0,Événement Temporaire,2013-11-14 21:26:00,2013-11
+14042410928,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,21,57,279928620.0,Événement Temporaire,2013-11-14 21:57:00,2013-11
+14042495007,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,21,57,279928620.0,Événement Temporaire,2013-11-14 21:57:00,2013-11
+14229065185,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,21,49,279928140.0,Événement Temporaire,2013-11-14 21:49:00,2013-11
+14226751652,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,21,47,279928020.0,Événement Temporaire,2013-11-14 21:47:00,2013-11
+14226751562,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,21,47,279928020.0,Événement Temporaire,2013-11-14 21:47:00,2013-11
+14229064955,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,22,4,279929040.0,Événement Temporaire,2013-11-14 22:04:00,2013-11
+14228843664,45.763294,4.834263,346,soire dinh van ngociants france lyon,2013,11,14,21,58,279928680.0,Événement Temporaire,2013-11-14 21:58:00,2013-11

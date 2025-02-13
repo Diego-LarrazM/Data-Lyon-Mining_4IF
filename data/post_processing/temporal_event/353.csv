@@ -1,35 +1,52 @@
 id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken,year_month
-5399374348,45.774666,4.834692,353, lyon lumire fte,2010,12,9,22,4,187394640.0,Événement Temporaire,2010-12-09 22:04:00,2010-12
-5399374012,45.774658,4.834746,353, lyon lumire fte,2010,12,9,22,3,187394580.0,Événement Temporaire,2010-12-09 22:03:00,2010-12
-5256019968,45.774737,4.834949,353,oeuf france lyon reflexion,2010,12,11,22,52,187570320.0,Événement Temporaire,2010-12-11 22:52:00,2010-12
-5256020330,45.774737,4.834949,353,oeuf france lyon,2010,12,11,22,54,187570440.0,Événement Temporaire,2010-12-11 22:54:00,2010-12
-5255406795,45.774737,4.834949,353,oeuf france lyon,2010,12,11,22,53,187570380.0,Événement Temporaire,2010-12-11 22:53:00,2010-12
-5256020136,45.774737,4.834949,353,oeuf france lyon reflexion,2010,12,11,22,52,187570320.0,Événement Temporaire,2010-12-11 22:52:00,2010-12
-5255406379,45.774737,4.834949,353,oeuf france lyon,2010,12,11,22,52,187570320.0,Événement Temporaire,2010-12-11 22:52:00,2010-12
-5255406247,45.774737,4.834949,353,oeuf france lyon reflexion,2010,12,11,22,52,187570320.0,Événement Temporaire,2010-12-11 22:52:00,2010-12
-5255406099,45.774737,4.834949,353,oeuf france lyon,2010,12,11,22,52,187570320.0,Événement Temporaire,2010-12-11 22:52:00,2010-12
-5255405965,45.774737,4.834949,353,oeuf france lyon,2010,12,11,22,51,187570260.0,Événement Temporaire,2010-12-11 22:51:00,2010-12
-5255405689,45.774737,4.834949,353,oeuf france lyon,2010,12,11,22,51,187570260.0,Événement Temporaire,2010-12-11 22:51:00,2010-12
-5256018888,45.774737,4.834949,353,oeuf france lyon,2010,12,11,22,50,187570200.0,Événement Temporaire,2010-12-11 22:50:00,2010-12
-5256018734,45.774737,4.834949,353,oeuf france lyon,2010,12,11,22,50,187570200.0,Événement Temporaire,2010-12-11 22:50:00,2010-12
-5256018584,45.774737,4.834949,353,oeuf france lyon,2010,12,11,22,50,187570200.0,Événement Temporaire,2010-12-11 22:50:00,2010-12
-5255405089,45.774737,4.834949,353,oeuf france lyon,2010,12,11,22,50,187570200.0,Événement Temporaire,2010-12-11 22:50:00,2010-12
-5256018314,45.774737,4.834949,353,oeuf france lyon reflexion,2010,12,11,22,49,187570140.0,Événement Temporaire,2010-12-11 22:49:00,2010-12
-5255404811,45.774737,4.834949,353,oeuf france lyon,2010,12,11,22,48,187570080.0,Événement Temporaire,2010-12-11 22:48:00,2010-12
-5256018034,45.774737,4.834949,353,oeuf france lyon,2010,12,11,22,48,187570080.0,Événement Temporaire,2010-12-11 22:48:00,2010-12
-5255404523,45.774737,4.834949,353,oeuf france lyon,2010,12,11,22,47,187570020.0,Événement Temporaire,2010-12-11 22:47:00,2010-12
-5255404399,45.774737,4.834949,353,oeuf france lyon,2010,12,11,22,47,187570020.0,Événement Temporaire,2010-12-11 22:47:00,2010-12
-5255404253,45.774737,4.834949,353,oeuf france lyon,2010,12,11,22,47,187570020.0,Événement Temporaire,2010-12-11 22:47:00,2010-12
-5255404097,45.774737,4.834949,353,oeuf france lyon,2010,12,11,22,46,187569960.0,Événement Temporaire,2010-12-11 22:46:00,2010-12
-5256017324,45.774737,4.834949,353,oeuf france lyon,2010,12,11,22,46,187569960.0,Événement Temporaire,2010-12-11 22:46:00,2010-12
-5255403645,45.774737,4.834949,353,oeuf france lyon,2010,12,11,22,44,187569840.0,Événement Temporaire,2010-12-11 22:44:00,2010-12
-5550317317,45.774709,4.834821,353,lyon winter snow france lyon,2010,12,1,13,25,186672300.0,Événement Temporaire,2010-12-01 13:25:00,2010-12
-5641557158,45.774709,4.834821,353,fte lumires light reflection mirror lyon egg celebration lumieres ovo ftedeslumires groscaillou,2010,12,8,21,3,187304580.0,Événement Temporaire,2010-12-08 21:03:00,2010-12
-5640988167,45.774709,4.834821,353,fte lumires light lyon egg celebration lumieres ovo ftedeslumires groscaillou,2010,12,8,20,57,187304220.0,Événement Temporaire,2010-12-08 20:57:00,2010-12
-5637161574,45.774709,4.834821,353,fte lumires light lyon egg celebration lumieres ovo ftedeslumires groscaillou,2010,12,8,20,52,187303920.0,Événement Temporaire,2010-12-08 20:52:00,2010-12
-5637161472,45.774709,4.834821,353,fte lumires light lyon egg celebration lumieres ovo ftedeslumires groscaillou,2010,12,8,20,52,187303920.0,Événement Temporaire,2010-12-08 20:52:00,2010-12
-5635877200,45.774709,4.834821,353,fte lumires light lyon egg celebration lumieres ovo ftedeslumires groscaillou,2010,12,8,20,58,187304280.0,Événement Temporaire,2010-12-08 20:58:00,2010-12
-5635877028,45.774709,4.834821,353,fte lumires light lyon egg celebration lumieres ovo ftedeslumires groscaillou,2010,12,8,20,49,187303740.0,Événement Temporaire,2010-12-08 20:49:00,2010-12
-5635297037,45.774709,4.834821,353,fte lumires light lyon egg celebration lumieres ovo ftedeslumires groscaillou,2010,12,8,20,46,187303560.0,Événement Temporaire,2010-12-08 20:46:00,2010-12
-5635296787,45.774709,4.834821,353,fte lumires light lyon egg celebration lumieres ovo ftedeslumires groscaillou,2010,12,8,20,44,187303440.0,Événement Temporaire,2010-12-08 20:44:00,2010-12
-5964589119,45.774719,4.834938,353,festival light lyon croix rousse ,2010,12,9,19,20,187384800.0,Événement Temporaire,2010-12-09 19:20:00,2010-12
+6405625561,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,45,217291500.0,Événement Temporaire,2011-11-20 22:45:00,2011-11
+6405624385,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,45,217291500.0,Événement Temporaire,2011-11-20 22:45:00,2011-11
+6405623985,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,45,217291500.0,Événement Temporaire,2011-11-20 22:45:00,2011-11
+6405623655,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,43,217291380.0,Événement Temporaire,2011-11-20 22:43:00,2011-11
+6405622551,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,43,217291380.0,Événement Temporaire,2011-11-20 22:43:00,2011-11
+6405622113,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,42,217291320.0,Événement Temporaire,2011-11-20 22:42:00,2011-11
+6405621947,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,29,217290540.0,Événement Temporaire,2011-11-20 22:29:00,2011-11
+6405621593,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,28,217290480.0,Événement Temporaire,2011-11-20 22:28:00,2011-11
+6405621207,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,28,217290480.0,Événement Temporaire,2011-11-20 22:28:00,2011-11
+6405620679,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,28,217290480.0,Événement Temporaire,2011-11-20 22:28:00,2011-11
+6405620183,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,28,217290480.0,Événement Temporaire,2011-11-20 22:28:00,2011-11
+6405619691,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,27,217290420.0,Événement Temporaire,2011-11-20 22:27:00,2011-11
+6405619101,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,45,217291500.0,Événement Temporaire,2011-11-20 22:45:00,2011-11
+6405617967,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,46,217291560.0,Événement Temporaire,2011-11-20 22:46:00,2011-11
+6405616643,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,47,217291620.0,Événement Temporaire,2011-11-20 22:47:00,2011-11
+6405616153,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,48,217291680.0,Événement Temporaire,2011-11-20 22:48:00,2011-11
+6405615355,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,48,217291680.0,Événement Temporaire,2011-11-20 22:48:00,2011-11
+6405614917,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,48,217291680.0,Événement Temporaire,2011-11-20 22:48:00,2011-11
+6405614175,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,49,217291740.0,Événement Temporaire,2011-11-20 22:49:00,2011-11
+6405613673,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,49,217291740.0,Événement Temporaire,2011-11-20 22:49:00,2011-11
+6405612649,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,51,217291860.0,Événement Temporaire,2011-11-20 22:51:00,2011-11
+6405612221,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,51,217291860.0,Événement Temporaire,2011-11-20 22:51:00,2011-11
+6405611639,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,52,217291920.0,Événement Temporaire,2011-11-20 22:52:00,2011-11
+6405611217,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,53,217291980.0,Événement Temporaire,2011-11-20 22:53:00,2011-11
+6405610755,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,53,217291980.0,Événement Temporaire,2011-11-20 22:53:00,2011-11
+6405610255,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,53,217291980.0,Événement Temporaire,2011-11-20 22:53:00,2011-11
+6405609415,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,53,217291980.0,Événement Temporaire,2011-11-20 22:53:00,2011-11
+6405609001,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,54,217292040.0,Événement Temporaire,2011-11-20 22:54:00,2011-11
+6405607777,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,55,217292100.0,Événement Temporaire,2011-11-20 22:55:00,2011-11
+6405607285,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,55,217292100.0,Événement Temporaire,2011-11-20 22:55:00,2011-11
+6405606273,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,55,217292100.0,Événement Temporaire,2011-11-20 22:55:00,2011-11
+6405605923,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,55,217292100.0,Événement Temporaire,2011-11-20 22:55:00,2011-11
+6405605265,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,56,217292160.0,Événement Temporaire,2011-11-20 22:56:00,2011-11
+6405604731,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,56,217292160.0,Événement Temporaire,2011-11-20 22:56:00,2011-11
+6405604279,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,56,217292160.0,Événement Temporaire,2011-11-20 22:56:00,2011-11
+6405603997,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,56,217292160.0,Événement Temporaire,2011-11-20 22:56:00,2011-11
+6405603541,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,57,217292220.0,Événement Temporaire,2011-11-20 22:57:00,2011-11
+6405603081,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,57,217292220.0,Événement Temporaire,2011-11-20 22:57:00,2011-11
+6405601099,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,57,217292220.0,Événement Temporaire,2011-11-20 22:57:00,2011-11
+6405600785,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,58,217292280.0,Événement Temporaire,2011-11-20 22:58:00,2011-11
+6405600145,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,58,217292280.0,Événement Temporaire,2011-11-20 22:58:00,2011-11
+6405599117,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,58,217292280.0,Événement Temporaire,2011-11-20 22:58:00,2011-11
+6405598543,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,58,217292280.0,Événement Temporaire,2011-11-20 22:58:00,2011-11
+6405598229,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,59,217292340.0,Événement Temporaire,2011-11-20 22:59:00,2011-11
+6405597499,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,59,217292340.0,Événement Temporaire,2011-11-20 22:59:00,2011-11
+6405596933,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,21,38,217287480.0,Événement Temporaire,2011-11-20 21:38:00,2011-11
+6405595813,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,26,217290360.0,Événement Temporaire,2011-11-20 22:26:00,2011-11
+6405594789,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,21,38,217287480.0,Événement Temporaire,2011-11-20 21:38:00,2011-11
+6405594259,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,22,26,217290360.0,Événement Temporaire,2011-11-20 22:26:00,2011-11
+6405593797,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,21,20,217286400.0,Événement Temporaire,2011-11-20 21:20:00,2011-11
+6405592999,45.783933,4.860345,353,p lyon jaredleto secondstomars shannonleto letransbordeur tomomilicevic,2011,11,20,21,31,217287060.0,Événement Temporaire,2011-11-20 21:31:00,2011-11

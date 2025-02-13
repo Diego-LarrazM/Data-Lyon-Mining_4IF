@@ -1,83 +1,33 @@
 id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken,year_month
-14988578995,45.761999,4.821302,357,basilique france europe lyon fourvire,2014,8,17,11,9,303736140.0,Événement Temporaire,2014-08-17 11:09:00,2014-08
-14988216392,45.761999,4.821302,357,basilique france europe lyon fourvire,2014,8,19,11,39,303910740.0,Événement Temporaire,2014-08-19 11:39:00,2014-08
-14988570215,45.761999,4.821302,357,basilique france europe lyon fourvire,2014,8,17,11,24,303737040.0,Événement Temporaire,2014-08-17 11:24:00,2014-08
-14983387505,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,40,303756000.0,Événement Temporaire,2014-08-17 16:40:00,2014-08
-14796708210,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,40,303756000.0,Événement Temporaire,2014-08-17 16:40:00,2014-08
-14796697450,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,42,303756120.0,Événement Temporaire,2014-08-17 16:42:00,2014-08
-14796753138,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,42,303756120.0,Événement Temporaire,2014-08-17 16:42:00,2014-08
-14796673030,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,44,303756240.0,Événement Temporaire,2014-08-17 16:44:00,2014-08
-14796728528,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,44,303756240.0,Événement Temporaire,2014-08-17 16:44:00,2014-08
-14960321306,45.761999,4.821302,357,basilique fourvire france europe lyon basilique arche fourvire basiliquedefourvire,2014,8,17,16,45,303756300.0,Événement Temporaire,2014-08-17 16:45:00,2014-08
-14980203411,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,46,303756360.0,Événement Temporaire,2014-08-17 16:46:00,2014-08
-14796609380,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,46,303756360.0,Événement Temporaire,2014-08-17 16:46:00,2014-08
-14796726327,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,48,303756480.0,Événement Temporaire,2014-08-17 16:48:00,2014-08
-14982902642,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,48,303756480.0,Événement Temporaire,2014-08-17 16:48:00,2014-08
-14960245416,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,48,303756480.0,Événement Temporaire,2014-08-17 16:48:00,2014-08
-14796554190,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,49,303756540.0,Événement Temporaire,2014-08-17 16:49:00,2014-08
-14960209026,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,50,303756600.0,Événement Temporaire,2014-08-17 16:50:00,2014-08
-14980102691,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,50,303756600.0,Événement Temporaire,2014-08-17 16:50:00,2014-08
-14983183265,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,50,303756600.0,Événement Temporaire,2014-08-17 16:50:00,2014-08
-14982821602,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,51,303756660.0,Événement Temporaire,2014-08-17 16:51:00,2014-08
-14796490730,45.761999,4.821302,357,basilique fourvire france europe lyon basilique arche fourvire basiliquedefourvire,2014,8,17,16,51,303756660.0,Événement Temporaire,2014-08-17 16:51:00,2014-08
-14983147465,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,51,303756660.0,Événement Temporaire,2014-08-17 16:51:00,2014-08
-14796588047,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,52,303756720.0,Événement Temporaire,2014-08-17 16:52:00,2014-08
-14980021001,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,53,303756780.0,Événement Temporaire,2014-08-17 16:53:00,2014-08
-14982752232,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,55,303756900.0,Événement Temporaire,2014-08-17 16:55:00,2014-08
-14983096105,45.761999,4.821302,357,basilique fourvire france europe lyon basilique arche fourvire basiliquedefourvire,2014,8,17,16,56,303756960.0,Événement Temporaire,2014-08-17 16:56:00,2014-08
-14982734632,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,56,303756960.0,Événement Temporaire,2014-08-17 16:56:00,2014-08
-14983076385,45.761999,4.821302,357,basilique fourvire france europe lyon basilique arche fourvire basiliquedefourvire,2014,8,17,16,57,303757020.0,Événement Temporaire,2014-08-17 16:57:00,2014-08
-14979973351,45.761999,4.821302,357,basilique fourvire france europe lyon basilique arche fourvire basiliquedefourvire,2014,8,17,16,58,303757080.0,Événement Temporaire,2014-08-17 16:58:00,2014-08
-14982704372,45.761999,4.821302,357,basilique fourvire france europe lyon basilique arche fourvire basiliquedefourvire,2014,8,17,16,59,303757140.0,Événement Temporaire,2014-08-17 16:59:00,2014-08
-14796376420,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,59,303757140.0,Événement Temporaire,2014-08-17 16:59:00,2014-08
-14979943881,45.761999,4.821302,357,fourvire france europe lyon fourvire,2014,8,17,16,36,303755760.0,Événement Temporaire,2014-08-17 16:36:00,2014-08
-14796486787,45.761999,4.821302,357,fourvire france europe lyon fourvire,2014,8,17,16,55,303756900.0,Événement Temporaire,2014-08-17 16:55:00,2014-08
-14982670142,45.761999,4.821302,357,panorama lyon france europe lyon fourvire,2014,8,17,17,26,303758760.0,Événement Temporaire,2014-08-17 17:26:00,2014-08
-14796342820,45.761999,4.821302,357,panorama lyon france europe lyon fourvire,2014,8,17,17,26,303758760.0,Événement Temporaire,2014-08-17 17:26:00,2014-08
-14796461127,45.761999,4.821302,357,panorama lyon france europe lyon fourvire,2014,8,17,17,26,303758760.0,Événement Temporaire,2014-08-17 17:26:00,2014-08
-14796450307,45.761999,4.821302,357,panorama lyon france europe lyon fourvire,2014,8,17,17,26,303758760.0,Événement Temporaire,2014-08-17 17:26:00,2014-08
-14796310360,45.761999,4.821302,357,panorama lyon france europe lyon fourvire,2014,8,17,17,27,303758820.0,Événement Temporaire,2014-08-17 17:27:00,2014-08
-14959974926,45.761999,4.821302,357,panorama lyon france europe lyon fourvire,2014,8,17,17,27,303758820.0,Événement Temporaire,2014-08-17 17:27:00,2014-08
-14796415847,45.761999,4.821302,357,panorama lyon france europe lyon fourvire,2014,8,17,17,28,303758880.0,Événement Temporaire,2014-08-17 17:28:00,2014-08
-14796272039,45.761999,4.821302,357,panorama lyon france europe lyon fourvire,2014,8,17,17,28,303758880.0,Événement Temporaire,2014-08-17 17:28:00,2014-08
-14796336648,45.761999,4.821302,357,panorama lyon france europe lyon fourvire,2014,8,17,17,29,303758940.0,Événement Temporaire,2014-08-17 17:29:00,2014-08
-14796250099,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,17,0,303757200.0,Événement Temporaire,2014-08-17 17:00:00,2014-08
-14982563752,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,17,1,303757260.0,Événement Temporaire,2014-08-17 17:01:00,2014-08
-14796307098,45.761999,4.821302,357,basilique fourvire france europe lyon collection multiple basilique accumulation fourvire rptitions basiliquedefourvire,2014,8,17,17,2,303757320.0,Événement Temporaire,2014-08-17 17:02:00,2014-08
-14796225809,45.761999,4.821302,357,basilique fourvire france europe lyon basilique arche fourvire basiliquedefourvire,2014,8,17,17,2,303757320.0,Événement Temporaire,2014-08-17 17:02:00,2014-08
-14780752179,45.761999,4.821302,357,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,17,49,303760140.0,Événement Temporaire,2014-08-17 17:49:00,2014-08
-14967095272,45.761999,4.821302,357,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,17,49,303760140.0,Événement Temporaire,2014-08-17 17:49:00,2014-08
-14780884267,45.761999,4.821302,357,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,17,47,303760020.0,Événement Temporaire,2014-08-17 17:47:00,2014-08
-14780753380,45.761999,4.821302,357,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,17,47,303760020.0,Événement Temporaire,2014-08-17 17:47:00,2014-08
-14964324771,45.761999,4.821302,357,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,17,47,303760020.0,Événement Temporaire,2014-08-17 17:47:00,2014-08
-14780818348,45.761999,4.821302,357,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,17,47,303760020.0,Événement Temporaire,2014-08-17 17:47:00,2014-08
-14780810948,45.761999,4.821302,357,funiculaire france europe lyon rhne rhnealpes,2014,8,17,17,47,303760020.0,Événement Temporaire,2014-08-17 17:47:00,2014-08
-14780722809,45.761999,4.821302,357,funiculaire france europe lyon rhne rhnealpes,2014,8,17,17,47,303760020.0,Événement Temporaire,2014-08-17 17:47:00,2014-08
-14967400015,45.761999,4.821302,357,funiculaire france europe lyon rhne rhnealpes,2014,8,17,17,47,303760020.0,Événement Temporaire,2014-08-17 17:47:00,2014-08
-14944416386,45.761999,4.821302,357,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,17,47,303760020.0,Événement Temporaire,2014-08-17 17:47:00,2014-08
-14780846877,45.761999,4.821302,357,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,17,47,303760020.0,Événement Temporaire,2014-08-17 17:47:00,2014-08
-14967047222,45.761999,4.821302,357,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,17,47,303760020.0,Événement Temporaire,2014-08-17 17:47:00,2014-08
-14967378585,45.761999,4.821302,357,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,17,45,303759900.0,Événement Temporaire,2014-08-17 17:45:00,2014-08
-14967036312,45.761999,4.821302,357,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,17,46,303759960.0,Événement Temporaire,2014-08-17 17:46:00,2014-08
-14780633787,45.761999,4.821302,357,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,17,44,303759840.0,Événement Temporaire,2014-08-17 17:44:00,2014-08
-14780500520,45.761999,4.821302,357,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,16,33,303755580.0,Événement Temporaire,2014-08-17 16:33:00,2014-08
-14780480689,45.761999,4.821302,357,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,16,30,303755400.0,Événement Temporaire,2014-08-17 16:30:00,2014-08
-14964063631,45.761999,4.821302,357,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,15,21,303751260.0,Événement Temporaire,2014-08-17 15:21:00,2014-08
-14780558608,45.761999,4.821302,357,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,15,18,303751080.0,Événement Temporaire,2014-08-17 15:18:00,2014-08
-14966807252,45.761999,4.821302,357,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,15,22,303751320.0,Événement Temporaire,2014-08-17 15:22:00,2014-08
-14780474700,45.761999,4.821302,357,funiculaire france europe lyon transport funicular fourvire funiculaire,2014,8,17,16,27,303755220.0,Événement Temporaire,2014-08-17 16:27:00,2014-08
-14775210418,45.761999,4.821302,357,basilique fourvire europe france lyon fourvire basilique basiliquedefourvire art architecture patrimoine,2014,8,17,17,24,303758640.0,Événement Temporaire,2014-08-17 17:24:00,2014-08
-14775270037,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,17,24,303758640.0,Événement Temporaire,2014-08-17 17:24:00,2014-08
-14938801236,45.761999,4.821302,357,basilique fourvire europe france lyon fourvire basilique basiliquedefourvire art architecture patrimoine,2014,8,17,17,23,303758580.0,Événement Temporaire,2014-08-17 17:23:00,2014-08
-14775253427,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,17,5,303757500.0,Événement Temporaire,2014-08-17 17:05:00,2014-08
-14938778456,45.761999,4.821302,357,basilique fourvire europe france lyon fourvire basilique basiliquedefourvire art architecture patrimoine,2014,8,17,17,14,303758040.0,Événement Temporaire,2014-08-17 17:14:00,2014-08
-14961777715,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,17,14,303758040.0,Événement Temporaire,2014-08-17 17:14:00,2014-08
-14961413792,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,17,4,303757440.0,Événement Temporaire,2014-08-17 17:04:00,2014-08
-14958160761,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,17,3,303757380.0,Événement Temporaire,2014-08-17 17:03:00,2014-08
-14960874542,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,38,303755880.0,Événement Temporaire,2014-08-17 16:38:00,2014-08
-14774622358,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,39,303755940.0,Événement Temporaire,2014-08-17 16:39:00,2014-08
-14958104751,45.761999,4.821302,357,basilique fourvire europe france lyon fourvire basilique basiliquedefourvire sculpture statue art patrimoine histoire,2014,8,17,16,38,303755880.0,Événement Temporaire,2014-08-17 16:38:00,2014-08
-14957894851,45.761999,4.821302,357,basilique fourvire france europe lyon basilique arche fourvire basiliquedefourvire,2014,8,17,16,35,303755700.0,Événement Temporaire,2014-08-17 16:35:00,2014-08
-14960944515,45.761999,4.821302,357,basilique fourvire france europe lyon basilique fourvire basiliquedefourvire,2014,8,17,16,37,303755820.0,Événement Temporaire,2014-08-17 16:37:00,2014-08
-14732564817,45.762058,4.821371,357,damme lyon ,2014,8,12,7,55,303292500.0,Événement Temporaire,2014-08-12 07:55:00,2014-08
-38550845220,45.762021,4.821302,357,something air ,2014,7,31,19,49,302298540.0,Événement Temporaire,2014-07-31 19:49:00,2014-07
+30265428590,45.762867,4.828308,357,lyon sane ,2012,8,19,19,54,240868440.0,Événement Temporaire,2012-08-19 19:54:00,2012-08
+29933063754,45.762867,4.828308,357,lyon rhne ,2012,8,19,22,23,240877380.0,Événement Temporaire,2012-08-19 22:23:00,2012-08
+30564254875,45.762867,4.828308,357,lyon rhne ,2012,8,19,22,20,240877200.0,Événement Temporaire,2012-08-19 22:20:00,2012-08
+30265370000,45.762867,4.828308,357,lyon ,2012,8,19,22,12,240876720.0,Événement Temporaire,2012-08-19 22:12:00,2012-08
+30476632041,45.762867,4.828308,357,lyon palais justice stjean notredame fouvire ,2012,8,19,21,54,240875640.0,Événement Temporaire,2012-08-19 21:54:00,2012-08
+29933061594,45.762867,4.828308,357,lyon sane ,2012,8,19,21,54,240875640.0,Événement Temporaire,2012-08-19 21:54:00,2012-08
+30476630021,45.762867,4.828308,357,lyon sane ,2012,8,19,21,53,240875580.0,Événement Temporaire,2012-08-19 21:53:00,2012-08
+30564253125,45.762867,4.828308,357,lyon deftiges essen ,2012,8,19,20,59,240872340.0,Événement Temporaire,2012-08-19 20:59:00,2012-08
+30265363170,45.762867,4.828308,357,lyon sane ,2012,8,19,20,8,240869280.0,Événement Temporaire,2012-08-19 20:08:00,2012-08
+30528237256,45.762867,4.828308,357,lyon sane stgeorges ,2012,8,19,20,5,240869100.0,Événement Temporaire,2012-08-19 20:05:00,2012-08
+30528235906,45.762867,4.828308,357,lyon sane ,2012,8,19,19,59,240868740.0,Événement Temporaire,2012-08-19 19:59:00,2012-08
+30476625851,45.762867,4.828308,357,lyon saintnizier ,2012,8,19,19,51,240868260.0,Événement Temporaire,2012-08-19 19:51:00,2012-08
+30528233196,45.762867,4.828308,357,lyon htel ville ,2012,8,19,19,42,240867720.0,Événement Temporaire,2012-08-19 19:42:00,2012-08
+30528232756,45.762867,4.828308,357,lyon fontaine bartholdi ,2012,8,19,19,42,240867720.0,Événement Temporaire,2012-08-19 19:42:00,2012-08
+30476623081,45.762867,4.828308,357,lyon ,2012,8,19,19,31,240867060.0,Événement Temporaire,2012-08-19 19:31:00,2012-08
+29933057354,45.762867,4.828308,357,vieux lyon ,2012,8,19,19,13,240865980.0,Événement Temporaire,2012-08-19 19:13:00,2012-08
+30447622792,45.762867,4.828308,357,vieux lyon ,2012,8,19,18,42,240864120.0,Événement Temporaire,2012-08-19 18:42:00,2012-08
+30476619331,45.762867,4.828308,357,vieux lyon ,2012,8,19,18,30,240863400.0,Événement Temporaire,2012-08-19 18:30:00,2012-08
+30476618081,45.762867,4.828308,357,vieux lyon ,2012,8,19,18,29,240863340.0,Événement Temporaire,2012-08-19 18:29:00,2012-08
+30447620222,45.762867,4.828308,357,vieux lyon ,2012,8,19,18,29,240863340.0,Événement Temporaire,2012-08-19 18:29:00,2012-08
+30564235975,45.762867,4.828308,357,lyon cathdrale saintjean ,2012,8,19,18,25,240863100.0,Événement Temporaire,2012-08-19 18:25:00,2012-08
+30476614291,45.762867,4.828308,357,lyon ,2012,8,19,18,24,240863040.0,Événement Temporaire,2012-08-19 18:24:00,2012-08
+30564232765,45.762867,4.828308,357,lyon ,2012,8,19,18,19,240862740.0,Événement Temporaire,2012-08-19 18:19:00,2012-08
+30476611641,45.762867,4.828308,357,lyon katze ,2012,8,19,18,19,240862740.0,Événement Temporaire,2012-08-19 18:19:00,2012-08
+30265344630,45.762867,4.828308,357,lyon notredame fourvire ,2012,8,19,17,59,240861540.0,Événement Temporaire,2012-08-19 17:59:00,2012-08
+30476608611,45.762867,4.828308,357,lyon notredame fourvire ,2012,8,19,17,47,240860820.0,Événement Temporaire,2012-08-19 17:47:00,2012-08
+30476608011,45.762867,4.828308,357,lyon ,2012,8,19,17,42,240860520.0,Événement Temporaire,2012-08-19 17:42:00,2012-08
+29933051184,45.762867,4.828308,357,lyon notredame fourvire ,2012,8,19,17,39,240860340.0,Événement Temporaire,2012-08-19 17:39:00,2012-08
+30564224075,45.762867,4.828308,357,lyon notredame fourvire ,2012,8,19,17,31,240859860.0,Événement Temporaire,2012-08-19 17:31:00,2012-08
+30564223155,45.762867,4.828308,357,lyon cathdrale saintjean ,2012,8,19,17,26,240859560.0,Événement Temporaire,2012-08-19 17:26:00,2012-08
+30265340250,45.762867,4.828308,357,lyon cathdrale saintjean ,2012,8,19,17,15,240858900.0,Événement Temporaire,2012-08-19 17:15:00,2012-08
+30265227140,45.762867,4.828308,357,lyon ,2012,8,19,22,9,240876540.0,Événement Temporaire,2012-08-19 22:09:00,2012-08

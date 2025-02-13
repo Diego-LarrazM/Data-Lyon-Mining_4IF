@@ -1,59 +1,36 @@
 id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken,year_month
-6227214392,45.737892,4.814693,365,biennale lyon art biennaledelyon,2011,10,8,14,51,213547860.0,Événement Temporaire,2011-10-08 14:51:00,2011-10
-6226677975,45.737892,4.814693,365,joana hadjithomas khalil joreige lebanese rocket society president album art biennaledelyon khaliljoreige joanahadjithomas,2011,10,8,15,41,213550860.0,Événement Temporaire,2011-10-08 15:41:00,2011-10
-6226670935,45.737892,4.814693,365,joana hadjithomas khalil joreige lebanese rocket society president album art biennaledelyon khaliljoreige joanahadjithomas,2011,10,8,15,40,213550800.0,Événement Temporaire,2011-10-08 15:40:00,2011-10
-6226651147,45.737892,4.814693,365,joana hadjithomas khalil joreige lebanese rocket society president album art biennaledelyon khaliljoreige joanahadjithomas,2011,10,8,15,40,213550800.0,Événement Temporaire,2011-10-08 15:40:00,2011-10
-6227146488,45.737892,4.814693,365,joana hadjithomas khalil joreige lebanese rocket society president album dtail art biennaledelyon khaliljoreige joanahadjithomas,2011,10,8,15,40,213550800.0,Événement Temporaire,2011-10-08 15:40:00,2011-10
-6227138022,45.737892,4.814693,365,joana hadjithomas khalil joreige lebanese rocket society president album dtail art biennaledelyon khaliljoreige joanahadjithomas,2011,10,8,15,40,213550800.0,Événement Temporaire,2011-10-08 15:40:00,2011-10
-6226616445,45.737892,4.814693,365,joana hadjithomas khalil joreige lebanese rocket society president album art biennaledelyon khaliljoreige joanahadjithomas,2011,10,8,15,40,213550800.0,Événement Temporaire,2011-10-08 15:40:00,2011-10
-6226587867,45.737892,4.814693,365,satno filko art biennaledelyon satnofilko,2011,10,8,15,34,213550440.0,Événement Temporaire,2011-10-08 15:34:00,2011-10
-6227097864,45.737892,4.814693,365,satno filko art biennaledelyon satnofilko,2011,10,8,15,33,213550380.0,Événement Temporaire,2011-10-08 15:33:00,2011-10
-6226529803,45.737892,4.814693,365,satno filko breathing celebration air installation art biennaledelyon satnofilko,2011,10,8,15,34,213550440.0,Événement Temporaire,2011-10-08 15:34:00,2011-10
-6227041934,45.737892,4.814693,365,satno filko breathing celebration air installation art biennaledelyon satnofilko,2011,10,8,15,33,213550380.0,Événement Temporaire,2011-10-08 15:33:00,2011-10
-6226516821,45.737892,4.814693,365,satno filko art biennaledelyon satnofilko,2011,10,8,15,33,213550380.0,Événement Temporaire,2011-10-08 15:33:00,2011-10
-6227031974,45.737892,4.814693,365,satno filko breathing celebration air installation art biennaledelyon satnofilko,2011,10,8,15,32,213550320.0,Événement Temporaire,2011-10-08 15:32:00,2011-10
-6227027104,45.737892,4.814693,365,satno filko breathing celebration air installation art biennaledelyon satnofilko,2011,10,8,15,32,213550320.0,Événement Temporaire,2011-10-08 15:32:00,2011-10
-6227021402,45.737892,4.814693,365,satno filko breathing celebration air installation art biennaledelyon satnofilko,2011,10,8,15,31,213550260.0,Événement Temporaire,2011-10-08 15:31:00,2011-10
-6226479575,45.737892,4.814693,365,robbie cornelissen het grote geheugen x capacious memory art biennaledelyon robbiecornelissen,2011,10,8,15,30,213550200.0,Événement Temporaire,2011-10-08 15:30:00,2011-10
-6226994944,45.737892,4.814693,365,robbie cornelissen het grote geheugen x capacious memory dtail art biennaledelyon robbiecornelissen,2011,10,8,15,29,213550140.0,Événement Temporaire,2011-10-08 15:29:00,2011-10
-6226987468,45.737892,4.814693,365,robbie cornelissen het grote geheugen x capacious memory dtail art biennaledelyon robbiecornelissen,2011,10,8,15,29,213550140.0,Événement Temporaire,2011-10-08 15:29:00,2011-10
-6226464349,45.737892,4.814693,365,robbie cornelissen het grote geheugen x capacious memory dtail art biennaledelyon robbiecornelissen,2011,10,8,15,29,213550140.0,Événement Temporaire,2011-10-08 15:29:00,2011-10
-6226433439,45.737892,4.814693,365,robbie cornelissen het grote geheugen x capacious memory art biennaledelyon robbiecornelissen,2011,10,8,15,28,213550080.0,Événement Temporaire,2011-10-08 15:28:00,2011-10
-6226945060,45.737892,4.814693,365,robbie cornelissen het grote geheugen x capacious memory dtail art biennaledelyon robbiecornelissen,2011,10,8,15,28,213550080.0,Événement Temporaire,2011-10-08 15:28:00,2011-10
-6226421759,45.737892,4.814693,365,robbie cornelissen het grote geheugen x capacious memory dtail art biennaledelyon robbiecornelissen,2011,10,8,15,28,213550080.0,Événement Temporaire,2011-10-08 15:28:00,2011-10
-6226417271,45.737892,4.814693,365,robbie cornelissen het grote geheugen x capacious memory dtail art biennaledelyon robbiecornelissen,2011,10,8,15,27,213550020.0,Événement Temporaire,2011-10-08 15:27:00,2011-10
-6226918690,45.737892,4.814693,365,robbie cornelissen het grote geheugen x capacious memory dtail art biennaledelyon robbiecornelissen,2011,10,8,15,27,213550020.0,Événement Temporaire,2011-10-08 15:27:00,2011-10
-6226396283,45.737892,4.814693,365,robbie cornelissen het grote geheugen x capacious memory dtail art biennaledelyon robbiecornelissen,2011,10,8,15,27,213550020.0,Événement Temporaire,2011-10-08 15:27:00,2011-10
-6226909496,45.737892,4.814693,365,robbie cornelissen het grote geheugen x capacious memory dtail art biennaledelyon robbiecornelissen,2011,10,8,15,27,213550020.0,Événement Temporaire,2011-10-08 15:27:00,2011-10
-6226381677,45.737892,4.814693,365,robbie cornelissen het grote geheugen x capacious memory dtail art biennaledelyon robbiecornelissen,2011,10,8,15,27,213550020.0,Événement Temporaire,2011-10-08 15:27:00,2011-10
-6226376463,45.737892,4.814693,365,robbie cornelissen het grote geheugen x capacious memory dtail art biennaledelyon robbiecornelissen,2011,10,8,15,26,213549960.0,Événement Temporaire,2011-10-08 15:26:00,2011-10
-6226368355,45.737892,4.814693,365,robbie cornelissen het grote geheugen x capacious memory dtail art biennaledelyon robbiecornelissen,2011,10,8,15,26,213549960.0,Événement Temporaire,2011-10-08 15:26:00,2011-10
-6226360101,45.737892,4.814693,365,robbie cornelissen het grote geheugen x capacious memory dtail art biennaledelyon robbiecornelissen,2011,10,8,15,26,213549960.0,Événement Temporaire,2011-10-08 15:26:00,2011-10
-6226873108,45.737892,4.814693,365,robbie cornelissen het grote geheugen x capacious memory dtail art biennaledelyon robbiecornelissen,2011,10,8,15,26,213549960.0,Événement Temporaire,2011-10-08 15:26:00,2011-10
-6226345539,45.737892,4.814693,365,robbie cornelissen het grote geheugen x capacious memory art biennaledelyon robbiecornelissen,2011,10,8,15,25,213549900.0,Événement Temporaire,2011-10-08 15:25:00,2011-10
-6226820776,45.737892,4.814693,365,robert kumirowski stronghold installation art biennaledelyon robertkusmirowski,2011,10,8,15,21,213549660.0,Événement Temporaire,2011-10-08 15:21:00,2011-10
-6226816476,45.737892,4.814693,365,robert kumirowski stronghold installation art biennaledelyon robertkusmirowski,2011,10,8,15,21,213549660.0,Événement Temporaire,2011-10-08 15:21:00,2011-10
-6226289043,45.737892,4.814693,365,robert kumirowski stronghold installation art biennaledelyon robertkusmirowski,2011,10,8,15,17,213549420.0,Événement Temporaire,2011-10-08 15:17:00,2011-10
-6226804018,45.737892,4.814693,365,robert kumirowski stronghold installation art biennaledelyon robertkusmirowski,2011,10,8,15,17,213549420.0,Événement Temporaire,2011-10-08 15:17:00,2011-10
-6226790120,45.737892,4.814693,365,robert kumirowski stronghold installation art biennaledelyon robertkusmirowski,2011,10,8,15,17,213549420.0,Événement Temporaire,2011-10-08 15:17:00,2011-10
-6226250527,45.737892,4.814693,365,robert kumirowski stronghold installation art biennaledelyon robertkusmirowski,2011,10,8,15,16,213549360.0,Événement Temporaire,2011-10-08 15:16:00,2011-10
-6226731624,45.737892,4.814693,365,augusto campos cidadecitycit art biennaledelyon augustodecampos,2011,10,8,15,15,213549300.0,Événement Temporaire,2011-10-08 15:15:00,2011-10
-6226202729,45.737892,4.814693,365,augusto campos cidadecitycit art biennaledelyon augustodecampos,2011,10,8,15,15,213549300.0,Événement Temporaire,2011-10-08 15:15:00,2011-10
-6226188529,45.737892,4.814693,365,augusto campos cidadecitycit art biennaledelyon augustodecampos,2011,10,8,15,15,213549300.0,Événement Temporaire,2011-10-08 15:15:00,2011-10
-6226156893,45.737892,4.814693,365,marina caro hombresemilla el mito lo posible sculpture pltre tricot art biennaledelyon marinadecaro,2011,10,8,15,20,213549600.0,Événement Temporaire,2011-10-08 15:20:00,2011-10
-6226142071,45.737892,4.814693,365,marina caro hombresemilla el mito lo posible sculpture pltre tricot dtail art biennaledelyon marinadecaro,2011,10,8,15,20,213549600.0,Événement Temporaire,2011-10-08 15:20:00,2011-10
-6226651678,45.737892,4.814693,365,marina caro hombresemilla el mito lo posible sculpture pltre tricot art biennaledelyon marinadecaro,2011,10,8,15,19,213549540.0,Événement Temporaire,2011-10-08 15:19:00,2011-10
-6226648580,45.737892,4.814693,365,marina caro hombresemilla el mito lo posible sculpture pltre tricot dtail art biennaledelyon marinadecaro,2011,10,8,15,22,213549720.0,Événement Temporaire,2011-10-08 15:22:00,2011-10
-6226642376,45.737892,4.814693,365,marina caro hombresemilla el mito lo posible sculpture pltre tricot art biennaledelyon marinadecaro,2011,10,8,15,19,213549540.0,Événement Temporaire,2011-10-08 15:19:00,2011-10
-6226116847,45.737892,4.814693,365,marina caro hombresemilla el mito lo posible sculpture pltre tricot dtail art biennaledelyon marinadecaro,2011,10,8,15,19,213549540.0,Événement Temporaire,2011-10-08 15:19:00,2011-10
-6226631736,45.737892,4.814693,365,marina caro hombresemilla el mito lo posible sculpture pltre tricot art biennaledelyon marinadecaro,2011,10,8,15,18,213549480.0,Événement Temporaire,2011-10-08 15:18:00,2011-10
-6226625332,45.737892,4.814693,365,marina caro hombresemilla el mito lo posible sculpture pltre tricot art biennaledelyon marinadecaro,2011,10,8,15,18,213549480.0,Événement Temporaire,2011-10-08 15:18:00,2011-10
-6226098753,45.737892,4.814693,365,marina caro hombresemilla el mito lo posible sculpture pltre tricot art biennaledelyon marinadecaro,2011,10,8,15,18,213549480.0,Événement Temporaire,2011-10-08 15:18:00,2011-10
-6226614276,45.737892,4.814693,365,marina caro hombresemilla el mito lo posible sculpture pltre tricot art biennaledelyon marinadecaro,2011,10,8,15,14,213549240.0,Événement Temporaire,2011-10-08 15:14:00,2011-10
-6226089041,45.737892,4.814693,365,marina caro hombresemilla el mito lo posible sculpture pltre tricot dtail art biennaledelyon marinadecaro,2011,10,8,15,14,213549240.0,Événement Temporaire,2011-10-08 15:14:00,2011-10
-6226606292,45.737892,4.814693,365,marina caro hombresemilla el mito lo posible sculpture pltre tricot dtail art biennaledelyon marinadecaro,2011,10,8,15,13,213549180.0,Événement Temporaire,2011-10-08 15:13:00,2011-10
-6226601610,45.737892,4.814693,365,marina caro hombresemilla el mito lo posible sculpture pltre tricot art biennaledelyon marinadecaro,2011,10,8,15,13,213549180.0,Événement Temporaire,2011-10-08 15:13:00,2011-10
-6226597162,45.737892,4.814693,365,marina caro hombresemilla el mito lo posible sculpture pltre tricot art biennaledelyon marinadecaro,2011,10,8,15,13,213549180.0,Événement Temporaire,2011-10-08 15:13:00,2011-10
-6226592378,45.737892,4.814693,365,marina caro hombresemilla el mito lo posible sculpture pltre tricot art biennaledelyon marinadecaro,2011,10,8,15,12,213549120.0,Événement Temporaire,2011-10-08 15:12:00,2011-10
-6225566125,45.737892,4.814693,365,jakob macfarlane architect cube orange architecture jakob macfarlane jakobmacfarlane sucrire,2011,10,8,14,46,213547560.0,Événement Temporaire,2011-10-08 14:46:00,2011-10
-6225564249,45.737892,4.814693,365,jakob macfarlane architect cube orange architecture jakob macfarlane jakobmacfarlane sucrire,2011,10,8,14,45,213547500.0,Événement Temporaire,2011-10-08 14:45:00,2011-10
+8105358640,45.751205,4.827868,365,zombie ,2012,10,13,14,39,245601540.0,Événement Temporaire,2012-10-13 14:39:00,2012-10
+8104874359,45.751152,4.827901,365, lyon zombie walk,2012,10,13,18,4,245613840.0,Événement Temporaire,2012-10-13 18:04:00,2012-10
+8104872401,45.751152,4.827901,365,contact tabli lyon zombie walk,2012,10,13,18,7,245614020.0,Événement Temporaire,2012-10-13 18:07:00,2012-10
+8104867853,45.751152,4.827901,365,rencontre foule zombie lyon zombie walk,2012,10,13,18,7,245614020.0,Événement Temporaire,2012-10-13 18:07:00,2012-10
+8104878242,45.751152,4.827901,365,mime zombie lyon zombie walk,2012,10,13,19,4,245617440.0,Événement Temporaire,2012-10-13 19:04:00,2012-10
+8104872506,45.751152,4.827901,365,masque trash lyon zombie walk,2012,10,13,13,19,245596740.0,Événement Temporaire,2012-10-13 13:19:00,2012-10
+8104857305,45.751152,4.827901,365,clown trash lyon zombie walk,2012,10,13,13,19,245596740.0,Événement Temporaire,2012-10-13 13:19:00,2012-10
+8104855943,45.751152,4.827901,365,dessous maquillage lyon zombie walk,2012,10,13,13,23,245596980.0,Événement Temporaire,2012-10-13 13:23:00,2012-10
+8104854595,45.751152,4.827901,365, lyon zombie walk,2012,10,13,13,31,245597460.0,Événement Temporaire,2012-10-13 13:31:00,2012-10
+8104867234,45.751152,4.827901,365, lyon zombie walk,2012,10,13,13,52,245598720.0,Événement Temporaire,2012-10-13 13:52:00,2012-10
+8104851631,45.751152,4.827901,365, lyon zombie walk,2012,10,13,14,3,245599380.0,Événement Temporaire,2012-10-13 14:03:00,2012-10
+8104849385,45.751152,4.827901,365, lyon zombie walk,2012,10,13,14,12,245599920.0,Événement Temporaire,2012-10-13 14:12:00,2012-10
+8104861426,45.751152,4.827901,365, lyon zombie walk,2012,10,13,14,21,245600460.0,Événement Temporaire,2012-10-13 14:21:00,2012-10
+8104844469,45.751152,4.827901,365, lyon zombie walk,2012,10,13,14,22,245600520.0,Événement Temporaire,2012-10-13 14:22:00,2012-10
+8104856258,45.751152,4.827901,365, lyon zombie walk,2012,10,13,14,38,245601480.0,Événement Temporaire,2012-10-13 14:38:00,2012-10
+8104839985,45.751152,4.827901,365, lyon zombie walk,2012,10,13,14,38,245601480.0,Événement Temporaire,2012-10-13 14:38:00,2012-10
+8104838061,45.751152,4.827901,365, lyon zombie walk,2012,10,13,14,58,245602680.0,Événement Temporaire,2012-10-13 14:58:00,2012-10
+8104835995,45.751152,4.827901,365, lyon zombie walk,2012,10,13,15,7,245603220.0,Événement Temporaire,2012-10-13 15:07:00,2012-10
+8104847940,45.751152,4.827901,365, lyon zombie walk,2012,10,13,15,9,245603340.0,Événement Temporaire,2012-10-13 15:09:00,2012-10
+8104846180,45.751152,4.827901,365, lyon zombie walk,2012,10,13,15,10,245603400.0,Événement Temporaire,2012-10-13 15:10:00,2012-10
+8104841946,45.751152,4.827901,365, lyon zombie walk,2012,10,13,15,20,245604000.0,Événement Temporaire,2012-10-13 15:20:00,2012-10
+8104825379,45.751152,4.827901,365, lyon zombie walk,2012,10,13,15,24,245604240.0,Événement Temporaire,2012-10-13 15:24:00,2012-10
+8104822443,45.751152,4.827901,365, lyon zombie walk,2012,10,13,15,43,245605380.0,Événement Temporaire,2012-10-13 15:43:00,2012-10
+8104819715,45.751152,4.827901,365, lyon zombie walk,2012,10,13,15,45,245605500.0,Événement Temporaire,2012-10-13 15:45:00,2012-10
+8104831988,45.751152,4.827901,365, lyon zombie walk,2012,10,13,15,47,245605620.0,Événement Temporaire,2012-10-13 15:47:00,2012-10
+8104816141,45.751152,4.827901,365, lyon zombie walk,2012,10,13,16,38,245608680.0,Événement Temporaire,2012-10-13 16:38:00,2012-10
+8091280345,45.75115,4.827894,365,zombie walk k france blood lyon sony attack alpha zombie rhnealpes,2012,10,13,16,16,245607360.0,Événement Temporaire,2012-10-13 16:16:00,2012-10
+8091278751,45.751075,4.827866,365,zombie walk k france blood lyon sony attack alpha zombie rhnealpes,2012,10,13,16,14,245607240.0,Événement Temporaire,2012-10-13 16:14:00,2012-10
+8091266727,45.751052,4.827869,365,zombie walk k france blood lyon sony attack alpha zombie rhnealpes,2012,10,13,15,51,245605860.0,Événement Temporaire,2012-10-13 15:51:00,2012-10
+8091272962,45.751036,4.827911,365,zombie walk k france blood lyon sony attack alpha zombie rhnealpes,2012,10,13,15,50,245605800.0,Événement Temporaire,2012-10-13 15:50:00,2012-10
+8091263011,45.751027,4.827938,365,zombie walk k france blood lyon sony attack alpha zombie rhnealpes,2012,10,13,15,48,245605680.0,Événement Temporaire,2012-10-13 15:48:00,2012-10
+8091269646,45.751147,4.827969,365,zombie walk k france blood lyon sony attack alpha zombie rhnealpes,2012,10,13,15,36,245604960.0,Événement Temporaire,2012-10-13 15:36:00,2012-10
+8091208044,45.75107,4.827976,365,zombie ,2012,10,13,16,36,245608560.0,Événement Temporaire,2012-10-13 16:36:00,2012-10
+8085723964,45.75113,4.827997,365,sexyzombie ,2012,10,13,15,29,245604540.0,Événement Temporaire,2012-10-13 15:29:00,2012-10
+8085591282,45.751175,4.827997,365,zombieday zombie,2012,10,13,16,43,245608980.0,Événement Temporaire,2012-10-13 16:43:00,2012-10

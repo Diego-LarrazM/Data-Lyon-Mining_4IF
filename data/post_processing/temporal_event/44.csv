@@ -1,168 +1,168 @@
-id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
-4175319526,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,23,58,155519880.0,undef
-4174558891,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,23,56,155519760.0,undef
-4175317050,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,23,56,155519760.0,undef
-4175315676,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,23,54,155519640.0,undef
-4175313344,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,23,48,155519280.0,undef
-4175310646,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,23,19,155517540.0,undef
-4175304134,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,22,52,155515920.0,undef
-4175302634,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,22,48,155515680.0,undef
-4174541061,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,22,46,155515560.0,undef
-4175298032,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,22,45,155515500.0,undef
-4174536313,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,22,43,155515380.0,undef
-4174534291,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,22,41,155515260.0,undef
-4174530361,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,22,10,155513400.0,undef
-4175286508,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,22,10,155513400.0,undef
-4174524289,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,22,9,155513340.0,undef
-4175280152,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,22,9,155513340.0,undef
-4175276840,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,22,7,155513220.0,undef
-4175273494,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,22,6,155513160.0,undef
-4175270144,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,22,6,155513160.0,undef
-4174507613,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,22,5,155513100.0,undef
-4174504455,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,22,4,155513040.0,undef
-4174492453,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,21,55,155512500.0,undef
-4174489875,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,21,55,155512500.0,undef
-4175247060,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,21,54,155512440.0,undef
-4175240954,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,21,49,155512140.0,undef
-4175238558,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,21,47,155512020.0,undef
-4175236270,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,21,40,155511600.0,undef
-4174475507,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,21,39,155511540.0,undef
-4174473477,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,21,39,155511540.0,undef
-4174471439,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,21,36,155511360.0,undef
-4175227412,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,21,23,155510580.0,undef
-4175225078,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,21,22,155510520.0,undef
-4174464585,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,20,47,155508420.0,undef
-4174462363,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,20,47,155508420.0,undef
-4175217752,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,20,44,155508240.0,undef
-4175215412,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,20,43,155508180.0,undef
-4175208408,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,19,59,155505540.0,undef
-4175205544,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,19,58,155505480.0,undef
-4175165804,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,18,54,155501640.0,undef
-4902577019,45.757778,4.832778,44,flower tree ,2010,7,9,10,38,174134280.0,undef
-5029689556,45.75774,4.832782,44, people lyon streetphotography gen onlylyon,2010,6,26,10,53,173011980.0,undef
-4970939662,45.75759,4.832653,44,lyon place bellecour france rhne village tourisme villes filoer,2010,8,12,15,46,177090360.0,undef
-4970938596,45.757684,4.832761,44,lyon place bellecour france rhne village tourisme villes filoer,2010,8,12,15,46,177090360.0,undef
-4970326119,45.757702,4.832729,44,lyon place bellecour france rhne village tourisme villes filoer,2010,8,12,15,44,177090240.0,undef
-5090542349,45.757687,4.832782,44,lyon fourvire depuis bellecour ,2009,12,5,17,32,155496720.0,undef
-4091564783,45.75756,4.832841,44,pyramide chaussures ,2009,9,26,11,45,149427900.0,undef
-5470448235,45.757547,4.832805,44,lyon wheel wheel canon eos lyon nuit roue bellecour,2011,2,21,20,23,193782180.0,undef
-5261351302,45.757583,4.832761,44, ,2010,12,11,21,11,187564260.0,undef
-5737585524,45.757519,4.832831,44,ghost france silhouette place lyon ghost fantome bellecour vaporeux,2009,12,7,1,11,155610660.0,undef
-6886545227,45.757667,4.832667,44, snow lyon placebellecour coldwave melvilleb,2012,2,14,10,17,224677020.0,undef
-8293889953,45.757568,4.832632,44,fte lumires lyon illumination lumires ftedeslumires dcembre,2011,12,11,14,20,219075600.0,undef
-6488814181,45.757463,4.832707,44,big wheel ,2011,12,8,14,32,218817120.0,undef
-6854161362,45.75747,4.832793,44, france lyon,2012,3,13,13,4,227106240.0,undef
-6959764905,45.757613,4.832643,44,akma london eye square sierra squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue ef f f f cc e bd,2012,3,6,22,14,226534440.0,undef
-7235376014,45.75768,4.832804,44,fte lumires ,2011,12,9,21,15,218927700.0,undef
-7824961224,45.757669,4.832677,44, ,2012,8,14,21,23,240441780.0,undef
-7824960414,45.757669,4.832677,44, ,2012,8,14,21,24,240441840.0,undef
-8765376908,45.757666,4.832833,44, uploadedbyflickrmobile flickriosappfilternofilter,2012,12,8,23,28,250471680.0,undef
-9405459769,45.757538,4.832696,44,philip place bellecour lyon lyon philip placebellecour thapril april,2013,4,30,14,42,262795320.0,undef
-9405456157,45.757538,4.832696,44,place bellecour lyon lyon placebellecour thapril april,2013,4,30,15,44,262799040.0,undef
-9408206090,45.757538,4.832696,44,place bellecour lyon lyon placebellecour thapril april,2013,4,30,15,46,262799160.0,undef
-9923244314,45.7575,4.832666,44,camera ,2012,12,21,20,20,251583600.0,undef
-12607222284,45.757672,4.832761,44,place bellecour lyon fte lumires france canon lyon canoneos franais granderoue photographe placebellecour fetedeslumieres canoneos photographefranais chauxe,2013,12,8,17,12,281985120.0,undef
-12599854705,45.757706,4.832789,44, lyon,2014,2,17,7,43,288085380.0,undef
-11482278865,45.757523,4.832847,44,lyon grande roue dcembre grande place lyon bleu ciel nuage nuages rayon granderoue roue bellecour nacelle nacelle,2013,12,21,18,43,283113780.0,undef
-11482066275,45.757523,4.832847,44,lyon grande roue dcembre grande noir place lyon ciel nuit multicolor rayon granderoue roue bellecour nacelle nacelle,2013,12,21,18,28,283112880.0,undef
-11482069894,45.757523,4.832847,44,lyon grande roue dcembre grande noir place lyon ciel nuit multicolor rayon granderoue roue bellecour nacelle nacelle,2013,12,21,18,27,283112820.0,undef
-31517060406,45.757702,4.832652,44,roue tourne auvergnerhonealpes france lyon presqule rhone rhonealpes formatpaysage granderoue mange nuit paysage paysageurbain poselongue canoneos ef mmf lisusm canon,2014,3,1,21,4,289170240.0,undef
-14363704306,45.757528,4.832846,44,baiser france couple europe place lyon place lover baiser placebellecour,2014,6,7,18,5,297626700.0,undef
-14952949408,45.757672,4.832622,44, ,2014,9,4,15,55,305308500.0,undef
-11359760733,45.757717,4.832718,44,lyon dcembre france architecture lyon centre fte nuit ville rhnealpes saintlyon capitaledesgaules lumiresrhne saintsprint,2013,12,8,16,13,281981580.0,undef
-11242537866,45.757733,4.83263,44,fte lumires ,2013,12,6,18,37,281817420.0,undef
-11242594813,45.757727,4.832658,44,fte lumires ,2013,12,6,18,37,281817420.0,undef
-11242499596,45.75773,4.832655,44,fte lumires ,2013,12,6,18,47,281818020.0,undef
-11242418785,45.7577,4.832636,44,fte lumires ,2013,12,6,18,45,281817900.0,undef
-11242408865,45.757777,4.832677,44,fte lumires ,2013,12,6,18,29,281816940.0,undef
-16309708649,45.75758,4.832855,44,breaking news day ive working elaboration new blog design normally live summer im completely rethinking whole website one thing id like create photo gallery square squareformat iphoneography instagramapp uploadedbyinstagram,2015,2,10,22,41,319070460.0,undef
-16258475619,45.75758,4.832855,44,coming later blog book ootd indie preppy photo great friend malle square squareformat iphoneography instagramapp uploadedbyinstagram,2015,2,4,19,41,318541260.0,undef
-16200680387,45.757513,4.832856,44,evening light lyon imagesoflyon square squareformat iphoneography instagramapp uploadedbyinstagram,2015,1,28,3,6,317876760.0,undef
-16198936278,45.757513,4.832856,44,ferris wheel part iii lyon imagesoflyon square squareformat iphoneography instagramapp uploadedbyinstagram,2015,1,28,3,0,317876400.0,undef
-16360582566,45.757513,4.832856,44,metro lyon imagesoflyon square squareformat iphoneography instagramapp uploadedbyinstagram,2015,1,28,2,59,317876340.0,undef
-16345306016,45.757513,4.832856,44,ferris wheel part imagesoflyon lyon square squareformat iphoneography instagramapp uploadedbyinstagram,2015,1,26,4,57,317710620.0,undef
-16371271085,45.757513,4.832856,44,ferris wheel imagesoflyon lyon square squareformat iphoneography instagramapp uploadedbyinstagram,2015,1,26,4,55,317710500.0,undef
-15735398303,45.757513,4.832856,44,upload square squareformat iphoneography instagramapp uploadedbyinstagram,2015,1,24,7,14,317546040.0,undef
-16123671840,45.757432,4.832825,44,granderoue lyon ferriswheel ftedeslumires lyonbynight square squareformat amaro iphoneography instagramapp uploadedbyinstagram,2015,1,18,10,59,317041140.0,undef
-17236324552,45.757792,4.832611,44,louis xiv star moon statue night venus lyon crescent astronomy taurus pleiades earthshine louisxiv hugin placebellecour aldebaran conjunction hyades presqule easyhdr,2015,4,22,22,21,325203660.0,undef
-21117671359,45.757752,4.832611,44, ,2015,9,10,16,24,337364640.0,undef
-21495984643,45.757688,4.832793,44,look around woman france europe lyon femme place placebellecour batoukailleurs,2015,10,10,17,55,339962100.0,undef
-21930170479,45.757643,4.832778,44,batoukailleurs man france europe lyon place homme placebellecour batoukailleurs,2015,10,10,17,54,339962040.0,undef
-21494228734,45.757663,4.832756,44,dancing woman france girl dance europe lyon femme place danse tanz placebellecour batoukailleurs,2015,10,10,17,54,339962040.0,undef
-22545902720,45.757717,4.832643,44,lyon bellecour france lyon rhne bellecour fourvire placebellecour rhnealpes lyonpresqule,2015,10,31,17,12,341773920.0,undef
-15341791693,45.757732,4.83275,44, ,2014,12,5,20,33,313273980.0,undef
-15775688857,45.757732,4.83275,44, ,2014,12,5,20,34,313274040.0,undef
-15961384865,45.757732,4.83275,44, ,2014,12,5,20,59,313275540.0,undef
-24097967013,45.75756,4.832686,44,lyon france city longexposure trip travel france night canon pose eos noche town europa europe nightshot lyon nacht rhne stadt citycenter nuit notte ville rhone bellecour placebellecour poselongue canoneos,2016,1,22,19,27,348953220.0,undef
-24604501446,45.757658,4.832589,44,lyon france city longexposure trip travel sunset france night canon noche town europa europe nightshot lyon nacht rhne stadt tamron nuit notte ville granderoue patrimoine rhone bellecour mainsquare placebellecour canoneos,2016,1,22,19,14,348952440.0,undef
-23780718324,45.757478,4.832696,44,lombre roue bellecour lyon blackandwhite lyon noiretblanc,2016,1,15,16,50,348339000.0,undef
-25684778416,45.757666,4.832666,44,francia lione fete lumieres dame fourviere panorama lione chiesa vista francia citta citt feste star festedelleluci,2009,12,6,11,58,155563080.0,undef
-25409995860,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,7,155506020.0,undef
-25710733175,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,7,155506020.0,undef
-25615683241,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,5,155505900.0,undef
-25684677746,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,6,155505960.0,undef
-25409977950,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,4,155505840.0,undef
-25409971780,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,2,155505720.0,undef
-25615524401,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star festedelleluci,2009,12,5,16,39,155493540.0,undef
-25083965513,45.757666,4.832666,44,francia lione fete lumieres place bellecour lione piazza francia citta citt feste star festedelleluci,2009,12,5,16,38,155493480.0,undef
-25083963633,45.757666,4.832666,44,francia lione fete lumieres place bellecour lione piazza francia citta citt feste star festedelleluci,2009,12,5,16,36,155493360.0,undef
-25589530622,45.757666,4.832666,44,francia lione fete lumieres place bellecour lione piazza francia citta citt feste star festedelleluci,2009,12,5,16,33,155493180.0,undef
-25562796413,45.757513,4.832644,44,radiohead ,2016,4,1,9,3,354963780.0,undef
-25589701982,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,5,155505900.0,undef
-25710725205,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,4,155505840.0,undef
-25409984050,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,5,155505900.0,undef
-25710724565,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,4,155505840.0,undef
-25710718155,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,4,155505840.0,undef
-25710717245,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,4,155505840.0,undef
-25684661196,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,3,155505780.0,undef
-25684658856,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,2,155505720.0,undef
-25409966500,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,1,155505660.0,undef
-25080142514,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,16,34,155493240.0,undef
-27373723570,45.757505,4.832765,44,belgian supporter france europe belgique lyon euro place supporter uefa lieux bellecour placebellecour fanzone jeuxdemotscls,2016,6,12,16,57,361213020.0,undef
-27577697651,45.75745,4.83278,44,belgian supporter france europe belgique lyon euro place supporter uefa lieux bellecour placebellecour fanzone jeuxdemotscls,2016,6,12,15,51,361209060.0,undef
-27041390293,45.75745,4.83278,44,belgian supporter france europe belgique lyon euro place supporter uefa lieux bellecour placebellecour fanzone jeuxdemotscls,2016,6,12,15,51,361209060.0,undef
-29397826364,45.757478,4.832825,44,place bellecour lyon fourvire,2016,1,27,13,39,349364340.0,undef
-31594635303,45.757807,4.832686,44,lyon france city urban dusk winter lyon europe europa trip travel ville bluehour heurebleue worldheritagesite bluesky ef mmf usm canoneos canon eos fullframe sky light statue architecture night cityscape,2017,1,16,18,26,380053560.0,undef
-31518647083,45.75759,4.832698,44, lyon place bellecour grande roue longue exposition,2017,1,14,17,33,379877580.0,undef
-35249618470,45.757625,4.832758,44, ,2017,6,30,19,29,394313340.0,undef
-35057732745,45.757641,4.832763,44, ,2017,6,2,18,47,391891620.0,undef
-35499480012,45.7575,4.832777,44,lyon france ,2017,6,11,16,16,392660160.0,undef
-34808787814,45.757625,4.832797,44, ,2017,7,1,15,27,394385220.0,undef
-35481337852,45.757655,4.832616,44, ,2017,7,1,15,20,394384800.0,undef
-35941054330,45.75774,4.832664,44,flip flop man male homme hombre uomo leg benen jambes beinen hairy behaard poilu flipflops gravel ky grind grave granulat square plein piazza place minimalism minimalisme foot pieds voeten fse rhnealpes mand,2017,7,22,16,16,396202560.0,undef
-37413002031,45.757786,4.832725,44, ,2017,9,30,17,51,402256260.0,undef
-23836387178,45.757647,4.832727,44, ,2017,10,14,12,29,403446540.0,undef
-37629728806,45.757647,4.832752,44, ,2017,10,11,19,12,403211520.0,undef
-37649047821,45.757545,4.832632,44,place bellecour ,2017,10,3,17,45,402515100.0,undef
-38237511281,45.75783,4.832616,44, ,2017,11,7,10,12,405511920.0,undef
-39475875262,45.757602,4.832761,44,illuminated ferris wheel place bellecour lyon france january lyon france ferris wheel illuminated night place bellecour,2018,1,1,20,5,410299500.0,undef
-39305793992,45.7575,4.832777,44,lyon place bellecour lyon rhne placebellecour lagranderoue,2017,12,27,17,9,409856940.0,undef
-38405035185,45.7575,4.832836,44,granderoue architecture france granderoue hiver k ii lyon pentax pentaxk ii rhne blending city cityscape fil heurebleue landscape light lightstream longexposure night nightlights nuit paysage placebellecour poselongue urban urbanlandscape ville bw noiretblanc blackwhite nb,2017,12,5,18,13,407959980.0,undef
-27435408789,45.757643,4.832589,44,fourvire embrume lyon,2017,12,21,19,4,409345440.0,undef
-39183593631,45.7575,4.832836,44,granderoue architecture france granderoue hiver k ii lyon pentax pentaxk ii rhne blending city cityscape fil heurebleue landscape light lightstream longexposure night nightlights nuit paysage placebellecour poselongue urban urbanlandscape ville,2017,12,5,18,13,407959980.0,undef
-25143469898,45.757591,4.832613,44,lyon fte lumires place bellecour promenonsnous ,2017,12,10,19,58,408398280.0,undef
-27222543209,45.757721,4.832663,44,promenonsnous europe france ftedeslumires lyon placebellecour place,2017,12,8,22,54,408236040.0,undef
-27222538859,45.757656,4.83277,44,promenonsnous europe france ftedeslumires lyon placebellecour place,2017,12,8,22,53,408235980.0,undef
-38106341475,45.757781,4.832716,44,fte lumires lyon ,2017,12,10,21,47,408404820.0,undef
-28258921218,45.757755,4.83275,44, ,2018,5,15,18,33,421871580.0,undef
-41230508435,45.757666,4.832658,44, ,2018,5,15,18,31,421871460.0,undef
-41230508385,45.757686,4.83263,44, ,2018,5,15,18,31,421871460.0,undef
-40324263930,45.757602,4.832808,44, ,2018,5,15,18,31,421871460.0,undef
-40324264080,45.757686,4.83263,44, ,2018,5,15,18,31,421871460.0,undef
-42042080195,45.757751,4.83261,44,marche firts lgbt bellecour europe france gay lgbt lesbi lesbian lyon placebellecour place pride,2018,6,16,19,8,424638480.0,undef
-42803185821,45.757702,4.832836,44,lyn lyon onlylyon france,2018,6,4,18,12,423598320.0,undef
-28884815218,45.757702,4.832655,44,lyon france lyon rhonecruise,2018,5,21,14,16,422374560.0,undef
-42645345182,45.757669,4.832761,44,lyon place bellecour hinten notredame fourvire lyon auvergnerhnealpes frankreich fra,2018,6,5,11,54,423662040.0,undef
-41794499525,45.757669,4.832761,44,lyon place bellecour hinten notredame fourvire lyon auvergnerhnealpes frankreich fra,2018,6,5,11,54,423662040.0,undef
-41794498755,45.757669,4.832761,44,lyon place bellecour hinten notredame fourvire lyon auvergnerhnealpes frankreich fra,2018,6,5,11,55,423662100.0,undef
-41794498175,45.757669,4.832761,44,lyon place bellecour hinten notredame fourvire lyon auvergnerhnealpes frankreich fra,2018,6,5,11,55,423662100.0,undef
-41794497665,45.757669,4.832761,44,lyon place bellecour hinten notredame fourvire lyon auvergnerhnealpes frankreich fra,2018,6,5,11,56,423662160.0,undef
-27825634757,45.757669,4.832761,44,lyon place bellecour hinten notredame fourvire lyon auvergnerhnealpes frankreich fra,2018,6,5,12,2,423662520.0,undef
-46521468695,45.757792,4.832611,44,lyon lyon sonyilce,2019,3,19,10,34,448454040.0,undef
-47770239541,45.757505,4.832775,44,lyon france lyon france,2018,10,13,13,13,434898780.0,undef
-46981070134,45.757619,4.832852,44,lyon france lyon france,2018,10,13,13,14,434898840.0,undef
-33893234248,45.757594,4.832855,44,lyon france lyon france,2018,10,13,13,14,434898840.0,undef
-47770238371,45.757572,4.832797,44,lyon france lyon france,2018,10,13,13,14,434898840.0,undef
-47770237111,45.75758,4.832866,44,lyon france lyon france,2018,10,13,13,15,434898900.0,undef
-46833033825,45.757594,4.832855,44,lyon france lyon france,2018,10,13,13,14,434898840.0,undef
-48436340111,45.75775,4.832702,44,plaza bellecour lyon josantonioabad lyon color noche europa pblica escultura paisajeurbano arquitectura francia architecture building calles edificios europe farbe fotografaurbana liyon night urbanphotography cityscape colour couleur nocturna sculpture streetphotography street urbanlanscape rdano,2019,7,16,22,13,458777580.0,undef
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+4175319526,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,23,58,155519880.0,undef,2009-12-05 23:58:00
+4174558891,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,23,56,155519760.0,undef,2009-12-05 23:56:00
+4175317050,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,23,56,155519760.0,undef,2009-12-05 23:56:00
+4175315676,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,23,54,155519640.0,undef,2009-12-05 23:54:00
+4175313344,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,23,48,155519280.0,undef,2009-12-05 23:48:00
+4175310646,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,23,19,155517540.0,undef,2009-12-05 23:19:00
+4175304134,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,22,52,155515920.0,undef,2009-12-05 22:52:00
+4175302634,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,22,48,155515680.0,undef,2009-12-05 22:48:00
+4174541061,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,22,46,155515560.0,undef,2009-12-05 22:46:00
+4175298032,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,22,45,155515500.0,undef,2009-12-05 22:45:00
+4174536313,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,22,43,155515380.0,undef,2009-12-05 22:43:00
+4174534291,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,22,41,155515260.0,undef,2009-12-05 22:41:00
+4174530361,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,22,10,155513400.0,undef,2009-12-05 22:10:00
+4175286508,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,22,10,155513400.0,undef,2009-12-05 22:10:00
+4174524289,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,22,9,155513340.0,undef,2009-12-05 22:09:00
+4175280152,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,22,9,155513340.0,undef,2009-12-05 22:09:00
+4175276840,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,22,7,155513220.0,undef,2009-12-05 22:07:00
+4175273494,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,22,6,155513160.0,undef,2009-12-05 22:06:00
+4175270144,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,22,6,155513160.0,undef,2009-12-05 22:06:00
+4174507613,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,22,5,155513100.0,undef,2009-12-05 22:05:00
+4174504455,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,22,4,155513040.0,undef,2009-12-05 22:04:00
+4174492453,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,21,55,155512500.0,undef,2009-12-05 21:55:00
+4174489875,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,21,55,155512500.0,undef,2009-12-05 21:55:00
+4175247060,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,21,54,155512440.0,undef,2009-12-05 21:54:00
+4175240954,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,21,49,155512140.0,undef,2009-12-05 21:49:00
+4175238558,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,21,47,155512020.0,undef,2009-12-05 21:47:00
+4175236270,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,21,40,155511600.0,undef,2009-12-05 21:40:00
+4174475507,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,21,39,155511540.0,undef,2009-12-05 21:39:00
+4174473477,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,21,39,155511540.0,undef,2009-12-05 21:39:00
+4174471439,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,21,36,155511360.0,undef,2009-12-05 21:36:00
+4175227412,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,21,23,155510580.0,undef,2009-12-05 21:23:00
+4175225078,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,21,22,155510520.0,undef,2009-12-05 21:22:00
+4174464585,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,20,47,155508420.0,undef,2009-12-05 20:47:00
+4174462363,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,20,47,155508420.0,undef,2009-12-05 20:47:00
+4175217752,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,20,44,155508240.0,undef,2009-12-05 20:44:00
+4175215412,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,20,43,155508180.0,undef,2009-12-05 20:43:00
+4175208408,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,19,59,155505540.0,undef,2009-12-05 19:59:00
+4175205544,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,19,58,155505480.0,undef,2009-12-05 19:58:00
+4175165804,45.757568,4.832739,44,lyon fte lumies ,2009,12,5,18,54,155501640.0,undef,2009-12-05 18:54:00
+4902577019,45.757778,4.832778,44,flower tree ,2010,7,9,10,38,174134280.0,undef,2010-07-09 10:38:00
+5029689556,45.75774,4.832782,44, people lyon streetphotography gen onlylyon,2010,6,26,10,53,173011980.0,undef,2010-06-26 10:53:00
+4970939662,45.75759,4.832653,44,lyon place bellecour france rhne village tourisme villes filoer,2010,8,12,15,46,177090360.0,undef,2010-08-12 15:46:00
+4970938596,45.757684,4.832761,44,lyon place bellecour france rhne village tourisme villes filoer,2010,8,12,15,46,177090360.0,undef,2010-08-12 15:46:00
+4970326119,45.757702,4.832729,44,lyon place bellecour france rhne village tourisme villes filoer,2010,8,12,15,44,177090240.0,undef,2010-08-12 15:44:00
+5090542349,45.757687,4.832782,44,lyon fourvire depuis bellecour ,2009,12,5,17,32,155496720.0,undef,2009-12-05 17:32:00
+4091564783,45.75756,4.832841,44,pyramide chaussures ,2009,9,26,11,45,149427900.0,undef,2009-09-26 11:45:00
+5470448235,45.757547,4.832805,44,lyon wheel wheel canon eos lyon nuit roue bellecour,2011,2,21,20,23,193782180.0,undef,2011-02-21 20:23:00
+5261351302,45.757583,4.832761,44, ,2010,12,11,21,11,187564260.0,undef,2010-12-11 21:11:00
+5737585524,45.757519,4.832831,44,ghost france silhouette place lyon ghost fantome bellecour vaporeux,2009,12,7,1,11,155610660.0,undef,2009-12-07 01:11:00
+6886545227,45.757667,4.832667,44, snow lyon placebellecour coldwave melvilleb,2012,2,14,10,17,224677020.0,undef,2012-02-14 10:17:00
+8293889953,45.757568,4.832632,44,fte lumires lyon illumination lumires ftedeslumires dcembre,2011,12,11,14,20,219075600.0,undef,2011-12-11 14:20:00
+6488814181,45.757463,4.832707,44,big wheel ,2011,12,8,14,32,218817120.0,undef,2011-12-08 14:32:00
+6854161362,45.75747,4.832793,44, france lyon,2012,3,13,13,4,227106240.0,undef,2012-03-13 13:04:00
+6959764905,45.757613,4.832643,44,akma london eye square sierra squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue ef f f f cc e bd,2012,3,6,22,14,226534440.0,undef,2012-03-06 22:14:00
+7235376014,45.75768,4.832804,44,fte lumires ,2011,12,9,21,15,218927700.0,undef,2011-12-09 21:15:00
+7824961224,45.757669,4.832677,44, ,2012,8,14,21,23,240441780.0,undef,2012-08-14 21:23:00
+7824960414,45.757669,4.832677,44, ,2012,8,14,21,24,240441840.0,undef,2012-08-14 21:24:00
+8765376908,45.757666,4.832833,44, uploadedbyflickrmobile flickriosappfilternofilter,2012,12,8,23,28,250471680.0,undef,2012-12-08 23:28:00
+9405459769,45.757538,4.832696,44,philip place bellecour lyon lyon philip placebellecour thapril april,2013,4,30,14,42,262795320.0,undef,2013-04-30 14:42:00
+9405456157,45.757538,4.832696,44,place bellecour lyon lyon placebellecour thapril april,2013,4,30,15,44,262799040.0,undef,2013-04-30 15:44:00
+9408206090,45.757538,4.832696,44,place bellecour lyon lyon placebellecour thapril april,2013,4,30,15,46,262799160.0,undef,2013-04-30 15:46:00
+9923244314,45.7575,4.832666,44,camera ,2012,12,21,20,20,251583600.0,undef,2012-12-21 20:20:00
+12607222284,45.757672,4.832761,44,place bellecour lyon fte lumires france canon lyon canoneos franais granderoue photographe placebellecour fetedeslumieres canoneos photographefranais chauxe,2013,12,8,17,12,281985120.0,undef,2013-12-08 17:12:00
+12599854705,45.757706,4.832789,44, lyon,2014,2,17,7,43,288085380.0,undef,2014-02-17 07:43:00
+11482278865,45.757523,4.832847,44,lyon grande roue dcembre grande place lyon bleu ciel nuage nuages rayon granderoue roue bellecour nacelle nacelle,2013,12,21,18,43,283113780.0,undef,2013-12-21 18:43:00
+11482066275,45.757523,4.832847,44,lyon grande roue dcembre grande noir place lyon ciel nuit multicolor rayon granderoue roue bellecour nacelle nacelle,2013,12,21,18,28,283112880.0,undef,2013-12-21 18:28:00
+11482069894,45.757523,4.832847,44,lyon grande roue dcembre grande noir place lyon ciel nuit multicolor rayon granderoue roue bellecour nacelle nacelle,2013,12,21,18,27,283112820.0,undef,2013-12-21 18:27:00
+31517060406,45.757702,4.832652,44,roue tourne auvergnerhonealpes france lyon presqule rhone rhonealpes formatpaysage granderoue mange nuit paysage paysageurbain poselongue canoneos ef mmf lisusm canon,2014,3,1,21,4,289170240.0,undef,2014-03-01 21:04:00
+14363704306,45.757528,4.832846,44,baiser france couple europe place lyon place lover baiser placebellecour,2014,6,7,18,5,297626700.0,undef,2014-06-07 18:05:00
+14952949408,45.757672,4.832622,44, ,2014,9,4,15,55,305308500.0,undef,2014-09-04 15:55:00
+11359760733,45.757717,4.832718,44,lyon dcembre france architecture lyon centre fte nuit ville rhnealpes saintlyon capitaledesgaules lumiresrhne saintsprint,2013,12,8,16,13,281981580.0,undef,2013-12-08 16:13:00
+11242537866,45.757733,4.83263,44,fte lumires ,2013,12,6,18,37,281817420.0,undef,2013-12-06 18:37:00
+11242594813,45.757727,4.832658,44,fte lumires ,2013,12,6,18,37,281817420.0,undef,2013-12-06 18:37:00
+11242499596,45.75773,4.832655,44,fte lumires ,2013,12,6,18,47,281818020.0,undef,2013-12-06 18:47:00
+11242418785,45.7577,4.832636,44,fte lumires ,2013,12,6,18,45,281817900.0,undef,2013-12-06 18:45:00
+11242408865,45.757777,4.832677,44,fte lumires ,2013,12,6,18,29,281816940.0,undef,2013-12-06 18:29:00
+16309708649,45.75758,4.832855,44,breaking news day ive working elaboration new blog design normally live summer im completely rethinking whole website one thing id like create photo gallery square squareformat iphoneography instagramapp uploadedbyinstagram,2015,2,10,22,41,319070460.0,undef,2015-02-10 22:41:00
+16258475619,45.75758,4.832855,44,coming later blog book ootd indie preppy photo great friend malle square squareformat iphoneography instagramapp uploadedbyinstagram,2015,2,4,19,41,318541260.0,undef,2015-02-04 19:41:00
+16200680387,45.757513,4.832856,44,evening light lyon imagesoflyon square squareformat iphoneography instagramapp uploadedbyinstagram,2015,1,28,3,6,317876760.0,undef,2015-01-28 03:06:00
+16198936278,45.757513,4.832856,44,ferris wheel part iii lyon imagesoflyon square squareformat iphoneography instagramapp uploadedbyinstagram,2015,1,28,3,0,317876400.0,undef,2015-01-28 03:00:00
+16360582566,45.757513,4.832856,44,metro lyon imagesoflyon square squareformat iphoneography instagramapp uploadedbyinstagram,2015,1,28,2,59,317876340.0,undef,2015-01-28 02:59:00
+16345306016,45.757513,4.832856,44,ferris wheel part imagesoflyon lyon square squareformat iphoneography instagramapp uploadedbyinstagram,2015,1,26,4,57,317710620.0,undef,2015-01-26 04:57:00
+16371271085,45.757513,4.832856,44,ferris wheel imagesoflyon lyon square squareformat iphoneography instagramapp uploadedbyinstagram,2015,1,26,4,55,317710500.0,undef,2015-01-26 04:55:00
+15735398303,45.757513,4.832856,44,upload square squareformat iphoneography instagramapp uploadedbyinstagram,2015,1,24,7,14,317546040.0,undef,2015-01-24 07:14:00
+16123671840,45.757432,4.832825,44,granderoue lyon ferriswheel ftedeslumires lyonbynight square squareformat amaro iphoneography instagramapp uploadedbyinstagram,2015,1,18,10,59,317041140.0,undef,2015-01-18 10:59:00
+17236324552,45.757792,4.832611,44,louis xiv star moon statue night venus lyon crescent astronomy taurus pleiades earthshine louisxiv hugin placebellecour aldebaran conjunction hyades presqule easyhdr,2015,4,22,22,21,325203660.0,undef,2015-04-22 22:21:00
+21117671359,45.757752,4.832611,44, ,2015,9,10,16,24,337364640.0,undef,2015-09-10 16:24:00
+21495984643,45.757688,4.832793,44,look around woman france europe lyon femme place placebellecour batoukailleurs,2015,10,10,17,55,339962100.0,undef,2015-10-10 17:55:00
+21930170479,45.757643,4.832778,44,batoukailleurs man france europe lyon place homme placebellecour batoukailleurs,2015,10,10,17,54,339962040.0,undef,2015-10-10 17:54:00
+21494228734,45.757663,4.832756,44,dancing woman france girl dance europe lyon femme place danse tanz placebellecour batoukailleurs,2015,10,10,17,54,339962040.0,undef,2015-10-10 17:54:00
+22545902720,45.757717,4.832643,44,lyon bellecour france lyon rhne bellecour fourvire placebellecour rhnealpes lyonpresqule,2015,10,31,17,12,341773920.0,undef,2015-10-31 17:12:00
+15341791693,45.757732,4.83275,44, ,2014,12,5,20,33,313273980.0,undef,2014-12-05 20:33:00
+15775688857,45.757732,4.83275,44, ,2014,12,5,20,34,313274040.0,undef,2014-12-05 20:34:00
+15961384865,45.757732,4.83275,44, ,2014,12,5,20,59,313275540.0,undef,2014-12-05 20:59:00
+24097967013,45.75756,4.832686,44,lyon france city longexposure trip travel france night canon pose eos noche town europa europe nightshot lyon nacht rhne stadt citycenter nuit notte ville rhone bellecour placebellecour poselongue canoneos,2016,1,22,19,27,348953220.0,undef,2016-01-22 19:27:00
+24604501446,45.757658,4.832589,44,lyon france city longexposure trip travel sunset france night canon noche town europa europe nightshot lyon nacht rhne stadt tamron nuit notte ville granderoue patrimoine rhone bellecour mainsquare placebellecour canoneos,2016,1,22,19,14,348952440.0,undef,2016-01-22 19:14:00
+23780718324,45.757478,4.832696,44,lombre roue bellecour lyon blackandwhite lyon noiretblanc,2016,1,15,16,50,348339000.0,undef,2016-01-15 16:50:00
+25684778416,45.757666,4.832666,44,francia lione fete lumieres dame fourviere panorama lione chiesa vista francia citta citt feste star festedelleluci,2009,12,6,11,58,155563080.0,undef,2009-12-06 11:58:00
+25409995860,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,7,155506020.0,undef,2009-12-05 20:07:00
+25710733175,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,7,155506020.0,undef,2009-12-05 20:07:00
+25615683241,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,5,155505900.0,undef,2009-12-05 20:05:00
+25684677746,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,6,155505960.0,undef,2009-12-05 20:06:00
+25409977950,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,4,155505840.0,undef,2009-12-05 20:04:00
+25409971780,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,2,155505720.0,undef,2009-12-05 20:02:00
+25615524401,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star festedelleluci,2009,12,5,16,39,155493540.0,undef,2009-12-05 16:39:00
+25083965513,45.757666,4.832666,44,francia lione fete lumieres place bellecour lione piazza francia citta citt feste star festedelleluci,2009,12,5,16,38,155493480.0,undef,2009-12-05 16:38:00
+25083963633,45.757666,4.832666,44,francia lione fete lumieres place bellecour lione piazza francia citta citt feste star festedelleluci,2009,12,5,16,36,155493360.0,undef,2009-12-05 16:36:00
+25589530622,45.757666,4.832666,44,francia lione fete lumieres place bellecour lione piazza francia citta citt feste star festedelleluci,2009,12,5,16,33,155493180.0,undef,2009-12-05 16:33:00
+25562796413,45.757513,4.832644,44,radiohead ,2016,4,1,9,3,354963780.0,undef,2016-04-01 09:03:00
+25589701982,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,5,155505900.0,undef,2009-12-05 20:05:00
+25710725205,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,4,155505840.0,undef,2009-12-05 20:04:00
+25409984050,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,5,155505900.0,undef,2009-12-05 20:05:00
+25710724565,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,4,155505840.0,undef,2009-12-05 20:04:00
+25710718155,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,4,155505840.0,undef,2009-12-05 20:04:00
+25710717245,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,4,155505840.0,undef,2009-12-05 20:04:00
+25684661196,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,3,155505780.0,undef,2009-12-05 20:03:00
+25684658856,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,2,155505720.0,undef,2009-12-05 20:02:00
+25409966500,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,20,1,155505660.0,undef,2009-12-05 20:01:00
+25080142514,45.757666,4.832666,44,francia lione fete lumieres place bellecour grande ruota lione piazza francia citta citt feste ruotapanoramica star lagranderuota festedelleluci,2009,12,5,16,34,155493240.0,undef,2009-12-05 16:34:00
+27373723570,45.757505,4.832765,44,belgian supporter france europe belgique lyon euro place supporter uefa lieux bellecour placebellecour fanzone jeuxdemotscls,2016,6,12,16,57,361213020.0,undef,2016-06-12 16:57:00
+27577697651,45.75745,4.83278,44,belgian supporter france europe belgique lyon euro place supporter uefa lieux bellecour placebellecour fanzone jeuxdemotscls,2016,6,12,15,51,361209060.0,undef,2016-06-12 15:51:00
+27041390293,45.75745,4.83278,44,belgian supporter france europe belgique lyon euro place supporter uefa lieux bellecour placebellecour fanzone jeuxdemotscls,2016,6,12,15,51,361209060.0,undef,2016-06-12 15:51:00
+29397826364,45.757478,4.832825,44,place bellecour lyon fourvire,2016,1,27,13,39,349364340.0,undef,2016-01-27 13:39:00
+31594635303,45.757807,4.832686,44,lyon france city urban dusk winter lyon europe europa trip travel ville bluehour heurebleue worldheritagesite bluesky ef mmf usm canoneos canon eos fullframe sky light statue architecture night cityscape,2017,1,16,18,26,380053560.0,undef,2017-01-16 18:26:00
+31518647083,45.75759,4.832698,44, lyon place bellecour grande roue longue exposition,2017,1,14,17,33,379877580.0,undef,2017-01-14 17:33:00
+35249618470,45.757625,4.832758,44, ,2017,6,30,19,29,394313340.0,undef,2017-06-30 19:29:00
+35057732745,45.757641,4.832763,44, ,2017,6,2,18,47,391891620.0,undef,2017-06-02 18:47:00
+35499480012,45.7575,4.832777,44,lyon france ,2017,6,11,16,16,392660160.0,undef,2017-06-11 16:16:00
+34808787814,45.757625,4.832797,44, ,2017,7,1,15,27,394385220.0,undef,2017-07-01 15:27:00
+35481337852,45.757655,4.832616,44, ,2017,7,1,15,20,394384800.0,undef,2017-07-01 15:20:00
+35941054330,45.75774,4.832664,44,flip flop man male homme hombre uomo leg benen jambes beinen hairy behaard poilu flipflops gravel ky grind grave granulat square plein piazza place minimalism minimalisme foot pieds voeten fse rhnealpes mand,2017,7,22,16,16,396202560.0,undef,2017-07-22 16:16:00
+37413002031,45.757786,4.832725,44, ,2017,9,30,17,51,402256260.0,undef,2017-09-30 17:51:00
+23836387178,45.757647,4.832727,44, ,2017,10,14,12,29,403446540.0,undef,2017-10-14 12:29:00
+37629728806,45.757647,4.832752,44, ,2017,10,11,19,12,403211520.0,undef,2017-10-11 19:12:00
+37649047821,45.757545,4.832632,44,place bellecour ,2017,10,3,17,45,402515100.0,undef,2017-10-03 17:45:00
+38237511281,45.75783,4.832616,44, ,2017,11,7,10,12,405511920.0,undef,2017-11-07 10:12:00
+39475875262,45.757602,4.832761,44,illuminated ferris wheel place bellecour lyon france january lyon france ferris wheel illuminated night place bellecour,2018,1,1,20,5,410299500.0,undef,2018-01-01 20:05:00
+39305793992,45.7575,4.832777,44,lyon place bellecour lyon rhne placebellecour lagranderoue,2017,12,27,17,9,409856940.0,undef,2017-12-27 17:09:00
+38405035185,45.7575,4.832836,44,granderoue architecture france granderoue hiver k ii lyon pentax pentaxk ii rhne blending city cityscape fil heurebleue landscape light lightstream longexposure night nightlights nuit paysage placebellecour poselongue urban urbanlandscape ville bw noiretblanc blackwhite nb,2017,12,5,18,13,407959980.0,undef,2017-12-05 18:13:00
+27435408789,45.757643,4.832589,44,fourvire embrume lyon,2017,12,21,19,4,409345440.0,undef,2017-12-21 19:04:00
+39183593631,45.7575,4.832836,44,granderoue architecture france granderoue hiver k ii lyon pentax pentaxk ii rhne blending city cityscape fil heurebleue landscape light lightstream longexposure night nightlights nuit paysage placebellecour poselongue urban urbanlandscape ville,2017,12,5,18,13,407959980.0,undef,2017-12-05 18:13:00
+25143469898,45.757591,4.832613,44,lyon fte lumires place bellecour promenonsnous ,2017,12,10,19,58,408398280.0,undef,2017-12-10 19:58:00
+27222543209,45.757721,4.832663,44,promenonsnous europe france ftedeslumires lyon placebellecour place,2017,12,8,22,54,408236040.0,undef,2017-12-08 22:54:00
+27222538859,45.757656,4.83277,44,promenonsnous europe france ftedeslumires lyon placebellecour place,2017,12,8,22,53,408235980.0,undef,2017-12-08 22:53:00
+38106341475,45.757781,4.832716,44,fte lumires lyon ,2017,12,10,21,47,408404820.0,undef,2017-12-10 21:47:00
+28258921218,45.757755,4.83275,44, ,2018,5,15,18,33,421871580.0,undef,2018-05-15 18:33:00
+41230508435,45.757666,4.832658,44, ,2018,5,15,18,31,421871460.0,undef,2018-05-15 18:31:00
+41230508385,45.757686,4.83263,44, ,2018,5,15,18,31,421871460.0,undef,2018-05-15 18:31:00
+40324263930,45.757602,4.832808,44, ,2018,5,15,18,31,421871460.0,undef,2018-05-15 18:31:00
+40324264080,45.757686,4.83263,44, ,2018,5,15,18,31,421871460.0,undef,2018-05-15 18:31:00
+42042080195,45.757751,4.83261,44,marche firts lgbt bellecour europe france gay lgbt lesbi lesbian lyon placebellecour place pride,2018,6,16,19,8,424638480.0,undef,2018-06-16 19:08:00
+42803185821,45.757702,4.832836,44,lyn lyon onlylyon france,2018,6,4,18,12,423598320.0,undef,2018-06-04 18:12:00
+28884815218,45.757702,4.832655,44,lyon france lyon rhonecruise,2018,5,21,14,16,422374560.0,undef,2018-05-21 14:16:00
+42645345182,45.757669,4.832761,44,lyon place bellecour hinten notredame fourvire lyon auvergnerhnealpes frankreich fra,2018,6,5,11,54,423662040.0,undef,2018-06-05 11:54:00
+41794499525,45.757669,4.832761,44,lyon place bellecour hinten notredame fourvire lyon auvergnerhnealpes frankreich fra,2018,6,5,11,54,423662040.0,undef,2018-06-05 11:54:00
+41794498755,45.757669,4.832761,44,lyon place bellecour hinten notredame fourvire lyon auvergnerhnealpes frankreich fra,2018,6,5,11,55,423662100.0,undef,2018-06-05 11:55:00
+41794498175,45.757669,4.832761,44,lyon place bellecour hinten notredame fourvire lyon auvergnerhnealpes frankreich fra,2018,6,5,11,55,423662100.0,undef,2018-06-05 11:55:00
+41794497665,45.757669,4.832761,44,lyon place bellecour hinten notredame fourvire lyon auvergnerhnealpes frankreich fra,2018,6,5,11,56,423662160.0,undef,2018-06-05 11:56:00
+27825634757,45.757669,4.832761,44,lyon place bellecour hinten notredame fourvire lyon auvergnerhnealpes frankreich fra,2018,6,5,12,2,423662520.0,undef,2018-06-05 12:02:00
+46521468695,45.757792,4.832611,44,lyon lyon sonyilce,2019,3,19,10,34,448454040.0,undef,2019-03-19 10:34:00
+47770239541,45.757505,4.832775,44,lyon france lyon france,2018,10,13,13,13,434898780.0,undef,2018-10-13 13:13:00
+46981070134,45.757619,4.832852,44,lyon france lyon france,2018,10,13,13,14,434898840.0,undef,2018-10-13 13:14:00
+33893234248,45.757594,4.832855,44,lyon france lyon france,2018,10,13,13,14,434898840.0,undef,2018-10-13 13:14:00
+47770238371,45.757572,4.832797,44,lyon france lyon france,2018,10,13,13,14,434898840.0,undef,2018-10-13 13:14:00
+47770237111,45.75758,4.832866,44,lyon france lyon france,2018,10,13,13,15,434898900.0,undef,2018-10-13 13:15:00
+46833033825,45.757594,4.832855,44,lyon france lyon france,2018,10,13,13,14,434898840.0,undef,2018-10-13 13:14:00
+48436340111,45.75775,4.832702,44,plaza bellecour lyon josantonioabad lyon color noche europa pblica escultura paisajeurbano arquitectura francia architecture building calles edificios europe farbe fotografaurbana liyon night urbanphotography cityscape colour couleur nocturna sculpture streetphotography street urbanlanscape rdano,2019,7,16,22,13,458777580.0,undef,2019-07-16 22:13:00

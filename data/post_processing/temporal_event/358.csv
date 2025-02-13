@@ -1,96 +1,57 @@
 id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken,year_month
-38637710606,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,17,33,407179980.0,Événement Temporaire,2017-11-26 17:33:00,2017-11
-37805972165,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,17,37,407180220.0,Événement Temporaire,2017-11-26 17:37:00,2017-11
-37805971985,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,17,52,407181120.0,Événement Temporaire,2017-11-26 17:52:00,2017-11
-37805971805,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,10,407182200.0,Événement Temporaire,2017-11-26 18:10:00,2017-11
-37805971885,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,7,407182020.0,Événement Temporaire,2017-11-26 18:07:00,2017-11
-38637710276,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,7,407182020.0,Événement Temporaire,2017-11-26 18:07:00,2017-11
-37805971715,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,11,407182260.0,Événement Temporaire,2017-11-26 18:11:00,2017-11
-38637710116,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,19,407182740.0,Événement Temporaire,2017-11-26 18:19:00,2017-11
-38661539482,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,10,407182200.0,Événement Temporaire,2017-11-26 18:10:00,2017-11
-38661539342,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,12,407182320.0,Événement Temporaire,2017-11-26 18:12:00,2017-11
-37805971645,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,13,407182380.0,Événement Temporaire,2017-11-26 18:13:00,2017-11
-38661539192,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,13,407182380.0,Événement Temporaire,2017-11-26 18:13:00,2017-11
-37805971575,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,17,407182620.0,Événement Temporaire,2017-11-26 18:17:00,2017-11
-38661538932,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,20,407182800.0,Événement Temporaire,2017-11-26 18:20:00,2017-11
-38661539042,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,17,407182620.0,Événement Temporaire,2017-11-26 18:17:00,2017-11
-38637709816,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,21,407182860.0,Événement Temporaire,2017-11-26 18:21:00,2017-11
-38661538692,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,33,407183580.0,Événement Temporaire,2017-11-26 18:33:00,2017-11
-38661538772,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,26,407183160.0,Événement Temporaire,2017-11-26 18:26:00,2017-11
-38637709746,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,33,407183580.0,Événement Temporaire,2017-11-26 18:33:00,2017-11
-38661538432,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,49,407184540.0,Événement Temporaire,2017-11-26 18:49:00,2017-11
-38637709636,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,34,407183640.0,Événement Temporaire,2017-11-26 18:34:00,2017-11
-37975972964,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,27,407183220.0,Événement Temporaire,2017-11-26 18:27:00,2017-11
-37975973254,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,25,407183100.0,Événement Temporaire,2017-11-26 18:25:00,2017-11
-37975972664,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,33,407183580.0,Événement Temporaire,2017-11-26 18:33:00,2017-11
-37975972424,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,48,407184480.0,Événement Temporaire,2017-11-26 18:48:00,2017-11
-37975972384,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,34,407183640.0,Événement Temporaire,2017-11-26 18:34:00,2017-11
-38694342861,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,50,407184600.0,Événement Temporaire,2017-11-26 18:50:00,2017-11
-37805967305,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,54,407184840.0,Événement Temporaire,2017-11-26 18:54:00,2017-11
-38661531832,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,54,407184840.0,Événement Temporaire,2017-11-26 18:54:00,2017-11
-38694342551,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,54,407184840.0,Événement Temporaire,2017-11-26 18:54:00,2017-11
-38694341991,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,57,407185020.0,Événement Temporaire,2017-11-26 18:57:00,2017-11
-38661531802,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,54,407184840.0,Événement Temporaire,2017-11-26 18:54:00,2017-11
-37805967055,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,9,407185740.0,Événement Temporaire,2017-11-26 19:09:00,2017-11
-38694341681,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,58,407185080.0,Événement Temporaire,2017-11-26 18:58:00,2017-11
-38694341501,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,0,407185200.0,Événement Temporaire,2017-11-26 19:00:00,2017-11
-38694341691,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,0,407185200.0,Événement Temporaire,2017-11-26 19:00:00,2017-11
-38661531592,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,2,407185320.0,Événement Temporaire,2017-11-26 19:02:00,2017-11
-24821106538,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,11,407185860.0,Événement Temporaire,2017-11-26 19:11:00,2017-11
-38694340881,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,19,407186340.0,Événement Temporaire,2017-11-26 19:19:00,2017-11
-38694341061,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,16,407186160.0,Événement Temporaire,2017-11-26 19:16:00,2017-11
-24821106218,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,20,407186400.0,Événement Temporaire,2017-11-26 19:20:00,2017-11
-24821105748,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,31,407187060.0,Événement Temporaire,2017-11-26 19:31:00,2017-11
-24821105888,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,31,407187060.0,Événement Temporaire,2017-11-26 19:31:00,2017-11
-38694340311,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,22,407186520.0,Événement Temporaire,2017-11-26 19:22:00,2017-11
-38694340071,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,31,407187060.0,Événement Temporaire,2017-11-26 19:31:00,2017-11
-24821105638,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,32,407187120.0,Événement Temporaire,2017-11-26 19:32:00,2017-11
-24821105508,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,32,407187120.0,Événement Temporaire,2017-11-26 19:32:00,2017-11
-38694339591,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,32,407187120.0,Événement Temporaire,2017-11-26 19:32:00,2017-11
-38694339841,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,32,407187120.0,Événement Temporaire,2017-11-26 19:32:00,2017-11
-38694339471,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,35,407187300.0,Événement Temporaire,2017-11-26 19:35:00,2017-11
-38694339211,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,40,407187600.0,Événement Temporaire,2017-11-26 19:40:00,2017-11
-24821105408,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,39,407187540.0,Événement Temporaire,2017-11-26 19:39:00,2017-11
-38694338921,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,40,407187600.0,Événement Temporaire,2017-11-26 19:40:00,2017-11
-24821105328,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,40,407187600.0,Événement Temporaire,2017-11-26 19:40:00,2017-11
-24821105128,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,41,407187660.0,Événement Temporaire,2017-11-26 19:41:00,2017-11
-38694338651,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,43,407187780.0,Événement Temporaire,2017-11-26 19:43:00,2017-11
-24821104988,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,43,407187780.0,Événement Temporaire,2017-11-26 19:43:00,2017-11
-24821104938,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,44,407187840.0,Événement Temporaire,2017-11-26 19:44:00,2017-11
-24821104818,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,44,407187840.0,Événement Temporaire,2017-11-26 19:44:00,2017-11
-38694338331,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,43,407187780.0,Événement Temporaire,2017-11-26 19:43:00,2017-11
-38694338051,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,44,407187840.0,Événement Temporaire,2017-11-26 19:44:00,2017-11
-37975966254,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,18,407182680.0,Événement Temporaire,2017-11-26 18:18:00,2017-11
-38694336951,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,3,407181780.0,Événement Temporaire,2017-11-26 18:03:00,2017-11
-24821104288,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,13,407182380.0,Événement Temporaire,2017-11-26 18:13:00,2017-11
-38637702536,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,23,407182980.0,Événement Temporaire,2017-11-26 18:23:00,2017-11
-24821104118,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,31,407183460.0,Événement Temporaire,2017-11-26 18:31:00,2017-11
-37975966194,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,48,407184480.0,Événement Temporaire,2017-11-26 18:48:00,2017-11
-37975966224,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,34,407183640.0,Événement Temporaire,2017-11-26 18:34:00,2017-11
-24821103998,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,51,407184660.0,Événement Temporaire,2017-11-26 18:51:00,2017-11
-24821103858,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,11,407185860.0,Événement Temporaire,2017-11-26 19:11:00,2017-11
-37975965984,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,38,407187480.0,Événement Temporaire,2017-11-26 19:38:00,2017-11
-37975966014,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,16,407186160.0,Événement Temporaire,2017-11-26 19:16:00,2017-11
-37975965944,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,42,407187720.0,Événement Temporaire,2017-11-26 19:42:00,2017-11
-24821103708,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,43,407187780.0,Événement Temporaire,2017-11-26 19:43:00,2017-11
-37975965754,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,19,45,407187900.0,Événement Temporaire,2017-11-26 19:45:00,2017-11
-38637711346,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,16,23,407175780.0,Événement Temporaire,2017-11-26 16:23:00,2017-11
-37805972825,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,16,22,407175720.0,Événement Temporaire,2017-11-26 16:22:00,2017-11
-37805972765,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,16,40,407176800.0,Événement Temporaire,2017-11-26 16:40:00,2017-11
-37805972725,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,16,42,407176920.0,Événement Temporaire,2017-11-26 16:42:00,2017-11
-38637711016,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,16,44,407177040.0,Événement Temporaire,2017-11-26 16:44:00,2017-11
-37805972615,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,16,54,407177640.0,Événement Temporaire,2017-11-26 16:54:00,2017-11
-37805972515,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,17,3,407178180.0,Événement Temporaire,2017-11-26 17:03:00,2017-11
-38637710856,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,17,14,407178840.0,Événement Temporaire,2017-11-26 17:14:00,2017-11
-38637710946,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,17,2,407178120.0,Événement Temporaire,2017-11-26 17:02:00,2017-11
-37805972455,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,17,18,407179080.0,Événement Temporaire,2017-11-26 17:18:00,2017-11
-38637710726,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,17,19,407179140.0,Événement Temporaire,2017-11-26 17:19:00,2017-11
-37805972335,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,17,24,407179440.0,Événement Temporaire,2017-11-26 17:24:00,2017-11
-38637703116,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,16,41,407176860.0,Événement Temporaire,2017-11-26 16:41:00,2017-11
-38694337511,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,17,2,407178120.0,Événement Temporaire,2017-11-26 17:02:00,2017-11
-38637702976,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,17,8,407178480.0,Événement Temporaire,2017-11-26 17:08:00,2017-11
-38694337821,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,16,25,407175900.0,Événement Temporaire,2017-11-26 16:25:00,2017-11
-24821104678,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,16,45,407177100.0,Événement Temporaire,2017-11-26 16:45:00,2017-11
-38694337221,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,17,31,407179860.0,Événement Temporaire,2017-11-26 17:31:00,2017-11
-24821104578,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,17,22,407179320.0,Événement Temporaire,2017-11-26 17:22:00,2017-11
-37975966384,45.723819,4.832208,358,loust loust accrditation gerland lou lourugby lyon stadetoulousain toulouse auvergnerhnealpes france fr,2017,11,26,18,7,407182020.0,Événement Temporaire,2017-11-26 18:07:00,2017-11
+31511501864,45.777071,4.854712,358,far east lyon fdl ptdo supermimil,2016,12,10,15,14,376845240.0,Événement Temporaire,2016-12-10 15:14:00,2016-12
+31542789683,45.777071,4.854712,358,lyon mini train parc loco lyon fdl ptdo supermimil,2016,12,10,15,13,376845180.0,Événement Temporaire,2016-12-10 15:13:00,2016-12
+32314711926,45.777071,4.854712,358,mini train lyon parc lyon fdl ptdo supermimil,2016,12,10,15,13,376845180.0,Événement Temporaire,2016-12-10 15:13:00,2016-12
+31976876750,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,24,376845840.0,Événement Temporaire,2016-12-10 15:24:00,2016-12
+32314634176,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,23,376845780.0,Événement Temporaire,2016-12-10 15:23:00,2016-12
+31511243384,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,27,376846020.0,Événement Temporaire,2016-12-10 15:27:00,2016-12
+31976748080,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,28,376846080.0,Événement Temporaire,2016-12-10 15:28:00,2016-12
+32203382792,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,35,376846500.0,Événement Temporaire,2016-12-10 15:35:00,2016-12
+32353485435,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,35,376846500.0,Événement Temporaire,2016-12-10 15:35:00,2016-12
+32203262312,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,36,376846560.0,Événement Temporaire,2016-12-10 15:36:00,2016-12
+32353359815,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,36,376846560.0,Événement Temporaire,2016-12-10 15:36:00,2016-12
+32203171092,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,37,376846620.0,Événement Temporaire,2016-12-10 15:37:00,2016-12
+32203120202,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,40,376846800.0,Événement Temporaire,2016-12-10 15:40:00,2016-12
+31976389140,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,43,376846980.0,Événement Temporaire,2016-12-10 15:43:00,2016-12
+32314178786,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,49,376847340.0,Événement Temporaire,2016-12-10 15:49:00,2016-12
+32202984352,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,49,376847340.0,Événement Temporaire,2016-12-10 15:49:00,2016-12
+31510813834,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,49,376847340.0,Événement Temporaire,2016-12-10 15:49:00,2016-12
+31976205370,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,49,376847340.0,Événement Temporaire,2016-12-10 15:49:00,2016-12
+32313940386,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,51,376847460.0,Événement Temporaire,2016-12-10 15:51:00,2016-12
+31976123710,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,51,376847460.0,Événement Temporaire,2016-12-10 15:51:00,2016-12
+31541845893,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,52,376847520.0,Événement Temporaire,2016-12-10 15:52:00,2016-12
+31541778993,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,53,376847580.0,Événement Temporaire,2016-12-10 15:53:00,2016-12
+32232869191,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,53,376847580.0,Événement Temporaire,2016-12-10 15:53:00,2016-12
+31510514434,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,53,376847580.0,Événement Temporaire,2016-12-10 15:53:00,2016-12
+32313687166,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,53,376847580.0,Événement Temporaire,2016-12-10 15:53:00,2016-12
+32352587355,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,53,376847580.0,Événement Temporaire,2016-12-10 15:53:00,2016-12
+32313586406,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,54,376847640.0,Événement Temporaire,2016-12-10 15:54:00,2016-12
+31975725090,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,55,376847700.0,Événement Temporaire,2016-12-10 15:55:00,2016-12
+32232569091,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,55,376847700.0,Événement Temporaire,2016-12-10 15:55:00,2016-12
+32232472581,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,56,376847760.0,Événement Temporaire,2016-12-10 15:56:00,2016-12
+32352332495,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,56,376847760.0,Événement Temporaire,2016-12-10 15:56:00,2016-12
+32202194152,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,56,376847760.0,Événement Temporaire,2016-12-10 15:56:00,2016-12
+31975489570,45.777071,4.854712,358,p lyon fdl ptdo pelican animal supermimil,2016,12,10,15,56,376847760.0,Événement Temporaire,2016-12-10 15:56:00,2016-12
+32232280141,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,56,376847760.0,Événement Temporaire,2016-12-10 15:56:00,2016-12
+31510019244,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,57,376847820.0,Événement Temporaire,2016-12-10 15:57:00,2016-12
+31541146783,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,57,376847820.0,Événement Temporaire,2016-12-10 15:57:00,2016-12
+32232136691,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,58,376847880.0,Événement Temporaire,2016-12-10 15:58:00,2016-12
+32352041785,45.777071,4.854712,358,silence dor lyon fdl ptdo supermimil,2016,12,10,15,59,376847940.0,Événement Temporaire,2016-12-10 15:59:00,2016-12
+31975217550,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,59,376847940.0,Événement Temporaire,2016-12-10 15:59:00,2016-12
+32312914856,45.777071,4.854712,358,want move lyon fdl ptdo supermimil,2016,12,10,16,1,376848060.0,Événement Temporaire,2016-12-10 16:01:00,2016-12
+32231980631,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,16,4,376848240.0,Événement Temporaire,2016-12-10 16:04:00,2016-12
+32231936111,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,16,4,376848240.0,Événement Temporaire,2016-12-10 16:04:00,2016-12
+31975010310,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,16,7,376848420.0,Événement Temporaire,2016-12-10 16:07:00,2016-12
+32231843201,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,16,18,376849080.0,Événement Temporaire,2016-12-10 16:18:00,2016-12
+32201631222,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,16,5,376848300.0,Événement Temporaire,2016-12-10 16:05:00,2016-12
+32312655396,45.777071,4.854712,358,onlylyon lyon fdl ptdo supermimil,2016,12,10,16,3,376848180.0,Événement Temporaire,2016-12-10 16:03:00,2016-12
+31509493994,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,59,376847940.0,Événement Temporaire,2016-12-10 15:59:00,2016-12
+32201573062,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,57,376847820.0,Événement Temporaire,2016-12-10 15:57:00,2016-12
+31540628353,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,55,376847700.0,Événement Temporaire,2016-12-10 15:55:00,2016-12
+32351546445,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,52,376847520.0,Événement Temporaire,2016-12-10 15:52:00,2016-12
+32312543466,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,51,376847460.0,Événement Temporaire,2016-12-10 15:51:00,2016-12
+31974802630,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,44,376847040.0,Événement Temporaire,2016-12-10 15:44:00,2016-12
+31540531163,45.777071,4.854712,358,sauvage lyon lion wildstyle lyon fdl ptdo supermimil,2016,12,10,15,37,376846620.0,Événement Temporaire,2016-12-10 15:37:00,2016-12
+32231590271,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,27,376846020.0,Événement Temporaire,2016-12-10 15:27:00,2016-12
+32201433982,45.777071,4.854712,358,p lyon fdl ptdo supermimil,2016,12,10,15,13,376845180.0,Événement Temporaire,2016-12-10 15:13:00,2016-12
+32201403972,45.777071,4.854712,358,chrysomallos nella busco velodrome lyon lyon fdl ptdo supermimil,2016,12,10,15,12,376845120.0,Événement Temporaire,2016-12-10 15:12:00,2016-12

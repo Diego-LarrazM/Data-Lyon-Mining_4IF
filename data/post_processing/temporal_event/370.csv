@@ -1,44 +1,27 @@
 id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken,year_month
-32143142983,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,11,382223460.0,Événement Temporaire,2017-02-10 21:11:00,2017-02
-32803648982,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,11,382223460.0,Événement Temporaire,2017-02-10 21:11:00,2017-02
-32803643312,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,11,382223460.0,Événement Temporaire,2017-02-10 21:11:00,2017-02
-32957548435,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,11,382223460.0,Événement Temporaire,2017-02-10 21:11:00,2017-02
-32916963326,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,11,382223460.0,Événement Temporaire,2017-02-10 21:11:00,2017-02
-32916959306,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,12,382223520.0,Événement Temporaire,2017-02-10 21:12:00,2017-02
-32114205274,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,12,382223520.0,Événement Temporaire,2017-02-10 21:12:00,2017-02
-32114191404,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,12,382223520.0,Événement Temporaire,2017-02-10 21:12:00,2017-02
-32114182734,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,13,382223580.0,Événement Temporaire,2017-02-10 21:13:00,2017-02
-32803602402,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,13,382223580.0,Événement Temporaire,2017-02-10 21:13:00,2017-02
-32916919856,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,13,382223580.0,Événement Temporaire,2017-02-10 21:13:00,2017-02
-32114158574,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,13,382223580.0,Événement Temporaire,2017-02-10 21:13:00,2017-02
-32916913136,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,13,382223580.0,Événement Temporaire,2017-02-10 21:13:00,2017-02
-32916909496,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,13,382223580.0,Événement Temporaire,2017-02-10 21:13:00,2017-02
-32576760360,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,13,382223580.0,Événement Temporaire,2017-02-10 21:13:00,2017-02
-32114135584,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,13,382223580.0,Événement Temporaire,2017-02-10 21:13:00,2017-02
-32957469225,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,13,382223580.0,Événement Temporaire,2017-02-10 21:13:00,2017-02
-32916884476,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,14,382223640.0,Événement Temporaire,2017-02-10 21:14:00,2017-02
-32803564272,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,14,382223640.0,Événement Temporaire,2017-02-10 21:14:00,2017-02
-32832952501,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,14,382223640.0,Événement Temporaire,2017-02-10 21:14:00,2017-02
-32576698060,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,15,382223700.0,Événement Temporaire,2017-02-10 21:15:00,2017-02
-32576694540,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,15,382223700.0,Événement Temporaire,2017-02-10 21:15:00,2017-02
-32916846596,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,20,48,382222080.0,Événement Temporaire,2017-02-10 20:48:00,2017-02
-32803534502,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,10,382223400.0,Événement Temporaire,2017-02-10 21:10:00,2017-02
-32143134443,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,11,382223460.0,Événement Temporaire,2017-02-10 21:11:00,2017-02
-32833005101,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,11,382223460.0,Événement Temporaire,2017-02-10 21:11:00,2017-02
-32576800570,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,12,382223520.0,Événement Temporaire,2017-02-10 21:12:00,2017-02
-32114202044,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,12,382223520.0,Événement Temporaire,2017-02-10 21:12:00,2017-02
-32114197374,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,12,382223520.0,Événement Temporaire,2017-02-10 21:12:00,2017-02
-32916932966,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,13,382223580.0,Événement Temporaire,2017-02-10 21:13:00,2017-02
-32576778230,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,13,382223580.0,Événement Temporaire,2017-02-10 21:13:00,2017-02
-32114173634,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,13,382223580.0,Événement Temporaire,2017-02-10 21:13:00,2017-02
-32957479765,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,13,382223580.0,Événement Temporaire,2017-02-10 21:13:00,2017-02
-32114123214,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,13,382223580.0,Événement Temporaire,2017-02-10 21:13:00,2017-02
-32576738320,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,13,382223580.0,Événement Temporaire,2017-02-10 21:13:00,2017-02
-32916876406,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,14,382223640.0,Événement Temporaire,2017-02-10 21:14:00,2017-02
-32957450085,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,14,382223640.0,Événement Temporaire,2017-02-10 21:14:00,2017-02
-32832949131,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,14,382223640.0,Événement Temporaire,2017-02-10 21:14:00,2017-02
-32803556302,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,14,382223640.0,Événement Temporaire,2017-02-10 21:14:00,2017-02
-32576701720,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,14,382223640.0,Événement Temporaire,2017-02-10 21:14:00,2017-02
-32114089564,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,8,382223280.0,Événement Temporaire,2017-02-10 21:08:00,2017-02
-32916837106,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,11,382223460.0,Événement Temporaire,2017-02-10 21:11:00,2017-02
-32803523162,45.767253,4.859708,370, lyon fetesdeslumieres lumieres fete,2017,2,10,21,11,382223460.0,Événement Temporaire,2017-02-10 21:11:00,2017-02
+48590609256,45.758083,4.831355,370,lyon auvergnerhnealpes france lyon oldcity unescoworldheritagesite vieuxlyon,2015,9,20,10,23,338206980.0,Événement Temporaire,2015-09-20 10:23:00,2015-09
+48590608331,45.758083,4.831355,370,lyon auvergnerhnealpes cathedral cathdrale france lyon oldcity saintjeanbaptiste unescoworldheritagesite vieuxlyon,2015,9,20,9,15,338202900.0,Événement Temporaire,2015-09-20 09:15:00,2015-09
+48590752262,45.758083,4.831355,370,lyon auvergnerhnealpes france lyon oldcity unescoworldheritagesite vieuxlyon,2015,9,20,9,2,338202120.0,Événement Temporaire,2015-09-20 09:02:00,2015-09
+48590606666,45.758083,4.831355,370,lyon auvergnerhnealpes france lyon oldcity unescoworldheritagesite vieuxlyon,2015,9,20,9,11,338202660.0,Événement Temporaire,2015-09-20 09:11:00,2015-09
+48589709842,45.758083,4.831355,370,lyon auvergnerhnealpes cathedral cathdrale france lyon saintjeanbaptiste unescoworldheritagesite oldcity vieuxlyon,2015,9,20,9,18,338203080.0,Événement Temporaire,2015-09-20 09:18:00,2015-09
+48589711917,45.758083,4.831355,370,lyon auvergnerhnealpes cathedral cathdrale france lyon saintjeanbaptiste unescoworldheritagesite oldcity vieuxlyon,2015,9,20,9,25,338203500.0,Événement Temporaire,2015-09-20 09:25:00,2015-09
+48589573061,45.758083,4.831355,370,lyon auvergnerhnealpes cathedral cathdrale france lyon saintjeanbaptiste unescoworldheritagesite oldcity vieuxlyon,2015,9,20,9,21,338203260.0,Événement Temporaire,2015-09-20 09:21:00,2015-09
+48589710897,45.758083,4.831355,370,lyon auvergnerhnealpes cathedral cathdrale france lyon saintjeanbaptiste unescoworldheritagesite oldcity vieuxlyon,2015,9,20,9,22,338203320.0,Événement Temporaire,2015-09-20 09:22:00,2015-09
+48589571911,45.758083,4.831355,370,lyon auvergnerhnealpes cathedral cathdrale france lyon saintjeanbaptiste unescoworldheritagesite oldcity vieuxlyon,2015,9,20,9,18,338203080.0,Événement Temporaire,2015-09-20 09:18:00,2015-09
+48589570756,45.758083,4.831355,370,lyon auvergnerhnealpes cathedral cathdrale france lyon saintjeanbaptiste unescoworldheritagesite oldcity vieuxlyon,2015,9,20,9,18,338203080.0,Événement Temporaire,2015-09-20 09:18:00,2015-09
+48589569696,45.758083,4.831355,370,lyon auvergnerhnealpes cathedral cathdrale france lyon saintjeanbaptiste unescoworldheritagesite oldcity vieuxlyon,2015,9,20,9,17,338203020.0,Événement Temporaire,2015-09-20 09:17:00,2015-09
+48969005397,45.758083,4.831355,370,lyon auvergnerhnealpes cathedral cathdrale flickrsyncpermpublic france lyon oldcity saintjeanbaptiste unescoworldheritagesite vieuxlyon,2015,9,20,9,15,338202900.0,Événement Temporaire,2015-09-20 09:15:00,2015-09
+48968281598,45.758083,4.831355,370,lyon auvergnerhnealpes flickrsyncpermpublic france lyon placebellecour unescoworldheritagesite,2015,9,20,10,8,338206080.0,Événement Temporaire,2015-09-20 10:08:00,2015-09
+48969002547,45.758083,4.831355,370,lyon auvergnerhnealpes flickrsyncpermpublic france lyon unescoworldheritagesite,2015,9,20,9,15,338202900.0,Événement Temporaire,2015-09-20 09:15:00,2015-09
+48969001822,45.758083,4.831355,370,lyon auvergnerhnealpes flickrsyncpermpublic france lyon unescoworldheritagesite,2015,9,20,9,4,338202240.0,Événement Temporaire,2015-09-20 09:04:00,2015-09
+48968821141,45.758083,4.831355,370,lyon auvergnerhnealpes flickrsyncpermpublic france lyon unescoworldheritagesite,2015,9,20,9,2,338202120.0,Événement Temporaire,2015-09-20 09:02:00,2015-09
+48968790766,45.758083,4.831355,370,lyon auvergnerhnealpes flickrsyncpermpublic france lyon placebellecour unescoworldheritagesite,2015,9,20,10,22,338206920.0,Événement Temporaire,2015-09-20 10:22:00,2015-09
+48968788491,45.758083,4.831355,370,lyon auvergnerhnealpes flickrsyncpermpublic france lyon placebellecour unescoworldheritagesite,2015,9,20,9,58,338205480.0,Événement Temporaire,2015-09-20 09:58:00,2015-09
+48968776636,45.758083,4.831355,370,lyon auvergnerhnealpes flickrsyncpermpublic france lyon oldcity unescoworldheritagesite vieuxlyon,2015,9,20,9,48,338204880.0,Événement Temporaire,2015-09-20 09:48:00,2015-09
+48968776046,45.758083,4.831355,370,lyon auvergnerhnealpes cathedral cathdrale flickrsyncpermpublic france lyon oldcity saintjeanbaptiste unescoworldheritagesite vieuxlyon,2015,9,20,9,25,338203500.0,Événement Temporaire,2015-09-20 09:25:00,2015-09
+48968956277,45.758083,4.831355,370,lyon france cathedral lyon cathdrale oldcity flickrsyncpermpublic auvergnerhnealpes unescoworldheritagesite vieuxlyon saintjeanbaptiste,2015,9,20,9,15,338202900.0,Événement Temporaire,2015-09-20 09:15:00,2015-09
+48968819096,45.758083,4.831355,370,lyon auvergnerhnealpes flickrsyncpermpublic france lyon unescoworldheritagesite,2015,9,20,9,2,338202120.0,Événement Temporaire,2015-09-20 09:02:00,2015-09
+48968788806,45.758083,4.831355,370,lyon auvergnerhnealpes flickrsyncpermpublic france lyon placebellecour unescoworldheritagesite,2015,9,20,10,19,338206740.0,Événement Temporaire,2015-09-20 10:19:00,2015-09
+48968245898,45.758083,4.831355,370,lyon auvergnerhnealpes flickrsyncpermpublic france lyon placebellecour unescoworldheritagesite,2015,9,20,9,58,338205480.0,Événement Temporaire,2015-09-20 09:58:00,2015-09
+48968958712,45.758083,4.831355,370,lyon auvergnerhnealpes flickrsyncpermpublic france lyon placebellecour unescoworldheritagesite,2015,9,20,9,57,338205420.0,Événement Temporaire,2015-09-20 09:57:00,2015-09
+48968778286,45.758083,4.831355,370,lyon auvergnerhnealpes flickrsyncpermpublic france lyon placebellecour unescoworldheritagesite,2015,9,20,9,53,338205180.0,Événement Temporaire,2015-09-20 09:53:00,2015-09

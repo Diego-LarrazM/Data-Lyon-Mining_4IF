@@ -1,57 +1,37 @@
 id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken,year_month
-31511501864,45.777071,4.854712,374,far east lyon fdl ptdo supermimil,2016,12,10,15,14,376845240.0,Événement Temporaire,2016-12-10 15:14:00,2016-12
-31542789683,45.777071,4.854712,374,lyon mini train parc loco lyon fdl ptdo supermimil,2016,12,10,15,13,376845180.0,Événement Temporaire,2016-12-10 15:13:00,2016-12
-32314711926,45.777071,4.854712,374,mini train lyon parc lyon fdl ptdo supermimil,2016,12,10,15,13,376845180.0,Événement Temporaire,2016-12-10 15:13:00,2016-12
-31976876750,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,24,376845840.0,Événement Temporaire,2016-12-10 15:24:00,2016-12
-32314634176,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,23,376845780.0,Événement Temporaire,2016-12-10 15:23:00,2016-12
-31511243384,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,27,376846020.0,Événement Temporaire,2016-12-10 15:27:00,2016-12
-31976748080,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,28,376846080.0,Événement Temporaire,2016-12-10 15:28:00,2016-12
-32203382792,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,35,376846500.0,Événement Temporaire,2016-12-10 15:35:00,2016-12
-32353485435,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,35,376846500.0,Événement Temporaire,2016-12-10 15:35:00,2016-12
-32203262312,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,36,376846560.0,Événement Temporaire,2016-12-10 15:36:00,2016-12
-32353359815,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,36,376846560.0,Événement Temporaire,2016-12-10 15:36:00,2016-12
-32203171092,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,37,376846620.0,Événement Temporaire,2016-12-10 15:37:00,2016-12
-32203120202,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,40,376846800.0,Événement Temporaire,2016-12-10 15:40:00,2016-12
-31976389140,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,43,376846980.0,Événement Temporaire,2016-12-10 15:43:00,2016-12
-32314178786,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,49,376847340.0,Événement Temporaire,2016-12-10 15:49:00,2016-12
-32202984352,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,49,376847340.0,Événement Temporaire,2016-12-10 15:49:00,2016-12
-31510813834,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,49,376847340.0,Événement Temporaire,2016-12-10 15:49:00,2016-12
-31976205370,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,49,376847340.0,Événement Temporaire,2016-12-10 15:49:00,2016-12
-32313940386,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,51,376847460.0,Événement Temporaire,2016-12-10 15:51:00,2016-12
-31976123710,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,51,376847460.0,Événement Temporaire,2016-12-10 15:51:00,2016-12
-31541845893,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,52,376847520.0,Événement Temporaire,2016-12-10 15:52:00,2016-12
-31541778993,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,53,376847580.0,Événement Temporaire,2016-12-10 15:53:00,2016-12
-32232869191,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,53,376847580.0,Événement Temporaire,2016-12-10 15:53:00,2016-12
-31510514434,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,53,376847580.0,Événement Temporaire,2016-12-10 15:53:00,2016-12
-32313687166,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,53,376847580.0,Événement Temporaire,2016-12-10 15:53:00,2016-12
-32352587355,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,53,376847580.0,Événement Temporaire,2016-12-10 15:53:00,2016-12
-32313586406,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,54,376847640.0,Événement Temporaire,2016-12-10 15:54:00,2016-12
-31975725090,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,55,376847700.0,Événement Temporaire,2016-12-10 15:55:00,2016-12
-32232569091,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,55,376847700.0,Événement Temporaire,2016-12-10 15:55:00,2016-12
-32232472581,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,56,376847760.0,Événement Temporaire,2016-12-10 15:56:00,2016-12
-32352332495,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,56,376847760.0,Événement Temporaire,2016-12-10 15:56:00,2016-12
-32202194152,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,56,376847760.0,Événement Temporaire,2016-12-10 15:56:00,2016-12
-31975489570,45.777071,4.854712,374,p lyon fdl ptdo pelican animal supermimil,2016,12,10,15,56,376847760.0,Événement Temporaire,2016-12-10 15:56:00,2016-12
-32232280141,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,56,376847760.0,Événement Temporaire,2016-12-10 15:56:00,2016-12
-31510019244,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,57,376847820.0,Événement Temporaire,2016-12-10 15:57:00,2016-12
-31541146783,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,57,376847820.0,Événement Temporaire,2016-12-10 15:57:00,2016-12
-32232136691,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,58,376847880.0,Événement Temporaire,2016-12-10 15:58:00,2016-12
-32352041785,45.777071,4.854712,374,silence dor lyon fdl ptdo supermimil,2016,12,10,15,59,376847940.0,Événement Temporaire,2016-12-10 15:59:00,2016-12
-31975217550,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,59,376847940.0,Événement Temporaire,2016-12-10 15:59:00,2016-12
-32312914856,45.777071,4.854712,374,want move lyon fdl ptdo supermimil,2016,12,10,16,1,376848060.0,Événement Temporaire,2016-12-10 16:01:00,2016-12
-32231980631,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,16,4,376848240.0,Événement Temporaire,2016-12-10 16:04:00,2016-12
-32231936111,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,16,4,376848240.0,Événement Temporaire,2016-12-10 16:04:00,2016-12
-31975010310,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,16,7,376848420.0,Événement Temporaire,2016-12-10 16:07:00,2016-12
-32231843201,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,16,18,376849080.0,Événement Temporaire,2016-12-10 16:18:00,2016-12
-32201631222,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,16,5,376848300.0,Événement Temporaire,2016-12-10 16:05:00,2016-12
-32312655396,45.777071,4.854712,374,onlylyon lyon fdl ptdo supermimil,2016,12,10,16,3,376848180.0,Événement Temporaire,2016-12-10 16:03:00,2016-12
-31509493994,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,59,376847940.0,Événement Temporaire,2016-12-10 15:59:00,2016-12
-32201573062,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,57,376847820.0,Événement Temporaire,2016-12-10 15:57:00,2016-12
-31540628353,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,55,376847700.0,Événement Temporaire,2016-12-10 15:55:00,2016-12
-32351546445,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,52,376847520.0,Événement Temporaire,2016-12-10 15:52:00,2016-12
-32312543466,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,51,376847460.0,Événement Temporaire,2016-12-10 15:51:00,2016-12
-31974802630,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,44,376847040.0,Événement Temporaire,2016-12-10 15:44:00,2016-12
-31540531163,45.777071,4.854712,374,sauvage lyon lion wildstyle lyon fdl ptdo supermimil,2016,12,10,15,37,376846620.0,Événement Temporaire,2016-12-10 15:37:00,2016-12
-32231590271,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,27,376846020.0,Événement Temporaire,2016-12-10 15:27:00,2016-12
-32201433982,45.777071,4.854712,374,p lyon fdl ptdo supermimil,2016,12,10,15,13,376845180.0,Événement Temporaire,2016-12-10 15:13:00,2016-12
-32201403972,45.777071,4.854712,374,chrysomallos nella busco velodrome lyon lyon fdl ptdo supermimil,2016,12,10,15,12,376845120.0,Événement Temporaire,2016-12-10 15:12:00,2016-12
+41194633701,45.777049,4.85409,374,arc animal lyon france,2018,4,1,16,31,418062660.0,Événement Temporaire,2018-04-01 16:31:00,2018-04
+26321471177,45.777049,4.85409,374,bac dambiance lyon france,2018,4,1,16,32,418062720.0,Événement Temporaire,2018-04-01 16:32:00,2018-04
+26321461507,45.777049,4.85409,374,balade couple coin coin lyon france parcdelattedor animal oiseau bird canard duck water eau nature,2018,4,1,16,9,418061340.0,Événement Temporaire,2018-04-01 16:09:00,2018-04
+40480764004,45.777049,4.85409,374,battement deau lyon france parcdelattedor animal oiseau bird canard duck water eau nature,2018,4,1,15,43,418059780.0,Événement Temporaire,2018-04-01 15:43:00,2018-04
+40298475125,45.777049,4.85409,374,beau cadre lyon france,2018,4,1,16,11,418061460.0,Événement Temporaire,2018-04-01 16:11:00,2018-04
+40298471825,45.777049,4.85409,374,beau geste lyon france parcdelattedor animal oiseau bird canard duck water eau nature,2018,4,1,16,10,418061400.0,Événement Temporaire,2018-04-01 16:10:00,2018-04
+39383923710,45.777049,4.85409,374,bel oiseau lyon france,2018,4,1,16,33,418062780.0,Événement Temporaire,2018-04-01 16:33:00,2018-04
+40298446075,45.777049,4.85409,374,canard dchain lyon france parcdelattedor animal oiseau bird canard duck water eau nature,2018,4,1,16,10,418061400.0,Événement Temporaire,2018-04-01 16:10:00,2018-04
+26321424157,45.777049,4.85409,374,coin arroseur lyon france parcdelattedor animal oiseau bird canard duck water eau nature,2018,4,1,16,10,418061400.0,Événement Temporaire,2018-04-01 16:10:00,2018-04
+26321418667,45.777049,4.85409,374,coin coin lyon france parcdelattedor animal oiseau bird canard duck water eau nature,2018,4,1,16,46,418063560.0,Événement Temporaire,2018-04-01 16:46:00,2018-04
+26321414777,45.777049,4.85409,374,coin coin lyon france parcdelattedor animal oiseau bird canard duck water eau nature,2018,4,1,15,38,418059480.0,Événement Temporaire,2018-04-01 15:38:00,2018-04
+26321411477,45.777049,4.85409,374,coin propulseur lyon france parcdelattedor animal oiseau bird canard duck water eau nature,2018,4,1,16,12,418061520.0,Événement Temporaire,2018-04-01 16:12:00,2018-04
+41194501101,45.777049,4.85409,374,danse canard lyon france parcdelattedor animal oiseau bird canard duck water eau nature,2018,4,1,16,11,418061460.0,Événement Temporaire,2018-04-01 16:11:00,2018-04
+41194464271,45.777049,4.85409,374,envers dcor lyon france,2018,4,1,16,31,418062660.0,Événement Temporaire,2018-04-01 16:31:00,2018-04
+40298357455,45.777049,4.85409,374,flamme rose lyon france,2018,4,1,16,8,418061280.0,Événement Temporaire,2018-04-01 16:08:00,2018-04
+40298348445,45.777049,4.85409,374,gouttes scintillent lyon france parcdelattedor eau water mousse plant plante,2018,4,1,16,10,418061400.0,Événement Temporaire,2018-04-01 16:10:00,2018-04
+27320134358,45.777049,4.85409,374,grosse tte bw lyon france parcdelattedor nature animal tortue turtle water eau,2018,4,1,15,45,418059900.0,Événement Temporaire,2018-04-01 15:45:00,2018-04
+27320105108,45.777049,4.85409,374,famille sombre lyon france flamantrose flamingo reflet reflection eau water parcdelattedor,2018,4,1,16,32,418062720.0,Événement Temporaire,2018-04-01 16:32:00,2018-04
+26321294597,45.777049,4.85409,374,ligne animales lyon france parcdelattedor flamantrose flamingo reflet reflection eau water pelouse herbe grass plant plante nature oiseau bird monochrome,2018,4,1,16,33,418062780.0,Événement Temporaire,2018-04-01 16:33:00,2018-04
+26321292077,45.777049,4.85409,374,long bec lyon france flamingo nature reflet reflection bird water parcdelattedor,2018,4,1,16,11,418061460.0,Événement Temporaire,2018-04-01 16:11:00,2018-04
+40480567574,45.777049,4.85409,374,majestic coin lyon france parcdelattedor animal oiseau bird canard duck water eau nature macro,2018,4,1,16,11,418061460.0,Événement Temporaire,2018-04-01 16:11:00,2018-04
+41149360682,45.777049,4.85409,374,balade lyon france parcdelattedor animal oiseau bird canard duck water eau nature macro,2018,4,1,15,43,418059780.0,Événement Temporaire,2018-04-01 15:43:00,2018-04
+41149357862,45.777049,4.85409,374,casse lyon france parcdelattedor animal oiseau bird canard duck water eau nature macro,2018,4,1,15,43,418059780.0,Événement Temporaire,2018-04-01 15:43:00,2018-04
+39383688820,45.777049,4.85409,374,gratte lyon france parcdelattedor animal oiseau bird canard duck water eau nature,2018,4,1,15,43,418059780.0,Événement Temporaire,2018-04-01 15:43:00,2018-04
+40480551114,45.777049,4.85409,374,pieute lyon france macro parcdelattedor nature,2018,4,1,16,8,418061280.0,Événement Temporaire,2018-04-01 16:08:00,2018-04
+40480544714,45.777049,4.85409,374,mbroue lyon france parcdelattedor animal oiseau bird canard duck water eau nature macro,2018,4,1,15,43,418059780.0,Événement Temporaire,2018-04-01 15:43:00,2018-04
+41149335802,45.777049,4.85409,374,micro gouttes lyon france water tree goutte,2018,4,1,16,10,418061400.0,Événement Temporaire,2018-04-01 16:10:00,2018-04
+41149323942,45.777049,4.85409,374,potes lyon france flamantrose flamingo eau water monochrome animal oiseau bird parcdelattedor,2018,4,1,16,9,418061340.0,Événement Temporaire,2018-04-01 16:09:00,2018-04
+40298168935,45.777049,4.85409,374,noir blanc dodo lyon france nature parcdelattedor feuille foliage,2018,4,1,16,10,418061400.0,Événement Temporaire,2018-04-01 16:10:00,2018-04
+41194176071,45.777049,4.85409,374,plafond deau lyon france flamantsroses flamingo bird oiseau eau water reflet reflection nature animal sundaylights,2018,4,1,16,33,418062780.0,Événement Temporaire,2018-04-01 16:33:00,2018-04
+41149226122,45.777049,4.85409,374,plus tte coin lyon france parcdelattedor animal oiseau bird canard duck water eau nature sundaylights,2018,4,1,16,12,418061520.0,Événement Temporaire,2018-04-01 16:12:00,2018-04
+41149217812,45.777049,4.85409,374,porte serviette lyon france parcdelattedor animal oiseau bird canard duck water eau nature macro,2018,4,1,16,11,418061460.0,Événement Temporaire,2018-04-01 16:11:00,2018-04
+39383473030,45.777049,4.85409,374,rose vraiment lyon france flamantrose flamingo water reflet reflection couleur color nature animal bird,2018,4,1,16,33,418062780.0,Événement Temporaire,2018-04-01 16:33:00,2018-04
+40480357264,45.777049,4.85409,374,tauras tte lyon france parcdelattedor animal oiseau bird canard duck water eau nature macro,2018,4,1,15,44,418059840.0,Événement Temporaire,2018-04-01 15:44:00,2018-04
+26320956167,45.777049,4.85409,374,aile biais lyon france parcdelattedor animal oiseau bird canard duck water eau nature gouttes monochrome,2018,4,1,15,43,418059780.0,Événement Temporaire,2018-04-01 15:43:00,2018-04
+41149033842,45.777049,4.85409,374,inquitant lyon france water bird reflet reflection monochrome,2018,4,1,16,31,418062660.0,Événement Temporaire,2018-04-01 16:31:00,2018-04

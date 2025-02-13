@@ -1,246 +1,246 @@
-id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type
-4199190953,45.76267,4.827665,69, france book lyon book,2009,8,4,12,52,144852720.0,undef
-4640100243,45.76256,4.827686,69,lyonf ,2010,5,22,15,52,170005920.0,undef
-4700227189,45.762575,4.827493,69,lyon canon luce lyon colores mm francia thesnowwhite,2010,6,12,15,45,171819900.0,undef
-4663600078,45.762476,4.827579,69, kid blackwhite nikon war lyon weapon coolpix,2010,6,2,16,46,170959560.0,undef
-4802746107,45.762908,4.827847,69,traboulse doorway lyon door orange france lyon traboulse,2009,10,10,5,36,150615360.0,undef
-4764521860,45.762373,4.827632,69,restaurant vieux lyon ,2010,7,4,11,17,173704620.0,undef
-4934856766,45.762818,4.827858,69,traboules lyon lyon picturesque traboule hensen canonnl arethesebuildings,2010,8,11,11,40,176989200.0,undef
-4934134313,45.762938,4.827708,69,tour rose lyon ,2010,8,11,12,8,176990880.0,undef
-5076002937,45.762781,4.827767,69,day ,2010,10,1,0,0,181353600.0,undef
-5076002851,45.762523,4.827595,69,day ,2010,10,1,0,0,181353600.0,undef
-5166442368,45.762706,4.827777,69,pub lyonnais ,2010,11,7,18,21,184616460.0,undef
-5477787964,45.762796,4.827826,69,world cup final packed lyon bar disappointed dutchman happy spaniard ,2010,7,11,20,27,174342420.0,undef
-5418748080,45.762515,4.827628,69,dragon square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue,2011,2,5,16,1,192384060.0,undef
-5405168684,45.762575,4.827488,69,lyon place lyon couleur,2010,7,15,19,15,174683700.0,undef
-5529862792,45.762515,4.827628,69,coming soon square squareformat walden iphoneography instagramapp uploadedbyinstagram foursquarevenue,2011,3,15,18,32,195676320.0,undef
-5519949308,45.762557,4.82764,69,rue saintjean city urban france building town photo frankreich europa europe flickr lyon centre lione ciudad rhne stadt citycenter francia mitte dreamland btiment gebude ville centreville ue urbain saintjean vieuxlyon rhnealpes francja hccity sitt rotdenken julesrigobert,2011,3,12,15,41,195406860.0,undef
-5584814677,45.762725,4.827761,69,petit bouchon miniature lyon bouchon,2011,4,3,16,35,197310900.0,undef
-5582086615,45.762515,4.827628,69,next square squareformat hefe iphoneography instagramapp uploadedbyinstagram foursquarevenue,2011,4,2,19,3,197233380.0,undef
-5582610504,45.762515,4.827628,69,teasing square squareformat earlybird iphoneography instagramapp uploadedbyinstagram foursquarevenue,2011,4,2,18,38,197231880.0,undef
-5581927011,45.762515,4.827628,69,teasing square squareformat earlybird iphoneography instagramapp uploadedbyinstagram foursquarevenue,2011,4,2,17,57,197229420.0,undef
-5757572219,45.762781,4.827708,69,vieille ville street city urban vertical wall canon lyon wall rue amateur mur ville murs vieilleville canoneos digitalrebelxsi,2011,5,15,14,24,200931840.0,undef
-5755501363,45.762515,4.827628,69,walking back hotel square squareformat hefe iphoneography instagramapp uploadedbyinstagram foursquarevenue b e f e,2011,5,24,21,37,201735420.0,undef
-5717687503,45.762522,4.827616,69,lyon bouchons old st night canon eos restaurant jean lyon sigma nuit vieux mm lyonnais piton bouchons,2011,5,10,21,10,200524200.0,undef
-5825702764,45.762515,4.827628,69, square squareformat brannan iphoneography instagramapp uploadedbyinstagram foursquarevenue b e f e,2011,6,12,21,8,203375280.0,undef
-5793494672,45.762515,4.827628,69, square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue b e f e,2011,6,3,14,34,202574040.0,undef
-5792933097,45.762515,4.827628,69, square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue b e f e,2011,6,3,14,32,202573920.0,undef
-5793490038,45.762515,4.827628,69,tattoo square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue b e f e,2011,6,3,14,31,202573860.0,undef
-5792927953,45.762515,4.827628,69,tatoo hand square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue b e f e,2011,6,3,14,30,202573800.0,undef
-6071813707,45.762568,4.827654,69, citron mehari,2011,7,16,9,26,206270760.0,undef
-6149206195,45.762667,4.8275,69,healthy course ,2011,9,14,20,58,211496280.0,undef
-6290820769,45.762695,4.827632,69,cour intrieure croix rousse lyon croixrousse,2011,10,22,11,34,214745640.0,undef
-6291338952,45.762695,4.827632,69,cour intrieure croix rousse lyon croixrousse,2011,10,22,11,37,214745820.0,undef
-6903085017,45.762717,4.827831,69,img f ,2012,2,18,15,29,225041340.0,undef
-6903082681,45.762762,4.827799,69,img f ,2012,2,18,15,24,225041040.0,undef
-6716077569,45.762893,4.827772,69,captain candy street st statue shop jack mm nikon candy jean lyon style sparrow pirate vieux fabricedrevon,2011,12,26,17,54,220384440.0,undef
-6674516159,45.762807,4.827761,69,vieux lyon travel france lyon,2011,11,12,12,5,216561900.0,undef
-6593490219,45.762875,4.827783,69,lost lost lyon andreaschiavonet,2011,8,27,14,14,209916840.0,undef
-6842705162,45.7625,4.8275,69, ,2009,7,11,20,20,142806000.0,undef
-6988802245,45.7625,4.827666,69, ,2009,7,11,11,50,142775400.0,undef
-6941045344,45.762667,4.827833,69, ,2012,4,17,7,59,230111940.0,undef
-6939270778,45.762748,4.82776,69,lyon quartier saintjean succs case cousin paul avril paul lyon couleurs case cousin curiosit parapluies succs intert,2012,4,14,13,32,229872720.0,undef
-7422476748,45.762666,4.8275,69,lyon france lyon rhnealpes,2012,6,22,15,12,235840320.0,undef
-7422475982,45.762666,4.8275,69,lyon france lyon rhnealpes,2012,6,22,15,12,235840320.0,undef
-7422475156,45.7625,4.827666,69,lyon france lyon rhnealpes,2012,6,22,15,12,235840320.0,undef
-7664656522,45.762628,4.827493,69,p lyon vieuxlyon,2012,7,28,16,34,238955640.0,undef
-7797952668,45.76253,4.827686,69,vieux lyon france lyon vieuxlyon mmvr nikond,2012,8,9,13,9,239980140.0,undef
-8032729769,45.762673,4.827729,69,alley vieux lyon window people france building architecture facade menu walking square table restaurant beige alley europe lyon board september pedestrian oldcity rhonealpes vieuxlyon ruesaintjean placeneuvestjean rhonealpesregion legourmanddesaintjean,2012,9,16,18,13,243281580.0,undef
-8032725594,45.762852,4.827793,69,vieux lyon road street window shadow people france building facade dark walking restaurant beige europe chair lyon gray september cobblestone pedestrian oldcity rhonealpes vieuxlyon ruesaintjean pedestrianzone rhonealpesregion,2012,9,16,18,13,243281580.0,undef
-8000534993,45.762807,4.82775,69,music light music nikon lyon soul couleur,2012,9,18,18,27,243455220.0,undef
-8183021234,45.762643,4.827718,69,give ghost lione summer blackandwhite bw france x film mediumformat blackwhite estate lyon lione august bn agosto squareformat analogue filmcamera francia bianconero biancoenero analogica vieux pellicola analogico medioformato rodanoalpi,2012,11,13,20,50,248302200.0,undef
-8502893005,45.7625,4.8275,69, photostream,2012,10,29,11,50,246973800.0,undef
-8502892667,45.762667,4.8275,69, photostream,2012,10,29,11,50,246973800.0,undef
-8402134611,45.762673,4.827665,69,rue saintjean cinema france miniature lyon museun vieuxlyon ruesaintjean museminiatureetcinma museumofminiaturesandcinema,2012,12,11,9,48,250681680.0,undef
-8326863386,45.762476,4.827551,69, ruesaintjean uploadedbyflickrmobile flickriosappfiltermammoth mammothfilter,2012,12,30,13,51,252337860.0,undef
-8275570931,45.762807,4.82775,69,pension ,2012,12,8,15,20,250442400.0,undef
-8535534944,45.762905,4.827783,69,florist france lyon vieuxlyon rhnealpes,2013,3,3,14,16,257782560.0,undef
-8655573719,45.762545,4.827525,69,lyon ,2013,4,15,20,7,261518820.0,undef
-8789238265,45.762475,4.82755,69,fork square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bce e b e f,2013,5,23,10,36,264767760.0,undef
-8799724984,45.762475,4.82755,69,simple rule conduct square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bce e b e f,2013,5,23,10,24,264767040.0,undef
-9120031171,45.762783,4.827789,69,keeping eye street old window sky people france car architecture fence building lyon cobblestone shop spycam cosmostour,2012,10,9,21,46,245281560.0,undef
-9122255142,45.762783,4.827789,69,lovely old street lyon street sky people france car architecture fence building lyon cobblestone cosmostour,2012,10,9,21,45,245281500.0,undef
-9120272746,45.7625,4.8275,69, lyon,2013,6,18,21,5,267051900.0,undef
-9118041093,45.762833,4.827833,69, lyon,2013,6,18,21,0,267051600.0,undef
-9120271034,45.7625,4.8275,69, lyon,2013,6,18,21,0,267051600.0,undef
-9118039211,45.762666,4.827666,69, lyon,2013,6,18,12,28,267020880.0,undef
-9120268378,45.762666,4.827666,69, lyon,2013,6,18,12,16,267020160.0,undef
-9071885385,45.762783,4.827789,69,slight bend cosmostour france lyon city people sky shop street copplestones building architecture,2012,10,9,21,7,245279220.0,undef
-9071884727,45.762783,4.827789,69,guide lyon cosmostour france lyon city people street copplestones building sign light sky architecture,2012,10,9,21,3,245278980.0,undef
-9074112482,45.762783,4.827789,69,take hat cosmostour france lyon art streetart wall brick building,2012,10,9,21,2,245278920.0,undef
-9074111616,45.762783,4.827789,69,local street city people france architecture building lyon bag copplestones cosmostour,2012,10,9,21,1,245278860.0,undef
-9074110982,45.762783,4.827789,69,look interesting city window people france architecture building lyon cosmostour,2012,10,9,21,1,245278860.0,undef
-9056232513,45.762475,4.82755,69,upload square squareformat earlybird iphoneography instagramapp uploadedbyinstagram foursquarevenue bce e b e f,2013,6,16,6,46,266827560.0,undef
-8923714207,45.762475,4.82755,69,upload square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bce e b e f,2013,6,2,6,51,265618260.0,undef
-8924298890,45.762475,4.82755,69,upload square squareformat earlybird iphoneography instagramapp uploadedbyinstagram foursquarevenue bce e b e f,2013,6,2,6,49,265618140.0,undef
-9527123902,45.7625,4.8275,69,lyon ,2013,7,18,22,29,269648940.0,undef
-9518883791,45.762833,4.827833,69, ,2013,7,11,13,24,269011440.0,undef
-9521665716,45.762833,4.827833,69, ,2013,7,11,13,13,269010780.0,undef
-9521660726,45.7625,4.8275,69, ,2013,7,11,13,10,269010600.0,undef
-9521656582,45.7625,4.8275,69, ,2013,7,11,13,7,269010420.0,undef
-9510855626,45.762671,4.827607,69,upload square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bce e b e f,2013,8,14,7,40,271928400.0,undef
-9508059051,45.762671,4.827607,69,upload square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bce e b e f,2013,8,14,7,40,271928400.0,undef
-9487462502,45.762671,4.827607,69,upload square squareformat earlybird iphoneography instagramapp uploadedbyinstagram foursquarevenue bce e b e f,2013,8,11,7,43,271669380.0,undef
-9484648137,45.762671,4.827607,69,upload square squareformat sutro iphoneography instagramapp uploadedbyinstagram foursquarevenue bce e b e f,2013,8,11,7,41,271669260.0,undef
-9783518091,45.762671,4.827607,69,place awesome square squareformat hudson iphoneography instagramapp uploadedbyinstagram foursquarevenue bce e b e f,2013,9,17,6,38,274862280.0,undef
-9743452624,45.762633,4.827727,69,hey evening drink valencia square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue e f e b e ad e,2013,9,14,16,16,274637760.0,undef
-9710195368,45.762641,4.827472,69,visiting lyon food france salad lyon goatcheese rhonealpes,2013,8,27,13,51,273073860.0,undef
-12565355603,45.76268,4.827794,69, ,2011,11,8,18,34,216239640.0,undef
-12452158553,45.76253,4.827665,69,tt dimanche matin earlysundaymorning jacquesmeynierdemalviala ttundimanchematin,2014,2,9,10,6,287402760.0,undef
-12211113494,45.762766,4.827836,69, lyon vieux,2012,1,8,19,24,221513040.0,undef
-12076602616,45.762568,4.827697,69,lyon soieries vitrine lyonlionerhonerhonealpesrodanoalpivecchia lionevieux lyonseteriestriesvetrinavitrinevitrinesboutiques,2013,12,5,20,15,281736900.0,undef
-11859711763,45.762583,4.827493,69,lyon winter france architecture europe lyon oldtown oldhouses vieuxlyon frencharchitecture,2014,1,2,16,2,284140920.0,undef
-11623823816,45.762553,4.827665,69,lyon france fall lyon,2013,12,26,9,49,283513740.0,undef
-11623398724,45.762549,4.827631,69,lyon france fall lyon,2013,12,26,9,43,283513380.0,undef
-13264458674,45.762807,4.827697,69,street lyon iii street lyon streetscape vieuxlyon streetsforpeople ruejuiverie,2014,3,2,8,7,289210020.0,undef
-13189889335,45.762575,4.827557,69,old town lyon ,2014,3,13,11,40,290173200.0,undef
-14034960281,45.762373,4.827561,69,traboule vieux lyon ,2014,4,26,14,34,293985240.0,undef
-14477393872,45.762912,4.827761,69,quartier saintjean lyon lyon saintjean vieuxlyon,2014,6,22,8,1,298886460.0,undef
-14693427832,45.762841,4.827697,69,vieux lyon street france lyon vieuxlyon,2014,7,11,15,25,300554700.0,undef
-14764871038,45.762463,4.827611,69,brasserie gargouille people france lyon brasserie,2014,7,31,21,48,302305680.0,undef
-14929049912,45.762463,4.827611,69,lyon ,2014,7,31,22,39,302308740.0,undef
-14811660192,45.762794,4.827727,69,img france lyon rhonealpes,2014,6,28,22,34,299457240.0,undef
-15324798476,45.762811,4.827654,69,eat ,2013,9,17,9,36,274872960.0,undef
-15123463835,45.76262,4.827525,69,cuisine lyonnaise ,2014,8,4,13,48,302622480.0,undef
-15041712073,45.762911,4.827758,69,lyon escalier rue poivre france lyon rue escalier poivre terraux,2013,10,23,14,43,278001780.0,undef
-15473872779,45.762792,4.827697,69,lyon rue saintjean lyon ruestjean ruesaintjean france nikkor aipro,2014,10,14,12,12,308751120.0,undef
-15629692396,45.762911,4.827758,69,lyon deux escaliers quai pcherie france lyon quai fleuve escaliers saone pecherie,2010,9,22,12,16,180620160.0,undef
-15701436712,45.762792,4.827718,69, ,2014,10,27,15,34,309886440.0,undef
-16165674258,45.762628,4.827525,69,lyon cour intrieure ,2012,9,29,11,1,244378860.0,undef
-16063305296,45.762792,4.827718,69, ,2014,12,6,20,31,313360260.0,undef
-15469421333,45.762792,4.827718,69, ,2014,12,6,22,45,313368300.0,undef
-16089111675,45.762792,4.827718,69, ,2014,12,6,22,47,313368420.0,undef
-15466785764,45.762792,4.827718,69, ,2014,12,6,20,21,313359660.0,undef
-15903345537,45.762792,4.827718,69, ,2014,12,6,22,49,313368540.0,undef
-15819538247,45.762555,4.827606,69,herodote abcdaire livres anciens propritaire used bookstore rue saint jean square squareformat inkwell iphoneography instagramapp uploadedbyinstagram foursquarevenue bce e b e f,2014,12,12,11,16,313845360.0,undef
-15996105851,45.762555,4.827606,69,probably still favorite neighborhood anywhere saint jean vieux lyon square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bce e b e f,2014,12,11,10,32,313756320.0,undef
-9565103404,45.762553,4.827632,69,medieval street street city wallpaper urban france night geotagged light frankreich europa europe lyon facade rhne rue francia nuit lumires urbain saintjean vieuxlyon rhnealpes fonddcran,2013,8,20,19,45,272490300.0,undef
-18576335351,45.762631,4.82759,69,weight one self michael elmgreen ingar dragset visual philosophical experience idea order shaken subtle gesture keeping heritage urban nature site work typical con square squareformat iphoneography instagramapp uploadedbyinstagram,2015,6,8,4,37,329200620.0,undef
-19892188766,45.76274,4.827697,69,traboule lyonnaise city blue window sky urban france nikon europe cityscape lyon sigma fisheye traboule vieuxlyon,2015,6,20,10,39,330259140.0,undef
-19811594662,45.76274,4.827697,69,traboule lyonnaise city window sky urban france art frame nikon europe cityscape lyon fisheye print nikkor blending traboule mm vieuxlyon pixopolitan,2015,6,20,11,0,330260400.0,undef
-20818330210,45.76274,4.827697,69,traboule lyonnaise city france history europe cityscape lyon landmark tourist historic touring traboule rhonealpes vieuxlyon,2015,6,20,11,15,330261300.0,undef
-20325914624,45.76265,4.827579,69, ,2015,8,27,17,9,336157740.0,undef
-20626908580,45.762979,4.827804,69, ,2015,8,7,21,7,334444020.0,undef
-20814909075,45.762979,4.827804,69, ,2015,8,7,21,7,334444020.0,undef
-20735621736,45.762658,4.827547,69,table bouchon lyonnais france art mm table restaurant glass nikon lyon f sigma fx dg verre bouchon glasse hsm yanngar mmart,2015,8,6,12,14,334325640.0,undef
-20041197700,45.762662,4.827662,69,lyon city jungle france frankreich lyon hdr,2014,9,14,18,43,306182580.0,undef
-21082570153,45.762654,4.827537,69,dead end street fragment lyonnais wall corner coin angle lyon mur ocre croix abstrait minimaliste camaieu,2015,9,7,12,41,337092060.0,undef
-21602306896,45.76274,4.82757,69,fragment lyonnais lyon couleurs mur palmier sud ocre fentres abstrait vieilleville minimaliste,2015,9,7,12,37,337091820.0,undef
-21396411252,45.76277,4.827729,69, ,2015,9,9,12,43,337264980.0,undef
-20784549264,45.76277,4.827729,69, ,2015,9,9,10,16,337256160.0,undef
-20784548914,45.76277,4.827729,69, ,2015,9,9,10,17,337256220.0,undef
-21220360159,45.76277,4.827729,69, ,2015,9,9,10,22,337256520.0,undef
-21220343509,45.76277,4.827729,69,old city world heritage site ,2015,9,9,10,6,337255560.0,undef
-21415639251,45.76277,4.827729,69, ,2015,9,9,10,20,337256400.0,undef
-21415638921,45.76277,4.827729,69, ,2015,9,9,10,27,337256820.0,undef
-21135522632,45.762543,4.827521,69,cl bottle bad boy wine france square lyon squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue e,2015,9,4,21,30,336864600.0,undef
-21494567053,45.762688,4.827826,69,maison viste lyon pinecone vieuxlyon mmsummicron,2015,10,7,13,29,339686940.0,undef
-22077489662,45.762379,4.827546,69,vieilles couleurs lyon,2015,10,10,19,14,339966840.0,undef
-21902091238,45.762492,4.82761,69,low cost bouchon lyon,2015,10,10,19,14,339966840.0,undef
-21781464679,45.762643,4.827589,69,colise colosseum lyon troglodyte escalier march vieilleville trous dmcfz,2015,9,7,11,16,337086960.0,undef
-21956201722,45.762643,4.827589,69,cocteau lyon toit mur visage vieilleville tuiles dmcfz,2015,9,7,11,24,337087440.0,undef
-21347201373,45.762643,4.827589,69,picasso lyon peinture mur abstrait vieilleville caille dmcfz,2015,9,7,11,46,337088760.0,undef
-23376303565,45.762964,4.827772,69, lyon vieillespierres traboule vieilleville dmcfz,2015,9,7,11,13,337086780.0,undef
-23307743315,45.762813,4.827836,69,lyon lyon,2015,11,25,21,21,343948860.0,undef
-15794503477,45.762493,4.827525,69,fte lumires lyon festivaloflights ftedeslumires,2014,12,6,20,17,313359420.0,undef
-24842869406,45.762539,4.827642,69,dsc jpg lyon,2016,1,30,12,42,349620120.0,undef
-24085444693,45.762964,4.827772,69, pink rose architecture tour lyon traboule moyenge dmcfz,2015,9,7,11,30,337087800.0,undef
-23900640291,45.762911,4.827758,69,version moderne petit chaperon rouge street france lyon instantan surlevif ruestjean,2015,12,25,17,36,346527360.0,undef
-25537008473,45.762911,4.827758,69,lyon herodote bouquiniste rue st jean saint jean lyon boutique rue livres quartier rhone saintjean bouquiniste vieuxlyon herodote,2016,3,29,18,16,354737760.0,undef
-25495376394,45.762589,4.827502,69,lyon apr pluie lyon pluie rue baiser amoureux rhone exterieur surlevif,2016,3,28,11,46,354627960.0,undef
-25035941719,45.762964,4.827772,69, lyon ciel traboule contreplonge vieilleville dmcfz,2015,9,7,10,55,337085700.0,undef
-26034612863,45.762725,4.827836,69,lyon maison chamarier flickr lyon,2016,3,5,15,25,352653900.0,undef
-27209196636,45.762583,4.827579,69,heurtoir porte bleue door knocker porte bleue heurtoir,2016,5,25,11,28,359638080.0,undef
-26701522002,45.762822,4.827763,69,stumbled across nice bottle shop france shop wine lyon fr rhnealpes,2015,7,11,12,25,332079900.0,undef
-27272885234,45.762622,4.827694,69,wp projpg lyon auvergnerhnealpes france fr,2016,6,16,12,15,361541700.0,undef
-27808338321,45.762622,4.827694,69,wp projpg lyon auvergnerhnealpes france fr,2016,6,16,12,15,361541700.0,undef
-27808335361,45.762622,4.827694,69,wp projpg lyon auvergnerhnealpes france fr,2016,6,16,12,15,361541700.0,undef
-27643728752,45.762822,4.827686,69,bonbon couleurs nikon sweet candy color nikkor food colored red spoon blue green yellow bokeh dof sam lat,2016,5,21,22,38,359332680.0,undef
-27133346793,45.762822,4.827686,69,bonbon noir blanc nikon sweet candy bw black withe nikkor food bokeh,2016,5,21,22,38,359332680.0,undef
-27449119220,45.762697,4.827547,69,lyon rue saintjean france architecture frankreich lyon lione frana rhne frankrijk francia renaissance francie frankrig lyon frankrike rhnealpes francja november,2015,11,15,13,6,343055160.0,undef
-28261391245,45.762542,4.827629,69, france abandoned lyon abandonned,2016,7,12,13,6,363791160.0,undef
-27808340821,45.762622,4.827694,69,wp projpg lyon auvergnerhnealpes france fr,2016,6,16,12,15,361541700.0,undef
-29942200041,45.7628,4.82775,69,vieuxlyon lyon traboule,2016,3,28,15,24,354641040.0,undef
-29170855213,45.76274,4.827632,69,prototype robot movie irobot model asimov,2016,9,18,14,53,369672780.0,undef
-29503963470,45.76274,4.827632,69,queen xenomorph alien horror monster black white model movie sciencefiction alien cage han ruedi giger,2016,9,18,15,46,369675960.0,undef
-29713869611,45.76274,4.827632,69,lewis clark movie spaceship vaisseau event horizon film science fiction horror model,2016,9,18,15,32,369675120.0,undef
-29760539536,45.76274,4.827632,69,xenomorph xenomorph alien horror monster white model movie sciencefiction alien film queen black han ruedi giger,2016,9,18,15,47,369676020.0,undef
-29762991123,45.76283,4.827708,69,boissons boissons vieux lyom france francia frana europa europe noche night noite nuit,2016,9,26,21,52,370389120.0,undef
-23232315933,45.762847,4.827794,69,lyon france france lyon,2014,5,30,10,29,296908140.0,undef
-23227167163,45.762508,4.82758,69,lyon france france lyon,2014,5,29,16,23,296842980.0,undef
-23219780984,45.762469,4.827633,69, ,2015,12,6,11,37,344864220.0,undef
-23859120935,45.762894,4.827713,69,lyon france france lyon,2014,5,30,10,29,296908140.0,undef
-32734926412,45.762611,4.827716,69,lyon street ,2017,1,27,21,9,381013740.0,undef
-32492124120,45.762519,4.827644,69,vieux lyon lyon auvergnerhnealpes francia france,2017,2,3,15,6,381596760.0,undef
-32596783292,45.7625,4.8275,69, ,2017,2,6,12,19,381845940.0,undef
-32334749285,45.76286,4.827718,69,attractive menu bouchon lyonnais vieuxlyon restaurant menu gastronomie gastronomy rhne lyon france canon eos hdr dcembre hiver december winter,2016,12,25,15,17,378141420.0,undef
-32320707525,45.762558,4.827522,69, ,2016,12,25,15,51,378143460.0,undef
-31338439744,45.762611,4.827556,69,li lyon frana francia li lyon frana france francia carrer nucliantic edifici arquitectura fuji,2016,7,17,14,7,364226820.0,undef
-31615881532,45.762695,4.8276,69,door door old pink orange wood stone iron vieuxlyon renaissance lyon france hdr tonemapping,2012,8,26,18,30,241468200.0,undef
-33385483374,45.76275,4.827777,69,rue saint jean lyon bw concert concertdelainlyon kodaktmax nikkorpreai mm nikonf rue lyon rhne france filmdevrecipe,2016,11,1,0,0,373420800.0,undef
-33879933214,45.762555,4.827658,69,traboules saint jean lyon france alexstoenphotography france historic leicamptyp lyon night ruesaintjean saintjean summiluxm mm traboules transambulare vieuxlyon city citylife citylights cobblestone nightlife old storefront street,2015,9,5,21,31,336951060.0,undef
-35528656695,45.762441,4.827621,69,rue palais justice vieux lyon boulangerie palais gault millau lexpert gourmand lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruedupalaisdejustice sign boulangeriedupalais bakery ruesaintjean gaultmillaulexpertgourmand,2017,6,3,11,6,391950360.0,undef
-35480542196,45.762441,4.827621,69,rue palais justice vieux lyon boulangerie palais lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruedupalaisdejustice sign boulangeriedupalais bakery stainedglasswindow,2017,6,3,11,6,391950360.0,undef
-35352671582,45.762441,4.827621,69,rue palais justice vieux lyon boulangerie palais lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruedupalaisdejustice sign boulangeriedupalais bakery stainedglasswindow,2017,6,3,11,6,391950360.0,undef
-34670319284,45.762441,4.827621,69,rue saintjean vieux lyon sign boulangerie palais lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop sign boulangeriedupalais ruedupalaisdejustice bakery stainedglasswindow,2017,6,3,11,46,391952760.0,undef
-34670304694,45.76271,4.827674,69,trattoria rue saintjean vieux lyon trattoria lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop latrattoria italianrestaurant latrattoriadesaintjean,2017,6,3,11,47,391952820.0,undef
-35344474462,45.76271,4.827674,69,rue saintjean vieux lyon stormtrooper lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop sign stormtrooper starwars streetart graffiti,2017,6,3,11,49,391952940.0,undef
-35344459422,45.76271,4.827674,69,trattoria rue saintjean vieux lyon light fitting bar lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop latrattoria italianrestaurant latrattoriadesaintjean lightfittingsoverthebar,2017,6,3,12,44,391956240.0,undef
-34975974590,45.762619,4.827661,69, ,2017,6,17,15,44,393176640.0,undef
-34433935533,45.762912,4.827783,69,vieux lyon ,2017,6,1,12,43,391783380.0,undef
-34243847294,45.762966,4.827783,69,restaulyon encore lyon,2017,6,3,21,7,391986420.0,undef
-36087872405,45.762577,4.827569,69,lyon street auvergnerhnealpes fra france lyon bw blackwhite city feketefehr ff geolat geolon geotagged street utca vros,2017,6,24,9,1,393757260.0,undef
-36558258136,45.762683,4.827697,69,dsc jpg lyon auvergnerhnealpes france fr,2017,8,8,19,6,397681560.0,undef
-36207910260,45.762683,4.827697,69,dsc jpg lyon auvergnerhnealpes france fr,2017,8,8,19,6,397681560.0,undef
-36207905700,45.762683,4.827697,69,dsc jpg lyon auvergnerhnealpes france fr,2017,8,8,19,6,397681560.0,undef
-36207900850,45.762844,4.827852,69,dsc jpg lyon auvergnerhnealpes france fr,2017,8,8,18,24,397679040.0,undef
-36466388021,45.762844,4.827852,69,dsc jpg lyon auvergnerhnealpes france fr,2017,8,8,18,24,397679040.0,undef
-37192758975,45.762463,4.827611,69,back day noir blanc black white rue street people candid lyon rhone fuji xpro,2016,7,6,12,28,363270480.0,undef
-24046926778,45.762408,4.82763,69,long traboule lyon ,2017,9,19,14,29,401293740.0,undef
-37813616526,45.762837,4.827761,69,ghost print bw street reflection people shop print lyon window,2017,10,21,14,21,404058060.0,undef
-24785817648,45.762458,4.82758,69,za ,2017,11,25,16,45,407090700.0,undef
-37399120384,45.762911,4.827758,69,lyon muse miniature cinma lyon rhone museedelaminiatureetducinma regard casque oiseau proie bleu olympus omdem stargate stargatesg faucon falcon,2017,11,1,19,7,405025620.0,undef
-39928479832,45.762583,4.827568,69,lyon vieux lyon lyon france,2018,1,28,13,32,412608720.0,undef
-27636384609,45.762786,4.827769,69,deb e e ff b ,2017,2,18,14,52,382891920.0,undef
-27149410727,45.76262,4.827579,69,lle chiens wes anderson fujifilmxt lyon lleauxchiens film movie wesanderson animation figurine personnage museminiatureetcinma,2018,5,9,21,13,421362780.0,undef
-27149409767,45.76262,4.827579,69,lle chiens wes anderson fujifilmxt lyon lleauxchiens film movie wesanderson animation figurine personnage museminiatureetcinma,2018,5,9,21,13,421362780.0,undef
-42780342801,45.762949,4.827815,69,quartier singe lyon blackandwhite lyon france city,2018,6,13,20,41,424384860.0,undef
-40822035310,45.762568,4.827589,69,street corner house france architecture lyon statue window,2015,11,29,5,49,344238540.0,undef
-43638731182,45.76259,4.827686,69,vieux lyon lyon auvergnerhnealpes france claudelina france auvergnerhnealpes immeubles building maisons house vieuxlyon lyon,2018,5,25,13,29,422717340.0,undef
-41707270350,45.762541,4.827627,69,rue saintjean vieux lyon ruesaintjean vieuxlyon schoolboy lyon france,2018,6,25,6,16,425369760.0,undef
-43339217225,45.762575,4.827567,69,stencil lyon france europe france lyon stjean streetart stencil pochoir,2018,8,21,17,9,430333740.0,undef
-29159376777,45.762605,4.827691,69, ,2018,8,9,8,46,429266760.0,undef
-44097669151,45.762605,4.827691,69, ,2018,8,9,8,46,429266760.0,undef
-43158452295,45.762807,4.827772,69,rue saintjean vieux lyon lyon auvergnerhnealpes france claudelina france auvergnerhnealpes lyon architecture,2018,5,25,13,3,422715780.0,undef
-43814736985,45.76262,4.827579,69,muse miniature cinma fujifilmxt muse museum miniatureetcinma lyon film movie leparfum perfumethestoryofamurderer miniature cinema danohlmann,2018,9,16,14,13,432569580.0,undef
-44005095984,45.76262,4.827579,69,muse miniature cinma fujifilmxt muse museum miniatureetcinma lyon film movie leparfum perfumethestoryofamurderer miniature cinema danohlmann,2018,9,16,14,13,432569580.0,undef
-44722484871,45.76262,4.827579,69,muse miniature cinma fujifilmxt muse museum miniatureetcinma lyon film movie leparfum perfumethestoryofamurderer miniature cinema danohlmann,2018,9,16,14,11,432569460.0,undef
-44722297271,45.76262,4.827579,69,muse miniature cinma fujifilmxt muse museum miniatureetcinma lyon film movie leparfum perfumethestoryofamurderer miniature cinema danohlmann,2018,9,16,14,10,432569400.0,undef
-30850666198,45.76262,4.827579,69,muse miniature cinma fujifilmxt muse museum miniatureetcinma lyon miniature cinema film movie mousquetaires thethreemusketeers dirigeable airship aerostat danohlmann,2018,9,16,13,29,432566940.0,undef
-43811104045,45.76262,4.827579,69,muse miniature cinma fujifilmxt muse museum miniatureetcinma miniature voiture car lyon danohlmann urbex,2018,9,16,11,53,432561180.0,undef
-44002071674,45.76262,4.827579,69,muse miniature cinma fujifilmxt muse museum miniatureetcinma cinema film movie chucky poupe doll lyon danohlmann,2018,9,16,12,27,432563220.0,undef
-44002025084,45.76262,4.827579,69,muse miniature cinma fujifilmxt muse museum miniatureetcinma jurassicpark procompsognathus dinosaure lyon danohlmann,2018,9,16,12,12,432562320.0,undef
-44670256112,45.76262,4.827579,69,muse miniature cinma fujifilmxt muse museum miniatureetcinma alien reine queen cinma animatronique animatronics lyon danohlmann,2018,9,16,12,5,432561900.0,undef
-43639535425,45.762575,4.827632,69, lyon luminar lugdunum ville ciudad city town stadt citt france arturbain art artcontemporain artmoderne vieuxlyon saintjean pascalrey nikon pascalreyphotographies photo photographiecontemporaine photographie photography photograffik photographiedigitale photographienumrique photographieurbaine photographielyonnaise,2018,9,4,11,47,431524020.0,undef
-44499458172,45.762575,4.827632,69, lyon luminar lugdunum ville ciudad city town stadt citt france arturbain art artcontemporain artmoderne vieuxlyon saintjean pascalrey nikon pascalreyphotographies photo photographiecontemporaine photographie photography photograffik photographiedigitale photographienumrique photographieurbaine photographielyonnaise,2018,9,4,11,48,431524080.0,undef
-29610093497,45.762575,4.827632,69,know im happy streetart streetphotography street inthestreets strasse strassen rue ruexperienced ruelles artderue danslesrues via calle lyon lugdunum vieuxlyon arturbain urbanart urbanphotography arteurbano murs murales muros murale artmural fresquesmurales peinturesmurales critsurlemur wall wallpaintings walldrawings pascalrey nikon luminar pascalreyphotographies photographiecontemporaine photo photographie photography photograffik photographiedigitale photographienumrique photographieurbaine graffiti graffs graffik graffiti tag stencil stencil pastedpaper papiercoll sprayart spray septembre september,2018,9,4,11,46,431523960.0,undef
-46867240184,45.762755,4.827788,69, paris drance reims heg river rhone champageardenne marseille languedoc cote dazure ardeche lyon avignon perouges,2018,10,23,11,39,435757140.0,undef
-47538297122,45.76275,4.827783,69, paris drance reims heg river rhone champageardenne marseille languedoc cote dazure ardeche lyon avignon perouges,2018,10,23,11,39,435757140.0,undef
-46675730445,45.76275,4.827791,69, paris drance reims heg river rhone champageardenne marseille languedoc cote dazure ardeche lyon avignon perouges,2018,10,23,11,39,435757140.0,undef
-46867240124,45.762752,4.827786,69, paris drance reims heg river rhone champageardenne marseille languedoc cote dazure ardeche lyon avignon perouges,2018,10,23,11,39,435757140.0,undef
-46867240034,45.762736,4.827786,69, paris drance reims heg river rhone champageardenne marseille languedoc cote dazure ardeche lyon avignon perouges,2018,10,23,11,40,435757200.0,undef
-46675730325,45.762733,4.82778,69, paris drance reims heg river rhone champageardenne marseille languedoc cote dazure ardeche lyon avignon perouges,2018,10,23,11,40,435757200.0,undef
-47980534853,45.762694,4.827788,69,livres ,2018,11,24,15,46,438536760.0,undef
-48415395821,45.762911,4.827758,69,lyon chez marchand liqueur vieux lyon lyon rhone vieuxlyon marchand liqueur bocaux couleurs,2019,7,29,16,24,459879840.0,undef
-48392991616,45.762575,4.827661,69,lyon francia arquitectura josantonioabad paisajeurbano lyon color pblica europa francia architecture building calles edificios europe farbe fotografaurbana liyon urbanphotography cityscape colour couleur streetphotography street urbanlanscape rdano,2019,7,16,20,3,458769780.0,undef
-48654244007,45.76289,4.827685,69,htel milan museminiatureetcinma museum museo muse museet museu france frankrijk frankreich francia frana maquette miniatuur miniature scalemodel lyon auvergnerhnealpes lione europa europe monochrome monochroom monotone window fenster ramen vensters fentres,2019,6,14,16,19,455991540.0,undef
-48645913483,45.762911,4.827758,69,vieux lyon homme costume lin froiss lyon rhone homme costume suit lin linen rue vieuxlyon oldcity touriste noiretblanc bw monochrome,2019,8,29,17,51,462563460.0,undef
-48601506986,45.76289,4.827685,69,librairie hrodote bookstore librairie tweedehands boeken livres book bcher shop winkel boekhandel anciens old secondhand letter lettres lyon auvergnerhnealpes lione france frankrijk frankreich francia frana,2019,6,13,16,57,455907420.0,undef
-48560638627,45.762589,4.827502,69,lyon touriste photographiant traboule lyon rhone vieuxlyon traboule touriste contrejour noiretblanc bw monochrome,2019,8,17,21,22,461539320.0,undef
-48536597237,45.7628,4.827775,69,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,13,38,459610680.0,undef
-48462699442,45.7628,4.827775,69,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,13,38,459610680.0,undef
-48436926937,45.762911,4.827758,69,vieux lyon nuance debires pub lyon rhone vieuxlyon pub distributeur bieres,2019,7,29,16,19,459879540.0,undef
-48943697933,45.7624,4.82755,69,crpe master lyon rhne france cafe city face person working,2019,10,5,15,13,465750780.0,undef
-48944243321,45.7624,4.82755,69,crpe master lyon rhne france cafe city face person working,2019,10,5,15,13,465750780.0,undef
-48824551761,45.762575,4.827525,69,lyon france francia frankreich frankrijk fhrainc lyon lione,2019,9,3,20,30,463005000.0,undef
-48824077403,45.762575,4.827525,69,lyon france francia frankreich frankrijk fhrainc lyon lione,2019,9,3,20,35,463005300.0,undef
+id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken
+4199190953,45.76267,4.827665,69, france book lyon book,2009,8,4,12,52,144852720.0,undef,2009-08-04 12:52:00
+4640100243,45.76256,4.827686,69,lyonf ,2010,5,22,15,52,170005920.0,undef,2010-05-22 15:52:00
+4700227189,45.762575,4.827493,69,lyon canon luce lyon colores mm francia thesnowwhite,2010,6,12,15,45,171819900.0,undef,2010-06-12 15:45:00
+4663600078,45.762476,4.827579,69, kid blackwhite nikon war lyon weapon coolpix,2010,6,2,16,46,170959560.0,undef,2010-06-02 16:46:00
+4802746107,45.762908,4.827847,69,traboulse doorway lyon door orange france lyon traboulse,2009,10,10,5,36,150615360.0,undef,2009-10-10 05:36:00
+4764521860,45.762373,4.827632,69,restaurant vieux lyon ,2010,7,4,11,17,173704620.0,undef,2010-07-04 11:17:00
+4934856766,45.762818,4.827858,69,traboules lyon lyon picturesque traboule hensen canonnl arethesebuildings,2010,8,11,11,40,176989200.0,undef,2010-08-11 11:40:00
+4934134313,45.762938,4.827708,69,tour rose lyon ,2010,8,11,12,8,176990880.0,undef,2010-08-11 12:08:00
+5076002937,45.762781,4.827767,69,day ,2010,10,1,0,0,181353600.0,undef,2010-10-01 00:00:00
+5076002851,45.762523,4.827595,69,day ,2010,10,1,0,0,181353600.0,undef,2010-10-01 00:00:00
+5166442368,45.762706,4.827777,69,pub lyonnais ,2010,11,7,18,21,184616460.0,undef,2010-11-07 18:21:00
+5477787964,45.762796,4.827826,69,world cup final packed lyon bar disappointed dutchman happy spaniard ,2010,7,11,20,27,174342420.0,undef,2010-07-11 20:27:00
+5418748080,45.762515,4.827628,69,dragon square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue,2011,2,5,16,1,192384060.0,undef,2011-02-05 16:01:00
+5405168684,45.762575,4.827488,69,lyon place lyon couleur,2010,7,15,19,15,174683700.0,undef,2010-07-15 19:15:00
+5529862792,45.762515,4.827628,69,coming soon square squareformat walden iphoneography instagramapp uploadedbyinstagram foursquarevenue,2011,3,15,18,32,195676320.0,undef,2011-03-15 18:32:00
+5519949308,45.762557,4.82764,69,rue saintjean city urban france building town photo frankreich europa europe flickr lyon centre lione ciudad rhne stadt citycenter francia mitte dreamland btiment gebude ville centreville ue urbain saintjean vieuxlyon rhnealpes francja hccity sitt rotdenken julesrigobert,2011,3,12,15,41,195406860.0,undef,2011-03-12 15:41:00
+5584814677,45.762725,4.827761,69,petit bouchon miniature lyon bouchon,2011,4,3,16,35,197310900.0,undef,2011-04-03 16:35:00
+5582086615,45.762515,4.827628,69,next square squareformat hefe iphoneography instagramapp uploadedbyinstagram foursquarevenue,2011,4,2,19,3,197233380.0,undef,2011-04-02 19:03:00
+5582610504,45.762515,4.827628,69,teasing square squareformat earlybird iphoneography instagramapp uploadedbyinstagram foursquarevenue,2011,4,2,18,38,197231880.0,undef,2011-04-02 18:38:00
+5581927011,45.762515,4.827628,69,teasing square squareformat earlybird iphoneography instagramapp uploadedbyinstagram foursquarevenue,2011,4,2,17,57,197229420.0,undef,2011-04-02 17:57:00
+5757572219,45.762781,4.827708,69,vieille ville street city urban vertical wall canon lyon wall rue amateur mur ville murs vieilleville canoneos digitalrebelxsi,2011,5,15,14,24,200931840.0,undef,2011-05-15 14:24:00
+5755501363,45.762515,4.827628,69,walking back hotel square squareformat hefe iphoneography instagramapp uploadedbyinstagram foursquarevenue b e f e,2011,5,24,21,37,201735420.0,undef,2011-05-24 21:37:00
+5717687503,45.762522,4.827616,69,lyon bouchons old st night canon eos restaurant jean lyon sigma nuit vieux mm lyonnais piton bouchons,2011,5,10,21,10,200524200.0,undef,2011-05-10 21:10:00
+5825702764,45.762515,4.827628,69, square squareformat brannan iphoneography instagramapp uploadedbyinstagram foursquarevenue b e f e,2011,6,12,21,8,203375280.0,undef,2011-06-12 21:08:00
+5793494672,45.762515,4.827628,69, square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue b e f e,2011,6,3,14,34,202574040.0,undef,2011-06-03 14:34:00
+5792933097,45.762515,4.827628,69, square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue b e f e,2011,6,3,14,32,202573920.0,undef,2011-06-03 14:32:00
+5793490038,45.762515,4.827628,69,tattoo square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue b e f e,2011,6,3,14,31,202573860.0,undef,2011-06-03 14:31:00
+5792927953,45.762515,4.827628,69,tatoo hand square squareformat iphoneography instagramapp xproii uploadedbyinstagram foursquarevenue b e f e,2011,6,3,14,30,202573800.0,undef,2011-06-03 14:30:00
+6071813707,45.762568,4.827654,69, citron mehari,2011,7,16,9,26,206270760.0,undef,2011-07-16 09:26:00
+6149206195,45.762667,4.8275,69,healthy course ,2011,9,14,20,58,211496280.0,undef,2011-09-14 20:58:00
+6290820769,45.762695,4.827632,69,cour intrieure croix rousse lyon croixrousse,2011,10,22,11,34,214745640.0,undef,2011-10-22 11:34:00
+6291338952,45.762695,4.827632,69,cour intrieure croix rousse lyon croixrousse,2011,10,22,11,37,214745820.0,undef,2011-10-22 11:37:00
+6903085017,45.762717,4.827831,69,img f ,2012,2,18,15,29,225041340.0,undef,2012-02-18 15:29:00
+6903082681,45.762762,4.827799,69,img f ,2012,2,18,15,24,225041040.0,undef,2012-02-18 15:24:00
+6716077569,45.762893,4.827772,69,captain candy street st statue shop jack mm nikon candy jean lyon style sparrow pirate vieux fabricedrevon,2011,12,26,17,54,220384440.0,undef,2011-12-26 17:54:00
+6674516159,45.762807,4.827761,69,vieux lyon travel france lyon,2011,11,12,12,5,216561900.0,undef,2011-11-12 12:05:00
+6593490219,45.762875,4.827783,69,lost lost lyon andreaschiavonet,2011,8,27,14,14,209916840.0,undef,2011-08-27 14:14:00
+6842705162,45.7625,4.8275,69, ,2009,7,11,20,20,142806000.0,undef,2009-07-11 20:20:00
+6988802245,45.7625,4.827666,69, ,2009,7,11,11,50,142775400.0,undef,2009-07-11 11:50:00
+6941045344,45.762667,4.827833,69, ,2012,4,17,7,59,230111940.0,undef,2012-04-17 07:59:00
+6939270778,45.762748,4.82776,69,lyon quartier saintjean succs case cousin paul avril paul lyon couleurs case cousin curiosit parapluies succs intert,2012,4,14,13,32,229872720.0,undef,2012-04-14 13:32:00
+7422476748,45.762666,4.8275,69,lyon france lyon rhnealpes,2012,6,22,15,12,235840320.0,undef,2012-06-22 15:12:00
+7422475982,45.762666,4.8275,69,lyon france lyon rhnealpes,2012,6,22,15,12,235840320.0,undef,2012-06-22 15:12:00
+7422475156,45.7625,4.827666,69,lyon france lyon rhnealpes,2012,6,22,15,12,235840320.0,undef,2012-06-22 15:12:00
+7664656522,45.762628,4.827493,69,p lyon vieuxlyon,2012,7,28,16,34,238955640.0,undef,2012-07-28 16:34:00
+7797952668,45.76253,4.827686,69,vieux lyon france lyon vieuxlyon mmvr nikond,2012,8,9,13,9,239980140.0,undef,2012-08-09 13:09:00
+8032729769,45.762673,4.827729,69,alley vieux lyon window people france building architecture facade menu walking square table restaurant beige alley europe lyon board september pedestrian oldcity rhonealpes vieuxlyon ruesaintjean placeneuvestjean rhonealpesregion legourmanddesaintjean,2012,9,16,18,13,243281580.0,undef,2012-09-16 18:13:00
+8032725594,45.762852,4.827793,69,vieux lyon road street window shadow people france building facade dark walking restaurant beige europe chair lyon gray september cobblestone pedestrian oldcity rhonealpes vieuxlyon ruesaintjean pedestrianzone rhonealpesregion,2012,9,16,18,13,243281580.0,undef,2012-09-16 18:13:00
+8000534993,45.762807,4.82775,69,music light music nikon lyon soul couleur,2012,9,18,18,27,243455220.0,undef,2012-09-18 18:27:00
+8183021234,45.762643,4.827718,69,give ghost lione summer blackandwhite bw france x film mediumformat blackwhite estate lyon lione august bn agosto squareformat analogue filmcamera francia bianconero biancoenero analogica vieux pellicola analogico medioformato rodanoalpi,2012,11,13,20,50,248302200.0,undef,2012-11-13 20:50:00
+8502893005,45.7625,4.8275,69, photostream,2012,10,29,11,50,246973800.0,undef,2012-10-29 11:50:00
+8502892667,45.762667,4.8275,69, photostream,2012,10,29,11,50,246973800.0,undef,2012-10-29 11:50:00
+8402134611,45.762673,4.827665,69,rue saintjean cinema france miniature lyon museun vieuxlyon ruesaintjean museminiatureetcinma museumofminiaturesandcinema,2012,12,11,9,48,250681680.0,undef,2012-12-11 09:48:00
+8326863386,45.762476,4.827551,69, ruesaintjean uploadedbyflickrmobile flickriosappfiltermammoth mammothfilter,2012,12,30,13,51,252337860.0,undef,2012-12-30 13:51:00
+8275570931,45.762807,4.82775,69,pension ,2012,12,8,15,20,250442400.0,undef,2012-12-08 15:20:00
+8535534944,45.762905,4.827783,69,florist france lyon vieuxlyon rhnealpes,2013,3,3,14,16,257782560.0,undef,2013-03-03 14:16:00
+8655573719,45.762545,4.827525,69,lyon ,2013,4,15,20,7,261518820.0,undef,2013-04-15 20:07:00
+8789238265,45.762475,4.82755,69,fork square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bce e b e f,2013,5,23,10,36,264767760.0,undef,2013-05-23 10:36:00
+8799724984,45.762475,4.82755,69,simple rule conduct square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bce e b e f,2013,5,23,10,24,264767040.0,undef,2013-05-23 10:24:00
+9120031171,45.762783,4.827789,69,keeping eye street old window sky people france car architecture fence building lyon cobblestone shop spycam cosmostour,2012,10,9,21,46,245281560.0,undef,2012-10-09 21:46:00
+9122255142,45.762783,4.827789,69,lovely old street lyon street sky people france car architecture fence building lyon cobblestone cosmostour,2012,10,9,21,45,245281500.0,undef,2012-10-09 21:45:00
+9120272746,45.7625,4.8275,69, lyon,2013,6,18,21,5,267051900.0,undef,2013-06-18 21:05:00
+9118041093,45.762833,4.827833,69, lyon,2013,6,18,21,0,267051600.0,undef,2013-06-18 21:00:00
+9120271034,45.7625,4.8275,69, lyon,2013,6,18,21,0,267051600.0,undef,2013-06-18 21:00:00
+9118039211,45.762666,4.827666,69, lyon,2013,6,18,12,28,267020880.0,undef,2013-06-18 12:28:00
+9120268378,45.762666,4.827666,69, lyon,2013,6,18,12,16,267020160.0,undef,2013-06-18 12:16:00
+9071885385,45.762783,4.827789,69,slight bend cosmostour france lyon city people sky shop street copplestones building architecture,2012,10,9,21,7,245279220.0,undef,2012-10-09 21:07:00
+9071884727,45.762783,4.827789,69,guide lyon cosmostour france lyon city people street copplestones building sign light sky architecture,2012,10,9,21,3,245278980.0,undef,2012-10-09 21:03:00
+9074112482,45.762783,4.827789,69,take hat cosmostour france lyon art streetart wall brick building,2012,10,9,21,2,245278920.0,undef,2012-10-09 21:02:00
+9074111616,45.762783,4.827789,69,local street city people france architecture building lyon bag copplestones cosmostour,2012,10,9,21,1,245278860.0,undef,2012-10-09 21:01:00
+9074110982,45.762783,4.827789,69,look interesting city window people france architecture building lyon cosmostour,2012,10,9,21,1,245278860.0,undef,2012-10-09 21:01:00
+9056232513,45.762475,4.82755,69,upload square squareformat earlybird iphoneography instagramapp uploadedbyinstagram foursquarevenue bce e b e f,2013,6,16,6,46,266827560.0,undef,2013-06-16 06:46:00
+8923714207,45.762475,4.82755,69,upload square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bce e b e f,2013,6,2,6,51,265618260.0,undef,2013-06-02 06:51:00
+8924298890,45.762475,4.82755,69,upload square squareformat earlybird iphoneography instagramapp uploadedbyinstagram foursquarevenue bce e b e f,2013,6,2,6,49,265618140.0,undef,2013-06-02 06:49:00
+9527123902,45.7625,4.8275,69,lyon ,2013,7,18,22,29,269648940.0,undef,2013-07-18 22:29:00
+9518883791,45.762833,4.827833,69, ,2013,7,11,13,24,269011440.0,undef,2013-07-11 13:24:00
+9521665716,45.762833,4.827833,69, ,2013,7,11,13,13,269010780.0,undef,2013-07-11 13:13:00
+9521660726,45.7625,4.8275,69, ,2013,7,11,13,10,269010600.0,undef,2013-07-11 13:10:00
+9521656582,45.7625,4.8275,69, ,2013,7,11,13,7,269010420.0,undef,2013-07-11 13:07:00
+9510855626,45.762671,4.827607,69,upload square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bce e b e f,2013,8,14,7,40,271928400.0,undef,2013-08-14 07:40:00
+9508059051,45.762671,4.827607,69,upload square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bce e b e f,2013,8,14,7,40,271928400.0,undef,2013-08-14 07:40:00
+9487462502,45.762671,4.827607,69,upload square squareformat earlybird iphoneography instagramapp uploadedbyinstagram foursquarevenue bce e b e f,2013,8,11,7,43,271669380.0,undef,2013-08-11 07:43:00
+9484648137,45.762671,4.827607,69,upload square squareformat sutro iphoneography instagramapp uploadedbyinstagram foursquarevenue bce e b e f,2013,8,11,7,41,271669260.0,undef,2013-08-11 07:41:00
+9783518091,45.762671,4.827607,69,place awesome square squareformat hudson iphoneography instagramapp uploadedbyinstagram foursquarevenue bce e b e f,2013,9,17,6,38,274862280.0,undef,2013-09-17 06:38:00
+9743452624,45.762633,4.827727,69,hey evening drink valencia square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue e f e b e ad e,2013,9,14,16,16,274637760.0,undef,2013-09-14 16:16:00
+9710195368,45.762641,4.827472,69,visiting lyon food france salad lyon goatcheese rhonealpes,2013,8,27,13,51,273073860.0,undef,2013-08-27 13:51:00
+12565355603,45.76268,4.827794,69, ,2011,11,8,18,34,216239640.0,undef,2011-11-08 18:34:00
+12452158553,45.76253,4.827665,69,tt dimanche matin earlysundaymorning jacquesmeynierdemalviala ttundimanchematin,2014,2,9,10,6,287402760.0,undef,2014-02-09 10:06:00
+12211113494,45.762766,4.827836,69, lyon vieux,2012,1,8,19,24,221513040.0,undef,2012-01-08 19:24:00
+12076602616,45.762568,4.827697,69,lyon soieries vitrine lyonlionerhonerhonealpesrodanoalpivecchia lionevieux lyonseteriestriesvetrinavitrinevitrinesboutiques,2013,12,5,20,15,281736900.0,undef,2013-12-05 20:15:00
+11859711763,45.762583,4.827493,69,lyon winter france architecture europe lyon oldtown oldhouses vieuxlyon frencharchitecture,2014,1,2,16,2,284140920.0,undef,2014-01-02 16:02:00
+11623823816,45.762553,4.827665,69,lyon france fall lyon,2013,12,26,9,49,283513740.0,undef,2013-12-26 09:49:00
+11623398724,45.762549,4.827631,69,lyon france fall lyon,2013,12,26,9,43,283513380.0,undef,2013-12-26 09:43:00
+13264458674,45.762807,4.827697,69,street lyon iii street lyon streetscape vieuxlyon streetsforpeople ruejuiverie,2014,3,2,8,7,289210020.0,undef,2014-03-02 08:07:00
+13189889335,45.762575,4.827557,69,old town lyon ,2014,3,13,11,40,290173200.0,undef,2014-03-13 11:40:00
+14034960281,45.762373,4.827561,69,traboule vieux lyon ,2014,4,26,14,34,293985240.0,undef,2014-04-26 14:34:00
+14477393872,45.762912,4.827761,69,quartier saintjean lyon lyon saintjean vieuxlyon,2014,6,22,8,1,298886460.0,undef,2014-06-22 08:01:00
+14693427832,45.762841,4.827697,69,vieux lyon street france lyon vieuxlyon,2014,7,11,15,25,300554700.0,undef,2014-07-11 15:25:00
+14764871038,45.762463,4.827611,69,brasserie gargouille people france lyon brasserie,2014,7,31,21,48,302305680.0,undef,2014-07-31 21:48:00
+14929049912,45.762463,4.827611,69,lyon ,2014,7,31,22,39,302308740.0,undef,2014-07-31 22:39:00
+14811660192,45.762794,4.827727,69,img france lyon rhonealpes,2014,6,28,22,34,299457240.0,undef,2014-06-28 22:34:00
+15324798476,45.762811,4.827654,69,eat ,2013,9,17,9,36,274872960.0,undef,2013-09-17 09:36:00
+15123463835,45.76262,4.827525,69,cuisine lyonnaise ,2014,8,4,13,48,302622480.0,undef,2014-08-04 13:48:00
+15041712073,45.762911,4.827758,69,lyon escalier rue poivre france lyon rue escalier poivre terraux,2013,10,23,14,43,278001780.0,undef,2013-10-23 14:43:00
+15473872779,45.762792,4.827697,69,lyon rue saintjean lyon ruestjean ruesaintjean france nikkor aipro,2014,10,14,12,12,308751120.0,undef,2014-10-14 12:12:00
+15629692396,45.762911,4.827758,69,lyon deux escaliers quai pcherie france lyon quai fleuve escaliers saone pecherie,2010,9,22,12,16,180620160.0,undef,2010-09-22 12:16:00
+15701436712,45.762792,4.827718,69, ,2014,10,27,15,34,309886440.0,undef,2014-10-27 15:34:00
+16165674258,45.762628,4.827525,69,lyon cour intrieure ,2012,9,29,11,1,244378860.0,undef,2012-09-29 11:01:00
+16063305296,45.762792,4.827718,69, ,2014,12,6,20,31,313360260.0,undef,2014-12-06 20:31:00
+15469421333,45.762792,4.827718,69, ,2014,12,6,22,45,313368300.0,undef,2014-12-06 22:45:00
+16089111675,45.762792,4.827718,69, ,2014,12,6,22,47,313368420.0,undef,2014-12-06 22:47:00
+15466785764,45.762792,4.827718,69, ,2014,12,6,20,21,313359660.0,undef,2014-12-06 20:21:00
+15903345537,45.762792,4.827718,69, ,2014,12,6,22,49,313368540.0,undef,2014-12-06 22:49:00
+15819538247,45.762555,4.827606,69,herodote abcdaire livres anciens propritaire used bookstore rue saint jean square squareformat inkwell iphoneography instagramapp uploadedbyinstagram foursquarevenue bce e b e f,2014,12,12,11,16,313845360.0,undef,2014-12-12 11:16:00
+15996105851,45.762555,4.827606,69,probably still favorite neighborhood anywhere saint jean vieux lyon square squareformat iphoneography instagramapp uploadedbyinstagram foursquarevenue bce e b e f,2014,12,11,10,32,313756320.0,undef,2014-12-11 10:32:00
+9565103404,45.762553,4.827632,69,medieval street street city wallpaper urban france night geotagged light frankreich europa europe lyon facade rhne rue francia nuit lumires urbain saintjean vieuxlyon rhnealpes fonddcran,2013,8,20,19,45,272490300.0,undef,2013-08-20 19:45:00
+18576335351,45.762631,4.82759,69,weight one self michael elmgreen ingar dragset visual philosophical experience idea order shaken subtle gesture keeping heritage urban nature site work typical con square squareformat iphoneography instagramapp uploadedbyinstagram,2015,6,8,4,37,329200620.0,undef,2015-06-08 04:37:00
+19892188766,45.76274,4.827697,69,traboule lyonnaise city blue window sky urban france nikon europe cityscape lyon sigma fisheye traboule vieuxlyon,2015,6,20,10,39,330259140.0,undef,2015-06-20 10:39:00
+19811594662,45.76274,4.827697,69,traboule lyonnaise city window sky urban france art frame nikon europe cityscape lyon fisheye print nikkor blending traboule mm vieuxlyon pixopolitan,2015,6,20,11,0,330260400.0,undef,2015-06-20 11:00:00
+20818330210,45.76274,4.827697,69,traboule lyonnaise city france history europe cityscape lyon landmark tourist historic touring traboule rhonealpes vieuxlyon,2015,6,20,11,15,330261300.0,undef,2015-06-20 11:15:00
+20325914624,45.76265,4.827579,69, ,2015,8,27,17,9,336157740.0,undef,2015-08-27 17:09:00
+20626908580,45.762979,4.827804,69, ,2015,8,7,21,7,334444020.0,undef,2015-08-07 21:07:00
+20814909075,45.762979,4.827804,69, ,2015,8,7,21,7,334444020.0,undef,2015-08-07 21:07:00
+20735621736,45.762658,4.827547,69,table bouchon lyonnais france art mm table restaurant glass nikon lyon f sigma fx dg verre bouchon glasse hsm yanngar mmart,2015,8,6,12,14,334325640.0,undef,2015-08-06 12:14:00
+20041197700,45.762662,4.827662,69,lyon city jungle france frankreich lyon hdr,2014,9,14,18,43,306182580.0,undef,2014-09-14 18:43:00
+21082570153,45.762654,4.827537,69,dead end street fragment lyonnais wall corner coin angle lyon mur ocre croix abstrait minimaliste camaieu,2015,9,7,12,41,337092060.0,undef,2015-09-07 12:41:00
+21602306896,45.76274,4.82757,69,fragment lyonnais lyon couleurs mur palmier sud ocre fentres abstrait vieilleville minimaliste,2015,9,7,12,37,337091820.0,undef,2015-09-07 12:37:00
+21396411252,45.76277,4.827729,69, ,2015,9,9,12,43,337264980.0,undef,2015-09-09 12:43:00
+20784549264,45.76277,4.827729,69, ,2015,9,9,10,16,337256160.0,undef,2015-09-09 10:16:00
+20784548914,45.76277,4.827729,69, ,2015,9,9,10,17,337256220.0,undef,2015-09-09 10:17:00
+21220360159,45.76277,4.827729,69, ,2015,9,9,10,22,337256520.0,undef,2015-09-09 10:22:00
+21220343509,45.76277,4.827729,69,old city world heritage site ,2015,9,9,10,6,337255560.0,undef,2015-09-09 10:06:00
+21415639251,45.76277,4.827729,69, ,2015,9,9,10,20,337256400.0,undef,2015-09-09 10:20:00
+21415638921,45.76277,4.827729,69, ,2015,9,9,10,27,337256820.0,undef,2015-09-09 10:27:00
+21135522632,45.762543,4.827521,69,cl bottle bad boy wine france square lyon squareformat rise iphoneography instagramapp uploadedbyinstagram foursquarevenue e,2015,9,4,21,30,336864600.0,undef,2015-09-04 21:30:00
+21494567053,45.762688,4.827826,69,maison viste lyon pinecone vieuxlyon mmsummicron,2015,10,7,13,29,339686940.0,undef,2015-10-07 13:29:00
+22077489662,45.762379,4.827546,69,vieilles couleurs lyon,2015,10,10,19,14,339966840.0,undef,2015-10-10 19:14:00
+21902091238,45.762492,4.82761,69,low cost bouchon lyon,2015,10,10,19,14,339966840.0,undef,2015-10-10 19:14:00
+21781464679,45.762643,4.827589,69,colise colosseum lyon troglodyte escalier march vieilleville trous dmcfz,2015,9,7,11,16,337086960.0,undef,2015-09-07 11:16:00
+21956201722,45.762643,4.827589,69,cocteau lyon toit mur visage vieilleville tuiles dmcfz,2015,9,7,11,24,337087440.0,undef,2015-09-07 11:24:00
+21347201373,45.762643,4.827589,69,picasso lyon peinture mur abstrait vieilleville caille dmcfz,2015,9,7,11,46,337088760.0,undef,2015-09-07 11:46:00
+23376303565,45.762964,4.827772,69, lyon vieillespierres traboule vieilleville dmcfz,2015,9,7,11,13,337086780.0,undef,2015-09-07 11:13:00
+23307743315,45.762813,4.827836,69,lyon lyon,2015,11,25,21,21,343948860.0,undef,2015-11-25 21:21:00
+15794503477,45.762493,4.827525,69,fte lumires lyon festivaloflights ftedeslumires,2014,12,6,20,17,313359420.0,undef,2014-12-06 20:17:00
+24842869406,45.762539,4.827642,69,dsc jpg lyon,2016,1,30,12,42,349620120.0,undef,2016-01-30 12:42:00
+24085444693,45.762964,4.827772,69, pink rose architecture tour lyon traboule moyenge dmcfz,2015,9,7,11,30,337087800.0,undef,2015-09-07 11:30:00
+23900640291,45.762911,4.827758,69,version moderne petit chaperon rouge street france lyon instantan surlevif ruestjean,2015,12,25,17,36,346527360.0,undef,2015-12-25 17:36:00
+25537008473,45.762911,4.827758,69,lyon herodote bouquiniste rue st jean saint jean lyon boutique rue livres quartier rhone saintjean bouquiniste vieuxlyon herodote,2016,3,29,18,16,354737760.0,undef,2016-03-29 18:16:00
+25495376394,45.762589,4.827502,69,lyon apr pluie lyon pluie rue baiser amoureux rhone exterieur surlevif,2016,3,28,11,46,354627960.0,undef,2016-03-28 11:46:00
+25035941719,45.762964,4.827772,69, lyon ciel traboule contreplonge vieilleville dmcfz,2015,9,7,10,55,337085700.0,undef,2015-09-07 10:55:00
+26034612863,45.762725,4.827836,69,lyon maison chamarier flickr lyon,2016,3,5,15,25,352653900.0,undef,2016-03-05 15:25:00
+27209196636,45.762583,4.827579,69,heurtoir porte bleue door knocker porte bleue heurtoir,2016,5,25,11,28,359638080.0,undef,2016-05-25 11:28:00
+26701522002,45.762822,4.827763,69,stumbled across nice bottle shop france shop wine lyon fr rhnealpes,2015,7,11,12,25,332079900.0,undef,2015-07-11 12:25:00
+27272885234,45.762622,4.827694,69,wp projpg lyon auvergnerhnealpes france fr,2016,6,16,12,15,361541700.0,undef,2016-06-16 12:15:00
+27808338321,45.762622,4.827694,69,wp projpg lyon auvergnerhnealpes france fr,2016,6,16,12,15,361541700.0,undef,2016-06-16 12:15:00
+27808335361,45.762622,4.827694,69,wp projpg lyon auvergnerhnealpes france fr,2016,6,16,12,15,361541700.0,undef,2016-06-16 12:15:00
+27643728752,45.762822,4.827686,69,bonbon couleurs nikon sweet candy color nikkor food colored red spoon blue green yellow bokeh dof sam lat,2016,5,21,22,38,359332680.0,undef,2016-05-21 22:38:00
+27133346793,45.762822,4.827686,69,bonbon noir blanc nikon sweet candy bw black withe nikkor food bokeh,2016,5,21,22,38,359332680.0,undef,2016-05-21 22:38:00
+27449119220,45.762697,4.827547,69,lyon rue saintjean france architecture frankreich lyon lione frana rhne frankrijk francia renaissance francie frankrig lyon frankrike rhnealpes francja november,2015,11,15,13,6,343055160.0,undef,2015-11-15 13:06:00
+28261391245,45.762542,4.827629,69, france abandoned lyon abandonned,2016,7,12,13,6,363791160.0,undef,2016-07-12 13:06:00
+27808340821,45.762622,4.827694,69,wp projpg lyon auvergnerhnealpes france fr,2016,6,16,12,15,361541700.0,undef,2016-06-16 12:15:00
+29942200041,45.7628,4.82775,69,vieuxlyon lyon traboule,2016,3,28,15,24,354641040.0,undef,2016-03-28 15:24:00
+29170855213,45.76274,4.827632,69,prototype robot movie irobot model asimov,2016,9,18,14,53,369672780.0,undef,2016-09-18 14:53:00
+29503963470,45.76274,4.827632,69,queen xenomorph alien horror monster black white model movie sciencefiction alien cage han ruedi giger,2016,9,18,15,46,369675960.0,undef,2016-09-18 15:46:00
+29713869611,45.76274,4.827632,69,lewis clark movie spaceship vaisseau event horizon film science fiction horror model,2016,9,18,15,32,369675120.0,undef,2016-09-18 15:32:00
+29760539536,45.76274,4.827632,69,xenomorph xenomorph alien horror monster white model movie sciencefiction alien film queen black han ruedi giger,2016,9,18,15,47,369676020.0,undef,2016-09-18 15:47:00
+29762991123,45.76283,4.827708,69,boissons boissons vieux lyom france francia frana europa europe noche night noite nuit,2016,9,26,21,52,370389120.0,undef,2016-09-26 21:52:00
+23232315933,45.762847,4.827794,69,lyon france france lyon,2014,5,30,10,29,296908140.0,undef,2014-05-30 10:29:00
+23227167163,45.762508,4.82758,69,lyon france france lyon,2014,5,29,16,23,296842980.0,undef,2014-05-29 16:23:00
+23219780984,45.762469,4.827633,69, ,2015,12,6,11,37,344864220.0,undef,2015-12-06 11:37:00
+23859120935,45.762894,4.827713,69,lyon france france lyon,2014,5,30,10,29,296908140.0,undef,2014-05-30 10:29:00
+32734926412,45.762611,4.827716,69,lyon street ,2017,1,27,21,9,381013740.0,undef,2017-01-27 21:09:00
+32492124120,45.762519,4.827644,69,vieux lyon lyon auvergnerhnealpes francia france,2017,2,3,15,6,381596760.0,undef,2017-02-03 15:06:00
+32596783292,45.7625,4.8275,69, ,2017,2,6,12,19,381845940.0,undef,2017-02-06 12:19:00
+32334749285,45.76286,4.827718,69,attractive menu bouchon lyonnais vieuxlyon restaurant menu gastronomie gastronomy rhne lyon france canon eos hdr dcembre hiver december winter,2016,12,25,15,17,378141420.0,undef,2016-12-25 15:17:00
+32320707525,45.762558,4.827522,69, ,2016,12,25,15,51,378143460.0,undef,2016-12-25 15:51:00
+31338439744,45.762611,4.827556,69,li lyon frana francia li lyon frana france francia carrer nucliantic edifici arquitectura fuji,2016,7,17,14,7,364226820.0,undef,2016-07-17 14:07:00
+31615881532,45.762695,4.8276,69,door door old pink orange wood stone iron vieuxlyon renaissance lyon france hdr tonemapping,2012,8,26,18,30,241468200.0,undef,2012-08-26 18:30:00
+33385483374,45.76275,4.827777,69,rue saint jean lyon bw concert concertdelainlyon kodaktmax nikkorpreai mm nikonf rue lyon rhne france filmdevrecipe,2016,11,1,0,0,373420800.0,undef,2016-11-01 00:00:00
+33879933214,45.762555,4.827658,69,traboules saint jean lyon france alexstoenphotography france historic leicamptyp lyon night ruesaintjean saintjean summiluxm mm traboules transambulare vieuxlyon city citylife citylights cobblestone nightlife old storefront street,2015,9,5,21,31,336951060.0,undef,2015-09-05 21:31:00
+35528656695,45.762441,4.827621,69,rue palais justice vieux lyon boulangerie palais gault millau lexpert gourmand lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruedupalaisdejustice sign boulangeriedupalais bakery ruesaintjean gaultmillaulexpertgourmand,2017,6,3,11,6,391950360.0,undef,2017-06-03 11:06:00
+35480542196,45.762441,4.827621,69,rue palais justice vieux lyon boulangerie palais lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruedupalaisdejustice sign boulangeriedupalais bakery stainedglasswindow,2017,6,3,11,6,391950360.0,undef,2017-06-03 11:06:00
+35352671582,45.762441,4.827621,69,rue palais justice vieux lyon boulangerie palais lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruedupalaisdejustice sign boulangeriedupalais bakery stainedglasswindow,2017,6,3,11,6,391950360.0,undef,2017-06-03 11:06:00
+34670319284,45.762441,4.827621,69,rue saintjean vieux lyon sign boulangerie palais lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop sign boulangeriedupalais ruedupalaisdejustice bakery stainedglasswindow,2017,6,3,11,46,391952760.0,undef,2017-06-03 11:46:00
+34670304694,45.76271,4.827674,69,trattoria rue saintjean vieux lyon trattoria lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop latrattoria italianrestaurant latrattoriadesaintjean,2017,6,3,11,47,391952820.0,undef,2017-06-03 11:47:00
+35344474462,45.76271,4.827674,69,rue saintjean vieux lyon stormtrooper lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop sign stormtrooper starwars streetart graffiti,2017,6,3,11,49,391952940.0,undef,2017-06-03 11:49:00
+35344459422,45.76271,4.827674,69,trattoria rue saintjean vieux lyon light fitting bar lyon france burgundy bourgogne auvergnerhnealpes metropolisoflyon rhonealpes unescoclassifiedplace unesco worldheritagesite unescoworldheritagesite vieuxlyon oldlyon largestrenaissancedistrictoflyon malrauxlaw ruesaintjean shop shop latrattoria italianrestaurant latrattoriadesaintjean lightfittingsoverthebar,2017,6,3,12,44,391956240.0,undef,2017-06-03 12:44:00
+34975974590,45.762619,4.827661,69, ,2017,6,17,15,44,393176640.0,undef,2017-06-17 15:44:00
+34433935533,45.762912,4.827783,69,vieux lyon ,2017,6,1,12,43,391783380.0,undef,2017-06-01 12:43:00
+34243847294,45.762966,4.827783,69,restaulyon encore lyon,2017,6,3,21,7,391986420.0,undef,2017-06-03 21:07:00
+36087872405,45.762577,4.827569,69,lyon street auvergnerhnealpes fra france lyon bw blackwhite city feketefehr ff geolat geolon geotagged street utca vros,2017,6,24,9,1,393757260.0,undef,2017-06-24 09:01:00
+36558258136,45.762683,4.827697,69,dsc jpg lyon auvergnerhnealpes france fr,2017,8,8,19,6,397681560.0,undef,2017-08-08 19:06:00
+36207910260,45.762683,4.827697,69,dsc jpg lyon auvergnerhnealpes france fr,2017,8,8,19,6,397681560.0,undef,2017-08-08 19:06:00
+36207905700,45.762683,4.827697,69,dsc jpg lyon auvergnerhnealpes france fr,2017,8,8,19,6,397681560.0,undef,2017-08-08 19:06:00
+36207900850,45.762844,4.827852,69,dsc jpg lyon auvergnerhnealpes france fr,2017,8,8,18,24,397679040.0,undef,2017-08-08 18:24:00
+36466388021,45.762844,4.827852,69,dsc jpg lyon auvergnerhnealpes france fr,2017,8,8,18,24,397679040.0,undef,2017-08-08 18:24:00
+37192758975,45.762463,4.827611,69,back day noir blanc black white rue street people candid lyon rhone fuji xpro,2016,7,6,12,28,363270480.0,undef,2016-07-06 12:28:00
+24046926778,45.762408,4.82763,69,long traboule lyon ,2017,9,19,14,29,401293740.0,undef,2017-09-19 14:29:00
+37813616526,45.762837,4.827761,69,ghost print bw street reflection people shop print lyon window,2017,10,21,14,21,404058060.0,undef,2017-10-21 14:21:00
+24785817648,45.762458,4.82758,69,za ,2017,11,25,16,45,407090700.0,undef,2017-11-25 16:45:00
+37399120384,45.762911,4.827758,69,lyon muse miniature cinma lyon rhone museedelaminiatureetducinma regard casque oiseau proie bleu olympus omdem stargate stargatesg faucon falcon,2017,11,1,19,7,405025620.0,undef,2017-11-01 19:07:00
+39928479832,45.762583,4.827568,69,lyon vieux lyon lyon france,2018,1,28,13,32,412608720.0,undef,2018-01-28 13:32:00
+27636384609,45.762786,4.827769,69,deb e e ff b ,2017,2,18,14,52,382891920.0,undef,2017-02-18 14:52:00
+27149410727,45.76262,4.827579,69,lle chiens wes anderson fujifilmxt lyon lleauxchiens film movie wesanderson animation figurine personnage museminiatureetcinma,2018,5,9,21,13,421362780.0,undef,2018-05-09 21:13:00
+27149409767,45.76262,4.827579,69,lle chiens wes anderson fujifilmxt lyon lleauxchiens film movie wesanderson animation figurine personnage museminiatureetcinma,2018,5,9,21,13,421362780.0,undef,2018-05-09 21:13:00
+42780342801,45.762949,4.827815,69,quartier singe lyon blackandwhite lyon france city,2018,6,13,20,41,424384860.0,undef,2018-06-13 20:41:00
+40822035310,45.762568,4.827589,69,street corner house france architecture lyon statue window,2015,11,29,5,49,344238540.0,undef,2015-11-29 05:49:00
+43638731182,45.76259,4.827686,69,vieux lyon lyon auvergnerhnealpes france claudelina france auvergnerhnealpes immeubles building maisons house vieuxlyon lyon,2018,5,25,13,29,422717340.0,undef,2018-05-25 13:29:00
+41707270350,45.762541,4.827627,69,rue saintjean vieux lyon ruesaintjean vieuxlyon schoolboy lyon france,2018,6,25,6,16,425369760.0,undef,2018-06-25 06:16:00
+43339217225,45.762575,4.827567,69,stencil lyon france europe france lyon stjean streetart stencil pochoir,2018,8,21,17,9,430333740.0,undef,2018-08-21 17:09:00
+29159376777,45.762605,4.827691,69, ,2018,8,9,8,46,429266760.0,undef,2018-08-09 08:46:00
+44097669151,45.762605,4.827691,69, ,2018,8,9,8,46,429266760.0,undef,2018-08-09 08:46:00
+43158452295,45.762807,4.827772,69,rue saintjean vieux lyon lyon auvergnerhnealpes france claudelina france auvergnerhnealpes lyon architecture,2018,5,25,13,3,422715780.0,undef,2018-05-25 13:03:00
+43814736985,45.76262,4.827579,69,muse miniature cinma fujifilmxt muse museum miniatureetcinma lyon film movie leparfum perfumethestoryofamurderer miniature cinema danohlmann,2018,9,16,14,13,432569580.0,undef,2018-09-16 14:13:00
+44005095984,45.76262,4.827579,69,muse miniature cinma fujifilmxt muse museum miniatureetcinma lyon film movie leparfum perfumethestoryofamurderer miniature cinema danohlmann,2018,9,16,14,13,432569580.0,undef,2018-09-16 14:13:00
+44722484871,45.76262,4.827579,69,muse miniature cinma fujifilmxt muse museum miniatureetcinma lyon film movie leparfum perfumethestoryofamurderer miniature cinema danohlmann,2018,9,16,14,11,432569460.0,undef,2018-09-16 14:11:00
+44722297271,45.76262,4.827579,69,muse miniature cinma fujifilmxt muse museum miniatureetcinma lyon film movie leparfum perfumethestoryofamurderer miniature cinema danohlmann,2018,9,16,14,10,432569400.0,undef,2018-09-16 14:10:00
+30850666198,45.76262,4.827579,69,muse miniature cinma fujifilmxt muse museum miniatureetcinma lyon miniature cinema film movie mousquetaires thethreemusketeers dirigeable airship aerostat danohlmann,2018,9,16,13,29,432566940.0,undef,2018-09-16 13:29:00
+43811104045,45.76262,4.827579,69,muse miniature cinma fujifilmxt muse museum miniatureetcinma miniature voiture car lyon danohlmann urbex,2018,9,16,11,53,432561180.0,undef,2018-09-16 11:53:00
+44002071674,45.76262,4.827579,69,muse miniature cinma fujifilmxt muse museum miniatureetcinma cinema film movie chucky poupe doll lyon danohlmann,2018,9,16,12,27,432563220.0,undef,2018-09-16 12:27:00
+44002025084,45.76262,4.827579,69,muse miniature cinma fujifilmxt muse museum miniatureetcinma jurassicpark procompsognathus dinosaure lyon danohlmann,2018,9,16,12,12,432562320.0,undef,2018-09-16 12:12:00
+44670256112,45.76262,4.827579,69,muse miniature cinma fujifilmxt muse museum miniatureetcinma alien reine queen cinma animatronique animatronics lyon danohlmann,2018,9,16,12,5,432561900.0,undef,2018-09-16 12:05:00
+43639535425,45.762575,4.827632,69, lyon luminar lugdunum ville ciudad city town stadt citt france arturbain art artcontemporain artmoderne vieuxlyon saintjean pascalrey nikon pascalreyphotographies photo photographiecontemporaine photographie photography photograffik photographiedigitale photographienumrique photographieurbaine photographielyonnaise,2018,9,4,11,47,431524020.0,undef,2018-09-04 11:47:00
+44499458172,45.762575,4.827632,69, lyon luminar lugdunum ville ciudad city town stadt citt france arturbain art artcontemporain artmoderne vieuxlyon saintjean pascalrey nikon pascalreyphotographies photo photographiecontemporaine photographie photography photograffik photographiedigitale photographienumrique photographieurbaine photographielyonnaise,2018,9,4,11,48,431524080.0,undef,2018-09-04 11:48:00
+29610093497,45.762575,4.827632,69,know im happy streetart streetphotography street inthestreets strasse strassen rue ruexperienced ruelles artderue danslesrues via calle lyon lugdunum vieuxlyon arturbain urbanart urbanphotography arteurbano murs murales muros murale artmural fresquesmurales peinturesmurales critsurlemur wall wallpaintings walldrawings pascalrey nikon luminar pascalreyphotographies photographiecontemporaine photo photographie photography photograffik photographiedigitale photographienumrique photographieurbaine graffiti graffs graffik graffiti tag stencil stencil pastedpaper papiercoll sprayart spray septembre september,2018,9,4,11,46,431523960.0,undef,2018-09-04 11:46:00
+46867240184,45.762755,4.827788,69, paris drance reims heg river rhone champageardenne marseille languedoc cote dazure ardeche lyon avignon perouges,2018,10,23,11,39,435757140.0,undef,2018-10-23 11:39:00
+47538297122,45.76275,4.827783,69, paris drance reims heg river rhone champageardenne marseille languedoc cote dazure ardeche lyon avignon perouges,2018,10,23,11,39,435757140.0,undef,2018-10-23 11:39:00
+46675730445,45.76275,4.827791,69, paris drance reims heg river rhone champageardenne marseille languedoc cote dazure ardeche lyon avignon perouges,2018,10,23,11,39,435757140.0,undef,2018-10-23 11:39:00
+46867240124,45.762752,4.827786,69, paris drance reims heg river rhone champageardenne marseille languedoc cote dazure ardeche lyon avignon perouges,2018,10,23,11,39,435757140.0,undef,2018-10-23 11:39:00
+46867240034,45.762736,4.827786,69, paris drance reims heg river rhone champageardenne marseille languedoc cote dazure ardeche lyon avignon perouges,2018,10,23,11,40,435757200.0,undef,2018-10-23 11:40:00
+46675730325,45.762733,4.82778,69, paris drance reims heg river rhone champageardenne marseille languedoc cote dazure ardeche lyon avignon perouges,2018,10,23,11,40,435757200.0,undef,2018-10-23 11:40:00
+47980534853,45.762694,4.827788,69,livres ,2018,11,24,15,46,438536760.0,undef,2018-11-24 15:46:00
+48415395821,45.762911,4.827758,69,lyon chez marchand liqueur vieux lyon lyon rhone vieuxlyon marchand liqueur bocaux couleurs,2019,7,29,16,24,459879840.0,undef,2019-07-29 16:24:00
+48392991616,45.762575,4.827661,69,lyon francia arquitectura josantonioabad paisajeurbano lyon color pblica europa francia architecture building calles edificios europe farbe fotografaurbana liyon urbanphotography cityscape colour couleur streetphotography street urbanlanscape rdano,2019,7,16,20,3,458769780.0,undef,2019-07-16 20:03:00
+48654244007,45.76289,4.827685,69,htel milan museminiatureetcinma museum museo muse museet museu france frankrijk frankreich francia frana maquette miniatuur miniature scalemodel lyon auvergnerhnealpes lione europa europe monochrome monochroom monotone window fenster ramen vensters fentres,2019,6,14,16,19,455991540.0,undef,2019-06-14 16:19:00
+48645913483,45.762911,4.827758,69,vieux lyon homme costume lin froiss lyon rhone homme costume suit lin linen rue vieuxlyon oldcity touriste noiretblanc bw monochrome,2019,8,29,17,51,462563460.0,undef,2019-08-29 17:51:00
+48601506986,45.76289,4.827685,69,librairie hrodote bookstore librairie tweedehands boeken livres book bcher shop winkel boekhandel anciens old secondhand letter lettres lyon auvergnerhnealpes lione france frankrijk frankreich francia frana,2019,6,13,16,57,455907420.0,undef,2019-06-13 16:57:00
+48560638627,45.762589,4.827502,69,lyon touriste photographiant traboule lyon rhone vieuxlyon traboule touriste contrejour noiretblanc bw monochrome,2019,8,17,21,22,461539320.0,undef,2019-08-17 21:22:00
+48536597237,45.7628,4.827775,69,lyon fr ilce fe mm f os sec bij f mm iso frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,13,38,459610680.0,undef,2019-07-26 13:38:00
+48462699442,45.7628,4.827775,69,dsc dxopl lyon fr ilce fe mm f os sec bij f mm iso dxopl frankrijk jossaris jossarisfoto lr lyon rhne,2019,7,26,13,38,459610680.0,undef,2019-07-26 13:38:00
+48436926937,45.762911,4.827758,69,vieux lyon nuance debires pub lyon rhone vieuxlyon pub distributeur bieres,2019,7,29,16,19,459879540.0,undef,2019-07-29 16:19:00
+48943697933,45.7624,4.82755,69,crpe master lyon rhne france cafe city face person working,2019,10,5,15,13,465750780.0,undef,2019-10-05 15:13:00
+48944243321,45.7624,4.82755,69,crpe master lyon rhne france cafe city face person working,2019,10,5,15,13,465750780.0,undef,2019-10-05 15:13:00
+48824551761,45.762575,4.827525,69,lyon france francia frankreich frankrijk fhrainc lyon lione,2019,9,3,20,30,463005000.0,undef,2019-09-03 20:30:00
+48824077403,45.762575,4.827525,69,lyon france francia frankreich frankrijk fhrainc lyon lione,2019,9,3,20,35,463005300.0,undef,2019-09-03 20:35:00

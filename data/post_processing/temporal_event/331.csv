@@ -1,96 +1,114 @@
 id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken,year_month
-16477969758,45.764988,4.833511,331,mom cuz nneka ,2015,2,21,19,22,320008920.0,Événement Temporaire,2015-02-21 19:22:00,2015-02
-16639065556,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,4,319809840.0,Événement Temporaire,2015-02-19 12:04:00,2015-02
-16478846469,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,33,319811580.0,Événement Temporaire,2015-02-19 12:33:00,2015-02
-16042681994,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,33,319811580.0,Événement Temporaire,2015-02-19 12:33:00,2015-02
-16477413298,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,33,319811580.0,Événement Temporaire,2015-02-19 12:33:00,2015-02
-16664987755,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,32,319811520.0,Événement Temporaire,2015-02-19 12:32:00,2015-02
-16477590460,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,32,319811520.0,Événement Temporaire,2015-02-19 12:32:00,2015-02
-16663608871,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,29,319811340.0,Événement Temporaire,2015-02-19 12:29:00,2015-02
-16639062336,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,32,319811520.0,Événement Temporaire,2015-02-19 12:32:00,2015-02
-16477410988,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,29,319811340.0,Événement Temporaire,2015-02-19 12:29:00,2015-02
-16457681777,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,29,319811340.0,Événement Temporaire,2015-02-19 12:29:00,2015-02
-16663607591,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,29,319811340.0,Événement Temporaire,2015-02-19 12:29:00,2015-02
-16664984265,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,28,319811280.0,Événement Temporaire,2015-02-19 12:28:00,2015-02
-16664984235,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,28,319811280.0,Événement Temporaire,2015-02-19 12:28:00,2015-02
-16477587770,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,28,319811280.0,Événement Temporaire,2015-02-19 12:28:00,2015-02
-16477587190,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,28,319811280.0,Événement Temporaire,2015-02-19 12:28:00,2015-02
-16477408648,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,25,319811100.0,Événement Temporaire,2015-02-19 12:25:00,2015-02
-16477408098,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,25,319811100.0,Événement Temporaire,2015-02-19 12:25:00,2015-02
-16663971322,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,25,319811100.0,Événement Temporaire,2015-02-19 12:25:00,2015-02
-16664981975,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,24,319811040.0,Événement Temporaire,2015-02-19 12:24:00,2015-02
-16045052503,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,22,319810920.0,Événement Temporaire,2015-02-19 12:22:00,2015-02
-16639057056,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,18,319810680.0,Événement Temporaire,2015-02-19 12:18:00,2015-02
-16477584760,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,17,319810620.0,Événement Temporaire,2015-02-19 12:17:00,2015-02
-16477583710,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,14,319810440.0,Événement Temporaire,2015-02-19 12:14:00,2015-02
-16042673664,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,14,319810440.0,Événement Temporaire,2015-02-19 12:14:00,2015-02
-16639055586,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,14,319810440.0,Événement Temporaire,2015-02-19 12:14:00,2015-02
-16477582660,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,13,319810380.0,Événement Temporaire,2015-02-19 12:13:00,2015-02
-16477404088,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,12,319810320.0,Événement Temporaire,2015-02-19 12:12:00,2015-02
-16457675317,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,13,319810380.0,Événement Temporaire,2015-02-19 12:13:00,2015-02
-16042670944,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,11,319810260.0,Événement Temporaire,2015-02-19 12:11:00,2015-02
-16639053376,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,11,319810260.0,Événement Temporaire,2015-02-19 12:11:00,2015-02
-16477581060,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,11,319810260.0,Événement Temporaire,2015-02-19 12:11:00,2015-02
-16045047403,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,11,319810260.0,Événement Temporaire,2015-02-19 12:11:00,2015-02
-16477401218,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,6,319809960.0,Événement Temporaire,2015-02-19 12:06:00,2015-02
-16457672617,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,11,319810260.0,Événement Temporaire,2015-02-19 12:11:00,2015-02
-16042667814,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,3,319809780.0,Événement Temporaire,2015-02-19 12:03:00,2015-02
-16663962982,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,3,319809780.0,Événement Temporaire,2015-02-19 12:03:00,2015-02
-16045045773,45.764988,4.833511,331,cinema museum lyon france ,2015,2,19,12,3,319809780.0,Événement Temporaire,2015-02-19 12:03:00,2015-02
-16653305922,45.764988,4.833511,331,madonna ,2015,2,19,15,56,319823760.0,Événement Temporaire,2015-02-19 15:56:00,2015-02
-16034430283,45.764988,4.833511,331,madonna ,2015,2,19,15,6,319820760.0,Événement Temporaire,2015-02-19 15:06:00,2015-02
-16652919251,45.764988,4.833511,331,madonna ,2015,2,19,15,56,319823760.0,Événement Temporaire,2015-02-19 15:56:00,2015-02
-16034428503,45.764988,4.833511,331,madonna ,2015,2,19,15,55,319823700.0,Événement Temporaire,2015-02-19 15:55:00,2015-02
-16034427553,45.764988,4.833511,331,madonna ,2015,2,19,15,55,319823700.0,Événement Temporaire,2015-02-19 15:55:00,2015-02
-16654316355,45.764988,4.833511,331,madonna ,2015,2,19,15,24,319821840.0,Événement Temporaire,2015-02-19 15:24:00,2015-02
-16032011504,45.764988,4.833511,331,madonna ,2015,2,19,15,24,319821840.0,Événement Temporaire,2015-02-19 15:24:00,2015-02
-16652916731,45.764988,4.833511,331,madonna ,2015,2,19,15,15,319821300.0,Événement Temporaire,2015-02-19 15:15:00,2015-02
-16652916591,45.764988,4.833511,331,madonna ,2015,2,19,15,15,319821300.0,Événement Temporaire,2015-02-19 15:15:00,2015-02
-16466743648,45.764988,4.833511,331,madonna ,2015,2,19,15,15,319821300.0,Événement Temporaire,2015-02-19 15:15:00,2015-02
-16447028077,45.764988,4.833511,331,madonna ,2015,2,19,15,13,319821180.0,Événement Temporaire,2015-02-19 15:13:00,2015-02
-16447027157,45.764988,4.833511,331,madonna ,2015,2,19,15,11,319821060.0,Événement Temporaire,2015-02-19 15:11:00,2015-02
-16653297352,45.764988,4.833511,331,madonna ,2015,2,19,15,14,319821240.0,Événement Temporaire,2015-02-19 15:14:00,2015-02
-16466925880,45.764988,4.833511,331,madonna ,2015,2,19,15,12,319821120.0,Événement Temporaire,2015-02-19 15:12:00,2015-02
-16654311195,45.764988,4.833511,331,madonna ,2015,2,19,15,11,319821060.0,Événement Temporaire,2015-02-19 15:11:00,2015-02
-16466924500,45.764988,4.833511,331,madonna ,2015,2,19,15,10,319821000.0,Événement Temporaire,2015-02-19 15:10:00,2015-02
-16032005704,45.764988,4.833511,331,madonna ,2015,2,19,15,11,319821060.0,Événement Temporaire,2015-02-19 15:11:00,2015-02
-16034420803,45.764988,4.833511,331,madonna ,2015,2,19,15,10,319821000.0,Événement Temporaire,2015-02-19 15:10:00,2015-02
-16654309075,45.764988,4.833511,331,madonna ,2015,2,19,15,8,319820880.0,Événement Temporaire,2015-02-19 15:08:00,2015-02
-16654308865,45.764988,4.833511,331,madonna ,2015,2,19,15,8,319820880.0,Événement Temporaire,2015-02-19 15:08:00,2015-02
-16652909531,45.764988,4.833511,331,madonna ,2015,2,19,15,5,319820700.0,Événement Temporaire,2015-02-19 15:05:00,2015-02
-16466737648,45.764988,4.833511,331,madonna ,2015,2,19,14,31,319818660.0,Événement Temporaire,2015-02-19 14:31:00,2015-02
-16654306365,45.764988,4.833511,331,madonna ,2015,2,19,15,7,319820820.0,Événement Temporaire,2015-02-19 15:07:00,2015-02
-16468148579,45.764988,4.833511,331,madonna ,2015,2,19,15,7,319820820.0,Événement Temporaire,2015-02-19 15:07:00,2015-02
-16034416053,45.764988,4.833511,331,madonna ,2015,2,19,15,6,319820760.0,Événement Temporaire,2015-02-19 15:06:00,2015-02
-16031999544,45.764988,4.833511,331,madonna ,2015,2,19,15,7,319820820.0,Événement Temporaire,2015-02-19 15:07:00,2015-02
-16466918290,45.764988,4.833511,331,madonna ,2015,2,19,14,31,319818660.0,Événement Temporaire,2015-02-19 14:31:00,2015-02
-16645123831,45.764988,4.833511,331,vacation part ,2015,2,18,16,27,319739220.0,Événement Temporaire,2015-02-18 16:27:00,2015-02
-16458891368,45.764988,4.833511,331,vacation part ,2015,2,18,16,26,319739160.0,Événement Temporaire,2015-02-18 16:26:00,2015-02
-16646424655,45.764988,4.833511,331,vacation part ,2015,2,18,16,23,319738980.0,Événement Temporaire,2015-02-18 16:23:00,2015-02
-16645399452,45.764988,4.833511,331,vacation part ,2015,2,18,16,25,319739100.0,Événement Temporaire,2015-02-18 16:25:00,2015-02
-16641484621,45.764988,4.833511,331,vacation part ,2015,2,18,16,23,319738980.0,Événement Temporaire,2015-02-18 16:23:00,2015-02
-16641104191,45.764988,4.833511,331,vacation part ,2015,2,18,16,27,319739220.0,Événement Temporaire,2015-02-18 16:27:00,2015-02
-16433836257,45.764988,4.833511,331,vacation part ,2015,2,18,16,24,319739040.0,Événement Temporaire,2015-02-18 16:24:00,2015-02
-16453528738,45.764988,4.833511,331,vacation part ,2015,2,18,16,28,319739280.0,Événement Temporaire,2015-02-18 16:28:00,2015-02
-16641056335,45.764988,4.833511,331,vacation part ,2015,2,18,16,27,319739220.0,Événement Temporaire,2015-02-18 16:27:00,2015-02
-16615095006,45.764988,4.833511,331,vacation part ,2015,2,18,16,26,319739160.0,Événement Temporaire,2015-02-18 16:26:00,2015-02
-16638685612,45.764988,4.833511,331,vacation part ,2015,2,18,16,26,319739160.0,Événement Temporaire,2015-02-18 16:26:00,2015-02
-16638458362,45.764988,4.833511,331,vacation part ,2015,2,18,16,27,319739220.0,Événement Temporaire,2015-02-18 16:27:00,2015-02
-16638449152,45.764988,4.833511,331,vacation part ,2015,2,18,16,27,319739220.0,Événement Temporaire,2015-02-18 16:27:00,2015-02
-16452028990,45.764988,4.833511,331,vacation part ,2015,2,18,15,19,319735140.0,Événement Temporaire,2015-02-18 15:19:00,2015-02
-16637932121,45.764988,4.833511,331,vacation part ,2015,2,18,16,24,319739040.0,Événement Temporaire,2015-02-18 16:24:00,2015-02
-16017061694,45.764988,4.833511,331,vacation part ,2015,2,18,16,24,319739040.0,Événement Temporaire,2015-02-18 16:24:00,2015-02
-16613429356,45.764988,4.833511,331,vacation part ,2015,2,18,16,27,319739220.0,Événement Temporaire,2015-02-18 16:27:00,2015-02
-16432049437,45.764988,4.833511,331,vacation part ,2015,2,18,15,18,319735080.0,Événement Temporaire,2015-02-18 15:18:00,2015-02
-16432004437,45.764988,4.833511,331,vacation part ,2015,2,18,16,24,319739040.0,Événement Temporaire,2015-02-18 16:24:00,2015-02
-16637833791,45.764988,4.833511,331,vacation part ,2015,2,18,16,26,319739160.0,Événement Temporaire,2015-02-18 16:26:00,2015-02
-16016947824,45.764988,4.833511,331,vacation part ,2015,2,18,16,25,319739100.0,Événement Temporaire,2015-02-18 16:25:00,2015-02
-16638226622,45.764988,4.833511,331,vacation part ,2015,2,18,15,40,319736400.0,Événement Temporaire,2015-02-18 15:40:00,2015-02
-16019320953,45.764988,4.833511,331,vacation part ,2015,2,18,16,24,319739040.0,Événement Temporaire,2015-02-18 16:24:00,2015-02
-16639208645,45.764988,4.833511,331,vacation part ,2015,2,18,16,26,319739160.0,Événement Temporaire,2015-02-18 16:26:00,2015-02
-16613265786,45.764988,4.833511,331,vacation part ,2015,2,18,15,36,319736160.0,Événement Temporaire,2015-02-18 15:36:00,2015-02
-16670521396,45.764988,4.833511,331,lyon ,2015,2,20,12,19,319897140.0,Événement Temporaire,2015-02-20 12:19:00,2015-02
-16508873808,45.764988,4.833511,331,lyon ,2015,2,20,12,19,319897140.0,Événement Temporaire,2015-02-20 12:19:00,2015-02
-16508872578,45.764988,4.833511,331,lyon ,2015,2,20,12,10,319896600.0,Événement Temporaire,2015-02-20 12:10:00,2015-02
-16508872528,45.764988,4.833511,331,lyon ,2015,2,20,12,12,319896720.0,Événement Temporaire,2015-02-20 12:12:00,2015-02
-16074141544,45.764988,4.833511,331,lyon ,2015,2,20,12,12,319896720.0,Événement Temporaire,2015-02-20 12:12:00,2015-02
+19637656559,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,24,332375040.0,Événement Temporaire,2015-07-14 22:24:00,2015-07
+19636258100,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,35,332375700.0,Événement Temporaire,2015-07-14 22:35:00,2015-07
+19798067576,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,26,332375160.0,Événement Temporaire,2015-07-14 22:26:00,2015-07
+19637651799,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,26,332375160.0,Événement Temporaire,2015-07-14 22:26:00,2015-07
+19824276075,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,26,332375160.0,Événement Temporaire,2015-07-14 22:26:00,2015-07
+19824274965,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,28,332375280.0,Événement Temporaire,2015-07-14 22:28:00,2015-07
+19798060496,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,28,332375280.0,Événement Temporaire,2015-07-14 22:28:00,2015-07
+19201627914,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,26,332375160.0,Événement Temporaire,2015-07-14 22:26:00,2015-07
+19816897332,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,21,53,332373180.0,Événement Temporaire,2015-07-14 21:53:00,2015-07
+19798056126,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,21,45,332372700.0,Événement Temporaire,2015-07-14 21:45:00,2015-07
+19637639739,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,10,332374200.0,Événement Temporaire,2015-07-14 22:10:00,2015-07
+19201617774,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,28,332375280.0,Événement Temporaire,2015-07-14 22:28:00,2015-07
+19829087251,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,7,332374020.0,Événement Temporaire,2015-07-14 22:07:00,2015-07
+19829082441,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,38,332375880.0,Événement Temporaire,2015-07-14 22:38:00,2015-07
+19816884442,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,24,332375040.0,Événement Temporaire,2015-07-14 22:24:00,2015-07
+19201610964,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,27,332375220.0,Événement Temporaire,2015-07-14 22:27:00,2015-07
+19201609594,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,31,332375460.0,Événement Temporaire,2015-07-14 22:31:00,2015-07
+19798038956,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,31,332375460.0,Événement Temporaire,2015-07-14 22:31:00,2015-07
+19798037386,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,23,332374980.0,Événement Temporaire,2015-07-14 22:23:00,2015-07
+19824248945,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,23,332374980.0,Événement Temporaire,2015-07-14 22:23:00,2015-07
+19798034186,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,4,332373840.0,Événement Temporaire,2015-07-14 22:04:00,2015-07
+19636217750,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,21,44,332372640.0,Événement Temporaire,2015-07-14 21:44:00,2015-07
+19824242035,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,33,332375580.0,Événement Temporaire,2015-07-14 22:33:00,2015-07
+19829062601,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,32,332375520.0,Événement Temporaire,2015-07-14 22:32:00,2015-07
+19816865002,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,33,332375580.0,Événement Temporaire,2015-07-14 22:33:00,2015-07
+19203303843,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,34,332375640.0,Événement Temporaire,2015-07-14 22:34:00,2015-07
+19636196518,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,33,332375580.0,Événement Temporaire,2015-07-14 22:33:00,2015-07
+19824230335,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,33,332375580.0,Événement Temporaire,2015-07-14 22:33:00,2015-07
+19798015416,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,32,332375520.0,Événement Temporaire,2015-07-14 22:32:00,2015-07
+19829049491,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,32,332375520.0,Événement Temporaire,2015-07-14 22:32:00,2015-07
+19829048021,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,34,332375640.0,Événement Temporaire,2015-07-14 22:34:00,2015-07
+19798009846,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,35,332375700.0,Événement Temporaire,2015-07-14 22:35:00,2015-07
+19637594139,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,33,332375580.0,Événement Temporaire,2015-07-14 22:33:00,2015-07
+19636193770,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,34,332375640.0,Événement Temporaire,2015-07-14 22:34:00,2015-07
+19637591069,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,36,332375760.0,Événement Temporaire,2015-07-14 22:36:00,2015-07
+19203286273,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,35,332375700.0,Événement Temporaire,2015-07-14 22:35:00,2015-07
+19203285473,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,35,332375700.0,Événement Temporaire,2015-07-14 22:35:00,2015-07
+19824214775,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,36,332375760.0,Événement Temporaire,2015-07-14 22:36:00,2015-07
+19201566884,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,36,332375760.0,Événement Temporaire,2015-07-14 22:36:00,2015-07
+19824210285,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,36,332375760.0,Événement Temporaire,2015-07-14 22:36:00,2015-07
+19816835842,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,35,332375700.0,Événement Temporaire,2015-07-14 22:35:00,2015-07
+19824207795,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,35,332375700.0,Événement Temporaire,2015-07-14 22:35:00,2015-07
+19201561824,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,36,332375760.0,Événement Temporaire,2015-07-14 22:36:00,2015-07
+19203274423,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,36,332375760.0,Événement Temporaire,2015-07-14 22:36:00,2015-07
+19203272783,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,36,332375760.0,Événement Temporaire,2015-07-14 22:36:00,2015-07
+19816826682,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,36,332375760.0,Événement Temporaire,2015-07-14 22:36:00,2015-07
+19636168950,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,38,332375880.0,Événement Temporaire,2015-07-14 22:38:00,2015-07
+19824194205,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,36,332375760.0,Événement Temporaire,2015-07-14 22:36:00,2015-07
+19829013521,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,38,332375880.0,Événement Temporaire,2015-07-14 22:38:00,2015-07
+19636159640,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,38,332375880.0,Événement Temporaire,2015-07-14 22:38:00,2015-07
+19816812172,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,38,332375880.0,Événement Temporaire,2015-07-14 22:38:00,2015-07
+19816810212,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,38,332375880.0,Événement Temporaire,2015-07-14 22:38:00,2015-07
+19201538194,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,38,332375880.0,Événement Temporaire,2015-07-14 22:38:00,2015-07
+19637553059,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,36,332375760.0,Événement Temporaire,2015-07-14 22:36:00,2015-07
+19636153110,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,37,332375820.0,Événement Temporaire,2015-07-14 22:37:00,2015-07
+19797966486,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,38,332375880.0,Événement Temporaire,2015-07-14 22:38:00,2015-07
+19824179315,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,38,332375880.0,Événement Temporaire,2015-07-14 22:38:00,2015-07
+19636149800,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,42,332376120.0,Événement Temporaire,2015-07-14 22:42:00,2015-07
+19203242173,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,42,332376120.0,Événement Temporaire,2015-07-14 22:42:00,2015-07
+19201531684,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,41,332376060.0,Événement Temporaire,2015-07-14 22:41:00,2015-07
+19637545569,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,38,332375880.0,Événement Temporaire,2015-07-14 22:38:00,2015-07
+19636143260,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,38,332375880.0,Événement Temporaire,2015-07-14 22:38:00,2015-07
+19824170055,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,38,332375880.0,Événement Temporaire,2015-07-14 22:38:00,2015-07
+19637539359,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,42,332376120.0,Événement Temporaire,2015-07-14 22:42:00,2015-07
+19816793342,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,42,332376120.0,Événement Temporaire,2015-07-14 22:42:00,2015-07
+19828987701,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,39,332375940.0,Événement Temporaire,2015-07-14 22:39:00,2015-07
+19636128908,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,39,332375940.0,Événement Temporaire,2015-07-14 22:39:00,2015-07
+19637534079,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,41,332376060.0,Événement Temporaire,2015-07-14 22:41:00,2015-07
+19828983341,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,42,332376120.0,Événement Temporaire,2015-07-14 22:42:00,2015-07
+19636132130,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,40,332376000.0,Événement Temporaire,2015-07-14 22:40:00,2015-07
+19636128850,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,39,332375940.0,Événement Temporaire,2015-07-14 22:39:00,2015-07
+19203224253,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,42,332376120.0,Événement Temporaire,2015-07-14 22:42:00,2015-07
+19637525359,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,42,332376120.0,Événement Temporaire,2015-07-14 22:42:00,2015-07
+19828973381,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,42,332376120.0,Événement Temporaire,2015-07-14 22:42:00,2015-07
+19636122110,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,42,332376120.0,Événement Temporaire,2015-07-14 22:42:00,2015-07
+19201503874,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19636119320,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,42,332376120.0,Événement Temporaire,2015-07-14 22:42:00,2015-07
+19824144955,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19203211413,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19816768002,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19637511069,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19203208673,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19828959451,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19824134665,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19824133325,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19636094498,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19636093898,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19201484894,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19824128755,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19797914596,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19816751552,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19636086218,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19828941951,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19201469244,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19636075678,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19824110075,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19824107375,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19797893096,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19824103265,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19816728692,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19637470999,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19201452844,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19203166183,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19797880416,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19636064440,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19637457069,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19816711302,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19637452449,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19797867486,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,43,332376180.0,Événement Temporaire,2015-07-14 22:43:00,2015-07
+19636040428,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,44,332376240.0,Événement Temporaire,2015-07-14 22:44:00,2015-07
+19203144003,45.762272,4.823181,331,feu dartifice lyon firework revolution fourviere feuartifice pyrotechnie,2015,7,14,22,44,332376240.0,Événement Temporaire,2015-07-14 22:44:00,2015-07
+22631981233,45.762235,4.823092,331, ,2015,7,13,18,12,332273520.0,Événement Temporaire,2015-07-13 18:12:00,2015-07
+22891149009,45.762235,4.823092,331, ,2015,7,13,18,14,332273640.0,Événement Temporaire,2015-07-13 18:14:00,2015-07

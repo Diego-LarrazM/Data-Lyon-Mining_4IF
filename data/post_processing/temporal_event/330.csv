@@ -1,38 +1,92 @@
 id,lat,long,cluster_DBSCAN,text_clean,date_taken_year,date_taken_month,date_taken_day,date_taken_hour,date_taken_minute,temps_diff,Type,date_taken,year_month
-4176687607,45.765999,4.827075,330,gare saintpaul light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,9,0,11,155779860.0,Événement Temporaire,2009-12-09 00:11:00,2009-12
-4177445484,45.765999,4.827075,330,gare saintpaul light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,9,0,5,155779500.0,Événement Temporaire,2009-12-09 00:05:00,2009-12
-4177444734,45.765999,4.827075,330,gare saintpaul light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,9,0,4,155779440.0,Événement Temporaire,2009-12-09 00:04:00,2009-12
-4176684843,45.765999,4.827075,330,place saintpaul light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,9,0,3,155779380.0,Événement Temporaire,2009-12-09 00:03:00,2009-12
-4176684177,45.765999,4.827075,330,place saintpaul light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,9,0,3,155779380.0,Événement Temporaire,2009-12-09 00:03:00,2009-12
-4177442094,45.765999,4.827075,330,place saintpaul light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,9,0,3,155779380.0,Événement Temporaire,2009-12-09 00:03:00,2009-12
-4177441386,45.765999,4.827075,330,place saintpaul light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,9,0,2,155779320.0,Événement Temporaire,2009-12-09 00:02:00,2009-12
-4176682049,45.765999,4.827075,330,place saintpaul light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,9,0,2,155779320.0,Événement Temporaire,2009-12-09 00:02:00,2009-12
-4177439948,45.765999,4.827075,330,place saintpaul light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,9,0,1,155779260.0,Événement Temporaire,2009-12-09 00:01:00,2009-12
-4177439370,45.765999,4.827075,330,place saintpaul light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,9,0,1,155779260.0,Événement Temporaire,2009-12-09 00:01:00,2009-12
-4176191047,45.765999,4.827075,330,gare saintpaul light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,6,23,38,155605080.0,Événement Temporaire,2009-12-06 23:38:00,2009-12
-4176190397,45.765999,4.827075,330,gare saintpaul light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,6,23,36,155604960.0,Événement Temporaire,2009-12-06 23:36:00,2009-12
-4176189753,45.765999,4.827075,330,arbre devant gare saintpaul light france festival light europe lyon rhne fte festivaloflights e lumires december th ftedeslumires dcembre grandlyon rhnealpes mearrondissement december dec december earrondissement cinquime thdecember cinquimearrondissement ftedeslumires,2009,12,6,23,31,155604660.0,Événement Temporaire,2009-12-06 23:31:00,2009-12
-4171925285,45.766003,4.827139,330,gare rose tendance lyon fete lumiere eclairage decembre fetelumiere evenement lugdunum sanggi fetelumieres,2009,12,8,0,26,155694360.0,Événement Temporaire,2009-12-08 00:26:00,2009-12
-25616168681,45.766,4.827166,330,francia lione fete lumieres eglise st lione campanile francia citta citt feste star festedelleluci,2009,12,6,19,32,155590320.0,Événement Temporaire,2009-12-06 19:32:00,2009-12
-25080797224,45.766,4.827166,330,francia lione fete lumieres place st monumento lione piazza francia originale citta citt curiosita feste curiosit star festedelleluci,2009,12,6,19,32,155590320.0,Événement Temporaire,2009-12-06 19:32:00,2009-12
-25590190602,45.766,4.827166,330,francia lione fete lumieres place st monumento lione campanile piazza francia originale citta citt curiosita feste curiosit star festedelleluci,2009,12,6,19,32,155590320.0,Événement Temporaire,2009-12-06 19:32:00,2009-12
-25410473710,45.766,4.827166,330,francia lione fete lumieres place st monumento lione piazza francia originale citta citt curiosita feste curiosit star festedelleluci,2009,12,6,19,31,155590260.0,Événement Temporaire,2009-12-06 19:31:00,2009-12
-25084605873,45.766,4.827166,330,francia lione fete lumieres place st monumento lione piazza francia originale citta citt curiosita feste curiosit star festedelleluci,2009,12,6,19,31,155590260.0,Événement Temporaire,2009-12-06 19:31:00,2009-12
-25410471640,45.766,4.827166,330,francia lione fete lumieres place st monumento lione piazza francia originale citta citt curiosita feste curiosit star festedelleluci,2009,12,6,19,31,155590260.0,Événement Temporaire,2009-12-06 19:31:00,2009-12
-25685153196,45.766,4.827166,330,francia lione fete lumieres place st monumento lione piazza francia originale citta citt curiosita feste curiosit star festedelleluci,2009,12,6,19,31,155590260.0,Événement Temporaire,2009-12-06 19:31:00,2009-12
-25080785904,45.766,4.827166,330,francia lione fete lumieres place st lione francia citta citt feste fuochidartificio star festedelleluci,2009,12,6,19,21,155589660.0,Événement Temporaire,2009-12-06 19:21:00,2009-12
-25590180572,45.766,4.827166,330,francia lione fete lumieres place st monumento lione piazza francia originale citta citt curiosita feste curiosit star festedelleluci,2009,12,6,19,30,155590200.0,Événement Temporaire,2009-12-06 19:30:00,2009-12
-25711205205,45.766,4.827166,330,francia lione fete lumieres place st lione francia citta citt feste fuochidartificio star festedelleluci,2009,12,6,19,21,155589660.0,Événement Temporaire,2009-12-06 19:21:00,2009-12
-25590175392,45.766,4.827166,330,francia lione fete lumieres place st lione francia citta citt feste fuochidartificio star festedelleluci,2009,12,6,19,20,155589600.0,Événement Temporaire,2009-12-06 19:20:00,2009-12
-25616150801,45.766,4.827166,330,francia lione fete lumieres place st lione francia citta citt feste fuochidartificio star festedelleluci,2009,12,6,19,20,155589600.0,Événement Temporaire,2009-12-06 19:20:00,2009-12
-25711201165,45.766,4.827166,330,francia lione fete lumieres place st lione francia citta citt feste fuochidartificio star festedelleluci,2009,12,6,19,19,155589540.0,Événement Temporaire,2009-12-06 19:19:00,2009-12
-25084590393,45.766,4.827166,330,francia lione fete lumieres place st lione francia citta citt feste fuochidartificio star festedelleluci,2009,12,6,19,19,155589540.0,Événement Temporaire,2009-12-06 19:19:00,2009-12
-25084587973,45.766,4.827166,330,francia lione fete lumieres place st lione francia citta citt feste fuochidartificio star festedelleluci,2009,12,6,19,19,155589540.0,Événement Temporaire,2009-12-06 19:19:00,2009-12
-25590165392,45.766,4.827166,330,francia lione fete lumieres place st lione francia citta citt feste fuochidartificio star festedelleluci,2009,12,6,19,19,155589540.0,Événement Temporaire,2009-12-06 19:19:00,2009-12
-25685135736,45.766,4.827166,330,francia lione fete lumieres place st lione francia citta citt feste fuochidartificio star festedelleluci,2009,12,6,19,15,155589300.0,Événement Temporaire,2009-12-06 19:15:00,2009-12
-25080765704,45.766,4.827166,330,francia lione fete lumieres place st lione francia citta citt feste fuochidartificio star festedelleluci,2009,12,6,19,8,155588880.0,Événement Temporaire,2009-12-06 19:08:00,2009-12
-25410441920,45.766,4.827166,330,francia lione fete lumieres place st lione francia citta citt feste fuochidartificio star festedelleluci,2009,12,6,19,7,155588820.0,Événement Temporaire,2009-12-06 19:07:00,2009-12
-25080760944,45.766,4.827166,330,francia lione fete lumieres place st lione francia citta citt feste star festedelleluci,2009,12,6,19,6,155588760.0,Événement Temporaire,2009-12-06 19:06:00,2009-12
-25685127376,45.766,4.827166,330,francia lione fete lumieres place st lione francia citta citt feste fuochidartificio star festedelleluci,2009,12,6,19,6,155588760.0,Événement Temporaire,2009-12-06 19:06:00,2009-12
-25685140436,45.766,4.827166,330,francia lione fete lumieres place st lione francia citta citt feste fuochidartificio star festedelleluci,2009,12,6,19,19,155589540.0,Événement Temporaire,2009-12-06 19:19:00,2009-12
-25080764594,45.766,4.827166,330,francia lione fete lumieres place st lione francia citta citt feste fuochidartificio star festedelleluci,2009,12,6,19,8,155588880.0,Événement Temporaire,2009-12-06 19:08:00,2009-12
+39246900490,45.777752,4.856761,330, ,2017,10,26,18,13,404503980.0,Événement Temporaire,2017-10-26 18:13:00,2017-10
+26184983047,45.777752,4.856761,330, ,2017,10,26,18,6,404503560.0,Événement Temporaire,2017-10-26 18:06:00,2017-10
+27184397778,45.777752,4.856761,330, ,2017,10,26,18,6,404503560.0,Événement Temporaire,2017-10-26 18:06:00,2017-10
+41013894292,45.777752,4.856761,330, ,2017,10,26,18,4,404503440.0,Événement Temporaire,2017-10-26 18:04:00,2017-10
+40347131714,45.777752,4.856761,330, ,2017,10,26,18,2,404503320.0,Événement Temporaire,2017-10-26 18:02:00,2017-10
+40347126434,45.777752,4.856761,330, ,2017,10,26,18,2,404503320.0,Événement Temporaire,2017-10-26 18:02:00,2017-10
+39246851430,45.777752,4.856761,330, ,2017,10,26,18,1,404503260.0,Événement Temporaire,2017-10-26 18:01:00,2017-10
+40347092244,45.777752,4.856761,330, ,2017,10,26,18,1,404503260.0,Événement Temporaire,2017-10-26 18:01:00,2017-10
+40347088874,45.777752,4.856761,330, ,2017,10,26,18,0,404503200.0,Événement Temporaire,2017-10-26 18:00:00,2017-10
+41013843672,45.777752,4.856761,330, ,2017,10,26,18,0,404503200.0,Événement Temporaire,2017-10-26 18:00:00,2017-10
+41013840442,45.777752,4.856761,330, ,2017,10,26,18,0,404503200.0,Événement Temporaire,2017-10-26 18:00:00,2017-10
+41013837622,45.777752,4.856761,330, ,2017,10,26,17,59,404503140.0,Événement Temporaire,2017-10-26 17:59:00,2017-10
+41013834342,45.777752,4.856761,330, ,2017,10,26,17,59,404503140.0,Événement Temporaire,2017-10-26 17:59:00,2017-10
+26184903457,45.777752,4.856761,330, ,2017,10,26,17,58,404503080.0,Événement Temporaire,2017-10-26 17:58:00,2017-10
+26184897227,45.777752,4.856761,330, ,2017,10,26,17,57,404503020.0,Événement Temporaire,2017-10-26 17:57:00,2017-10
+40162688275,45.777752,4.856761,330, ,2017,10,26,17,55,404502900.0,Événement Temporaire,2017-10-26 17:55:00,2017-10
+40162679515,45.777752,4.856761,330, ,2017,10,26,17,54,404502840.0,Événement Temporaire,2017-10-26 17:54:00,2017-10
+26184857867,45.777752,4.856761,330, ,2017,10,26,17,42,404502120.0,Événement Temporaire,2017-10-26 17:42:00,2017-10
+26184847777,45.777752,4.856761,330, ,2017,10,26,17,42,404502120.0,Événement Temporaire,2017-10-26 17:42:00,2017-10
+39246700430,45.777752,4.856761,330, ,2017,10,26,17,37,404501820.0,Événement Temporaire,2017-10-26 17:37:00,2017-10
+27184197398,45.777752,4.856761,330, ,2017,10,26,17,37,404501820.0,Événement Temporaire,2017-10-26 17:37:00,2017-10
+27184184758,45.777752,4.856761,330, ,2017,10,26,17,36,404501760.0,Événement Temporaire,2017-10-26 17:36:00,2017-10
+27184171018,45.777752,4.856761,330, ,2017,10,26,17,36,404501760.0,Événement Temporaire,2017-10-26 17:36:00,2017-10
+40162580105,45.777752,4.856761,330, ,2017,10,26,17,35,404501700.0,Événement Temporaire,2017-10-26 17:35:00,2017-10
+26184784967,45.777752,4.856761,330, ,2017,10,26,17,31,404501460.0,Événement Temporaire,2017-10-26 17:31:00,2017-10
+40346966214,45.777752,4.856761,330, ,2017,10,26,17,31,404501460.0,Événement Temporaire,2017-10-26 17:31:00,2017-10
+27184135378,45.777752,4.856761,330, ,2017,10,26,17,31,404501460.0,Événement Temporaire,2017-10-26 17:31:00,2017-10
+40346946804,45.777752,4.856761,330, ,2017,10,26,17,31,404501460.0,Événement Temporaire,2017-10-26 17:31:00,2017-10
+26184747767,45.777752,4.856761,330, ,2017,10,26,17,30,404501400.0,Événement Temporaire,2017-10-26 17:30:00,2017-10
+27184090658,45.777752,4.856761,330, ,2017,10,26,17,30,404501400.0,Événement Temporaire,2017-10-26 17:30:00,2017-10
+26184719407,45.777752,4.856761,330, ,2017,10,26,17,23,404500980.0,Événement Temporaire,2017-10-26 17:23:00,2017-10
+39246591190,45.777752,4.856761,330, ,2017,10,26,17,20,404500800.0,Événement Temporaire,2017-10-26 17:20:00,2017-10
+26184703857,45.777752,4.856761,330, ,2017,10,26,17,18,404500680.0,Événement Temporaire,2017-10-26 17:18:00,2017-10
+26184695677,45.777752,4.856761,330, ,2017,10,26,17,18,404500680.0,Événement Temporaire,2017-10-26 17:18:00,2017-10
+27184034818,45.777752,4.856761,330, ,2017,10,26,17,18,404500680.0,Événement Temporaire,2017-10-26 17:18:00,2017-10
+27184026678,45.777752,4.856761,330, ,2017,10,26,16,57,404499420.0,Événement Temporaire,2017-10-26 16:57:00,2017-10
+27184015858,45.777752,4.856761,330, ,2017,10,26,16,56,404499360.0,Événement Temporaire,2017-10-26 16:56:00,2017-10
+41013523692,45.777752,4.856761,330, ,2017,10,26,16,56,404499360.0,Événement Temporaire,2017-10-26 16:56:00,2017-10
+41055031951,45.777752,4.856761,330, ,2017,10,26,16,52,404499120.0,Événement Temporaire,2017-10-26 16:52:00,2017-10
+41055020721,45.777752,4.856761,330, ,2017,10,26,16,47,404498820.0,Événement Temporaire,2017-10-26 16:47:00,2017-10
+41013449612,45.777752,4.856761,330, ,2017,10,26,16,47,404498820.0,Événement Temporaire,2017-10-26 16:47:00,2017-10
+41013437122,45.777752,4.856761,330, ,2017,10,26,16,47,404498820.0,Événement Temporaire,2017-10-26 16:47:00,2017-10
+27183909638,45.777752,4.856761,330, ,2017,10,26,16,46,404498760.0,Événement Temporaire,2017-10-26 16:46:00,2017-10
+41054988741,45.777752,4.856761,330, ,2017,10,26,16,46,404498760.0,Événement Temporaire,2017-10-26 16:46:00,2017-10
+26184535827,45.777752,4.856761,330, ,2017,10,26,16,42,404498520.0,Événement Temporaire,2017-10-26 16:42:00,2017-10
+26184523057,45.777752,4.856761,330, ,2017,10,26,16,36,404498160.0,Événement Temporaire,2017-10-26 16:36:00,2017-10
+40162342275,45.777752,4.856761,330, ,2017,10,26,16,36,404498160.0,Événement Temporaire,2017-10-26 16:36:00,2017-10
+40162331985,45.777752,4.856761,330, ,2017,10,26,16,20,404497200.0,Événement Temporaire,2017-10-26 16:20:00,2017-10
+40162321635,45.777752,4.856761,330, ,2017,10,26,16,20,404497200.0,Événement Temporaire,2017-10-26 16:20:00,2017-10
+40162311585,45.777752,4.856761,330, ,2017,10,26,16,15,404496900.0,Événement Temporaire,2017-10-26 16:15:00,2017-10
+40162303585,45.777752,4.856761,330, ,2017,10,26,16,12,404496720.0,Événement Temporaire,2017-10-26 16:12:00,2017-10
+40162297155,45.777752,4.856761,330, ,2017,10,26,16,10,404496600.0,Événement Temporaire,2017-10-26 16:10:00,2017-10
+26184463957,45.777752,4.856761,330, ,2017,10,26,16,10,404496600.0,Événement Temporaire,2017-10-26 16:10:00,2017-10
+26184456367,45.777752,4.856761,330, ,2017,10,26,16,10,404496600.0,Événement Temporaire,2017-10-26 16:10:00,2017-10
+26184451547,45.777752,4.856761,330, ,2017,10,26,16,10,404496600.0,Événement Temporaire,2017-10-26 16:10:00,2017-10
+26184443697,45.777752,4.856761,330, ,2017,10,26,16,9,404496540.0,Événement Temporaire,2017-10-26 16:09:00,2017-10
+41054913941,45.777752,4.856761,330, ,2017,10,26,15,44,404495040.0,Événement Temporaire,2017-10-26 15:44:00,2017-10
+40346728244,45.777752,4.856761,330, ,2017,10,26,15,44,404495040.0,Événement Temporaire,2017-10-26 15:44:00,2017-10
+41054905241,45.777752,4.856761,330, ,2017,10,26,15,43,404494980.0,Événement Temporaire,2017-10-26 15:43:00,2017-10
+40346710334,45.777752,4.856761,330, ,2017,10,26,15,43,404494980.0,Événement Temporaire,2017-10-26 15:43:00,2017-10
+26184412497,45.777752,4.856761,330, ,2017,10,26,15,43,404494980.0,Événement Temporaire,2017-10-26 15:43:00,2017-10
+40162237155,45.777752,4.856761,330, ,2017,10,26,15,42,404494920.0,Événement Temporaire,2017-10-26 15:42:00,2017-10
+26184392757,45.777752,4.856761,330, ,2017,10,26,15,41,404494860.0,Événement Temporaire,2017-10-26 15:41:00,2017-10
+41054883401,45.777752,4.856761,330, ,2017,10,26,15,39,404494740.0,Événement Temporaire,2017-10-26 15:39:00,2017-10
+26184375787,45.777752,4.856761,330, ,2017,10,26,13,1,404485260.0,Événement Temporaire,2017-10-26 13:01:00,2017-10
+26184358677,45.777752,4.856761,330, ,2017,10,26,17,35,404501700.0,Événement Temporaire,2017-10-26 17:35:00,2017-10
+41054838641,45.777752,4.856761,330, ,2017,10,26,13,0,404485200.0,Événement Temporaire,2017-10-26 13:00:00,2017-10
+40346641534,45.777752,4.856761,330, ,2017,10,26,13,0,404485200.0,Événement Temporaire,2017-10-26 13:00:00,2017-10
+27183670728,45.777752,4.856761,330, ,2017,10,26,12,59,404485140.0,Événement Temporaire,2017-10-26 12:59:00,2017-10
+27183665248,45.777752,4.856761,330, ,2017,10,26,12,59,404485140.0,Événement Temporaire,2017-10-26 12:59:00,2017-10
+27183659598,45.777752,4.856761,330, ,2017,10,26,12,47,404484420.0,Événement Temporaire,2017-10-26 12:47:00,2017-10
+27183654598,45.777752,4.856761,330, ,2017,10,26,12,45,404484300.0,Événement Temporaire,2017-10-26 12:45:00,2017-10
+40162150405,45.777752,4.856761,330, ,2017,10,26,12,43,404484180.0,Événement Temporaire,2017-10-26 12:43:00,2017-10
+40162145635,45.777752,4.856761,330, ,2017,10,26,12,40,404484000.0,Événement Temporaire,2017-10-26 12:40:00,2017-10
+26184288297,45.777752,4.856761,330, ,2017,10,26,12,37,404483820.0,Événement Temporaire,2017-10-26 12:37:00,2017-10
+41013137392,45.777752,4.856761,330, ,2017,10,26,12,37,404483820.0,Événement Temporaire,2017-10-26 12:37:00,2017-10
+39246153310,45.777752,4.856761,330, ,2017,10,26,12,36,404483760.0,Événement Temporaire,2017-10-26 12:36:00,2017-10
+39246144590,45.777752,4.856761,330, ,2017,10,26,12,35,404483700.0,Événement Temporaire,2017-10-26 12:35:00,2017-10
+26184239357,45.777752,4.856761,330, ,2017,10,26,12,34,404483640.0,Événement Temporaire,2017-10-26 12:34:00,2017-10
+26184234897,45.777752,4.856761,330, ,2017,10,26,12,32,404483520.0,Événement Temporaire,2017-10-26 12:32:00,2017-10
+27183606248,45.777752,4.856761,330, ,2017,10,26,12,30,404483400.0,Événement Temporaire,2017-10-26 12:30:00,2017-10
+40346535294,45.777752,4.856761,330, ,2017,10,26,12,26,404483160.0,Événement Temporaire,2017-10-26 12:26:00,2017-10
+40346526744,45.777752,4.856761,330, ,2017,10,26,12,26,404483160.0,Événement Temporaire,2017-10-26 12:26:00,2017-10
+26184214377,45.777752,4.856761,330, ,2017,10,26,12,26,404483160.0,Événement Temporaire,2017-10-26 12:26:00,2017-10
+26184727027,45.777752,4.856761,330, ,2017,10,26,17,30,404501400.0,Événement Temporaire,2017-10-26 17:30:00,2017-10
+40162461055,45.777752,4.856761,330, ,2017,10,26,16,56,404499360.0,Événement Temporaire,2017-10-26 16:56:00,2017-10
+41013503482,45.777752,4.856761,330, ,2017,10,26,16,52,404499120.0,Événement Temporaire,2017-10-26 16:52:00,2017-10
+26184586667,45.777752,4.856761,330, ,2017,10,26,16,47,404498820.0,Événement Temporaire,2017-10-26 16:47:00,2017-10
+41054890581,45.777752,4.856761,330, ,2017,10,26,15,42,404494920.0,Événement Temporaire,2017-10-26 15:42:00,2017-10
+40162142165,45.777752,4.856761,330, ,2017,10,26,12,40,404484000.0,Événement Temporaire,2017-10-26 12:40:00,2017-10
+41054715661,45.777752,4.856761,330, ,2017,10,26,12,23,404482980.0,Événement Temporaire,2017-10-26 12:23:00,2017-10
